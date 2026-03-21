@@ -1,0 +1,38 @@
+# 企業向けリーダーシップコーチ
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/corporate-leadership-coach?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 52
+- スキルカード数: 5
+
+## 主要スキル
+
+- **リーダーシップ評価**: 面談や360度評価で課題を見極める
+- **エグゼクティブ支援設計**: 目標と節目が明確な支援計画を設計する
+- **360度フィードバック運用**: 多面評価を実行し行動課題に落とし込む
+- **行動変容の追跡**: 行動変化を観察し目標達成度を確認する
+- **コーチング倫理と境界管理**: 守秘義務を守り支援範囲を適切に保つ
+
+## 関連ツール
+
+- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
+- [aicoursify-com](https://www.aimyflow.com/ja/ai/aicoursify-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AiCoursifyは、コース作成者やeラーニングの専門家が、トピックのプロンプトから数分でオンラインコース、クイズ、音声レッスン、課題、プレゼンテーションを作成できるよう支援するAIコース作成プラットフォームです。教育者、インストラクショナルデザイナー、研修チームにとって、手作業による作成時間を削減し、構造化されたマルチフォーマットの学習コンテンツ制作を加速できます。
+- [aidubbing-io](https://www.aimyflow.com/ja/ai/aidubbing-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Dubbing は、動画の翻訳、多言語ボイスオーバーの生成、字幕の追加、リップシンクの適用を支援する無料のオンライン動画吹き替えツールで、主にクリエイター、教育関係者、マーケター、研修チーム向けに設計されています。動画制作、ローカライゼーション、コンテンツ運用の担当者にとって、ブラウザベースの単一プロセスで文字起こし、吹き替え、字幕作成のワークフローを自動化し、多言語での公開を迅速化できます。
+- [aistudios-com](https://www.aimyflow.com/ja/ai/aistudios-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Studios は、テキスト、ドキュメント、URL、画像、または商品ページから動画を作成、編集、吹き替え、翻訳、公開できる AI 動画生成ツールで、主に研修チーム、マーケター、コンテンツ制作者を支援します。学習、マーケティング、動画制作の業務において、AI アバター、音声クローン、再利用可能なテンプレートを 1 つのワークスペースで活用し、多言語動画ワークフローを高速化できます。
+- [aitherapy-care](https://www.aimyflow.com/ja/ai/aitherapy-care?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fayeは、AIによる感情調整の伴走者であり、不安、ストレス、燃え尽き、喪失感、人間関係の問題、その他日常的な感情の課題に対して、プライベートで個別化された、CBTの知見に基づく対話を通じて対処を支援します。主に、治療の合間や治療外で、利用しやすいサポートを求める個人向けに設計されています。セラピストやメンタルヘルス周辺領域の専門職にとって、Fayeのようなツールは、クライアントがセッションの合間に感情調整スキルを実践し、感情のパターンに気づくのを助けることで、人によるケアをより的を絞ったものにします。
+- [beforesunset-ai](https://www.aimyflow.com/ja/ai/beforesunset-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BeforeSunset AI は、思考ややるべきことを優先順位付きのタスクに変換し、日々のスケジュールを作成し、集中して仕事に取り組めるよう支援する AI 搭載プランナーで、主に創業者、個人事業主、学生、その他多忙なプロフェッショナル向けに設計されています。多くの責任を同時に担う役割において、タスク作成、スケジューリング、集中支援ツールを1つのワークフローに統合することで、手動での計画にかかる時間を削減し、日々の実行をより安定したものにできます。
+- [craftedcourses-io](https://www.aimyflow.com/ja/ai/craftedcourses-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Crafted Courses の SparklingPeach は、教育者、研修担当者、学術コース作成者が、スライドや評価を含む専門的な学習コンテンツを生成、カスタマイズ、公開、管理できるよう支援する、AI 搭載のコース作成プラットフォームです。教育・研修チームにとっては、より一貫性のあるインストラクショナルデザイン、学習者の進捗追跡、従業員研修管理を支援しながら、コース制作を迅速化できます。
+- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/corporate-leadership-coach?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

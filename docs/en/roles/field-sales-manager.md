@@ -1,0 +1,38 @@
+# Field Sales Manager
+
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/field-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+
+## Snapshot
+
+- Tool matches: 116
+- Skill cards: 5
+
+## Core Skills
+
+- **Territory Planning**: Builds route, account, and visit plans to grow coverage and sales within the assigned territory.
+- **Pipeline & Forecast Control**: Reviews pipeline quality, stage progression, and forecast accuracy to manage target attainment.
+- **Channel Execution**: Ensures field promotions, merchandising standards, and distributor activities are executed at store level.
+- **Negotiation & Account Growth**: Leads customer negotiations on pricing, assortment, and terms to win business and expand accounts.
+- **Sales Compliance**: Maintains accurate field reporting and follows pricing, contract, and trade policy requirements.
+
+## Matched Tools
+
+- [2pr-io](https://www.aimyflow.com/en/ai/2pr-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): 2pr is an AI LinkedIn post generator and content workflow tool that helps users find post ideas, write authentic LinkedIn posts, create carousels, and schedule and analyze content, mainly for founders, B2B sales and marketing teams, bloggers, and job seekers. For professionals building a personal brand on LinkedIn, it can streamline ideation and drafting while using profile-based guidance to keep posts aligned with their expertise and positioning.
+- [ads-tiktok-com](https://www.aimyflow.com/en/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): TikTok for Business is an advertising platform that helps brands, agencies, and creators create, manage, and optimize campaigns for TikTok’s formats and audiences. In the AI era, it helps marketers test creative faster and improve performance through automated optimization and audience insights.
+- [affint-ai](https://www.aimyflow.com/en/ai/affint-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Affint is an AI office suite that helps teams and working professionals create presentations, documents, and spreadsheets by connecting business apps, gathering information, and automating content creation and workflows. For marketing, product, and sales teams, it can reduce manual research and context switching so they can produce branded deliverables and make faster, data-informed decisions.
+- [agentvoice-com](https://www.aimyflow.com/en/ai/agentvoice-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): AgentVoice is an AI voice agent platform for businesses and operations teams that handles inbound and outbound phone calls, schedules appointments, updates CRMs, sends texts, and automates workflows with no-code or API-based setup. In AI-driven customer operations, it can help sales, support, and call center teams reduce manual call handling and data entry while keeping customer conversations tied to real business systems.
+- [aiheadshotgenerator-media](https://www.aimyflow.com/en/ai/aiheadshotgenerator-media?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): AI Headshot Generator is an AI photo tool that turns 4 or more selfies into professional headshots for LinkedIn, resumes, websites, and team profiles, mainly for job seekers, professionals, and companies needing consistent portraits. For recruiters, marketers, and people-facing teams, it can speed profile updates and strengthen digital-first credibility without coordinating traditional photoshoots.
+- [aipptmaker-ai](https://www.aimyflow.com/en/ai/aipptmaker-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): AI PPT Maker is a free online AI presentation generator that turns text, PDFs, websites, videos, audio, and other files into editable PowerPoint slide decks, mainly for professionals, educators, and entrepreneurs who need presentations quickly. For business, teaching, and client-facing roles, it can reduce manual slide-building by automatically structuring source content into presentation-ready outlines and visuals.
+- [anvevoice-app](https://www.aimyflow.com/en/ai/anvevoice-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): AnveVoice is a website voice AI platform that helps businesses add a voice assistant to answer visitor questions, guide navigation, fill forms, and complete tasks, mainly for website owners, support teams, and growth-focused businesses. In AI-enabled web operations, it can help customer support, marketing, and sales teams reduce manual handling while capturing more intent-rich visitor interactions directly on the site.
+- [arka-so](https://www.aimyflow.com/en/ai/arka-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Arka is an AI revenue insights platform that helps revenue teams forecast revenue, detect churn and expansion signals, and automate reporting from connected customer, product, and support data. For customer success, account management, sales, and revenue operations teams, it can speed renewals and account prioritization by turning live data into clearer risk and growth signals.
+
+## Continue on AimyFlow
+
+- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
+- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
+- [See community voting](https://www.aimyflow.com/en/role/field-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+
+## Notes
+
+- This GitHub page is intentionally short. Community voting, multilingual page variants and workflow content live on the main AimyFlow site.
+

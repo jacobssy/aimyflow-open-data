@@ -1,0 +1,38 @@
+# テクニカルライター
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/technical-writer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 229
+- スキルカード数: 5
+
+## 主要スキル
+
+- **情報設計**: 複雑な製品情報を検索しやすい文書構成と導線に整理する。
+- **API文書作成**: 仕様や検証結果を基に、エンドポイントや認証、例を正確に文書化する。
+- **スタイルガイド運用**: 用語、文体、構文、書式の基準を定め、文書全体で一貫して適用する。
+- **有識者ヒアリング**: エンジニアや担当者から不足情報を引き出し、暗黙知を実用的な手順へ落とし込む。
+- **文書品質検証**: 公開前に技術的正確性、網羅性、版管理の整合性、手順の使いやすさを確認する。
+
+## 関連ツール
+
+- [accordio-ai](https://www.aimyflow.com/ja/ai/accordio-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Accordio は、フリーランサー向けの AI 管理プラットフォームで、契約書や提案書の作成、時間管理、請求書の送付、支払いの回収、クライアントへのフォローアップ管理を一元的に行えるよう支援します。フリーランスのデザイナー、コンサルタント、エージェンシー、クリエイターにとって、このようなツールは反復的なバックオフィス業務を削減し、AI が日常的な調整業務を担うことで、クライアント対応の業務をより迅速かつ一貫性のあるものにします。
+- [agent-blackbox-ai-api](https://www.aimyflow.com/ja/ai/agent-blackbox-ai-api?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BLACKBOX AI Agent は、開発者やエンジニアリングチームが複数の AI エージェントでコーディングタスクを実行し、実装を比較し、コードリポジトリに変更を適用するための REST API です。AI 支援によるソフトウェア開発では、並列エージェント実行と選択レイヤーを用いて最も優れた実装を特定することで、エンジニアやテクニカルリードがモデル出力をより効率的に評価するのに役立ちます。
+- [aiblogue-com](https://www.aimyflow.com/ja/ai/aiblogue-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI.Blogue は、クリエイターやマーケターが、読者とのつながりを生み出し、現代の AI 検索における LLM SEO を支援することを目的としたコンテンツで、ブログの執筆、公開、成長を支援する AI ブログプラットフォームです。コンテンツマーケター、SEO スペシャリスト、独立系パブリッシャーにとって、AI 主導の検索環境での発見性を高めながら、記事制作を効率化できます。
+- [aibookpublishinghub-com](https://www.aimyflow.com/ja/ai/aibookpublishinghub-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Book Publishing Hub は、AI を活用した書籍制作プラットフォームであり、著者が書籍や個人的な物語の企画、執筆、編集、書き出しを行えるよう支援します。Amazon KDP に対応した PDF 出力に加え、アウトライン作成、章生成、リライト、進捗管理のためのツールを備えています。著者、セルフパブリッシャー、コンテンツ制作の専門家にとって、これらの AI ワークフローは、アイデアから出版までをより体系的に進めながら、下書き作成と改稿のスピード向上に役立ちます。
+- [aibooksummarizer-com](https://www.aimyflow.com/ja/ai/aibooksummarizer-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Book Summarizer は、アップロードされた PDF、EPUB、または TXT の書籍を、簡潔な要約と章単位の回答に変換する AI ツールであり、主に、より速く内容を理解する必要がある学生、専門職、一般の読者向けに設計されています。AI を活用した読書ワークフローにおいては、学習者やナレッジワーカーが、教科書、研究資料、ビジネス書をより効率的にレビューし、何を全文で学ぶべきかを判断する前段階で役立ちます。
+- [aidiagrammaker-com](https://www.aimyflow.com/ja/ai/aidiagrammaker-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Diagram Maker は、開発者やソフトウェアチームが、平易な英語、コード、リポジトリ、画像、またはメモから、ソフトウェアアーキテクチャ、UML、シーケンス、ERD、フロー図を作成、編集、エクスポートできるよう支援する AI ダイアグラム作成ツールです。ソフトウェアアーキテクト、バックエンドエンジニア、テクニカルリードにとって、進化し続けるシステムのアイデアを最新の開発ワークフロー内で直接編集可能な図に変換することで、ドキュメント作成や設計レビューを高速化できます。
+- [aidubbing-io](https://www.aimyflow.com/ja/ai/aidubbing-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Dubbing は、動画の翻訳、多言語ボイスオーバーの生成、字幕の追加、リップシンクの適用を支援する無料のオンライン動画吹き替えツールで、主にクリエイター、教育関係者、マーケター、研修チーム向けに設計されています。動画制作、ローカライゼーション、コンテンツ運用の担当者にとって、ブラウザベースの単一プロセスで文字起こし、吹き替え、字幕作成のワークフローを自動化し、多言語での公開を迅速化できます。
+- [aigirlfriend-wtf](https://www.aimyflow.com/ja/ai/aigirlfriend-wtf?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Girlfriend WTFは、ユーザーがバーチャルなガールフレンドを作成または選択し、彼女たちとチャットやロールプレイを行い、パーソナライズされたNSFW画像や音声インタラクションを生成できる、成人向けのAIコンパニオンプラットフォームです。消費者向けAIプロダクトチームや会話設計者にとって、これはマルチモーダルなパーソナライゼーションが、成人向けロールプレイやコンパニオンチャットを、より文脈を踏まえた個別最適化された体験として実現できることを示しています。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/technical-writer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

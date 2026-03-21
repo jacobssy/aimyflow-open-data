@@ -1,0 +1,27 @@
+# Wartungsleiter
+
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Maintenance-Leads?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+
+## Überblick
+
+- Zugeordnete Tools: 0
+- Skill-Karten: 5
+
+## Kernkompetenzen
+
+- **Planung vorbeugender Instandhaltung**: Erstellt und steuert Wartungspläne, um Ausfälle und Stillstände zu senken.
+- **Störungsdiagnose**: Leitet die technische Fehlersuche, findet Ursachen und nimmt Anlagen sicher wieder in Betrieb.
+- **Arbeitsauftragssteuerung**: Priorisiert, verteilt und verfolgt Arbeitsaufträge, damit die Instandhaltung planmäßig läuft.
+- **Sicherheits- und Compliance-Steuerung**: Setzt Freischaltungen, Genehmigungen und Standards durch, um Sicherheit und Vorgaben einzuhalten.
+- **Ersatzteilmanagement**: Steuert kritische Ersatzteile, Bestände und Nachschub für eine zuverlässige Instandhaltung.
+
+## Auf AimyFlow fortfahren
+
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Maintenance-Leads?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+
+## Hinweise
+
+- Diese GitHub-Seite ist bewusst kurz gehalten. Community-Votings, mehrsprachige Varianten und Workflow-Inhalte liegen auf der Hauptseite von AimyFlow.
+

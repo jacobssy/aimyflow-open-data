@@ -1,0 +1,38 @@
+# グラフィックデザイナー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/graphic-designer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 291
+- スキルカード数: 5
+
+## 主要スキル
+
+- **ビジュアルアイデンティティ設計**: ロゴや配色、書体を設計し、一貫したブランド表現を整える。
+- **レイアウト設計**: 文字、画像、余白を整理し、視線誘導と読みやすさを高める。
+- **入稿データ制作**: サイズ、塗り足し、解像度を整え、印刷・配信用データを仕上げる。
+- **タイポグラフィ運用**: 媒体や内容に合わせて書体、階層、字間を適切に設計する。
+- **デザイン仕様準拠**: ブランドガイドラインや納品仕様を守り、制作物の品質を揃える。
+
+## 関連ツール
+
+- [accordio-ai](https://www.aimyflow.com/ja/ai/accordio-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Accordio は、フリーランサー向けの AI 管理プラットフォームで、契約書や提案書の作成、時間管理、請求書の送付、支払いの回収、クライアントへのフォローアップ管理を一元的に行えるよう支援します。フリーランスのデザイナー、コンサルタント、エージェンシー、クリエイターにとって、このようなツールは反復的なバックオフィス業務を削減し、AI が日常的な調整業務を担うことで、クライアント対応の業務をより迅速かつ一貫性のあるものにします。
+- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
+- [aiai-com-image-ai-text-to-image-generator](https://www.aimyflow.com/ja/ai/aiai-com-image-ai-text-to-image-generator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIAI Text to Image Generator は、テキストによるプロンプトを、モデル、解像度、アスペクト比、プロンプトオプションを調整可能な画像へ変換する Web ベースの AI ツールで、主にビジュアルコンテンツを制作するクリエイター、デザイナー、マーケター向けです。AI を活用したクリエイティブワークフローにおいては、チームが手作業のデザインや写真撮影に投資する前に、キャンペーン、商品画像、ソーシャルコンテンツ向けのアイデア創出を加速し、ビジュアルのたたき台を作成できます。
+- [aibabydance-com](https://www.aimyflow.com/ja/ai/aibabydance-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Baby Dance Generator は、赤ちゃんの写真をテンプレートまたはアップロードしたダンス参考動画を使って短いダンス動画に変換するオンラインAIツールで、主にソーシャル向けクリップや家族の記念用コンテンツを作成する親向けに設計されています。AI主導のコンテンツ制作ワークフローでは、動画編集スキルがなくても、ソーシャルメディアクリエイターや家族向けコンテンツ制作者が共有しやすい短尺動画をより迅速に制作するのに役立ちます。
+- [aiclothes-ai](https://www.aimyflow.com/ja/ai/aiclothes-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Clothes Changer は、ユーザーが写真をアップロードし、衣類画像またはテキストプロンプトで服装を差し替え、リアルな衣類変更を生成できる AI 搭載のバーチャル試着ツールで、主にファッション販売業者、デザイナー、コンテンツクリエイター、オンラインショッパー向けです。AI 主導のファッションワークフローでは、EC チームやクリエイティブチームがスタイリングの選択肢をより迅速に検証し、繰り返しの写真撮影や手作業による編集なしでコーディネートのプレビューを作成するのに役立ちます。
+- [aicoloranalysis-ai](https://www.aimyflow.com/ja/ai/aicoloranalysis-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIカラー分析は、アップロードされた写真を解析して、ユーザーのパーソナルカラーシーズン、アンダートーン、コントラスト、そして個別に最適化されたカラーパレットを特定するオンラインのAIスタイリングツールです。主に、自分に似合う服、メイク、ヘアカラー、アクセサリーを選びたい人向けに設計されています。スタイリスト、美容の専門家、そして見た目にこだわる買い物客にとって、色に基づく提案を迅速化し、ワードローブや美容の選択全体にわたる視覚的な意思決定の一貫性を高めるのに役立ちます。
+- [aiimagetoimage-io](https://www.aimyflow.com/ja/ai/aiimagetoimage-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIImagetoImage.io は、無料の AI 画像変換ジェネレーターで、テキストプロンプトを使って写真の編集や変換を行えるよう支援します。スタイル変更、オブジェクトの差し替え、背景除去、ヘッドショット、復元、アウトペインティングに対応しており、主に迅速なビジュアルバリエーションを必要とするクリエイター、マーケター、デザイナー向けです。AI 主導のコンテンツ制作ワークフローでは、手作業による編集よりも短時間で、1 枚の元画像から複数の一貫性あるアセットを作成するのに役立ちます。
+- [aijewelrymodel-app](https://www.aimyflow.com/ja/ai/aijewelrymodel-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Jewelry Model は、AI を活用したジュエリー写真撮影およびバーチャル試着ツールで、商品写真を、モデルが着用しているようなリアルな画像へと変換し、Etsy、Shopify、TikTok Shop、Amazon Handmade などのマーケットプレイスで販売するEC事業者を支援します。従来のジュエリー撮影を手配することなく、オンラインストア運営者、マーケター、マーチャンダイザーが、商品掲載用ビジュアル、広告バリエーション、一貫性のある画像セットをより迅速に作成するのに役立ちます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/graphic-designer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

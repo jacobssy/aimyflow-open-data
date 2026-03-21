@@ -1,0 +1,38 @@
+# コピーライター
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/copywriter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 440
+- スキルカード数: 5
+
+## 主要スキル
+
+- **メッセージ戦略**: 顧客理解とブランド方針から訴求の核を設計する。
+- **見出し作成**: 注意を引き、訴求を瞬時に伝える見出しを書く。
+- **媒体別調整**: 媒体特性や導線段階に合わせてコピーを調整する。
+- **ブランドトーン管理**: 商品や対象に応じつつ、一貫したブランドトーンを保つ。
+- **コピー校正**: 明確さ、表現の正確性、法務面を確認して公開品質に整える。
+
+## 関連ツール
+
+- [2pr-io](https://www.aimyflow.com/ja/ai/2pr-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2pr は、ユーザーが投稿のアイデアを見つけ、本物らしい LinkedIn 投稿を作成し、カルーセルを作成し、コンテンツのスケジュール設定と分析を行えるよう支援する、AI 搭載の LinkedIn 投稿生成・コンテンツワークフローツールです。主に、創業者、B2B の営業・マーケティングチーム、ブロガー、求職者向けに設計されています。LinkedIn でパーソナルブランドを構築するプロフェッショナルにとっては、プロフィールに基づくガイダンスを活用して、投稿を自分の専門性やポジショニングに沿ったものに保ちながら、アイデア出しや下書き作成を効率化できます。
+- [2pr-io-carousel](https://www.aimyflow.com/ja/ai/2pr-io-carousel?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2PR LinkedIn Carousel Generator は、記事、メモ、動画、その他の元コンテンツを、編集可能な LinkedIn カルーセルスライドや PDF に変換する AI 搭載ツールで、主に創業者、B2B の営業・マーケティングチーム、クリエイター、ブロガー、求職者向けに設計されています。ソーシャルメディアやコンテンツの担当者にとっては、長尺コンテンツを構造化されたビジュアル投稿へと再活用する作業を効率化しつつ、ブランディングやメッセージの一貫性を保ちやすくします。
+- [accordio-ai](https://www.aimyflow.com/ja/ai/accordio-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Accordio は、フリーランサー向けの AI 管理プラットフォームで、契約書や提案書の作成、時間管理、請求書の送付、支払いの回収、クライアントへのフォローアップ管理を一元的に行えるよう支援します。フリーランスのデザイナー、コンサルタント、エージェンシー、クリエイターにとって、このようなツールは反復的なバックオフィス業務を削減し、AI が日常的な調整業務を担うことで、クライアント対応の業務をより迅速かつ一貫性のあるものにします。
+- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
+- [adsoar-ai](https://www.aimyflow.com/ja/ai/adsoar-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ADSoarは、公式の広告プラットフォームデータとAIスコアリングを活用し、広告主、メディアバイヤー、PPCチームが成果の出る広告を見つけ、競合をベンチマークし、各国への展開を追跡できるよう支援するGoogle広告のインテリジェンスおよび競合調査ツールです。AI主導の広告運用においては、パフォーマンスマーケターや代理店が手作業による広告レビューを減らし、クリエイティブ、ターゲティング、市場参入に関して、より根拠に基づいた意思決定を行うのに役立ちます。
+- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
+- [aiai-com-image-ai-text-to-image-generator](https://www.aimyflow.com/ja/ai/aiai-com-image-ai-text-to-image-generator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIAI Text to Image Generator は、テキストによるプロンプトを、モデル、解像度、アスペクト比、プロンプトオプションを調整可能な画像へ変換する Web ベースの AI ツールで、主にビジュアルコンテンツを制作するクリエイター、デザイナー、マーケター向けです。AI を活用したクリエイティブワークフローにおいては、チームが手作業のデザインや写真撮影に投資する前に、キャンペーン、商品画像、ソーシャルコンテンツ向けのアイデア創出を加速し、ビジュアルのたたき台を作成できます。
+- [aiangels-io](https://www.aimyflow.com/ja/ai/aiangels-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Angels は、メモリ、音声チャット、ロールプレイ、無修正のやり取りを備えたカスタマイズ可能なバーチャル彼女とユーザーが会話できる、成人専用のAIコンパニオンプラットフォームであり、主に娯楽や疑似的な companionship を求める成人向けに設計されています。消費者向けAI製品チームや対話デザイナーにとっては、メモリ、人格の一貫性、音声機能が、チャット体験をより継続的で魅力的に感じさせる方法を示しています。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/copywriter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

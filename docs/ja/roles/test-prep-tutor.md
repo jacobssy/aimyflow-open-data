@@ -1,0 +1,38 @@
+# 試験対策講師
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/test-prep-tutor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 30
+- スキルカード数: 5
+
+## 主要スキル
+
+- **診断評価**: 現状の学力と得点課題を見極める。
+- **学習計画設計**: 目標と期限に合わせて学習計画を組み立てる。
+- **試験戦略指導**: 時間配分や解答手順など得点戦略を指導する。
+- **弱点補強指導**: 頻出の弱点を分野別の演習で補強する。
+- **進捗管理**: 模試結果や課題データで指導内容を調整する。
+
+## 関連ツール
+
+- [evalyy-com](https://www.aimyflow.com/ja/ai/evalyy-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Evalyyは、AIを活用したクイズおよび動画生成プラットフォームで、章ごとのPDFを、試験対策や学習支援を行う教師・生徒・保護者向けのインタラクティブな評価コンテンツや教育動画に変換します。教育や学習のワークフローにおいては、既存の教材からカリキュラムに沿った問題セットや多言語の解説を生成することで、コンテンツ作成や復習を効率化できます。
+- [flashbackstudy-com](https://www.aimyflow.com/ja/ai/flashbackstudy-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Flashback は、PDF、YouTube 動画、Notion ページ、貼り付けたテキストなどの教材を、フラッシュカード、クイズ、アクティブリコール学習セッションに変換することで、学生の学習を支援する AI 学習パートナーです。学生やその他の学習者にとって、想起練習を自動化し、より強固な定着と理解を支える即時フィードバックを提供することで、試験対策を効率化できます。
+- [flashka-ai](https://www.aimyflow.com/ja/ai/flashka-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Flashka は、学生がノートやハイライトしたテキストからフラッシュカードを作成し、間隔反復で復習し、多くの教科や言語にわたるクイズで理解度を確認できる AI 学習ツールです。学習者や教育者にとって、これは学習準備を効率化し、元の教材をより速く構造化された演習へと変換することで、長期的な定着の強化に役立ちます。
+- [hisocra-com](https://www.aimyflow.com/ja/ai/hisocra-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Socraは、対話型学習、想起練習、再利用できる学習ノートで理解を深めるソクラテス式AI家庭教師プラットフォームです。学習過程を記録し、構造化された教材として活用できます。
+- [hkuds-github-io-DeepTutor](https://www.aimyflow.com/ja/ai/hkuds-github-io-DeepTutor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DeepTutorはAI学習アシスタントであり、文書を、文書Q&A、段階的な問題解決、クイズ生成、ガイド付き学習、研究支援を備えたインタラクティブな学習リソースに変換します。主な対象は学生、教育者、研究者です。AI支援による教育および研究のワークフローにおいて、検索、ナレッジグラフ、出典付きのマルチエージェント推論を組み合わせることで、これらのユーザーが複雑な資料をより効率的に学習・分析できるよう支援します。
+- [honen-com](https://www.aimyflow.com/ja/ai/honen-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Honen は AI を活用した学習プラットフォームで、学習者や組織があらゆるトピックについて、さまざまな形式のコースを作成または受講できるよう支援します。個人向け AI チューターが、レッスン内容、進度、形式を適応させます。教育者、研修担当者、人的資本開発チームにとっては、既存の教材からのコース作成を迅速化しながら、異なる学習ニーズに応じた個別最適化された指導を実現できます。
+- [knowt-com](https://www.aimyflow.com/ja/ai/knowt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Knowtは、学生や教師向けにフラッシュカードの作成、インポート、学習を複数モードで行える学習プラットフォームです。学習コンテンツの再利用と復習を効率化し、授業全体に展開しやすくします。
+- [languagetool-org](https://www.aimyflow.com/ja/ai/languagetool-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): LanguageToolは、30以上の言語で文法、スペル、句読点、文体をチェックできるAI文章校正ツールです。学生やビジネス利用者、多言語チームの文章作成と編集を効率化します。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/test-prep-tutor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

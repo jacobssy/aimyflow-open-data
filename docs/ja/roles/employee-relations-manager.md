@@ -1,0 +1,38 @@
+# 労務マネージャー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/employee-relations-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 23
+- スキルカード数: 5
+
+## 主要スキル
+
+- **社内調査**: 申立てを中立に調査し、事実認定と対応案をまとめる。
+- **労務法令遵守**: 労働法と社内規程に沿って懲戒や労務課題を運用する。
+- **苦情対応**: 苦情を整理し、調整と判断を通じて適切に収束させる。
+- **懲戒運用**: 証拠、手続、公平性を踏まえて懲戒を適切に進める。
+- **労務リスク分析**: 事案傾向や人員データを分析し、労務リスクの拡大を防ぐ。
+
+## 関連ツール
+
+- [candidatesearch-ai](https://www.aimyflow.com/ja/ai/candidatesearch-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Candidate Search AI は、応募者追跡システム向けの AI 搭載検索エンジンであり、採用担当者や人材派遣チームが既存の候補者データベースを自然言語で検索し、候補者を職務記述書に照合し、フィルターや追加クエリで結果を絞り込むのを支援します。AI を活用した採用ワークフローでは、タレントアクイジションの担当者が手作業によるソーシングを削減し、ATS データからより適合度の高い候補者をより迅速に見つけ出すのに役立ちます。
+- [empirio-ai](https://www.aimyflow.com/ja/ai/empirio-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Empirio は、AI を活用したアンケート作成ツールで、企業、学校、大学、学生が、テンプレート、ドラッグ＆ドロップ編集、リアルタイム分析を使って、オンラインアンケートをすばやく作成、カスタマイズ、公開、分析できるよう支援します。人事、顧客体験、プロダクト、リサーチの各チームにとって、AI が生成する設問と即時サマリーにより、アンケート設定の時間を短縮し、フィードバックをより迅速な意思決定につなげるのに役立ちます。
+- [financialfitnesspassport-com](https://www.aimyflow.com/ja/ai/financialfitnesspassport-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Financial Fitness Passport は、AI を活用したファイナンシャルガイダンスソフトウェアであり、個人が自身の家計の健全性を理解し、退職後や負債に関するシナリオをシミュレーションし、個別最適化されたロードマップを構築できるよう支援します。中核となるツールは、消費者向けおよび雇用主のファイナンシャルウェルネスプログラムに適しています。ファイナンシャルコーチ、人事チーム、福利厚生の責任者にとっては、プライバシーを重視し、銀行口座との連携を不要とするアプローチにより、口座への直接アクセスを求めることなく、より明確な金融教育とプランニングを支援できます。
+- [fitzhr-com](https://www.aimyflow.com/ja/ai/fitzhr-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fitz HR は、オーストラリアのホスピタリティ業界向けの AI 搭載 HR ソフトウェアで、パブ、レストラン、カフェ、ホテルにおける award rates、雇用契約、警告書、Fair Work コンプライアンスの管理を支援します。店舗オーナー、マネージャー、人事チームにとって、日常的な人事判断や文書作成を迅速化しながら、ホスピタリティ業界の労働法へのより一貫した準拠を支援します。
+- [freecolorquiz-com](https://www.aimyflow.com/ja/ai/freecolorquiz-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 四色DISC性格診断は、Four-ColorとDISCの手法を組み合わせたオンライン性格テストで、主に自己成長や職場でのコミュニケーションのために、個人が自分の行動スタイル、強み、コミュニケーションの傾向を理解するのに役立ちます。管理職、チームリーダー、コーチにとっては、AI支援によるレポートや会話サポートを通じて、診断結果をより実践的なコミュニケーション、フィードバック、協働の戦略へとつなげるのに役立ちます。
+- [gaslightingcheck-com](https://www.aimyflow.com/ja/ai/gaslightingcheck-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Gaslighting Check は、主に難しい個人的または職場での会話を理解しようとしている人々に向けて、テキスト、音声、画像にガスライティング、操作、感情的虐待の兆候がないかを確認するのを支援する AI 分析ツールです。AI 支援ワークフローでは、セラピスト、カウンセラー、人事関連の専門職が会話の証拠を整理し、繰り返される操作パターンをより効率的に見つけるのに役立ちます。
+- [generate-folderly-com](https://www.aimyflow.com/ja/ai/generate-folderly-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Folderly EmailGenは、実績あるテンプレートからパーソナライズされたコールドメールを作成し、スパムチェックも行うAIメール生成ツールです。営業・マーケティングのアウトバウンド効率を高めます。
+- [hyring-com](https://www.aimyflow.com/ja/ai/hyring-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Hyring は、採用担当者や人事チームが履歴書スクリーニング、電話スクリーニング、動画面接、コーディング面接、英語力評価を自動化し、候補者の絞り込みをより迅速に行えるよう支援する AI 採用ソフトウェアです。採用およびタレントアクイジションの専門職向けに、初期選考における反復的な評価業務を削減するとともに、構造化されたスコアリング、文字起こし、不正監督シグナルを追加することで、より一貫性のある人による採用判断を支援します。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/employee-relations-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

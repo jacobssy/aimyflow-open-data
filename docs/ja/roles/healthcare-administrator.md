@@ -1,0 +1,38 @@
+# 医療管理者
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/healthcare-administrator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 44
+- スキルカード数: 5
+
+## 主要スキル
+
+- **診療運営計画**: 人員配置や診療枠を調整し、需要に合う運営を維持する。
+- **医療コンプライアンス**: 医療規制や認証基準、院内方針を日常業務に確実に反映する。
+- **収益サイクル管理**: 請求、コーディング、審査請求、入金管理を通じて減点や返戻を抑える。
+- **品質・実績管理**: 運営指標と医療指標を追跡し、課題把握と業務改善につなげる。
+- **医療情報管理**: 患者記録の正確性、情報統制、文書運用を保ち、安全で適正な業務を支える。
+
+## 関連ツール
+
+- [aitherapy-care](https://www.aimyflow.com/ja/ai/aitherapy-care?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fayeは、AIによる感情調整の伴走者であり、不安、ストレス、燃え尽き、喪失感、人間関係の問題、その他日常的な感情の課題に対して、プライベートで個別化された、CBTの知見に基づく対話を通じて対処を支援します。主に、治療の合間や治療外で、利用しやすいサポートを求める個人向けに設計されています。セラピストやメンタルヘルス周辺領域の専門職にとって、Fayeのようなツールは、クライアントがセッションの合間に感情調整スキルを実践し、感情のパターンに気づくのを助けることで、人によるケアをより的を絞ったものにします。
+- [assemblyai-com-universal-3-pro](https://www.aimyflow.com/ja/ai/assemblyai-com-universal-3-pro?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AssemblyAI の Universal-3 Pro は、音声 AI、医療、法務、コンタクトセンター、会話インテリジェンスのユースケース向けに、自然言語プロンプト、ドメインコンテキスト、話者の役割、重要用語、言いよどみ、音声イベントのタグ付けによって、開発者が文字起こしを制御できるよう支援する、プロンプト対応の音声言語モデルです。AI ワークフローでは、エンジニアやプロダクトチームが、分析や自動化に向けた後工程での修正や後処理を削減しつつ、よりアプリケーション固有の文字起こしを最初から生成するのに役立ちます。
+- [assindo-com](https://www.aimyflow.com/ja/ai/assindo-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Assindo は、電話の発信・応対、Web 検索、ソーシャルメディアへの投稿、タスクのスケジュール設定、複数ステップの作業管理を支援する個人向け AI エージェントです。主に、設定作業やサーバー管理なしで自動化を利用したい非技術系ユーザー向けに設計されています。オペレーション、事務、顧客対応の業務では、依頼を完了済みのタスクに変換することで、電話対応、フォローアップ、定型的な調整業務にかかる時間を削減できます。
+- [autonotes-ai](https://www.aimyflow.com/ja/ai/autonotes-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AutoNotes は、AI を活用した臨床文書作成ソフトウェアであり、セラピストや行動保健の専門職が、書面、口述、アップロード、または録音されたセッションから、コンプライアンスに準拠した経過記録、SOAP ノートおよび DAP ノート、治療計画、セッション要約を作成できるよう支援します。セラピスト、ソーシャルワーカー、実務チーム向けに、編集可能で構造化された記録やセッション間の継続性を維持しながら、管理上の文書作成業務を削減できます。
+- [aws-amazon-com-health-connect-health](https://www.aimyflow.com/ja/ai/aws-amazon-com-health-connect-health?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Amazon Connect Health は、医療提供者およびヘルステクノロジー開発者向けの AWS の医療 AI プラットフォームであり、既存のケアワークフローの中で、患者確認、予約管理、患者インサイト、アンビエント臨床文書化、医療コーディングを支援します。AI を活用した医療オペレーションにおいては、臨床医、コンタクトセンターチーム、コーダーが、人的レビューとソースのトレーサビリティを維持しながら、文書作成やスケジューリングに費やす時間を削減できるよう支援します。
+- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
+- [chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio](https://www.aimyflow.com/ja/ai/chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Decision Forcing Studio は、主に時間的制約のある文書上の意思決定や監督レビュー案件を扱う人向けに、緑・黄・赤などの視覚的な緊急度表示を用いて、依頼や応答の組み立てを支援するカスタム ChatGPT ストラテジストです。AI 支援ワークフローにおいて、これはポリシー、コンプライアンス、ケース処理の担当者が緊急度をより一貫して伝え、エスカレーション関連の文書作成をより明確な優先順位付けで構成するのに役立ちます。
+- [claude-com-solutions-healthcare](https://www.aimyflow.com/ja/ai/claude-com-solutions-healthcare?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Claude は、医療機関向けの HIPAA 対応 AI ツールであり、医療システムやスタートアップが、事前承認、保険請求の異議申し立て、患者メッセージのトリアージ、臨床文書作成を、より高い精度・安全性・コンプライアンスで処理できるよう支援します。臨床医、運用チーム、医療系開発者にとって、管理業務の負担を軽減し、レビュー、記録作成、振り分け業務を迅速化することで、患者ケアやより付加価値の高い意思決定に、より多くの時間を充てられるようにします。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/healthcare-administrator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

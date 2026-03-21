@@ -1,0 +1,38 @@
+# 外勤営業マネージャー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/field-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 116
+- スキルカード数: 5
+
+## 主要スキル
+
+- **担当地域戦略**: 担当エリアの訪問計画と顧客配分を設計し、売上拡大につなげる。
+- **案件管理と予測**: 案件の質、進捗、予測精度を管理し、目標達成を見通す。
+- **チャネル運用**: 店頭で販促、陳列基準、代理店施策が確実に実行されるよう管理する。
+- **商談と取引拡大**: 価格、品揃え、条件を交渉し、受注獲得と取引拡大を進める。
+- **営業コンプライアンス**: 現場報告の正確性を保ち、価格、契約、販促規程を順守する。
+
+## 関連ツール
+
+- [2pr-io](https://www.aimyflow.com/ja/ai/2pr-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2pr は、ユーザーが投稿のアイデアを見つけ、本物らしい LinkedIn 投稿を作成し、カルーセルを作成し、コンテンツのスケジュール設定と分析を行えるよう支援する、AI 搭載の LinkedIn 投稿生成・コンテンツワークフローツールです。主に、創業者、B2B の営業・マーケティングチーム、ブロガー、求職者向けに設計されています。LinkedIn でパーソナルブランドを構築するプロフェッショナルにとっては、プロフィールに基づくガイダンスを活用して、投稿を自分の専門性やポジショニングに沿ったものに保ちながら、アイデア出しや下書き作成を効率化できます。
+- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
+- [affint-ai](https://www.aimyflow.com/ja/ai/affint-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Affint は、業務アプリを連携し、情報を収集し、コンテンツ作成とワークフローを自動化することで、チームやビジネスパーソンによるプレゼンテーション、ドキュメント、スプレッドシートの作成を支援する AI オフィススイートです。マーケティング、プロダクト、営業チーム向けに、手作業の調査やコンテキストスイッチを減らし、ブランドに沿った成果物の作成と、データに基づく意思決定の迅速化を実現します。
+- [agentvoice-com](https://www.aimyflow.com/ja/ai/agentvoice-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AgentVoice は、企業およびオペレーションチーム向けの AI 音声エージェントプラットフォームであり、着信・発信対応、予約のスケジュール、CRM の更新、テキスト送信、そしてノーコードまたは API ベースの設定によるワークフロー自動化を行います。AI 主導の顧客対応オペレーションにおいては、顧客との会話を実際の業務システムに連携させたまま、営業、サポート、コールセンターチームの手作業による電話対応やデータ入力の削減を支援します。
+- [aiheadshotgenerator-media](https://www.aimyflow.com/ja/ai/aiheadshotgenerator-media?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Headshot Generator は、4枚以上の自撮り写真を、LinkedIn、履歴書、Webサイト、チームプロフィール向けのプロフェッショナルなヘッドショットに変換するAI写真ツールで、主に求職者、ビジネスパーソン、一貫性のあるポートレートを必要とする企業向けに設計されています。採用担当者、マーケター、対人業務のチームにとっては、従来の写真撮影を手配することなく、プロフィール更新を迅速化し、デジタルファースト時代における信頼性の強化に役立ちます。
+- [aipptmaker-ai](https://www.aimyflow.com/ja/ai/aipptmaker-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI PPT Maker は、テキスト、PDF、ウェブサイト、動画、音声、その他のファイルを編集可能な PowerPoint スライドデッキに変換する無料のオンライン AI プレゼンテーション生成ツールで、主に迅速にプレゼン資料を必要とするビジネスパーソン、教育関係者、起業家向けです。ビジネス、教育、顧客対応の業務において、ソースコンテンツをプレゼン向けのアウトラインやビジュアルへ自動的に構成することで、手作業でのスライド作成を削減できます。
+- [anvevoice-app](https://www.aimyflow.com/ja/ai/anvevoice-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AnveVoice は、訪問者の質問への回答、ナビゲーションの案内、フォーム入力、タスク完了を支援する音声アシスタントをウェブサイトに追加できる、ウェブサイト向け音声AIプラットフォームです。主に、ウェブサイト運営者、サポートチーム、成長重視の企業を対象としています。AIを活用したウェブ運用においては、顧客サポート、マーケティング、営業チームが、サイト上で意図の明確な訪問者インタラクションをより多く獲得しながら、手作業による対応を削減するのに役立ちます。
+- [arka-so](https://www.aimyflow.com/ja/ai/arka-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ArkaはAIを活用した収益インサイトプラットフォームであり、収益チームが売上予測、解約およびアップセルのシグナル検出、接続された顧客・製品・サポートデータに基づくレポート作成の自動化を行えるよう支援します。カスタマーサクセス、アカウント管理、営業、レベニューオペレーションの各チームに対して、リアルタイムデータをより明確なリスクおよび成長シグナルに変換することで、更新の迅速化とアカウントの優先順位付けを可能にします。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/field-sales-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

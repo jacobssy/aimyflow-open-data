@@ -1,0 +1,38 @@
+# 音楽好き
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Music%20Lover?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 47
+- スキルカード数: 5
+
+## 主要スキル
+
+- **試聴分析**: 旋律やリズム、編曲の特徴を聴き分ける。
+- **ジャンル理解**: 各ジャンルの特徴や主要アーティスト、系譜を把握する。
+- **プレイリスト設計**: 流れや雰囲気、テンポ感を考えてプレイリストを組む。
+- **新譜チェック**: 新譜や再発、アーティストの動向を継続的に追う。
+- **音源形式理解**: 音源形式やマスタリング差、再生品質の違いを理解する。
+
+## 関連ツール
+
+- [aimusicgen-ai](https://www.aimyflow.com/ja/ai/aimusicgen-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIMusicGen.ai は、テキスト、歌詞、または楽曲の説明を、ロイヤリティフリーのボーカルまたはインストゥルメンタルトラックへオンラインで変換できる AI 音楽生成ツールであり、主にコンテンツクリエイター、マーケター、音楽業界のプロフェッショナルを支援します。AI を活用した制作ワークフローにおいては、動画、広告、音楽チーム向けのサウンドトラックの草案作成、デモ制作、キャンペーン用音声開発を迅速化できます。
+- [aimusicgen-me](https://www.aimyflow.com/ja/ai/aimusicgen-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Music Gen は、テキストプロンプトを楽曲、BGM、ボーカルトラックに変換する AI 音楽生成ツールで、主に YouTuber、ストリーマー、ポッドキャスター、Vlogger などのコンテンツクリエイター向けです。AI 主導のメディア制作ワークフローにおいては、動画編集者やクリエイターが、ストック音源を手作業で探すよりも速く、カスタムのロイヤリティフリー音源を制作するのに役立ちます。
+- [aimusixer-me](https://www.aimyflow.com/ja/ai/aimusixer-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIMusixer は、テキスト、歌詞、スタイル指定、または音声/オーディオから曲を作成し、MP3 の楽曲または MP4 の動画としてダウンロードできる AI 音楽生成ツールで、主に音楽クリエイターや愛好家向けです。ミュージシャン、コンテンツクリエイター、クリエイティブチームにとって、粗いアイデアをドラフト音源やシンプルなミュージックビデオへより素早く変換することで、初期のアイデア出しを加速できます。
+- [airmusic-ai](https://www.aimyflow.com/ja/ai/airmusic-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AirMusicは、AIによる音楽生成・編集プラットフォームであり、主に音楽クリエイター、ミュージシャン、コンテンツ制作者向けに、オリジナル楽曲、インストゥルメンタル、BGM、カバー、ミュージックビデオをオンラインで制作できるよう支援します。クリエイター、マーケター、映像制作チームにとっては、歌詞生成、ボーカル除去、スタイルベースのトラック作成といった機能により、ショートフォームコンテンツや商用プロジェクト向けに最適化された音源の制作を迅速化できます。
+- [aiva-ai](https://www.aimyflow.com/ja/ai/aiva-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIVAは、作曲家・クリエイター・メディアチーム向けに、動画やゲーム向けのオリジナル楽曲を生成できるAI作曲アシスタントです。AI時代に、発想と下書き制作を加速し、仕上げに集中しやすくします。
+- [apple-com-apple-creator-studio](https://www.aimyflow.com/ja/ai/apple-com-apple-creator-studio?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Apple Creator Studio は、Final Cut Pro、Logic Pro、Pixelmator Pro、および生産性アプリの強化機能をまとめた Apple のサブスクリプションです。主に Mac と iPad を使用するクリエイティブの専門家、学生、教育関係者が、動画、音楽、画像、グラフィック、ドキュメントを制作できるよう支援します。動画編集者、デザイナー、ミュージシャン、コンテンツチームにとって、AI を活用した検索、編集、下書き作成ツールにより、反復的な制作作業を減らし、コンセプトから完成したアセットまでの移行を迅速化できます。
+- [catapultmymusic-com](https://www.aimyflow.com/ja/ai/catapultmymusic-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): catapult°は、インディペンデントアーティスト向けの音楽プロモーションプラットフォームです。楽曲リリースの宣伝とキャンペーン成果のリアルタイム追跡を支援し、配信戦略やオーディエンス拡大の判断を助けます。
+- [coolo-ai](https://www.aimyflow.com/ja/ai/coolo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Coolo.ai は、ボーカル除去、ステム分離、楽器の分離、ノイズ低減、キーと BPM の検出を支援する AI 音楽オーディオツールで、主に音楽プロデューサー、DJ、ミュージシャン、カラオケ制作者向けです。AI 主導の音楽ワークフローにおいて、このようなツールは、フル楽曲を編集可能なオーディオ要素に変換することで、リミックス、トラック分析、練習準備を高速化できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Music%20Lover?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

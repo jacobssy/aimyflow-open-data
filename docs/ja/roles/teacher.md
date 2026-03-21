@@ -1,0 +1,38 @@
+# 教師
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 138
+- スキルカード数: 5
+
+## 主要スキル
+
+- **授業設計**: 学習目標と活動、進度を踏まえて授業を組み立てる。
+- **学級運営**: 集中しやすく全員が参加できる教室環境を整える。
+- **学習評価**: 課題や観察、テストを通じて学習状況を把握し指導に生かす。
+- **個別最適な指導**: 学習段階や支援ニーズに応じて指導法や教材を調整する。
+- **教育課程準拠**: 授業内容と評価を学習指導要領や学校方針に合わせる。
+
+## 関連ツール
+
+- [aibooksummarizer-com](https://www.aimyflow.com/ja/ai/aibooksummarizer-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Book Summarizer は、アップロードされた PDF、EPUB、または TXT の書籍を、簡潔な要約と章単位の回答に変換する AI ツールであり、主に、より速く内容を理解する必要がある学生、専門職、一般の読者向けに設計されています。AI を活用した読書ワークフローにおいては、学習者やナレッジワーカーが、教科書、研究資料、ビジネス書をより効率的にレビューし、何を全文で学ぶべきかを判断する前段階で役立ちます。
+- [aicoursify-com](https://www.aimyflow.com/ja/ai/aicoursify-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AiCoursifyは、コース作成者やeラーニングの専門家が、トピックのプロンプトから数分でオンラインコース、クイズ、音声レッスン、課題、プレゼンテーションを作成できるよう支援するAIコース作成プラットフォームです。教育者、インストラクショナルデザイナー、研修チームにとって、手作業による作成時間を削減し、構造化されたマルチフォーマットの学習コンテンツ制作を加速できます。
+- [aidubbing-io](https://www.aimyflow.com/ja/ai/aidubbing-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Dubbing は、動画の翻訳、多言語ボイスオーバーの生成、字幕の追加、リップシンクの適用を支援する無料のオンライン動画吹き替えツールで、主にクリエイター、教育関係者、マーケター、研修チーム向けに設計されています。動画制作、ローカライゼーション、コンテンツ運用の担当者にとって、ブラウザベースの単一プロセスで文字起こし、吹き替え、字幕作成のワークフローを自動化し、多言語での公開を迅速化できます。
+- [aihumanizer-io](https://www.aimyflow.com/ja/ai/aihumanizer-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIHumanizer.io は、AI によって生成された文章を、より自然で人間らしく聞こえるように書き換える無料の AI テキスト・ヒューマナイザーで、主に AI 検出の兆候を減らしたい学生、マーケター、ブロガー向けです。AI 支援のライティング・ワークフローでは、元の意味をより保ちながら、コンテンツ作成やアカデミックライティングの担当者がドラフトのトーンや文のバリエーションをすばやく洗練させるのに役立ちます。
+- [aihumanizer-work](https://www.aimyflow.com/ja/ai/aihumanizer-work?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIHumanizerは、AIが生成した硬い文章を、より自然で読みやすいテキストに変換・リライトするのを支援する無料のオンラインAI→人間らしい文章変換ツールで、主に学生、ライター、マーケター、ビジネスプロフェッショナル向けに提供されています。コンテンツ制作、学術、コミュニケーション業務においては、トーンや可読性を改善することで編集作業を効率化し、チームがAI支援による下書きをより効率的にレビューできるよう支援します。
+- [aipdfreader-net](https://www.aimyflow.com/ja/ai/aipdfreader-net?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI PDF Reader は、PDF をアップロードして分析、翻訳、要約、追加質問を行える無料の AI ドキュメントリーダーで、主に授業資料、論文、研究資料を扱う学生、教師、研究者を支援します。AI を活用した学術・教育業務において、これらのユーザーが参考資料をより速く確認し、要点を抽出し、多言語で文書とやり取りできるようサポートします。
+- [aiscan24-com](https://www.aimyflow.com/ja/ai/aiscan24-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIscan24 は無料の AI テキスト検出ツールで、貼り付けたテキストが ChatGPT、Gemini、Claude などのツールによって生成または書き換えられたコンテンツと統計的にどの程度類似しているかを確認できます。主に、登録なしで素早く目安を知りたい人向けです。教育関係者、編集者、査読者にとっては、ドイツのサーバー上でテキストを評価し、分析後に削除することでデータプライバシーを保ちながら、提出された文章のスクリーニングをより迅速に行う支援になります。
+- [aivoicegenerator-com](https://www.aimyflow.com/ja/ai/aivoicegenerator-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Voice Generator は、テキストをダウンロード可能な音声ファイルに変換できるオンライン音声合成ツールで、幅広い音声と言語に対応しており、主にボイスオーバー、ポッドキャスト、eラーニングコンテンツを制作するクリエイター、教育者、チームを支援します。AI 主導のコンテンツワークフローでは、メディア、研修、コンテンツ分野の担当者が、多言語音声制作をより迅速に拡大しながら、形式をまたいでナレーションの一貫性をより高く保つのに役立ちます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

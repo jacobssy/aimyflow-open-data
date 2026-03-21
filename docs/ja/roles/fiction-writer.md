@@ -1,0 +1,38 @@
+# 小説家
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/fiction-writer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 33
+- スキルカード数: 5
+
+## 主要スキル
+
+- **物語構成**: 筋立てと緩急を設計する
+- **人物造形**: 動機と成長のある人物を描く
+- **語りの文体**: 文体や視点や調子を統御する
+- **世界観設定**: 舞台設定とルールを整える
+- **原稿推敲**: 構成や文や整合性を磨く
+
+## 関連ツール
+
+- [aibookpublishinghub-com](https://www.aimyflow.com/ja/ai/aibookpublishinghub-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Book Publishing Hub は、AI を活用した書籍制作プラットフォームであり、著者が書籍や個人的な物語の企画、執筆、編集、書き出しを行えるよう支援します。Amazon KDP に対応した PDF 出力に加え、アウトライン作成、章生成、リライト、進捗管理のためのツールを備えています。著者、セルフパブリッシャー、コンテンツ制作の専門家にとって、これらの AI ワークフローは、アイデアから出版までをより体系的に進めながら、下書き作成と改稿のスピード向上に役立ちます。
+- [aimag-me](https://www.aimyflow.com/ja/ai/aimag-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): aimag.me は、AI を活用したタロットリーディングツールです。サインアップ不要で、78枚フルデッキと複数のスプレッドを使い、自己内省、質問ベースのリーディング、タロット学習を支援します。コーチ、カウンセラー、ライター、そのほか内省的な実践を行う人々にとって、解釈はユーザー自身に委ねながら、より迅速なパターン認識と、個人的な洞察のためのより構造化されたプロンプトを支えることができます。
+- [aiocmaker-com](https://www.aimyflow.com/ja/ai/aiocmaker-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI OC Makerは、アーティスト、作家、ゲーマー、その他のクリエイターが、アニメ、ファンタジー、リアル調、ゲームアートなどのスタイルでオリジナルキャラクター、ビジュアルデザイン、キャラクターシートを生成できるよう支援するAIキャラクター作成プラットフォームです。ゲーム開発者、小説家、コミックアーティスト、イラストレーターにとって、テキストによる説明を複数の一貫性あるキャラクターバリエーションや参考資料に変換することで、初期のコンセプト設計や反復作業を迅速化できます。
+- [aiwritebook-com](https://www.aimyflow.com/ja/ai/aiwritebook-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIWriteBook は、AI を活用した書籍執筆・出版プラットフォームで、アイデア、メモ、既存の草稿のいずれから始める場合でも、著者が完成した書籍を作成、推敲、イラスト化、音声化し、Amazon KDP などのチャネル向けに書き出せるよう支援します。著者やセルフパブリッシャーにとっては、アウトライン作成、文体の一貫したドラフト作成、出版準備を単一のワークフローに集約し、別々の執筆ツールやフォーマットツール間で発生する手作業の引き継ぎを削減できます。
+- [alphazria-com](https://www.aimyflow.com/ja/ai/alphazria-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Alphazriaは、成人向けの無修正チャット、露骨な画像生成、カスタムキャラクターやシナリオの構築を支援するNSFW AIチャットボットプラットフォームであり、主にプライベートなエロティックなロールプレイやAIコンパニオン体験を求めるユーザー向けです。クリエイターやロールプレイ重視のユーザーにとって、会話型AIとシナリオ連動の画像生成を組み合わせることで、インタラクティブなキャラクターデザインや物語の反復作業を、より迅速かつ一貫性をもって進めることができます。
+- [automateed-com](https://www.aimyflow.com/ja/ai/automateed-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Automateedは、著者やコンテンツクリエイターが書籍を生成・整形・翻訳・出版したり、完成済みの原稿をアップロードして販売したりできる、AI搭載の電子書籍作成・出版プラットフォームです。著者、デジタル起業家、コース制作者にとって、専門知識やアイデアを出版可能な資産へと素早く形にするのに役立ち、下書き作成、表紙デザイン、書き出し形式の調整にかかる時間を削減できます。
+- [bookscribi-com](https://www.aimyflow.com/ja/ai/bookscribi-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BookScribi は、ノンフィクション書籍、詩集、電子書籍を作成する AI 書籍執筆プラットフォームであり、著者やセルフパブリッシャー向けに、アウトライン作成、執筆、編集、フォーマットを自動化します。独立系出版社、コンテンツクリエイター、教育関係者にとって、KDP 対応およびデジタル出版のワークフローにおいて、タイトル制作を加速し、手作業による下書きの負担を軽減できます。
+- [bot3-ai](https://www.aimyflow.com/ja/ai/bot3-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Bot3 AIは、ユーザーが作成したキャラクターやシナリオを通じて、ロールプレイ、感情的な会話、NSFWなやり取りに対応する、成人向けのブラウザベースAIコンパニオンチャットプラットフォームです。会話型コンテンツのクリエイターやコミュニティマネージャーにとって、このようなツールは、プロンプト設計、キャラクターの一貫性、多言語チャット体験を大規模にテストするのに役立ちます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/fiction-writer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

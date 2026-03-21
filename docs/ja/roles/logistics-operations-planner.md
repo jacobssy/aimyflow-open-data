@@ -1,0 +1,38 @@
+# 物流運用プランナー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/logistics-operations-planner?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 18
+- スキルカード数: 5
+
+## 主要スキル
+
+- **物流網設計**: 倉庫と輸送の流れを設計し、サービス水準とコストを両立する。
+- **需要予測**: 受注量と出荷量を予測し、人員・車両・保管能力を合わせる。
+- **配車計画**: 積載効率と納品安定性を高める配送ルートと運行計画を作成する。
+- **在庫フロー管理**: 補充と移送のルールを設計し、過剰在庫なく供給を維持する。
+- **輸送コンプライアンス**: 輸送・通関・安全の要件を運用に落とし込み、法令違反を防ぐ。
+
+## 関連ツール
+
+- [askweather-ai](https://www.aimyflow.com/ja/ai/askweather-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AskWeather.ai は、AI チャットを備えた広告なしの天気ウェブサイトで、現在の気象状況、15日間予報、ライブレーダー、ルート沿いの天気、過去の天気、位置情報に基づくアラートの確認を支援し、主に日常利用者やドライバーを対象としています。自然言語による天気検索により、旅行者、ドライバー、イベントプランナーは、場所や時間に関する詳細な質問を直接的な予報回答に変換することで、より迅速に判断を下せます。
+- [base44-pxf-io-c-6992242-3820726-25619](https://www.aimyflow.com/ja/ai/base44-pxf-io-c-6992242-3820726-25619?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Base44 Superagents はノーコードの AI エージェントプラットフォームで、ユーザーが個人向けエージェントを構築し、ツールを連携させ、定型業務を自動化し、アプリをまたいでアクションを実行できるよう支援します。主な対象は、受信トレイ、リード、カレンダー、レポート管理を行うプロフェッショナルやチームです。AI を活用したオペレーションにおいては、既存ツールをまたいでプロアクティブなワークフローを実行することで、営業、サポート、オペレーション担当者の手作業によるフォローアップや日常的な調整業務を削減できます。
+- [cleeai-com](https://www.aimyflow.com/ja/ai/cleeai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CleeAI は、コンプライアンス、セキュリティ、スケーラビリティを組み込んだ、エンタープライズ向けの AI オペレーティングシステムおよびオーケストレーションエンジンであり、主に営業、オペレーション、規制の厳しい環境にあるエンタープライズチームが、本番運用対応の AI ツールを構築、導入、最適化できるよう支援します。営業およびオペレーションの担当者にとって、このような統制され説明可能な AI は、意思決定支援やレポーティングを迅速化しつつ、手作業によるロジックを削減し、監査対応力を向上させます。
+- [cloudtalk-io-ai-voice-agents](https://www.aimyflow.com/ja/ai/cloudtalk-io-ai-voice-agents?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CloudTalk AI Voice Agent Platform は、主に営業、サポート、オペレーション、採用チーム向けに、フォローアップ、リマインダー、フィードバックコールなどの受電・架電業務を自動化するクラウド通話ツールです。通話量の多い業務では、AI音声エージェントが24時間365日の対応体制を拡張し、手動での通話対応を減らすことで、スタッフがより付加価値の高い会話やフォローアップに集中できるようにします。
+- [docbatch-ai](https://www.aimyflow.com/ja/ai/docbatch-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): docbatch.ai は、AI を活用したバッチ文書処理プラットフォームであり、成長中のチームが PDF や画像から構造化データを大規模に抽出できるよう支援します。特に、大量の文書を扱うオペレーション、財務、管理業務のワークフローに適しています。AI 時代のバックオフィス業務においては、請求書、フォーム、契約書などの大量の文書を CSV、JSON、または Excel 形式の出力に変換することで、オペレーションチームやデータチームの手入力作業の削減に役立ちます。
+- [excelmatic-ai](https://www.aimyflow.com/ja/ai/excelmatic-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): RowSpeak は、AI を活用した Excel 分析・可視化ツールであり、ユーザーはスプレッドシートをアップロードし、平易な英語で質問し、インサイト、グラフ、ダッシュボード、レポート、数式を生成できます。主に、データ、財務、マーケティング、営業、オペレーションの専門職向けに設計されています。AI 支援型の分析ワークフローにおいては、アナリストやビジネスチームが手作業によるスプレッドシート作業を削減し、レポーティングや意思決定に向けて、トレンド、異常値、KPI をより迅速に把握するのに役立ちます。
+- [hyperfox-com](https://www.aimyflow.com/ja/ai/hyperfox-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Hyperfox は、流通、物流、製造業、およびバックオフィスチーム向けの B2B 受注自動化ソフトウェアであり、メール、EDI、Web フォーム、顧客ポータル、フィールドセールスから注文を取り込み、それらを検証して ERP または TMS システムへ振り分けます。AI に支援された受注業務においては、カスタマーサービス、オペレーション、物流チームが手入力を減らし、例外対応、精度、処理能力により注力できるよう支援します。
+- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/logistics-operations-planner?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

@@ -1,0 +1,35 @@
+# プロアスリート
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/professional-athlete?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 5
+- スキルカード数: 5
+
+## 主要スキル
+
+- **競技技術**: 競技動作を安定して再現する
+- **フィジカル調整**: 競技に必要な体力を計画的に整える
+- **パフォーマンス分析**: データや映像で課題を改善する
+- **試合戦略**: 相手や状況に応じて戦術を変える
+- **回復管理と遵守**: 回復計画と反ドーピング規定を守る
+
+## 関連ツール
+
+- [bodyfatestimator-ai](https://www.aimyflow.com/ja/ai/bodyfatestimator-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BodyFatEstimator.ai は、全身画像から体脂肪率を推定する写真ベースの AI ツールで、主にフィットネス志向の個人やアスリートが体組成の変化を継続的に追跡できるよう支援します。コーチやパーソナルトレーナーにとっては、撮影条件を一定に保つことで、実施頻度の低い臨床スキャンの合間に見た目の進捗を実用的にモニタリングする手段を提供します。
+- [bouncebunny-app](https://www.aimyflow.com/ja/ai/bouncebunny-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BounceBunnyは、アスリートがより高く跳び、より強くなり、けがのリスクを減らせるよう支援するトレーニングプランを作成する、アスレチックパフォーマンス向けのコーチングツールです。主にバスケットボール選手や、コート上でのパフォーマンス向上に重点を置く人に向けて設計されています。AIコーチングのワークフローでは、選手やパフォーマンスコーチが、スケジュール、身体の状態、利用可能な器具に合わせて、より効率的にトレーニングを個別最適化するのに役立ちます。
+- [mykin-ai](https://www.aimyflow.com/ja/ai/mykin-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Kinは、プライバシー重視のパーソナルAIアシスタント兼リフレクティブ・コーチングアプリであり、会話をまたいで文脈を記憶することで、ユーザーが明確に考え、意思決定を進め、生活を整理できるよう支援します。特に、リーダー、創業者、親、アスリート、そしてニューロダイバージェントの人々に適しています。AIを活用した知的労働においては、その永続的な記憶機能とガイド付きリフレクションにより、意思決定者や高い責任を担う専門職がパターンを見抜き、認知的負荷を軽減し、時間をかけてより十分な情報に基づいた選択を行えるよう支援します。
+- [mysports-ai](https://www.aimyflow.com/ja/ai/mysports-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Mysports AI は、主にデータに基づく指針を求めるスポーツベッター向けに、マネーライン、ポイントスプレッド、トータル、パーレー、期待得点などの確率ベースの予測と日次のベッティングピックを提供する、AIスポーツ予測プラットフォームです。ベッターやスポーツアナリストにとって、AIが生成する確率モデルは日常的なオッズ評価を迅速化し、リーグをまたいだ比較をより一貫して行う助けとなります。
+- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/professional-athlete?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

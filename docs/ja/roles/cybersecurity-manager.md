@@ -1,0 +1,38 @@
+# サイバーセキュリティマネージャー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/cybersecurity-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 63
+- スキルカード数: 5
+
+## 主要スキル
+
+- **セキュリティ戦略**: 事業リスクに沿って重点対策と投資計画を定める。
+- **リスク評価**: 脅威・脆弱性・業務影響を評価し、対策の優先順位を決める。
+- **インシデント対応**: セキュリティ事案の準備、エスカレーション、封じ込め、事後検証を統括する。
+- **セキュリティガバナンス**: 方針、管理策の責任分担、指標、報告体制を維持する。
+- **コンプライアンス管理**: 規制、監査、契約上の要件に適合するよう管理策を整備する。
+
+## 関連ツール
+
+- [agent37-com](https://www.aimyflow.com/ja/ai/agent37-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Agent37は、個人・上級ユーザー・チーム向けに、ブラウザベースのターミナルと統合ツール付きで常時稼働AIエージェントを運用できるOpenClawホスティング基盤です。AI時代に、導入の手間を減らし、エージェント運用の立ち上げと収益化を加速します。
+- [ai-pact-com](https://www.aimyflow.com/ja/ai/ai-pact-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): PACTは、ADAアクセシビリティ、GDPRのプライバシー要件、WCAG 2.1 AAの問題についてサイトをチェックする、AI搭載の無料ウェブサイトコンプライアンス監査ツールで、主に企業やウェブサイト所有者向けです。コンプライアンス、アクセシビリティ、ウェブ担当チームにとって、手動チェックを実行可能な推奨事項付きの即時レポートに変えることで、問題の発見と優先順位付けを迅速化できます。
+- [ai-seedfinder-com](https://www.aimyflow.com/ja/ai/ai-seedfinder-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Seed Phrase Finder は、AI、HPC リソース、ブロックチェーン残高チェックを使用して、ウォレットアクセスの復旧のために Bitcoin のシードフレーズと秘密鍵を生成・検証すると主張する Windows ソフトウェアであり、主に失われた認証情報の復元を試みる Bitcoin ウォレット所有者を対象としています。暗号資産の復旧およびセキュリティの専門家にとって、AI 支援によるフレーズ再構築と対象を絞った検索は、部分的なシードデータの調査を迅速化し、検出可能な残高を持つウォレットの優先順位付けに役立ちます。
+- [aiqamonkey-com](https://www.aimyflow.com/ja/ai/aiqamonkey-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI QA Monkey は、AI を活用した無料の Web サイトセキュリティスキャナーで、約 1 分で 75 項目以上のチェックを実行し、SSL/TLS の脆弱性、公開されたファイル、開放ポート、CORS のリスク、WordPress の脆弱性といった問題を特定します。代理店、SaaS チーム、開発者、セキュリティ重視の創業者向けに設計されています。セキュリティ、IT、Web 運用チームにとっては、エクスポート可能なレポートと AI 修正プロンプトにより、トリアージを迅速化し、スキャン結果をより迅速な修復ワークフローへとつなげるのに役立ちます。
+- [aiqbee-com](https://www.aimyflow.com/ja/ai/aiqbee-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Aiqbee は、企業知識を一元化し、Teams や IDE などのツールと接続し、ガバナンス管理を追加することで、あらゆる LLM や AI ツールに永続的な組織コンテキストを提供するエンタープライズ向け AI メモリプラットフォームであり、主にチーム横断で AI 活用を管理する企業向けに設計されています。IT、オペレーション、サポート、開発部門においては、承認済みの AI ワークフロー全体で共有知識を利用可能にすることで、繰り返しのプロンプト入力を減らし、一貫性を向上させることができます。
+- [aivyx-studio-com](https://www.aimyflow.com/ja/ai/aivyx-studio-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Aivyx は、ツール、メモリ、音声、API を備えた暗号化・ローカルファーストのアシスタントを自分のマシン上で実行するための、オープンソースでプライバシー重視の AI プラットフォームです。主に、開発者、セキュリティ意識の高いチーム、そしてデータとデプロイの管理権限を必要とする組織向けに設計されています。AI ワークフローにおいては、エンジニアリング、IT、プラットフォームの各チームが、クラウドのみの構成よりも強力なデータ所有権、監査可能性、ポリシー制御を備えたエージェントを構築・運用するのに役立ちます。
+- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
+- [cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html](https://www.aimyflow.com/ja/ai/cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Cisco AI Canvas は、AgenticOps 向けの共有型生成ワークスペースであり、ドメイン横断の IT テレメトリ、チーム、エージェントを一つに集約して、IT 運用チームが統合されたビューのもとで連携し、作業できるよう支援します。AI 主導の運用において、この種の共有ワークスペースは、IT オペレーターやエンジニアがデータをより迅速に解釈し、手作業による引き継ぎを減らしながら、ドメインをまたいだ対応を調整するのに役立ちます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/cybersecurity-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

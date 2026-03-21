@@ -1,0 +1,38 @@
+# 経営企画・分析マネージャー
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/financial-planning-analysis-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 29
+- スキルカード数: 5
+
+## 主要スキル
+
+- **予算計画**: 事業目標と制約に沿って年度予算とローリング計画を策定する。
+- **業績予測**: 売上・費用・資金・人員の前提を更新し月次予測を作成する。
+- **予実差異分析**: 実績と計画の差異を説明し業績ギャップの要因を特定する。
+- **経営報告**: 月次締めやレビュー、経営会議向けにKPI報告と意思決定材料を提供する。
+- **事業採算モデリング**: シナリオモデル、投資収益性、リスク前提を用いて投資案件を評価する。
+
+## 関連ツール
+
+- [arcanon-ai-vercel-app](https://www.aimyflow.com/ja/ai/arcanon-ai-vercel-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Arcanonは、歴史上の哲学者の視点による討論を展開するAI熟議エンジンであり、主に創業者、オペレーター、その他のビジネス意思決定者が、事業上の意思決定を分析し、見落としを明らかにし、リスクを評価し、行動計画を構築するのを支援します。AIに支援された戦略業務においては、リーダーやプロダクトチームが前提条件をより迅速にストレステストし、不確実な選択を、より構造化され実行可能な次のステップへと転換するのに役立ちます。
+- [arka-so](https://www.aimyflow.com/ja/ai/arka-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ArkaはAIを活用した収益インサイトプラットフォームであり、収益チームが売上予測、解約およびアップセルのシグナル検出、接続された顧客・製品・サポートデータに基づくレポート作成の自動化を行えるよう支援します。カスタマーサクセス、アカウント管理、営業、レベニューオペレーションの各チームに対して、リアルタイムデータをより明確なリスクおよび成長シグナルに変換することで、更新の迅速化とアカウントの優先順位付けを可能にします。
+- [bizgraph-app](https://www.aimyflow.com/ja/ai/bizgraph-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Bizgraph は、代理店、コンサルティング会社、フリーランサー向けの AI 課金ソフトウェアで、クライアントごとの AI 利用状況の追跡、独自のマークアップ適用、API キー管理、継続収益のための請求業務の自動化を支援します。代理店の創業者、CTO、財務オペレーションチームにとって、複数の LLM プロバイダーにまたがってクライアントの AI 利用が拡大しても、手作業の請求業務を削減し、利益の可視性を向上させることができます。
+- [bizzyai-co](https://www.aimyflow.com/ja/ai/bizzyai-co?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Bizzy は、ガイド付きの質問を行い、コンサルティングのフレームワークを適用し、目標、ボトルネック、次のアクションを明確にしたい事業オーナー向けに、個別最適化された段階的な事業計画を生成する AI ビジネスプランニングツールです。創業者や事業運営者にとって、事業状況や市場データをより明確な優先事項と実行可能な計画に変換することで、戦略的意思決定を加速できます。
+- [cloudidr-com-llm-ops](https://www.aimyflow.com/ja/ai/cloudidr-com-llm-ops?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Cloudidr LLM Ops は、開発者、スタートアップ、AI ファーストのチームが使用状況を追跡し、厳格な予算を適用し、予算超過につながるリクエストをブロックし、トラフィックをより低コストな OpenAI、Anthropic、Gemini モデルへルーティングできるよう支援する、AI API のコスト管理および監視ツールです。エンジニアリングや FinOps の業務において、チームにリアルタイムのコスト可視化と自動化された予算適用を提供することで、予期せぬ LLM 支出を削減し、モデルガバナンスを向上させることができます。
+- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
+- [extract-wellapp-ai](https://www.aimyflow.com/ja/ai/extract-wellapp-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Well Extractは、PDFや画像から請求書・領収書データを構造化データに変換するオープンソースのAI抽出ツールです。設定可能なAIモデルで文書処理を効率化し、財務自動化の実装を加速します。
+- [handit-ai](https://www.aimyflow.com/ja/ai/handit-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Handit.aiは、AIエージェントの判断評価、改善プロンプトとデータセット生成、変更のA/Bテストを行うオープンソースの最適化エンジンです。AIエンジニアやプロダクトチームが本番挙動を管理しながら、エージェント品質をより速く改善できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/financial-planning-analysis-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

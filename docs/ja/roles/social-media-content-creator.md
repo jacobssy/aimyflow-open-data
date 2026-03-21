@@ -1,0 +1,38 @@
+# SNSコンテンツ制作者
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/social-media-content-creator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 409
+- スキルカード数: 5
+
+## 主要スキル
+
+- **コンテンツ企画**: 施策やトレンド、閲覧傾向に合わせて媒体別の投稿計画を立てる。
+- **短尺動画制作**: 媒体特性に合う短尺動画やビジュアルを、冒頭設計やテンポまで含めて制作する。
+- **投稿コピー作成**: 媒体ごとの文体と施策目的に合わせて、キャプションや導線文を作成する。
+- **成果分析**: リーチや維持率、反応指標を見て題材、形式、投稿時間を改善する。
+- **媒体規約・ブランド順守**: 公開前に媒体規約、音源権利、表示ルール、ブランド基準を確認する。
+
+## 関連ツール
+
+- [2pr-io](https://www.aimyflow.com/ja/ai/2pr-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2pr は、ユーザーが投稿のアイデアを見つけ、本物らしい LinkedIn 投稿を作成し、カルーセルを作成し、コンテンツのスケジュール設定と分析を行えるよう支援する、AI 搭載の LinkedIn 投稿生成・コンテンツワークフローツールです。主に、創業者、B2B の営業・マーケティングチーム、ブロガー、求職者向けに設計されています。LinkedIn でパーソナルブランドを構築するプロフェッショナルにとっては、プロフィールに基づくガイダンスを活用して、投稿を自分の専門性やポジショニングに沿ったものに保ちながら、アイデア出しや下書き作成を効率化できます。
+- [2pr-io-carousel](https://www.aimyflow.com/ja/ai/2pr-io-carousel?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2PR LinkedIn Carousel Generator は、記事、メモ、動画、その他の元コンテンツを、編集可能な LinkedIn カルーセルスライドや PDF に変換する AI 搭載ツールで、主に創業者、B2B の営業・マーケティングチーム、クリエイター、ブロガー、求職者向けに設計されています。ソーシャルメディアやコンテンツの担当者にとっては、長尺コンテンツを構造化されたビジュアル投稿へと再活用する作業を効率化しつつ、ブランディングやメッセージの一貫性を保ちやすくします。
+- [adsturbo-ai](https://www.aimyflow.com/ja/ai/adsturbo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdsTurbo は、商品画像、URL、または参考動画から広告クリエイティブを作成、分析、複製、翻訳、高品質化できる、eコマースブランド、グロースチーム、パフォーマンスマーケター向けの AI 動画広告生成ツールです。AI 主導のクリエイティブワークフローにおいて、マーケターやメディアバイヤーが、成果の高い構成をキャンペーン間で再利用しながら、動画広告をより迅速に制作・改善できるよう支援します。
+- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
+- [aiai-com-image-ai-text-to-image-generator](https://www.aimyflow.com/ja/ai/aiai-com-image-ai-text-to-image-generator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIAI Text to Image Generator は、テキストによるプロンプトを、モデル、解像度、アスペクト比、プロンプトオプションを調整可能な画像へ変換する Web ベースの AI ツールで、主にビジュアルコンテンツを制作するクリエイター、デザイナー、マーケター向けです。AI を活用したクリエイティブワークフローにおいては、チームが手作業のデザインや写真撮影に投資する前に、キャンペーン、商品画像、ソーシャルコンテンツ向けのアイデア創出を加速し、ビジュアルのたたき台を作成できます。
+- [aiangels-io](https://www.aimyflow.com/ja/ai/aiangels-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Angels は、メモリ、音声チャット、ロールプレイ、無修正のやり取りを備えたカスタマイズ可能なバーチャル彼女とユーザーが会話できる、成人専用のAIコンパニオンプラットフォームであり、主に娯楽や疑似的な companionship を求める成人向けに設計されています。消費者向けAI製品チームや対話デザイナーにとっては、メモリ、人格の一貫性、音声機能が、チャット体験をより継続的で魅力的に感じさせる方法を示しています。
+- [aibabydance-com](https://www.aimyflow.com/ja/ai/aibabydance-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Baby Dance Generator は、赤ちゃんの写真をテンプレートまたはアップロードしたダンス参考動画を使って短いダンス動画に変換するオンラインAIツールで、主にソーシャル向けクリップや家族の記念用コンテンツを作成する親向けに設計されています。AI主導のコンテンツ制作ワークフローでは、動画編集スキルがなくても、ソーシャルメディアクリエイターや家族向けコンテンツ制作者が共有しやすい短尺動画をより迅速に制作するのに役立ちます。
+- [aiblogue-com](https://www.aimyflow.com/ja/ai/aiblogue-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI.Blogue は、クリエイターやマーケターが、読者とのつながりを生み出し、現代の AI 検索における LLM SEO を支援することを目的としたコンテンツで、ブログの執筆、公開、成長を支援する AI ブログプラットフォームです。コンテンツマーケター、SEO スペシャリスト、独立系パブリッシャーにとって、AI 主導の検索環境での発見性を高めながら、記事制作を効率化できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/social-media-content-creator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

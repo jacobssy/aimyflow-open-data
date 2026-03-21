@@ -1,0 +1,38 @@
+# 金融アナリスト
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Financial%20Analyst?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 40
+- スキルカード数: 5
+
+## 主要スキル
+
+- **財務モデリング**: 業績・資金繰り・調達影響を予測する統合モデルを構築する。
+- **バリュエーション分析**: マルチプル、DCF、類似取引で企業や資産価値を評価する。
+- **予算策定と予測**: 事業ドライバーを財務数値に結び付けて予算と見通しを作成する。
+- **差異分析**: 実績・予算・前年との差異を特定し、要因を説明して意思決定を支える。
+- **財務レポーティング**: KPI、トレンド、リスク指標を含む経営向けレポートを作成する。
+
+## 関連ツール
+
+- [allmindinvestments-com](https://www.aimyflow.com/ja/ai/allmindinvestments-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AllMind AIは、トレーダーや投資家向けに、リアルタイム株式インサイト、市場分析、AI支援の戦略ガイダンスを提供する投資分析プラットフォームです。AI時代に、市場シグナルの処理と調査業務の効率化を支援します。
+- [app-quaestorledger-com-home](https://www.aimyflow.com/ja/ai/app-quaestorledger-com-home?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Quaestor Ledger は、領収書のアップロード、購入データの抽出と分類、アカウント・取引・純資産の管理を支援する、AI搭載の領収書処理および財務追跡ツールです。主に、個人または事業の財務を管理する個人やチーム向けに設計されています。財務管理や記帳業務においては、手作業によるデータ入力を削減し、取引記録の整理、検索、照合作業を容易にします。
+- [askstockgpt-com](https://www.aimyflow.com/ja/ai/askstockgpt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): StockGPTは、投資家やアナリスト向けに、企業情報や市場データを会話形式で調べられるAI株式リサーチツールです。AI時代に、大量の投資データからの洞察抽出を高速化します。
+- [beebee-ai](https://www.aimyflow.com/ja/ai/beebee-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BeeBee AIは、米国株投資家向けに、決算説明会・レポート・ニュースをAIで分析できる決算分析ツールです。AI時代に、企業更新情報の把握と報告サイクルをまたいだ比較を効率化します。
+- [botlor-com](https://www.aimyflow.com/ja/ai/botlor-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Botlor は AI 執事であり、ユーザーがマーケットプレイスをまたいで買い物をしたり、コンテンツを生成したり、ライフコーチングを受けたり、天気や為替を確認したり、スマートにメモを取ったり、市場分析を閲覧したりすることを、1 つの会話内で支援します。主に、日常のタスクをこなすための単一のアシスタントを求める一般消費者向けです。AI 支援ワークフローでは、検索、下書き作成、リアルタイムデータ、メモの検索を単一のチャットインターフェースに組み合わせることで、コンテンツ制作者、パーソナルアシスタント、研究者がより迅速に作業を進められるよう支援します。
+- [capalyze-ai](https://www.aimyflow.com/ja/ai/capalyze-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Capalyzeは、複数ソースのデータとWebクローリング情報を統合して実用的なインサイトを導くデータ分析プラットフォームです。分析担当者や意思決定者の手作業を減らし、トレンド把握と意思決定を加速します。
+- [chat-openai-com-chat](https://www.aimyflow.com/ja/ai/chat-openai-com-chat?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ChatGPT は、人々が文章の下書きや書き直し、アイデアの探求、質問への回答、より速い学習を行えるよう支援する AI チャットボットであり、主に日常的なユーザーが汎用的な支援を求める際に利用されます。作家、学生、研究者、ナレッジワーカーにとっては、質問やコンテンツのより迅速な反復を支援しながら、日常的な下書き作成や説明業務を効率化できます。
+- [cognitofi-com](https://www.aimyflow.com/ja/ai/cognitofi-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): SenticMoney は、プライバシーを重視する個人が、データを自分のデバイスにローカル保存したまま、予算管理、取引のインポートと分類、レシートのスキャン、支出に関する質問を行えるよう支援する、Windows 向けの AI 搭載個人向け家計管理アプリです。個人の家計管理ユーザーやアドバイザーにとって、デバイス上で動作する AI と即時の自然言語分析により、クラウドベースの金融プラットフォームに依存することなく、月次レビューや予算策定の意思決定を迅速化できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Financial%20Analyst?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

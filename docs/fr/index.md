@@ -1,0 +1,240 @@
+# Index Open Data AimyFlow
+
+Exports ouverts des outils IA par métier sur AimyFlow, avec jeux de données structurés et pages compatibles GitHub.
+
+Généré le: 2026-03-21T13:08:12.006Z
+
+- Outils exportés: 1497
+- Rôles exportés: 221
+- Compétences exportées: 1105
+
+## Continuer sur AimyFlow
+
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_explore_fr)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_roles_fr)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_votes_fr)
+
+## Rôles
+
+- [Créateur de contenu](./roles/content-creator.md): 677 tools, 5 skills
+- [Directeur marketing digital](./roles/digital-marketing-director.md): 617 tools, 5 skills
+- [Rédacteur publicitaire](./roles/copywriter.md): 440 tools, 5 skills
+- [Créateur de contenu réseaux sociaux](./roles/social-media-content-creator.md): 409 tools, 5 skills
+- [PDG](./roles/ceo.md): 326 tools, 5 skills
+- [Responsable PMO](./roles/project-management-officer.md): 315 tools, 5 skills
+- [Ingénieur logiciel](./roles/software-engineer.md): 313 tools, 5 skills
+- [Responsable développement logiciel](./roles/software-development-manager.md): 297 tools, 5 skills
+- [Graphiste](./roles/graphic-designer.md): 291 tools, 5 skills
+- [Rédacteur technique](./roles/technical-writer.md): 229 tools, 5 skills
+- [Responsable infrastructure IT](./roles/it-infrastructure-manager.md): 140 tools, 5 skills
+- [Enseignant](./roles/teacher.md): 138 tools, 5 skills
+- [Consultant en technologies éducatives](./roles/education-technology-consultant.md): 130 tools, 5 skills
+- [Directeur des opérations](./roles/coo.md): 127 tools, 5 skills
+- [Responsable des ventes e-commerce](./roles/e-commerce-sales-head.md): 124 tools, 5 skills
+- [Data scientist](./roles/data-scientist.md): 123 tools, 5 skills
+- [Responsable commercial terrain](./roles/field-sales-manager.md): 116 tools, 5 skills
+- [Producteur de podcast](./roles/podcast-producer.md): 109 tools, 5 skills
+- [Professeur d’université](./roles/college-professor.md): 95 tools, 5 skills
+- [Ingénieur data](./roles/data-engineer.md): 83 tools, 5 skills
+- [Responsable acquisition de talents](./roles/talent-acquisition-manager.md): 67 tools, 5 skills
+- [Responsables informatiques](./roles/information-technology-managers.md): 64 tools, 5 skills
+- [Responsable cybersécurité](./roles/cybersecurity-manager.md): 63 tools, 5 skills
+- [Réalisateur indépendant](./roles/independent-filmmaker.md): 62 tools, 5 skills
+- [Analyste cybersécurité](./roles/cybersecurity-analyst.md): 57 tools, 5 skills
+- [Tuteur en programmation en ligne](./roles/online-coding-tutor.md): 53 tools, 5 skills
+- [Coach en leadership d’entreprise](./roles/corporate-leadership-coach.md): 52 tools, 5 skills
+- [Métiers de l'informatique](./roles/computer-occupations.md): 51 tools, 5 skills
+- [Conseiller d’orientation scolaire](./roles/school-counselor.md): 48 tools, 5 skills
+- [Avocat](./roles/lawyer.md): 47 tools, 5 skills
+- [Amateur de musique](./roles/music-lover.md): 47 tools, 5 skills
+- [Responsables marketing et ventes](./roles/marketing-and-sales-managers.md): 45 tools, 5 skills
+- [Administrateur de santé](./roles/healthcare-administrator.md): 44 tools, 5 skills
+- [Analyste des risques](./roles/risk-analyst.md): 42 tools, 5 skills
+- [Expert-comptable certifié](./roles/certified-public-accountant.md): 41 tools, 5 skills
+- [Analyste financier](./roles/financial-analyst.md): 40 tools, 5 skills
+- [Communicants médias](./roles/media-communicators.md): 36 tools, 5 skills
+- [Spécialistes des opérations](./roles/business-operations-specialists.md): 34 tools, 5 skills
+- [Auteur de fiction](./roles/fiction-writer.md): 33 tools, 5 skills
+- [Agent immobilier](./roles/real-estate-agent.md): 32 tools, 5 skills
+- [Directeur financier](./roles/cfo.md): 31 tools, 5 skills
+- [Enseignant en collège communautaire](./roles/community-college-instructor.md): 31 tools, 5 skills
+- [Coach bien-être](./roles/wellness-coach.md): 31 tools, 5 skills
+- [Tuteur de préparation aux examens](./roles/test-prep-tutor.md): 30 tools, 5 skills
+- [Responsable FP&A](./roles/financial-planning-analysis-manager.md): 29 tools, 5 skills
+- [Responsables financiers](./roles/financial-managers.md): 27 tools, 5 skills
+- [Responsable d’agence](./roles/branch-office-manager.md): 26 tools, 5 skills
+- [Ingénieurs](./roles/engineers.md): 26 tools, 5 skills
+- [Styliste](./roles/fashion-designer.md): 26 tools, 5 skills
+- [Spécialistes financiers](./roles/financial-specialists.md): 25 tools, 5 skills
+- [Managers des opérations spécialisées](./roles/operations-specialties-managers.md): 25 tools, 5 skills
+- [Enseignants du supérieur](./roles/postsecondary-teachers.md): 25 tools, 5 skills
+- [Autres postes dans l'éducation](./roles/other-education-roles.md): 24 tools, 5 skills
+- [Responsable des relations sociales](./roles/employee-relations-manager.md): 23 tools, 5 skills
+- [Écrivains et auteurs](./roles/writers-and-authors.md): 23 tools, 5 skills
+- [Vendeur e-commerce](./roles/e-commerce-seller.md): 22 tools, 5 skills
+- [Gestionnaire de portefeuille](./roles/investment-portfolio-manager.md): 22 tools, 5 skills
+- [Passionné de gastronomie](./roles/food-enthusiast.md): 21 tools, 5 skills
+- [Enseignants scolaires](./roles/school-teachers.md): 21 tools, 5 skills
+- [Planificateur logistique](./roles/logistics-operations-planner.md): 18 tools, 5 skills
+- [Autres postes artistiques](./roles/other-arts-roles.md): 18 tools, 5 skills
+- [Directeur de restaurant](./roles/restaurant-general-manager.md): 18 tools, 5 skills
+- [Reporter TV](./roles/tv-news-reporter.md): 17 tools, 5 skills
+- [Architecte d'intérieur](./roles/interior-designer.md): 16 tools, 5 skills
+- [Responsable fiscal d’entreprise](./roles/corporate-tax-manager.md): 15 tools, 5 skills
+- [Professionnels de l'art et du design](./roles/art-and-design-workers.md): 14 tools, 5 skills
+- [Responsable succès client](./roles/customer-success-manager.md): 14 tools, 5 skills
+- [Designer industriel](./roles/industrial-designer.md): 14 tools, 5 skills
+- [Agent de facturation médicale](./roles/medical-biller.md): 14 tools, 5 skills
+- [Techniciens scientifiques](./roles/science-technicians.md): 14 tools, 5 skills
+- [Métiers des maths et sciences](./roles/math-science-roles.md): 13 tools, 5 skills
+- [Architecte commercial](./roles/commercial-architect.md): 12 tools, 5 skills
+- [Professionnels du divertissement et du sport](./roles/entertainment-and-sports-workers.md): 12 tools, 5 skills
+- [Responsable de programme associatif](./roles/nonprofit-program-manager.md): 11 tools, 5 skills
+- [Comédien voix](./roles/voice-actor.md): 11 tools, 5 skills
+- [Praticiens de santé](./roles/health-practitioners.md): 10 tools, 5 skills
+- [Professeur de maths en primaire](./roles/elementary-school-math-teacher.md): 9 tools, 5 skills
+- [Bibliothécaires et archivistes](./roles/librarians-and-archivists.md): 9 tools, 5 skills
+- [Autres postes de management](./roles/other-management-roles.md): 9 tools, 5 skills
+- [Architecte résidentiel](./roles/residential-architect.md): 9 tools, 5 skills
+- [Dirigeants](./roles/top-executives.md): 9 tools, 5 skills
+- [Médecin généraliste](./roles/family-doctor.md): 8 tools, 5 skills
+- [Responsables RH](./roles/human-resources-managers.md): 8 tools, 5 skills
+- [Responsables des ventes](./roles/sales-leads.md): 8 tools, 5 skills
+- [Responsables administratifs](./roles/admin-leads.md): 7 tools, 5 skills
+- [Technicien de laboratoire médical](./roles/medical-lab-technician.md): 7 tools, 5 skills
+- [Promoteur de concerts](./roles/concert-promoter.md): 6 tools, 5 skills
+- [Superviseur des opérations d’usine](./roles/factory-operations-supervisor.md): 6 tools, 5 skills
+- [Professionnels du droit](./roles/legal-professionals.md): 6 tools, 5 skills
+- [Biologiste moléculaire](./roles/molecular-biologist.md): 6 tools, 5 skills
+- [Spécialiste des achats](./roles/corporate-procurement-specialist.md): 5 tools, 5 skills
+- [Spécialiste en santé au travail](./roles/occupational-health-specialist.md): 5 tools, 5 skills
+- [Autres postes de santé](./roles/other-health-roles.md): 5 tools, 5 skills
+- [Athlète professionnel](./roles/professional-athlete.md): 5 tools, 5 skills
+- [Professionnels des sciences sociales](./roles/social-science-workers.md): 5 tools, 5 skills
+- [Mathématicien appliqué](./roles/applied-mathematician.md): 4 tools, 5 skills
+- [Architectes et géomètres](./roles/architects-and-surveyors.md): 4 tools, 5 skills
+- [Cardiologue](./roles/cardiologist.md): 4 tools, 5 skills
+- [Ingénieur civil](./roles/civil-engineer.md): 4 tools, 5 skills
+- [Responsable rémunération et avantages](./roles/compensation-benefits-manager.md): 4 tools, 5 skills
+- [Ingénieur électricien](./roles/electrical-engineer.md): 4 tools, 5 skills
+- [Techniciens de santé](./roles/health-technicians.md): 4 tools, 5 skills
+- [Aide à domicile](./roles/home-health-aide.md): 4 tools, 5 skills
+- [Autres postes administratifs](./roles/other-admin-roles.md): 4 tools, 5 skills
+- [Autres formateurs](./roles/other-instructors.md): 4 tools, 5 skills
+- [Pédiatre](./roles/pediatrician.md): 4 tools, 5 skills
+- [Astrophysicien](./roles/astrophysicist.md): 3 tools, 5 skills
+- [Aide-soignant certifié](./roles/certified-nursing-assistant.md): 3 tools, 5 skills
+- [Chimiste](./roles/chemist.md): 3 tools, 5 skills
+- [Économiste](./roles/economist.md): 3 tools, 5 skills
+- [Technicien en sciences de l’environnement](./roles/environmental-science-technician.md): 3 tools, 5 skills
+- [Géophysicien](./roles/geophysicist.md): 3 tools, 5 skills
+- [Professeur de physique au lycée](./roles/high-school-physics-teacher.md): 3 tools, 5 skills
+- [Technicien de laboratoire](./roles/laboratory-technician.md): 3 tools, 5 skills
+- [Manutentionnaires](./roles/material-movers.md): 3 tools, 5 skills
+- [Ingénieur mécanique](./roles/mechanical-engineer.md): 3 tools, 5 skills
+- [Professeur d'histoire au collège](./roles/middle-school-history-teacher.md): 3 tools, 5 skills
+- [Coordinateur des opérations en magasin](./roles/retail-store-operations-coordinator.md): 3 tools, 5 skills
+- [Physicien théoricien](./roles/theoretical-physicist.md): 3 tools, 5 skills
+- [Assistants administratifs](./roles/admin-assistants.md): 2 tools, 5 skills
+- [Anthropologue](./roles/anthropologist.md): 2 tools, 5 skills
+- [Opérateurs d'équipements de communication](./roles/comm-equipment-ops.md): 2 tools, 5 skills
+- [Employés financiers](./roles/financial-clerks.md): 2 tools, 5 skills
+- [Aide en soins palliatifs](./roles/hospice-aide.md): 2 tools, 5 skills
+- [Infirmier en soins palliatifs](./roles/hospice-care-nurse.md): 2 tools, 5 skills
+- [Renseignement et surveillance](./roles/intel-surveillance-ops.md): 2 tools, 5 skills
+- [Géomètre](./roles/land-surveyor.md): 2 tools, 5 skills
+- [Assistants juridiques](./roles/legal-support-workers.md): 2 tools, 5 skills
+- [Scientifiques du vivant](./roles/life-scientists.md): 2 tools, 5 skills
+- [Biologiste marin](./roles/marine-biologist.md): 2 tools, 5 skills
+- [Technicien en équipement médical](./roles/medical-equipment-technician.md): 2 tools, 5 skills
+- [Microbiologiste](./roles/microbiologist.md): 2 tools, 5 skills
+- [Assistant en ergothérapie](./roles/occupational-therapy-assistant.md): 2 tools, 5 skills
+- [Autres métiers de la production](./roles/other-production.md): 2 tools, 5 skills
+- [Physiciens et scientifiques](./roles/physical-scientists.md): 2 tools, 5 skills
+- [Assistant en kinésithérapie](./roles/physical-therapist-assistant.md): 2 tools, 5 skills
+- [Responsables de production](./roles/production-leads.md): 2 tools, 5 skills
+- [Manipulateur en radiologie](./roles/radiologic-technologist.md): 2 tools, 5 skills
+- [Assistant en thérapie respiratoire](./roles/respiratory-therapy-assistant.md): 2 tools, 5 skills
+- [Représentants commerciaux services](./roles/service-sales-reps.md): 2 tools, 5 skills
+- [Sociologue](./roles/sociologist.md): 2 tools, 5 skills
+- [Assistant en orthophonie](./roles/speech-therapy-assistant.md): 2 tools, 5 skills
+- [Muraliste urbain](./roles/street-muralist.md): 2 tools, 5 skills
+- [Opérateurs système](./roles/system-operators.md): 2 tools, 5 skills
+- [Équipe des opérations tactiques](./roles/tactical-operations-crew.md): 2 tools, 5 skills
+- [Responsables transport](./roles/transport-leads.md): 2 tools, 5 skills
+- [Formateur en lycée professionnel](./roles/vocational-school-trainer.md): 2 tools, 5 skills
+- [Personnel du transport aérien](./roles/air-transport-workers.md): 1 tools, 5 skills
+- [Assembleurs](./roles/assemblers.md): 1 tools, 5 skills
+- [Équipage d'armes de combat](./roles/combat-weapons-crew.md): 1 tools, 5 skills
+- [Opérateurs de réparation des communications](./roles/comm-repair-operators.md): 1 tools, 5 skills
+- [Juriste d’entreprise](./roles/corporate-lawyer.md): 1 tools, 5 skills
+- [Responsable des archives d’entreprise](./roles/corporate-records-manager.md): 1 tools, 5 skills
+- [Réparateurs de portes](./roles/door-repairers.md): 1 tools, 5 skills
+- [Mécaniciens électriciens](./roles/electrical-mechanics.md): 1 tools, 5 skills
+- [Équipe de maintenance technique](./roles/eng-maintenance-crew.md): 1 tools, 5 skills
+- [Transformateurs alimentaires](./roles/food-processors.md): 1 tools, 5 skills
+- [Ouvriers du métal et du plastique](./roles/metal-and-plastic-workers.md): 1 tools, 5 skills
+- [Spécialistes des services divers](./roles/misc-service-specialists.md): 1 tools, 5 skills
+- [Autres fonctions de soutien en santé](./roles/other-health-support.md): 1 tools, 5 skills
+- [Autres postes militaires](./roles/other-military-roles.md): 1 tools, 5 skills
+- [Autres métiers de la réparation](./roles/other-repair-roles.md): 1 tools, 5 skills
+- [Autres métiers du transport](./roles/other-transport-roles.md): 1 tools, 5 skills
+- [Réparateurs de précision](./roles/precision-repairers.md): 1 tools, 5 skills
+- [Imprimeurs](./roles/printers.md): 1 tools, 5 skills
+- [Travailleurs du transport ferroviaire](./roles/rail-transport-workers.md): 1 tools, 5 skills
+- [Spécialistes des services sociaux](./roles/social-service-specialists.md): 1 tools, 5 skills
+- [Agent sportif](./roles/sports-agent.md): 1 tools, 5 skills
+- [Équipe des opérations stratégiques](./roles/strategic-operations-crew.md): 1 tools, 5 skills
+- [Ouvriers textiles](./roles/textile-workers.md): 1 tools, 5 skills
+- [Bibliothécaire de référence universitaire](./roles/university-library-reference-librarian.md): 1 tools, 5 skills
+- [Mécaniciens véhicules](./roles/vehicle-mechanics.md): 1 tools, 5 skills
+- [Conducteurs de véhicules](./roles/vehicle-operators.md): 1 tools, 5 skills
+- [Travailleurs du transport maritime](./roles/water-transport-workers.md): 1 tools, 5 skills
+- [Travailleurs du bois](./roles/woodworkers.md): 1 tools, 5 skills
+- [Responsables agriculture et pêche](./roles/agri-fishery-leads.md): 0 tools, 5 skills
+- [Soigneurs animaliers](./roles/animal-care-workers.md): 0 tools, 5 skills
+- [Spécialistes de l'esthétique](./roles/appearance-specialists.md): 0 tools, 5 skills
+- [Intervenant en protection de l’enfance](./roles/child-welfare-caseworker.md): 0 tools, 5 skills
+- [Agents d'entretien](./roles/cleaners.md): 0 tools, 5 skills
+- [Travailleur social communautaire](./roles/community-social-worker.md): 0 tools, 5 skills
+- [Aides en construction](./roles/construction-helpers.md): 0 tools, 5 skills
+- [Responsables de chantier](./roles/construction-leads.md): 0 tools, 5 skills
+- [Ouvriers du bâtiment](./roles/construction-workers.md): 0 tools, 5 skills
+- [Sténographe judiciaire](./roles/court-reporter.md): 0 tools, 5 skills
+- [Avocat pénaliste](./roles/criminal-defense-attorney.md): 0 tools, 5 skills
+- [Agents de répartition](./roles/dispatch-workers.md): 0 tools, 5 skills
+- [Agents de divertissement](./roles/entertainment-attendants.md): 0 tools, 5 skills
+- [Ouvriers agricoles](./roles/farm-workers.md): 0 tools, 5 skills
+- [Pompiers](./roles/firefighters.md): 0 tools, 5 skills
+- [Travailleurs de la pêche](./roles/fishery-workers.md): 0 tools, 5 skills
+- [Préparateurs alimentaires](./roles/food-prep-workers.md): 0 tools, 5 skills
+- [Serveurs en restauration](./roles/food-servers.md): 0 tools, 5 skills
+- [Responsables de restauration](./roles/food-service-leads.md): 0 tools, 5 skills
+- [Travailleurs forestiers](./roles/forest-workers.md): 0 tools, 5 skills
+- [Employés funéraires](./roles/funeral-workers.md): 0 tools, 5 skills
+- [Jardiniers d'entretien](./roles/groundskeepers.md): 0 tools, 5 skills
+- [Aides-soignants](./roles/health-aides.md): 0 tools, 5 skills
+- [Intervenant en centre d'hébergement](./roles/homeless-shelter-caseworker.md): 0 tools, 5 skills
+- [Avocat en propriété intellectuelle](./roles/intellectual-property-lawyer.md): 0 tools, 5 skills
+- [Forces de l'ordre](./roles/law-enforcement-workers.md): 0 tools, 5 skills
+- [Secrétaire juridique](./roles/legal-secretary.md): 0 tools, 5 skills
+- [Chefs de maintenance](./roles/maintenance-leads.md): 0 tools, 5 skills
+- [Travailleurs miniers](./roles/mining-workers.md): 0 tools, 5 skills
+- [Archiviste de musée](./roles/museum-archivist.md): 0 tools, 5 skills
+- [Chargé de sensibilisation associative](./roles/nonprofit-outreach-specialist.md): 0 tools, 5 skills
+- [Autres professionnels de l'accompagnement](./roles/other-care-workers.md): 0 tools, 5 skills
+- [Autres métiers du bâtiment](./roles/other-construction.md): 0 tools, 5 skills
+- [Autres métiers de l'alimentaire](./roles/other-food-workers.md): 0 tools, 5 skills
+- [Autres métiers de la sécurité](./roles/other-protective-roles.md): 0 tools, 5 skills
+- [Autres postes commerciaux](./roles/other-sales-roles.md): 0 tools, 5 skills
+- [Assistant juridique](./roles/paralegal.md): 0 tools, 5 skills
+- [Responsables des soins personnels](./roles/personal-care-leads.md): 0 tools, 5 skills
+- [Responsables des services de protection](./roles/protective-service-leads.md): 0 tools, 5 skills
+- [Employés aux archives](./roles/record-clerks.md): 0 tools, 5 skills
+- [Vente au détail](./roles/retail-sales.md): 0 tools, 5 skills
+- [Conseiller en addictologie](./roles/substance-abuse-counselor.md): 0 tools, 5 skills
+- [Assistants en thérapie](./roles/therapy-assistants.md): 0 tools, 5 skills
+- [Coordinateur des bénévoles](./roles/volunteer-coordinator.md): 0 tools, 5 skills
+- [Commerciaux grossistes](./roles/wholesale-sales-reps.md): 0 tools, 5 skills
+- [Professeur de yoga en studio](./roles/yoga-studio-instructor.md): 0 tools, 5 skills
+

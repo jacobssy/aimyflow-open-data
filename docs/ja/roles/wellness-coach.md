@@ -1,0 +1,38 @@
+# ウェルネスコーチ
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/wellness-coach?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 31
+- スキルカード数: 5
+
+## 主要スキル
+
+- **健康評価**: 生活習慣や睡眠、ストレス歴を評価し、支援の優先課題を定める。
+- **行動変容計画**: ウェルネス目標を無理のない日々の行動計画に落とし込む。
+- **習慣トラッキング**: 実行状況や成果、障壁を継続的に追い、介入内容を調整する。
+- **栄養・生活指導**: 栄養、運動、休養、ストレス管理について適切な範囲で助言する。
+- **連携・紹介判断**: コーチングの範囲を超える課題を見極め、適切な専門職につなぐ。
+
+## 関連ツール
+
+- [aimag-me](https://www.aimyflow.com/ja/ai/aimag-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): aimag.me は、AI を活用したタロットリーディングツールです。サインアップ不要で、78枚フルデッキと複数のスプレッドを使い、自己内省、質問ベースのリーディング、タロット学習を支援します。コーチ、カウンセラー、ライター、そのほか内省的な実践を行う人々にとって、解釈はユーザー自身に委ねながら、より迅速なパターン認識と、個人的な洞察のためのより構造化されたプロンプトを支えることができます。
+- [aitherapy-care](https://www.aimyflow.com/ja/ai/aitherapy-care?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fayeは、AIによる感情調整の伴走者であり、不安、ストレス、燃え尽き、喪失感、人間関係の問題、その他日常的な感情の課題に対して、プライベートで個別化された、CBTの知見に基づく対話を通じて対処を支援します。主に、治療の合間や治療外で、利用しやすいサポートを求める個人向けに設計されています。セラピストやメンタルヘルス周辺領域の専門職にとって、Fayeのようなツールは、クライアントがセッションの合間に感情調整スキルを実践し、感情のパターンに気づくのを助けることで、人によるケアをより的を絞ったものにします。
+- [astrologybot-app-en](https://www.aimyflow.com/ja/ai/astrologybot-app-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Astrology Bot は、AI を活用したネイタルチャート分析ツールで、ユーザーが出生情報を追加し、質問し、チャートに基づく解釈を探るのを支援します。主に、占星術を通じて自分自身や他者への理解を深めたい人々を対象としています。インタラクティブなチャート要素を AI による解説と結び付けることで、占星術師や占星術の学習者がチャートの仕組みをより迅速に検討し、より明確な文脈で解釈について議論できるよう支援します。
+- [autonotes-ai](https://www.aimyflow.com/ja/ai/autonotes-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AutoNotes は、AI を活用した臨床文書作成ソフトウェアであり、セラピストや行動保健の専門職が、書面、口述、アップロード、または録音されたセッションから、コンプライアンスに準拠した経過記録、SOAP ノートおよび DAP ノート、治療計画、セッション要約を作成できるよう支援します。セラピスト、ソーシャルワーカー、実務チーム向けに、編集可能で構造化された記録やセッション間の継続性を維持しながら、管理上の文書作成業務を削減できます。
+- [bodyfatestimator-ai](https://www.aimyflow.com/ja/ai/bodyfatestimator-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BodyFatEstimator.ai は、全身画像から体脂肪率を推定する写真ベースの AI ツールで、主にフィットネス志向の個人やアスリートが体組成の変化を継続的に追跡できるよう支援します。コーチやパーソナルトレーナーにとっては、撮影条件を一定に保つことで、実施頻度の低い臨床スキャンの合間に見た目の進捗を実用的にモニタリングする手段を提供します。
+- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
+- [bouncebunny-app](https://www.aimyflow.com/ja/ai/bouncebunny-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BounceBunnyは、アスリートがより高く跳び、より強くなり、けがのリスクを減らせるよう支援するトレーニングプランを作成する、アスレチックパフォーマンス向けのコーチングツールです。主にバスケットボール選手や、コート上でのパフォーマンス向上に重点を置く人に向けて設計されています。AIコーチングのワークフローでは、選手やパフォーマンスコーチが、スケジュール、身体の状態、利用可能な器具に合わせて、より効率的にトレーニングを個別最適化するのに役立ちます。
+- [couplework-ai](https://www.aimyflow.com/ja/ai/couplework-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CoupleWorkは、AIを活用した関係性支援アプリで、パーソナライズされたアセスメント、ガイド付き音声セッション、エビデンスに基づくエクササイズを通じて、カップルや個人のコミュニケーション改善、対立の解消、信頼の再構築、より健全な習慣づくりを支援します。リレーションシップコーチ、セラピスト、メンタルヘルスの実践者にとって、このようなツールはセッションの合間のスキル習得を促進し、クライアントに日常生活の中でより一貫したプライベートなサポートを提供できます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/wellness-coach?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+

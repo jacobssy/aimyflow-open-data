@@ -1,0 +1,38 @@
+# 小学校算数教師
+
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/elementary-school-math-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+
+## 概要
+
+- 一致ツール数: 9
+- スキルカード数: 5
+
+## 主要スキル
+
+- **授業構成**: 具体物から抽象的理解へ段階的に算数を組み立てる。
+- **数感指導**: 発達段階に合った表現で数感や計算の考え方を育てる。
+- **形成的評価**: 授業中に理解度を見取り、課題や進度、支援を調整する。
+- **個別支援計画**: 補充・発展・配慮が必要な児童に合わせて算数支援を設計する。
+- **教具活用**: 教具や図、視覚モデルを使って数学的な関係を分かりやすく示す。
+
+## 関連ツール
+
+- [conceptviz-app](https://www.aimyflow.com/ja/ai/conceptviz-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ConceptViz は、平易な英語のプロンプトを、スライド、ワークシート、研究図版向けの科学・数学ビジュアルに変換する AI 図解生成ツールで、主に教員、学生、研究者を対象としています。教育者や学術専門職にとって、授業、プレゼンテーション、出版物のために図を描いたり探したりする時間を削減しながら、より明確で一貫性のある視覚的説明を作成できます。
+- [connectthedotsprintable-online](https://www.aimyflow.com/ja/ai/connectthedotsprintable-online?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ConnectTheDotsPrintable.online は、写真、イラスト、またはテキストプロンプトを印刷可能な点つなぎワークシートに変換できるオンライン点つなぎジェネレーターで、主に保護者、教師、パズル愛好家を対象としています。教育者やアクティビティ作成者にとって、AI 支援による画像変換と調整可能な難易度により、家庭や教室で使える年齢に適した印刷教材の作成を効率化できます。
+- [coolcoloringpages-com](https://www.aimyflow.com/ja/ai/coolcoloringpages-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Cool Coloring Pages は、ユーザーのアイデアや写真を、印刷可能でカスタマイズ可能なぬりえページに変換する AI ぬりえページ生成ツールで、主に子ども、保護者、教師向けに提供されています。保護者や教育関係者にとって、AI は年齢に適したパーソナライズされたアクティビティ教材の作成を迅速化し、家庭、教室、イベント向けに新しいページをより簡単に作成できるようにします。
+- [examino-ai-en](https://www.aimyflow.com/ja/ai/examino-ai-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Examino は、教師や教育関係者がエッセイ、手書きの答案、その他の評価形式を数秒でスキャン、評価し、ルーブリックに基づくフィードバックを提供できる AI エッセイ採点ツールです。教職員にとっては、教科や学年をまたいだクラスの成績状況の可視性を高めながら、一貫性と客観性を向上させ、手作業による採点時間を削減できます。
+- [icoloring-ai](https://www.aimyflow.com/ja/ai/icoloring-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iColoring AI は、テキストプロンプトや写真を、印刷可能で透かしのない塗り絵ページや着色済みアートワークに変換する無料のオンライン AI 塗り絵ページ生成ツールで、主に保護者、教育関係者、趣味愛好家、デザイナー、塗り絵本制作者向けに提供されています。教師、クリエイター、出版社にとっては、絵を描く技術やデザインスキルがなくても、カスタム活動教材やビジュアルコンセプトの制作を効率化できます。
+- [kidbooks-pics](https://www.aimyflow.com/ja/ai/kidbooks-pics?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): KidBooks.pics は、子ども向け絵本のための AI 画像生成ツールで、あらかじめ用意されたシーン、キャラクター、ムード、スタイル、フォーマットを使って、ユーザーが素早くイラストを作成できるよう支援します。主な対象は、子ども向け絵本の著者やイラストレーターです。出版チームやクリエイティブチームにとっては、プリセット主導のワークフローやキャラクター／シーンのライブラリにより、コンセプト立案を迅速化し、書籍全体でより一貫したビジュアルを維持するのに役立ちます。
+- [knowt-com](https://www.aimyflow.com/ja/ai/knowt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Knowtは、学生や教師向けにフラッシュカードの作成、インポート、学習を複数モードで行える学習プラットフォームです。学習コンテンツの再利用と復習を効率化し、授業全体に展開しやすくします。
+- [lovabletales-ai](https://www.aimyflow.com/ja/ai/lovabletales-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Lovable Tales は、AI を活用したストーリーテリングツールで、子どもと保護者が、読書力・語彙力・遊びを通じた学びを支える、パーソナライズされたインタラクティブな物語を作成できるよう支援します。保護者や幼児教育での利用においては、適応型のストーリー分岐と年齢に応じたコンテンツにより、意思決定力や読解力を育みながら、読書練習をより魅力的なものにできます。
+
+## AimyFlow で続きを見る
+
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/elementary-school-math-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+
+## 補足
+
+- この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。
+
