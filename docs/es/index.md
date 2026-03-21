@@ -1,12 +1,24 @@
 # Índice de Datos Abiertos de AimyFlow
 
-Exportaciones abiertas de herramientas de IA por rol en AimyFlow, con datasets estructurados y páginas aptas para GitHub.
+Un índice abierto y multilingüe de herramientas de IA conectadas con roles reales, con datasets estructurados y páginas aptas para GitHub.
 
-Generado el: 2026-03-21T13:51:16.448Z
+Generado el: 2026-03-21T16:19:51.752Z
 
-- Herramientas exportadas: 1512
+- Herramientas exportadas: 1557
 - Roles exportados: 221
 - Habilidades exportadas: 1105
+
+## Por qué existe esta página
+
+- Encontrar herramientas de IA por rol sin abrir primero el producto completo.
+- Inspeccionar exportaciones multilingües de roles, herramientas y habilidades en JSON.
+- Saltar a AimyFlow para páginas activas, votos de la comunidad y workflows.
+
+## Ideal para
+
+- Desarrolladores e investigadores que revisan datos estructurados de herramientas IA.
+- Operadores que comparan la cobertura de herramientas entre roles.
+- Visitantes de búsqueda que quieren un punto de entrada rápido por rol.
 
 ## Comienza aquí
 
@@ -21,7 +33,7 @@ Generado el: 2026-03-21T13:51:16.448Z
 - [Explorar todos los roles](https://www.aimyflow.com/es/roles)
 - [Ver la votación de la comunidad](https://www.aimyflow.com/es/roles)
 
-## Archivos de datos
+## Qué incluye esta exportación
 
 - [`data/tools.json`](../../data/tools.json)
 - [`data/roles.json`](../../data/roles.json)
@@ -30,90 +42,93 @@ Generado el: 2026-03-21T13:51:16.448Z
 
 ## Roles destacados
 
-- [Creador de contenido](./roles/content-creator.md): 686 herramientas, 5 habilidades
-- [Director de marketing digital](./roles/digital-marketing-director.md): 624 herramientas, 5 habilidades
-- [Redactor publicitario](./roles/copywriter.md): 447 herramientas, 5 habilidades
-- [Creador de contenido para redes sociales](./roles/social-media-content-creator.md): 413 herramientas, 5 habilidades
-- [Director ejecutivo](./roles/ceo.md): 330 herramientas, 5 habilidades
-- [Oficial de gestión de proyectos](./roles/project-management-officer.md): 318 herramientas, 5 habilidades
-- [Ingeniero de software](./roles/software-engineer.md): 315 herramientas, 5 habilidades
-- [Gerente de desarrollo de software](./roles/software-development-manager.md): 298 herramientas, 5 habilidades
-- [Diseñador gráfico](./roles/graphic-designer.md): 293 herramientas, 5 habilidades
-- [Redactor técnico](./roles/technical-writer.md): 232 herramientas, 5 habilidades
-- [Gerente de infraestructura TI](./roles/it-infrastructure-manager.md): 141 herramientas, 5 habilidades
-- [Profesor](./roles/teacher.md): 140 herramientas, 5 habilidades
-- [Consultor en tecnología educativa](./roles/education-technology-consultant.md): 132 herramientas, 5 habilidades
-- [Director de operaciones](./roles/coo.md): 127 herramientas, 5 habilidades
-- [Responsable de ventas e-commerce](./roles/e-commerce-sales-head.md): 126 herramientas, 5 habilidades
-- [Científico de datos](./roles/data-scientist.md): 125 herramientas, 5 habilidades
-- [Gerente de ventas de campo](./roles/field-sales-manager.md): 118 herramientas, 5 habilidades
-- [Productor de pódcast](./roles/podcast-producer.md): 111 herramientas, 5 habilidades
+- [Creador de contenido](./roles/content-creator.md): 706 herramientas, 5 habilidades
+- [Director de marketing digital](./roles/digital-marketing-director.md): 650 herramientas, 5 habilidades
+- [Redactor publicitario](./roles/copywriter.md): 467 herramientas, 5 habilidades
+- [Creador de contenido para redes sociales](./roles/social-media-content-creator.md): 427 herramientas, 5 habilidades
+- [Director ejecutivo](./roles/ceo.md): 343 herramientas, 5 habilidades
+- [Oficial de gestión de proyectos](./roles/project-management-officer.md): 331 herramientas, 5 habilidades
+- [Ingeniero de software](./roles/software-engineer.md): 323 herramientas, 5 habilidades
+- [Diseñador gráfico](./roles/graphic-designer.md): 305 herramientas, 5 habilidades
+- [Gerente de desarrollo de software](./roles/software-development-manager.md): 305 herramientas, 5 habilidades
+- [Redactor técnico](./roles/technical-writer.md): 243 herramientas, 5 habilidades
+- [Profesor](./roles/teacher.md): 146 herramientas, 5 habilidades
+- [Gerente de infraestructura TI](./roles/it-infrastructure-manager.md): 143 herramientas, 5 habilidades
+- [Director de operaciones](./roles/coo.md): 134 herramientas, 5 habilidades
+- [Consultor en tecnología educativa](./roles/education-technology-consultant.md): 133 herramientas, 5 habilidades
+- [Responsable de ventas e-commerce](./roles/e-commerce-sales-head.md): 130 herramientas, 5 habilidades
+- [Científico de datos](./roles/data-scientist.md): 127 herramientas, 5 habilidades
+- [Gerente de ventas de campo](./roles/field-sales-manager.md): 126 herramientas, 5 habilidades
+- [Productor de pódcast](./roles/podcast-producer.md): 114 herramientas, 5 habilidades
 
 ## Roles
 
-- [Creador de contenido](./roles/content-creator.md): 686 herramientas, 5 habilidades
-- [Director de marketing digital](./roles/digital-marketing-director.md): 624 herramientas, 5 habilidades
-- [Redactor publicitario](./roles/copywriter.md): 447 herramientas, 5 habilidades
-- [Creador de contenido para redes sociales](./roles/social-media-content-creator.md): 413 herramientas, 5 habilidades
-- [Director ejecutivo](./roles/ceo.md): 330 herramientas, 5 habilidades
-- [Oficial de gestión de proyectos](./roles/project-management-officer.md): 318 herramientas, 5 habilidades
-- [Ingeniero de software](./roles/software-engineer.md): 315 herramientas, 5 habilidades
-- [Gerente de desarrollo de software](./roles/software-development-manager.md): 298 herramientas, 5 habilidades
-- [Diseñador gráfico](./roles/graphic-designer.md): 293 herramientas, 5 habilidades
-- [Redactor técnico](./roles/technical-writer.md): 232 herramientas, 5 habilidades
-- [Gerente de infraestructura TI](./roles/it-infrastructure-manager.md): 141 herramientas, 5 habilidades
-- [Profesor](./roles/teacher.md): 140 herramientas, 5 habilidades
-- [Consultor en tecnología educativa](./roles/education-technology-consultant.md): 132 herramientas, 5 habilidades
-- [Director de operaciones](./roles/coo.md): 127 herramientas, 5 habilidades
-- [Responsable de ventas e-commerce](./roles/e-commerce-sales-head.md): 126 herramientas, 5 habilidades
-- [Científico de datos](./roles/data-scientist.md): 125 herramientas, 5 habilidades
-- [Gerente de ventas de campo](./roles/field-sales-manager.md): 118 herramientas, 5 habilidades
-- [Productor de pódcast](./roles/podcast-producer.md): 111 herramientas, 5 habilidades
-- [Profesor universitario](./roles/college-professor.md): 97 herramientas, 5 habilidades
-- [Ingeniero de datos](./roles/data-engineer.md): 84 herramientas, 5 habilidades
-- [Gerente de adquisición de talento](./roles/talent-acquisition-manager.md): 68 herramientas, 5 habilidades
+<details>
+<summary>Ver el directorio completo de roles (221 roles)</summary>
+
+- [Creador de contenido](./roles/content-creator.md): 706 herramientas, 5 habilidades
+- [Director de marketing digital](./roles/digital-marketing-director.md): 650 herramientas, 5 habilidades
+- [Redactor publicitario](./roles/copywriter.md): 467 herramientas, 5 habilidades
+- [Creador de contenido para redes sociales](./roles/social-media-content-creator.md): 427 herramientas, 5 habilidades
+- [Director ejecutivo](./roles/ceo.md): 343 herramientas, 5 habilidades
+- [Oficial de gestión de proyectos](./roles/project-management-officer.md): 331 herramientas, 5 habilidades
+- [Ingeniero de software](./roles/software-engineer.md): 323 herramientas, 5 habilidades
+- [Diseñador gráfico](./roles/graphic-designer.md): 305 herramientas, 5 habilidades
+- [Gerente de desarrollo de software](./roles/software-development-manager.md): 305 herramientas, 5 habilidades
+- [Redactor técnico](./roles/technical-writer.md): 243 herramientas, 5 habilidades
+- [Profesor](./roles/teacher.md): 146 herramientas, 5 habilidades
+- [Gerente de infraestructura TI](./roles/it-infrastructure-manager.md): 143 herramientas, 5 habilidades
+- [Director de operaciones](./roles/coo.md): 134 herramientas, 5 habilidades
+- [Consultor en tecnología educativa](./roles/education-technology-consultant.md): 133 herramientas, 5 habilidades
+- [Responsable de ventas e-commerce](./roles/e-commerce-sales-head.md): 130 herramientas, 5 habilidades
+- [Científico de datos](./roles/data-scientist.md): 127 herramientas, 5 habilidades
+- [Gerente de ventas de campo](./roles/field-sales-manager.md): 126 herramientas, 5 habilidades
+- [Productor de pódcast](./roles/podcast-producer.md): 114 herramientas, 5 habilidades
+- [Profesor universitario](./roles/college-professor.md): 100 herramientas, 5 habilidades
+- [Ingeniero de datos](./roles/data-engineer.md): 85 herramientas, 5 habilidades
+- [Gerente de adquisición de talento](./roles/talent-acquisition-manager.md): 72 herramientas, 5 habilidades
+- [Cineasta independiente](./roles/independent-filmmaker.md): 65 herramientas, 5 habilidades
 - [Gerentes de tecnología de la información](./roles/information-technology-managers.md): 64 herramientas, 5 habilidades
 - [Gerente de ciberseguridad](./roles/cybersecurity-manager.md): 63 herramientas, 5 habilidades
-- [Cineasta independiente](./roles/independent-filmmaker.md): 63 herramientas, 5 habilidades
 - [Analista de ciberseguridad](./roles/cybersecurity-analyst.md): 57 herramientas, 5 habilidades
+- [Tutor de programación en línea](./roles/online-coding-tutor.md): 54 herramientas, 5 habilidades
 - [Coach de liderazgo corporativo](./roles/corporate-leadership-coach.md): 53 herramientas, 5 habilidades
-- [Tutor de programación en línea](./roles/online-coding-tutor.md): 53 herramientas, 5 habilidades
 - [Ocupaciones informáticas](./roles/computer-occupations.md): 51 herramientas, 5 habilidades
-- [Abogado](./roles/lawyer.md): 48 herramientas, 5 habilidades
+- [Abogado](./roles/lawyer.md): 49 herramientas, 5 habilidades
+- [Amante de la música](./roles/music-lover.md): 48 herramientas, 5 habilidades
 - [Orientador escolar](./roles/school-counselor.md): 48 herramientas, 5 habilidades
-- [Amante de la música](./roles/music-lover.md): 47 herramientas, 5 habilidades
 - [Gerentes de marketing y ventas](./roles/marketing-and-sales-managers.md): 45 herramientas, 5 habilidades
 - [Administrador sanitario](./roles/healthcare-administrator.md): 44 herramientas, 5 habilidades
+- [Contador público certificado](./roles/certified-public-accountant.md): 42 herramientas, 5 habilidades
 - [Analista de riesgos](./roles/risk-analyst.md): 42 herramientas, 5 habilidades
-- [Contador público certificado](./roles/certified-public-accountant.md): 41 herramientas, 5 habilidades
 - [Analista financiero](./roles/financial-analyst.md): 40 herramientas, 5 habilidades
 - [Comunicadores de medios](./roles/media-communicators.md): 36 herramientas, 5 habilidades
 - [Especialistas en operaciones empresariales](./roles/business-operations-specialists.md): 34 herramientas, 5 habilidades
 - [Escritor de ficción](./roles/fiction-writer.md): 34 herramientas, 5 habilidades
+- [Profesor de instituto comunitario](./roles/community-college-instructor.md): 33 herramientas, 5 habilidades
 - [Agente inmobiliario](./roles/real-estate-agent.md): 33 herramientas, 5 habilidades
 - [Director financiero](./roles/cfo.md): 31 herramientas, 5 habilidades
-- [Profesor de instituto comunitario](./roles/community-college-instructor.md): 31 herramientas, 5 habilidades
+- [Tutor de preparación para exámenes](./roles/test-prep-tutor.md): 31 herramientas, 5 habilidades
 - [Coach de bienestar](./roles/wellness-coach.md): 31 herramientas, 5 habilidades
 - [Gerente de planificación y análisis financiero](./roles/financial-planning-analysis-manager.md): 30 herramientas, 5 habilidades
-- [Tutor de preparación para exámenes](./roles/test-prep-tutor.md): 30 herramientas, 5 habilidades
-- [Gerente de sucursal](./roles/branch-office-manager.md): 27 herramientas, 5 habilidades
+- [Gerente de sucursal](./roles/branch-office-manager.md): 28 herramientas, 5 habilidades
 - [Gerentes financieros](./roles/financial-managers.md): 27 herramientas, 5 habilidades
 - [Ingenieros](./roles/engineers.md): 26 herramientas, 5 habilidades
 - [Diseñador de moda](./roles/fashion-designer.md): 26 herramientas, 5 habilidades
+- [Gerente de relaciones laborales](./roles/employee-relations-manager.md): 25 herramientas, 5 habilidades
 - [Especialistas financieros](./roles/financial-specialists.md): 25 herramientas, 5 habilidades
 - [Gerentes de operaciones especializadas](./roles/operations-specialties-managers.md): 25 herramientas, 5 habilidades
 - [Docentes de educación superior](./roles/postsecondary-teachers.md): 25 herramientas, 5 habilidades
-- [Gerente de relaciones laborales](./roles/employee-relations-manager.md): 24 herramientas, 5 habilidades
 - [Otros roles educativos](./roles/other-education-roles.md): 24 herramientas, 5 habilidades
 - [Escritores y autores](./roles/writers-and-authors.md): 23 herramientas, 5 habilidades
 - [Vendedor de comercio electrónico](./roles/e-commerce-seller.md): 22 herramientas, 5 habilidades
 - [Gestor de carteras de inversión](./roles/investment-portfolio-manager.md): 22 herramientas, 5 habilidades
 - [Aficionado a la comida](./roles/food-enthusiast.md): 21 herramientas, 5 habilidades
 - [Docentes escolares](./roles/school-teachers.md): 21 herramientas, 5 habilidades
+- [Diseñador de interiores](./roles/interior-designer.md): 18 herramientas, 5 habilidades
 - [Planificador de operaciones logísticas](./roles/logistics-operations-planner.md): 18 herramientas, 5 habilidades
 - [Otros roles artísticos](./roles/other-arts-roles.md): 18 herramientas, 5 habilidades
 - [Gerente general de restaurante](./roles/restaurant-general-manager.md): 18 herramientas, 5 habilidades
-- [Diseñador de interiores](./roles/interior-designer.md): 17 herramientas, 5 habilidades
 - [Reportero de noticias de TV](./roles/tv-news-reporter.md): 17 herramientas, 5 habilidades
 - [Gerente fiscal corporativo](./roles/corporate-tax-manager.md): 15 herramientas, 5 habilidades
 - [Trabajadores de arte y diseño](./roles/art-and-design-workers.md): 14 herramientas, 5 habilidades
@@ -126,8 +141,8 @@ Generado el: 2026-03-21T13:51:16.448Z
 - [Trabajadores de entretenimiento y deportes](./roles/entertainment-and-sports-workers.md): 12 herramientas, 5 habilidades
 - [Gerente de programas sin fines de lucro](./roles/nonprofit-program-manager.md): 11 herramientas, 5 habilidades
 - [Actor de voz](./roles/voice-actor.md): 11 herramientas, 5 habilidades
+- [Profesor de matemáticas de primaria](./roles/elementary-school-math-teacher.md): 10 herramientas, 5 habilidades
 - [Profesionales de la salud](./roles/health-practitioners.md): 10 herramientas, 5 habilidades
-- [Profesor de matemáticas de primaria](./roles/elementary-school-math-teacher.md): 9 herramientas, 5 habilidades
 - [Bibliotecarios y archiveros](./roles/librarians-and-archivists.md): 9 herramientas, 5 habilidades
 - [Otros roles de gestión](./roles/other-management-roles.md): 9 herramientas, 5 habilidades
 - [Arquitecto residencial](./roles/residential-architect.md): 9 herramientas, 5 habilidades
@@ -272,4 +287,6 @@ Generado el: 2026-03-21T13:51:16.448Z
 - [Coordinador de voluntarios](./roles/volunteer-coordinator.md): 0 herramientas, 5 habilidades
 - [Representantes de ventas mayoristas](./roles/wholesale-sales-reps.md): 0 herramientas, 5 habilidades
 - [Instructor de estudio de yoga](./roles/yoga-studio-instructor.md): 0 herramientas, 5 habilidades
+
+</details>
 

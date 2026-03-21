@@ -1,12 +1,24 @@
 # AimyFlow オープンデータ索引
 
-職種別 AI ツールをまとめた AimyFlow のオープンデータ。GitHub 向けの要約ページと構造化データを含みます。
+実際の職種に対応した AI ツールをまとめた、多言語対応のオープンインデックスです。構造化データと GitHub 向けの案内ページを含みます。
 
-生成日時: 2026-03-21T13:51:16.448Z
+生成日時: 2026-03-21T16:19:51.752Z
 
-- ツール数: 1512
+- ツール数: 1557
 - 役割数: 221
 - スキル数: 1105
+
+## このページの目的
+
+- まず職種別の AI ツールを素早く把握し、その後に本体へ進めます。
+- 役割、ツール、スキルの多言語 JSON エクスポートを確認できます。
+- AimyFlow 本体でコミュニティ投票や workflow、詳細ページに進めます。
+
+## こんな人に最適
+
+- 構造化された AI ツールデータを調べる開発者や研究者。
+- 役割ごとのツール網羅性を比較したい運用担当者。
+- 職種別に素早く調べたい検索ユーザー。
 
 ## ここから始める
 
@@ -21,7 +33,7 @@
 - [すべての役割を見る](https://www.aimyflow.com/ja/roles)
 - [コミュニティ投票を見る](https://www.aimyflow.com/ja/roles)
 
-## データファイル
+## このエクスポートに含まれるもの
 
 - [`data/tools.json`](../../data/tools.json)
 - [`data/roles.json`](../../data/roles.json)
@@ -30,90 +42,93 @@
 
 ## 注目の役割
 
-- [コンテンツクリエイター](./roles/content-creator.md): 686 ツール, 5 スキル
-- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 624 ツール, 5 スキル
-- [コピーライター](./roles/copywriter.md): 447 ツール, 5 スキル
-- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 413 ツール, 5 スキル
-- [CEO](./roles/ceo.md): 330 ツール, 5 スキル
-- [PMO担当](./roles/project-management-officer.md): 318 ツール, 5 スキル
-- [ソフトウェアエンジニア](./roles/software-engineer.md): 315 ツール, 5 スキル
-- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 298 ツール, 5 スキル
-- [グラフィックデザイナー](./roles/graphic-designer.md): 293 ツール, 5 スキル
-- [テクニカルライター](./roles/technical-writer.md): 232 ツール, 5 スキル
-- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 141 ツール, 5 スキル
-- [教師](./roles/teacher.md): 140 ツール, 5 スキル
-- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 132 ツール, 5 スキル
-- [COO](./roles/coo.md): 127 ツール, 5 スキル
-- [EC営業責任者](./roles/e-commerce-sales-head.md): 126 ツール, 5 スキル
-- [データサイエンティスト](./roles/data-scientist.md): 125 ツール, 5 スキル
-- [外勤営業マネージャー](./roles/field-sales-manager.md): 118 ツール, 5 スキル
-- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 111 ツール, 5 スキル
+- [コンテンツクリエイター](./roles/content-creator.md): 706 ツール, 5 スキル
+- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 650 ツール, 5 スキル
+- [コピーライター](./roles/copywriter.md): 467 ツール, 5 スキル
+- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 427 ツール, 5 スキル
+- [CEO](./roles/ceo.md): 343 ツール, 5 スキル
+- [PMO担当](./roles/project-management-officer.md): 331 ツール, 5 スキル
+- [ソフトウェアエンジニア](./roles/software-engineer.md): 323 ツール, 5 スキル
+- [グラフィックデザイナー](./roles/graphic-designer.md): 305 ツール, 5 スキル
+- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 305 ツール, 5 スキル
+- [テクニカルライター](./roles/technical-writer.md): 243 ツール, 5 スキル
+- [教師](./roles/teacher.md): 146 ツール, 5 スキル
+- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 143 ツール, 5 スキル
+- [COO](./roles/coo.md): 134 ツール, 5 スキル
+- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 133 ツール, 5 スキル
+- [EC営業責任者](./roles/e-commerce-sales-head.md): 130 ツール, 5 スキル
+- [データサイエンティスト](./roles/data-scientist.md): 127 ツール, 5 スキル
+- [外勤営業マネージャー](./roles/field-sales-manager.md): 126 ツール, 5 スキル
+- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 114 ツール, 5 スキル
 
 ## 役割一覧
 
-- [コンテンツクリエイター](./roles/content-creator.md): 686 ツール, 5 スキル
-- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 624 ツール, 5 スキル
-- [コピーライター](./roles/copywriter.md): 447 ツール, 5 スキル
-- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 413 ツール, 5 スキル
-- [CEO](./roles/ceo.md): 330 ツール, 5 スキル
-- [PMO担当](./roles/project-management-officer.md): 318 ツール, 5 スキル
-- [ソフトウェアエンジニア](./roles/software-engineer.md): 315 ツール, 5 スキル
-- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 298 ツール, 5 スキル
-- [グラフィックデザイナー](./roles/graphic-designer.md): 293 ツール, 5 スキル
-- [テクニカルライター](./roles/technical-writer.md): 232 ツール, 5 スキル
-- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 141 ツール, 5 スキル
-- [教師](./roles/teacher.md): 140 ツール, 5 スキル
-- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 132 ツール, 5 スキル
-- [COO](./roles/coo.md): 127 ツール, 5 スキル
-- [EC営業責任者](./roles/e-commerce-sales-head.md): 126 ツール, 5 スキル
-- [データサイエンティスト](./roles/data-scientist.md): 125 ツール, 5 スキル
-- [外勤営業マネージャー](./roles/field-sales-manager.md): 118 ツール, 5 スキル
-- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 111 ツール, 5 スキル
-- [大学教授](./roles/college-professor.md): 97 ツール, 5 スキル
-- [データエンジニア](./roles/data-engineer.md): 84 ツール, 5 スキル
-- [採用マネージャー](./roles/talent-acquisition-manager.md): 68 ツール, 5 スキル
+<details>
+<summary>完全な役割ディレクトリを見る (221 役割)</summary>
+
+- [コンテンツクリエイター](./roles/content-creator.md): 706 ツール, 5 スキル
+- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 650 ツール, 5 スキル
+- [コピーライター](./roles/copywriter.md): 467 ツール, 5 スキル
+- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 427 ツール, 5 スキル
+- [CEO](./roles/ceo.md): 343 ツール, 5 スキル
+- [PMO担当](./roles/project-management-officer.md): 331 ツール, 5 スキル
+- [ソフトウェアエンジニア](./roles/software-engineer.md): 323 ツール, 5 スキル
+- [グラフィックデザイナー](./roles/graphic-designer.md): 305 ツール, 5 スキル
+- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 305 ツール, 5 スキル
+- [テクニカルライター](./roles/technical-writer.md): 243 ツール, 5 スキル
+- [教師](./roles/teacher.md): 146 ツール, 5 スキル
+- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 143 ツール, 5 スキル
+- [COO](./roles/coo.md): 134 ツール, 5 スキル
+- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 133 ツール, 5 スキル
+- [EC営業責任者](./roles/e-commerce-sales-head.md): 130 ツール, 5 スキル
+- [データサイエンティスト](./roles/data-scientist.md): 127 ツール, 5 スキル
+- [外勤営業マネージャー](./roles/field-sales-manager.md): 126 ツール, 5 スキル
+- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 114 ツール, 5 スキル
+- [大学教授](./roles/college-professor.md): 100 ツール, 5 スキル
+- [データエンジニア](./roles/data-engineer.md): 85 ツール, 5 スキル
+- [採用マネージャー](./roles/talent-acquisition-manager.md): 72 ツール, 5 スキル
+- [インディペンデント映画監督](./roles/independent-filmmaker.md): 65 ツール, 5 スキル
 - [ITマネージャー](./roles/information-technology-managers.md): 64 ツール, 5 スキル
 - [サイバーセキュリティマネージャー](./roles/cybersecurity-manager.md): 63 ツール, 5 スキル
-- [インディペンデント映画監督](./roles/independent-filmmaker.md): 63 ツール, 5 スキル
 - [サイバーセキュリティアナリスト](./roles/cybersecurity-analyst.md): 57 ツール, 5 スキル
+- [オンラインプログラミング講師](./roles/online-coding-tutor.md): 54 ツール, 5 スキル
 - [企業向けリーダーシップコーチ](./roles/corporate-leadership-coach.md): 53 ツール, 5 スキル
-- [オンラインプログラミング講師](./roles/online-coding-tutor.md): 53 ツール, 5 スキル
 - [コンピュータ関連職](./roles/computer-occupations.md): 51 ツール, 5 スキル
-- [弁護士](./roles/lawyer.md): 48 ツール, 5 スキル
+- [弁護士](./roles/lawyer.md): 49 ツール, 5 スキル
+- [音楽好き](./roles/music-lover.md): 48 ツール, 5 スキル
 - [スクールカウンセラー](./roles/school-counselor.md): 48 ツール, 5 スキル
-- [音楽好き](./roles/music-lover.md): 47 ツール, 5 スキル
 - [マーケ・営業マネージャー](./roles/marketing-and-sales-managers.md): 45 ツール, 5 スキル
 - [医療管理者](./roles/healthcare-administrator.md): 44 ツール, 5 スキル
+- [公認会計士](./roles/certified-public-accountant.md): 42 ツール, 5 スキル
 - [リスクアナリスト](./roles/risk-analyst.md): 42 ツール, 5 スキル
-- [公認会計士](./roles/certified-public-accountant.md): 41 ツール, 5 スキル
 - [金融アナリスト](./roles/financial-analyst.md): 40 ツール, 5 スキル
 - [メディア・広報職](./roles/media-communicators.md): 36 ツール, 5 スキル
 - [業務運営専門職](./roles/business-operations-specialists.md): 34 ツール, 5 スキル
 - [小説家](./roles/fiction-writer.md): 34 ツール, 5 スキル
+- [コミュニティカレッジ講師](./roles/community-college-instructor.md): 33 ツール, 5 スキル
 - [不動産エージェント](./roles/real-estate-agent.md): 33 ツール, 5 スキル
 - [CFO](./roles/cfo.md): 31 ツール, 5 スキル
-- [コミュニティカレッジ講師](./roles/community-college-instructor.md): 31 ツール, 5 スキル
+- [試験対策講師](./roles/test-prep-tutor.md): 31 ツール, 5 スキル
 - [ウェルネスコーチ](./roles/wellness-coach.md): 31 ツール, 5 スキル
 - [経営企画・分析マネージャー](./roles/financial-planning-analysis-manager.md): 30 ツール, 5 スキル
-- [試験対策講師](./roles/test-prep-tutor.md): 30 ツール, 5 スキル
-- [支店長](./roles/branch-office-manager.md): 27 ツール, 5 スキル
+- [支店長](./roles/branch-office-manager.md): 28 ツール, 5 スキル
 - [財務マネージャー](./roles/financial-managers.md): 27 ツール, 5 スキル
 - [エンジニア](./roles/engineers.md): 26 ツール, 5 スキル
 - [ファッションデザイナー](./roles/fashion-designer.md): 26 ツール, 5 スキル
+- [労務マネージャー](./roles/employee-relations-manager.md): 25 ツール, 5 スキル
 - [金融専門職](./roles/financial-specialists.md): 25 ツール, 5 スキル
 - [業務専門管理職](./roles/operations-specialties-managers.md): 25 ツール, 5 スキル
 - [高等教育教員](./roles/postsecondary-teachers.md): 25 ツール, 5 スキル
-- [労務マネージャー](./roles/employee-relations-manager.md): 24 ツール, 5 スキル
 - [その他教育職](./roles/other-education-roles.md): 24 ツール, 5 スキル
 - [作家・著述家](./roles/writers-and-authors.md): 23 ツール, 5 スキル
 - [EC販売者](./roles/e-commerce-seller.md): 22 ツール, 5 スキル
 - [投資ポートフォリオマネージャー](./roles/investment-portfolio-manager.md): 22 ツール, 5 スキル
 - [食通](./roles/food-enthusiast.md): 21 ツール, 5 スキル
 - [学校教員](./roles/school-teachers.md): 21 ツール, 5 スキル
+- [インテリアデザイナー](./roles/interior-designer.md): 18 ツール, 5 スキル
 - [物流運用プランナー](./roles/logistics-operations-planner.md): 18 ツール, 5 スキル
 - [その他芸術職](./roles/other-arts-roles.md): 18 ツール, 5 スキル
 - [レストラン総支配人](./roles/restaurant-general-manager.md): 18 ツール, 5 スキル
-- [インテリアデザイナー](./roles/interior-designer.md): 17 ツール, 5 スキル
 - [テレビニュース記者](./roles/tv-news-reporter.md): 17 ツール, 5 スキル
 - [法人税マネージャー](./roles/corporate-tax-manager.md): 15 ツール, 5 スキル
 - [アート・デザイン職](./roles/art-and-design-workers.md): 14 ツール, 5 スキル
@@ -126,8 +141,8 @@
 - [娯楽・スポーツ従事者](./roles/entertainment-and-sports-workers.md): 12 ツール, 5 スキル
 - [NPOプログラムマネージャー](./roles/nonprofit-program-manager.md): 11 ツール, 5 スキル
 - [声優](./roles/voice-actor.md): 11 ツール, 5 スキル
+- [小学校算数教師](./roles/elementary-school-math-teacher.md): 10 ツール, 5 スキル
 - [医療従事者](./roles/health-practitioners.md): 10 ツール, 5 スキル
-- [小学校算数教師](./roles/elementary-school-math-teacher.md): 9 ツール, 5 スキル
 - [司書・アーキビスト](./roles/librarians-and-archivists.md): 9 ツール, 5 スキル
 - [その他管理職](./roles/other-management-roles.md): 9 ツール, 5 スキル
 - [住宅建築家](./roles/residential-architect.md): 9 ツール, 5 スキル
@@ -272,4 +287,6 @@
 - [ボランティアコーディネーター](./roles/volunteer-coordinator.md): 0 ツール, 5 スキル
 - [卸売営業担当](./roles/wholesale-sales-reps.md): 0 ツール, 5 スキル
 - [ヨガスタジオ講師](./roles/yoga-studio-instructor.md): 0 ツール, 5 スキル
+
+</details>
 

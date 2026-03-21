@@ -4,7 +4,7 @@
 
 ## Snapshot
 
-- Tool matches: 9
+- Tool matches: 10
 - Skill cards: 5
 
 ## Core Skills
@@ -17,6 +17,7 @@
 
 ## Matched Tools
 
+- [bestcoloringpages-ai](https://www.aimyflow.com/en/ai/bestcoloringpages-ai): BestColoringPages AI is an AI coloring page generator and library that helps users turn photos, text prompts, and stories into printable coloring pages or coloring books, mainly for parents, teachers, hobbyists, and creators. In AI-assisted creative work, it can help educators, illustrators, and content makers produce personalized activity materials and visual concepts faster with consistent line art and color references.
 - [conceptviz-app](https://www.aimyflow.com/en/ai/conceptviz-app): ConceptViz is an AI diagram generator that turns plain-English prompts into science and math visuals for slides, worksheets, and research figures, mainly for teachers, students, and researchers. For educators and academic professionals, it can reduce time spent drawing or searching for diagrams while producing clearer, more consistent visual explanations for lessons, presentations, and publications.
 - [connectthedotsprintable-online](https://www.aimyflow.com/en/ai/connectthedotsprintable-online): ConnectTheDotsPrintable.online is an online connect-the-dots generator that helps users turn photos, drawings, or text prompts into printable dot-to-dot worksheets, mainly for parents, teachers, and puzzle enthusiasts. For educators and activity creators, its AI-assisted image conversion and adjustable difficulty can speed up making age-appropriate printable materials for home or classroom use.
 - [coolcoloringpages-com](https://www.aimyflow.com/en/ai/coolcoloringpages-com): Cool Coloring Pages is an AI coloring page generator that helps users turn ideas or photos into printable, customizable coloring pages, mainly for kids, parents, and teachers. For parents and educators, AI can speed up creation of age-appropriate, personalized activity materials and make it easier to produce fresh pages for home, classrooms, or events.
@@ -24,7 +25,6 @@
 - [icoloring-ai](https://www.aimyflow.com/en/ai/icoloring-ai): iColoring AI is a free online AI coloring page generator that turns text prompts or photos into printable, watermark-free coloring pages and colorized artwork, mainly for parents, educators, hobbyists, designers, and coloring book creators. For teachers, creators, and publishers, it can speed up producing custom activity materials and visual concepts without requiring drawing or design skills.
 - [kidbooks-pics](https://www.aimyflow.com/en/ai/kidbooks-pics): KidBooks.pics is an AI image generator for children’s books that helps users create illustrations quickly with preset scenes, characters, moods, styles, and formats, mainly for children’s book authors and illustrators. For publishing and creative teams, its preset-driven workflow and character or scene libraries can speed concepting and support more consistent visuals across a book.
 - [knowt-com](https://www.aimyflow.com/en/ai/knowt-com): Knowt is a study platform and Quizlet alternative that helps students and teachers create, import, and practice flashcards with multiple study modes. It supports modern learning workflows by making study content easier to reuse, review, and scale across classes.
-- [lovabletales-ai](https://www.aimyflow.com/en/ai/lovabletales-ai): Lovable Tales is an AI-powered storytelling tool that helps children and parents create personalized, interactive stories that support reading, vocabulary, and learning through play. For parents and early education use, adaptive story paths and age-appropriate content can make reading practice more engaging while encouraging decision-making and comprehension.
 
 ## Continue on AimyFlow
 

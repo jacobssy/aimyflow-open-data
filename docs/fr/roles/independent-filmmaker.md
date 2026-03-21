@@ -4,7 +4,7 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 63
+- Outils associés: 65
 - Cartes de compétences: 5
 
 ## Compétences clés

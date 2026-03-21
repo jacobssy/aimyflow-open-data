@@ -1,12 +1,24 @@
 # Index Open Data AimyFlow
 
-Exports ouverts des outils IA par métier sur AimyFlow, avec jeux de données structurés et pages compatibles GitHub.
+Un index ouvert et multilingue des outils IA reliés à de vrais métiers, avec jeux de données structurés et pages compatibles GitHub.
 
-Généré le: 2026-03-21T13:51:16.448Z
+Généré le: 2026-03-21T16:19:51.752Z
 
-- Outils exportés: 1512
+- Outils exportés: 1557
 - Rôles exportés: 221
 - Compétences exportées: 1105
+
+## Pourquoi cette page existe
+
+- Trouver des outils IA par rôle sans ouvrir tout le produit dès le départ.
+- Inspecter les exports multilingues de rôles, outils et compétences en JSON.
+- Aller sur AimyFlow pour les pages live, les votes de la communauté et les workflows.
+
+## Idéal pour
+
+- Les développeurs et chercheurs qui inspectent des données structurées sur les outils IA.
+- Les équipes qui comparent la couverture des outils selon les rôles.
+- Les visiteurs issus de la recherche qui veulent un point de départ rapide par rôle.
 
 ## Commencer ici
 
@@ -21,7 +33,7 @@ Généré le: 2026-03-21T13:51:16.448Z
 - [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
 - [Voir les votes de la communauté](https://www.aimyflow.com/fr/roles)
 
-## Fichiers de données
+## Ce que contient cet export
 
 - [`data/tools.json`](../../data/tools.json)
 - [`data/roles.json`](../../data/roles.json)
@@ -30,90 +42,93 @@ Généré le: 2026-03-21T13:51:16.448Z
 
 ## Rôles mis en avant
 
-- [Créateur de contenu](./roles/content-creator.md): 686 outils, 5 compétences
-- [Directeur marketing digital](./roles/digital-marketing-director.md): 624 outils, 5 compétences
-- [Rédacteur publicitaire](./roles/copywriter.md): 447 outils, 5 compétences
-- [Créateur de contenu réseaux sociaux](./roles/social-media-content-creator.md): 413 outils, 5 compétences
-- [PDG](./roles/ceo.md): 330 outils, 5 compétences
-- [Responsable PMO](./roles/project-management-officer.md): 318 outils, 5 compétences
-- [Ingénieur logiciel](./roles/software-engineer.md): 315 outils, 5 compétences
-- [Responsable développement logiciel](./roles/software-development-manager.md): 298 outils, 5 compétences
-- [Graphiste](./roles/graphic-designer.md): 293 outils, 5 compétences
-- [Rédacteur technique](./roles/technical-writer.md): 232 outils, 5 compétences
-- [Responsable infrastructure IT](./roles/it-infrastructure-manager.md): 141 outils, 5 compétences
-- [Enseignant](./roles/teacher.md): 140 outils, 5 compétences
-- [Consultant en technologies éducatives](./roles/education-technology-consultant.md): 132 outils, 5 compétences
-- [Directeur des opérations](./roles/coo.md): 127 outils, 5 compétences
-- [Responsable des ventes e-commerce](./roles/e-commerce-sales-head.md): 126 outils, 5 compétences
-- [Data scientist](./roles/data-scientist.md): 125 outils, 5 compétences
-- [Responsable commercial terrain](./roles/field-sales-manager.md): 118 outils, 5 compétences
-- [Producteur de podcast](./roles/podcast-producer.md): 111 outils, 5 compétences
+- [Créateur de contenu](./roles/content-creator.md): 706 outils, 5 compétences
+- [Directeur marketing digital](./roles/digital-marketing-director.md): 650 outils, 5 compétences
+- [Rédacteur publicitaire](./roles/copywriter.md): 467 outils, 5 compétences
+- [Créateur de contenu réseaux sociaux](./roles/social-media-content-creator.md): 427 outils, 5 compétences
+- [PDG](./roles/ceo.md): 343 outils, 5 compétences
+- [Responsable PMO](./roles/project-management-officer.md): 331 outils, 5 compétences
+- [Ingénieur logiciel](./roles/software-engineer.md): 323 outils, 5 compétences
+- [Graphiste](./roles/graphic-designer.md): 305 outils, 5 compétences
+- [Responsable développement logiciel](./roles/software-development-manager.md): 305 outils, 5 compétences
+- [Rédacteur technique](./roles/technical-writer.md): 243 outils, 5 compétences
+- [Enseignant](./roles/teacher.md): 146 outils, 5 compétences
+- [Responsable infrastructure IT](./roles/it-infrastructure-manager.md): 143 outils, 5 compétences
+- [Directeur des opérations](./roles/coo.md): 134 outils, 5 compétences
+- [Consultant en technologies éducatives](./roles/education-technology-consultant.md): 133 outils, 5 compétences
+- [Responsable des ventes e-commerce](./roles/e-commerce-sales-head.md): 130 outils, 5 compétences
+- [Data scientist](./roles/data-scientist.md): 127 outils, 5 compétences
+- [Responsable commercial terrain](./roles/field-sales-manager.md): 126 outils, 5 compétences
+- [Producteur de podcast](./roles/podcast-producer.md): 114 outils, 5 compétences
 
 ## Rôles
 
-- [Créateur de contenu](./roles/content-creator.md): 686 outils, 5 compétences
-- [Directeur marketing digital](./roles/digital-marketing-director.md): 624 outils, 5 compétences
-- [Rédacteur publicitaire](./roles/copywriter.md): 447 outils, 5 compétences
-- [Créateur de contenu réseaux sociaux](./roles/social-media-content-creator.md): 413 outils, 5 compétences
-- [PDG](./roles/ceo.md): 330 outils, 5 compétences
-- [Responsable PMO](./roles/project-management-officer.md): 318 outils, 5 compétences
-- [Ingénieur logiciel](./roles/software-engineer.md): 315 outils, 5 compétences
-- [Responsable développement logiciel](./roles/software-development-manager.md): 298 outils, 5 compétences
-- [Graphiste](./roles/graphic-designer.md): 293 outils, 5 compétences
-- [Rédacteur technique](./roles/technical-writer.md): 232 outils, 5 compétences
-- [Responsable infrastructure IT](./roles/it-infrastructure-manager.md): 141 outils, 5 compétences
-- [Enseignant](./roles/teacher.md): 140 outils, 5 compétences
-- [Consultant en technologies éducatives](./roles/education-technology-consultant.md): 132 outils, 5 compétences
-- [Directeur des opérations](./roles/coo.md): 127 outils, 5 compétences
-- [Responsable des ventes e-commerce](./roles/e-commerce-sales-head.md): 126 outils, 5 compétences
-- [Data scientist](./roles/data-scientist.md): 125 outils, 5 compétences
-- [Responsable commercial terrain](./roles/field-sales-manager.md): 118 outils, 5 compétences
-- [Producteur de podcast](./roles/podcast-producer.md): 111 outils, 5 compétences
-- [Professeur d’université](./roles/college-professor.md): 97 outils, 5 compétences
-- [Ingénieur data](./roles/data-engineer.md): 84 outils, 5 compétences
-- [Responsable acquisition de talents](./roles/talent-acquisition-manager.md): 68 outils, 5 compétences
+<details>
+<summary>Parcourir le répertoire complet des rôles (221 rôles)</summary>
+
+- [Créateur de contenu](./roles/content-creator.md): 706 outils, 5 compétences
+- [Directeur marketing digital](./roles/digital-marketing-director.md): 650 outils, 5 compétences
+- [Rédacteur publicitaire](./roles/copywriter.md): 467 outils, 5 compétences
+- [Créateur de contenu réseaux sociaux](./roles/social-media-content-creator.md): 427 outils, 5 compétences
+- [PDG](./roles/ceo.md): 343 outils, 5 compétences
+- [Responsable PMO](./roles/project-management-officer.md): 331 outils, 5 compétences
+- [Ingénieur logiciel](./roles/software-engineer.md): 323 outils, 5 compétences
+- [Graphiste](./roles/graphic-designer.md): 305 outils, 5 compétences
+- [Responsable développement logiciel](./roles/software-development-manager.md): 305 outils, 5 compétences
+- [Rédacteur technique](./roles/technical-writer.md): 243 outils, 5 compétences
+- [Enseignant](./roles/teacher.md): 146 outils, 5 compétences
+- [Responsable infrastructure IT](./roles/it-infrastructure-manager.md): 143 outils, 5 compétences
+- [Directeur des opérations](./roles/coo.md): 134 outils, 5 compétences
+- [Consultant en technologies éducatives](./roles/education-technology-consultant.md): 133 outils, 5 compétences
+- [Responsable des ventes e-commerce](./roles/e-commerce-sales-head.md): 130 outils, 5 compétences
+- [Data scientist](./roles/data-scientist.md): 127 outils, 5 compétences
+- [Responsable commercial terrain](./roles/field-sales-manager.md): 126 outils, 5 compétences
+- [Producteur de podcast](./roles/podcast-producer.md): 114 outils, 5 compétences
+- [Professeur d’université](./roles/college-professor.md): 100 outils, 5 compétences
+- [Ingénieur data](./roles/data-engineer.md): 85 outils, 5 compétences
+- [Responsable acquisition de talents](./roles/talent-acquisition-manager.md): 72 outils, 5 compétences
+- [Réalisateur indépendant](./roles/independent-filmmaker.md): 65 outils, 5 compétences
 - [Responsables informatiques](./roles/information-technology-managers.md): 64 outils, 5 compétences
 - [Responsable cybersécurité](./roles/cybersecurity-manager.md): 63 outils, 5 compétences
-- [Réalisateur indépendant](./roles/independent-filmmaker.md): 63 outils, 5 compétences
 - [Analyste cybersécurité](./roles/cybersecurity-analyst.md): 57 outils, 5 compétences
+- [Tuteur en programmation en ligne](./roles/online-coding-tutor.md): 54 outils, 5 compétences
 - [Coach en leadership d’entreprise](./roles/corporate-leadership-coach.md): 53 outils, 5 compétences
-- [Tuteur en programmation en ligne](./roles/online-coding-tutor.md): 53 outils, 5 compétences
 - [Métiers de l'informatique](./roles/computer-occupations.md): 51 outils, 5 compétences
-- [Avocat](./roles/lawyer.md): 48 outils, 5 compétences
+- [Avocat](./roles/lawyer.md): 49 outils, 5 compétences
+- [Amateur de musique](./roles/music-lover.md): 48 outils, 5 compétences
 - [Conseiller d’orientation scolaire](./roles/school-counselor.md): 48 outils, 5 compétences
-- [Amateur de musique](./roles/music-lover.md): 47 outils, 5 compétences
 - [Responsables marketing et ventes](./roles/marketing-and-sales-managers.md): 45 outils, 5 compétences
 - [Administrateur de santé](./roles/healthcare-administrator.md): 44 outils, 5 compétences
+- [Expert-comptable certifié](./roles/certified-public-accountant.md): 42 outils, 5 compétences
 - [Analyste des risques](./roles/risk-analyst.md): 42 outils, 5 compétences
-- [Expert-comptable certifié](./roles/certified-public-accountant.md): 41 outils, 5 compétences
 - [Analyste financier](./roles/financial-analyst.md): 40 outils, 5 compétences
 - [Communicants médias](./roles/media-communicators.md): 36 outils, 5 compétences
 - [Spécialistes des opérations](./roles/business-operations-specialists.md): 34 outils, 5 compétences
 - [Auteur de fiction](./roles/fiction-writer.md): 34 outils, 5 compétences
+- [Enseignant en collège communautaire](./roles/community-college-instructor.md): 33 outils, 5 compétences
 - [Agent immobilier](./roles/real-estate-agent.md): 33 outils, 5 compétences
 - [Directeur financier](./roles/cfo.md): 31 outils, 5 compétences
-- [Enseignant en collège communautaire](./roles/community-college-instructor.md): 31 outils, 5 compétences
+- [Tuteur de préparation aux examens](./roles/test-prep-tutor.md): 31 outils, 5 compétences
 - [Coach bien-être](./roles/wellness-coach.md): 31 outils, 5 compétences
 - [Responsable FP&A](./roles/financial-planning-analysis-manager.md): 30 outils, 5 compétences
-- [Tuteur de préparation aux examens](./roles/test-prep-tutor.md): 30 outils, 5 compétences
-- [Responsable d’agence](./roles/branch-office-manager.md): 27 outils, 5 compétences
+- [Responsable d’agence](./roles/branch-office-manager.md): 28 outils, 5 compétences
 - [Responsables financiers](./roles/financial-managers.md): 27 outils, 5 compétences
 - [Ingénieurs](./roles/engineers.md): 26 outils, 5 compétences
 - [Styliste](./roles/fashion-designer.md): 26 outils, 5 compétences
+- [Responsable des relations sociales](./roles/employee-relations-manager.md): 25 outils, 5 compétences
 - [Spécialistes financiers](./roles/financial-specialists.md): 25 outils, 5 compétences
 - [Managers des opérations spécialisées](./roles/operations-specialties-managers.md): 25 outils, 5 compétences
 - [Enseignants du supérieur](./roles/postsecondary-teachers.md): 25 outils, 5 compétences
-- [Responsable des relations sociales](./roles/employee-relations-manager.md): 24 outils, 5 compétences
 - [Autres postes dans l'éducation](./roles/other-education-roles.md): 24 outils, 5 compétences
 - [Écrivains et auteurs](./roles/writers-and-authors.md): 23 outils, 5 compétences
 - [Vendeur e-commerce](./roles/e-commerce-seller.md): 22 outils, 5 compétences
 - [Gestionnaire de portefeuille](./roles/investment-portfolio-manager.md): 22 outils, 5 compétences
 - [Passionné de gastronomie](./roles/food-enthusiast.md): 21 outils, 5 compétences
 - [Enseignants scolaires](./roles/school-teachers.md): 21 outils, 5 compétences
+- [Architecte d'intérieur](./roles/interior-designer.md): 18 outils, 5 compétences
 - [Planificateur logistique](./roles/logistics-operations-planner.md): 18 outils, 5 compétences
 - [Autres postes artistiques](./roles/other-arts-roles.md): 18 outils, 5 compétences
 - [Directeur de restaurant](./roles/restaurant-general-manager.md): 18 outils, 5 compétences
-- [Architecte d'intérieur](./roles/interior-designer.md): 17 outils, 5 compétences
 - [Reporter TV](./roles/tv-news-reporter.md): 17 outils, 5 compétences
 - [Responsable fiscal d’entreprise](./roles/corporate-tax-manager.md): 15 outils, 5 compétences
 - [Professionnels de l'art et du design](./roles/art-and-design-workers.md): 14 outils, 5 compétences
@@ -126,8 +141,8 @@ Généré le: 2026-03-21T13:51:16.448Z
 - [Professionnels du divertissement et du sport](./roles/entertainment-and-sports-workers.md): 12 outils, 5 compétences
 - [Responsable de programme associatif](./roles/nonprofit-program-manager.md): 11 outils, 5 compétences
 - [Comédien voix](./roles/voice-actor.md): 11 outils, 5 compétences
+- [Professeur de maths en primaire](./roles/elementary-school-math-teacher.md): 10 outils, 5 compétences
 - [Praticiens de santé](./roles/health-practitioners.md): 10 outils, 5 compétences
-- [Professeur de maths en primaire](./roles/elementary-school-math-teacher.md): 9 outils, 5 compétences
 - [Bibliothécaires et archivistes](./roles/librarians-and-archivists.md): 9 outils, 5 compétences
 - [Autres postes de management](./roles/other-management-roles.md): 9 outils, 5 compétences
 - [Architecte résidentiel](./roles/residential-architect.md): 9 outils, 5 compétences
@@ -272,4 +287,6 @@ Généré le: 2026-03-21T13:51:16.448Z
 - [Coordinateur des bénévoles](./roles/volunteer-coordinator.md): 0 outils, 5 compétences
 - [Commerciaux grossistes](./roles/wholesale-sales-reps.md): 0 outils, 5 compétences
 - [Professeur de yoga en studio](./roles/yoga-studio-instructor.md): 0 outils, 5 compétences
+
+</details>
 

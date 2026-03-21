@@ -4,7 +4,7 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 9
+- Zugeordnete Tools: 10
 - Skill-Karten: 5
 
 ## Kernkompetenzen
@@ -17,6 +17,7 @@
 
 ## Passende Tools
 
+- [bestcoloringpages-ai](https://www.aimyflow.com/de/ai/bestcoloringpages-ai): BestColoringPages AI ist ein KI-Generator und eine Bibliothek für Ausmalbilder, die Nutzern dabei helfen, Fotos, Textanweisungen und Geschichten in druckbare Ausmalbilder oder Malbücher zu verwandeln, vor allem für Eltern, Lehrkräfte, Hobbykünstler und Kreative. Bei KI-gestützter kreativer Arbeit kann es Pädagogen, Illustratoren und Content-Erstellern dabei helfen, personalisierte Aktivitätsmaterialien und visuelle Konzepte mit konsistenter Liniengrafik und Farbreferenzen schneller zu erstellen.
 - [conceptviz-app](https://www.aimyflow.com/de/ai/conceptviz-app): ConceptViz ist ein KI-Diagrammgenerator, der englischsprachige Eingabeaufforderungen in naturwissenschaftliche und mathematische Visualisierungen für Folien, Arbeitsblätter und Forschungsabbildungen umwandelt, hauptsächlich für Lehrkräfte, Studierende und Forschende. Für Pädagoginnen und Pädagogen sowie akademische Fachkräfte kann er den Zeitaufwand für das Zeichnen oder Suchen nach Diagrammen verringern und zugleich klarere, konsistentere visuelle Erklärungen für Unterricht, Präsentationen und Veröffentlichungen liefern.
 - [connectthedotsprintable-online](https://www.aimyflow.com/de/ai/connectthedotsprintable-online): ConnectTheDotsPrintable.online ist ein Online-Generator für Punkt-zu-Punkt-Vorlagen, der Nutzern hilft, Fotos, Zeichnungen oder Textaufforderungen in druckbare Punkt-zu-Punkt-Arbeitsblätter umzuwandeln, vor allem für Eltern, Lehrkräfte und Rätselfans. Für Pädagogen und Ersteller von Aktivitäten können die KI-gestützte Bildumwandlung und die anpassbare Schwierigkeit die Erstellung altersgerechter, druckbarer Materialien für den Einsatz zu Hause oder im Unterricht beschleunigen.
 - [coolcoloringpages-com](https://www.aimyflow.com/de/ai/coolcoloringpages-com): Cool Coloring Pages ist ein KI-Malvorlagengenerator, der Nutzern hilft, Ideen oder Fotos in druckbare, anpassbare Malvorlagen zu verwandeln, hauptsächlich für Kinder, Eltern und Lehrkräfte. Für Eltern und Pädagogen kann KI die Erstellung altersgerechter, personalisierter Beschäftigungsmaterialien beschleunigen und es erleichtern, neue Seiten für zu Hause, den Unterricht oder Veranstaltungen zu erstellen.
@@ -24,7 +25,6 @@
 - [icoloring-ai](https://www.aimyflow.com/de/ai/icoloring-ai): iColoring AI ist ein kostenloser Online-KI-Malvorlagen-Generator, der Texteingaben oder Fotos in druckbare, wasserzeichenfreie Malvorlagen und kolorierte Kunstwerke umwandelt, hauptsächlich für Eltern, Pädagogen, Hobbykünstler, Designer und Ersteller von Malbüchern. Für Lehrkräfte, Kreative und Verlage kann es die Erstellung individueller Aktivitätsmaterialien und visueller Konzepte beschleunigen, ohne dass Zeichen- oder Designkenntnisse erforderlich sind.
 - [kidbooks-pics](https://www.aimyflow.com/de/ai/kidbooks-pics): KidBooks.pics ist ein KI-Bildgenerator für Kinderbücher, der Nutzern hilft, Illustrationen mithilfe von voreingestellten Szenen, Figuren, Stimmungen, Stilen und Formaten schnell zu erstellen, vor allem für Autoren und Illustratoren von Kinderbüchern. Für Verlags- und Kreativteams können der auf Voreinstellungen basierende Workflow sowie Figuren- oder Szenenbibliotheken die Konzeptentwicklung beschleunigen und konsistentere visuelle Darstellungen über ein ganzes Buch hinweg unterstützen.
 - [knowt-com](https://www.aimyflow.com/de/ai/knowt-com): Knowt ist eine Lernplattform und Quizlet-Alternative, mit der Schüler und Lehrkräfte Karteikarten erstellen, importieren und in verschiedenen Lernmodi üben können. So lassen sich Lerninhalte einfacher wiederverwenden, wiederholen und über Klassen hinweg skalieren.
-- [lovabletales-ai](https://www.aimyflow.com/de/ai/lovabletales-ai): Lovable Tales ist ein KI-gestütztes Storytelling-Tool, das Kindern und Eltern hilft, personalisierte, interaktive Geschichten zu erstellen, die das Lesen, den Wortschatz und spielerisches Lernen fördern. Für Eltern und den frühkindlichen Bildungsbereich können adaptive Handlungsverläufe und altersgerechte Inhalte das Leseüben ansprechender gestalten und gleichzeitig die Entscheidungsfindung und das Textverständnis fördern.
 
 ## Auf AimyFlow fortfahren
 

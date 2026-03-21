@@ -1,12 +1,24 @@
 # AimyFlow 开放数据索引
 
-按职业整理的 AimyFlow AI 工具开放数据，包含结构化数据集与适合 GitHub 收录的角色页。
+一个按真实职业组织的多语言 AI 工具开放索引，包含结构化导出数据与适合 GitHub 收录的落地页。
 
-生成时间: 2026-03-21T13:51:16.448Z
+生成时间: 2026-03-21T16:19:51.752Z
 
-- 工具数量: 1512
+- 工具数量: 1557
 - 职业数量: 221
 - 技能数量: 1105
+
+## 这个页面的作用
+
+- 先按职业快速了解 AI 工具覆盖面，再决定是否进入主站。
+- 直接查看多语言的职业、工具和技能 JSON 数据。
+- 跳转到 AimyFlow 查看实时页面、社区投票和工作流内容。
+
+## 适合谁看
+
+- 想研究结构化 AI 工具数据的开发者和研究者。
+- 想比较不同职业工具覆盖情况的团队或运营人员。
+- 想按职业快速了解 AI 工具的搜索访客。
 
 ## 从这里开始
 
@@ -21,7 +33,7 @@
 - [浏览全部职业](https://www.aimyflow.com/zh/roles)
 - [查看社区投票](https://www.aimyflow.com/zh/roles)
 
-## 数据文件
+## 这里包含什么
 
 - [`data/tools.json`](../../data/tools.json)
 - [`data/roles.json`](../../data/roles.json)
@@ -30,90 +42,93 @@
 
 ## 热门职业
 
-- [内容创作者](./roles/content-creator.md): 686 个工具, 5 项技能
-- [数字营销总监](./roles/digital-marketing-director.md): 624 个工具, 5 项技能
-- [文案策划](./roles/copywriter.md): 447 个工具, 5 项技能
-- [社交媒体内容创作者](./roles/social-media-content-creator.md): 413 个工具, 5 项技能
-- [首席执行官](./roles/ceo.md): 330 个工具, 5 项技能
-- [项目管理专员](./roles/project-management-officer.md): 318 个工具, 5 项技能
-- [软件工程师](./roles/software-engineer.md): 315 个工具, 5 项技能
-- [软件开发经理](./roles/software-development-manager.md): 298 个工具, 5 项技能
-- [平面设计师](./roles/graphic-designer.md): 293 个工具, 5 项技能
-- [技术写作人员](./roles/technical-writer.md): 232 个工具, 5 项技能
-- [IT基础设施经理](./roles/it-infrastructure-manager.md): 141 个工具, 5 项技能
-- [教师](./roles/teacher.md): 140 个工具, 5 项技能
-- [教育科技顾问](./roles/education-technology-consultant.md): 132 个工具, 5 项技能
-- [首席运营官](./roles/coo.md): 127 个工具, 5 项技能
-- [电商销售负责人](./roles/e-commerce-sales-head.md): 126 个工具, 5 项技能
-- [数据科学家](./roles/data-scientist.md): 125 个工具, 5 项技能
-- [区域销售经理](./roles/field-sales-manager.md): 118 个工具, 5 项技能
-- [播客制作人](./roles/podcast-producer.md): 111 个工具, 5 项技能
+- [内容创作者](./roles/content-creator.md): 706 个工具, 5 项技能
+- [数字营销总监](./roles/digital-marketing-director.md): 650 个工具, 5 项技能
+- [文案策划](./roles/copywriter.md): 467 个工具, 5 项技能
+- [社交媒体内容创作者](./roles/social-media-content-creator.md): 427 个工具, 5 项技能
+- [首席执行官](./roles/ceo.md): 343 个工具, 5 项技能
+- [项目管理专员](./roles/project-management-officer.md): 331 个工具, 5 项技能
+- [软件工程师](./roles/software-engineer.md): 323 个工具, 5 项技能
+- [平面设计师](./roles/graphic-designer.md): 305 个工具, 5 项技能
+- [软件开发经理](./roles/software-development-manager.md): 305 个工具, 5 项技能
+- [技术写作人员](./roles/technical-writer.md): 243 个工具, 5 项技能
+- [教师](./roles/teacher.md): 146 个工具, 5 项技能
+- [IT基础设施经理](./roles/it-infrastructure-manager.md): 143 个工具, 5 项技能
+- [首席运营官](./roles/coo.md): 134 个工具, 5 项技能
+- [教育科技顾问](./roles/education-technology-consultant.md): 133 个工具, 5 项技能
+- [电商销售负责人](./roles/e-commerce-sales-head.md): 130 个工具, 5 项技能
+- [数据科学家](./roles/data-scientist.md): 127 个工具, 5 项技能
+- [区域销售经理](./roles/field-sales-manager.md): 126 个工具, 5 项技能
+- [播客制作人](./roles/podcast-producer.md): 114 个工具, 5 项技能
 
 ## 职业列表
 
-- [内容创作者](./roles/content-creator.md): 686 个工具, 5 项技能
-- [数字营销总监](./roles/digital-marketing-director.md): 624 个工具, 5 项技能
-- [文案策划](./roles/copywriter.md): 447 个工具, 5 项技能
-- [社交媒体内容创作者](./roles/social-media-content-creator.md): 413 个工具, 5 项技能
-- [首席执行官](./roles/ceo.md): 330 个工具, 5 项技能
-- [项目管理专员](./roles/project-management-officer.md): 318 个工具, 5 项技能
-- [软件工程师](./roles/software-engineer.md): 315 个工具, 5 项技能
-- [软件开发经理](./roles/software-development-manager.md): 298 个工具, 5 项技能
-- [平面设计师](./roles/graphic-designer.md): 293 个工具, 5 项技能
-- [技术写作人员](./roles/technical-writer.md): 232 个工具, 5 项技能
-- [IT基础设施经理](./roles/it-infrastructure-manager.md): 141 个工具, 5 项技能
-- [教师](./roles/teacher.md): 140 个工具, 5 项技能
-- [教育科技顾问](./roles/education-technology-consultant.md): 132 个工具, 5 项技能
-- [首席运营官](./roles/coo.md): 127 个工具, 5 项技能
-- [电商销售负责人](./roles/e-commerce-sales-head.md): 126 个工具, 5 项技能
-- [数据科学家](./roles/data-scientist.md): 125 个工具, 5 项技能
-- [区域销售经理](./roles/field-sales-manager.md): 118 个工具, 5 项技能
-- [播客制作人](./roles/podcast-producer.md): 111 个工具, 5 项技能
-- [大学教授](./roles/college-professor.md): 97 个工具, 5 项技能
-- [数据工程师](./roles/data-engineer.md): 84 个工具, 5 项技能
-- [招聘经理](./roles/talent-acquisition-manager.md): 68 个工具, 5 项技能
+<details>
+<summary>展开完整职业目录 (221 个职业)</summary>
+
+- [内容创作者](./roles/content-creator.md): 706 个工具, 5 项技能
+- [数字营销总监](./roles/digital-marketing-director.md): 650 个工具, 5 项技能
+- [文案策划](./roles/copywriter.md): 467 个工具, 5 项技能
+- [社交媒体内容创作者](./roles/social-media-content-creator.md): 427 个工具, 5 项技能
+- [首席执行官](./roles/ceo.md): 343 个工具, 5 项技能
+- [项目管理专员](./roles/project-management-officer.md): 331 个工具, 5 项技能
+- [软件工程师](./roles/software-engineer.md): 323 个工具, 5 项技能
+- [平面设计师](./roles/graphic-designer.md): 305 个工具, 5 项技能
+- [软件开发经理](./roles/software-development-manager.md): 305 个工具, 5 项技能
+- [技术写作人员](./roles/technical-writer.md): 243 个工具, 5 项技能
+- [教师](./roles/teacher.md): 146 个工具, 5 项技能
+- [IT基础设施经理](./roles/it-infrastructure-manager.md): 143 个工具, 5 项技能
+- [首席运营官](./roles/coo.md): 134 个工具, 5 项技能
+- [教育科技顾问](./roles/education-technology-consultant.md): 133 个工具, 5 项技能
+- [电商销售负责人](./roles/e-commerce-sales-head.md): 130 个工具, 5 项技能
+- [数据科学家](./roles/data-scientist.md): 127 个工具, 5 项技能
+- [区域销售经理](./roles/field-sales-manager.md): 126 个工具, 5 项技能
+- [播客制作人](./roles/podcast-producer.md): 114 个工具, 5 项技能
+- [大学教授](./roles/college-professor.md): 100 个工具, 5 项技能
+- [数据工程师](./roles/data-engineer.md): 85 个工具, 5 项技能
+- [招聘经理](./roles/talent-acquisition-manager.md): 72 个工具, 5 项技能
+- [独立电影人](./roles/independent-filmmaker.md): 65 个工具, 5 项技能
 - [信息技术经理](./roles/information-technology-managers.md): 64 个工具, 5 项技能
 - [网络安全经理](./roles/cybersecurity-manager.md): 63 个工具, 5 项技能
-- [独立电影人](./roles/independent-filmmaker.md): 63 个工具, 5 项技能
 - [网络安全分析师](./roles/cybersecurity-analyst.md): 57 个工具, 5 项技能
+- [在线编程导师](./roles/online-coding-tutor.md): 54 个工具, 5 项技能
 - [企业领导力教练](./roles/corporate-leadership-coach.md): 53 个工具, 5 项技能
-- [在线编程导师](./roles/online-coding-tutor.md): 53 个工具, 5 项技能
 - [计算机岗位](./roles/computer-occupations.md): 51 个工具, 5 项技能
-- [律师](./roles/lawyer.md): 48 个工具, 5 项技能
+- [律师](./roles/lawyer.md): 49 个工具, 5 项技能
+- [音乐爱好者](./roles/music-lover.md): 48 个工具, 5 项技能
 - [学校辅导员](./roles/school-counselor.md): 48 个工具, 5 项技能
-- [音乐爱好者](./roles/music-lover.md): 47 个工具, 5 项技能
 - [市场与销售经理](./roles/marketing-and-sales-managers.md): 45 个工具, 5 项技能
 - [医疗管理人员](./roles/healthcare-administrator.md): 44 个工具, 5 项技能
+- [注册会计师](./roles/certified-public-accountant.md): 42 个工具, 5 项技能
 - [风险分析师](./roles/risk-analyst.md): 42 个工具, 5 项技能
-- [注册会计师](./roles/certified-public-accountant.md): 41 个工具, 5 项技能
 - [金融分析师](./roles/financial-analyst.md): 40 个工具, 5 项技能
 - [媒体传播人员](./roles/media-communicators.md): 36 个工具, 5 项技能
 - [业务运营专员](./roles/business-operations-specialists.md): 34 个工具, 5 项技能
 - [小说作家](./roles/fiction-writer.md): 34 个工具, 5 项技能
+- [社区学院讲师](./roles/community-college-instructor.md): 33 个工具, 5 项技能
 - [房地产经纪人](./roles/real-estate-agent.md): 33 个工具, 5 项技能
 - [首席财务官](./roles/cfo.md): 31 个工具, 5 项技能
-- [社区学院讲师](./roles/community-college-instructor.md): 31 个工具, 5 项技能
+- [备考辅导老师](./roles/test-prep-tutor.md): 31 个工具, 5 项技能
 - [健康教练](./roles/wellness-coach.md): 31 个工具, 5 项技能
 - [财务规划与分析经理](./roles/financial-planning-analysis-manager.md): 30 个工具, 5 项技能
-- [备考辅导老师](./roles/test-prep-tutor.md): 30 个工具, 5 项技能
-- [分公司经理](./roles/branch-office-manager.md): 27 个工具, 5 项技能
+- [分公司经理](./roles/branch-office-manager.md): 28 个工具, 5 项技能
 - [财务经理](./roles/financial-managers.md): 27 个工具, 5 项技能
 - [工程师](./roles/engineers.md): 26 个工具, 5 项技能
 - [时装设计师](./roles/fashion-designer.md): 26 个工具, 5 项技能
+- [员工关系经理](./roles/employee-relations-manager.md): 25 个工具, 5 项技能
 - [金融专员](./roles/financial-specialists.md): 25 个工具, 5 项技能
 - [运营专业经理](./roles/operations-specialties-managers.md): 25 个工具, 5 项技能
 - [高校教师](./roles/postsecondary-teachers.md): 25 个工具, 5 项技能
-- [员工关系经理](./roles/employee-relations-manager.md): 24 个工具, 5 项技能
 - [其他教育岗位](./roles/other-education-roles.md): 24 个工具, 5 项技能
 - [作家](./roles/writers-and-authors.md): 23 个工具, 5 项技能
 - [电商卖家](./roles/e-commerce-seller.md): 22 个工具, 5 项技能
 - [投资组合经理](./roles/investment-portfolio-manager.md): 22 个工具, 5 项技能
 - [美食爱好者](./roles/food-enthusiast.md): 21 个工具, 5 项技能
 - [学校教师](./roles/school-teachers.md): 21 个工具, 5 项技能
+- [室内设计师](./roles/interior-designer.md): 18 个工具, 5 项技能
 - [物流运营规划师](./roles/logistics-operations-planner.md): 18 个工具, 5 项技能
 - [其他艺术岗位](./roles/other-arts-roles.md): 18 个工具, 5 项技能
 - [餐厅总经理](./roles/restaurant-general-manager.md): 18 个工具, 5 项技能
-- [室内设计师](./roles/interior-designer.md): 17 个工具, 5 项技能
 - [电视新闻记者](./roles/tv-news-reporter.md): 17 个工具, 5 项技能
 - [企业税务经理](./roles/corporate-tax-manager.md): 15 个工具, 5 项技能
 - [艺术与设计人员](./roles/art-and-design-workers.md): 14 个工具, 5 项技能
@@ -126,8 +141,8 @@
 - [文体从业者](./roles/entertainment-and-sports-workers.md): 12 个工具, 5 项技能
 - [非营利项目经理](./roles/nonprofit-program-manager.md): 11 个工具, 5 项技能
 - [配音演员](./roles/voice-actor.md): 11 个工具, 5 项技能
+- [小学数学老师](./roles/elementary-school-math-teacher.md): 10 个工具, 5 项技能
 - [医疗从业者](./roles/health-practitioners.md): 10 个工具, 5 项技能
-- [小学数学老师](./roles/elementary-school-math-teacher.md): 9 个工具, 5 项技能
 - [图书馆员与档案员](./roles/librarians-and-archivists.md): 9 个工具, 5 项技能
 - [其他管理岗位](./roles/other-management-roles.md): 9 个工具, 5 项技能
 - [住宅建筑师](./roles/residential-architect.md): 9 个工具, 5 项技能
@@ -272,4 +287,6 @@
 - [志愿者协调员](./roles/volunteer-coordinator.md): 0 个工具, 5 项技能
 - [批发销售代表](./roles/wholesale-sales-reps.md): 0 个工具, 5 项技能
 - [瑜伽馆教练](./roles/yoga-studio-instructor.md): 0 个工具, 5 项技能
+
+</details>
 

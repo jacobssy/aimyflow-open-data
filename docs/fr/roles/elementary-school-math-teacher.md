@@ -4,7 +4,7 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 9
+- Outils associés: 10
 - Cartes de compétences: 5
 
 ## Compétences clés
@@ -17,6 +17,7 @@
 
 ## Outils associés
 
+- [bestcoloringpages-ai](https://www.aimyflow.com/fr/ai/bestcoloringpages-ai): BestColoringPages AI est un générateur et une bibliothèque de coloriages par IA qui aident les utilisateurs à transformer des photos, des invites textuelles et des histoires en pages de coloriage ou en livres de coloriage imprimables, principalement pour les parents, les enseignants, les amateurs et les créateurs. Dans le travail créatif assisté par l’IA, il peut aider les éducateurs, les illustrateurs et les créateurs de contenu à produire plus rapidement des supports d’activité personnalisés et des concepts visuels, avec un line art cohérent et des références de couleurs.
 - [conceptviz-app](https://www.aimyflow.com/fr/ai/conceptviz-app): ConceptViz est un générateur de diagrammes par IA qui transforme des consignes en langage courant en visuels scientifiques et mathématiques pour des diapositives, des fiches d’exercices et des figures de recherche, principalement destinés aux enseignants, aux étudiants et aux chercheurs. Pour les éducateurs et les professionnels du monde académique, il peut réduire le temps consacré à dessiner ou à chercher des diagrammes tout en produisant des explications visuelles plus claires et plus cohérentes pour les cours, les présentations et les publications.
 - [connectthedotsprintable-online](https://www.aimyflow.com/fr/ai/connectthedotsprintable-online): ConnectTheDotsPrintable.online est un générateur en ligne de points à relier qui aide les utilisateurs à transformer des photos, des dessins ou des invites textuelles en fiches imprimables de points à relier, principalement destinées aux parents, aux enseignants et aux amateurs de casse-tête. Pour les éducateurs et les créateurs d’activités, sa conversion d’images assistée par l’IA et sa difficulté ajustable peuvent accélérer la création de supports imprimables adaptés à l’âge, pour un usage à la maison ou en classe.
 - [coolcoloringpages-com](https://www.aimyflow.com/fr/ai/coolcoloringpages-com): Cool Coloring Pages est un générateur de pages à colorier par IA qui aide les utilisateurs à transformer des idées ou des photos en pages à colorier imprimables et personnalisables, principalement pour les enfants, les parents et les enseignants. Pour les parents et les éducateurs, l’IA peut accélérer la création de supports d’activité personnalisés et adaptés à l’âge, et faciliter la production de nouvelles pages pour la maison, la classe ou des événements.
@@ -24,7 +25,6 @@
 - [icoloring-ai](https://www.aimyflow.com/fr/ai/icoloring-ai): iColoring AI est un générateur gratuit de pages à colorier IA en ligne qui transforme des invites textuelles ou des photos en pages à colorier imprimables, sans filigrane, ainsi qu’en illustrations colorisées, principalement destiné aux parents, aux enseignants, aux amateurs, aux designers et aux créateurs de livres de coloriage. Pour les enseignants, les créateurs et les éditeurs, il peut accélérer la production de supports d’activité personnalisés et de concepts visuels, sans nécessiter de compétences en dessin ou en design.
 - [kidbooks-pics](https://www.aimyflow.com/fr/ai/kidbooks-pics): KidBooks.pics est un générateur d’images par IA pour livres pour enfants qui aide les utilisateurs à créer rapidement des illustrations grâce à des scènes, personnages, ambiances, styles et formats prédéfinis, principalement pour les auteurs et illustrateurs de livres pour enfants. Pour les équipes éditoriales et créatives, son flux de travail basé sur des préréglages ainsi que ses bibliothèques de personnages et de scènes peuvent accélérer la conceptualisation et favoriser une plus grande cohérence visuelle tout au long d’un livre.
 - [knowt-com](https://www.aimyflow.com/fr/ai/knowt-com): Knowt est une plateforme d’apprentissage et alternative à Quizlet qui aide étudiants et enseignants à créer, importer et réviser des flashcards avec plusieurs modes d’étude.
-- [lovabletales-ai](https://www.aimyflow.com/fr/ai/lovabletales-ai): Lovable Tales est un outil de narration alimenté par l’IA qui aide les enfants et les parents à créer des histoires personnalisées et interactives favorisant la lecture, le vocabulaire et l’apprentissage par le jeu. Destiné aux parents et à l’éducation de la petite enfance, ses parcours narratifs adaptatifs et son contenu adapté à l’âge rendent la pratique de la lecture plus stimulante tout en encourageant la prise de décision et la compréhension.
 
 ## Continuer sur AimyFlow
 

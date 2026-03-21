@@ -20,10 +20,20 @@ const LOCALE_COPY = {
     nativeName: 'English',
     docsTitle: 'AimyFlow Open Data Index',
     docsDescription:
-      'Open data exports for AimyFlow AI tools by role, with machine-readable datasets and GitHub-friendly landing pages.',
+      'An open, multilingual index of AI tools mapped to real job roles, with machine-readable exports and GitHub-friendly landing pages.',
     startHere: 'Start Here',
     featuredRoles: 'Featured Roles',
     dataFiles: 'Data Files',
+    whyUseHeading: 'Why This Page Exists',
+    whyUsePoint1: 'Find AI tools by role without opening the full product first.',
+    whyUsePoint2: 'Inspect multilingual role, tool and skill exports in plain JSON.',
+    whyUsePoint3: 'Jump to AimyFlow for live pages, community voting and workflows.',
+    bestForHeading: 'Best For',
+    bestForPoint1: 'Developers and researchers inspecting structured AI tool data.',
+    bestForPoint2: 'Operators comparing tool coverage across roles.',
+    bestForPoint3: 'Search visitors who want a fast role-by-role starting point.',
+    exportIncludesHeading: 'What Is Included',
+    openRoleDirectory: 'Browse the full role directory',
     roleCountLabel: 'roles',
     toolCountLabel: 'tools',
     skillCountLabel: 'skills',
@@ -51,15 +61,25 @@ const LOCALE_COPY = {
     localeIndexLabel: 'Localized docs',
     rootIndexTitle: 'AimyFlow Open Data Docs',
     rootIndexIntro:
-      'This folder contains generated multilingual docs that summarize roles and link back to the full AimyFlow experience.',
+      'A public, multilingual entry point for exploring AI tools by role, with clean data exports on GitHub and deeper role pages on AimyFlow.',
   },
   zh: {
     nativeName: '中文',
     docsTitle: 'AimyFlow 开放数据索引',
-    docsDescription: '按职业整理的 AimyFlow AI 工具开放数据，包含结构化数据集与适合 GitHub 收录的角色页。',
+    docsDescription: '一个按真实职业组织的多语言 AI 工具开放索引，包含结构化导出数据与适合 GitHub 收录的落地页。',
     startHere: '从这里开始',
     featuredRoles: '热门职业',
     dataFiles: '数据文件',
+    whyUseHeading: '这个页面的作用',
+    whyUsePoint1: '先按职业快速了解 AI 工具覆盖面，再决定是否进入主站。',
+    whyUsePoint2: '直接查看多语言的职业、工具和技能 JSON 数据。',
+    whyUsePoint3: '跳转到 AimyFlow 查看实时页面、社区投票和工作流内容。',
+    bestForHeading: '适合谁看',
+    bestForPoint1: '想研究结构化 AI 工具数据的开发者和研究者。',
+    bestForPoint2: '想比较不同职业工具覆盖情况的团队或运营人员。',
+    bestForPoint3: '想按职业快速了解 AI 工具的搜索访客。',
+    exportIncludesHeading: '这里包含什么',
+    openRoleDirectory: '展开完整职业目录',
     roleCountLabel: '个职业',
     toolCountLabel: '个工具',
     skillCountLabel: '项技能',
@@ -91,10 +111,20 @@ const LOCALE_COPY = {
     nativeName: 'Español',
     docsTitle: 'Índice de Datos Abiertos de AimyFlow',
     docsDescription:
-      'Exportaciones abiertas de herramientas de IA por rol en AimyFlow, con datasets estructurados y páginas aptas para GitHub.',
+      'Un índice abierto y multilingüe de herramientas de IA conectadas con roles reales, con datasets estructurados y páginas aptas para GitHub.',
     startHere: 'Comienza aquí',
     featuredRoles: 'Roles destacados',
     dataFiles: 'Archivos de datos',
+    whyUseHeading: 'Por qué existe esta página',
+    whyUsePoint1: 'Encontrar herramientas de IA por rol sin abrir primero el producto completo.',
+    whyUsePoint2: 'Inspeccionar exportaciones multilingües de roles, herramientas y habilidades en JSON.',
+    whyUsePoint3: 'Saltar a AimyFlow para páginas activas, votos de la comunidad y workflows.',
+    bestForHeading: 'Ideal para',
+    bestForPoint1: 'Desarrolladores e investigadores que revisan datos estructurados de herramientas IA.',
+    bestForPoint2: 'Operadores que comparan la cobertura de herramientas entre roles.',
+    bestForPoint3: 'Visitantes de búsqueda que quieren un punto de entrada rápido por rol.',
+    exportIncludesHeading: 'Qué incluye esta exportación',
+    openRoleDirectory: 'Ver el directorio completo de roles',
     roleCountLabel: 'roles',
     toolCountLabel: 'herramientas',
     skillCountLabel: 'habilidades',
@@ -128,10 +158,20 @@ const LOCALE_COPY = {
     nativeName: '日本語',
     docsTitle: 'AimyFlow オープンデータ索引',
     docsDescription:
-      '職種別 AI ツールをまとめた AimyFlow のオープンデータ。GitHub 向けの要約ページと構造化データを含みます。',
+      '実際の職種に対応した AI ツールをまとめた、多言語対応のオープンインデックスです。構造化データと GitHub 向けの案内ページを含みます。',
     startHere: 'ここから始める',
     featuredRoles: '注目の役割',
     dataFiles: 'データファイル',
+    whyUseHeading: 'このページの目的',
+    whyUsePoint1: 'まず職種別の AI ツールを素早く把握し、その後に本体へ進めます。',
+    whyUsePoint2: '役割、ツール、スキルの多言語 JSON エクスポートを確認できます。',
+    whyUsePoint3: 'AimyFlow 本体でコミュニティ投票や workflow、詳細ページに進めます。',
+    bestForHeading: 'こんな人に最適',
+    bestForPoint1: '構造化された AI ツールデータを調べる開発者や研究者。',
+    bestForPoint2: '役割ごとのツール網羅性を比較したい運用担当者。',
+    bestForPoint3: '職種別に素早く調べたい検索ユーザー。',
+    exportIncludesHeading: 'このエクスポートに含まれるもの',
+    openRoleDirectory: '完全な役割ディレクトリを見る',
     roleCountLabel: '役割',
     toolCountLabel: 'ツール',
     skillCountLabel: 'スキル',
@@ -165,10 +205,20 @@ const LOCALE_COPY = {
     nativeName: 'Deutsch',
     docsTitle: 'AimyFlow Open-Data-Index',
     docsDescription:
-      'Offene Exporte von KI-Tools nach Rollen in AimyFlow, mit strukturierten Datensätzen und GitHub-tauglichen Übersichtsseiten.',
+      'Ein offener, mehrsprachiger Index von KI-Tools für reale Rollen, mit strukturierten Datensätzen und GitHub-tauglichen Landingpages.',
     startHere: 'Hier starten',
     featuredRoles: 'Wichtige Rollen',
     dataFiles: 'Datendateien',
+    whyUseHeading: 'Warum es diese Seite gibt',
+    whyUsePoint1: 'KI-Tools nach Rolle finden, ohne sofort das ganze Produkt zu öffnen.',
+    whyUsePoint2: 'Mehrsprachige Exporte für Rollen, Tools und Skills direkt als JSON prüfen.',
+    whyUsePoint3: 'Zu AimyFlow wechseln für Live-Seiten, Community-Votings und Workflows.',
+    bestForHeading: 'Geeignet für',
+    bestForPoint1: 'Entwickler und Researcher mit Fokus auf strukturierte KI-Tool-Daten.',
+    bestForPoint2: 'Operatoren, die Tool-Abdeckung über Rollen hinweg vergleichen.',
+    bestForPoint3: 'Suchnutzer, die einen schnellen Einstieg nach Rollen wollen.',
+    exportIncludesHeading: 'Was dieser Export enthält',
+    openRoleDirectory: 'Vollständiges Rollenverzeichnis öffnen',
     roleCountLabel: 'Rollen',
     toolCountLabel: 'Tools',
     skillCountLabel: 'Skills',
@@ -202,10 +252,20 @@ const LOCALE_COPY = {
     nativeName: 'Français',
     docsTitle: 'Index Open Data AimyFlow',
     docsDescription:
-      'Exports ouverts des outils IA par métier sur AimyFlow, avec jeux de données structurés et pages compatibles GitHub.',
+      'Un index ouvert et multilingue des outils IA reliés à de vrais métiers, avec jeux de données structurés et pages compatibles GitHub.',
     startHere: 'Commencer ici',
     featuredRoles: 'Rôles mis en avant',
     dataFiles: 'Fichiers de données',
+    whyUseHeading: 'Pourquoi cette page existe',
+    whyUsePoint1: 'Trouver des outils IA par rôle sans ouvrir tout le produit dès le départ.',
+    whyUsePoint2: 'Inspecter les exports multilingues de rôles, outils et compétences en JSON.',
+    whyUsePoint3: 'Aller sur AimyFlow pour les pages live, les votes de la communauté et les workflows.',
+    bestForHeading: 'Idéal pour',
+    bestForPoint1: 'Les développeurs et chercheurs qui inspectent des données structurées sur les outils IA.',
+    bestForPoint2: 'Les équipes qui comparent la couverture des outils selon les rôles.',
+    bestForPoint3: 'Les visiteurs issus de la recherche qui veulent un point de départ rapide par rôle.',
+    exportIncludesHeading: 'Ce que contient cet export',
+    openRoleDirectory: 'Parcourir le répertoire complet des rôles',
     roleCountLabel: 'rôles',
     toolCountLabel: 'outils',
     skillCountLabel: 'compétences',
@@ -595,6 +655,18 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     `- ${copy.rolesExported}: ${stats.role_count}`,
     `- ${copy.skillsExported}: ${stats.skill_count}`,
     '',
+    `## ${copy.whyUseHeading}`,
+    '',
+    `- ${copy.whyUsePoint1}`,
+    `- ${copy.whyUsePoint2}`,
+    `- ${copy.whyUsePoint3}`,
+    '',
+    `## ${copy.bestForHeading}`,
+    '',
+    `- ${copy.bestForPoint1}`,
+    `- ${copy.bestForPoint2}`,
+    `- ${copy.bestForPoint3}`,
+    '',
     `## ${copy.startHere}`,
     '',
     `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
@@ -608,7 +680,7 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
     `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
     '',
-    `## ${copy.dataFiles}`,
+    `## ${copy.exportIncludesHeading}`,
     '',
     '- [`data/tools.json`](../../data/tools.json)',
     '- [`data/roles.json`](../../data/roles.json)',
@@ -625,11 +697,10 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     );
   }
 
-  lines.push(
-    '',
-    `## ${copy.rolesHeading}`,
-    '',
-  );
+  lines.push('', `## ${copy.rolesHeading}`, '');
+  lines.push('<details>');
+  lines.push(`<summary>${copy.openRoleDirectory} (${roleRecords.length} ${copy.roleCountLabel})</summary>`);
+  lines.push('');
 
   for (const role of roleRecords) {
     lines.push(
@@ -637,7 +708,7 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     );
   }
 
-  lines.push('');
+  lines.push('', '</details>', '');
 
   return `${lines.join('\n')}\n`;
 }
@@ -657,6 +728,18 @@ function renderRootDocsIndex(stats, roleRecords) {
     `- Roles exported: ${stats.role_count}`,
     `- Skills exported: ${stats.skill_count}`,
     '',
+    `## ${LOCALE_COPY.en.whyUseHeading}`,
+    '',
+    `- ${LOCALE_COPY.en.whyUsePoint1}`,
+    `- ${LOCALE_COPY.en.whyUsePoint2}`,
+    `- ${LOCALE_COPY.en.whyUsePoint3}`,
+    '',
+    `## ${LOCALE_COPY.en.bestForHeading}`,
+    '',
+    `- ${LOCALE_COPY.en.bestForPoint1}`,
+    `- ${LOCALE_COPY.en.bestForPoint2}`,
+    `- ${LOCALE_COPY.en.bestForPoint3}`,
+    '',
     '## Start Here',
     '',
     '- [Explore all AI tools](https://www.aimyflow.com/en/explore)',
@@ -670,7 +753,7 @@ function renderRootDocsIndex(stats, roleRecords) {
     `- [Browse roles and workflows](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
     `- [See community voting](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
     '',
-    '## Data Files',
+    `## ${LOCALE_COPY.en.exportIncludesHeading}`,
     '',
     '- [`data/tools.json`](../data/tools.json)',
     '- [`data/roles.json`](../data/roles.json)',
@@ -698,6 +781,16 @@ function renderRootDocsIndex(stats, roleRecords) {
   lines.push('');
 
   return `${lines.join('\n')}\n`;
+}
+
+function renderDocsSiteConfig() {
+  return [
+    'title: AimyFlow Open Data',
+    'description: Public open data for AI tools by role, career and workflow, linked back to AimyFlow.',
+    'theme: minima',
+    'markdown: kramdown',
+    '',
+  ].join('\n');
 }
 
 async function main() {
@@ -878,6 +971,7 @@ async function main() {
   await writeJson('data/roles.json', roleRecords);
   await writeJson('data/skills.json', skillRecords);
   await writeJson('data/stats.json', stats);
+  await writeText('docs/_config.yml', renderDocsSiteConfig());
   await writeText('docs/index.md', renderRootDocsIndex(stats, roleRecords));
 
   for (const locale of LOCALES) {

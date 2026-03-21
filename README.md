@@ -1,8 +1,10 @@
 # AimyFlow Open Data
 
-Open data exports for AimyFlow's AI tools by role directory.
+An open, multilingual dataset of AI tools mapped to real job roles.
 
-中文说明见下方。This repository is an indexable, linkable, machine-readable companion to the main site, not a second copy of the website.
+中文说明见下方。This repository is an indexable, machine-readable companion to AimyFlow, designed for GitHub discovery and clean traffic back to the main product.
+
+Use GitHub to inspect the data. Use AimyFlow to explore live role pages, community voting and workflows.
 
 This repo is designed for people searching for:
 
@@ -14,7 +16,7 @@ This repo is designed for people searching for:
 
 Current snapshot:
 
-- 1,512 AI tools
+- 1,557 AI tools
 - 221 roles
 - 1,105 role skills
 
@@ -24,6 +26,19 @@ Site links:
 - Explore tools: https://www.aimyflow.com/en/explore
 - Browse roles: https://www.aimyflow.com/en/roles
 - Localized docs entry: [`docs/index.md`](./docs/index.md)
+
+## Why This Repo Exists
+
+- publish a clean public dataset that can be indexed independently of the main site
+- help developers and researchers inspect role-to-tool mappings quickly
+- create a GitHub-friendly discovery surface for people searching by role, career or workflow
+- send qualified traffic back to AimyFlow for the full product experience
+
+## Start Here
+
+- Search visitors: open [`docs/index.md`](./docs/index.md)
+- Developers and researchers: inspect `data/tools.json` and `data/roles.json`
+- Product users: continue to AimyFlow for live role pages and community voting
 
 ## Continue On AimyFlow
 
@@ -39,19 +54,6 @@ Site links:
 - `data/stats.json`: snapshot counts and generation metadata
 - `docs/{locale}/roles/*.md`: GitHub-friendly localized role landing pages
 - `docs/index.md`: multilingual docs entry point
-
-## Best Entry Points
-
-- Developers and researchers: start with `data/tools.json` and `data/roles.json`
-- Search visitors: start with [`docs/index.md`](./docs/index.md)
-- Product users: continue to AimyFlow for role pages, tool details, workflows and community voting
-
-## Why This Exists
-
-- create an open dataset that can rank and be shared independently of the main site
-- earn GitHub discovery, stars, forks and links
-- give developers a structured way to inspect the directory
-- send qualified traffic back to AimyFlow for the full product experience
 
 ## Why Visit AimyFlow Instead Of Staying On GitHub
 
@@ -91,7 +93,9 @@ This repo should publish short, structured, index-like content. Do not copy full
 
 ## 中文说明
 
-这个仓库用于承载 AimyFlow 的开放数据导出，不是主站内容的完整镜像。
+这个仓库用于承载 AimyFlow 的开放数据导出，是一个适合 GitHub 收录和传播的公开入口，不是主站内容的完整镜像。
+
+你可以在 GitHub 看数据，在 AimyFlow 看实时角色页、社区投票和工作流内容。
 
 适合搜索这些内容的人进入这个仓库：
 
@@ -102,9 +106,22 @@ This repo should publish short, structured, index-like content. Do not copy full
 
 当前快照：
 
-- 1512 个 AI 工具
+- 1557 个 AI 工具
 - 221 个职业
 - 1105 个职业技能
+
+这个仓库存在的目的：
+
+- 用公开数据页承接 GitHub 和搜索流量
+- 让开发者和研究者更容易查看职业与工具的结构化映射
+- 给按职业找 AI 工具的人一个更轻量的入口
+- 把高质量用户继续引导回 AimyFlow 主站
+
+建议从这里开始：
+
+- 搜索访客：先看 [`docs/index.md`](./docs/index.md)
+- 开发者和研究者：先看 `data/tools.json` 与 `data/roles.json`
+- 产品用户：回到 AimyFlow 查看实时角色页和社区投票
 
 适合放在这里的内容：
 

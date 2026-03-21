@@ -4,7 +4,7 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 47
+- Zugeordnete Tools: 48
 - Skill-Karten: 5
 
 ## Kernkompetenzen

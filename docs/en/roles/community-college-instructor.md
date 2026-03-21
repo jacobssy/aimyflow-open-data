@@ -4,7 +4,7 @@
 
 ## Snapshot
 
-- Tool matches: 31
+- Tool matches: 33
 - Skill cards: 5
 
 ## Core Skills
