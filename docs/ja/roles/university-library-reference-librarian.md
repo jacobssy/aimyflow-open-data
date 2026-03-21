@@ -1,6 +1,6 @@
 # 大学図書館レファレンス司書
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/university-library-reference-librarian)
 
 ## 概要
 
@@ -17,13 +17,13 @@
 
 ## 関連ツール
 
-- [languagetool-org](https://www.aimyflow.com/ja/ai/languagetool-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): LanguageToolは、30以上の言語で文法、スペル、句読点、文体をチェックできるAI文章校正ツールです。学生やビジネス利用者、多言語チームの文章作成と編集を効率化します。
+- [languagetool-org](https://www.aimyflow.com/ja/ai/languagetool-org): LanguageToolは、30以上の言語で文法、スペル、句読点、文体をチェックできるAI文章校正ツールです。学生やビジネス利用者、多言語チームの文章作成と編集を効率化します。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/university-library-reference-librarian)
 
 ## 補足
 

@@ -1,6 +1,6 @@
 # Sonstige Managementrollen
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Other-Management-Roles)
 
 ## Überblick
 
@@ -17,20 +17,20 @@
 
 ## Passende Tools
 
-- [asksurf-ai](https://www.aimyflow.com/de/ai/asksurf-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Surf ist eine KI-gestützte Krypto-Rechercheplattform, die Tradern und Investoren hilft, Kryptowährungsmärkte, Trends und Handelschancen zu analysieren. Im KI-Zeitalter hilft sie Krypto-Researchern, schnelllebige Informationen zu verdichten und schneller auf Marktsignale zu reagieren.
-- [create-kwakwa-com](https://www.aimyflow.com/de/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): KwaKwa Course Creator ist eine KI-Plattform, mit der Coaches, Creator und Experten schnell mobile-first Social-Kurse erstellen und verkaufen können.
-- [createanything-com](https://www.aimyflow.com/de/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
-- [creativefabrica-com](https://www.aimyflow.com/de/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Creative Fabrica ist ein digitaler Marktplatz und Abo-Dienst für Schriftarten, Grafiken, Bastelmaterialien und Design-Assets, mit dem Kreative, Designer und Print-on-Demand-Anbieter schneller Produkte erstellen.
-- [demodazzle-com](https://www.aimyflow.com/de/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): DemoDazzle ist eine Demo-Automatisierungsplattform, mit der Teams Produktaktionen aufzeichnen, KI-Avatar-Präsentationen erstellen und interaktive Produktdemos für Interessenten bereitstellen.
-- [mindly-ai-com](https://www.aimyflow.com/de/ai/mindly-ai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Mindly ist ein datenschutzorientiertes KI-Second-Brain, das Einzelpersonen hilft, Gedanken zu organisieren, Ideen zu verknüpfen und persönliches Wissen effizienter zu verwalten. Es unterstützt kontinuierliche und kontextbezogene Wissensarbeit.
-- [monica-im](https://www.aimyflow.com/de/ai/monica-im?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Monica ist ein Multi-Model-KI-Assistent für Chat, Suche, Schreiben und Coding auf Browser, Desktop und Mobilgeräten. Er bündelt alltägliche KI-Aufgaben in einem Tool statt in mehreren Speziallösungen.
-- [outlier-ai](https://www.aimyflow.com/de/ai/outlier-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Outlier ist eine Plattform, die qualifizierte Freelancer mit KI-Trainingsarbeit verbindet, damit Experten mit menschlichem Feedback und Fachwissen zur Verbesserung von Modellen beitragen können.
+- [asksurf-ai](https://www.aimyflow.com/de/ai/asksurf-ai): Surf ist eine KI-gestützte Krypto-Rechercheplattform, die Tradern und Investoren hilft, Kryptowährungsmärkte, Trends und Handelschancen zu analysieren. Im KI-Zeitalter hilft sie Krypto-Researchern, schnelllebige Informationen zu verdichten und schneller auf Marktsignale zu reagieren.
+- [create-kwakwa-com](https://www.aimyflow.com/de/ai/create-kwakwa-com): KwaKwa Course Creator ist eine KI-Plattform, mit der Coaches, Creator und Experten schnell mobile-first Social-Kurse erstellen und verkaufen können.
+- [createanything-com](https://www.aimyflow.com/de/ai/createanything-com): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
+- [creativefabrica-com](https://www.aimyflow.com/de/ai/creativefabrica-com): Creative Fabrica ist ein digitaler Marktplatz und Abo-Dienst für Schriftarten, Grafiken, Bastelmaterialien und Design-Assets, mit dem Kreative, Designer und Print-on-Demand-Anbieter schneller Produkte erstellen.
+- [demodazzle-com](https://www.aimyflow.com/de/ai/demodazzle-com): DemoDazzle ist eine Demo-Automatisierungsplattform, mit der Teams Produktaktionen aufzeichnen, KI-Avatar-Präsentationen erstellen und interaktive Produktdemos für Interessenten bereitstellen.
+- [mindly-ai-com](https://www.aimyflow.com/de/ai/mindly-ai-com): Mindly ist ein datenschutzorientiertes KI-Second-Brain, das Einzelpersonen hilft, Gedanken zu organisieren, Ideen zu verknüpfen und persönliches Wissen effizienter zu verwalten. Es unterstützt kontinuierliche und kontextbezogene Wissensarbeit.
+- [monica-im](https://www.aimyflow.com/de/ai/monica-im): Monica ist ein Multi-Model-KI-Assistent für Chat, Suche, Schreiben und Coding auf Browser, Desktop und Mobilgeräten. Er bündelt alltägliche KI-Aufgaben in einem Tool statt in mehreren Speziallösungen.
+- [outlier-ai](https://www.aimyflow.com/de/ai/outlier-ai): Outlier ist eine Plattform, die qualifizierte Freelancer mit KI-Trainingsarbeit verbindet, damit Experten mit menschlichem Feedback und Fachwissen zur Verbesserung von Modellen beitragen können.
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Other-Management-Roles)
 
 ## Hinweise
 

@@ -1,6 +1,6 @@
 # コミュニティカレッジ講師
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/community-college-instructor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/community-college-instructor)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [1clickclaw-app](https://www.aimyflow.com/ja/ai/1clickclaw-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 1ClickClaw は、Telegram、Discord、または WhatsApp 上で OpenClaw を個人用 AI アシスタントとしてワンクリックでデプロイできるホスティングサービスです。主に、サーバー管理、SSH、DevOps のセットアップを行わずに常時稼働するボットを求めるユーザー向けに設計されています。運用担当者、コミュニティマネージャー、個人開発者にとって、これによりデプロイ時間を短縮し、AI ボットの保守を簡素化できるため、インフラよりも会話やワークフローにより集中できます。
-- [caveduck-io](https://www.aimyflow.com/ja/ai/caveduck-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CaveduckはAIキャラクターチャットプラットフォームであり、ユーザーがペルソナを作成し、ユーザー作成のキャラクターやシナリオを閲覧し、リアルタイムで会話できるよう支援します。主に、インタラクティブなロールプレイやバーチャルコンパニオン体験を求める人々に向けたサービスです。クリエイター、ライター、コミュニティマネージャーにとって、このようなAIチャットプラットフォームは、キャラクター検証、対話の反復改善、架空のペルソナに対するオーディエンスの反応収集を迅速化するのに役立ちます。
-- [charhub-ai](https://www.aimyflow.com/ja/ai/charhub-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CharHub.ai は、主にロールプレイやキャラクター中心のエンターテインメントを楽しむユーザー向けに、キャラクター、アートワーク、架空の世界を探索・作成し、それらと交流できる AI キャラクターチャットおよび発見プラットフォームです。クリエイター、作家、コミュニティモデレーターにとっては、明確なコンテンツガバナンスの必要性を高めながら、AI がインタラクティブなストーリーテリングとユーザー生成キャラクター体験をどのように拡張できるかを示しています。
-- [connectthedotsprintable-online](https://www.aimyflow.com/ja/ai/connectthedotsprintable-online?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ConnectTheDotsPrintable.online は、写真、イラスト、またはテキストプロンプトを印刷可能な点つなぎワークシートに変換できるオンライン点つなぎジェネレーターで、主に保護者、教師、パズル愛好家を対象としています。教育者やアクティビティ作成者にとって、AI 支援による画像変換と調整可能な難易度により、家庭や教室で使える年齢に適した印刷教材の作成を効率化できます。
-- [crush-to](https://www.aimyflow.com/ja/ai/crush-to?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): KrushChatは、ユーザーがチャット、ロールプレイ、写真生成、さらにカスタマイズされたAI彼女やチャットボットの作成を行えるAIコンパニオンプラットフォームであり、主にバーチャルな伴侶関係やパーソナライズされた会話体験を求める成人向けに提供されています。AIエンターテインメント分野のクリエイターやコミュニティマネージャーにとっては、記憶機能、キャラクターデザイン、マルチモーダルなインタラクションによって、デジタル人格をより一貫性があり魅力的に感じさせる方法を示しています。
-- [dreamle-ai](https://www.aimyflow.com/ja/ai/dreamle-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Dreamle は 18歳以上向けの NSFW キャラクターAIチャットボットプラットフォームであり、成人ユーザーが露骨なロールプレイチャットを楽しみ、カスタムキャラクターを作成し、成人向け画像を生成できるよう支援します。主に、パーソナライズされたエロティックなAIインタラクションを求めるユーザーを対象としています。成人向けAI体験を構築するクリエイターやコミュニティマネージャーにとっては、会話型AIがカスタマイズ可能なキャラクターデザインと常時利用可能なインタラクティブ・ロールプレイをどのように支援できるかを示しています。
-- [evalyy-com](https://www.aimyflow.com/ja/ai/evalyy-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Evalyyは、AIを活用したクイズおよび動画生成プラットフォームで、章ごとのPDFを、試験対策や学習支援を行う教師・生徒・保護者向けのインタラクティブな評価コンテンツや教育動画に変換します。教育や学習のワークフローにおいては、既存の教材からカリキュラムに沿った問題セットや多言語の解説を生成することで、コンテンツ作成や復習を効率化できます。
-- [examino-ai-en](https://www.aimyflow.com/ja/ai/examino-ai-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Examino は、教師や教育関係者がエッセイ、手書きの答案、その他の評価形式を数秒でスキャン、評価し、ルーブリックに基づくフィードバックを提供できる AI エッセイ採点ツールです。教職員にとっては、教科や学年をまたいだクラスの成績状況の可視性を高めながら、一貫性と客観性を向上させ、手作業による採点時間を削減できます。
+- [1clickclaw-app](https://www.aimyflow.com/ja/ai/1clickclaw-app): 1ClickClaw は、Telegram、Discord、または WhatsApp 上で OpenClaw を個人用 AI アシスタントとしてワンクリックでデプロイできるホスティングサービスです。主に、サーバー管理、SSH、DevOps のセットアップを行わずに常時稼働するボットを求めるユーザー向けに設計されています。運用担当者、コミュニティマネージャー、個人開発者にとって、これによりデプロイ時間を短縮し、AI ボットの保守を簡素化できるため、インフラよりも会話やワークフローにより集中できます。
+- [caveduck-io](https://www.aimyflow.com/ja/ai/caveduck-io): CaveduckはAIキャラクターチャットプラットフォームであり、ユーザーがペルソナを作成し、ユーザー作成のキャラクターやシナリオを閲覧し、リアルタイムで会話できるよう支援します。主に、インタラクティブなロールプレイやバーチャルコンパニオン体験を求める人々に向けたサービスです。クリエイター、ライター、コミュニティマネージャーにとって、このようなAIチャットプラットフォームは、キャラクター検証、対話の反復改善、架空のペルソナに対するオーディエンスの反応収集を迅速化するのに役立ちます。
+- [charhub-ai](https://www.aimyflow.com/ja/ai/charhub-ai): CharHub.ai は、主にロールプレイやキャラクター中心のエンターテインメントを楽しむユーザー向けに、キャラクター、アートワーク、架空の世界を探索・作成し、それらと交流できる AI キャラクターチャットおよび発見プラットフォームです。クリエイター、作家、コミュニティモデレーターにとっては、明確なコンテンツガバナンスの必要性を高めながら、AI がインタラクティブなストーリーテリングとユーザー生成キャラクター体験をどのように拡張できるかを示しています。
+- [connectthedotsprintable-online](https://www.aimyflow.com/ja/ai/connectthedotsprintable-online): ConnectTheDotsPrintable.online は、写真、イラスト、またはテキストプロンプトを印刷可能な点つなぎワークシートに変換できるオンライン点つなぎジェネレーターで、主に保護者、教師、パズル愛好家を対象としています。教育者やアクティビティ作成者にとって、AI 支援による画像変換と調整可能な難易度により、家庭や教室で使える年齢に適した印刷教材の作成を効率化できます。
+- [crush-to](https://www.aimyflow.com/ja/ai/crush-to): KrushChatは、ユーザーがチャット、ロールプレイ、写真生成、さらにカスタマイズされたAI彼女やチャットボットの作成を行えるAIコンパニオンプラットフォームであり、主にバーチャルな伴侶関係やパーソナライズされた会話体験を求める成人向けに提供されています。AIエンターテインメント分野のクリエイターやコミュニティマネージャーにとっては、記憶機能、キャラクターデザイン、マルチモーダルなインタラクションによって、デジタル人格をより一貫性があり魅力的に感じさせる方法を示しています。
+- [dreamle-ai](https://www.aimyflow.com/ja/ai/dreamle-ai): Dreamle は 18歳以上向けの NSFW キャラクターAIチャットボットプラットフォームであり、成人ユーザーが露骨なロールプレイチャットを楽しみ、カスタムキャラクターを作成し、成人向け画像を生成できるよう支援します。主に、パーソナライズされたエロティックなAIインタラクションを求めるユーザーを対象としています。成人向けAI体験を構築するクリエイターやコミュニティマネージャーにとっては、会話型AIがカスタマイズ可能なキャラクターデザインと常時利用可能なインタラクティブ・ロールプレイをどのように支援できるかを示しています。
+- [evalyy-com](https://www.aimyflow.com/ja/ai/evalyy-com): Evalyyは、AIを活用したクイズおよび動画生成プラットフォームで、章ごとのPDFを、試験対策や学習支援を行う教師・生徒・保護者向けのインタラクティブな評価コンテンツや教育動画に変換します。教育や学習のワークフローにおいては、既存の教材からカリキュラムに沿った問題セットや多言語の解説を生成することで、コンテンツ作成や復習を効率化できます。
+- [examino-ai-en](https://www.aimyflow.com/ja/ai/examino-ai-en): Examino は、教師や教育関係者がエッセイ、手書きの答案、その他の評価形式を数秒でスキャン、評価し、ルーブリックに基づくフィードバックを提供できる AI エッセイ採点ツールです。教職員にとっては、教科や学年をまたいだクラスの成績状況の可視性を高めながら、一貫性と客観性を向上させ、手作業による採点時間を削減できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/community-college-instructor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/community-college-instructor)
 
 ## 補足
 

@@ -1,10 +1,10 @@
 # EC営業責任者
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/e-commerce-sales-head?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/e-commerce-sales-head)
 
 ## 概要
 
-- 一致ツール数: 124
+- 一致ツール数: 126
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
-- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
-- [adsoar-ai](https://www.aimyflow.com/ja/ai/adsoar-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ADSoarは、公式の広告プラットフォームデータとAIスコアリングを活用し、広告主、メディアバイヤー、PPCチームが成果の出る広告を見つけ、競合をベンチマークし、各国への展開を追跡できるよう支援するGoogle広告のインテリジェンスおよび競合調査ツールです。AI主導の広告運用においては、パフォーマンスマーケターや代理店が手作業による広告レビューを減らし、クリエイティブ、ターゲティング、市場参入に関して、より根拠に基づいた意思決定を行うのに役立ちます。
-- [adsturbo-ai](https://www.aimyflow.com/ja/ai/adsturbo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdsTurbo は、商品画像、URL、または参考動画から広告クリエイティブを作成、分析、複製、翻訳、高品質化できる、eコマースブランド、グロースチーム、パフォーマンスマーケター向けの AI 動画広告生成ツールです。AI 主導のクリエイティブワークフローにおいて、マーケターやメディアバイヤーが、成果の高い構成をキャンペーン間で再利用しながら、動画広告をより迅速に制作・改善できるよう支援します。
-- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
-- [aiimagetoimage-io](https://www.aimyflow.com/ja/ai/aiimagetoimage-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIImagetoImage.io は、無料の AI 画像変換ジェネレーターで、テキストプロンプトを使って写真の編集や変換を行えるよう支援します。スタイル変更、オブジェクトの差し替え、背景除去、ヘッドショット、復元、アウトペインティングに対応しており、主に迅速なビジュアルバリエーションを必要とするクリエイター、マーケター、デザイナー向けです。AI 主導のコンテンツ制作ワークフローでは、手作業による編集よりも短時間で、1 枚の元画像から複数の一貫性あるアセットを作成するのに役立ちます。
-- [aipicturegenerator-ai](https://www.aimyflow.com/ja/ai/aipicturegenerator-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Picture Generatorは、テキストプロンプトや参照写真を画像、バリエーション、短い動画に変換するAI画像生成・編集ツールで、主にクリエイター、マーケター、デザイナー、ECチーム向けです。AI主導のコンテンツ制作ワークフローでは、マーケティングやデザインの担当者がより多くのビジュアル案を迅速に試し、ブランドの一貫性を維持し、コンセプトから本番用アセットの制作までをより速く進めるのに役立ちます。
-- [aiugcvideogen-com](https://www.aimyflow.com/ja/ai/aiugcvideogen-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI UGC Video Generator は、プロンプトと商品画像をアバター、ナレーション、プラットフォーム別フォーマットを備えた短尺のUGC風広告に変換するAI動画広告作成ツールで、主にマーケター、創業者、代理店、コンテンツ制作者向けです。有料ソーシャル広告やクリエイティブチームにとっては、撮影なしで複数の動画バリエーションを生成することで、広告制作やA/Bテストを高速化できます。
+- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
+- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
+- [adsoar-ai](https://www.aimyflow.com/ja/ai/adsoar-ai): ADSoarは、公式の広告プラットフォームデータとAIスコアリングを活用し、広告主、メディアバイヤー、PPCチームが成果の出る広告を見つけ、競合をベンチマークし、各国への展開を追跡できるよう支援するGoogle広告のインテリジェンスおよび競合調査ツールです。AI主導の広告運用においては、パフォーマンスマーケターや代理店が手作業による広告レビューを減らし、クリエイティブ、ターゲティング、市場参入に関して、より根拠に基づいた意思決定を行うのに役立ちます。
+- [adsturbo-ai](https://www.aimyflow.com/ja/ai/adsturbo-ai): AdsTurbo は、商品画像、URL、または参考動画から広告クリエイティブを作成、分析、複製、翻訳、高品質化できる、eコマースブランド、グロースチーム、パフォーマンスマーケター向けの AI 動画広告生成ツールです。AI 主導のクリエイティブワークフローにおいて、マーケターやメディアバイヤーが、成果の高い構成をキャンペーン間で再利用しながら、動画広告をより迅速に制作・改善できるよう支援します。
+- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
+- [aiimagetoimage-io](https://www.aimyflow.com/ja/ai/aiimagetoimage-io): AIImagetoImage.io は、無料の AI 画像変換ジェネレーターで、テキストプロンプトを使って写真の編集や変換を行えるよう支援します。スタイル変更、オブジェクトの差し替え、背景除去、ヘッドショット、復元、アウトペインティングに対応しており、主に迅速なビジュアルバリエーションを必要とするクリエイター、マーケター、デザイナー向けです。AI 主導のコンテンツ制作ワークフローでは、手作業による編集よりも短時間で、1 枚の元画像から複数の一貫性あるアセットを作成するのに役立ちます。
+- [aipicturegenerator-ai](https://www.aimyflow.com/ja/ai/aipicturegenerator-ai): AI Picture Generatorは、テキストプロンプトや参照写真を画像、バリエーション、短い動画に変換するAI画像生成・編集ツールで、主にクリエイター、マーケター、デザイナー、ECチーム向けです。AI主導のコンテンツ制作ワークフローでは、マーケティングやデザインの担当者がより多くのビジュアル案を迅速に試し、ブランドの一貫性を維持し、コンセプトから本番用アセットの制作までをより速く進めるのに役立ちます。
+- [aiugcvideogen-com](https://www.aimyflow.com/ja/ai/aiugcvideogen-com): AI UGC Video Generator は、プロンプトと商品画像をアバター、ナレーション、プラットフォーム別フォーマットを備えた短尺のUGC風広告に変換するAI動画広告作成ツールで、主にマーケター、創業者、代理店、コンテンツ制作者向けです。有料ソーシャル広告やクリエイティブチームにとっては、撮影なしで複数の動画バリエーションを生成することで、広告制作やA/Bテストを高速化できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/e-commerce-sales-head?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/e-commerce-sales-head)
 
 ## 補足
 

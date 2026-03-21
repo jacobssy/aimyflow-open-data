@@ -1,6 +1,6 @@
 # コンサートプロモーター
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/concert-promoter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/concert-promoter)
 
 ## 概要
 
@@ -17,18 +17,18 @@
 
 ## 関連ツール
 
-- [celebrityai-club](https://www.aimyflow.com/ja/ai/celebrityai-club?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CelebrityAI は、ユーザーがテキストやアップロードしたメディアから、有名人風の動画、パーソナライズされたメッセージ、翻訳音声を作成できる AI 動画・音声クローンツールであり、主にコンテンツ制作者、中小企業、イベント関連の用途向けに利用されます。ソーシャルメディア、マーケティング、クリエイティブチームにとって、AI 生成メディアの開示と責任ある利用を支援しながら、用途に合わせて調整した短尺コンテンツの制作を迅速化できます。
-- [lyricedits-ai](https://www.aimyflow.com/ja/ai/lyricedits-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): LyricEdits は、AI を活用したリリックビデオ生成ツールで、ミュージシャン、音楽クリエイター、レーベルが、歌詞の自動文字起こし、リアルタイムエディター、さらに編集を続けるための書き出しオプションを使って、数分でカスタマイズ可能なリリックビデオに楽曲を変換できるよう支援します。アーティストや音楽マーケターにとっては、映像、テンポ、歌詞に対するクリエイティブなコントロールを維持しながら、楽曲リリース向けの動画制作を迅速化できます。
-- [musicvideogenerator-app](https://www.aimyflow.com/ja/ai/musicvideogenerator-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Music Video Generator は、アップロードされた楽曲を解析し、ストーリーボードを作成し、編集可能なシーンと同期されたキャプションを生成することで、インディペンデントミュージシャンが楽曲を映画のような歌詞主導のミュージックビデオに変換できるよう支援する AI ツールです。アーティストや音楽マーケターにとって、シーンのプロンプト、キャプション、ビジュアルの一貫性に対するクリエイティブなコントロールを維持しながら、リリースやソーシャル配信向けの動画制作を効率化できます。
-- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
-- [orphiq-com](https://www.aimyflow.com/ja/ai/orphiq-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Orphiqは、AIを活用した音楽リリース計画およびキャリア戦略プラットフォームであり、アーティストとそのチームが、主にアーティスト、マネージャー、レーベル、代理店向けに、ロールアウトの整理、プロモーションコンテンツの計画、リリース業務の調整を1つのワークスペースで行えるよう支援します。音楽マネージャー、レーベルチーム、アーティストマーケターにとっては、アーティストごとに最適化されたAIガイダンスを活用することで、リリースキャンペーンとオーディエンスとのコミュニケーションの一貫性を高め、手作業による計画や繰り返しのブリーフィングを削減できます。
-- [tunedforyou-com-en](https://www.aimyflow.com/ja/ai/tunedforyou-com-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TunedForYou は、個人的なストーリー、思い出、特別な機会を、歌詞付きのパーソナライズされた楽曲と共有可能なギフトページに変えることを支援する、AIカスタムソングギフトツールです。主に、大切な人への贈り物を作る個人向けに設計されています。ギフトを贈る人やイベントプランナーにとっては、音楽や作詞のスキルがなくても、感情に寄り添ったオーダーメイドの音声コンテンツを迅速に制作できます。
+- [celebrityai-club](https://www.aimyflow.com/ja/ai/celebrityai-club): CelebrityAI は、ユーザーがテキストやアップロードしたメディアから、有名人風の動画、パーソナライズされたメッセージ、翻訳音声を作成できる AI 動画・音声クローンツールであり、主にコンテンツ制作者、中小企業、イベント関連の用途向けに利用されます。ソーシャルメディア、マーケティング、クリエイティブチームにとって、AI 生成メディアの開示と責任ある利用を支援しながら、用途に合わせて調整した短尺コンテンツの制作を迅速化できます。
+- [lyricedits-ai](https://www.aimyflow.com/ja/ai/lyricedits-ai): LyricEdits は、AI を活用したリリックビデオ生成ツールで、ミュージシャン、音楽クリエイター、レーベルが、歌詞の自動文字起こし、リアルタイムエディター、さらに編集を続けるための書き出しオプションを使って、数分でカスタマイズ可能なリリックビデオに楽曲を変換できるよう支援します。アーティストや音楽マーケターにとっては、映像、テンポ、歌詞に対するクリエイティブなコントロールを維持しながら、楽曲リリース向けの動画制作を迅速化できます。
+- [musicvideogenerator-app](https://www.aimyflow.com/ja/ai/musicvideogenerator-app): Music Video Generator は、アップロードされた楽曲を解析し、ストーリーボードを作成し、編集可能なシーンと同期されたキャプションを生成することで、インディペンデントミュージシャンが楽曲を映画のような歌詞主導のミュージックビデオに変換できるよう支援する AI ツールです。アーティストや音楽マーケターにとって、シーンのプロンプト、キャプション、ビジュアルの一貫性に対するクリエイティブなコントロールを維持しながら、リリースやソーシャル配信向けの動画制作を効率化できます。
+- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
+- [orphiq-com](https://www.aimyflow.com/ja/ai/orphiq-com): Orphiqは、AIを活用した音楽リリース計画およびキャリア戦略プラットフォームであり、アーティストとそのチームが、主にアーティスト、マネージャー、レーベル、代理店向けに、ロールアウトの整理、プロモーションコンテンツの計画、リリース業務の調整を1つのワークスペースで行えるよう支援します。音楽マネージャー、レーベルチーム、アーティストマーケターにとっては、アーティストごとに最適化されたAIガイダンスを活用することで、リリースキャンペーンとオーディエンスとのコミュニケーションの一貫性を高め、手作業による計画や繰り返しのブリーフィングを削減できます。
+- [tunedforyou-com-en](https://www.aimyflow.com/ja/ai/tunedforyou-com-en): TunedForYou は、個人的なストーリー、思い出、特別な機会を、歌詞付きのパーソナライズされた楽曲と共有可能なギフトページに変えることを支援する、AIカスタムソングギフトツールです。主に、大切な人への贈り物を作る個人向けに設計されています。ギフトを贈る人やイベントプランナーにとっては、音楽や作詞のスキルがなくても、感情に寄り添ったオーダーメイドの音声コンテンツを迅速に制作できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/concert-promoter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/concert-promoter)
 
 ## 補足
 

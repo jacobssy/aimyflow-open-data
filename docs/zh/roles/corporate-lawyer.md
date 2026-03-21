@@ -1,6 +1,6 @@
 # 公司律师
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/corporate-lawyer)
 
 ## 概览
 
@@ -17,13 +17,13 @@
 
 ## 匹配工具
 
-- [lyra-so](https://www.aimyflow.com/zh/ai/lyra-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Lyra 是一款 AI 会议平台，帮助团队记录通话、理解业务上下文，并自动将对话转化为可执行的会后跟进，减少会议记笔记负担。
+- [lyra-so](https://www.aimyflow.com/zh/ai/lyra-so): Lyra 是一款 AI 会议平台，帮助团队记录通话、理解业务上下文，并自动将对话转化为可执行的会后跟进，减少会议记笔记负担。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/corporate-lawyer)
 
 ## 说明
 

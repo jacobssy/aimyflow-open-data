@@ -1,6 +1,6 @@
 # Formateur en lycée professionnel
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/vocational-school-trainer)
 
 ## Vue d’ensemble
 
@@ -17,14 +17,14 @@
 
 ## Outils associés
 
-- [graspeo-com](https://www.aimyflow.com/fr/ai/graspeo-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Graspeo est un générateur de quiz IA qui transforme des notes, des PDF, des images et du texte en quiz d’entraînement et tests modifiables, principalement destinés aux enseignants, aux étudiants, aux formateurs et aux créateurs de cours. Dans les flux de travail d’apprentissage et de formation assistés par l’IA, il peut aider les éducateurs et les équipes L&D à produire plus rapidement des évaluations sur mesure tout en maintenant l’alignement entre les types de questions, le niveau de difficulté et les supports sources.
-- [hisocra-com](https://www.aimyflow.com/fr/ai/hisocra-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Socra est un tuteur IA socratique et une plateforme d’apprentissage qui aide étudiants, autodidactes et professionnels à mieux comprendre grâce au dialogue guidé, à la mémorisation active et à des notes réutilisables.
+- [graspeo-com](https://www.aimyflow.com/fr/ai/graspeo-com): Graspeo est un générateur de quiz IA qui transforme des notes, des PDF, des images et du texte en quiz d’entraînement et tests modifiables, principalement destinés aux enseignants, aux étudiants, aux formateurs et aux créateurs de cours. Dans les flux de travail d’apprentissage et de formation assistés par l’IA, il peut aider les éducateurs et les équipes L&D à produire plus rapidement des évaluations sur mesure tout en maintenant l’alignement entre les types de questions, le niveau de difficulté et les supports sources.
+- [hisocra-com](https://www.aimyflow.com/fr/ai/hisocra-com): Socra est un tuteur IA socratique et une plateforme d’apprentissage qui aide étudiants, autodidactes et professionnels à mieux comprendre grâce au dialogue guidé, à la mémorisation active et à des notes réutilisables.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/vocational-school-trainer)
 
 ## Notes
 

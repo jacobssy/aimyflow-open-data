@@ -14,22 +14,22 @@ This repo is designed for people searching for:
 
 Current snapshot:
 
-- 1,497 AI tools
+- 1,507 AI tools
 - 221 roles
 - 1,105 role skills
 
 Site links:
 
-- Main site: https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_home
-- Explore tools: https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_explore
-- Browse roles: https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_roles
+- Main site: https://www.aimyflow.com
+- Explore tools: https://www.aimyflow.com/en/explore
+- Browse roles: https://www.aimyflow.com/en/roles
 - Localized docs entry: [`docs/index.md`](./docs/index.md)
 
 ## Continue On AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_cta_explore)
-- [Browse roles and workflows](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_cta_roles)
-- [See community voting](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_cta_votes)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse roles and workflows](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/roles)
 
 ## What This Repo Publishes
 
@@ -102,7 +102,7 @@ This repo should publish short, structured, index-like content. Do not copy full
 
 当前快照：
 
-- 1497 个 AI 工具
+- 1507 个 AI 工具
 - 221 个职业
 - 1105 个职业技能
 
@@ -123,6 +123,6 @@ This repo should publish short, structured, index-like content. Do not copy full
 
 推荐入口：
 
-- 主站首页：https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_zh_home
-- 主站职业页：https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=readme_zh_roles
+- 主站首页：https://www.aimyflow.com
+- 主站职业页：https://www.aimyflow.com/zh/roles
 - 多语言文档入口：[`docs/index.md`](./docs/index.md)

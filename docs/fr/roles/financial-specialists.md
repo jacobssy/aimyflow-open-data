@@ -1,6 +1,6 @@
 # Spécialistes financiers
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Financial-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Financial-Specialists)
 
 ## Vue d’ensemble
 
@@ -17,20 +17,20 @@
 
 ## Outils associés
 
-- [ads-tiktok-com](https://www.aimyflow.com/fr/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): TikTok for Business est une plateforme publicitaire qui aide les marques, agences et créateurs à créer, gérer et optimiser des campagnes pour les formats et audiences de TikTok. À l’ère de l’IA, elle permet de tester les créations plus vite et d’améliorer les performances grâce à l’optimisation automatisée et aux insights d’audience.
-- [airtable-com-platform](https://www.aimyflow.com/fr/ai/airtable-com-platform?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Airtable Platform est une plateforme no-code qui aide les équipes opérations et transverses à créer des applications métier, connecter les données et automatiser des workflows avec l’IA. À l’ère de l’IA, elle permet de transformer des informations structurées en systèmes évolutifs sans fort support technique.
-- [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
-- [clamor-social](https://www.aimyflow.com/fr/ai/clamor-social?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Clamor est une plateforme sociale conçue pour créer, partager et animer du contenu et des communautés, pensée pour les créateurs, marques et audiences en ligne.
-- [co-dev](https://www.aimyflow.com/fr/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Codev est un créateur d’apps IA qui transforme des descriptions textuelles en applications full-stack Next.js prêtes pour la production, pour fondateurs, équipes produit et développeurs.
-- [create-kwakwa-com](https://www.aimyflow.com/fr/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): KwaKwa Course Creator est une plateforme IA qui aide à créer et vendre rapidement des cours sociaux mobile-first, surtout pour coachs, créateurs et experts métier.
-- [createanything-com](https://www.aimyflow.com/fr/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Anything est un créateur d’apps IA qui transforme des idées en sites web, applications, outils et produits numériques à partir d’une simple description, pour fondateurs et makers.
-- [cursor-com](https://www.aimyflow.com/fr/ai/cursor-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Cursor est un éditeur de code IA qui aide les développeurs à écrire, modifier, comprendre et refactoriser du code plus efficacement dans leur environnement de programmation. À l’ère de l’IA, il accélère les tâches de codage courantes et réduit les boucles de feedback.
+- [ads-tiktok-com](https://www.aimyflow.com/fr/ai/ads-tiktok-com): TikTok for Business est une plateforme publicitaire qui aide les marques, agences et créateurs à créer, gérer et optimiser des campagnes pour les formats et audiences de TikTok. À l’ère de l’IA, elle permet de tester les créations plus vite et d’améliorer les performances grâce à l’optimisation automatisée et aux insights d’audience.
+- [airtable-com-platform](https://www.aimyflow.com/fr/ai/airtable-com-platform): Airtable Platform est une plateforme no-code qui aide les équipes opérations et transverses à créer des applications métier, connecter les données et automatiser des workflows avec l’IA. À l’ère de l’IA, elle permet de transformer des informations structurées en systèmes évolutifs sans fort support technique.
+- [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
+- [clamor-social](https://www.aimyflow.com/fr/ai/clamor-social): Clamor est une plateforme sociale conçue pour créer, partager et animer du contenu et des communautés, pensée pour les créateurs, marques et audiences en ligne.
+- [co-dev](https://www.aimyflow.com/fr/ai/co-dev): Codev est un créateur d’apps IA qui transforme des descriptions textuelles en applications full-stack Next.js prêtes pour la production, pour fondateurs, équipes produit et développeurs.
+- [create-kwakwa-com](https://www.aimyflow.com/fr/ai/create-kwakwa-com): KwaKwa Course Creator est une plateforme IA qui aide à créer et vendre rapidement des cours sociaux mobile-first, surtout pour coachs, créateurs et experts métier.
+- [createanything-com](https://www.aimyflow.com/fr/ai/createanything-com): Anything est un créateur d’apps IA qui transforme des idées en sites web, applications, outils et produits numériques à partir d’une simple description, pour fondateurs et makers.
+- [cursor-com](https://www.aimyflow.com/fr/ai/cursor-com): Cursor est un éditeur de code IA qui aide les développeurs à écrire, modifier, comprendre et refactoriser du code plus efficacement dans leur environnement de programmation. À l’ère de l’IA, il accélère les tâches de codage courantes et réduit les boucles de feedback.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Financial-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Financial-Specialists)
 
 ## Notes
 

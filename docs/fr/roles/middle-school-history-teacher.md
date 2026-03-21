@@ -1,6 +1,6 @@
 # Professeur d'histoire au collège
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/middle-school-history-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/middle-school-history-teacher)
 
 ## Vue d’ensemble
 
@@ -17,15 +17,15 @@
 
 ## Outils associés
 
-- [chronostates-io](https://www.aimyflow.com/fr/ai/chronostates-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Chronostates est un moteur de jeu d’histoire alternative alimenté par l’IA et un moteur de création de livres qui aide les conteurs à créer des mondes interactifs, à explorer des scénarios hypothétiques à embranchements et à transformer des chronologies évolutives en romans, principalement pour les écrivains et les créateurs passionnés d’histoire. Pour les auteurs et les concepteurs narratifs, son suivi de l’état du monde et ses conséquences en cascade peuvent accélérer l’idéation tout en préservant la continuité dans des intrigues complexes.
-- [echoesofhistoryai-org](https://www.aimyflow.com/fr/ai/echoesofhistoryai-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Echoes of History AI est une plateforme de conversation IA qui permet aux utilisateurs d’interroger et d’apprendre auprès de figures historiques simulées grâce à des invites axées d’abord sur le contexte, principalement destinée aux lecteurs curieux qui explorent l’histoire et les idées. Pour les enseignants, les étudiants et les chercheurs, elle offre un moyen rapide de tester des questions et de comparer des perspectives tout en maintenant une démarche d’enquête historique interactive et soucieuse des preuves.
-- [knowt-com](https://www.aimyflow.com/fr/ai/knowt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Knowt est une plateforme d’apprentissage et alternative à Quizlet qui aide étudiants et enseignants à créer, importer et réviser des flashcards avec plusieurs modes d’étude.
+- [chronostates-io](https://www.aimyflow.com/fr/ai/chronostates-io): Chronostates est un moteur de jeu d’histoire alternative alimenté par l’IA et un moteur de création de livres qui aide les conteurs à créer des mondes interactifs, à explorer des scénarios hypothétiques à embranchements et à transformer des chronologies évolutives en romans, principalement pour les écrivains et les créateurs passionnés d’histoire. Pour les auteurs et les concepteurs narratifs, son suivi de l’état du monde et ses conséquences en cascade peuvent accélérer l’idéation tout en préservant la continuité dans des intrigues complexes.
+- [echoesofhistoryai-org](https://www.aimyflow.com/fr/ai/echoesofhistoryai-org): Echoes of History AI est une plateforme de conversation IA qui permet aux utilisateurs d’interroger et d’apprendre auprès de figures historiques simulées grâce à des invites axées d’abord sur le contexte, principalement destinée aux lecteurs curieux qui explorent l’histoire et les idées. Pour les enseignants, les étudiants et les chercheurs, elle offre un moyen rapide de tester des questions et de comparer des perspectives tout en maintenant une démarche d’enquête historique interactive et soucieuse des preuves.
+- [knowt-com](https://www.aimyflow.com/fr/ai/knowt-com): Knowt est une plateforme d’apprentissage et alternative à Quizlet qui aide étudiants et enseignants à créer, importer et réviser des flashcards avec plusieurs modes d’étude.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/middle-school-history-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/middle-school-history-teacher)
 
 ## Notes
 

@@ -1,6 +1,6 @@
 # Juriste d’entreprise
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/corporate-lawyer)
 
 ## Vue d’ensemble
 
@@ -17,13 +17,13 @@
 
 ## Outils associés
 
-- [lyra-so](https://www.aimyflow.com/fr/ai/lyra-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Lyra est une plateforme IA de réunions qui aide les équipes à capturer les appels, comprendre le contexte métier et générer automatiquement des suivis actionnables.
+- [lyra-so](https://www.aimyflow.com/fr/ai/lyra-so): Lyra est une plateforme IA de réunions qui aide les équipes à capturer les appels, comprendre le contexte métier et générer automatiquement des suivis actionnables.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/corporate-lawyer)
 
 ## Notes
 

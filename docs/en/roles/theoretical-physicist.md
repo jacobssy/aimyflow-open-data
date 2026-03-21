@@ -1,6 +1,6 @@
 # Theoretical Physicist
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/theoretical-physicist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/theoretical-physicist)
 
 ## Snapshot
 
@@ -17,15 +17,15 @@
 
 ## Matched Tools
 
-- [co-dev](https://www.aimyflow.com/en/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Codev is an AI app builder that helps users turn text descriptions into production-ready full-stack Next.js applications, mainly for founders, product teams, and developers. In the AI era, it accelerates software creation by moving teams from idea to deployable product with far less setup work.
-- [openai-com-prism](https://www.aimyflow.com/en/ai/openai-com-prism?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Prism is a free LaTeX editor and AI-native scientific workspace from OpenAI that helps scientists draft, edit, compile, search literature, manage citations, and collaborate on research documents in one cloud-based environment. For researchers and scientific writing teams, its project-aware AI can reduce formatting and proofreading overhead so they can spend more time on analysis, reasoning, and manuscript development.
-- [scisummary-com](https://www.aimyflow.com/en/ai/scisummary-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): SciSummary is an AI research tool that helps researchers and students summarize, analyze, and organize scientific articles and research papers with structured sections, figure interpretation, and reference management. For academic researchers, analysts, and graduate students, it can speed literature reviews and paper comparison by turning dense studies into usable summaries while preserving the structure they rely on.
+- [co-dev](https://www.aimyflow.com/en/ai/co-dev): Codev is an AI app builder that helps users turn text descriptions into production-ready full-stack Next.js applications, mainly for founders, product teams, and developers. In the AI era, it accelerates software creation by moving teams from idea to deployable product with far less setup work.
+- [openai-com-prism](https://www.aimyflow.com/en/ai/openai-com-prism): Prism is a free LaTeX editor and AI-native scientific workspace from OpenAI that helps scientists draft, edit, compile, search literature, manage citations, and collaborate on research documents in one cloud-based environment. For researchers and scientific writing teams, its project-aware AI can reduce formatting and proofreading overhead so they can spend more time on analysis, reasoning, and manuscript development.
+- [scisummary-com](https://www.aimyflow.com/en/ai/scisummary-com): SciSummary is an AI research tool that helps researchers and students summarize, analyze, and organize scientific articles and research papers with structured sections, figure interpretation, and reference management. For academic researchers, analysts, and graduate students, it can speed literature reviews and paper comparison by turning dense studies into usable summaries while preserving the structure they rely on.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/theoretical-physicist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/theoretical-physicist)
 
 ## Notes
 

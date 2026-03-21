@@ -1,10 +1,10 @@
 # 教育テクノロジーコンサルタント
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/education-technology-consultant?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/education-technology-consultant)
 
 ## 概要
 
-- 一致ツール数: 130
+- 一致ツール数: 131
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [ai-pact-com](https://www.aimyflow.com/ja/ai/ai-pact-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): PACTは、ADAアクセシビリティ、GDPRのプライバシー要件、WCAG 2.1 AAの問題についてサイトをチェックする、AI搭載の無料ウェブサイトコンプライアンス監査ツールで、主に企業やウェブサイト所有者向けです。コンプライアンス、アクセシビリティ、ウェブ担当チームにとって、手動チェックを実行可能な推奨事項付きの即時レポートに変えることで、問題の発見と優先順位付けを迅速化できます。
-- [aicoursify-com](https://www.aimyflow.com/ja/ai/aicoursify-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AiCoursifyは、コース作成者やeラーニングの専門家が、トピックのプロンプトから数分でオンラインコース、クイズ、音声レッスン、課題、プレゼンテーションを作成できるよう支援するAIコース作成プラットフォームです。教育者、インストラクショナルデザイナー、研修チームにとって、手作業による作成時間を削減し、構造化されたマルチフォーマットの学習コンテンツ制作を加速できます。
-- [aipdfreader-net](https://www.aimyflow.com/ja/ai/aipdfreader-net?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI PDF Reader は、PDF をアップロードして分析、翻訳、要約、追加質問を行える無料の AI ドキュメントリーダーで、主に授業資料、論文、研究資料を扱う学生、教師、研究者を支援します。AI を活用した学術・教育業務において、これらのユーザーが参考資料をより速く確認し、要点を抽出し、多言語で文書とやり取りできるようサポートします。
-- [aistudios-com](https://www.aimyflow.com/ja/ai/aistudios-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Studios は、テキスト、ドキュメント、URL、画像、または商品ページから動画を作成、編集、吹き替え、翻訳、公開できる AI 動画生成ツールで、主に研修チーム、マーケター、コンテンツ制作者を支援します。学習、マーケティング、動画制作の業務において、AI アバター、音声クローン、再利用可能なテンプレートを 1 つのワークスペースで活用し、多言語動画ワークフローを高速化できます。
-- [aivideogenerator-best](https://www.aimyflow.com/ja/ai/aivideogenerator-best?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Video Generatorは、コンテンツ制作者、マーケター、教育者、事業者が、動画編集スキルなしでプロ品質の動画を作成できるオンラインのテキスト動画変換および画像動画変換ツールです。AI主導のコンテンツワークフローにおいては、マーケティングチームやクリエイティブチームが、文章によるプロンプトや静止画像から、ソーシャル向けの短尺動画、広告、ビジュアルコンセプトをより迅速にプロトタイプ化するのに役立ちます。
-- [aivoicegenerator-com](https://www.aimyflow.com/ja/ai/aivoicegenerator-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Voice Generator は、テキストをダウンロード可能な音声ファイルに変換できるオンライン音声合成ツールで、幅広い音声と言語に対応しており、主にボイスオーバー、ポッドキャスト、eラーニングコンテンツを制作するクリエイター、教育者、チームを支援します。AI 主導のコンテンツワークフローでは、メディア、研修、コンテンツ分野の担当者が、多言語音声制作をより迅速に拡大しながら、形式をまたいでナレーションの一貫性をより高く保つのに役立ちます。
-- [anytourl-com](https://www.aimyflow.com/ja/ai/anytourl-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AnyToURLは、画像・動画・PDF・コードをアップロードし、共有用の直接リンクを即時発行できるファイルホスティングツールです。AI時代に、開発やコンテンツ運用での迅速な素材共有をシンプルにします。
-- [askiva-io](https://www.aimyflow.com/ja/ai/askiva-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Askiva は、参加者への連絡、日程調整、Zoom インタビュー、文字起こし、テーマ別サマリーを自動化する、リサーチチームや大学向けの AI 搭載ユーザーリサーチプラットフォームです。UX リサーチャー、プロダクトマネージャー、リサーチオペレーションチームにとって、インタビュー運営の負担を軽減し、分析・統合を迅速化することで、ユーザーフィードバックや解約要因の分析により多くの時間を充てられるようにします。
+- [ai-pact-com](https://www.aimyflow.com/ja/ai/ai-pact-com): PACTは、ADAアクセシビリティ、GDPRのプライバシー要件、WCAG 2.1 AAの問題についてサイトをチェックする、AI搭載の無料ウェブサイトコンプライアンス監査ツールで、主に企業やウェブサイト所有者向けです。コンプライアンス、アクセシビリティ、ウェブ担当チームにとって、手動チェックを実行可能な推奨事項付きの即時レポートに変えることで、問題の発見と優先順位付けを迅速化できます。
+- [aicoursify-com](https://www.aimyflow.com/ja/ai/aicoursify-com): AiCoursifyは、コース作成者やeラーニングの専門家が、トピックのプロンプトから数分でオンラインコース、クイズ、音声レッスン、課題、プレゼンテーションを作成できるよう支援するAIコース作成プラットフォームです。教育者、インストラクショナルデザイナー、研修チームにとって、手作業による作成時間を削減し、構造化されたマルチフォーマットの学習コンテンツ制作を加速できます。
+- [aipdfreader-net](https://www.aimyflow.com/ja/ai/aipdfreader-net): AI PDF Reader は、PDF をアップロードして分析、翻訳、要約、追加質問を行える無料の AI ドキュメントリーダーで、主に授業資料、論文、研究資料を扱う学生、教師、研究者を支援します。AI を活用した学術・教育業務において、これらのユーザーが参考資料をより速く確認し、要点を抽出し、多言語で文書とやり取りできるようサポートします。
+- [aistudios-com](https://www.aimyflow.com/ja/ai/aistudios-com): AI Studios は、テキスト、ドキュメント、URL、画像、または商品ページから動画を作成、編集、吹き替え、翻訳、公開できる AI 動画生成ツールで、主に研修チーム、マーケター、コンテンツ制作者を支援します。学習、マーケティング、動画制作の業務において、AI アバター、音声クローン、再利用可能なテンプレートを 1 つのワークスペースで活用し、多言語動画ワークフローを高速化できます。
+- [aivideogenerator-best](https://www.aimyflow.com/ja/ai/aivideogenerator-best): AI Video Generatorは、コンテンツ制作者、マーケター、教育者、事業者が、動画編集スキルなしでプロ品質の動画を作成できるオンラインのテキスト動画変換および画像動画変換ツールです。AI主導のコンテンツワークフローにおいては、マーケティングチームやクリエイティブチームが、文章によるプロンプトや静止画像から、ソーシャル向けの短尺動画、広告、ビジュアルコンセプトをより迅速にプロトタイプ化するのに役立ちます。
+- [aivoicegenerator-com](https://www.aimyflow.com/ja/ai/aivoicegenerator-com): AI Voice Generator は、テキストをダウンロード可能な音声ファイルに変換できるオンライン音声合成ツールで、幅広い音声と言語に対応しており、主にボイスオーバー、ポッドキャスト、eラーニングコンテンツを制作するクリエイター、教育者、チームを支援します。AI 主導のコンテンツワークフローでは、メディア、研修、コンテンツ分野の担当者が、多言語音声制作をより迅速に拡大しながら、形式をまたいでナレーションの一貫性をより高く保つのに役立ちます。
+- [anytourl-com](https://www.aimyflow.com/ja/ai/anytourl-com): AnyToURLは、画像・動画・PDF・コードをアップロードし、共有用の直接リンクを即時発行できるファイルホスティングツールです。AI時代に、開発やコンテンツ運用での迅速な素材共有をシンプルにします。
+- [askiva-io](https://www.aimyflow.com/ja/ai/askiva-io): Askiva は、参加者への連絡、日程調整、Zoom インタビュー、文字起こし、テーマ別サマリーを自動化する、リサーチチームや大学向けの AI 搭載ユーザーリサーチプラットフォームです。UX リサーチャー、プロダクトマネージャー、リサーチオペレーションチームにとって、インタビュー運営の負担を軽減し、分析・統合を迅速化することで、ユーザーフィードバックや解約要因の分析により多くの時間を充てられるようにします。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/education-technology-consultant?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/education-technology-consultant)
 
 ## 補足
 

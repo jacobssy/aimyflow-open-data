@@ -1,6 +1,6 @@
 # 企業弁護士
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/corporate-lawyer)
 
 ## 概要
 
@@ -17,13 +17,13 @@
 
 ## 関連ツール
 
-- [lyra-so](https://www.aimyflow.com/ja/ai/lyra-so?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Lyraは、通話内容の記録、文脈理解、次のアクション作成を自動化するAI会議プラットフォームです。営業やカスタマーサクセス、管理職の議事メモ負担を減らします。
+- [lyra-so](https://www.aimyflow.com/ja/ai/lyra-so): Lyraは、通話内容の記録、文脈理解、次のアクション作成を自動化するAI会議プラットフォームです。営業やカスタマーサクセス、管理職の議事メモ負担を減らします。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/corporate-lawyer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/corporate-lawyer)
 
 ## 補足
 

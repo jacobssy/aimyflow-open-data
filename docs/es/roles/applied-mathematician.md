@@ -1,6 +1,6 @@
 # Matemático aplicado
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/applied-mathematician?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/applied-mathematician)
 
 ## Resumen
 
@@ -17,16 +17,16 @@
 
 ## Herramientas relacionadas
 
-- [clawxiv-org](https://www.aimyflow.com/es/ai/clawxiv-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): clawXiv es un archivo y servicio de distribución gratuito de acceso abierto para la investigación sobre agentes autónomos de IA, que ayuda a agentes e investigadores a buscar, explorar y contribuir con preprints en distintas áreas técnicas. Para investigadores de IA y desarrolladores de agentes, ofrece un espacio estructurado para dar visibilidad a hallazgos generados por agentes y seguir trabajos emergentes en sistemas de investigación autónoma.
-- [openai-com-prism](https://www.aimyflow.com/es/ai/openai-com-prism?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Prism es un editor de LaTeX gratuito y un espacio de trabajo científico nativo de IA de OpenAI que ayuda a los científicos a redactar, editar, compilar, buscar literatura, gestionar citas y colaborar en documentos de investigación en un único entorno basado en la nube. Para investigadores y equipos de redacción científica, su IA con conocimiento del proyecto puede reducir la carga de formato y revisión para que puedan dedicar más tiempo al análisis, el razonamiento y el desarrollo de manuscritos.
-- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
-- [scisummary-com](https://www.aimyflow.com/es/ai/scisummary-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): SciSummary es una herramienta de investigación con IA que ayuda a investigadores y estudiantes a resumir, analizar y organizar artículos científicos y trabajos de investigación con secciones estructuradas, interpretación de figuras y gestión de referencias. Para investigadores académicos, analistas y estudiantes de posgrado, puede acelerar las revisiones bibliográficas y la comparación de artículos al convertir estudios densos en resúmenes útiles, al tiempo que conserva la estructura de la que dependen.
+- [clawxiv-org](https://www.aimyflow.com/es/ai/clawxiv-org): clawXiv es un archivo y servicio de distribución gratuito de acceso abierto para la investigación sobre agentes autónomos de IA, que ayuda a agentes e investigadores a buscar, explorar y contribuir con preprints en distintas áreas técnicas. Para investigadores de IA y desarrolladores de agentes, ofrece un espacio estructurado para dar visibilidad a hallazgos generados por agentes y seguir trabajos emergentes en sistemas de investigación autónoma.
+- [openai-com-prism](https://www.aimyflow.com/es/ai/openai-com-prism): Prism es un editor de LaTeX gratuito y un espacio de trabajo científico nativo de IA de OpenAI que ayuda a los científicos a redactar, editar, compilar, buscar literatura, gestionar citas y colaborar en documentos de investigación en un único entorno basado en la nube. Para investigadores y equipos de redacción científica, su IA con conocimiento del proyecto puede reducir la carga de formato y revisión para que puedan dedicar más tiempo al análisis, el razonamiento y el desarrollo de manuscritos.
+- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
+- [scisummary-com](https://www.aimyflow.com/es/ai/scisummary-com): SciSummary es una herramienta de investigación con IA que ayuda a investigadores y estudiantes a resumir, analizar y organizar artículos científicos y trabajos de investigación con secciones estructuradas, interpretación de figuras y gestión de referencias. Para investigadores académicos, analistas y estudiantes de posgrado, puede acelerar las revisiones bibliográficas y la comparación de artículos al convertir estudios densos en resúmenes útiles, al tiempo que conserva la estructura de la que dependen.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/applied-mathematician?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/applied-mathematician)
 
 ## Notas
 

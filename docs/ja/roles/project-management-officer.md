@@ -1,10 +1,10 @@
 # PMO担当
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/project-management-officer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/project-management-officer)
 
 ## 概要
 
-- 一致ツール数: 315
+- 一致ツール数: 317
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [1clickclaw-app](https://www.aimyflow.com/ja/ai/1clickclaw-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 1ClickClaw は、Telegram、Discord、または WhatsApp 上で OpenClaw を個人用 AI アシスタントとしてワンクリックでデプロイできるホスティングサービスです。主に、サーバー管理、SSH、DevOps のセットアップを行わずに常時稼働するボットを求めるユーザー向けに設計されています。運用担当者、コミュニティマネージャー、個人開発者にとって、これによりデプロイ時間を短縮し、AI ボットの保守を簡素化できるため、インフラよりも会話やワークフローにより集中できます。
-- [accuchats-com](https://www.aimyflow.com/ja/ai/accuchats-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AccuChats は、正確性を最優先にした AI チャットボットプラットフォームであり、企業が出典の引用、信頼度スコアリング、人への引き継ぎ、音声機能を備えた Web サイト用およびサポート用チャットボットを構築できるよう支援します。主に、信頼できる顧客向け回答を必要とするチーム向けです。サポート、オペレーション、プロダクトチームにとって、出典付きの回答と意図分析により、リスクのあるハルシネーションを減らしつつ、ドキュメントやワークフローの改善が必要な箇所を可視化できます。
-- [actionbook-dev](https://www.aimyflow.com/ja/ai/actionbook-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Actionbook は AI エージェント向けのブラウザ操作エンジンであり、最新のアクションマニュアルと DOM 構造を提供することで、開発者やチームがエージェントをより迅速かつ高い信頼性でウェブサイト上で動作させられるようにします。AI エンジニアや自動化構築者にとって、これは動的なウェブアプリや SPA を扱う際の壊れやすいセレクタロジックや、トークン消費の多いページ解析を削減できます。
-- [affint-ai](https://www.aimyflow.com/ja/ai/affint-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Affint は、業務アプリを連携し、情報を収集し、コンテンツ作成とワークフローを自動化することで、チームやビジネスパーソンによるプレゼンテーション、ドキュメント、スプレッドシートの作成を支援する AI オフィススイートです。マーケティング、プロダクト、営業チーム向けに、手作業の調査やコンテキストスイッチを減らし、ブランドに沿った成果物の作成と、データに基づく意思決定の迅速化を実現します。
-- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
-- [agent-blackbox-ai-api](https://www.aimyflow.com/ja/ai/agent-blackbox-ai-api?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BLACKBOX AI Agent は、開発者やエンジニアリングチームが複数の AI エージェントでコーディングタスクを実行し、実装を比較し、コードリポジトリに変更を適用するための REST API です。AI 支援によるソフトウェア開発では、並列エージェント実行と選択レイヤーを用いて最も優れた実装を特定することで、エンジニアやテクニカルリードがモデル出力をより効率的に評価するのに役立ちます。
-- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
-- [agentdesk-noice-net-au](https://www.aimyflow.com/ja/ai/agentdesk-noice-net-au?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AgentDesk は、コードを読み取り、問題を調査し、修正を記述し、テストを実行し、プルリクエストを作成する、AI 搭載のチケット管理およびワークフロー自動化ツールです。Jira と Git ベースの開発ワークフローを利用するソフトウェアチーム向けに設計されています。開発者、エンジニアリングマネージャー、IT チームにとって、定型的なバックログ項目をレビュー可能なコード変更に変換することで、手作業によるトリアージを減らし、チケット解決を迅速化できます。
+- [1clickclaw-app](https://www.aimyflow.com/ja/ai/1clickclaw-app): 1ClickClaw は、Telegram、Discord、または WhatsApp 上で OpenClaw を個人用 AI アシスタントとしてワンクリックでデプロイできるホスティングサービスです。主に、サーバー管理、SSH、DevOps のセットアップを行わずに常時稼働するボットを求めるユーザー向けに設計されています。運用担当者、コミュニティマネージャー、個人開発者にとって、これによりデプロイ時間を短縮し、AI ボットの保守を簡素化できるため、インフラよりも会話やワークフローにより集中できます。
+- [accuchats-com](https://www.aimyflow.com/ja/ai/accuchats-com): AccuChats は、正確性を最優先にした AI チャットボットプラットフォームであり、企業が出典の引用、信頼度スコアリング、人への引き継ぎ、音声機能を備えた Web サイト用およびサポート用チャットボットを構築できるよう支援します。主に、信頼できる顧客向け回答を必要とするチーム向けです。サポート、オペレーション、プロダクトチームにとって、出典付きの回答と意図分析により、リスクのあるハルシネーションを減らしつつ、ドキュメントやワークフローの改善が必要な箇所を可視化できます。
+- [actionbook-dev](https://www.aimyflow.com/ja/ai/actionbook-dev): Actionbook は AI エージェント向けのブラウザ操作エンジンであり、最新のアクションマニュアルと DOM 構造を提供することで、開発者やチームがエージェントをより迅速かつ高い信頼性でウェブサイト上で動作させられるようにします。AI エンジニアや自動化構築者にとって、これは動的なウェブアプリや SPA を扱う際の壊れやすいセレクタロジックや、トークン消費の多いページ解析を削減できます。
+- [affint-ai](https://www.aimyflow.com/ja/ai/affint-ai): Affint は、業務アプリを連携し、情報を収集し、コンテンツ作成とワークフローを自動化することで、チームやビジネスパーソンによるプレゼンテーション、ドキュメント、スプレッドシートの作成を支援する AI オフィススイートです。マーケティング、プロダクト、営業チーム向けに、手作業の調査やコンテキストスイッチを減らし、ブランドに沿った成果物の作成と、データに基づく意思決定の迅速化を実現します。
+- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
+- [agent-blackbox-ai-api](https://www.aimyflow.com/ja/ai/agent-blackbox-ai-api): BLACKBOX AI Agent は、開発者やエンジニアリングチームが複数の AI エージェントでコーディングタスクを実行し、実装を比較し、コードリポジトリに変更を適用するための REST API です。AI 支援によるソフトウェア開発では、並列エージェント実行と選択レイヤーを用いて最も優れた実装を特定することで、エンジニアやテクニカルリードがモデル出力をより効率的に評価するのに役立ちます。
+- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
+- [agentdesk-noice-net-au](https://www.aimyflow.com/ja/ai/agentdesk-noice-net-au): AgentDesk は、コードを読み取り、問題を調査し、修正を記述し、テストを実行し、プルリクエストを作成する、AI 搭載のチケット管理およびワークフロー自動化ツールです。Jira と Git ベースの開発ワークフローを利用するソフトウェアチーム向けに設計されています。開発者、エンジニアリングマネージャー、IT チームにとって、定型的なバックログ項目をレビュー可能なコード変更に変換することで、手作業によるトリアージを減らし、チケット解決を迅速化できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/project-management-officer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/project-management-officer)
 
 ## 補足
 

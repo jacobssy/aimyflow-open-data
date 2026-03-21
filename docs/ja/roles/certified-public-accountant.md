@@ -1,6 +1,6 @@
 # 公認会計士
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/certified-public-accountant?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/certified-public-accountant)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [app-quaestorledger-com-home](https://www.aimyflow.com/ja/ai/app-quaestorledger-com-home?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Quaestor Ledger は、領収書のアップロード、購入データの抽出と分類、アカウント・取引・純資産の管理を支援する、AI搭載の領収書処理および財務追跡ツールです。主に、個人または事業の財務を管理する個人やチーム向けに設計されています。財務管理や記帳業務においては、手作業によるデータ入力を削減し、取引記録の整理、検索、照合作業を容易にします。
-- [beancount-io](https://www.aimyflow.com/ja/ai/beancount-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Beancount.io は、ユーザーがスクリプト可能なワークフローと AI 支援のインサイトを用いて財務記録を記述・自動化・監査できるプレーンテキスト会計プラットフォームであり、主に開発者、会計担当者、財務チーム向けに設計されています。AI を活用した財務業務では、その透明性が高くバージョン管理された元帳により、記帳やレポーティングの担当者が、不透明なシステムに依存することなく、追跡可能性の向上、定型的な分類作業の自動化、トレンド分析を行うのに役立ちます。
-- [booksmate-com](https://www.aimyflow.com/ja/ai/booksmate-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Booksmate は、メールの受信トレイや 200 以上のオンラインポータルから請求書や領収書を自動でダウンロードし、データを抽出して、経理担当者、財務チーム、中小企業向けに会計ソフトへのエクスポートを準備する AI 会計自動化ツールです。経理・オペレーションの担当者にとっては、書類の手作業での収集やデータ入力を削減し、照合作業、確認、例外処理により多くの時間を割けるようにします。
-- [clamor-social](https://www.aimyflow.com/ja/ai/clamor-social?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Clamorは、コンテンツ作成・共有・コミュニティ交流を支援するソーシャルプラットフォームです。クリエイターやブランド向けに、継続的な発信とエンゲージメント向上をサポートします。
-- [co-dev](https://www.aimyflow.com/ja/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Codevは、テキスト説明から本番対応のフルスタックNext.jsアプリを生成できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアからデプロイ可能な製品化までを高速化します。
-- [cognitofi-com](https://www.aimyflow.com/ja/ai/cognitofi-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): SenticMoney は、プライバシーを重視する個人が、データを自分のデバイスにローカル保存したまま、予算管理、取引のインポートと分類、レシートのスキャン、支出に関する質問を行えるよう支援する、Windows 向けの AI 搭載個人向け家計管理アプリです。個人の家計管理ユーザーやアドバイザーにとって、デバイス上で動作する AI と即時の自然言語分析により、クラウドベースの金融プラットフォームに依存することなく、月次レビューや予算策定の意思決定を迅速化できます。
-- [create-kwakwa-com](https://www.aimyflow.com/ja/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): KwaKwa Course Creatorは、モバイルファーストのソーシャル講座を素早く作成・販売できるAIプラットフォームです。コーチやクリエイター、専門家向けに、知識の収益化をスムーズに進められます。
-- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
+- [app-quaestorledger-com-home](https://www.aimyflow.com/ja/ai/app-quaestorledger-com-home): Quaestor Ledger は、領収書のアップロード、購入データの抽出と分類、アカウント・取引・純資産の管理を支援する、AI搭載の領収書処理および財務追跡ツールです。主に、個人または事業の財務を管理する個人やチーム向けに設計されています。財務管理や記帳業務においては、手作業によるデータ入力を削減し、取引記録の整理、検索、照合作業を容易にします。
+- [beancount-io](https://www.aimyflow.com/ja/ai/beancount-io): Beancount.io は、ユーザーがスクリプト可能なワークフローと AI 支援のインサイトを用いて財務記録を記述・自動化・監査できるプレーンテキスト会計プラットフォームであり、主に開発者、会計担当者、財務チーム向けに設計されています。AI を活用した財務業務では、その透明性が高くバージョン管理された元帳により、記帳やレポーティングの担当者が、不透明なシステムに依存することなく、追跡可能性の向上、定型的な分類作業の自動化、トレンド分析を行うのに役立ちます。
+- [booksmate-com](https://www.aimyflow.com/ja/ai/booksmate-com): Booksmate は、メールの受信トレイや 200 以上のオンラインポータルから請求書や領収書を自動でダウンロードし、データを抽出して、経理担当者、財務チーム、中小企業向けに会計ソフトへのエクスポートを準備する AI 会計自動化ツールです。経理・オペレーションの担当者にとっては、書類の手作業での収集やデータ入力を削減し、照合作業、確認、例外処理により多くの時間を割けるようにします。
+- [clamor-social](https://www.aimyflow.com/ja/ai/clamor-social): Clamorは、コンテンツ作成・共有・コミュニティ交流を支援するソーシャルプラットフォームです。クリエイターやブランド向けに、継続的な発信とエンゲージメント向上をサポートします。
+- [co-dev](https://www.aimyflow.com/ja/ai/co-dev): Codevは、テキスト説明から本番対応のフルスタックNext.jsアプリを生成できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアからデプロイ可能な製品化までを高速化します。
+- [cognitofi-com](https://www.aimyflow.com/ja/ai/cognitofi-com): SenticMoney は、プライバシーを重視する個人が、データを自分のデバイスにローカル保存したまま、予算管理、取引のインポートと分類、レシートのスキャン、支出に関する質問を行えるよう支援する、Windows 向けの AI 搭載個人向け家計管理アプリです。個人の家計管理ユーザーやアドバイザーにとって、デバイス上で動作する AI と即時の自然言語分析により、クラウドベースの金融プラットフォームに依存することなく、月次レビューや予算策定の意思決定を迅速化できます。
+- [create-kwakwa-com](https://www.aimyflow.com/ja/ai/create-kwakwa-com): KwaKwa Course Creatorは、モバイルファーストのソーシャル講座を素早く作成・販売できるAIプラットフォームです。コーチやクリエイター、専門家向けに、知識の収益化をスムーズに進められます。
+- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/certified-public-accountant?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/certified-public-accountant)
 
 ## 補足
 

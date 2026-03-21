@@ -1,6 +1,6 @@
 # Operadores de equipos de comunicación
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Comm-Equipment-Ops?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Comm-Equipment-Ops)
 
 ## Resumen
 
@@ -17,14 +17,14 @@
 
 ## Herramientas relacionadas
 
-- [aifaceswap-io](https://www.aimyflow.com/es/ai/aifaceswap-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): AI Face Swap es una herramienta de intercambio de rostros en navegador que ayuda a creadores casuales a editar fotos al instante online sin registro. En la era de la IA, hace que la experimentación visual ligera sea más rápida y accesible para entretenimiento y contenido social.
-- [imyfone-com](https://www.aimyflow.com/es/ai/imyfone-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): iMyFone es una plataforma de software utilitario que ayuda a recuperar datos perdidos, desbloquear dispositivos, reparar sistemas y gestionar datos en iOS, Android, Windows y Mac.
+- [aifaceswap-io](https://www.aimyflow.com/es/ai/aifaceswap-io): AI Face Swap es una herramienta de intercambio de rostros en navegador que ayuda a creadores casuales a editar fotos al instante online sin registro. En la era de la IA, hace que la experimentación visual ligera sea más rápida y accesible para entretenimiento y contenido social.
+- [imyfone-com](https://www.aimyflow.com/es/ai/imyfone-com): iMyFone es una plataforma de software utilitario que ayuda a recuperar datos perdidos, desbloquear dispositivos, reparar sistemas y gestionar datos en iOS, Android, Windows y Mac.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Comm-Equipment-Ops?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Comm-Equipment-Ops)
 
 ## Notas
 

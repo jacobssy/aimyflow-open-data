@@ -1,6 +1,6 @@
 # Einzelhandelsverkauf
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Retail-Sales?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Retail-Sales)
 
 ## Überblick
 
@@ -17,9 +17,9 @@
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Retail-Sales?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Retail-Sales)
 
 ## Hinweise
 

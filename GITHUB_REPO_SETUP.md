@@ -63,9 +63,9 @@ AimyFlow Open Data is a public, multilingual dataset of AI tools mapped to caree
 
 Pin these in the README and repo About section:
 
-- `https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=about_home`
-- `https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=about_explore`
-- `https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=about_roles`
+- `https://www.aimyflow.com`
+- `https://www.aimyflow.com/en/explore`
+- `https://www.aimyflow.com/en/roles`
 
 ## Launch Text
 
@@ -77,7 +77,7 @@ Released a new open-data companion repo for AimyFlow.
 It publishes structured AI tool data by role, multilingual role docs, and lightweight GitHub-native pages that link back to the full experience on aimyflow.com.
 
 If you work on AI tooling, workflow automation, productivity research or job-role mapping, this repo should be useful:
-https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=launch_post
+https://www.aimyflow.com
 ```
 
 ### Chinese
@@ -88,7 +88,7 @@ https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_da
 这个仓库会公开按职业整理的 AI 工具数据、多语言职业文档，以及适合 GitHub 收录和传播的轻量页面。完整的工具详情、工作流和社区投票仍然在 aimyflow.com 上。
 
 如果你在关注 AI 工具、工作流自动化、效率工具或职业与 AI 的映射，这个仓库会比较有用：
-https://www.aimyflow.com/?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=launch_post_zh
+https://www.aimyflow.com
 ```
 
 ## Launch Checklist

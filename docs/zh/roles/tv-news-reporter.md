@@ -1,6 +1,6 @@
 # 电视新闻记者
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/tv-news-reporter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/tv-news-reporter)
 
 ## 概览
 
@@ -17,20 +17,20 @@
 
 ## 匹配工具
 
-- [d33ply-xyz](https://www.aimyflow.com/zh/ai/d33ply-xyz?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): d33ply 是一个由 AI 驱动的播客新闻平台，利用来自 50–200 个来源的分析，将复杂议题转化为 20–25 分钟的调查式音频节目，主要面向希望在地缘政治、气候、心理学和科技等主题上快速获得更深入理解的听众。对于研究人员、分析师、记者和知识工作者而言，它可通过将广泛的来源材料浓缩为结构化、多视角的摘要，加快主题简报准备过程，便于他们快速审阅。
-- [dailyscope-ai](https://www.aimyflow.com/zh/ai/dailyscope-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): DailyScope.ai 是一款由 AI 驱动的新闻分析工具，用于审查全球新闻报道，识别报道最多的国家、主导性主题和新兴话题，主要面向记者、研究人员和政策分析师。通过对文章进行聚类，并突出持续性议题与新近出现的问题，它可以帮助新闻和情报团队更高效地确定监测重点，并更快发现议程变化。
-- [faceseek-online](https://www.aimyflow.com/zh/ai/faceseek-online?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): FaceSeek 是一款由 AI 驱动的在线人脸搜索与面部识别工具，帮助用户上传照片以查找匹配的公开网络图片、验证照片，并检查是否存在冒充行为，主要面向进行身份验证、OSINT 或在线安全检查的人群。对于调查人员、信任与安全团队以及内容创作者，它可通过提供带有置信度评分的可能公开图片匹配结果，加快来源验证和归属认定流程。
-- [geofinderai-com](https://www.aimyflow.com/zh/ai/geofinderai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): GeoFinderAI 是一款 AI 图像分析工具，通过检查视觉线索并返回带有置信半径的坐标，帮助用户估计照片的拍摄地点，主要面向需要根据图像识别位置的人群。在 AI 辅助地理定位工作中，它可以帮助调查人员、研究人员和分析人员在进行更深入的人工审查之前，加快基于图像的位置核验。
-- [happysrt-com](https://www.aimyflow.com/zh/ai/happysrt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): HappySRT 是一款开源 Web 应用，可帮助用户转录音频和视频、将内容翻译成多种语言，并生成摘要，主要面向需要高效处理口语媒体的人群。对于研究人员、记者和内容团队而言，这类 AI 工具可以减少手动转录工作，加快多语言审阅和报道流程。
-- [hedy-bot](https://www.aimyflow.com/zh/ai/hedy-bot?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Hedy AI 是一款实时对话教练，可在会议、面试、课堂和提案过程中进行聆听，为商务人士、招聘人员、记者、学生和国际团队提供实时洞察、建议问题、摘要和笔记。对于依赖快速思考和准确沟通的岗位，它能够在对话过程中及结束后借助 AI 辅助提升参与表现、后续跟进质量以及会后文档整理效率。
-- [heyscottie-ai](https://www.aimyflow.com/zh/ai/heyscottie-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Scottie AI 是一款基于电子邮件的新闻简报工具，会在夜间阅读用户订阅的各类新闻通讯，并在早晨发送一封个性化摘要，其中包含 5–8 条相关报道及经过核实的来源链接，主要面向工作高度依赖及时掌握最新动态的专业人士。 对于创始人、产品负责人、分析师、记者，以及政策或金融团队而言，它可以减少浏览筛选信息的时间，让会议准备和基于来源的决策更加高效。
-- [isitfake-app](https://www.aimyflow.com/zh/ai/isitfake-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Is it Fake? 是一款由 AI 驱动的 URL 可信度检查工具，通过指示性评估和可视化反馈，帮助用户核验新闻文章和视频链接表面的可信程度，主要面向正在评估在线信息的人群。对于记者、研究人员和内容审核人员，它可以在更深入的事实核查或编辑审查之前，加快早期来源筛查。
+- [d33ply-xyz](https://www.aimyflow.com/zh/ai/d33ply-xyz): d33ply 是一个由 AI 驱动的播客新闻平台，利用来自 50–200 个来源的分析，将复杂议题转化为 20–25 分钟的调查式音频节目，主要面向希望在地缘政治、气候、心理学和科技等主题上快速获得更深入理解的听众。对于研究人员、分析师、记者和知识工作者而言，它可通过将广泛的来源材料浓缩为结构化、多视角的摘要，加快主题简报准备过程，便于他们快速审阅。
+- [dailyscope-ai](https://www.aimyflow.com/zh/ai/dailyscope-ai): DailyScope.ai 是一款由 AI 驱动的新闻分析工具，用于审查全球新闻报道，识别报道最多的国家、主导性主题和新兴话题，主要面向记者、研究人员和政策分析师。通过对文章进行聚类，并突出持续性议题与新近出现的问题，它可以帮助新闻和情报团队更高效地确定监测重点，并更快发现议程变化。
+- [faceseek-online](https://www.aimyflow.com/zh/ai/faceseek-online): FaceSeek 是一款由 AI 驱动的在线人脸搜索与面部识别工具，帮助用户上传照片以查找匹配的公开网络图片、验证照片，并检查是否存在冒充行为，主要面向进行身份验证、OSINT 或在线安全检查的人群。对于调查人员、信任与安全团队以及内容创作者，它可通过提供带有置信度评分的可能公开图片匹配结果，加快来源验证和归属认定流程。
+- [geofinderai-com](https://www.aimyflow.com/zh/ai/geofinderai-com): GeoFinderAI 是一款 AI 图像分析工具，通过检查视觉线索并返回带有置信半径的坐标，帮助用户估计照片的拍摄地点，主要面向需要根据图像识别位置的人群。在 AI 辅助地理定位工作中，它可以帮助调查人员、研究人员和分析人员在进行更深入的人工审查之前，加快基于图像的位置核验。
+- [happysrt-com](https://www.aimyflow.com/zh/ai/happysrt-com): HappySRT 是一款开源 Web 应用，可帮助用户转录音频和视频、将内容翻译成多种语言，并生成摘要，主要面向需要高效处理口语媒体的人群。对于研究人员、记者和内容团队而言，这类 AI 工具可以减少手动转录工作，加快多语言审阅和报道流程。
+- [hedy-bot](https://www.aimyflow.com/zh/ai/hedy-bot): Hedy AI 是一款实时对话教练，可在会议、面试、课堂和提案过程中进行聆听，为商务人士、招聘人员、记者、学生和国际团队提供实时洞察、建议问题、摘要和笔记。对于依赖快速思考和准确沟通的岗位，它能够在对话过程中及结束后借助 AI 辅助提升参与表现、后续跟进质量以及会后文档整理效率。
+- [heyscottie-ai](https://www.aimyflow.com/zh/ai/heyscottie-ai): Scottie AI 是一款基于电子邮件的新闻简报工具，会在夜间阅读用户订阅的各类新闻通讯，并在早晨发送一封个性化摘要，其中包含 5–8 条相关报道及经过核实的来源链接，主要面向工作高度依赖及时掌握最新动态的专业人士。 对于创始人、产品负责人、分析师、记者，以及政策或金融团队而言，它可以减少浏览筛选信息的时间，让会议准备和基于来源的决策更加高效。
+- [isitfake-app](https://www.aimyflow.com/zh/ai/isitfake-app): Is it Fake? 是一款由 AI 驱动的 URL 可信度检查工具，通过指示性评估和可视化反馈，帮助用户核验新闻文章和视频链接表面的可信程度，主要面向正在评估在线信息的人群。对于记者、研究人员和内容审核人员，它可以在更深入的事实核查或编辑审查之前，加快早期来源筛查。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/tv-news-reporter?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/tv-news-reporter)
 
 ## 说明
 

@@ -1,6 +1,6 @@
 # 職業訓練校講師
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/vocational-school-trainer)
 
 ## 概要
 
@@ -17,14 +17,14 @@
 
 ## 関連ツール
 
-- [graspeo-com](https://www.aimyflow.com/ja/ai/graspeo-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Graspeo は、ノート、PDF、画像、テキストを編集可能な練習用クイズやテストに変換する AI クイズ生成ツールで、主に教師、生徒、研修担当者、コース作成者向けです。AI を活用した学習および研修のワークフローにおいて、問題形式、難易度、参照元資料の整合性を保ちながら、教育者や L&D チームが目的に合った評価問題をより迅速に作成できるよう支援します。
-- [hisocra-com](https://www.aimyflow.com/ja/ai/hisocra-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Socraは、対話型学習、想起練習、再利用できる学習ノートで理解を深めるソクラテス式AI家庭教師プラットフォームです。学習過程を記録し、構造化された教材として活用できます。
+- [graspeo-com](https://www.aimyflow.com/ja/ai/graspeo-com): Graspeo は、ノート、PDF、画像、テキストを編集可能な練習用クイズやテストに変換する AI クイズ生成ツールで、主に教師、生徒、研修担当者、コース作成者向けです。AI を活用した学習および研修のワークフローにおいて、問題形式、難易度、参照元資料の整合性を保ちながら、教育者や L&D チームが目的に合った評価問題をより迅速に作成できるよう支援します。
+- [hisocra-com](https://www.aimyflow.com/ja/ai/hisocra-com): Socraは、対話型学習、想起練習、再利用できる学習ノートで理解を深めるソクラテス式AI家庭教師プラットフォームです。学習過程を記録し、構造化された教材として活用できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/vocational-school-trainer)
 
 ## 補足
 

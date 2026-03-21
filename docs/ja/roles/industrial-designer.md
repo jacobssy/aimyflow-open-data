@@ -1,6 +1,6 @@
 # 工業デザイナー
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/industrial-designer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/industrial-designer)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [ailineart-com](https://www.aimyflow.com/ja/ai/ailineart-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Line Art Generator は、テキストプロンプトやアップロードした写真を複数のスタイルのラインアートに変換するオンラインAIツールで、主にアーティスト、イラストレーター、デザイナー、その他のクリエイティブユーザー向けです。クリーンな輪郭線の作成を自動化し、手作業でのトレースやスケッチの清書を減らすことで、デザインやイラスト制作のプロフェッショナルにおける初期段階のビジュアル作業を効率化できます。
-- [archrender-ai](https://www.aimyflow.com/ja/ai/archrender-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ArchRender は、建築家やデザイナー向けの AI レンダリングツールで、インポートした 3D モデルを、スタイル、ライティング、環境、季節、プロンプトベースの編集をコントロールしながら、すばやくフォトリアルなビジュアルに変換します。建築・インテリアデザインのチームにとって、複雑なレンダリング設定を行うことなく、複数のビジュアル案を生成・ブラッシュアップできるため、反復作業を高速化し、クライアント向けプレゼンテーションをより明確にできます。
-- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
-- [contra-com-creative-arena](https://www.aimyflow.com/ja/ai/contra-com-creative-arena?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Arenaは、Contra Labsによる人間の創造性ベンチマークおよび比較プラットフォームであり、主にデザイナーやその他のクリエイティブ専門職向けに、実際の市場のプロンプトに対してAI生成の画像、動画、コード、デザイン出力を評価できるよう支援します。AI支援によるクリエイティブ業務では、デザイン、マーケティング、プロダクトの各チームが、本番導入前に、どのモデルが実際のクライアントの要件により適合するかを判断するのに役立ちます。
-- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
-- [genanime-art-en](https://www.aimyflow.com/ja/ai/genanime-art-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AnimeAI は、プロンプトや参照画像からアニメイラスト、キャラクターデザイン、壁紙、写真からアニメ風画像を生成できる Web ベースの AI アニメアート生成ツールで、主にクリエイター、イラストレーター、アニメアート愛好家を支援します。デザイナーやコンテンツ制作者にとっては、一貫したアニメ調のビジュアルスタイルを保ちながら、キャラクター、シーン、スプライト風アセットのコンセプト制作と反復作業を高速化できます。
-- [generated-photos-human-generator](https://www.aimyflow.com/ja/ai/generated-photos-human-generator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Human Generator は、実在しない人物の超写実的な全身写真を作成・編集するための AI ツールで、衣服、顔や体の特徴、ポーズの変更に対応しており、主にデザイナー、マーケター、研究者、その他のビジュアルコンテンツ制作チーム向けに設計されています。AI 主導のコンテンツ制作ワークフローにおいては、従来の写真撮影を手配することなく、モックアップ、キャンペーン、テスト、コンセプト開発向けの多様なキャラクタービジュアルを、こうした専門職がより迅速に制作するのに役立ちます。
-- [hitem3d-ai](https://www.aimyflow.com/ja/ai/hitem3d-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Hitem3d: 制御性に優れたAI 3Dモデルジェネレーター。私たちのオールインワン・プラットフォームで、強力な3D生成と編集を楽しんでください。
+- [ailineart-com](https://www.aimyflow.com/ja/ai/ailineart-com): AI Line Art Generator は、テキストプロンプトやアップロードした写真を複数のスタイルのラインアートに変換するオンラインAIツールで、主にアーティスト、イラストレーター、デザイナー、その他のクリエイティブユーザー向けです。クリーンな輪郭線の作成を自動化し、手作業でのトレースやスケッチの清書を減らすことで、デザインやイラスト制作のプロフェッショナルにおける初期段階のビジュアル作業を効率化できます。
+- [archrender-ai](https://www.aimyflow.com/ja/ai/archrender-ai): ArchRender は、建築家やデザイナー向けの AI レンダリングツールで、インポートした 3D モデルを、スタイル、ライティング、環境、季節、プロンプトベースの編集をコントロールしながら、すばやくフォトリアルなビジュアルに変換します。建築・インテリアデザインのチームにとって、複雑なレンダリング設定を行うことなく、複数のビジュアル案を生成・ブラッシュアップできるため、反復作業を高速化し、クライアント向けプレゼンテーションをより明確にできます。
+- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
+- [contra-com-creative-arena](https://www.aimyflow.com/ja/ai/contra-com-creative-arena): Creative Arenaは、Contra Labsによる人間の創造性ベンチマークおよび比較プラットフォームであり、主にデザイナーやその他のクリエイティブ専門職向けに、実際の市場のプロンプトに対してAI生成の画像、動画、コード、デザイン出力を評価できるよう支援します。AI支援によるクリエイティブ業務では、デザイン、マーケティング、プロダクトの各チームが、本番導入前に、どのモデルが実際のクライアントの要件により適合するかを判断するのに役立ちます。
+- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
+- [genanime-art-en](https://www.aimyflow.com/ja/ai/genanime-art-en): AnimeAI は、プロンプトや参照画像からアニメイラスト、キャラクターデザイン、壁紙、写真からアニメ風画像を生成できる Web ベースの AI アニメアート生成ツールで、主にクリエイター、イラストレーター、アニメアート愛好家を支援します。デザイナーやコンテンツ制作者にとっては、一貫したアニメ調のビジュアルスタイルを保ちながら、キャラクター、シーン、スプライト風アセットのコンセプト制作と反復作業を高速化できます。
+- [generated-photos-human-generator](https://www.aimyflow.com/ja/ai/generated-photos-human-generator): AI Human Generator は、実在しない人物の超写実的な全身写真を作成・編集するための AI ツールで、衣服、顔や体の特徴、ポーズの変更に対応しており、主にデザイナー、マーケター、研究者、その他のビジュアルコンテンツ制作チーム向けに設計されています。AI 主導のコンテンツ制作ワークフローにおいては、従来の写真撮影を手配することなく、モックアップ、キャンペーン、テスト、コンセプト開発向けの多様なキャラクタービジュアルを、こうした専門職がより迅速に制作するのに役立ちます。
+- [hitem3d-ai](https://www.aimyflow.com/ja/ai/hitem3d-ai): Hitem3d: 制御性に優れたAI 3Dモデルジェネレーター。私たちのオールインワン・プラットフォームで、強力な3D生成と編集を楽しんでください。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/industrial-designer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/industrial-designer)
 
 ## 補足
 

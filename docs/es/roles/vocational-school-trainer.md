@@ -1,6 +1,6 @@
 # Instructor de escuela vocacional
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/vocational-school-trainer)
 
 ## Resumen
 
@@ -17,14 +17,14 @@
 
 ## Herramientas relacionadas
 
-- [graspeo-com](https://www.aimyflow.com/es/ai/graspeo-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Graspeo es un generador de cuestionarios con IA que convierte apuntes, PDF, imágenes y texto en cuestionarios y pruebas prácticas editables, principalmente para docentes, estudiantes, formadores y creadores de cursos. En los flujos de aprendizaje y formación asistidos por IA, puede ayudar a los educadores y a los equipos de L&D a crear evaluaciones personalizadas con mayor rapidez, manteniendo alineados los tipos de preguntas, la dificultad y los materiales de origen.
-- [hisocra-com](https://www.aimyflow.com/es/ai/hisocra-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Socra es un tutor socrático y plataforma de aprendizaje con IA que ayuda a estudiantes y profesionales a comprender mejor mediante diálogo guiado, práctica de recuerdo y notas reutilizables.
+- [graspeo-com](https://www.aimyflow.com/es/ai/graspeo-com): Graspeo es un generador de cuestionarios con IA que convierte apuntes, PDF, imágenes y texto en cuestionarios y pruebas prácticas editables, principalmente para docentes, estudiantes, formadores y creadores de cursos. En los flujos de aprendizaje y formación asistidos por IA, puede ayudar a los educadores y a los equipos de L&D a crear evaluaciones personalizadas con mayor rapidez, manteniendo alineados los tipos de preguntas, la dificultad y los materiales de origen.
+- [hisocra-com](https://www.aimyflow.com/es/ai/hisocra-com): Socra es un tutor socrático y plataforma de aprendizaje con IA que ayuda a estudiantes y profesionales a comprender mejor mediante diálogo guiado, práctica de recuerdo y notas reutilizables.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/vocational-school-trainer)
 
 ## Notas
 

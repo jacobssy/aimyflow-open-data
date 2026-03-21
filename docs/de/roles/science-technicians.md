@@ -1,6 +1,6 @@
 # Wissenschaftlich-technische Fachkräfte
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Science-Technicians?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/Science-Technicians)
 
 ## Überblick
 
@@ -17,20 +17,20 @@
 
 ## Passende Tools
 
-- [bitbucket-org](https://www.aimyflow.com/de/ai/bitbucket-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Bitbucket ist eine Git-basierte Plattform für Quellcodeverwaltung und CI/CD, die Softwareteams bei Repositories, Pipelines und Code-Reviews unterstützt, besonders in Organisationen mit Jira.
-- [bolt-new](https://www.aimyflow.com/de/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
-- [co-dev](https://www.aimyflow.com/de/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
-- [createanything-com](https://www.aimyflow.com/de/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
-- [cursor-com](https://www.aimyflow.com/de/ai/cursor-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Cursor ist ein KI-Code-Editor, der Entwicklern hilft, Code in ihrer Entwicklungsumgebung effizienter zu schreiben, zu bearbeiten, zu verstehen und zu refaktorieren.
-- [fotor-com](https://www.aimyflow.com/de/ai/fotor-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Fotor ist eine Online-Fotobearbeitungsplattform, mit der Nutzer Bilder mit leicht zugänglichen Tools, Vorlagen und Effekten verbessern, retuschieren und anpassen können. Sie hilft Marketern, Creatorn und kleinen Teams, professionelle Visuals ohne komplexe Designsoftware zu erstellen.
-- [gauthmath-com](https://www.aimyflow.com/de/ai/gauthmath-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Gauth ist ein KI-Hausaufgabenhelfer, der Schüler in verschiedenen Schulfächern mit Problemlösungen, Erklärungen, Rechner-Tools und tutorengestützter Hilfe unterstützt. Er liefert schnelleres Feedback und entlastet Tutoren für anspruchsvollere Lernunterstützung.
-- [imyfone-com](https://www.aimyflow.com/de/ai/imyfone-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): iMyFone ist eine Utility-Software-Plattform für Datenrettung, Geräteentsperrung, Systemreparatur und Datenverwaltung auf iOS, Android, Windows und Mac. Sie vereinfacht typische Wartungsaufgaben für Nutzer und Support-Techniker.
+- [bitbucket-org](https://www.aimyflow.com/de/ai/bitbucket-org): Bitbucket ist eine Git-basierte Plattform für Quellcodeverwaltung und CI/CD, die Softwareteams bei Repositories, Pipelines und Code-Reviews unterstützt, besonders in Organisationen mit Jira.
+- [bolt-new](https://www.aimyflow.com/de/ai/bolt-new): Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
+- [co-dev](https://www.aimyflow.com/de/ai/co-dev): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
+- [createanything-com](https://www.aimyflow.com/de/ai/createanything-com): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
+- [cursor-com](https://www.aimyflow.com/de/ai/cursor-com): Cursor ist ein KI-Code-Editor, der Entwicklern hilft, Code in ihrer Entwicklungsumgebung effizienter zu schreiben, zu bearbeiten, zu verstehen und zu refaktorieren.
+- [fotor-com](https://www.aimyflow.com/de/ai/fotor-com): Fotor ist eine Online-Fotobearbeitungsplattform, mit der Nutzer Bilder mit leicht zugänglichen Tools, Vorlagen und Effekten verbessern, retuschieren und anpassen können. Sie hilft Marketern, Creatorn und kleinen Teams, professionelle Visuals ohne komplexe Designsoftware zu erstellen.
+- [gauthmath-com](https://www.aimyflow.com/de/ai/gauthmath-com): Gauth ist ein KI-Hausaufgabenhelfer, der Schüler in verschiedenen Schulfächern mit Problemlösungen, Erklärungen, Rechner-Tools und tutorengestützter Hilfe unterstützt. Er liefert schnelleres Feedback und entlastet Tutoren für anspruchsvollere Lernunterstützung.
+- [imyfone-com](https://www.aimyflow.com/de/ai/imyfone-com): iMyFone ist eine Utility-Software-Plattform für Datenrettung, Geräteentsperrung, Systemreparatur und Datenverwaltung auf iOS, Android, Windows und Mac. Sie vereinfacht typische Wartungsaufgaben für Nutzer und Support-Techniker.
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Science-Technicians?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/Science-Technicians)
 
 ## Hinweise
 

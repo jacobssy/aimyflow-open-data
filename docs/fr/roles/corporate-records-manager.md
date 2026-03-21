@@ -1,6 +1,6 @@
 # Responsable des archives d’entreprise
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/corporate-records-manager)
 
 ## Vue d’ensemble
 
@@ -17,13 +17,13 @@
 
 ## Outils associés
 
-- [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
+- [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/corporate-records-manager)
 
 ## Notes
 

@@ -1,10 +1,10 @@
 # 不動産エージェント
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Real%20Estate%20Agent?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Real%20Estate%20Agent)
 
 ## 概要
 
-- 一致ツール数: 32
+- 一致ツール数: 33
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [aiheadshotgenerator-media](https://www.aimyflow.com/ja/ai/aiheadshotgenerator-media?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Headshot Generator は、4枚以上の自撮り写真を、LinkedIn、履歴書、Webサイト、チームプロフィール向けのプロフェッショナルなヘッドショットに変換するAI写真ツールで、主に求職者、ビジネスパーソン、一貫性のあるポートレートを必要とする企業向けに設計されています。採用担当者、マーケター、対人業務のチームにとっては、従来の写真撮影を手配することなく、プロフィール更新を迅速化し、デジタルファースト時代における信頼性の強化に役立ちます。
-- [aihomedesign-io](https://www.aimyflow.com/ja/ai/aihomedesign-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Home Design は、ユーザーが部屋の写真をアップロードし、スタイルを適用して、再デザイン案、パノラマツアー、動画ウォークスルー、家具のマッチ提案を生成できる、AI を活用したインテリアデザインおよび部屋の再設計ツールで、主に住宅所有者、インテリアデザイナー、不動産の専門家向けです。AI を活用したデザインワークフローでは、1 枚の部屋画像から、デザイナー、エージェント、家主が改修オプションをより迅速に視覚化し、家具配置のアイデアをより明確に伝えるのに役立ちます。
-- [aivirtualstaging-net](https://www.aimyflow.com/ja/ai/aivirtualstaging-net?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIバーチャルステージングは、不動産のプロフェッショナルが、空室または家具付きの物件写真を、家具の追加または削除によって、数秒でフォトリアルかつMLS掲載可能なステージング画像に変換できるAIツールです。エージェント、ブローカー、物件管理者、建築業者、投資家にとって、従来のホームステージングにかかる時間とコストを削減しながら、物件掲載の準備を迅速化し、購入希望者のイメージ形成を向上させることができます。
-- [archivinci-com](https://www.aimyflow.com/ja/ai/archivinci-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ArchiVinciは、スケッチ、写真、平面図、コンセプトを、インテリア、外観、ランドスケープ、マスタープランのビジュアルへと変換するAI建築レンダリングツールで、主に建築家、インテリアデザイナー、都市計画担当者、不動産の専門家向けに設計されています。AI支援型の設計ワークフローにおいて、これらのチームがクライアントに提示可能な案をより迅速に反復検討し、設計プロセス初期における手作業のレンダリング業務を削減するのに役立ちます。
-- [archybase-com](https://www.aimyflow.com/ja/ai/archybase-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ArchyBase は、建築家や住宅所有者向けの AI デザインプラットフォームで、写真、スケッチ、CAD 図面を、リノベーション、ビジュアライゼーション、デザイン検討のための内装、外装、ランドスケープのレンダリングに変換します。建築家、インテリアデザイナー、および関連する不動産の専門家にとって、同じ元画像やスケッチから複数のリアルなビジュアル案を生成することで、コンセプトの反復や顧客とのコミュニケーションを迅速化できます。
-- [artedge-ai](https://www.aimyflow.com/ja/ai/artedge-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Artedge AIは、画像を4Kにアップスケールし、ぼやけやノイズを低減し、オンラインで画質を向上できる無料のAI写真高画質化ツールです。主に、写真家、マーケター、ECチーム、不動産業界の専門家など、写真を扱う人々向けに設計されています。AI支援によるビジュアルワークフローにおいて、これらの職種が掲載用画像、キャンペーン素材、SNS投稿、印刷向けアセット向けに、より鮮明で高解像度の画像をより迅速に作成するのに役立ちます。
-- [collov-ai-ai-video-generator](https://www.aimyflow.com/ja/ai/collov-ai-ai-video-generator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Collov.ai は、不動産マーケティングや物件掲載プレゼンテーション向けに、ステージング済みの物件ビジュアルを作成できるバーチャルステージングAIを提供しています。不動産のプロフェッショナルにとって、AIベースのステージングは物件準備のワークフローを迅速化し、空室スペースを掲載物件全体でより一貫性を持って提示するのに役立ちます。
-- [couple-ai-com](https://www.aimyflow.com/ja/ai/couple-ai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Couple AI は、別々に撮影した自撮り写真をアップロードして、さまざまなスタイルのリアルなカップルポートレートや短い写真ベースの動画を作成できる AI カップル写真ジェネレーターです。主に、記念日、婚約、結婚式、ホリデー、日常の写真を作りたいカップル向けに設計されています。クリエイターや写真家にとっては、本格的な撮影を手配する代わりに、数分でテーマ別のポートレートバリエーションを生成できるため、コンセプト検証や低コストのビジュアル制作を効率化できます。
+- [aiheadshotgenerator-media](https://www.aimyflow.com/ja/ai/aiheadshotgenerator-media): AI Headshot Generator は、4枚以上の自撮り写真を、LinkedIn、履歴書、Webサイト、チームプロフィール向けのプロフェッショナルなヘッドショットに変換するAI写真ツールで、主に求職者、ビジネスパーソン、一貫性のあるポートレートを必要とする企業向けに設計されています。採用担当者、マーケター、対人業務のチームにとっては、従来の写真撮影を手配することなく、プロフィール更新を迅速化し、デジタルファースト時代における信頼性の強化に役立ちます。
+- [aihomedesign-io](https://www.aimyflow.com/ja/ai/aihomedesign-io): AI Home Design は、ユーザーが部屋の写真をアップロードし、スタイルを適用して、再デザイン案、パノラマツアー、動画ウォークスルー、家具のマッチ提案を生成できる、AI を活用したインテリアデザインおよび部屋の再設計ツールで、主に住宅所有者、インテリアデザイナー、不動産の専門家向けです。AI を活用したデザインワークフローでは、1 枚の部屋画像から、デザイナー、エージェント、家主が改修オプションをより迅速に視覚化し、家具配置のアイデアをより明確に伝えるのに役立ちます。
+- [aivirtualstaging-net](https://www.aimyflow.com/ja/ai/aivirtualstaging-net): AIバーチャルステージングは、不動産のプロフェッショナルが、空室または家具付きの物件写真を、家具の追加または削除によって、数秒でフォトリアルかつMLS掲載可能なステージング画像に変換できるAIツールです。エージェント、ブローカー、物件管理者、建築業者、投資家にとって、従来のホームステージングにかかる時間とコストを削減しながら、物件掲載の準備を迅速化し、購入希望者のイメージ形成を向上させることができます。
+- [archivinci-com](https://www.aimyflow.com/ja/ai/archivinci-com): ArchiVinciは、スケッチ、写真、平面図、コンセプトを、インテリア、外観、ランドスケープ、マスタープランのビジュアルへと変換するAI建築レンダリングツールで、主に建築家、インテリアデザイナー、都市計画担当者、不動産の専門家向けに設計されています。AI支援型の設計ワークフローにおいて、これらのチームがクライアントに提示可能な案をより迅速に反復検討し、設計プロセス初期における手作業のレンダリング業務を削減するのに役立ちます。
+- [archybase-com](https://www.aimyflow.com/ja/ai/archybase-com): ArchyBase は、建築家や住宅所有者向けの AI デザインプラットフォームで、写真、スケッチ、CAD 図面を、リノベーション、ビジュアライゼーション、デザイン検討のための内装、外装、ランドスケープのレンダリングに変換します。建築家、インテリアデザイナー、および関連する不動産の専門家にとって、同じ元画像やスケッチから複数のリアルなビジュアル案を生成することで、コンセプトの反復や顧客とのコミュニケーションを迅速化できます。
+- [artedge-ai](https://www.aimyflow.com/ja/ai/artedge-ai): Artedge AIは、画像を4Kにアップスケールし、ぼやけやノイズを低減し、オンラインで画質を向上できる無料のAI写真高画質化ツールです。主に、写真家、マーケター、ECチーム、不動産業界の専門家など、写真を扱う人々向けに設計されています。AI支援によるビジュアルワークフローにおいて、これらの職種が掲載用画像、キャンペーン素材、SNS投稿、印刷向けアセット向けに、より鮮明で高解像度の画像をより迅速に作成するのに役立ちます。
+- [collov-ai-ai-video-generator](https://www.aimyflow.com/ja/ai/collov-ai-ai-video-generator): Collov.ai は、不動産マーケティングや物件掲載プレゼンテーション向けに、ステージング済みの物件ビジュアルを作成できるバーチャルステージングAIを提供しています。不動産のプロフェッショナルにとって、AIベースのステージングは物件準備のワークフローを迅速化し、空室スペースを掲載物件全体でより一貫性を持って提示するのに役立ちます。
+- [couple-ai-com](https://www.aimyflow.com/ja/ai/couple-ai-com): Couple AI は、別々に撮影した自撮り写真をアップロードして、さまざまなスタイルのリアルなカップルポートレートや短い写真ベースの動画を作成できる AI カップル写真ジェネレーターです。主に、記念日、婚約、結婚式、ホリデー、日常の写真を作りたいカップル向けに設計されています。クリエイターや写真家にとっては、本格的な撮影を手配する代わりに、数分でテーマ別のポートレートバリエーションを生成できるため、コンセプト検証や低コストのビジュアル制作を効率化できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Real%20Estate%20Agent?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Real%20Estate%20Agent)
 
 ## 補足
 

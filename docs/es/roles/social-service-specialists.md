@@ -1,6 +1,6 @@
 # Especialistas en servicios sociales
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Social-Service-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Social-Service-Specialists)
 
 ## Resumen
 
@@ -17,13 +17,13 @@
 
 ## Herramientas relacionadas
 
-- [podcast-adobe-com](https://www.aimyflow.com/es/ai/podcast-adobe-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Adobe Podcast es una herramienta web de grabación y edición de audio con IA para grabar, transcribir, mejorar y compartir contenido hablado, ideal para podcasters, creadores y equipos de voz. Reduce el tiempo de limpieza y edición para publicar audio más claro más rápido.
+- [podcast-adobe-com](https://www.aimyflow.com/es/ai/podcast-adobe-com): Adobe Podcast es una herramienta web de grabación y edición de audio con IA para grabar, transcribir, mejorar y compartir contenido hablado, ideal para podcasters, creadores y equipos de voz. Reduce el tiempo de limpieza y edición para publicar audio más claro más rápido.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Social-Service-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Social-Service-Specialists)
 
 ## Notas
 

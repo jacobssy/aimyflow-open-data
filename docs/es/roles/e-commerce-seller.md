@@ -1,6 +1,6 @@
 # Vendedor de comercio electrónico
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/E-commerce-Seller?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/E-commerce-Seller)
 
 ## Resumen
 
@@ -17,20 +17,20 @@
 
 ## Herramientas relacionadas
 
-- [agentz-ai](https://www.aimyflow.com/es/ai/agentz-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Agentz es una recepcionista digital con IA que ayuda a empresas a gestionar llamadas, mensajes y consultas web las 24 horas sin perder clientes potenciales. En la era de la IA, mejora la respuesta comercial y de soporte al automatizar el primer contacto y captar leads de forma continua.
-- [bolt-new](https://www.aimyflow.com/es/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
-- [cheerlink-app](https://www.aimyflow.com/es/ai/cheerlink-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Cheerlink es un inbox y widget de ventas con IA que ayuda a los sitios web a interactuar con visitantes, responder preguntas al instante y mejorar la conversión, pensado para ecommerce y equipos orientados a ventas. En recorridos de cliente con IA, ayuda a captar intención justo cuando el visitante está listo para actuar.
-- [clamor-social](https://www.aimyflow.com/es/ai/clamor-social?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Clamor es una plataforma social diseñada para ayudar a crear, compartir e impulsar la interacción en torno a contenido y comunidades, orientada a creadores, marcas y audiencias online. En la era de la IA, las herramientas sociales que agilizan flujos de contenido ayudan a mantener una interacción más constante.
-- [crisp-chat-en](https://www.aimyflow.com/es/ai/crisp-chat-en?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Crisp es una plataforma de mensajería empresarial que combina chat en vivo, bandeja de entrada compartida, chatbot, CRM y base de conocimientos para ayudar a startups y pymes a gestionar conversaciones de ventas, marketing y soporte. En la era de la IA, ayuda a automatizar interacciones rutinarias manteniendo respuestas organizadas y contextualizadas.
-- [dynamicmockups-com](https://www.aimyflow.com/es/ai/dynamicmockups-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Dynamic Mockups es una plataforma de automatización de mockups que ayuda a marcas e-commerce a generar mockups realistas a escala mediante APIs, integraciones y plantillas personalizadas de Photoshop. En la era de la IA, acelera la producción de recursos visuales consistentes para catálogos grandes.
-- [entireweb-com](https://www.aimyflow.com/es/ai/entireweb-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Entireweb es un motor de búsqueda privado que ayuda a descubrir resultados web sin rastreo ni filtrado personalizado. En la era de la IA, la búsqueda centrada en la privacidad ofrece acceso más amplio a la información con menos perfilado algorítmico.
-- [getmanifest-ai](https://www.aimyflow.com/es/ai/getmanifest-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Manifest AI es un asistente de compras para Shopify que ayuda a tiendas ecommerce a responder preguntas sobre productos en varios idiomas y automatizar interacciones de soporte. Mejora la eficiencia del soporte y favorece la conversión de compradores.
+- [agentz-ai](https://www.aimyflow.com/es/ai/agentz-ai): Agentz es una recepcionista digital con IA que ayuda a empresas a gestionar llamadas, mensajes y consultas web las 24 horas sin perder clientes potenciales. En la era de la IA, mejora la respuesta comercial y de soporte al automatizar el primer contacto y captar leads de forma continua.
+- [bolt-new](https://www.aimyflow.com/es/ai/bolt-new): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
+- [cheerlink-app](https://www.aimyflow.com/es/ai/cheerlink-app): Cheerlink es un inbox y widget de ventas con IA que ayuda a los sitios web a interactuar con visitantes, responder preguntas al instante y mejorar la conversión, pensado para ecommerce y equipos orientados a ventas. En recorridos de cliente con IA, ayuda a captar intención justo cuando el visitante está listo para actuar.
+- [clamor-social](https://www.aimyflow.com/es/ai/clamor-social): Clamor es una plataforma social diseñada para ayudar a crear, compartir e impulsar la interacción en torno a contenido y comunidades, orientada a creadores, marcas y audiencias online. En la era de la IA, las herramientas sociales que agilizan flujos de contenido ayudan a mantener una interacción más constante.
+- [crisp-chat-en](https://www.aimyflow.com/es/ai/crisp-chat-en): Crisp es una plataforma de mensajería empresarial que combina chat en vivo, bandeja de entrada compartida, chatbot, CRM y base de conocimientos para ayudar a startups y pymes a gestionar conversaciones de ventas, marketing y soporte. En la era de la IA, ayuda a automatizar interacciones rutinarias manteniendo respuestas organizadas y contextualizadas.
+- [dynamicmockups-com](https://www.aimyflow.com/es/ai/dynamicmockups-com): Dynamic Mockups es una plataforma de automatización de mockups que ayuda a marcas e-commerce a generar mockups realistas a escala mediante APIs, integraciones y plantillas personalizadas de Photoshop. En la era de la IA, acelera la producción de recursos visuales consistentes para catálogos grandes.
+- [entireweb-com](https://www.aimyflow.com/es/ai/entireweb-com): Entireweb es un motor de búsqueda privado que ayuda a descubrir resultados web sin rastreo ni filtrado personalizado. En la era de la IA, la búsqueda centrada en la privacidad ofrece acceso más amplio a la información con menos perfilado algorítmico.
+- [getmanifest-ai](https://www.aimyflow.com/es/ai/getmanifest-ai): Manifest AI es un asistente de compras para Shopify que ayuda a tiendas ecommerce a responder preguntas sobre productos en varios idiomas y automatizar interacciones de soporte. Mejora la eficiencia del soporte y favorece la conversión de compradores.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/E-commerce-Seller?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/E-commerce-Seller)
 
 ## Notas
 

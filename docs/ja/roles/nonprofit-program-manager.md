@@ -1,6 +1,6 @@
 # NPOプログラムマネージャー
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/nonprofit-program-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/nonprofit-program-manager)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
-- [askweather-ai](https://www.aimyflow.com/ja/ai/askweather-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AskWeather.ai は、AI チャットを備えた広告なしの天気ウェブサイトで、現在の気象状況、15日間予報、ライブレーダー、ルート沿いの天気、過去の天気、位置情報に基づくアラートの確認を支援し、主に日常利用者やドライバーを対象としています。自然言語による天気検索により、旅行者、ドライバー、イベントプランナーは、場所や時間に関する詳細な質問を直接的な予報回答に変換することで、より迅速に判断を下せます。
-- [craftedcourses-io](https://www.aimyflow.com/ja/ai/craftedcourses-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Crafted Courses の SparklingPeach は、教育者、研修担当者、学術コース作成者が、スライドや評価を含む専門的な学習コンテンツを生成、カスタマイズ、公開、管理できるよう支援する、AI 搭載のコース作成プラットフォームです。教育・研修チームにとっては、より一貫性のあるインストラクショナルデザイン、学習者の進捗追跡、従業員研修管理を支援しながら、コース制作を迅速化できます。
-- [dailyscope-ai](https://www.aimyflow.com/ja/ai/dailyscope-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DailyScope.ai は、世界のニュース報道を分析し、最も多く取り上げられている国、主要なテーマ、新たに浮上している話題を可視化する AI 搭載のニュース分析ツールで、主にジャーナリスト、研究者、政策アナリスト向けに設計されています。記事をクラスタリングし、継続的に注目されている課題と新たに浮上している課題を強調することで、ニュースおよびインテリジェンスのチームが監視の優先順位を付け、アジェンダの変化をより迅速に捉えるのに役立ちます。
-- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
-- [formhug-ai](https://www.aimyflow.com/ja/ai/formhug-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): FormHug は、主に顧客対応、イベント、調査、または申請プロセスを担当するチームやプロフェッショナル向けに、セルフサービスのデータ検索機能を備え、登録フォーム、アンケート、クイズ、評価、予約ワークフローをすばやく作成できる AI フォームビルダーです。マーケター、オペレーションチーム、教育関係者、人事担当者にとって、AI が生成するフォームや回答者向け検索ページにより、手動での設定、共有、フォローアップ作業を削減できます。
-- [patchley-com](https://www.aimyflow.com/ja/ai/patchley-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Patchley は、音声または文章によるプロセス記述、ワークショップのメモ、録音、スケッチを、BPMN 2.0 準拠のプロセスマップと関連ドキュメントに変換する AI BPMN ジェネレーター兼エディターであり、主にプロセスマネージャー、コンサルタント、変革推進リーダー、ビジネスアナリスト向けに設計されています。会議後ではなく会議中に、構造化され追跡可能なプロセス成果物を生成することで、BPM および変革チームがドキュメント作成サイクルを短縮し、自動化、ガバナンス、ステークホルダー間の認識合わせにおける一貫性を向上させるのに役立ちます。
-- [pdftovideo-ai](https://www.aimyflow.com/ja/ai/pdftovideo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): PDF to Video AI は、PDF、記事リンク、テキスト、プロンプトを、アニメーションとナレーション付きの解説動画に変換するオンラインの AI 動画作成ツールで、主に教育関係者、ビジネスプロフェッショナル、マーケター、学生、コンテンツクリエイター向けです。AI 主導のコンテンツ制作ワークフローにおいては、動画編集スキルがなくても、研修担当者、教師、マーケティングチームが静的な資料を、より素早く共有できる動画形式へ変換するのに役立ちます。
+- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
+- [askweather-ai](https://www.aimyflow.com/ja/ai/askweather-ai): AskWeather.ai は、AI チャットを備えた広告なしの天気ウェブサイトで、現在の気象状況、15日間予報、ライブレーダー、ルート沿いの天気、過去の天気、位置情報に基づくアラートの確認を支援し、主に日常利用者やドライバーを対象としています。自然言語による天気検索により、旅行者、ドライバー、イベントプランナーは、場所や時間に関する詳細な質問を直接的な予報回答に変換することで、より迅速に判断を下せます。
+- [craftedcourses-io](https://www.aimyflow.com/ja/ai/craftedcourses-io): Crafted Courses の SparklingPeach は、教育者、研修担当者、学術コース作成者が、スライドや評価を含む専門的な学習コンテンツを生成、カスタマイズ、公開、管理できるよう支援する、AI 搭載のコース作成プラットフォームです。教育・研修チームにとっては、より一貫性のあるインストラクショナルデザイン、学習者の進捗追跡、従業員研修管理を支援しながら、コース制作を迅速化できます。
+- [dailyscope-ai](https://www.aimyflow.com/ja/ai/dailyscope-ai): DailyScope.ai は、世界のニュース報道を分析し、最も多く取り上げられている国、主要なテーマ、新たに浮上している話題を可視化する AI 搭載のニュース分析ツールで、主にジャーナリスト、研究者、政策アナリスト向けに設計されています。記事をクラスタリングし、継続的に注目されている課題と新たに浮上している課題を強調することで、ニュースおよびインテリジェンスのチームが監視の優先順位を付け、アジェンダの変化をより迅速に捉えるのに役立ちます。
+- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
+- [formhug-ai](https://www.aimyflow.com/ja/ai/formhug-ai): FormHug は、主に顧客対応、イベント、調査、または申請プロセスを担当するチームやプロフェッショナル向けに、セルフサービスのデータ検索機能を備え、登録フォーム、アンケート、クイズ、評価、予約ワークフローをすばやく作成できる AI フォームビルダーです。マーケター、オペレーションチーム、教育関係者、人事担当者にとって、AI が生成するフォームや回答者向け検索ページにより、手動での設定、共有、フォローアップ作業を削減できます。
+- [patchley-com](https://www.aimyflow.com/ja/ai/patchley-com): Patchley は、音声または文章によるプロセス記述、ワークショップのメモ、録音、スケッチを、BPMN 2.0 準拠のプロセスマップと関連ドキュメントに変換する AI BPMN ジェネレーター兼エディターであり、主にプロセスマネージャー、コンサルタント、変革推進リーダー、ビジネスアナリスト向けに設計されています。会議後ではなく会議中に、構造化され追跡可能なプロセス成果物を生成することで、BPM および変革チームがドキュメント作成サイクルを短縮し、自動化、ガバナンス、ステークホルダー間の認識合わせにおける一貫性を向上させるのに役立ちます。
+- [pdftovideo-ai](https://www.aimyflow.com/ja/ai/pdftovideo-ai): PDF to Video AI は、PDF、記事リンク、テキスト、プロンプトを、アニメーションとナレーション付きの解説動画に変換するオンラインの AI 動画作成ツールで、主に教育関係者、ビジネスプロフェッショナル、マーケター、学生、コンテンツクリエイター向けです。AI 主導のコンテンツ制作ワークフローにおいては、動画編集スキルがなくても、研修担当者、教師、マーケティングチームが静的な資料を、より素早く共有できる動画形式へ変換するのに役立ちます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/nonprofit-program-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/nonprofit-program-manager)
 
 ## 補足
 

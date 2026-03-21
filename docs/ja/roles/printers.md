@@ -1,6 +1,6 @@
 # 印刷作業員
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Printers?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Printers)
 
 ## 概要
 
@@ -17,13 +17,13 @@
 
 ## 関連ツール
 
-- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
+- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Printers?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Printers)
 
 ## 補足
 

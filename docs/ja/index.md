@@ -2,50 +2,50 @@
 
 職種別 AI ツールをまとめた AimyFlow のオープンデータ。GitHub 向けの要約ページと構造化データを含みます。
 
-生成日時: 2026-03-21T13:08:12.006Z
+生成日時: 2026-03-21T13:30:11.462Z
 
-- ツール数: 1497
+- ツール数: 1507
 - 役割数: 221
 - スキル数: 1105
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/roles)
 
 ## 役割一覧
 
-- [コンテンツクリエイター](./roles/content-creator.md): 677 tools, 5 skills
-- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 617 tools, 5 skills
-- [コピーライター](./roles/copywriter.md): 440 tools, 5 skills
-- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 409 tools, 5 skills
-- [CEO](./roles/ceo.md): 326 tools, 5 skills
-- [PMO担当](./roles/project-management-officer.md): 315 tools, 5 skills
-- [ソフトウェアエンジニア](./roles/software-engineer.md): 313 tools, 5 skills
-- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 297 tools, 5 skills
-- [グラフィックデザイナー](./roles/graphic-designer.md): 291 tools, 5 skills
-- [テクニカルライター](./roles/technical-writer.md): 229 tools, 5 skills
-- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 140 tools, 5 skills
-- [教師](./roles/teacher.md): 138 tools, 5 skills
-- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 130 tools, 5 skills
+- [コンテンツクリエイター](./roles/content-creator.md): 683 tools, 5 skills
+- [デジタルマーケティング部長](./roles/digital-marketing-director.md): 622 tools, 5 skills
+- [コピーライター](./roles/copywriter.md): 443 tools, 5 skills
+- [SNSコンテンツ制作者](./roles/social-media-content-creator.md): 411 tools, 5 skills
+- [CEO](./roles/ceo.md): 329 tools, 5 skills
+- [PMO担当](./roles/project-management-officer.md): 317 tools, 5 skills
+- [ソフトウェアエンジニア](./roles/software-engineer.md): 315 tools, 5 skills
+- [ソフトウェア開発マネージャー](./roles/software-development-manager.md): 298 tools, 5 skills
+- [グラフィックデザイナー](./roles/graphic-designer.md): 292 tools, 5 skills
+- [テクニカルライター](./roles/technical-writer.md): 231 tools, 5 skills
+- [ITインフラマネージャー](./roles/it-infrastructure-manager.md): 141 tools, 5 skills
+- [教師](./roles/teacher.md): 139 tools, 5 skills
+- [教育テクノロジーコンサルタント](./roles/education-technology-consultant.md): 131 tools, 5 skills
 - [COO](./roles/coo.md): 127 tools, 5 skills
-- [EC営業責任者](./roles/e-commerce-sales-head.md): 124 tools, 5 skills
-- [データサイエンティスト](./roles/data-scientist.md): 123 tools, 5 skills
-- [外勤営業マネージャー](./roles/field-sales-manager.md): 116 tools, 5 skills
-- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 109 tools, 5 skills
-- [大学教授](./roles/college-professor.md): 95 tools, 5 skills
-- [データエンジニア](./roles/data-engineer.md): 83 tools, 5 skills
-- [採用マネージャー](./roles/talent-acquisition-manager.md): 67 tools, 5 skills
+- [EC営業責任者](./roles/e-commerce-sales-head.md): 126 tools, 5 skills
+- [データサイエンティスト](./roles/data-scientist.md): 125 tools, 5 skills
+- [外勤営業マネージャー](./roles/field-sales-manager.md): 117 tools, 5 skills
+- [ポッドキャストプロデューサー](./roles/podcast-producer.md): 110 tools, 5 skills
+- [大学教授](./roles/college-professor.md): 96 tools, 5 skills
+- [データエンジニア](./roles/data-engineer.md): 84 tools, 5 skills
+- [採用マネージャー](./roles/talent-acquisition-manager.md): 68 tools, 5 skills
 - [ITマネージャー](./roles/information-technology-managers.md): 64 tools, 5 skills
 - [サイバーセキュリティマネージャー](./roles/cybersecurity-manager.md): 63 tools, 5 skills
 - [インディペンデント映画監督](./roles/independent-filmmaker.md): 62 tools, 5 skills
 - [サイバーセキュリティアナリスト](./roles/cybersecurity-analyst.md): 57 tools, 5 skills
+- [企業向けリーダーシップコーチ](./roles/corporate-leadership-coach.md): 53 tools, 5 skills
 - [オンラインプログラミング講師](./roles/online-coding-tutor.md): 53 tools, 5 skills
-- [企業向けリーダーシップコーチ](./roles/corporate-leadership-coach.md): 52 tools, 5 skills
 - [コンピュータ関連職](./roles/computer-occupations.md): 51 tools, 5 skills
+- [弁護士](./roles/lawyer.md): 48 tools, 5 skills
 - [スクールカウンセラー](./roles/school-counselor.md): 48 tools, 5 skills
-- [弁護士](./roles/lawyer.md): 47 tools, 5 skills
 - [音楽好き](./roles/music-lover.md): 47 tools, 5 skills
 - [マーケ・営業マネージャー](./roles/marketing-and-sales-managers.md): 45 tools, 5 skills
 - [医療管理者](./roles/healthcare-administrator.md): 44 tools, 5 skills
@@ -54,22 +54,22 @@
 - [金融アナリスト](./roles/financial-analyst.md): 40 tools, 5 skills
 - [メディア・広報職](./roles/media-communicators.md): 36 tools, 5 skills
 - [業務運営専門職](./roles/business-operations-specialists.md): 34 tools, 5 skills
-- [小説家](./roles/fiction-writer.md): 33 tools, 5 skills
-- [不動産エージェント](./roles/real-estate-agent.md): 32 tools, 5 skills
+- [小説家](./roles/fiction-writer.md): 34 tools, 5 skills
+- [不動産エージェント](./roles/real-estate-agent.md): 33 tools, 5 skills
 - [CFO](./roles/cfo.md): 31 tools, 5 skills
 - [コミュニティカレッジ講師](./roles/community-college-instructor.md): 31 tools, 5 skills
 - [ウェルネスコーチ](./roles/wellness-coach.md): 31 tools, 5 skills
 - [試験対策講師](./roles/test-prep-tutor.md): 30 tools, 5 skills
 - [経営企画・分析マネージャー](./roles/financial-planning-analysis-manager.md): 29 tools, 5 skills
+- [支店長](./roles/branch-office-manager.md): 27 tools, 5 skills
 - [財務マネージャー](./roles/financial-managers.md): 27 tools, 5 skills
-- [支店長](./roles/branch-office-manager.md): 26 tools, 5 skills
 - [エンジニア](./roles/engineers.md): 26 tools, 5 skills
 - [ファッションデザイナー](./roles/fashion-designer.md): 26 tools, 5 skills
 - [金融専門職](./roles/financial-specialists.md): 25 tools, 5 skills
 - [業務専門管理職](./roles/operations-specialties-managers.md): 25 tools, 5 skills
 - [高等教育教員](./roles/postsecondary-teachers.md): 25 tools, 5 skills
+- [労務マネージャー](./roles/employee-relations-manager.md): 24 tools, 5 skills
 - [その他教育職](./roles/other-education-roles.md): 24 tools, 5 skills
-- [労務マネージャー](./roles/employee-relations-manager.md): 23 tools, 5 skills
 - [作家・著述家](./roles/writers-and-authors.md): 23 tools, 5 skills
 - [EC販売者](./roles/e-commerce-seller.md): 22 tools, 5 skills
 - [投資ポートフォリオマネージャー](./roles/investment-portfolio-manager.md): 22 tools, 5 skills
@@ -78,8 +78,8 @@
 - [物流運用プランナー](./roles/logistics-operations-planner.md): 18 tools, 5 skills
 - [その他芸術職](./roles/other-arts-roles.md): 18 tools, 5 skills
 - [レストラン総支配人](./roles/restaurant-general-manager.md): 18 tools, 5 skills
+- [インテリアデザイナー](./roles/interior-designer.md): 17 tools, 5 skills
 - [テレビニュース記者](./roles/tv-news-reporter.md): 17 tools, 5 skills
-- [インテリアデザイナー](./roles/interior-designer.md): 16 tools, 5 skills
 - [法人税マネージャー](./roles/corporate-tax-manager.md): 15 tools, 5 skills
 - [アート・デザイン職](./roles/art-and-design-workers.md): 14 tools, 5 skills
 - [カスタマーサクセスマネージャー](./roles/customer-success-manager.md): 14 tools, 5 skills

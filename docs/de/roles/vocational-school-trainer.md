@@ -1,6 +1,6 @@
 # Berufsschuldozent
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/vocational-school-trainer)
 
 ## Überblick
 
@@ -17,14 +17,14 @@
 
 ## Passende Tools
 
-- [graspeo-com](https://www.aimyflow.com/de/ai/graspeo-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Graspeo ist ein KI-Quizgenerator, der Notizen, PDFs, Bilder und Text in bearbeitbare Übungsquizze und Tests umwandelt, hauptsächlich für Lehrkräfte, Schüler und Studierende, Trainer sowie Kursersteller. In KI-gestützten Lern- und Trainings-Workflows kann es Pädagogen und L&D-Teams dabei helfen, maßgeschneiderte Bewertungen schneller zu erstellen und dabei Fragetypen, Schwierigkeitsgrad und Quellenmaterialien aufeinander abgestimmt zu halten.
-- [hisocra-com](https://www.aimyflow.com/de/ai/hisocra-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Socra ist eine sokratische KI-Lernplattform, die Verständnis durch geführten Dialog, Abruftraining und wiederverwendbare Lernnotizen fördert. Sie unterstützt Lernende, Lehrkräfte und Trainer dabei, Denkprozesse festzuhalten und in strukturierte Lerninhalte zu verwandeln.
+- [graspeo-com](https://www.aimyflow.com/de/ai/graspeo-com): Graspeo ist ein KI-Quizgenerator, der Notizen, PDFs, Bilder und Text in bearbeitbare Übungsquizze und Tests umwandelt, hauptsächlich für Lehrkräfte, Schüler und Studierende, Trainer sowie Kursersteller. In KI-gestützten Lern- und Trainings-Workflows kann es Pädagogen und L&D-Teams dabei helfen, maßgeschneiderte Bewertungen schneller zu erstellen und dabei Fragetypen, Schwierigkeitsgrad und Quellenmaterialien aufeinander abgestimmt zu halten.
+- [hisocra-com](https://www.aimyflow.com/de/ai/hisocra-com): Socra ist eine sokratische KI-Lernplattform, die Verständnis durch geführten Dialog, Abruftraining und wiederverwendbare Lernnotizen fördert. Sie unterstützt Lernende, Lehrkräfte und Trainer dabei, Denkprozesse festzuhalten und in strukturierte Lerninhalte zu verwandeln.
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/vocational-school-trainer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/vocational-school-trainer)
 
 ## Hinweise
 

@@ -1,6 +1,6 @@
 # 工場運営スーパーバイザー
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/factory-operations-supervisor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/factory-operations-supervisor)
 
 ## 概要
 
@@ -17,18 +17,18 @@
 
 ## 関連ツール
 
-- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
-- [lido-app](https://www.aimyflow.com/ja/ai/lido-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Lido は、PDF、請求書、領収書、スキャン画像、その他のファイルから構造化データを抽出し、Excel、Google スプレッドシート、または CSV に変換する AI 搭載のドキュメント処理プラットフォームであり、主に財務、買掛金、物流、製造、医療分野のチーム向けに提供されています。オペレーションおよび経理の担当者にとって、ドキュメントの抽出、検証、その後のワークフローの各工程を、より迅速で信頼性の高いスプレッドシート対応プロセスに変えることで、手作業によるデータ入力を削減できます。
-- [miromind-ai](https://www.aimyflow.com/ja/ai/miromind-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): MiroMind は、推論に重点を置いた AI プラットフォーム兼オペレーティングシステムであり、主にソフトウェアエンジニアリング、法務、金融、製造、科学研究のチーム向けに、検証可能な多段階分析によって組織が重要な業務課題を解決できるよう支援します。高い判断精度が求められる役割の専門職にとって、その段階的な検証性と監査可能性は、標準的な生成 AI の出力を超えて、信頼性、コンプライアンス、意思決定の質の向上に寄与します。
-- [openart-ai](https://www.aimyflow.com/ja/ai/openart-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenArtは、テキストから画像を生成し、編集ツールで仕上げられるAI画像生成・編集プラットフォームです。アーティストやデザイナー向けです。
-- [pokecut-com](https://www.aimyflow.com/ja/ai/pokecut-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Pokecutは、背景削除・画像補正・ビジュアル生成ができるAI写真編集ツールです。主にEC販売者、マーケター、クリエイター向けで、デザイン用画像の作成を効率化し、手作業の編集を減らして高品質な素材を素早く用意できます。
-- [screenjournal-ai](https://www.aimyflow.com/ja/ai/screenjournal-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ScreenJournal は、画面と音声の録画、勤怠、感情、注意散漫の要因を分析し、従業員のプライバシー保護を目指しながら、管理職やチームリーダーが業務パターンを把握できるよう支援する、AI搭載の従業員モニタリングおよび生産性インサイトツールです。オペレーション、HR、人材マネージャー向けに、AI生成レポートによってダッシュボードの手動確認を減らし、コーチング、燃え尽き、パフォーマンス上の課題をより迅速に把握できます。
+- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
+- [lido-app](https://www.aimyflow.com/ja/ai/lido-app): Lido は、PDF、請求書、領収書、スキャン画像、その他のファイルから構造化データを抽出し、Excel、Google スプレッドシート、または CSV に変換する AI 搭載のドキュメント処理プラットフォームであり、主に財務、買掛金、物流、製造、医療分野のチーム向けに提供されています。オペレーションおよび経理の担当者にとって、ドキュメントの抽出、検証、その後のワークフローの各工程を、より迅速で信頼性の高いスプレッドシート対応プロセスに変えることで、手作業によるデータ入力を削減できます。
+- [miromind-ai](https://www.aimyflow.com/ja/ai/miromind-ai): MiroMind は、推論に重点を置いた AI プラットフォーム兼オペレーティングシステムであり、主にソフトウェアエンジニアリング、法務、金融、製造、科学研究のチーム向けに、検証可能な多段階分析によって組織が重要な業務課題を解決できるよう支援します。高い判断精度が求められる役割の専門職にとって、その段階的な検証性と監査可能性は、標準的な生成 AI の出力を超えて、信頼性、コンプライアンス、意思決定の質の向上に寄与します。
+- [openart-ai](https://www.aimyflow.com/ja/ai/openart-ai): OpenArtは、テキストから画像を生成し、編集ツールで仕上げられるAI画像生成・編集プラットフォームです。アーティストやデザイナー向けです。
+- [pokecut-com](https://www.aimyflow.com/ja/ai/pokecut-com): Pokecutは、背景削除・画像補正・ビジュアル生成ができるAI写真編集ツールです。主にEC販売者、マーケター、クリエイター向けで、デザイン用画像の作成を効率化し、手作業の編集を減らして高品質な素材を素早く用意できます。
+- [screenjournal-ai](https://www.aimyflow.com/ja/ai/screenjournal-ai): ScreenJournal は、画面と音声の録画、勤怠、感情、注意散漫の要因を分析し、従業員のプライバシー保護を目指しながら、管理職やチームリーダーが業務パターンを把握できるよう支援する、AI搭載の従業員モニタリングおよび生産性インサイトツールです。オペレーション、HR、人材マネージャー向けに、AI生成レポートによってダッシュボードの手動確認を減らし、コーチング、燃え尽き、パフォーマンス上の課題をより迅速に把握できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/factory-operations-supervisor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/factory-operations-supervisor)
 
 ## 補足
 

@@ -1,6 +1,6 @@
 # その他サービス専門職
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Misc-Service-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Misc-Service-Specialists)
 
 ## 概要
 
@@ -17,13 +17,13 @@
 
 ## 関連ツール
 
-- [podcast-adobe-com](https://www.aimyflow.com/ja/ai/podcast-adobe-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Adobe Podcastは、音声の録音・文字起こし・補正・共有を行えるWebベースのAI音声編集ツールです。主にポッドキャスター、クリエイター、音声メディア制作チーム向けで、編集やノイズ除去の手間を減らし、よりクリアな音声コンテンツを素早く公開できます。
+- [podcast-adobe-com](https://www.aimyflow.com/ja/ai/podcast-adobe-com): Adobe Podcastは、音声の録音・文字起こし・補正・共有を行えるWebベースのAI音声編集ツールです。主にポッドキャスター、クリエイター、音声メディア制作チーム向けで、編集やノイズ除去の手間を減らし、よりクリアな音声コンテンツを素早く公開できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Misc-Service-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Misc-Service-Specialists)
 
 ## 補足
 

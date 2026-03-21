@@ -1,6 +1,6 @@
 # Physical Scientists
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/Physical-Scientists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/Physical-Scientists)
 
 ## Snapshot
 
@@ -17,14 +17,14 @@
 
 ## Matched Tools
 
-- [aipose-ai](https://www.aimyflow.com/en/ai/aipose-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): AIPose is an AI pose generation and reference tool that helps artists, designers, and creators build poseable character references for visual work. In the AI era, it reduces setup time so illustrators and design teams can move from reference to creation more quickly.
-- [podcast-adobe-com](https://www.aimyflow.com/en/ai/podcast-adobe-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Adobe Podcast is a web-based AI audio recording and editing tool that helps users record, transcribe, enhance, and share spoken content, mainly for podcasters, creators, and teams producing voice media. It reduces cleanup and editing time, letting audio producers and marketers publish clearer content faster.
+- [aipose-ai](https://www.aimyflow.com/en/ai/aipose-ai): AIPose is an AI pose generation and reference tool that helps artists, designers, and creators build poseable character references for visual work. In the AI era, it reduces setup time so illustrators and design teams can move from reference to creation more quickly.
+- [podcast-adobe-com](https://www.aimyflow.com/en/ai/podcast-adobe-com): Adobe Podcast is a web-based AI audio recording and editing tool that helps users record, transcribe, enhance, and share spoken content, mainly for podcasters, creators, and teams producing voice media. It reduces cleanup and editing time, letting audio producers and marketers publish clearer content faster.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/Physical-Scientists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/Physical-Scientists)
 
 ## Notes
 

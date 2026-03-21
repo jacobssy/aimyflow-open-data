@@ -1,6 +1,6 @@
 # Middle School History Teacher
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/middle-school-history-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/middle-school-history-teacher)
 
 ## Snapshot
 
@@ -17,15 +17,15 @@
 
 ## Matched Tools
 
-- [chronostates-io](https://www.aimyflow.com/en/ai/chronostates-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Chronostates is an AI alternate-history game and book engine that helps storytellers create interactive worlds, explore branching what-if scenarios, and turn evolving timelines into novels, mainly for writers and history-focused creators. For authors and narrative designers, its world-state tracking and cascading consequences can speed ideation while preserving continuity across complex storylines.
-- [echoesofhistoryai-org](https://www.aimyflow.com/en/ai/echoesofhistoryai-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Echoes of History AI is an AI chat platform that lets users interview and learn from simulated historical figures with context-first prompts, mainly for curious readers exploring history and ideas. For educators, students, and researchers, it offers a fast way to test questions and compare perspectives while keeping historical inquiry interactive and evidence-aware.
-- [knowt-com](https://www.aimyflow.com/en/ai/knowt-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Knowt is a study platform and Quizlet alternative that helps students and teachers create, import, and practice flashcards with multiple study modes. It supports modern learning workflows by making study content easier to reuse, review, and scale across classes.
+- [chronostates-io](https://www.aimyflow.com/en/ai/chronostates-io): Chronostates is an AI alternate-history game and book engine that helps storytellers create interactive worlds, explore branching what-if scenarios, and turn evolving timelines into novels, mainly for writers and history-focused creators. For authors and narrative designers, its world-state tracking and cascading consequences can speed ideation while preserving continuity across complex storylines.
+- [echoesofhistoryai-org](https://www.aimyflow.com/en/ai/echoesofhistoryai-org): Echoes of History AI is an AI chat platform that lets users interview and learn from simulated historical figures with context-first prompts, mainly for curious readers exploring history and ideas. For educators, students, and researchers, it offers a fast way to test questions and compare perspectives while keeping historical inquiry interactive and evidence-aware.
+- [knowt-com](https://www.aimyflow.com/en/ai/knowt-com): Knowt is a study platform and Quizlet alternative that helps students and teachers create, import, and practice flashcards with multiple study modes. It supports modern learning workflows by making study content easier to reuse, review, and scale across classes.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/middle-school-history-teacher?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/middle-school-history-teacher)
 
 ## Notes
 

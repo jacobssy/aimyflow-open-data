@@ -1,6 +1,6 @@
 # 小売店舗運営コーディネーター
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/retail-store-operations-coordinator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/retail-store-operations-coordinator)
 
 ## 概要
 
@@ -17,15 +17,15 @@
 
 ## 関連ツール
 
-- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
-- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
-- [pokecut-com](https://www.aimyflow.com/ja/ai/pokecut-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Pokecutは、背景削除・画像補正・ビジュアル生成ができるAI写真編集ツールです。主にEC販売者、マーケター、クリエイター向けで、デザイン用画像の作成を効率化し、手作業の編集を減らして高品質な素材を素早く用意できます。
+- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
+- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
+- [pokecut-com](https://www.aimyflow.com/ja/ai/pokecut-com): Pokecutは、背景削除・画像補正・ビジュアル生成ができるAI写真編集ツールです。主にEC販売者、マーケター、クリエイター向けで、デザイン用画像の作成を効率化し、手作業の編集を減らして高品質な素材を素早く用意できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/retail-store-operations-coordinator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/retail-store-operations-coordinator)
 
 ## 補足
 

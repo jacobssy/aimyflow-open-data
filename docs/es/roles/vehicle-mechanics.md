@@ -1,6 +1,6 @@
 # Mecánicos de vehículos
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Vehicle-Mechanics?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Vehicle-Mechanics)
 
 ## Resumen
 
@@ -17,13 +17,13 @@
 
 ## Herramientas relacionadas
 
-- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
+- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Vehicle-Mechanics?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Vehicle-Mechanics)
 
 ## Notas
 

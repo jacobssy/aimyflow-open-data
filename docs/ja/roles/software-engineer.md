@@ -1,10 +1,10 @@
 # ソフトウェアエンジニア
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/software-engineer)
 
 ## 概要
 
-- 一致ツール数: 313
+- 一致ツール数: 315
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [accordio-ai](https://www.aimyflow.com/ja/ai/accordio-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Accordio は、フリーランサー向けの AI 管理プラットフォームで、契約書や提案書の作成、時間管理、請求書の送付、支払いの回収、クライアントへのフォローアップ管理を一元的に行えるよう支援します。フリーランスのデザイナー、コンサルタント、エージェンシー、クリエイターにとって、このようなツールは反復的なバックオフィス業務を削減し、AI が日常的な調整業務を担うことで、クライアント対応の業務をより迅速かつ一貫性のあるものにします。
-- [actionbook-dev](https://www.aimyflow.com/ja/ai/actionbook-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Actionbook は AI エージェント向けのブラウザ操作エンジンであり、最新のアクションマニュアルと DOM 構造を提供することで、開発者やチームがエージェントをより迅速かつ高い信頼性でウェブサイト上で動作させられるようにします。AI エンジニアや自動化構築者にとって、これは動的なウェブアプリや SPA を扱う際の壊れやすいセレクタロジックや、トークン消費の多いページ解析を削減できます。
-- [adscriptly-com](https://www.aimyflow.com/ja/ai/adscriptly-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Adscriptly は、Google 広告および Meta 広告向けの AI 広告最適化・キャンペーン自動化プラットフォームであり、データドリブンなマーケターや代理店が、オフライン収益、CRM、リード品質シグナルを活用して、入札、レポート、日々のキャンペーン管理を改善できるよう支援します。AI 時代のパフォーマンスマーケティングにおいて、よりリッチなクリック後データを用いて日常的なアカウント判断を自動化することで、PPC スペシャリストや有料メディアチームが表面的なコンバージョンではなく、実際のビジネス成果に向けて最適化できるよう支援します。
-- [agent-blackbox-ai-api](https://www.aimyflow.com/ja/ai/agent-blackbox-ai-api?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BLACKBOX AI Agent は、開発者やエンジニアリングチームが複数の AI エージェントでコーディングタスクを実行し、実装を比較し、コードリポジトリに変更を適用するための REST API です。AI 支援によるソフトウェア開発では、並列エージェント実行と選択レイヤーを用いて最も優れた実装を特定することで、エンジニアやテクニカルリードがモデル出力をより効率的に評価するのに役立ちます。
-- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
-- [agent37-com](https://www.aimyflow.com/ja/ai/agent37-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Agent37は、個人・上級ユーザー・チーム向けに、ブラウザベースのターミナルと統合ツール付きで常時稼働AIエージェントを運用できるOpenClawホスティング基盤です。AI時代に、導入の手間を減らし、エージェント運用の立ち上げと収益化を加速します。
-- [agentdesk-noice-net-au](https://www.aimyflow.com/ja/ai/agentdesk-noice-net-au?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AgentDesk は、コードを読み取り、問題を調査し、修正を記述し、テストを実行し、プルリクエストを作成する、AI 搭載のチケット管理およびワークフロー自動化ツールです。Jira と Git ベースの開発ワークフローを利用するソフトウェアチーム向けに設計されています。開発者、エンジニアリングマネージャー、IT チームにとって、定型的なバックログ項目をレビュー可能なコード変更に変換することで、手作業によるトリアージを減らし、チケット解決を迅速化できます。
-- [ai-seedfinder-com](https://www.aimyflow.com/ja/ai/ai-seedfinder-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Seed Phrase Finder は、AI、HPC リソース、ブロックチェーン残高チェックを使用して、ウォレットアクセスの復旧のために Bitcoin のシードフレーズと秘密鍵を生成・検証すると主張する Windows ソフトウェアであり、主に失われた認証情報の復元を試みる Bitcoin ウォレット所有者を対象としています。暗号資産の復旧およびセキュリティの専門家にとって、AI 支援によるフレーズ再構築と対象を絞った検索は、部分的なシードデータの調査を迅速化し、検出可能な残高を持つウォレットの優先順位付けに役立ちます。
+- [accordio-ai](https://www.aimyflow.com/ja/ai/accordio-ai): Accordio は、フリーランサー向けの AI 管理プラットフォームで、契約書や提案書の作成、時間管理、請求書の送付、支払いの回収、クライアントへのフォローアップ管理を一元的に行えるよう支援します。フリーランスのデザイナー、コンサルタント、エージェンシー、クリエイターにとって、このようなツールは反復的なバックオフィス業務を削減し、AI が日常的な調整業務を担うことで、クライアント対応の業務をより迅速かつ一貫性のあるものにします。
+- [actionbook-dev](https://www.aimyflow.com/ja/ai/actionbook-dev): Actionbook は AI エージェント向けのブラウザ操作エンジンであり、最新のアクションマニュアルと DOM 構造を提供することで、開発者やチームがエージェントをより迅速かつ高い信頼性でウェブサイト上で動作させられるようにします。AI エンジニアや自動化構築者にとって、これは動的なウェブアプリや SPA を扱う際の壊れやすいセレクタロジックや、トークン消費の多いページ解析を削減できます。
+- [adscriptly-com](https://www.aimyflow.com/ja/ai/adscriptly-com): Adscriptly は、Google 広告および Meta 広告向けの AI 広告最適化・キャンペーン自動化プラットフォームであり、データドリブンなマーケターや代理店が、オフライン収益、CRM、リード品質シグナルを活用して、入札、レポート、日々のキャンペーン管理を改善できるよう支援します。AI 時代のパフォーマンスマーケティングにおいて、よりリッチなクリック後データを用いて日常的なアカウント判断を自動化することで、PPC スペシャリストや有料メディアチームが表面的なコンバージョンではなく、実際のビジネス成果に向けて最適化できるよう支援します。
+- [agent-blackbox-ai-api](https://www.aimyflow.com/ja/ai/agent-blackbox-ai-api): BLACKBOX AI Agent は、開発者やエンジニアリングチームが複数の AI エージェントでコーディングタスクを実行し、実装を比較し、コードリポジトリに変更を適用するための REST API です。AI 支援によるソフトウェア開発では、並列エージェント実行と選択レイヤーを用いて最も優れた実装を特定することで、エンジニアやテクニカルリードがモデル出力をより効率的に評価するのに役立ちます。
+- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
+- [agent37-com](https://www.aimyflow.com/ja/ai/agent37-com): Agent37は、個人・上級ユーザー・チーム向けに、ブラウザベースのターミナルと統合ツール付きで常時稼働AIエージェントを運用できるOpenClawホスティング基盤です。AI時代に、導入の手間を減らし、エージェント運用の立ち上げと収益化を加速します。
+- [agentdesk-noice-net-au](https://www.aimyflow.com/ja/ai/agentdesk-noice-net-au): AgentDesk は、コードを読み取り、問題を調査し、修正を記述し、テストを実行し、プルリクエストを作成する、AI 搭載のチケット管理およびワークフロー自動化ツールです。Jira と Git ベースの開発ワークフローを利用するソフトウェアチーム向けに設計されています。開発者、エンジニアリングマネージャー、IT チームにとって、定型的なバックログ項目をレビュー可能なコード変更に変換することで、手作業によるトリアージを減らし、チケット解決を迅速化できます。
+- [ai-seedfinder-com](https://www.aimyflow.com/ja/ai/ai-seedfinder-com): AI Seed Phrase Finder は、AI、HPC リソース、ブロックチェーン残高チェックを使用して、ウォレットアクセスの復旧のために Bitcoin のシードフレーズと秘密鍵を生成・検証すると主張する Windows ソフトウェアであり、主に失われた認証情報の復元を試みる Bitcoin ウォレット所有者を対象としています。暗号資産の復旧およびセキュリティの専門家にとって、AI 支援によるフレーズ再構築と対象を絞った検索は、部分的なシードデータの調査を迅速化し、検出可能な残高を持つウォレットの優先順位付けに役立ちます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/software-engineer)
 
 ## 補足
 

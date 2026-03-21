@@ -1,10 +1,10 @@
 # デジタルマーケティング部長
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/digital-marketing-director?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/digital-marketing-director)
 
 ## 概要
 
-- 一致ツール数: 617
+- 一致ツール数: 622
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [2pr-io](https://www.aimyflow.com/ja/ai/2pr-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2pr は、ユーザーが投稿のアイデアを見つけ、本物らしい LinkedIn 投稿を作成し、カルーセルを作成し、コンテンツのスケジュール設定と分析を行えるよう支援する、AI 搭載の LinkedIn 投稿生成・コンテンツワークフローツールです。主に、創業者、B2B の営業・マーケティングチーム、ブロガー、求職者向けに設計されています。LinkedIn でパーソナルブランドを構築するプロフェッショナルにとっては、プロフィールに基づくガイダンスを活用して、投稿を自分の専門性やポジショニングに沿ったものに保ちながら、アイデア出しや下書き作成を効率化できます。
-- [2pr-io-carousel](https://www.aimyflow.com/ja/ai/2pr-io-carousel?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): 2PR LinkedIn Carousel Generator は、記事、メモ、動画、その他の元コンテンツを、編集可能な LinkedIn カルーセルスライドや PDF に変換する AI 搭載ツールで、主に創業者、B2B の営業・マーケティングチーム、クリエイター、ブロガー、求職者向けに設計されています。ソーシャルメディアやコンテンツの担当者にとっては、長尺コンテンツを構造化されたビジュアル投稿へと再活用する作業を効率化しつつ、ブランディングやメッセージの一貫性を保ちやすくします。
-- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
-- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
-- [adscriptly-com](https://www.aimyflow.com/ja/ai/adscriptly-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Adscriptly は、Google 広告および Meta 広告向けの AI 広告最適化・キャンペーン自動化プラットフォームであり、データドリブンなマーケターや代理店が、オフライン収益、CRM、リード品質シグナルを活用して、入札、レポート、日々のキャンペーン管理を改善できるよう支援します。AI 時代のパフォーマンスマーケティングにおいて、よりリッチなクリック後データを用いて日常的なアカウント判断を自動化することで、PPC スペシャリストや有料メディアチームが表面的なコンバージョンではなく、実際のビジネス成果に向けて最適化できるよう支援します。
-- [adsoar-ai](https://www.aimyflow.com/ja/ai/adsoar-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): ADSoarは、公式の広告プラットフォームデータとAIスコアリングを活用し、広告主、メディアバイヤー、PPCチームが成果の出る広告を見つけ、競合をベンチマークし、各国への展開を追跡できるよう支援するGoogle広告のインテリジェンスおよび競合調査ツールです。AI主導の広告運用においては、パフォーマンスマーケターや代理店が手作業による広告レビューを減らし、クリエイティブ、ターゲティング、市場参入に関して、より根拠に基づいた意思決定を行うのに役立ちます。
-- [adsturbo-ai](https://www.aimyflow.com/ja/ai/adsturbo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AdsTurbo は、商品画像、URL、または参考動画から広告クリエイティブを作成、分析、複製、翻訳、高品質化できる、eコマースブランド、グロースチーム、パフォーマンスマーケター向けの AI 動画広告生成ツールです。AI 主導のクリエイティブワークフローにおいて、マーケターやメディアバイヤーが、成果の高い構成をキャンペーン間で再利用しながら、動画広告をより迅速に制作・改善できるよう支援します。
-- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
+- [2pr-io](https://www.aimyflow.com/ja/ai/2pr-io): 2pr は、ユーザーが投稿のアイデアを見つけ、本物らしい LinkedIn 投稿を作成し、カルーセルを作成し、コンテンツのスケジュール設定と分析を行えるよう支援する、AI 搭載の LinkedIn 投稿生成・コンテンツワークフローツールです。主に、創業者、B2B の営業・マーケティングチーム、ブロガー、求職者向けに設計されています。LinkedIn でパーソナルブランドを構築するプロフェッショナルにとっては、プロフィールに基づくガイダンスを活用して、投稿を自分の専門性やポジショニングに沿ったものに保ちながら、アイデア出しや下書き作成を効率化できます。
+- [2pr-io-carousel](https://www.aimyflow.com/ja/ai/2pr-io-carousel): 2PR LinkedIn Carousel Generator は、記事、メモ、動画、その他の元コンテンツを、編集可能な LinkedIn カルーセルスライドや PDF に変換する AI 搭載ツールで、主に創業者、B2B の営業・マーケティングチーム、クリエイター、ブロガー、求職者向けに設計されています。ソーシャルメディアやコンテンツの担当者にとっては、長尺コンテンツを構造化されたビジュアル投稿へと再活用する作業を効率化しつつ、ブランディングやメッセージの一貫性を保ちやすくします。
+- [admakeai-com](https://www.aimyflow.com/ja/ai/admakeai-com): AdMake AI は、マーケター、中小企業、代理店、EC または SaaS チームが、競合の Facebook および Instagram 広告を調査し、広告クリエイティブやコピーを生成し、テンプレートから UGC スタイルの動画広告を制作するのを支援する AI 広告プラットフォームです。AI 主導のパフォーマンスマーケティングにおいては、有料ソーシャル運用担当者やクリエイティブ戦略担当者が、競合分析の知見をより迅速なテストサイクルと、より最適化された Facebook クリエイティブへとつなげるのに役立ちます。
+- [ads-tiktok-com](https://www.aimyflow.com/ja/ai/ads-tiktok-com): TikTok for Businessは、ブランド・代理店・クリエイター向けに、TikTok広告の作成・管理・最適化を支援する広告プラットフォームです。AI時代に、クリエイティブ検証の高速化と自動最適化による成果改善を後押しします。
+- [adscriptly-com](https://www.aimyflow.com/ja/ai/adscriptly-com): Adscriptly は、Google 広告および Meta 広告向けの AI 広告最適化・キャンペーン自動化プラットフォームであり、データドリブンなマーケターや代理店が、オフライン収益、CRM、リード品質シグナルを活用して、入札、レポート、日々のキャンペーン管理を改善できるよう支援します。AI 時代のパフォーマンスマーケティングにおいて、よりリッチなクリック後データを用いて日常的なアカウント判断を自動化することで、PPC スペシャリストや有料メディアチームが表面的なコンバージョンではなく、実際のビジネス成果に向けて最適化できるよう支援します。
+- [adsoar-ai](https://www.aimyflow.com/ja/ai/adsoar-ai): ADSoarは、公式の広告プラットフォームデータとAIスコアリングを活用し、広告主、メディアバイヤー、PPCチームが成果の出る広告を見つけ、競合をベンチマークし、各国への展開を追跡できるよう支援するGoogle広告のインテリジェンスおよび競合調査ツールです。AI主導の広告運用においては、パフォーマンスマーケターや代理店が手作業による広告レビューを減らし、クリエイティブ、ターゲティング、市場参入に関して、より根拠に基づいた意思決定を行うのに役立ちます。
+- [adsturbo-ai](https://www.aimyflow.com/ja/ai/adsturbo-ai): AdsTurbo は、商品画像、URL、または参考動画から広告クリエイティブを作成、分析、複製、翻訳、高品質化できる、eコマースブランド、グロースチーム、パフォーマンスマーケター向けの AI 動画広告生成ツールです。AI 主導のクリエイティブワークフローにおいて、マーケターやメディアバイヤーが、成果の高い構成をキャンペーン間で再利用しながら、動画広告をより迅速に制作・改善できるよう支援します。
+- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/ja/ai/affiliates-vidau-ai-XfqLzb): VidAU.ai は、テンプレート、AI モデル、モバイル編集を活用して、テキスト、画像、動画、URL、または商品サンプルをそのまま公開できる広告へと変換する、オールインワンの AI 動画広告生成ツールです。企業、EC 販売者、マーケター、クリエイターの制作を支援します。パフォーマンスマーケターやクリエイティブチームにとっては、広告テストやプロトタイピングを高速化し、手作業による制作負担を抑えながら、より多くのクリエイティブな切り口を検証できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/digital-marketing-director?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/digital-marketing-director)
 
 ## 補足
 

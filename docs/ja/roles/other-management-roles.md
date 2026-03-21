@@ -1,6 +1,6 @@
 # その他管理職
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Other-Management-Roles)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [asksurf-ai](https://www.aimyflow.com/ja/ai/asksurf-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Surfは、トレーダーや投資家向けに、暗号資産市場・トレンド・取引機会を分析できるAI暗号資産リサーチプラットフォームです。AI時代に、変化の速い情報の整理と市場対応の迅速化を支援します。
-- [create-kwakwa-com](https://www.aimyflow.com/ja/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): KwaKwa Course Creatorは、モバイルファーストのソーシャル講座を素早く作成・販売できるAIプラットフォームです。コーチやクリエイター、専門家向けに、知識の収益化をスムーズに進められます。
-- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
-- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
-- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
-- [mindly-ai-com](https://www.aimyflow.com/ja/ai/mindly-ai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Mindlyは、思考整理、アイデア接続、個人知識管理を支援するプライバシー重視のAIセカンドブレインです。研究者やライター、ナレッジワーカーの洞察活用を高めます。
-- [monica-im](https://www.aimyflow.com/ja/ai/monica-im?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Monicaは、チャット、検索、文章作成、コーディングに対応するマルチモデルAIアシスタントです。ブラウザ・デスクトップ・モバイルで日常のAI作業を一元化できます。
-- [outlier-ai](https://www.aimyflow.com/ja/ai/outlier-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Outlierは、専門知識を持つフリーランサーとAI学習向け案件をつなぐプラットフォームです。人間のフィードバックでAI性能向上に貢献できます。
+- [asksurf-ai](https://www.aimyflow.com/ja/ai/asksurf-ai): Surfは、トレーダーや投資家向けに、暗号資産市場・トレンド・取引機会を分析できるAI暗号資産リサーチプラットフォームです。AI時代に、変化の速い情報の整理と市場対応の迅速化を支援します。
+- [create-kwakwa-com](https://www.aimyflow.com/ja/ai/create-kwakwa-com): KwaKwa Course Creatorは、モバイルファーストのソーシャル講座を素早く作成・販売できるAIプラットフォームです。コーチやクリエイター、専門家向けに、知識の収益化をスムーズに進められます。
+- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
+- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
+- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
+- [mindly-ai-com](https://www.aimyflow.com/ja/ai/mindly-ai-com): Mindlyは、思考整理、アイデア接続、個人知識管理を支援するプライバシー重視のAIセカンドブレインです。研究者やライター、ナレッジワーカーの洞察活用を高めます。
+- [monica-im](https://www.aimyflow.com/ja/ai/monica-im): Monicaは、チャット、検索、文章作成、コーディングに対応するマルチモデルAIアシスタントです。ブラウザ・デスクトップ・モバイルで日常のAI作業を一元化できます。
+- [outlier-ai](https://www.aimyflow.com/ja/ai/outlier-ai): Outlierは、専門知識を持つフリーランサーとAI学習向け案件をつなぐプラットフォームです。人間のフィードバックでAI性能向上に貢献できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Other-Management-Roles)
 
 ## 補足
 

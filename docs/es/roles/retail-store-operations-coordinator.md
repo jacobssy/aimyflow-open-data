@@ -1,6 +1,6 @@
 # Coordinador de operaciones de tienda
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/retail-store-operations-coordinator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/retail-store-operations-coordinator)
 
 ## Resumen
 
@@ -17,15 +17,15 @@
 
 ## Herramientas relacionadas
 
-- [demodazzle-com](https://www.aimyflow.com/es/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): DemoDazzle es una plataforma de automatización de demos que ayuda a equipos a grabar acciones de producto, crear presentaciones con avatares de IA e involucrar prospectos mediante demos interactivas. En la era de la IA, permite escalar demos personalizadas sin repetir recorridos manuales.
-- [ifoto-ai](https://www.aimyflow.com/es/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): iFoto es un estudio de edición fotográfica con IA que ayuda a mejorar imágenes, cambiar fondos y crear visuales profesionales online, ideal para eCommerce, marketing y creadores.
-- [pokecut-com](https://www.aimyflow.com/es/ai/pokecut-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Pokecut es un editor de fotos con IA para quitar fondos, mejorar imágenes y generar visuales online, ideal para vendedores ecommerce, marketers y creadores. Acelera la producción de imágenes listas para diseño con menos edición manual.
+- [demodazzle-com](https://www.aimyflow.com/es/ai/demodazzle-com): DemoDazzle es una plataforma de automatización de demos que ayuda a equipos a grabar acciones de producto, crear presentaciones con avatares de IA e involucrar prospectos mediante demos interactivas. En la era de la IA, permite escalar demos personalizadas sin repetir recorridos manuales.
+- [ifoto-ai](https://www.aimyflow.com/es/ai/ifoto-ai): iFoto es un estudio de edición fotográfica con IA que ayuda a mejorar imágenes, cambiar fondos y crear visuales profesionales online, ideal para eCommerce, marketing y creadores.
+- [pokecut-com](https://www.aimyflow.com/es/ai/pokecut-com): Pokecut es un editor de fotos con IA para quitar fondos, mejorar imágenes y generar visuales online, ideal para vendedores ecommerce, marketers y creadores. Acelera la producción de imágenes listas para diseño con menos edición manual.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/retail-store-operations-coordinator?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/retail-store-operations-coordinator)
 
 ## Notas
 

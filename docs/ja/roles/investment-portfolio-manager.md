@@ -1,6 +1,6 @@
 # 投資ポートフォリオマネージャー
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/investment-portfolio-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/investment-portfolio-manager)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [borea-ai](https://www.aimyflow.com/ja/ai/borea-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Borea AI は、個人投資家や市場ウォッチャーがより十分な情報に基づいて意思決定できるよう、株価予測、銘柄評価、市場トレンドの見通しを提供する AI 搭載の金融プラットフォームです。投資家や金融アナリストにとって、このような AI ツールは市場シグナルや過去のパターンの確認を加速し、専門的な判断とあわせて、より迅速な調査を支援します。
-- [extruct-ai](https://www.aimyflow.com/ja/ai/extruct-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Extruct AI は、ユーザーがニッチな企業リストを作成し、自然言語で CRM データを検索し、レコードを充実させ、検証済みの連絡先を見つけられるよう支援する AI 企業インテリジェンスプラットフォームであり、主に投資リサーチャー、営業チーム、ビジネスリサーチャー向けに提供されています。AI を活用した見込み客開拓と市場調査において、これらのチームは、リアルタイムかつ相互検証されたデータに基づく、より深い条件ベースの企業分析によって、広範なデータベースフィルターを置き換えることができます。
-- [fefi-ai](https://www.aimyflow.com/ja/ai/fefi-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fefi は、AI を活用した金融ダッシュボードで、主に投資家、アナリスト、財務チーム向けに、株式分析、市場監視、取引戦略のバックテスト、信頼できる金融情報源の検索、ファイル生成を支援します。AI 支援による調査・分析ワークフローにおいては、リアルタイムデータ、規制当局への提出書類、統合ツールを 1 か所に集約することで、金融の専門家がより迅速に業務を進められるよう支援します。
-- [floatz-ai](https://www.aimyflow.com/ja/ai/floatz-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): floatz は、科学、臨床試験、知的財産、人材にまたがるエビデンスを分析することで、バイオテックおよびライフサイエンス分野の投資家が投資における科学的リスクを評価できるよう支援する、AI 主導の科学デューデリジェンス・プラットフォームです。投資チームや科学デューデリジェンスの専門家にとって、これは従来の主張ごとのレビューでは見落とされがちな、弱いシグナル、ネガティブなシグナル、非自明なシグナルを可視化することで、より妥当性の高い意思決定を支援します。
-- [goai-digital](https://www.aimyflow.com/ja/ai/goai-digital?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): GoAI は、AI を活用した株式リサーチおよびマーケットスキャンのプラットフォームであり、投資家やトレーダーが企業分析、売買シグナルの追跡、投資アイデアの創出を行えるよう支援します。さらに、より高度な市場参加者に向けた、より深いリサーチも提供します。AI 主導の投資ワークフローにおいては、ポートフォリオマネージャーやアナリストが市場データの収集に費やす時間を減らし、確度の高い投資機会の評価により多くの時間を充てられるよう支援します。
-- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
-- [intellectia-ai](https://www.aimyflow.com/ja/ai/intellectia-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Intellectia AIは、投資家やアクティブトレーダーが、市場調査、銘柄スクリーニング、シグナル生成、戦略のバックテスト、取引の実行やコピーを単一のダッシュボードから行えるよう支援する、AI投資・取引プラットフォームです。個人トレーダーや市場アナリストにとって、このようなAIツールは、リアルタイムデータ、ニュース、テクニカルシグナルを、より迅速な取引調査と執行のワークフローへと変換することで、意思決定を加速できます。
-- [magiatrade-com](https://www.aimyflow.com/ja/ai/magiatrade-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Magia Trade は、リアルタイムのチャート解釈、ニュースセンチメント分析、市場インサイトを提供するカスタマイズ可能な AI エージェントを通じて、トレーダーによる株式や暗号資産の分析を支援する AI 取引分析プラットフォームです。トレーダーや市場アナリストにとって、これによりライブ市場データやチャート画像を、リスク水準や推奨取引パラメータを含む構造化分析へ変換し、リサーチを迅速化できます。
+- [borea-ai](https://www.aimyflow.com/ja/ai/borea-ai): Borea AI は、個人投資家や市場ウォッチャーがより十分な情報に基づいて意思決定できるよう、株価予測、銘柄評価、市場トレンドの見通しを提供する AI 搭載の金融プラットフォームです。投資家や金融アナリストにとって、このような AI ツールは市場シグナルや過去のパターンの確認を加速し、専門的な判断とあわせて、より迅速な調査を支援します。
+- [extruct-ai](https://www.aimyflow.com/ja/ai/extruct-ai): Extruct AI は、ユーザーがニッチな企業リストを作成し、自然言語で CRM データを検索し、レコードを充実させ、検証済みの連絡先を見つけられるよう支援する AI 企業インテリジェンスプラットフォームであり、主に投資リサーチャー、営業チーム、ビジネスリサーチャー向けに提供されています。AI を活用した見込み客開拓と市場調査において、これらのチームは、リアルタイムかつ相互検証されたデータに基づく、より深い条件ベースの企業分析によって、広範なデータベースフィルターを置き換えることができます。
+- [fefi-ai](https://www.aimyflow.com/ja/ai/fefi-ai): Fefi は、AI を活用した金融ダッシュボードで、主に投資家、アナリスト、財務チーム向けに、株式分析、市場監視、取引戦略のバックテスト、信頼できる金融情報源の検索、ファイル生成を支援します。AI 支援による調査・分析ワークフローにおいては、リアルタイムデータ、規制当局への提出書類、統合ツールを 1 か所に集約することで、金融の専門家がより迅速に業務を進められるよう支援します。
+- [floatz-ai](https://www.aimyflow.com/ja/ai/floatz-ai): floatz は、科学、臨床試験、知的財産、人材にまたがるエビデンスを分析することで、バイオテックおよびライフサイエンス分野の投資家が投資における科学的リスクを評価できるよう支援する、AI 主導の科学デューデリジェンス・プラットフォームです。投資チームや科学デューデリジェンスの専門家にとって、これは従来の主張ごとのレビューでは見落とされがちな、弱いシグナル、ネガティブなシグナル、非自明なシグナルを可視化することで、より妥当性の高い意思決定を支援します。
+- [goai-digital](https://www.aimyflow.com/ja/ai/goai-digital): GoAI は、AI を活用した株式リサーチおよびマーケットスキャンのプラットフォームであり、投資家やトレーダーが企業分析、売買シグナルの追跡、投資アイデアの創出を行えるよう支援します。さらに、より高度な市場参加者に向けた、より深いリサーチも提供します。AI 主導の投資ワークフローにおいては、ポートフォリオマネージャーやアナリストが市場データの収集に費やす時間を減らし、確度の高い投資機会の評価により多くの時間を充てられるよう支援します。
+- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
+- [intellectia-ai](https://www.aimyflow.com/ja/ai/intellectia-ai): Intellectia AIは、投資家やアクティブトレーダーが、市場調査、銘柄スクリーニング、シグナル生成、戦略のバックテスト、取引の実行やコピーを単一のダッシュボードから行えるよう支援する、AI投資・取引プラットフォームです。個人トレーダーや市場アナリストにとって、このようなAIツールは、リアルタイムデータ、ニュース、テクニカルシグナルを、より迅速な取引調査と執行のワークフローへと変換することで、意思決定を加速できます。
+- [magiatrade-com](https://www.aimyflow.com/ja/ai/magiatrade-com): Magia Trade は、リアルタイムのチャート解釈、ニュースセンチメント分析、市場インサイトを提供するカスタマイズ可能な AI エージェントを通じて、トレーダーによる株式や暗号資産の分析を支援する AI 取引分析プラットフォームです。トレーダーや市場アナリストにとって、これによりライブ市場データやチャート画像を、リスク水準や推奨取引パラメータを含む構造化分析へ変換し、リサーチを迅速化できます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/investment-portfolio-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/investment-portfolio-manager)
 
 ## 補足
 

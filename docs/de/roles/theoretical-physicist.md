@@ -1,6 +1,6 @@
 # Theoretischer Physiker
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/theoretical-physicist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/theoretical-physicist)
 
 ## Überblick
 
@@ -17,15 +17,15 @@
 
 ## Passende Tools
 
-- [co-dev](https://www.aimyflow.com/de/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
-- [openai-com-prism](https://www.aimyflow.com/de/ai/openai-com-prism?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Prism ist ein kostenloser LaTeX-Editor und eine KI-native wissenschaftliche Arbeitsumgebung von OpenAI, die Wissenschaftlerinnen und Wissenschaftlern dabei hilft, in einer cloudbasierten Umgebung wissenschaftliche Dokumente zu entwerfen, zu bearbeiten, zu kompilieren, Literatur zu durchsuchen, Zitate zu verwalten und gemeinsam daran zu arbeiten. Für Forschende und Teams für wissenschaftliches Schreiben kann die projektbewusste KI den Aufwand für Formatierung und Korrekturlesen verringern, sodass sie mehr Zeit für Analyse, Argumentation und Manuskriptentwicklung aufwenden können.
-- [scisummary-com](https://www.aimyflow.com/de/ai/scisummary-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): SciSummary ist ein KI-Forschungstool, das Forschenden und Studierenden hilft, wissenschaftliche Artikel und Forschungsarbeiten mit strukturierten Abschnitten, Abbildungsinterpretation und Referenzverwaltung zusammenzufassen, zu analysieren und zu organisieren. Für akademische Forschende, Analysten und Graduierte kann es Literaturrecherchen und den Vergleich von Facharbeiten beschleunigen, indem es dichte Studien in nutzbare Zusammenfassungen umwandelt und dabei die Struktur bewahrt, auf die sie angewiesen sind.
+- [co-dev](https://www.aimyflow.com/de/ai/co-dev): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
+- [openai-com-prism](https://www.aimyflow.com/de/ai/openai-com-prism): Prism ist ein kostenloser LaTeX-Editor und eine KI-native wissenschaftliche Arbeitsumgebung von OpenAI, die Wissenschaftlerinnen und Wissenschaftlern dabei hilft, in einer cloudbasierten Umgebung wissenschaftliche Dokumente zu entwerfen, zu bearbeiten, zu kompilieren, Literatur zu durchsuchen, Zitate zu verwalten und gemeinsam daran zu arbeiten. Für Forschende und Teams für wissenschaftliches Schreiben kann die projektbewusste KI den Aufwand für Formatierung und Korrekturlesen verringern, sodass sie mehr Zeit für Analyse, Argumentation und Manuskriptentwicklung aufwenden können.
+- [scisummary-com](https://www.aimyflow.com/de/ai/scisummary-com): SciSummary ist ein KI-Forschungstool, das Forschenden und Studierenden hilft, wissenschaftliche Artikel und Forschungsarbeiten mit strukturierten Abschnitten, Abbildungsinterpretation und Referenzverwaltung zusammenzufassen, zu analysieren und zu organisieren. Für akademische Forschende, Analysten und Graduierte kann es Literaturrecherchen und den Vergleich von Facharbeiten beschleunigen, indem es dichte Studien in nutzbare Zusammenfassungen umwandelt und dabei die Struktur bewahrt, auf die sie angewiesen sind.
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/theoretical-physicist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/theoretical-physicist)
 
 ## Hinweise
 

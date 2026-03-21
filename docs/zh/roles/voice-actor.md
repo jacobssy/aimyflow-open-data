@@ -1,6 +1,6 @@
 # 配音演员
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/voice-actor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/voice-actor)
 
 ## 概览
 
@@ -17,20 +17,20 @@
 
 ## 匹配工具
 
-- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/zh/ai/aivoicegen-net-voice-cloning?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Higgs Audio 的 AI 语音克隆工具可让用户通过一段简短的参考音频样本和输入文本生成克隆语音，主要面向制作语音内容的创作者和团队。 在 AI 辅助的媒体工作流程中，它可以帮助配音演员、多媒体制作人和内容创作者更快地为口语音频制作原型或实现规模化，同时保持一致的声音风格。
-- [aiwritebook-com](https://www.aimyflow.com/zh/ai/aiwritebook-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): AIWriteBook 是一个 AI 图书写作与出版平台，帮助作者创建、完善、配图、配音并导出完整图书，以便发布到 Amazon KDP 等渠道，无论他们是从一个想法、一些笔记，还是现有草稿开始。对于作者和自助出版者来说，它可以将大纲设计、保持文风一致的草稿撰写以及出版准备整合到一个工作流中，减少在不同写作和排版工具之间进行手动交接。
-- [allvoicelab-com](https://www.aimyflow.com/zh/ai/allvoicelab-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): All Voice Lab 是一个 AI 语音平台，提供高保真语音克隆、文本转语音、变声和视频翻译功能，主要面向制作有声书、旁白、配音内容和本地化媒体的创作者与团队。 对于内容制作和本地化工作流程而言，这类 AI 语音工具可以加快多语言音频创作，同时帮助在各个项目中保持一致的语气和声音风格。
-- [coolo-ai](https://www.aimyflow.com/zh/ai/coolo-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Coolo.ai 是一款 AI 音乐音频工具，可帮助用户去除人声、分离音轨、隔离乐器、降低噪声，并检测调性和 BPM，主要面向音乐制作人、DJ、音乐人和卡拉 OK 创作者。 在 AI 驱动的音乐工作流程中，这类工具可将完整歌曲转换为可编辑的音频组件，从而加快混音改编、曲目分析和练习准备。
-- [erota-app](https://www.aimyflow.com/zh/ai/erota-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Erota 是一款 AI 写作工具，可根据用户选择的主题、行为、视角和风格，生成定制的露骨情色故事、角色扮演聊天、互动式冒险叙事以及音频播放，主要面向寻求个性化 NSFW 小说的成年人。对于作家和成人内容创作者，它能够将结构化提示转化为定制的故事草稿和旁白场景，从而加快创意构思和内容变体生成。
-- [kikivoice-ai](https://www.aimyflow.com/zh/ai/kikivoice-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): KikiVoice 是一个 AI 语音克隆平台，创作者只需录制或上传一段简短的音频样本，即可在三分钟内生成逼真的克隆语音，并支持 75+ 种语言、口音和情感控制。对于视频制作人、播客创作者、游戏配音团队和在线学习内容创作者来说，它能够加快多语言本地化和语音迭代，无需反复进行录音。
-- [openrouter-ai](https://www.aimyflow.com/zh/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): OpenRouter 是一个面向大语言模型的统一 API 与路由平台，帮助开发者通过单一接口接入、比较和使用多个模型，让团队更灵活优化成本、性能与稳定性。
-- [stemsplit-io](https://www.aimyflow.com/zh/ai/stemsplit-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): StemSplit 是一款 AI 人声去除和音轨分离工具，帮助用户去除人声、提取伴奏，并将歌曲拆分为多个音轨，主要面向音乐制作人、DJ、歌手和内容创作者。在 AI 驱动的音频工作流程中，它可通过在一分钟内将完整歌曲或链接媒体转换为可用的分离音轨，加快混音、卡拉 OK 制作和曲目准备。
+- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/zh/ai/aivoicegen-net-voice-cloning): Higgs Audio 的 AI 语音克隆工具可让用户通过一段简短的参考音频样本和输入文本生成克隆语音，主要面向制作语音内容的创作者和团队。 在 AI 辅助的媒体工作流程中，它可以帮助配音演员、多媒体制作人和内容创作者更快地为口语音频制作原型或实现规模化，同时保持一致的声音风格。
+- [aiwritebook-com](https://www.aimyflow.com/zh/ai/aiwritebook-com): AIWriteBook 是一个 AI 图书写作与出版平台，帮助作者创建、完善、配图、配音并导出完整图书，以便发布到 Amazon KDP 等渠道，无论他们是从一个想法、一些笔记，还是现有草稿开始。对于作者和自助出版者来说，它可以将大纲设计、保持文风一致的草稿撰写以及出版准备整合到一个工作流中，减少在不同写作和排版工具之间进行手动交接。
+- [allvoicelab-com](https://www.aimyflow.com/zh/ai/allvoicelab-com): All Voice Lab 是一个 AI 语音平台，提供高保真语音克隆、文本转语音、变声和视频翻译功能，主要面向制作有声书、旁白、配音内容和本地化媒体的创作者与团队。 对于内容制作和本地化工作流程而言，这类 AI 语音工具可以加快多语言音频创作，同时帮助在各个项目中保持一致的语气和声音风格。
+- [coolo-ai](https://www.aimyflow.com/zh/ai/coolo-ai): Coolo.ai 是一款 AI 音乐音频工具，可帮助用户去除人声、分离音轨、隔离乐器、降低噪声，并检测调性和 BPM，主要面向音乐制作人、DJ、音乐人和卡拉 OK 创作者。 在 AI 驱动的音乐工作流程中，这类工具可将完整歌曲转换为可编辑的音频组件，从而加快混音改编、曲目分析和练习准备。
+- [erota-app](https://www.aimyflow.com/zh/ai/erota-app): Erota 是一款 AI 写作工具，可根据用户选择的主题、行为、视角和风格，生成定制的露骨情色故事、角色扮演聊天、互动式冒险叙事以及音频播放，主要面向寻求个性化 NSFW 小说的成年人。对于作家和成人内容创作者，它能够将结构化提示转化为定制的故事草稿和旁白场景，从而加快创意构思和内容变体生成。
+- [kikivoice-ai](https://www.aimyflow.com/zh/ai/kikivoice-ai): KikiVoice 是一个 AI 语音克隆平台，创作者只需录制或上传一段简短的音频样本，即可在三分钟内生成逼真的克隆语音，并支持 75+ 种语言、口音和情感控制。对于视频制作人、播客创作者、游戏配音团队和在线学习内容创作者来说，它能够加快多语言本地化和语音迭代，无需反复进行录音。
+- [openrouter-ai](https://www.aimyflow.com/zh/ai/openrouter-ai): OpenRouter 是一个面向大语言模型的统一 API 与路由平台，帮助开发者通过单一接口接入、比较和使用多个模型，让团队更灵活优化成本、性能与稳定性。
+- [stemsplit-io](https://www.aimyflow.com/zh/ai/stemsplit-io): StemSplit 是一款 AI 人声去除和音轨分离工具，帮助用户去除人声、提取伴奏，并将歌曲拆分为多个音轨，主要面向音乐制作人、DJ、歌手和内容创作者。在 AI 驱动的音频工作流程中，它可通过在一分钟内将完整歌曲或链接媒体转换为可用的分离音轨，加快混音、卡拉 OK 制作和曲目准备。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/voice-actor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/voice-actor)
 
 ## 说明
 

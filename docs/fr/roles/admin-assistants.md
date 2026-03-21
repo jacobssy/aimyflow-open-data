@@ -1,6 +1,6 @@
 # Assistants administratifs
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Admin-Assistants?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Admin-Assistants)
 
 ## Vue d’ensemble
 
@@ -17,14 +17,14 @@
 
 ## Outils associés
 
-- [imyfone-com](https://www.aimyflow.com/fr/ai/imyfone-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): iMyFone est une plateforme logicielle utilitaire qui aide à récupérer des données perdues, déverrouiller des appareils, réparer des problèmes système et gérer les données sur iOS, Android, Windows et Mac.
-- [jotform-com](https://www.aimyflow.com/fr/ai/jotform-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Jotform est un créateur de formulaires en ligne qui aide les organisations à créer des formulaires et sondages pour collecter inscriptions, candidatures, commandes et paiements.
+- [imyfone-com](https://www.aimyflow.com/fr/ai/imyfone-com): iMyFone est une plateforme logicielle utilitaire qui aide à récupérer des données perdues, déverrouiller des appareils, réparer des problèmes système et gérer les données sur iOS, Android, Windows et Mac.
+- [jotform-com](https://www.aimyflow.com/fr/ai/jotform-com): Jotform est un créateur de formulaires en ligne qui aide les organisations à créer des formulaires et sondages pour collecter inscriptions, candidatures, commandes et paiements.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Admin-Assistants?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Admin-Assistants)
 
 ## Notes
 

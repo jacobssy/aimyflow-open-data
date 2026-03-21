@@ -2,50 +2,50 @@
 
 Open data exports for AimyFlow AI tools by role, with machine-readable datasets and GitHub-friendly landing pages.
 
-Generated at: 2026-03-21T13:08:12.006Z
+Generated at: 2026-03-21T13:30:11.462Z
 
-- Tools exported: 1497
+- Tools exported: 1507
 - Roles exported: 221
 - Skills exported: 1105
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_roles_en)
-- [See community voting](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/roles)
 
 ## Roles
 
-- [Content Creator](./roles/content-creator.md): 677 tools, 5 skills
-- [Digital Marketing Director](./roles/digital-marketing-director.md): 617 tools, 5 skills
-- [Copywriter](./roles/copywriter.md): 440 tools, 5 skills
-- [Social Media Content Creator](./roles/social-media-content-creator.md): 409 tools, 5 skills
-- [CEO](./roles/ceo.md): 326 tools, 5 skills
-- [Project Management Officer](./roles/project-management-officer.md): 315 tools, 5 skills
-- [Software Engineer](./roles/software-engineer.md): 313 tools, 5 skills
-- [Software Development Manager](./roles/software-development-manager.md): 297 tools, 5 skills
-- [Graphic Designer](./roles/graphic-designer.md): 291 tools, 5 skills
-- [Technical Writer](./roles/technical-writer.md): 229 tools, 5 skills
-- [IT Infrastructure Manager](./roles/it-infrastructure-manager.md): 140 tools, 5 skills
-- [Teacher](./roles/teacher.md): 138 tools, 5 skills
-- [Education Technology Consultant](./roles/education-technology-consultant.md): 130 tools, 5 skills
+- [Content Creator](./roles/content-creator.md): 683 tools, 5 skills
+- [Digital Marketing Director](./roles/digital-marketing-director.md): 622 tools, 5 skills
+- [Copywriter](./roles/copywriter.md): 443 tools, 5 skills
+- [Social Media Content Creator](./roles/social-media-content-creator.md): 411 tools, 5 skills
+- [CEO](./roles/ceo.md): 329 tools, 5 skills
+- [Project Management Officer](./roles/project-management-officer.md): 317 tools, 5 skills
+- [Software Engineer](./roles/software-engineer.md): 315 tools, 5 skills
+- [Software Development Manager](./roles/software-development-manager.md): 298 tools, 5 skills
+- [Graphic Designer](./roles/graphic-designer.md): 292 tools, 5 skills
+- [Technical Writer](./roles/technical-writer.md): 231 tools, 5 skills
+- [IT Infrastructure Manager](./roles/it-infrastructure-manager.md): 141 tools, 5 skills
+- [Teacher](./roles/teacher.md): 139 tools, 5 skills
+- [Education Technology Consultant](./roles/education-technology-consultant.md): 131 tools, 5 skills
 - [COO](./roles/coo.md): 127 tools, 5 skills
-- [E-commerce Sales Head](./roles/e-commerce-sales-head.md): 124 tools, 5 skills
-- [Data Scientist](./roles/data-scientist.md): 123 tools, 5 skills
-- [Field Sales Manager](./roles/field-sales-manager.md): 116 tools, 5 skills
-- [Podcast Producer](./roles/podcast-producer.md): 109 tools, 5 skills
-- [College Professor](./roles/college-professor.md): 95 tools, 5 skills
-- [Data Engineer](./roles/data-engineer.md): 83 tools, 5 skills
-- [Talent Acquisition Manager](./roles/talent-acquisition-manager.md): 67 tools, 5 skills
+- [E-commerce Sales Head](./roles/e-commerce-sales-head.md): 126 tools, 5 skills
+- [Data Scientist](./roles/data-scientist.md): 125 tools, 5 skills
+- [Field Sales Manager](./roles/field-sales-manager.md): 117 tools, 5 skills
+- [Podcast Producer](./roles/podcast-producer.md): 110 tools, 5 skills
+- [College Professor](./roles/college-professor.md): 96 tools, 5 skills
+- [Data Engineer](./roles/data-engineer.md): 84 tools, 5 skills
+- [Talent Acquisition Manager](./roles/talent-acquisition-manager.md): 68 tools, 5 skills
 - [Information Technology Managers](./roles/information-technology-managers.md): 64 tools, 5 skills
 - [Cybersecurity Manager](./roles/cybersecurity-manager.md): 63 tools, 5 skills
 - [Independent Filmmaker](./roles/independent-filmmaker.md): 62 tools, 5 skills
 - [Cybersecurity Analyst](./roles/cybersecurity-analyst.md): 57 tools, 5 skills
+- [Corporate Leadership Coach](./roles/corporate-leadership-coach.md): 53 tools, 5 skills
 - [Online Coding Tutor](./roles/online-coding-tutor.md): 53 tools, 5 skills
-- [Corporate Leadership Coach](./roles/corporate-leadership-coach.md): 52 tools, 5 skills
 - [Computer Occupations](./roles/computer-occupations.md): 51 tools, 5 skills
+- [Lawyer](./roles/lawyer.md): 48 tools, 5 skills
 - [School Counselor](./roles/school-counselor.md): 48 tools, 5 skills
-- [Lawyer](./roles/lawyer.md): 47 tools, 5 skills
 - [Music Lover](./roles/music-lover.md): 47 tools, 5 skills
 - [Marketing and Sales Managers](./roles/marketing-and-sales-managers.md): 45 tools, 5 skills
 - [Healthcare Administrator](./roles/healthcare-administrator.md): 44 tools, 5 skills
@@ -54,22 +54,22 @@ Generated at: 2026-03-21T13:08:12.006Z
 - [Financial Analyst](./roles/financial-analyst.md): 40 tools, 5 skills
 - [Media Communicators](./roles/media-communicators.md): 36 tools, 5 skills
 - [Business Operations Specialists](./roles/business-operations-specialists.md): 34 tools, 5 skills
-- [Fiction Writer](./roles/fiction-writer.md): 33 tools, 5 skills
-- [Real Estate Agent](./roles/real-estate-agent.md): 32 tools, 5 skills
+- [Fiction Writer](./roles/fiction-writer.md): 34 tools, 5 skills
+- [Real Estate Agent](./roles/real-estate-agent.md): 33 tools, 5 skills
 - [CFO](./roles/cfo.md): 31 tools, 5 skills
 - [Community College Instructor](./roles/community-college-instructor.md): 31 tools, 5 skills
 - [Wellness Coach](./roles/wellness-coach.md): 31 tools, 5 skills
 - [Test Prep Tutor](./roles/test-prep-tutor.md): 30 tools, 5 skills
 - [Financial Planning & Analysis Manager](./roles/financial-planning-analysis-manager.md): 29 tools, 5 skills
+- [Branch Office Manager](./roles/branch-office-manager.md): 27 tools, 5 skills
 - [Financial Managers](./roles/financial-managers.md): 27 tools, 5 skills
-- [Branch Office Manager](./roles/branch-office-manager.md): 26 tools, 5 skills
 - [Engineers](./roles/engineers.md): 26 tools, 5 skills
 - [Fashion Designer](./roles/fashion-designer.md): 26 tools, 5 skills
 - [Financial Specialists](./roles/financial-specialists.md): 25 tools, 5 skills
 - [Operations Specialties Managers](./roles/operations-specialties-managers.md): 25 tools, 5 skills
 - [Postsecondary Teachers](./roles/postsecondary-teachers.md): 25 tools, 5 skills
+- [Employee Relations Manager](./roles/employee-relations-manager.md): 24 tools, 5 skills
 - [Other Education Roles](./roles/other-education-roles.md): 24 tools, 5 skills
-- [Employee Relations Manager](./roles/employee-relations-manager.md): 23 tools, 5 skills
 - [Writers and Authors](./roles/writers-and-authors.md): 23 tools, 5 skills
 - [Ecommerce Seller](./roles/e-commerce-seller.md): 22 tools, 5 skills
 - [Investment Portfolio Manager](./roles/investment-portfolio-manager.md): 22 tools, 5 skills
@@ -78,8 +78,8 @@ Generated at: 2026-03-21T13:08:12.006Z
 - [Logistics Operations Planner](./roles/logistics-operations-planner.md): 18 tools, 5 skills
 - [Other Arts Roles](./roles/other-arts-roles.md): 18 tools, 5 skills
 - [Restaurant General Manager](./roles/restaurant-general-manager.md): 18 tools, 5 skills
+- [Interior Designer](./roles/interior-designer.md): 17 tools, 5 skills
 - [TV News Reporter](./roles/tv-news-reporter.md): 17 tools, 5 skills
-- [Interior Designer](./roles/interior-designer.md): 16 tools, 5 skills
 - [Corporate Tax Manager](./roles/corporate-tax-manager.md): 15 tools, 5 skills
 - [Art and Design Workers](./roles/art-and-design-workers.md): 14 tools, 5 skills
 - [Customer Success Manager](./roles/customer-success-manager.md): 14 tools, 5 skills

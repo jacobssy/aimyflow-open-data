@@ -1,6 +1,6 @@
 # Bibliotecario de referencia universitaria
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/university-library-reference-librarian)
 
 ## Resumen
 
@@ -17,13 +17,13 @@
 
 ## Herramientas relacionadas
 
-- [languagetool-org](https://www.aimyflow.com/es/ai/languagetool-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): LanguageTool es un asistente de escritura y gramática con IA que ayuda a revisar gramática, ortografía, puntuación y estilo en más de 30 idiomas.
+- [languagetool-org](https://www.aimyflow.com/es/ai/languagetool-org): LanguageTool es un asistente de escritura y gramática con IA que ayuda a revisar gramática, ortografía, puntuación y estilo en más de 30 idiomas.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/university-library-reference-librarian)
 
 ## Notas
 

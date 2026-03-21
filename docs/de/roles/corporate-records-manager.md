@@ -1,6 +1,6 @@
 # Manager für Unternehmensdokumentation
 
-[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_de)
+[Vollständige Rollen-Seite auf AimyFlow öffnen](https://www.aimyflow.com/de/role/corporate-records-manager)
 
 ## Überblick
 
@@ -17,13 +17,13 @@
 
 ## Passende Tools
 
-- [bolt-new](https://www.aimyflow.com/de/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_de): Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
+- [bolt-new](https://www.aimyflow.com/de/ai/bolt-new): Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
 
 ## Auf AimyFlow fortfahren
 
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_de)
-- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_de)
-- [Community-Votings ansehen](https://www.aimyflow.com/de/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_de)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Alle Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Community-Votings ansehen](https://www.aimyflow.com/de/role/corporate-records-manager)
 
 ## Hinweise
 

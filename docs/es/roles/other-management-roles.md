@@ -1,6 +1,6 @@
 # Otros roles de gestión
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/Other-Management-Roles)
 
 ## Resumen
 
@@ -17,20 +17,20 @@
 
 ## Herramientas relacionadas
 
-- [asksurf-ai](https://www.aimyflow.com/es/ai/asksurf-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Surf es una plataforma de investigación cripto impulsada por IA que ayuda a traders e inversores a analizar mercados, tendencias y oportunidades en criptomonedas. En la era de la IA, ayuda a sintetizar información cambiante y responder a señales del mercado con mayor rapidez.
-- [create-kwakwa-com](https://www.aimyflow.com/es/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): KwaKwa Course Creator es una plataforma con IA que ayuda a crear y vender cursos sociales mobile-first rápidamente, ideal para coaches, creadores y expertos en una materia. En la era de la IA, acorta la distancia entre conocimiento y monetización para quienes crean productos educativos digitales.
-- [createanything-com](https://www.aimyflow.com/es/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
-- [creativefabrica-com](https://www.aimyflow.com/es/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Creative Fabrica es un marketplace digital y plataforma de suscripción de tipografías, gráficos, manualidades y recursos de diseño que ayuda a creadores, diseñadores y vendedores print-on-demand a producir más rápido. En la era de la IA, ofrece una amplia base de recursos para acelerar la ideación, la personalización y la producción.
-- [demodazzle-com](https://www.aimyflow.com/es/ai/demodazzle-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): DemoDazzle es una plataforma de automatización de demos que ayuda a equipos a grabar acciones de producto, crear presentaciones con avatares de IA e involucrar prospectos mediante demos interactivas. En la era de la IA, permite escalar demos personalizadas sin repetir recorridos manuales.
-- [mindly-ai-com](https://www.aimyflow.com/es/ai/mindly-ai-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Mindly es un segundo cerebro con IA centrado en la privacidad que ayuda a organizar pensamientos, conectar ideas y gestionar conocimiento personal de forma más efectiva.
-- [monica-im](https://www.aimyflow.com/es/ai/monica-im?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Monica es un asistente de IA multimodelo que ayuda con chat, búsqueda, escritura y programación en navegador, escritorio y móvil.
-- [outlier-ai](https://www.aimyflow.com/es/ai/outlier-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Outlier es una plataforma que conecta freelancers cualificados con trabajos de entrenamiento de IA, permitiendo aportar feedback humano y conocimiento experto para mejorar modelos. Ofrece una forma flexible de monetizar la experiencia profesional mientras se contribuye al desarrollo de la IA.
+- [asksurf-ai](https://www.aimyflow.com/es/ai/asksurf-ai): Surf es una plataforma de investigación cripto impulsada por IA que ayuda a traders e inversores a analizar mercados, tendencias y oportunidades en criptomonedas. En la era de la IA, ayuda a sintetizar información cambiante y responder a señales del mercado con mayor rapidez.
+- [create-kwakwa-com](https://www.aimyflow.com/es/ai/create-kwakwa-com): KwaKwa Course Creator es una plataforma con IA que ayuda a crear y vender cursos sociales mobile-first rápidamente, ideal para coaches, creadores y expertos en una materia. En la era de la IA, acorta la distancia entre conocimiento y monetización para quienes crean productos educativos digitales.
+- [createanything-com](https://www.aimyflow.com/es/ai/createanything-com): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
+- [creativefabrica-com](https://www.aimyflow.com/es/ai/creativefabrica-com): Creative Fabrica es un marketplace digital y plataforma de suscripción de tipografías, gráficos, manualidades y recursos de diseño que ayuda a creadores, diseñadores y vendedores print-on-demand a producir más rápido. En la era de la IA, ofrece una amplia base de recursos para acelerar la ideación, la personalización y la producción.
+- [demodazzle-com](https://www.aimyflow.com/es/ai/demodazzle-com): DemoDazzle es una plataforma de automatización de demos que ayuda a equipos a grabar acciones de producto, crear presentaciones con avatares de IA e involucrar prospectos mediante demos interactivas. En la era de la IA, permite escalar demos personalizadas sin repetir recorridos manuales.
+- [mindly-ai-com](https://www.aimyflow.com/es/ai/mindly-ai-com): Mindly es un segundo cerebro con IA centrado en la privacidad que ayuda a organizar pensamientos, conectar ideas y gestionar conocimiento personal de forma más efectiva.
+- [monica-im](https://www.aimyflow.com/es/ai/monica-im): Monica es un asistente de IA multimodelo que ayuda con chat, búsqueda, escritura y programación en navegador, escritorio y móvil.
+- [outlier-ai](https://www.aimyflow.com/es/ai/outlier-ai): Outlier es una plataforma que conecta freelancers cualificados con trabajos de entrenamiento de IA, permitiendo aportar feedback humano y conocimiento experto para mejorar modelos. Ofrece una forma flexible de monetizar la experiencia profesional mientras se contribuye al desarrollo de la IA.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Other-Management-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/Other-Management-Roles)
 
 ## Notas
 

@@ -1,6 +1,6 @@
 # 金融事務員
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Financial-Clerks?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Financial-Clerks)
 
 ## 概要
 
@@ -17,14 +17,14 @@
 
 ## 関連ツール
 
-- [imyfone-com](https://www.aimyflow.com/ja/ai/imyfone-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iMyFoneは、データ復旧、端末ロック解除、システム修復、モバイル・PCデータ管理を支援するユーティリティソフト平台です。iOS、Android、Windows、Macで保守作業を簡単に進められます。
-- [otter-ai](https://www.aimyflow.com/ja/ai/otter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Otterは、リアルタイム文字起こし、要約、チャット、インサイト、アクション項目を提供するAI会議アシスタントです。
+- [imyfone-com](https://www.aimyflow.com/ja/ai/imyfone-com): iMyFoneは、データ復旧、端末ロック解除、システム修復、モバイル・PCデータ管理を支援するユーティリティソフト平台です。iOS、Android、Windows、Macで保守作業を簡単に進められます。
+- [otter-ai](https://www.aimyflow.com/ja/ai/otter-ai): Otterは、リアルタイム文字起こし、要約、チャット、インサイト、アクション項目を提供するAI会議アシスタントです。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Financial-Clerks?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Financial-Clerks)
 
 ## 補足
 

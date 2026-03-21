@@ -1,10 +1,10 @@
 # ポッドキャストプロデューサー
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/podcast-producer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/podcast-producer)
 
 ## 概要
 
-- 一致ツール数: 109
+- 一致ツール数: 110
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [aimusicgen-me](https://www.aimyflow.com/ja/ai/aimusicgen-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Music Gen は、テキストプロンプトを楽曲、BGM、ボーカルトラックに変換する AI 音楽生成ツールで、主に YouTuber、ストリーマー、ポッドキャスター、Vlogger などのコンテンツクリエイター向けです。AI 主導のメディア制作ワークフローにおいては、動画編集者やクリエイターが、ストック音源を手作業で探すよりも速く、カスタムのロイヤリティフリー音源を制作するのに役立ちます。
-- [aimusixer-me](https://www.aimyflow.com/ja/ai/aimusixer-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIMusixer は、テキスト、歌詞、スタイル指定、または音声/オーディオから曲を作成し、MP3 の楽曲または MP4 の動画としてダウンロードできる AI 音楽生成ツールで、主に音楽クリエイターや愛好家向けです。ミュージシャン、コンテンツクリエイター、クリエイティブチームにとって、粗いアイデアをドラフト音源やシンプルなミュージックビデオへより素早く変換することで、初期のアイデア出しを加速できます。
-- [airmusic-ai](https://www.aimyflow.com/ja/ai/airmusic-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AirMusicは、AIによる音楽生成・編集プラットフォームであり、主に音楽クリエイター、ミュージシャン、コンテンツ制作者向けに、オリジナル楽曲、インストゥルメンタル、BGM、カバー、ミュージックビデオをオンラインで制作できるよう支援します。クリエイター、マーケター、映像制作チームにとっては、歌詞生成、ボーカル除去、スタイルベースのトラック作成といった機能により、ショートフォームコンテンツや商用プロジェクト向けに最適化された音源の制作を迅速化できます。
-- [aisongmaker-io](https://www.aimyflow.com/ja/ai/aisongmaker-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Song Maker は、ミュージシャン、ソングライター、コンテンツクリエイター、メディアチーム向けの AI 音楽生成ツールで、テキスト、歌詞、またはアップロードした音声からロイヤリティフリーの楽曲を作成し、歌詞生成、ボーカル除去、MIDI 変換、カバー作成などの機能も提供します。AI 主導のコンテンツ制作ワークフローにおいては、高度な音楽制作スキルがなくても、クリエイターやプロデューサーがカスタムトラック、デモ、BGM をより迅速に作成するのに役立ちます。
-- [aitestkitchen-withgoogle-com-tools-video-fx](https://www.aimyflow.com/ja/ai/aitestkitchen-withgoogle-com-tools-video-fx?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Flow は Google の AI クリエイティブスタジオ兼映像制作ツールであり、主に映画制作者やビジュアルストーリーテラー向けに、シネマティックな動画や画像の生成、洗練、構成を支援します。AI 支援制作においては、オブジェクトの差し替え、動画の延長、カメラ演出などの制御された変更を可能にすることで、監督、編集者、コンテンツクリエイターのアイデア創出やシーンの反復作業を加速できます。
-- [aivideogenerator-me](https://www.aimyflow.com/ja/ai/aivideogenerator-me?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Luma AI Video Generatorは、Dream Machineを搭載した無料のオンラインAI動画ツールで、主に迅速かつ高品質な動画生成を必要とするクリエイターやプロフェッショナル向けに、テキストプロンプトからリアルな動画を作成できるよう支援します。コンテンツチーム、マーケター、動画制作者にとっては、文章によるアイデアを視覚的な出力へ変換し、手作業での編集を減らすことで、コンセプト検証やドラフト制作を加速できます。
-- [aivocal-io](https://www.aimyflow.com/ja/ai/aivocal-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIVocalは、クリエイター、ポッドキャスター、話者、その他の音声を重視するプロフェッショナルが、音声の生成、音声クローン、オーディオブックやポッドキャストの作成、音声の文字起こし、ボーカルのオンライン編集を行えるよう支援するAI音声・音響プラットフォームです。コンテンツチームやプロデューサーにとって、これらのAIツールは、スクリプト作成、ナレーション、文字起こし、ポストプロダクションの作業を効率化し、手作業による録音や編集の必要性を減らします。
-- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/ja/ai/aivoicegen-net-voice-cloning?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Higgs AudioのAI音声クローンツールは、短い参照音声サンプルと入力テキストからクローン音声を生成できる機能で、主に音声コンテンツを制作するクリエイターやチーム向けです。AI支援型のメディア制作ワークフローでは、声優、マルチメディア制作者、コンテンツクリエイターが、一貫した声のスタイルを保ちながら、音声コンテンツの試作やスケールをより迅速に行うのに役立ちます。
+- [aimusicgen-me](https://www.aimyflow.com/ja/ai/aimusicgen-me): AI Music Gen は、テキストプロンプトを楽曲、BGM、ボーカルトラックに変換する AI 音楽生成ツールで、主に YouTuber、ストリーマー、ポッドキャスター、Vlogger などのコンテンツクリエイター向けです。AI 主導のメディア制作ワークフローにおいては、動画編集者やクリエイターが、ストック音源を手作業で探すよりも速く、カスタムのロイヤリティフリー音源を制作するのに役立ちます。
+- [aimusixer-me](https://www.aimyflow.com/ja/ai/aimusixer-me): AIMusixer は、テキスト、歌詞、スタイル指定、または音声/オーディオから曲を作成し、MP3 の楽曲または MP4 の動画としてダウンロードできる AI 音楽生成ツールで、主に音楽クリエイターや愛好家向けです。ミュージシャン、コンテンツクリエイター、クリエイティブチームにとって、粗いアイデアをドラフト音源やシンプルなミュージックビデオへより素早く変換することで、初期のアイデア出しを加速できます。
+- [airmusic-ai](https://www.aimyflow.com/ja/ai/airmusic-ai): AirMusicは、AIによる音楽生成・編集プラットフォームであり、主に音楽クリエイター、ミュージシャン、コンテンツ制作者向けに、オリジナル楽曲、インストゥルメンタル、BGM、カバー、ミュージックビデオをオンラインで制作できるよう支援します。クリエイター、マーケター、映像制作チームにとっては、歌詞生成、ボーカル除去、スタイルベースのトラック作成といった機能により、ショートフォームコンテンツや商用プロジェクト向けに最適化された音源の制作を迅速化できます。
+- [aisongmaker-io](https://www.aimyflow.com/ja/ai/aisongmaker-io): AI Song Maker は、ミュージシャン、ソングライター、コンテンツクリエイター、メディアチーム向けの AI 音楽生成ツールで、テキスト、歌詞、またはアップロードした音声からロイヤリティフリーの楽曲を作成し、歌詞生成、ボーカル除去、MIDI 変換、カバー作成などの機能も提供します。AI 主導のコンテンツ制作ワークフローにおいては、高度な音楽制作スキルがなくても、クリエイターやプロデューサーがカスタムトラック、デモ、BGM をより迅速に作成するのに役立ちます。
+- [aitestkitchen-withgoogle-com-tools-video-fx](https://www.aimyflow.com/ja/ai/aitestkitchen-withgoogle-com-tools-video-fx): Flow は Google の AI クリエイティブスタジオ兼映像制作ツールであり、主に映画制作者やビジュアルストーリーテラー向けに、シネマティックな動画や画像の生成、洗練、構成を支援します。AI 支援制作においては、オブジェクトの差し替え、動画の延長、カメラ演出などの制御された変更を可能にすることで、監督、編集者、コンテンツクリエイターのアイデア創出やシーンの反復作業を加速できます。
+- [aivideogenerator-me](https://www.aimyflow.com/ja/ai/aivideogenerator-me): Luma AI Video Generatorは、Dream Machineを搭載した無料のオンラインAI動画ツールで、主に迅速かつ高品質な動画生成を必要とするクリエイターやプロフェッショナル向けに、テキストプロンプトからリアルな動画を作成できるよう支援します。コンテンツチーム、マーケター、動画制作者にとっては、文章によるアイデアを視覚的な出力へ変換し、手作業での編集を減らすことで、コンセプト検証やドラフト制作を加速できます。
+- [aivocal-io](https://www.aimyflow.com/ja/ai/aivocal-io): AIVocalは、クリエイター、ポッドキャスター、話者、その他の音声を重視するプロフェッショナルが、音声の生成、音声クローン、オーディオブックやポッドキャストの作成、音声の文字起こし、ボーカルのオンライン編集を行えるよう支援するAI音声・音響プラットフォームです。コンテンツチームやプロデューサーにとって、これらのAIツールは、スクリプト作成、ナレーション、文字起こし、ポストプロダクションの作業を効率化し、手作業による録音や編集の必要性を減らします。
+- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/ja/ai/aivoicegen-net-voice-cloning): Higgs AudioのAI音声クローンツールは、短い参照音声サンプルと入力テキストからクローン音声を生成できる機能で、主に音声コンテンツを制作するクリエイターやチーム向けです。AI支援型のメディア制作ワークフローでは、声優、マルチメディア制作者、コンテンツクリエイターが、一貫した声のスタイルを保ちながら、音声コンテンツの試作やスケールをより迅速に行うのに役立ちます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/podcast-producer?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/podcast-producer)
 
 ## 補足
 

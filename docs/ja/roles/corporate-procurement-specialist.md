@@ -1,6 +1,6 @@
 # 企業調達スペシャリスト
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/corporate-procurement-specialist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/corporate-procurement-specialist)
 
 ## 概要
 
@@ -17,17 +17,17 @@
 
 ## 関連ツール
 
-- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
-- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
-- [qoder-com](https://www.aimyflow.com/ja/ai/qoder-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Qoderは、AIエージェントでコード理解と開発タスク実行を支援するエージェント型コーディングプラットフォームです。主にプロのソフトウェアエンジニアや開発チーム向けで、コード文脈を活用して開発効率とタスク完了の信頼性を高めます。
-- [rippling-com](https://www.aimyflow.com/ja/ai/rippling-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Ripplingは、人事・IT・財務を一元化し、従業員管理、デバイス管理、給与計算、コンプライアンス対応を1つのシステムで行えるワークフォース管理プラットフォーム。主に成長企業やオペレーションチーム向けで、AI時代に人事・総務の手作業連携を減らし、横断業務を効率化します。
-- [teediy-com](https://www.aimyflow.com/ja/ai/teediy-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): TeeDIYは、オリジナルTシャツを簡単にデザインして注文できるカスタムアパレルサービスで、ギフト需要や小規模グッズ制作にも対応します。
+- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
+- [ifoto-ai](https://www.aimyflow.com/ja/ai/ifoto-ai): iFotoは、画像補正、背景変更、高品質なビジュアル作成をオンラインで行えるAI写真編集スタジオです。EC事業者やマーケター、クリエイターの制作作業を効率化します。
+- [qoder-com](https://www.aimyflow.com/ja/ai/qoder-com): Qoderは、AIエージェントでコード理解と開発タスク実行を支援するエージェント型コーディングプラットフォームです。主にプロのソフトウェアエンジニアや開発チーム向けで、コード文脈を活用して開発効率とタスク完了の信頼性を高めます。
+- [rippling-com](https://www.aimyflow.com/ja/ai/rippling-com): Ripplingは、人事・IT・財務を一元化し、従業員管理、デバイス管理、給与計算、コンプライアンス対応を1つのシステムで行えるワークフォース管理プラットフォーム。主に成長企業やオペレーションチーム向けで、AI時代に人事・総務の手作業連携を減らし、横断業務を効率化します。
+- [teediy-com](https://www.aimyflow.com/ja/ai/teediy-com): TeeDIYは、オリジナルTシャツを簡単にデザインして注文できるカスタムアパレルサービスで、ギフト需要や小規模グッズ制作にも対応します。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/corporate-procurement-specialist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/corporate-procurement-specialist)
 
 ## 補足
 

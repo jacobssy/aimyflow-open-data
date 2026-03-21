@@ -1,6 +1,6 @@
 # 輸送責任者
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Transport-Leads?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Transport-Leads)
 
 ## 概要
 
@@ -17,14 +17,14 @@
 
 ## 関連ツール
 
-- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
-- [replit-com](https://www.aimyflow.com/ja/ai/replit-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Replitは、ブラウザ上でアプリやWebサイトを構築できるAI開発プラットフォームです。主に開発者、起業家、素早く開発したいチーム向けで、アイデアから試作品、デプロイまでの流れを短縮します。
+- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
+- [replit-com](https://www.aimyflow.com/ja/ai/replit-com): Replitは、ブラウザ上でアプリやWebサイトを構築できるAI開発プラットフォームです。主に開発者、起業家、素早く開発したいチーム向けで、アイデアから試作品、デプロイまでの流れを短縮します。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Transport-Leads?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Transport-Leads)
 
 ## 補足
 

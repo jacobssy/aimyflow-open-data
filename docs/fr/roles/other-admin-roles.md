@@ -1,6 +1,6 @@
 # Autres postes administratifs
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Other-Admin-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Other-Admin-Roles)
 
 ## Vue d’ensemble
 
@@ -17,16 +17,16 @@
 
 ## Outils associés
 
-- [aifaceswap-io](https://www.aimyflow.com/fr/ai/aifaceswap-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): AI Face Swap est un outil de face swap dans le navigateur qui aide les créateurs occasionnels à modifier instantanément des photos en ligne sans inscription. À l’ère de l’IA, il rend l’expérimentation visuelle légère plus rapide et accessible pour le divertissement et les contenus sociaux.
-- [jotform-com](https://www.aimyflow.com/fr/ai/jotform-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Jotform est un créateur de formulaires en ligne qui aide les organisations à créer des formulaires et sondages pour collecter inscriptions, candidatures, commandes et paiements.
-- [monica-im](https://www.aimyflow.com/fr/ai/monica-im?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Monica est un assistant IA multi-modèles qui aide pour le chat, la recherche, l’écriture et le code sur navigateur, desktop et mobile.
-- [replit-com](https://www.aimyflow.com/fr/ai/replit-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Replit est une plateforme de développement assistée par IA qui aide à créer des applications et sites web dans le navigateur, surtout pour les développeurs, fondateurs et équipes qui livrent vite. Elle réduit le temps entre l’idée et le prototype fonctionnel avec moins de configuration.
+- [aifaceswap-io](https://www.aimyflow.com/fr/ai/aifaceswap-io): AI Face Swap est un outil de face swap dans le navigateur qui aide les créateurs occasionnels à modifier instantanément des photos en ligne sans inscription. À l’ère de l’IA, il rend l’expérimentation visuelle légère plus rapide et accessible pour le divertissement et les contenus sociaux.
+- [jotform-com](https://www.aimyflow.com/fr/ai/jotform-com): Jotform est un créateur de formulaires en ligne qui aide les organisations à créer des formulaires et sondages pour collecter inscriptions, candidatures, commandes et paiements.
+- [monica-im](https://www.aimyflow.com/fr/ai/monica-im): Monica est un assistant IA multi-modèles qui aide pour le chat, la recherche, l’écriture et le code sur navigateur, desktop et mobile.
+- [replit-com](https://www.aimyflow.com/fr/ai/replit-com): Replit est une plateforme de développement assistée par IA qui aide à créer des applications et sites web dans le navigateur, surtout pour les développeurs, fondateurs et équipes qui livrent vite. Elle réduit le temps entre l’idée et le prototype fonctionnel avec moins de configuration.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Other-Admin-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Other-Admin-Roles)
 
 ## Notes
 

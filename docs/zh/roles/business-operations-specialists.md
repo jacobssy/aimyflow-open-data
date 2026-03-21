@@ -1,6 +1,6 @@
 # 业务运营专员
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/Business-Operations-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/Business-Operations-Specialists)
 
 ## 概览
 
@@ -17,20 +17,20 @@
 
 ## 匹配工具
 
-- [ads-tiktok-com](https://www.aimyflow.com/zh/ai/ads-tiktok-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): TikTok for Business 是一个广告投放平台，帮助品牌、代理商和创作者创建、管理并优化适配 TikTok 形式与受众的营销活动。在 AI 时代，它帮助营销人员更快测试创意，并通过自动化优化和受众洞察提升广告效果。
-- [airtable-com-platform](https://www.aimyflow.com/zh/ai/airtable-com-platform?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Airtable Platform 是一个无代码应用平台，帮助运营和跨职能团队构建业务应用、连接数据并用 AI 自动化工作流。在 AI 时代，它让知识工作者无需重度工程支持，也能把结构化信息转化为可扩展系统。
-- [asksurf-ai](https://www.aimyflow.com/zh/ai/asksurf-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Surf 是一个 AI 驱动的加密研究平台，帮助交易员和投资者分析加密货币市场、趋势和交易机会。在 AI 时代，它帮助加密研究人员更快整合高速变化的信息，并更及时响应市场信号。
-- [briefmymeeting-com](https://www.aimyflow.com/zh/ai/briefmymeeting-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Brief My Meeting 是 AI 会议准备工具，可基于邮箱和日历内容生成个性化会议简报，适合高管、销售和客户团队。它帮助用户更充分地准备会议，减少手动搜集背景信息的时间。
-- [clamor-social](https://www.aimyflow.com/zh/ai/clamor-social?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Clamor 是社交平台，帮助用户围绕内容与社区进行创作、分享和互动，适合创作者、品牌和线上受众。在 AI 时代，它有助于简化内容流程，提升社区与营销团队的持续互动。
-- [co-dev](https://www.aimyflow.com/zh/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Codev 是 AI 应用构建平台，可将文字描述生成可上线的全栈 Next.js 应用，适合创始人、产品团队和开发者。它大幅减少搭建工作，加速从想法到可部署产品的过程。
-- [create-kwakwa-com](https://www.aimyflow.com/zh/ai/create-kwakwa-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): KwaKwa Course Creator 是 AI 课程创作平台，帮助用户快速创建并销售移动优先的社交课程，适合教练、创作者和领域专家。它缩短了专业知识到商业变现的距离。
-- [createanything-com](https://www.aimyflow.com/zh/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Anything 是 AI 应用构建平台，用户只需描述需求即可生成网站、应用、工具和数字产品，适合创始人、独立创客和非技术用户。它让产品创作者以更少工程依赖更快测试并发布想法。
+- [ads-tiktok-com](https://www.aimyflow.com/zh/ai/ads-tiktok-com): TikTok for Business 是一个广告投放平台，帮助品牌、代理商和创作者创建、管理并优化适配 TikTok 形式与受众的营销活动。在 AI 时代，它帮助营销人员更快测试创意，并通过自动化优化和受众洞察提升广告效果。
+- [airtable-com-platform](https://www.aimyflow.com/zh/ai/airtable-com-platform): Airtable Platform 是一个无代码应用平台，帮助运营和跨职能团队构建业务应用、连接数据并用 AI 自动化工作流。在 AI 时代，它让知识工作者无需重度工程支持，也能把结构化信息转化为可扩展系统。
+- [asksurf-ai](https://www.aimyflow.com/zh/ai/asksurf-ai): Surf 是一个 AI 驱动的加密研究平台，帮助交易员和投资者分析加密货币市场、趋势和交易机会。在 AI 时代，它帮助加密研究人员更快整合高速变化的信息，并更及时响应市场信号。
+- [briefmymeeting-com](https://www.aimyflow.com/zh/ai/briefmymeeting-com): Brief My Meeting 是 AI 会议准备工具，可基于邮箱和日历内容生成个性化会议简报，适合高管、销售和客户团队。它帮助用户更充分地准备会议，减少手动搜集背景信息的时间。
+- [clamor-social](https://www.aimyflow.com/zh/ai/clamor-social): Clamor 是社交平台，帮助用户围绕内容与社区进行创作、分享和互动，适合创作者、品牌和线上受众。在 AI 时代，它有助于简化内容流程，提升社区与营销团队的持续互动。
+- [co-dev](https://www.aimyflow.com/zh/ai/co-dev): Codev 是 AI 应用构建平台，可将文字描述生成可上线的全栈 Next.js 应用，适合创始人、产品团队和开发者。它大幅减少搭建工作，加速从想法到可部署产品的过程。
+- [create-kwakwa-com](https://www.aimyflow.com/zh/ai/create-kwakwa-com): KwaKwa Course Creator 是 AI 课程创作平台，帮助用户快速创建并销售移动优先的社交课程，适合教练、创作者和领域专家。它缩短了专业知识到商业变现的距离。
+- [createanything-com](https://www.aimyflow.com/zh/ai/createanything-com): Anything 是 AI 应用构建平台，用户只需描述需求即可生成网站、应用、工具和数字产品，适合创始人、独立创客和非技术用户。它让产品创作者以更少工程依赖更快测试并发布想法。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/Business-Operations-Specialists?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/Business-Operations-Specialists)
 
 ## 说明
 

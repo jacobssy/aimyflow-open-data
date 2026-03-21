@@ -340,15 +340,6 @@ function buildLocaleSiteUrl(siteUrl, locale, pathname) {
   return `${siteUrl}/${locale}${pathname}`;
 }
 
-function withUtm(url, content) {
-  const parsed = new URL(url);
-  parsed.searchParams.set('utm_source', 'github');
-  parsed.searchParams.set('utm_medium', 'repo');
-  parsed.searchParams.set('utm_campaign', 'open_data');
-  parsed.searchParams.set('utm_content', content);
-  return parsed.toString();
-}
-
 function getSiteOrigin(url) {
   return new URL(url).origin;
 }
@@ -488,7 +479,7 @@ function renderRoleDoc(roleRecord, locale) {
   const lines = [
     `# ${roleRecord.title[locale]}`,
     '',
-    `[${copy.openRolePage}](${withUtm(roleRecord.aimyflow_urls[locale], `role_doc_top_${locale}`)})`,
+    `[${copy.openRolePage}](${roleRecord.aimyflow_urls[locale]})`,
     '',
     `## ${copy.snapshot}`,
     '',
@@ -511,7 +502,7 @@ function renderRoleDoc(roleRecord, locale) {
     lines.push(`## ${copy.matchedTools}`, '');
 
     for (const tool of roleRecord.featured_tools) {
-      lines.push(`- [${tool.name}](${withUtm(tool.aimyflow_urls[locale], `role_doc_tool_${locale}`)}): ${tool.summary[locale]}`);
+      lines.push(`- [${tool.name}](${tool.aimyflow_urls[locale]}): ${tool.summary[locale]}`);
     }
 
     lines.push('');
@@ -519,13 +510,13 @@ function renderRoleDoc(roleRecord, locale) {
 
   lines.push(`## ${copy.nextSteps}`, '');
   lines.push(
-    `- [${copy.exploreTools}](${withUtm(buildLocaleSiteUrl(siteOrigin, locale, '/explore'), `role_doc_explore_${locale}`)})`,
+    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteOrigin, locale, '/explore')})`,
   );
   lines.push(
-    `- [${copy.browseRoles}](${withUtm(buildLocaleSiteUrl(siteOrigin, locale, '/roles'), `role_doc_roles_${locale}`)})`,
+    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteOrigin, locale, '/roles')})`,
   );
   lines.push(
-    `- [${copy.seeCommunityVotes}](${withUtm(roleRecord.aimyflow_urls[locale], `role_doc_votes_${locale}`)})`,
+    `- [${copy.seeCommunityVotes}](${roleRecord.aimyflow_urls[locale]})`,
   );
   lines.push('');
 
@@ -551,9 +542,9 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     '',
     `## ${copy.nextSteps}`,
     '',
-    `- [${copy.exploreTools}](${withUtm(buildLocaleSiteUrl(siteUrl, locale, '/explore'), `docs_index_explore_${locale}`)})`,
-    `- [${copy.browseRoles}](${withUtm(buildLocaleSiteUrl(siteUrl, locale, '/roles'), `docs_index_roles_${locale}`)})`,
-    `- [${copy.seeCommunityVotes}](${withUtm(buildLocaleSiteUrl(siteUrl, locale, '/roles'), `docs_index_votes_${locale}`)})`,
+    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
+    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
+    `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
     '',
     `## ${copy.rolesHeading}`,
     '',
@@ -585,9 +576,9 @@ function renderRootDocsIndex(stats) {
     '',
     `## Continue on AimyFlow`,
     '',
-    `- [Explore all AI tools](${withUtm(buildLocaleSiteUrl(siteUrl, 'en', '/explore'), 'root_docs_explore_en')})`,
-    `- [Browse roles and workflows](${withUtm(buildLocaleSiteUrl(siteUrl, 'en', '/roles'), 'root_docs_roles_en')})`,
-    `- [See community voting](${withUtm(buildLocaleSiteUrl(siteUrl, 'en', '/roles'), 'root_docs_votes_en')})`,
+    `- [Explore all AI tools](${buildLocaleSiteUrl(siteUrl, 'en', '/explore')})`,
+    `- [Browse roles and workflows](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
+    `- [See community voting](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
     '',
     `## ${LOCALE_COPY.en.localeIndexLabel}`,
     '',

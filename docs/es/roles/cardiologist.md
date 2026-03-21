@@ -1,6 +1,6 @@
 # Cardiólogo
 
-[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/cardiologist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_es)
+[Abrir la página completa del rol en AimyFlow](https://www.aimyflow.com/es/role/cardiologist)
 
 ## Resumen
 
@@ -17,16 +17,16 @@
 
 ## Herramientas relacionadas
 
-- [bolt-new](https://www.aimyflow.com/es/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
-- [dorascribe-ai](https://www.aimyflow.com/es/ai/dorascribe-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): DoraScribe es una herramienta de transcripción y escribano médico con IA que convierte las consultas de pacientes en notas SOAP y otros documentos de registro clínico para médicos y otros profesionales de la salud, con acceso móvil y manejo conforme a la HIPAA. Para médicos y equipos clínicos, puede reducir la carga de documentación y favorecer registros más precisos y consistentes, manteniendo la atención centrada en la atención al paciente.
-- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
-- [radily-ai](https://www.aimyflow.com/es/ai/radily-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_es): Radily es una herramienta de IA compatible con HIPAA que explica informes de TC, RM y radiografías en lenguaje claro, con resúmenes opcionales en video y preguntas de seguimiento sugeridas, principalmente para pacientes que intentan comprender de forma segura los resultados de sus estudios por imágenes. En la comunicación sanitaria habilitada por IA, puede ayudar a los radiólogos y a los médicos remitentes a reducir la confusión de los pacientes al ofrecer explicaciones más claras de los informes antes o después de las conversaciones clínicas.
+- [bolt-new](https://www.aimyflow.com/es/ai/bolt-new): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
+- [dorascribe-ai](https://www.aimyflow.com/es/ai/dorascribe-ai): DoraScribe es una herramienta de transcripción y escribano médico con IA que convierte las consultas de pacientes en notas SOAP y otros documentos de registro clínico para médicos y otros profesionales de la salud, con acceso móvil y manejo conforme a la HIPAA. Para médicos y equipos clínicos, puede reducir la carga de documentación y favorecer registros más precisos y consistentes, manteniendo la atención centrada en la atención al paciente.
+- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
+- [radily-ai](https://www.aimyflow.com/es/ai/radily-ai): Radily es una herramienta de IA compatible con HIPAA que explica informes de TC, RM y radiografías en lenguaje claro, con resúmenes opcionales en video y preguntas de seguimiento sugeridas, principalmente para pacientes que intentan comprender de forma segura los resultados de sus estudios por imágenes. En la comunicación sanitaria habilitada por IA, puede ayudar a los radiólogos y a los médicos remitentes a reducir la confusión de los pacientes al ofrecer explicaciones más claras de los informes antes o después de las conversaciones clínicas.
 
 ## Continuar en AimyFlow
 
-- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_es)
-- [Explorar todos los roles](https://www.aimyflow.com/es/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_es)
-- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/cardiologist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_es)
+- [Explorar todas las herramientas IA](https://www.aimyflow.com/es/explore)
+- [Explorar todos los roles](https://www.aimyflow.com/es/roles)
+- [Ver la votación de la comunidad](https://www.aimyflow.com/es/role/cardiologist)
 
 ## Notas
 

@@ -1,6 +1,6 @@
 # インディペンデント映画監督
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/independent-filmmaker?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/independent-filmmaker)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [aiocmaker-com](https://www.aimyflow.com/ja/ai/aiocmaker-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI OC Makerは、アーティスト、作家、ゲーマー、その他のクリエイターが、アニメ、ファンタジー、リアル調、ゲームアートなどのスタイルでオリジナルキャラクター、ビジュアルデザイン、キャラクターシートを生成できるよう支援するAIキャラクター作成プラットフォームです。ゲーム開発者、小説家、コミックアーティスト、イラストレーターにとって、テキストによる説明を複数の一貫性あるキャラクターバリエーションや参考資料に変換することで、初期のコンセプト設計や反復作業を迅速化できます。
-- [aisongmaker-io](https://www.aimyflow.com/ja/ai/aisongmaker-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Song Maker は、ミュージシャン、ソングライター、コンテンツクリエイター、メディアチーム向けの AI 音楽生成ツールで、テキスト、歌詞、またはアップロードした音声からロイヤリティフリーの楽曲を作成し、歌詞生成、ボーカル除去、MIDI 変換、カバー作成などの機能も提供します。AI 主導のコンテンツ制作ワークフローにおいては、高度な音楽制作スキルがなくても、クリエイターやプロデューサーがカスタムトラック、デモ、BGM をより迅速に作成するのに役立ちます。
-- [aitestkitchen-withgoogle-com-tools-video-fx](https://www.aimyflow.com/ja/ai/aitestkitchen-withgoogle-com-tools-video-fx?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Flow は Google の AI クリエイティブスタジオ兼映像制作ツールであり、主に映画制作者やビジュアルストーリーテラー向けに、シネマティックな動画や画像の生成、洗練、構成を支援します。AI 支援制作においては、オブジェクトの差し替え、動画の延長、カメラ演出などの制御された変更を可能にすることで、監督、編集者、コンテンツクリエイターのアイデア創出やシーンの反復作業を加速できます。
-- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/ja/ai/aivoicegen-net-voice-cloning?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Higgs AudioのAI音声クローンツールは、短い参照音声サンプルと入力テキストからクローン音声を生成できる機能で、主に音声コンテンツを制作するクリエイターやチーム向けです。AI支援型のメディア制作ワークフローでは、声優、マルチメディア制作者、コンテンツクリエイターが、一貫した声のスタイルを保ちながら、音声コンテンツの試作やスケールをより迅速に行うのに役立ちます。
-- [avatar-one](https://www.aimyflow.com/ja/ai/avatar-one?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Avatar.One は、ユーザーが性格、声、記憶、ロールプレイ機能を備えたカスタマイズ可能な 3D AI ガールフレンドを作成し、会話できるよう支援する AI コンパニオンプラットフォームで、主にバーチャルな companionship とキャラクター作成を求める人々に向けたものです。クリエイターやコミュニティマネージャーにとっては、AI ネイティブなキャラクター構築および公開ワークフローにより、インタラクティブなストーリーテリング、オーディエンスエンゲージメント、再利用可能な 3D アバターアセットを活用できます。
-- [basedlabs-ai](https://www.aimyflow.com/ja/ai/basedlabs-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BasedLabsは、複数のモデルと編集ツールを使って画像、動画、音声を生成できるAIコンテンツ作成プラットフォームで、主にクリエイター、マーケター、映画制作者、ソーシャルメディアチーム向けです。AI主導のクリエイティブワークフローでは、動画編集者、広告担当者、YouTubeクリエイターなどの役割におけるコンセプト立案やアセット制作を迅速化できます。
-- [beatviz-ai](https://www.aimyflow.com/ja/ai/beatviz-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): BeatViz は、ミュージシャンや音楽クリエイターが音声トラックやテキストプロンプトを、同期されたミュージックビデオ、オリジナル音楽、編集済みビジュアルへと変換できるよう支援する、AI 音楽動画ジェネレーター兼制作プラットフォームです。カスタマイズ可能なワークフローを備え、アーティスト、プロデューサー、ソーシャルメディアクリエイターにとって、AI によるビート分析とムード分析は、手動編集にかかる時間を削減しながら、リリースやプロモーション向けに一貫性のあるビジュアルコンテンツをより簡単に制作できるようにします。
-- [charactergen-app](https://www.aimyflow.com/ja/ai/charactergen-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): CharacterGen は、写真またはテキストの説明から、ターンアラウンド、表情シート、ポーズ、衣装リファレンスを含む完全なキャラクターデザイン一式を制作者が作成できるよう支援する AI キャラクタージェネレーターで、主にイラストレーター、アニメーター、ゲームチーム、作家向けのツールです。AI 支援のクリエイティブワークフローでは、初期のコンセプト開発を加速し、デザインやストーリーテリング作業において、シーン、アセット、引き継ぎ全体でのビジュアルの一貫性向上に役立ちます。
+- [aiocmaker-com](https://www.aimyflow.com/ja/ai/aiocmaker-com): AI OC Makerは、アーティスト、作家、ゲーマー、その他のクリエイターが、アニメ、ファンタジー、リアル調、ゲームアートなどのスタイルでオリジナルキャラクター、ビジュアルデザイン、キャラクターシートを生成できるよう支援するAIキャラクター作成プラットフォームです。ゲーム開発者、小説家、コミックアーティスト、イラストレーターにとって、テキストによる説明を複数の一貫性あるキャラクターバリエーションや参考資料に変換することで、初期のコンセプト設計や反復作業を迅速化できます。
+- [aisongmaker-io](https://www.aimyflow.com/ja/ai/aisongmaker-io): AI Song Maker は、ミュージシャン、ソングライター、コンテンツクリエイター、メディアチーム向けの AI 音楽生成ツールで、テキスト、歌詞、またはアップロードした音声からロイヤリティフリーの楽曲を作成し、歌詞生成、ボーカル除去、MIDI 変換、カバー作成などの機能も提供します。AI 主導のコンテンツ制作ワークフローにおいては、高度な音楽制作スキルがなくても、クリエイターやプロデューサーがカスタムトラック、デモ、BGM をより迅速に作成するのに役立ちます。
+- [aitestkitchen-withgoogle-com-tools-video-fx](https://www.aimyflow.com/ja/ai/aitestkitchen-withgoogle-com-tools-video-fx): Flow は Google の AI クリエイティブスタジオ兼映像制作ツールであり、主に映画制作者やビジュアルストーリーテラー向けに、シネマティックな動画や画像の生成、洗練、構成を支援します。AI 支援制作においては、オブジェクトの差し替え、動画の延長、カメラ演出などの制御された変更を可能にすることで、監督、編集者、コンテンツクリエイターのアイデア創出やシーンの反復作業を加速できます。
+- [aivoicegen-net-voice-cloning](https://www.aimyflow.com/ja/ai/aivoicegen-net-voice-cloning): Higgs AudioのAI音声クローンツールは、短い参照音声サンプルと入力テキストからクローン音声を生成できる機能で、主に音声コンテンツを制作するクリエイターやチーム向けです。AI支援型のメディア制作ワークフローでは、声優、マルチメディア制作者、コンテンツクリエイターが、一貫した声のスタイルを保ちながら、音声コンテンツの試作やスケールをより迅速に行うのに役立ちます。
+- [avatar-one](https://www.aimyflow.com/ja/ai/avatar-one): Avatar.One は、ユーザーが性格、声、記憶、ロールプレイ機能を備えたカスタマイズ可能な 3D AI ガールフレンドを作成し、会話できるよう支援する AI コンパニオンプラットフォームで、主にバーチャルな companionship とキャラクター作成を求める人々に向けたものです。クリエイターやコミュニティマネージャーにとっては、AI ネイティブなキャラクター構築および公開ワークフローにより、インタラクティブなストーリーテリング、オーディエンスエンゲージメント、再利用可能な 3D アバターアセットを活用できます。
+- [basedlabs-ai](https://www.aimyflow.com/ja/ai/basedlabs-ai): BasedLabsは、複数のモデルと編集ツールを使って画像、動画、音声を生成できるAIコンテンツ作成プラットフォームで、主にクリエイター、マーケター、映画制作者、ソーシャルメディアチーム向けです。AI主導のクリエイティブワークフローでは、動画編集者、広告担当者、YouTubeクリエイターなどの役割におけるコンセプト立案やアセット制作を迅速化できます。
+- [beatviz-ai](https://www.aimyflow.com/ja/ai/beatviz-ai): BeatViz は、ミュージシャンや音楽クリエイターが音声トラックやテキストプロンプトを、同期されたミュージックビデオ、オリジナル音楽、編集済みビジュアルへと変換できるよう支援する、AI 音楽動画ジェネレーター兼制作プラットフォームです。カスタマイズ可能なワークフローを備え、アーティスト、プロデューサー、ソーシャルメディアクリエイターにとって、AI によるビート分析とムード分析は、手動編集にかかる時間を削減しながら、リリースやプロモーション向けに一貫性のあるビジュアルコンテンツをより簡単に制作できるようにします。
+- [charactergen-app](https://www.aimyflow.com/ja/ai/charactergen-app): CharacterGen は、写真またはテキストの説明から、ターンアラウンド、表情シート、ポーズ、衣装リファレンスを含む完全なキャラクターデザイン一式を制作者が作成できるよう支援する AI キャラクタージェネレーターで、主にイラストレーター、アニメーター、ゲームチーム、作家向けのツールです。AI 支援のクリエイティブワークフローでは、初期のコンセプト開発を加速し、デザインやストーリーテリング作業において、シーン、アセット、引き継ぎ全体でのビジュアルの一貫性向上に役立ちます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/independent-filmmaker?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/independent-filmmaker)
 
 ## 補足
 

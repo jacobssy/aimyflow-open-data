@@ -1,6 +1,6 @@
 # Combat Weapons Crew
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/Combat-Weapons-Crew?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/Combat-Weapons-Crew)
 
 ## Snapshot
 
@@ -17,13 +17,13 @@
 
 ## Matched Tools
 
-- [replit-com](https://www.aimyflow.com/en/ai/replit-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Replit is an AI-powered development platform that helps users build apps and websites in the browser, mainly for developers, founders, and teams shipping software quickly. It shortens the path from idea to working prototype, helping builders iterate and deploy with less setup.
+- [replit-com](https://www.aimyflow.com/en/ai/replit-com): Replit is an AI-powered development platform that helps users build apps and websites in the browser, mainly for developers, founders, and teams shipping software quickly. It shortens the path from idea to working prototype, helping builders iterate and deploy with less setup.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/Combat-Weapons-Crew?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/Combat-Weapons-Crew)
 
 ## Notes
 

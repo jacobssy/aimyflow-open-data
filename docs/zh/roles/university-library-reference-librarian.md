@@ -1,6 +1,6 @@
 # 高校图书馆参考馆员
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/university-library-reference-librarian)
 
 ## 概览
 
@@ -17,13 +17,13 @@
 
 ## 匹配工具
 
-- [languagetool-org](https://www.aimyflow.com/zh/ai/languagetool-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): LanguageTool 是 AI 写作与语法助手，可检查 30 多种语言的语法、拼写、标点和风格，适合学生、专业人士和多语言团队，帮助高频写作岗位更清晰表达并更快完成编辑。
+- [languagetool-org](https://www.aimyflow.com/zh/ai/languagetool-org): LanguageTool 是 AI 写作与语法助手，可检查 30 多种语言的语法、拼写、标点和风格，适合学生、专业人士和多语言团队，帮助高频写作岗位更清晰表达并更快完成编辑。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/university-library-reference-librarian)
 
 ## 说明
 

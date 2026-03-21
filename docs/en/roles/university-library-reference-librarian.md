@@ -1,6 +1,6 @@
 # University Library Reference Librarian
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/university-library-reference-librarian)
 
 ## Snapshot
 
@@ -17,13 +17,13 @@
 
 ## Matched Tools
 
-- [languagetool-org](https://www.aimyflow.com/en/ai/languagetool-org?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): LanguageTool is an AI-powered grammar and writing assistant that helps users check grammar, spelling, punctuation, and style across more than 30 languages, mainly for students, professionals, and multilingual teams. It helps writing-heavy roles communicate more clearly and edit faster at scale.
+- [languagetool-org](https://www.aimyflow.com/en/ai/languagetool-org): LanguageTool is an AI-powered grammar and writing assistant that helps users check grammar, spelling, punctuation, and style across more than 30 languages, mainly for students, professionals, and multilingual teams. It helps writing-heavy roles communicate more clearly and edit faster at scale.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/university-library-reference-librarian?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/university-library-reference-librarian)
 
 ## Notes
 

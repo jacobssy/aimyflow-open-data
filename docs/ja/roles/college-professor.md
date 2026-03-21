@@ -1,10 +1,10 @@
 # 大学教授
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/college-professor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/college-professor)
 
 ## 概要
 
-- 一致ツール数: 95
+- 一致ツール数: 96
 - スキルカード数: 5
 
 ## 主要スキル
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [aibooksummarizer-com](https://www.aimyflow.com/ja/ai/aibooksummarizer-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI Book Summarizer は、アップロードされた PDF、EPUB、または TXT の書籍を、簡潔な要約と章単位の回答に変換する AI ツールであり、主に、より速く内容を理解する必要がある学生、専門職、一般の読者向けに設計されています。AI を活用した読書ワークフローにおいては、学習者やナレッジワーカーが、教科書、研究資料、ビジネス書をより効率的にレビューし、何を全文で学ぶべきかを判断する前段階で役立ちます。
-- [aipdfreader-net](https://www.aimyflow.com/ja/ai/aipdfreader-net?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI PDF Reader は、PDF をアップロードして分析、翻訳、要約、追加質問を行える無料の AI ドキュメントリーダーで、主に授業資料、論文、研究資料を扱う学生、教師、研究者を支援します。AI を活用した学術・教育業務において、これらのユーザーが参考資料をより速く確認し、要点を抽出し、多言語で文書とやり取りできるようサポートします。
-- [aipptmaker-ai](https://www.aimyflow.com/ja/ai/aipptmaker-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AI PPT Maker は、テキスト、PDF、ウェブサイト、動画、音声、その他のファイルを編集可能な PowerPoint スライドデッキに変換する無料のオンライン AI プレゼンテーション生成ツールで、主に迅速にプレゼン資料を必要とするビジネスパーソン、教育関係者、起業家向けです。ビジネス、教育、顧客対応の業務において、ソースコンテンツをプレゼン向けのアウトラインやビジュアルへ自動的に構成することで、手作業でのスライド作成を削減できます。
-- [aiscan24-com](https://www.aimyflow.com/ja/ai/aiscan24-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIscan24 は無料の AI テキスト検出ツールで、貼り付けたテキストが ChatGPT、Gemini、Claude などのツールによって生成または書き換えられたコンテンツと統計的にどの程度類似しているかを確認できます。主に、登録なしで素早く目安を知りたい人向けです。教育関係者、編集者、査読者にとっては、ドイツのサーバー上でテキストを評価し、分析後に削除することでデータプライバシーを保ちながら、提出された文章のスクリーニングをより迅速に行う支援になります。
-- [askiva-io](https://www.aimyflow.com/ja/ai/askiva-io?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Askiva は、参加者への連絡、日程調整、Zoom インタビュー、文字起こし、テーマ別サマリーを自動化する、リサーチチームや大学向けの AI 搭載ユーザーリサーチプラットフォームです。UX リサーチャー、プロダクトマネージャー、リサーチオペレーションチームにとって、インタビュー運営の負担を軽減し、分析・統合を迅速化することで、ユーザーフィードバックや解約要因の分析により多くの時間を充てられるようにします。
-- [audioconverter-ai](https://www.aimyflow.com/ja/ai/audioconverter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Audio Converter AI は、音声、動画、録音、YouTube コンテンツを、タイムスタンプ、話者認識、メモ、多言語対応を備えた編集可能なテキストに変換する、Web ベースの AI 文字起こしツールです。主な対象は、学生、研究者、ビジネスパーソン、教育関係者、コンテンツ制作者です。AI 支援ワークフローでは、ナレッジワーカーの手作業による聞き取りを減らし、会議の記録作成、インタビュー分析、講義の復習、コンテンツの再活用を迅速化するのに役立ちます。
-- [berean-ai](https://www.aimyflow.com/ja/ai/berean-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Berean.ai は、AI を活用した聖書神学およびキリスト教ガイダンスのツールであり、ユーザーがキリスト教、神学、聖書解釈について個人的な質問を行えるよう支援します。主に、聖書箇所の参照を伴う改革派神学に根ざした回答を求めるキリスト者を対象としています。牧師、教師、その他のミニストリー従事者にとっては、引用された聖句に基づいた応答を維持しながら、初期の神学研究や日々の聖書通読準備を効率化できます。
-- [betterstacks-com](https://www.aimyflow.com/ja/ai/betterstacks-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Stacks は、AI を活用した個人向けワークスペースで、主にクリエイター、研究者、創業者、ナレッジワーカー向けに、ブックマーク、メモ、リンク、ファイルを 1 か所で保存、整理、検索、共有できるよう支援します。リサーチ、コンテンツ制作、スタートアップ業務においては、意図を理解する検索機能と、関連する保存済みアイテム同士の接続により、情報の取り出しにかかる時間を短縮し、プロジェクト横断での統合を向上させます。
+- [aibooksummarizer-com](https://www.aimyflow.com/ja/ai/aibooksummarizer-com): AI Book Summarizer は、アップロードされた PDF、EPUB、または TXT の書籍を、簡潔な要約と章単位の回答に変換する AI ツールであり、主に、より速く内容を理解する必要がある学生、専門職、一般の読者向けに設計されています。AI を活用した読書ワークフローにおいては、学習者やナレッジワーカーが、教科書、研究資料、ビジネス書をより効率的にレビューし、何を全文で学ぶべきかを判断する前段階で役立ちます。
+- [aipdfreader-net](https://www.aimyflow.com/ja/ai/aipdfreader-net): AI PDF Reader は、PDF をアップロードして分析、翻訳、要約、追加質問を行える無料の AI ドキュメントリーダーで、主に授業資料、論文、研究資料を扱う学生、教師、研究者を支援します。AI を活用した学術・教育業務において、これらのユーザーが参考資料をより速く確認し、要点を抽出し、多言語で文書とやり取りできるようサポートします。
+- [aipptmaker-ai](https://www.aimyflow.com/ja/ai/aipptmaker-ai): AI PPT Maker は、テキスト、PDF、ウェブサイト、動画、音声、その他のファイルを編集可能な PowerPoint スライドデッキに変換する無料のオンライン AI プレゼンテーション生成ツールで、主に迅速にプレゼン資料を必要とするビジネスパーソン、教育関係者、起業家向けです。ビジネス、教育、顧客対応の業務において、ソースコンテンツをプレゼン向けのアウトラインやビジュアルへ自動的に構成することで、手作業でのスライド作成を削減できます。
+- [aiscan24-com](https://www.aimyflow.com/ja/ai/aiscan24-com): AIscan24 は無料の AI テキスト検出ツールで、貼り付けたテキストが ChatGPT、Gemini、Claude などのツールによって生成または書き換えられたコンテンツと統計的にどの程度類似しているかを確認できます。主に、登録なしで素早く目安を知りたい人向けです。教育関係者、編集者、査読者にとっては、ドイツのサーバー上でテキストを評価し、分析後に削除することでデータプライバシーを保ちながら、提出された文章のスクリーニングをより迅速に行う支援になります。
+- [askiva-io](https://www.aimyflow.com/ja/ai/askiva-io): Askiva は、参加者への連絡、日程調整、Zoom インタビュー、文字起こし、テーマ別サマリーを自動化する、リサーチチームや大学向けの AI 搭載ユーザーリサーチプラットフォームです。UX リサーチャー、プロダクトマネージャー、リサーチオペレーションチームにとって、インタビュー運営の負担を軽減し、分析・統合を迅速化することで、ユーザーフィードバックや解約要因の分析により多くの時間を充てられるようにします。
+- [audioconverter-ai](https://www.aimyflow.com/ja/ai/audioconverter-ai): Audio Converter AI は、音声、動画、録音、YouTube コンテンツを、タイムスタンプ、話者認識、メモ、多言語対応を備えた編集可能なテキストに変換する、Web ベースの AI 文字起こしツールです。主な対象は、学生、研究者、ビジネスパーソン、教育関係者、コンテンツ制作者です。AI 支援ワークフローでは、ナレッジワーカーの手作業による聞き取りを減らし、会議の記録作成、インタビュー分析、講義の復習、コンテンツの再活用を迅速化するのに役立ちます。
+- [berean-ai](https://www.aimyflow.com/ja/ai/berean-ai): Berean.ai は、AI を活用した聖書神学およびキリスト教ガイダンスのツールであり、ユーザーがキリスト教、神学、聖書解釈について個人的な質問を行えるよう支援します。主に、聖書箇所の参照を伴う改革派神学に根ざした回答を求めるキリスト者を対象としています。牧師、教師、その他のミニストリー従事者にとっては、引用された聖句に基づいた応答を維持しながら、初期の神学研究や日々の聖書通読準備を効率化できます。
+- [betterstacks-com](https://www.aimyflow.com/ja/ai/betterstacks-com): Stacks は、AI を活用した個人向けワークスペースで、主にクリエイター、研究者、創業者、ナレッジワーカー向けに、ブックマーク、メモ、リンク、ファイルを 1 か所で保存、整理、検索、共有できるよう支援します。リサーチ、コンテンツ制作、スタートアップ業務においては、意図を理解する検索機能と、関連する保存済みアイテム同士の接続により、情報の取り出しにかかる時間を短縮し、プロジェクト横断での統合を向上させます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/college-professor?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/college-professor)
 
 ## 補足
 

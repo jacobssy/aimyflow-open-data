@@ -1,6 +1,6 @@
 # COO
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/coo?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/coo)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [accuchats-com](https://www.aimyflow.com/ja/ai/accuchats-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AccuChats は、正確性を最優先にした AI チャットボットプラットフォームであり、企業が出典の引用、信頼度スコアリング、人への引き継ぎ、音声機能を備えた Web サイト用およびサポート用チャットボットを構築できるよう支援します。主に、信頼できる顧客向け回答を必要とするチーム向けです。サポート、オペレーション、プロダクトチームにとって、出典付きの回答と意図分析により、リスクのあるハルシネーションを減らしつつ、ドキュメントやワークフローの改善が必要な箇所を可視化できます。
-- [affint-ai](https://www.aimyflow.com/ja/ai/affint-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Affint は、業務アプリを連携し、情報を収集し、コンテンツ作成とワークフローを自動化することで、チームやビジネスパーソンによるプレゼンテーション、ドキュメント、スプレッドシートの作成を支援する AI オフィススイートです。マーケティング、プロダクト、営業チーム向けに、手作業の調査やコンテキストスイッチを減らし、ブランドに沿った成果物の作成と、データに基づく意思決定の迅速化を実現します。
-- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
-- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
-- [agentvoice-com](https://www.aimyflow.com/ja/ai/agentvoice-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AgentVoice は、企業およびオペレーションチーム向けの AI 音声エージェントプラットフォームであり、着信・発信対応、予約のスケジュール、CRM の更新、テキスト送信、そしてノーコードまたは API ベースの設定によるワークフロー自動化を行います。AI 主導の顧客対応オペレーションにおいては、顧客との会話を実際の業務システムに連携させたまま、営業、サポート、コールセンターチームの手作業による電話対応やデータ入力の削減を支援します。
-- [aideacatalyst-com-taaft](https://www.aimyflow.com/ja/ai/aideacatalyst-com-taaft?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): AIdea Catalyst は、AI を活用したスタートアップ企画プラットフォームであり、起業家、特に初めて創業する人が、ガイド付きの反復型ワークフローを通じて、アイデアの検証、顧客と市場の分析、財務モデリング、ローンチ計画の作成を行えるよう支援します。創業者や小規模なスタートアップチームにとって、この AI 支援型アプローチは、静的な事業文書ではなく、仮説を検証可能な計画へと変えることで、初期段階の意思決定を加速できます。
-- [aiqbee-com](https://www.aimyflow.com/ja/ai/aiqbee-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Aiqbee は、企業知識を一元化し、Teams や IDE などのツールと接続し、ガバナンス管理を追加することで、あらゆる LLM や AI ツールに永続的な組織コンテキストを提供するエンタープライズ向け AI メモリプラットフォームであり、主にチーム横断で AI 活用を管理する企業向けに設計されています。IT、オペレーション、サポート、開発部門においては、承認済みの AI ワークフロー全体で共有知識を利用可能にすることで、繰り返しのプロンプト入力を減らし、一貫性を向上させることができます。
-- [allex-ai](https://www.aimyflow.com/ja/ai/allex-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Allex.ai は、AI による支援を活用したプロジェクト管理プラットフォームであり、主に複数プロジェクトが並行する環境で働くチーム向けに、ワークフローの自動化とデリバリーの迅速化によって、複雑なプロジェクトの管理を支援します。プロジェクトマネージャーや PMO 機能にとって、AI 支援は手作業による調整を減らし、相互に依存するワークストリーム全体の可視性を向上させることができます。
+- [accuchats-com](https://www.aimyflow.com/ja/ai/accuchats-com): AccuChats は、正確性を最優先にした AI チャットボットプラットフォームであり、企業が出典の引用、信頼度スコアリング、人への引き継ぎ、音声機能を備えた Web サイト用およびサポート用チャットボットを構築できるよう支援します。主に、信頼できる顧客向け回答を必要とするチーム向けです。サポート、オペレーション、プロダクトチームにとって、出典付きの回答と意図分析により、リスクのあるハルシネーションを減らしつつ、ドキュメントやワークフローの改善が必要な箇所を可視化できます。
+- [affint-ai](https://www.aimyflow.com/ja/ai/affint-ai): Affint は、業務アプリを連携し、情報を収集し、コンテンツ作成とワークフローを自動化することで、チームやビジネスパーソンによるプレゼンテーション、ドキュメント、スプレッドシートの作成を支援する AI オフィススイートです。マーケティング、プロダクト、営業チーム向けに、手作業の調査やコンテキストスイッチを減らし、ブランドに沿った成果物の作成と、データに基づく意思決定の迅速化を実現します。
+- [agendahero-com-magic](https://www.aimyflow.com/ja/ai/agendahero-com-magic): Agenda Hero Magic は、テキスト、画像、PDF を、ユーザーが自分自身に送信できるカレンダーイベントに変換する AI スケジュール管理ツールであり、主に非構造化情報から予定を素早く取り込む必要がある人向けに設計されています。アシスタント、コーディネーター、その他の時間管理業務に携わる役割においては、手動でのカレンダー入力を減らし、共有ドキュメントやメッセージを実用的なスケジュールへ変換する作業を迅速化できます。
+- [agent-minimax-io-max-claw](https://www.aimyflow.com/ja/ai/agent-minimax-io-max-claw): MaxClaw は、MiniMax OpenClaw による AI エージェントビルダーで、ユーザーがスキルやサブエージェントを備えたパーソナライズされたアシスタントを作成し、複雑なタスクを自動化できるよう支援します。主に、業務アプリ全体で 24 時間 365 日稼働するクラウドベースのアシスタントを必要とする人々を対象としています。エンジニアやオフィスワーカーにとって、この種のエージェントは、永続的かつ自律的なワークフローを通じて、デバッグ、プロジェクトの納品、複数回にわたる文書編集を処理し、手作業による調整を減らすことができます。
+- [agentvoice-com](https://www.aimyflow.com/ja/ai/agentvoice-com): AgentVoice は、企業およびオペレーションチーム向けの AI 音声エージェントプラットフォームであり、着信・発信対応、予約のスケジュール、CRM の更新、テキスト送信、そしてノーコードまたは API ベースの設定によるワークフロー自動化を行います。AI 主導の顧客対応オペレーションにおいては、顧客との会話を実際の業務システムに連携させたまま、営業、サポート、コールセンターチームの手作業による電話対応やデータ入力の削減を支援します。
+- [aideacatalyst-com-taaft](https://www.aimyflow.com/ja/ai/aideacatalyst-com-taaft): AIdea Catalyst は、AI を活用したスタートアップ企画プラットフォームであり、起業家、特に初めて創業する人が、ガイド付きの反復型ワークフローを通じて、アイデアの検証、顧客と市場の分析、財務モデリング、ローンチ計画の作成を行えるよう支援します。創業者や小規模なスタートアップチームにとって、この AI 支援型アプローチは、静的な事業文書ではなく、仮説を検証可能な計画へと変えることで、初期段階の意思決定を加速できます。
+- [aiqbee-com](https://www.aimyflow.com/ja/ai/aiqbee-com): Aiqbee は、企業知識を一元化し、Teams や IDE などのツールと接続し、ガバナンス管理を追加することで、あらゆる LLM や AI ツールに永続的な組織コンテキストを提供するエンタープライズ向け AI メモリプラットフォームであり、主にチーム横断で AI 活用を管理する企業向けに設計されています。IT、オペレーション、サポート、開発部門においては、承認済みの AI ワークフロー全体で共有知識を利用可能にすることで、繰り返しのプロンプト入力を減らし、一貫性を向上させることができます。
+- [allex-ai](https://www.aimyflow.com/ja/ai/allex-ai): Allex.ai は、AI による支援を活用したプロジェクト管理プラットフォームであり、主に複数プロジェクトが並行する環境で働くチーム向けに、ワークフローの自動化とデリバリーの迅速化によって、複雑なプロジェクトの管理を支援します。プロジェクトマネージャーや PMO 機能にとって、AI 支援は手作業による調整を減らし、相互に依存するワークストリーム全体の可視性を向上させることができます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/coo?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/coo)
 
 ## 補足
 

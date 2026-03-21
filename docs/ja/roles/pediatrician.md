@@ -1,6 +1,6 @@
 # 小児科医
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/pediatrician?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/pediatrician)
 
 ## 概要
 
@@ -17,16 +17,16 @@
 
 ## 関連ツール
 
-- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
-- [dorascribe-ai](https://www.aimyflow.com/ja/ai/dorascribe-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): DoraScribe は、患者との診療内容を SOAP ノートやその他のカルテ文書に変換する、医師やその他の臨床医向けの AI 医療スクライブ兼文字起こしツールであり、モバイルアクセスと HIPAA 準拠の取り扱いに対応しています。医師や臨床チームにとって、文書作成の負担を軽減し、より正確で一貫性のある記録を支援しながら、患者ケアへの集中を維持できます。
-- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
-- [radily-ai](https://www.aimyflow.com/ja/ai/radily-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Radily は、HIPAA に準拠した AI ツールで、CT、MRI、X 線レポートをわかりやすい英語で説明し、必要に応じて動画要約や推奨されるフォローアップ質問も提供します。主に、自分の画像診断結果を安全に理解しようとする患者向けに設計されています。AI を活用した医療コミュニケーションにおいては、臨床での説明の前後に、より明確なレポート解説を患者に提供することで、放射線科医や紹介元の臨床医が患者の混乱を減らすのに役立ちます。
+- [bolt-new](https://www.aimyflow.com/ja/ai/bolt-new): Boltは、プロンプトからWebアプリを素早く構築できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアから試作までを短縮し、製品検証を高速化します。
+- [dorascribe-ai](https://www.aimyflow.com/ja/ai/dorascribe-ai): DoraScribe は、患者との診療内容を SOAP ノートやその他のカルテ文書に変換する、医師やその他の臨床医向けの AI 医療スクライブ兼文字起こしツールであり、モバイルアクセスと HIPAA 準拠の取り扱いに対応しています。医師や臨床チームにとって、文書作成の負担を軽減し、より正確で一貫性のある記録を支援しながら、患者ケアへの集中を維持できます。
+- [openrouter-ai](https://www.aimyflow.com/ja/ai/openrouter-ai): OpenRouterは、複数の大規模言語モデルを1つのAPIで利用・比較できる統合LLMルーティングプラットフォームです。
+- [radily-ai](https://www.aimyflow.com/ja/ai/radily-ai): Radily は、HIPAA に準拠した AI ツールで、CT、MRI、X 線レポートをわかりやすい英語で説明し、必要に応じて動画要約や推奨されるフォローアップ質問も提供します。主に、自分の画像診断結果を安全に理解しようとする患者向けに設計されています。AI を活用した医療コミュニケーションにおいては、臨床での説明の前後に、より明確なレポート解説を患者に提供することで、放射線科医や紹介元の臨床医が患者の混乱を減らすのに役立ちます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/pediatrician?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/pediatrician)
 
 ## 補足
 

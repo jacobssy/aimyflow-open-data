@@ -1,6 +1,6 @@
 # その他教育職
 
-[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Other-Education-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_ja)
+[AimyFlow で完全版の役割ページを開く](https://www.aimyflow.com/ja/role/Other-Education-Roles)
 
 ## 概要
 
@@ -17,20 +17,20 @@
 
 ## 関連ツール
 
-- [clipto-com](https://www.aimyflow.com/ja/ai/clipto-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Clipto.AIは、デジタル資産の整理・文字起こし・動画編集を支援するプライベートなメディア管理AIアシスタントです。クリエイターや研究者、メディア担当者の大規模メディア管理を効率化します。
-- [co-dev](https://www.aimyflow.com/ja/ai/co-dev?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Codevは、テキスト説明から本番対応のフルスタックNext.jsアプリを生成できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアからデプロイ可能な製品化までを高速化します。
-- [coursehero-com](https://www.aimyflow.com/ja/ai/coursehero-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Course Heroは、講義ノート、試験対策、個別指導、宿題支援を提供する学習プラットフォームです。学生向けに、必要な学習リソースへ素早くアクセスできる環境を提供します。
-- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
-- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
-- [fotor-com](https://www.aimyflow.com/ja/ai/fotor-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Fotorは、使いやすい編集ツール、テンプレート、エフェクトで画像を補正・レタッチ・カスタマイズできるオンライン写真編集プラットフォームです。高度なデザインソフトなしで高品質なビジュアルを作成できます。
-- [gamma-app](https://www.aimyflow.com/ja/ai/gamma-app?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Gammaは、デザインやコーディング不要でプレゼン、Webページ、ビジュアル文書を作成できるAIコンテンツ作成ツールです。ラフな入力から完成度の高い成果物を素早く生成できます。
-- [gauthmath-com](https://www.aimyflow.com/ja/ai/gauthmath-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_ja): Gauthは、問題解決、解説、計算ツール、講師サポートを提供するAI学習支援ツールです。生徒に素早いフィードバックを届け、学習支援の効率を高めます。
+- [clipto-com](https://www.aimyflow.com/ja/ai/clipto-com): Clipto.AIは、デジタル資産の整理・文字起こし・動画編集を支援するプライベートなメディア管理AIアシスタントです。クリエイターや研究者、メディア担当者の大規模メディア管理を効率化します。
+- [co-dev](https://www.aimyflow.com/ja/ai/co-dev): Codevは、テキスト説明から本番対応のフルスタックNext.jsアプリを生成できるAIアプリビルダーです。創業者・プロダクトチーム・開発者向けに、アイデアからデプロイ可能な製品化までを高速化します。
+- [coursehero-com](https://www.aimyflow.com/ja/ai/coursehero-com): Course Heroは、講義ノート、試験対策、個別指導、宿題支援を提供する学習プラットフォームです。学生向けに、必要な学習リソースへ素早くアクセスできる環境を提供します。
+- [createanything-com](https://www.aimyflow.com/ja/ai/createanything-com): Anythingは、作りたいものを説明するだけでWebサイト、アプリ、ツール、デジタル製品を形にできるAIアプリビルダーです。創業者やメーカー、非技術者のアイデア検証と迅速な公開を支援します。
+- [creativefabrica-com](https://www.aimyflow.com/ja/ai/creativefabrica-com): Creative Fabricaは、フォント・グラフィック・クラフト・デザイン素材を扱うデジタルマーケットプレイス兼サブスク基盤です。メーカーやデザイナー、POD販売者の商品制作を効率化し、AI時代の発想・カスタマイズ・制作スピードを高めます。
+- [fotor-com](https://www.aimyflow.com/ja/ai/fotor-com): Fotorは、使いやすい編集ツール、テンプレート、エフェクトで画像を補正・レタッチ・カスタマイズできるオンライン写真編集プラットフォームです。高度なデザインソフトなしで高品質なビジュアルを作成できます。
+- [gamma-app](https://www.aimyflow.com/ja/ai/gamma-app): Gammaは、デザインやコーディング不要でプレゼン、Webページ、ビジュアル文書を作成できるAIコンテンツ作成ツールです。ラフな入力から完成度の高い成果物を素早く生成できます。
+- [gauthmath-com](https://www.aimyflow.com/ja/ai/gauthmath-com): Gauthは、問題解決、解説、計算ツール、講師サポートを提供するAI学習支援ツールです。生徒に素早いフィードバックを届け、学習支援の効率を高めます。
 
 ## AimyFlow で続きを見る
 
-- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_ja)
-- [すべての役割を見る](https://www.aimyflow.com/ja/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_ja)
-- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Other-Education-Roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_ja)
+- [すべての AI ツールを見る](https://www.aimyflow.com/ja/explore)
+- [すべての役割を見る](https://www.aimyflow.com/ja/roles)
+- [コミュニティ投票を見る](https://www.aimyflow.com/ja/role/Other-Education-Roles)
 
 ## 補足
 

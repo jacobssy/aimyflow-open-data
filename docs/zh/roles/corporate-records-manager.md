@@ -1,6 +1,6 @@
 # 企业档案经理
 
-[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_zh)
+[在 AimyFlow 打开完整职业页](https://www.aimyflow.com/zh/role/corporate-records-manager)
 
 ## 概览
 
@@ -17,13 +17,13 @@
 
 ## 匹配工具
 
-- [bolt-new](https://www.aimyflow.com/zh/ai/bolt-new?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_zh): Bolt 是 AI 应用构建平台，可将提示词快速生成可用的 Web 应用，适合创始人、产品团队和原型开发者。在 AI 时代，它能加速从想法到原型的验证流程。
+- [bolt-new](https://www.aimyflow.com/zh/ai/bolt-new): Bolt 是 AI 应用构建平台，可将提示词快速生成可用的 Web 应用，适合创始人、产品团队和原型开发者。在 AI 时代，它能加速从想法到原型的验证流程。
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/role/corporate-records-manager?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/role/corporate-records-manager)
 
 ## 说明
 

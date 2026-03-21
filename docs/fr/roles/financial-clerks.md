@@ -1,6 +1,6 @@
 # Employés financiers
 
-[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Financial-Clerks?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_fr)
+[Ouvrir la page complète du rôle sur AimyFlow](https://www.aimyflow.com/fr/role/Financial-Clerks)
 
 ## Vue d’ensemble
 
@@ -17,14 +17,14 @@
 
 ## Outils associés
 
-- [imyfone-com](https://www.aimyflow.com/fr/ai/imyfone-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): iMyFone est une plateforme logicielle utilitaire qui aide à récupérer des données perdues, déverrouiller des appareils, réparer des problèmes système et gérer les données sur iOS, Android, Windows et Mac.
-- [otter-ai](https://www.aimyflow.com/fr/ai/otter-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_fr): Otter est un assistant de réunion IA qui fournit transcription en direct, résumés, chat, insights et actions à suivre pour équipes, managers et travailleurs du savoir. Il aide à capturer automatiquement les décisions et à passer plus vite de la discussion à l’exécution.
+- [imyfone-com](https://www.aimyflow.com/fr/ai/imyfone-com): iMyFone est une plateforme logicielle utilitaire qui aide à récupérer des données perdues, déverrouiller des appareils, réparer des problèmes système et gérer les données sur iOS, Android, Windows et Mac.
+- [otter-ai](https://www.aimyflow.com/fr/ai/otter-ai): Otter est un assistant de réunion IA qui fournit transcription en direct, résumés, chat, insights et actions à suivre pour équipes, managers et travailleurs du savoir. Il aide à capturer automatiquement les décisions et à passer plus vite de la discussion à l’exécution.
 
 ## Continuer sur AimyFlow
 
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_fr)
-- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_fr)
-- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Financial-Clerks?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_fr)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir tous les rôles](https://www.aimyflow.com/fr/roles)
+- [Voir les votes de la communauté](https://www.aimyflow.com/fr/role/Financial-Clerks)
 
 ## Notes
 

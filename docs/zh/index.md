@@ -2,50 +2,50 @@
 
 按职业整理的 AimyFlow AI 工具开放数据，包含结构化数据集与适合 GitHub 收录的角色页。
 
-生成时间: 2026-03-21T13:08:12.006Z
+生成时间: 2026-03-21T13:30:11.462Z
 
-- 工具数量: 1497
+- 工具数量: 1507
 - 职业数量: 221
 - 技能数量: 1105
 
 ## 继续访问 AimyFlow
 
-- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_explore_zh)
-- [浏览全部职业](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_roles_zh)
-- [查看社区投票](https://www.aimyflow.com/zh/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=docs_index_votes_zh)
+- [查看全部 AI 工具](https://www.aimyflow.com/zh/explore)
+- [浏览全部职业](https://www.aimyflow.com/zh/roles)
+- [查看社区投票](https://www.aimyflow.com/zh/roles)
 
 ## 职业列表
 
-- [内容创作者](./roles/content-creator.md): 677 tools, 5 skills
-- [数字营销总监](./roles/digital-marketing-director.md): 617 tools, 5 skills
-- [文案策划](./roles/copywriter.md): 440 tools, 5 skills
-- [社交媒体内容创作者](./roles/social-media-content-creator.md): 409 tools, 5 skills
-- [首席执行官](./roles/ceo.md): 326 tools, 5 skills
-- [项目管理专员](./roles/project-management-officer.md): 315 tools, 5 skills
-- [软件工程师](./roles/software-engineer.md): 313 tools, 5 skills
-- [软件开发经理](./roles/software-development-manager.md): 297 tools, 5 skills
-- [平面设计师](./roles/graphic-designer.md): 291 tools, 5 skills
-- [技术写作人员](./roles/technical-writer.md): 229 tools, 5 skills
-- [IT基础设施经理](./roles/it-infrastructure-manager.md): 140 tools, 5 skills
-- [教师](./roles/teacher.md): 138 tools, 5 skills
-- [教育科技顾问](./roles/education-technology-consultant.md): 130 tools, 5 skills
+- [内容创作者](./roles/content-creator.md): 683 tools, 5 skills
+- [数字营销总监](./roles/digital-marketing-director.md): 622 tools, 5 skills
+- [文案策划](./roles/copywriter.md): 443 tools, 5 skills
+- [社交媒体内容创作者](./roles/social-media-content-creator.md): 411 tools, 5 skills
+- [首席执行官](./roles/ceo.md): 329 tools, 5 skills
+- [项目管理专员](./roles/project-management-officer.md): 317 tools, 5 skills
+- [软件工程师](./roles/software-engineer.md): 315 tools, 5 skills
+- [软件开发经理](./roles/software-development-manager.md): 298 tools, 5 skills
+- [平面设计师](./roles/graphic-designer.md): 292 tools, 5 skills
+- [技术写作人员](./roles/technical-writer.md): 231 tools, 5 skills
+- [IT基础设施经理](./roles/it-infrastructure-manager.md): 141 tools, 5 skills
+- [教师](./roles/teacher.md): 139 tools, 5 skills
+- [教育科技顾问](./roles/education-technology-consultant.md): 131 tools, 5 skills
 - [首席运营官](./roles/coo.md): 127 tools, 5 skills
-- [电商销售负责人](./roles/e-commerce-sales-head.md): 124 tools, 5 skills
-- [数据科学家](./roles/data-scientist.md): 123 tools, 5 skills
-- [区域销售经理](./roles/field-sales-manager.md): 116 tools, 5 skills
-- [播客制作人](./roles/podcast-producer.md): 109 tools, 5 skills
-- [大学教授](./roles/college-professor.md): 95 tools, 5 skills
-- [数据工程师](./roles/data-engineer.md): 83 tools, 5 skills
-- [招聘经理](./roles/talent-acquisition-manager.md): 67 tools, 5 skills
+- [电商销售负责人](./roles/e-commerce-sales-head.md): 126 tools, 5 skills
+- [数据科学家](./roles/data-scientist.md): 125 tools, 5 skills
+- [区域销售经理](./roles/field-sales-manager.md): 117 tools, 5 skills
+- [播客制作人](./roles/podcast-producer.md): 110 tools, 5 skills
+- [大学教授](./roles/college-professor.md): 96 tools, 5 skills
+- [数据工程师](./roles/data-engineer.md): 84 tools, 5 skills
+- [招聘经理](./roles/talent-acquisition-manager.md): 68 tools, 5 skills
 - [信息技术经理](./roles/information-technology-managers.md): 64 tools, 5 skills
 - [网络安全经理](./roles/cybersecurity-manager.md): 63 tools, 5 skills
 - [独立电影人](./roles/independent-filmmaker.md): 62 tools, 5 skills
 - [网络安全分析师](./roles/cybersecurity-analyst.md): 57 tools, 5 skills
+- [企业领导力教练](./roles/corporate-leadership-coach.md): 53 tools, 5 skills
 - [在线编程导师](./roles/online-coding-tutor.md): 53 tools, 5 skills
-- [企业领导力教练](./roles/corporate-leadership-coach.md): 52 tools, 5 skills
 - [计算机岗位](./roles/computer-occupations.md): 51 tools, 5 skills
+- [律师](./roles/lawyer.md): 48 tools, 5 skills
 - [学校辅导员](./roles/school-counselor.md): 48 tools, 5 skills
-- [律师](./roles/lawyer.md): 47 tools, 5 skills
 - [音乐爱好者](./roles/music-lover.md): 47 tools, 5 skills
 - [市场与销售经理](./roles/marketing-and-sales-managers.md): 45 tools, 5 skills
 - [医疗管理人员](./roles/healthcare-administrator.md): 44 tools, 5 skills
@@ -54,22 +54,22 @@
 - [金融分析师](./roles/financial-analyst.md): 40 tools, 5 skills
 - [媒体传播人员](./roles/media-communicators.md): 36 tools, 5 skills
 - [业务运营专员](./roles/business-operations-specialists.md): 34 tools, 5 skills
-- [小说作家](./roles/fiction-writer.md): 33 tools, 5 skills
-- [房地产经纪人](./roles/real-estate-agent.md): 32 tools, 5 skills
+- [小说作家](./roles/fiction-writer.md): 34 tools, 5 skills
+- [房地产经纪人](./roles/real-estate-agent.md): 33 tools, 5 skills
 - [首席财务官](./roles/cfo.md): 31 tools, 5 skills
 - [社区学院讲师](./roles/community-college-instructor.md): 31 tools, 5 skills
 - [健康教练](./roles/wellness-coach.md): 31 tools, 5 skills
 - [备考辅导老师](./roles/test-prep-tutor.md): 30 tools, 5 skills
 - [财务规划与分析经理](./roles/financial-planning-analysis-manager.md): 29 tools, 5 skills
+- [分公司经理](./roles/branch-office-manager.md): 27 tools, 5 skills
 - [财务经理](./roles/financial-managers.md): 27 tools, 5 skills
-- [分公司经理](./roles/branch-office-manager.md): 26 tools, 5 skills
 - [工程师](./roles/engineers.md): 26 tools, 5 skills
 - [时装设计师](./roles/fashion-designer.md): 26 tools, 5 skills
 - [金融专员](./roles/financial-specialists.md): 25 tools, 5 skills
 - [运营专业经理](./roles/operations-specialties-managers.md): 25 tools, 5 skills
 - [高校教师](./roles/postsecondary-teachers.md): 25 tools, 5 skills
+- [员工关系经理](./roles/employee-relations-manager.md): 24 tools, 5 skills
 - [其他教育岗位](./roles/other-education-roles.md): 24 tools, 5 skills
-- [员工关系经理](./roles/employee-relations-manager.md): 23 tools, 5 skills
 - [作家](./roles/writers-and-authors.md): 23 tools, 5 skills
 - [电商卖家](./roles/e-commerce-seller.md): 22 tools, 5 skills
 - [投资组合经理](./roles/investment-portfolio-manager.md): 22 tools, 5 skills
@@ -78,8 +78,8 @@
 - [物流运营规划师](./roles/logistics-operations-planner.md): 18 tools, 5 skills
 - [其他艺术岗位](./roles/other-arts-roles.md): 18 tools, 5 skills
 - [餐厅总经理](./roles/restaurant-general-manager.md): 18 tools, 5 skills
+- [室内设计师](./roles/interior-designer.md): 17 tools, 5 skills
 - [电视新闻记者](./roles/tv-news-reporter.md): 17 tools, 5 skills
-- [室内设计师](./roles/interior-designer.md): 16 tools, 5 skills
 - [企业税务经理](./roles/corporate-tax-manager.md): 15 tools, 5 skills
 - [艺术与设计人员](./roles/art-and-design-workers.md): 14 tools, 5 skills
 - [客户成功经理](./roles/customer-success-manager.md): 14 tools, 5 skills

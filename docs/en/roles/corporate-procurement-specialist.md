@@ -1,6 +1,6 @@
 # Corporate Procurement Specialist
 
-[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/corporate-procurement-specialist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_top_en)
+[Open full role page on AimyFlow](https://www.aimyflow.com/en/role/corporate-procurement-specialist)
 
 ## Snapshot
 
@@ -17,17 +17,17 @@
 
 ## Matched Tools
 
-- [creativefabrica-com](https://www.aimyflow.com/en/ai/creativefabrica-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Creative Fabrica is a digital marketplace and subscription platform for fonts, graphics, crafts, and design assets that helps makers, designers, and print-on-demand sellers create products faster. In the AI era, it gives creative professionals a broad asset base to speed ideation, customization, and production-ready output.
-- [ifoto-ai](https://www.aimyflow.com/en/ai/ifoto-ai?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): iFoto is an AI photo editing studio that helps users enhance images, change backgrounds, and create polished visuals online, mainly for eCommerce sellers, marketers, and content creators. It speeds up creative production for merchandising and marketing teams without requiring advanced design skills.
-- [qoder-com](https://www.aimyflow.com/en/ai/qoder-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Qoder is an agentic coding platform that helps developers understand codebases and execute software tasks with AI agents, mainly for professional software engineers and development teams. It improves engineering throughput by combining strong code context with advanced models for more reliable task completion.
-- [rippling-com](https://www.aimyflow.com/en/ai/rippling-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): Rippling is a workforce management platform that unifies HR, IT, and finance operations to help businesses manage employees, devices, payroll, and compliance from one system, mainly for growing companies and operations teams. In the AI era, it helps HR and admin leaders reduce manual handoffs and run cross-functional workflows with cleaner, centralized employee data.
-- [teediy-com](https://www.aimyflow.com/en/ai/teediy-com?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_tool_en): TeeDIY is a custom apparel platform that helps users design and order personalized T-shirts quickly, mainly for shoppers, gift buyers, and small merchandise creators. In the AI era, rapid design workflows help non-designers turn ideas into sellable or wearable products with less creative friction.
+- [creativefabrica-com](https://www.aimyflow.com/en/ai/creativefabrica-com): Creative Fabrica is a digital marketplace and subscription platform for fonts, graphics, crafts, and design assets that helps makers, designers, and print-on-demand sellers create products faster. In the AI era, it gives creative professionals a broad asset base to speed ideation, customization, and production-ready output.
+- [ifoto-ai](https://www.aimyflow.com/en/ai/ifoto-ai): iFoto is an AI photo editing studio that helps users enhance images, change backgrounds, and create polished visuals online, mainly for eCommerce sellers, marketers, and content creators. It speeds up creative production for merchandising and marketing teams without requiring advanced design skills.
+- [qoder-com](https://www.aimyflow.com/en/ai/qoder-com): Qoder is an agentic coding platform that helps developers understand codebases and execute software tasks with AI agents, mainly for professional software engineers and development teams. It improves engineering throughput by combining strong code context with advanced models for more reliable task completion.
+- [rippling-com](https://www.aimyflow.com/en/ai/rippling-com): Rippling is a workforce management platform that unifies HR, IT, and finance operations to help businesses manage employees, devices, payroll, and compliance from one system, mainly for growing companies and operations teams. In the AI era, it helps HR and admin leaders reduce manual handoffs and run cross-functional workflows with cleaner, centralized employee data.
+- [teediy-com](https://www.aimyflow.com/en/ai/teediy-com): TeeDIY is a custom apparel platform that helps users design and order personalized T-shirts quickly, mainly for shoppers, gift buyers, and small merchandise creators. In the AI era, rapid design workflows help non-designers turn ideas into sellable or wearable products with less creative friction.
 
 ## Continue on AimyFlow
 
-- [Explore all AI tools](https://www.aimyflow.com/en/explore?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_explore_en)
-- [Browse all roles](https://www.aimyflow.com/en/roles?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_roles_en)
-- [See community voting](https://www.aimyflow.com/en/role/corporate-procurement-specialist?utm_source=github&utm_medium=repo&utm_campaign=open_data&utm_content=role_doc_votes_en)
+- [Explore all AI tools](https://www.aimyflow.com/en/explore)
+- [Browse all roles](https://www.aimyflow.com/en/roles)
+- [See community voting](https://www.aimyflow.com/en/role/corporate-procurement-specialist)
 
 ## Notes
 
