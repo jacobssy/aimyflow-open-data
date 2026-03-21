@@ -4,7 +4,7 @@
 
 ## Resumen
 
-- Herramientas asociadas: 117
+- Herramientas asociadas: 118
 - Tarjetas de habilidades: 5
 
 ## Habilidades clave

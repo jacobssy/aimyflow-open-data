@@ -14,7 +14,7 @@ This repo is designed for people searching for:
 
 Current snapshot:
 
-- 1,507 AI tools
+- 1,512 AI tools
 - 221 roles
 - 1,105 role skills
 
@@ -102,7 +102,7 @@ This repo should publish short, structured, index-like content. Do not copy full
 
 当前快照：
 
-- 1507 个 AI 工具
+- 1512 个 AI 工具
 - 221 个职业
 - 1105 个职业技能
 

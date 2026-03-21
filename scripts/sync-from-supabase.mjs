@@ -21,6 +21,15 @@ const LOCALE_COPY = {
     docsTitle: 'AimyFlow Open Data Index',
     docsDescription:
       'Open data exports for AimyFlow AI tools by role, with machine-readable datasets and GitHub-friendly landing pages.',
+    startHere: 'Start Here',
+    featuredRoles: 'Featured Roles',
+    dataFiles: 'Data Files',
+    roleCountLabel: 'roles',
+    toolCountLabel: 'tools',
+    skillCountLabel: 'skills',
+    openDocs: 'Open localized docs',
+    inspectData: 'Inspect raw datasets',
+    viewRoles: 'View featured role pages',
     generatedAt: 'Generated at',
     toolsExported: 'Tools exported',
     rolesExported: 'Roles exported',
@@ -48,6 +57,15 @@ const LOCALE_COPY = {
     nativeName: '中文',
     docsTitle: 'AimyFlow 开放数据索引',
     docsDescription: '按职业整理的 AimyFlow AI 工具开放数据，包含结构化数据集与适合 GitHub 收录的角色页。',
+    startHere: '从这里开始',
+    featuredRoles: '热门职业',
+    dataFiles: '数据文件',
+    roleCountLabel: '个职业',
+    toolCountLabel: '个工具',
+    skillCountLabel: '项技能',
+    openDocs: '查看多语言文档',
+    inspectData: '查看原始数据集',
+    viewRoles: '查看热门职业页',
     generatedAt: '生成时间',
     toolsExported: '工具数量',
     rolesExported: '职业数量',
@@ -74,6 +92,15 @@ const LOCALE_COPY = {
     docsTitle: 'Índice de Datos Abiertos de AimyFlow',
     docsDescription:
       'Exportaciones abiertas de herramientas de IA por rol en AimyFlow, con datasets estructurados y páginas aptas para GitHub.',
+    startHere: 'Comienza aquí',
+    featuredRoles: 'Roles destacados',
+    dataFiles: 'Archivos de datos',
+    roleCountLabel: 'roles',
+    toolCountLabel: 'herramientas',
+    skillCountLabel: 'habilidades',
+    openDocs: 'Abrir documentación localizada',
+    inspectData: 'Inspeccionar datasets',
+    viewRoles: 'Ver páginas de roles destacadas',
     generatedAt: 'Generado el',
     toolsExported: 'Herramientas exportadas',
     rolesExported: 'Roles exportados',
@@ -102,6 +129,15 @@ const LOCALE_COPY = {
     docsTitle: 'AimyFlow オープンデータ索引',
     docsDescription:
       '職種別 AI ツールをまとめた AimyFlow のオープンデータ。GitHub 向けの要約ページと構造化データを含みます。',
+    startHere: 'ここから始める',
+    featuredRoles: '注目の役割',
+    dataFiles: 'データファイル',
+    roleCountLabel: '役割',
+    toolCountLabel: 'ツール',
+    skillCountLabel: 'スキル',
+    openDocs: '多言語ドキュメントを見る',
+    inspectData: '生データを見る',
+    viewRoles: '注目の役割ページを見る',
     generatedAt: '生成日時',
     toolsExported: 'ツール数',
     rolesExported: '役割数',
@@ -130,6 +166,15 @@ const LOCALE_COPY = {
     docsTitle: 'AimyFlow Open-Data-Index',
     docsDescription:
       'Offene Exporte von KI-Tools nach Rollen in AimyFlow, mit strukturierten Datensätzen und GitHub-tauglichen Übersichtsseiten.',
+    startHere: 'Hier starten',
+    featuredRoles: 'Wichtige Rollen',
+    dataFiles: 'Datendateien',
+    roleCountLabel: 'Rollen',
+    toolCountLabel: 'Tools',
+    skillCountLabel: 'Skills',
+    openDocs: 'Lokalisierte Doku öffnen',
+    inspectData: 'Rohdaten ansehen',
+    viewRoles: 'Top-Rollen ansehen',
     generatedAt: 'Erstellt am',
     toolsExported: 'Exportierte Tools',
     rolesExported: 'Exportierte Rollen',
@@ -158,6 +203,15 @@ const LOCALE_COPY = {
     docsTitle: 'Index Open Data AimyFlow',
     docsDescription:
       'Exports ouverts des outils IA par métier sur AimyFlow, avec jeux de données structurés et pages compatibles GitHub.',
+    startHere: 'Commencer ici',
+    featuredRoles: 'Rôles mis en avant',
+    dataFiles: 'Fichiers de données',
+    roleCountLabel: 'rôles',
+    toolCountLabel: 'outils',
+    skillCountLabel: 'compétences',
+    openDocs: 'Ouvrir la documentation localisée',
+    inspectData: 'Inspecter les jeux de données',
+    viewRoles: 'Voir les rôles mis en avant',
     generatedAt: 'Généré le',
     toolsExported: 'Outils exportés',
     rolesExported: 'Rôles exportés',
@@ -529,6 +583,7 @@ function renderRoleDoc(roleRecord, locale) {
 function renderLocaleDocsIndex(stats, roleRecords, locale) {
   const copy = LOCALE_COPY[locale];
   const siteUrl = stats.site_url;
+  const featuredRoles = roleRecords.slice(0, 18);
   const lines = [
     `# ${copy.docsTitle}`,
     '',
@@ -540,19 +595,45 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     `- ${copy.rolesExported}: ${stats.role_count}`,
     `- ${copy.skillsExported}: ${stats.skill_count}`,
     '',
+    `## ${copy.startHere}`,
+    '',
+    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
+    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
+    `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
+    `- [${copy.inspectData}](../../data/tools.json)`,
+    '',
     `## ${copy.nextSteps}`,
     '',
     `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
     `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
     `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
     '',
-    `## ${copy.rolesHeading}`,
+    `## ${copy.dataFiles}`,
+    '',
+    '- [`data/tools.json`](../../data/tools.json)',
+    '- [`data/roles.json`](../../data/roles.json)',
+    '- [`data/skills.json`](../../data/skills.json)',
+    '- [`data/stats.json`](../../data/stats.json)',
+    '',
+    `## ${copy.featuredRoles}`,
     '',
   ];
 
+  for (const role of featuredRoles) {
+    lines.push(
+      `- [${role.title[locale]}](./roles/${role.doc_slug}.md): ${role.tool_count} ${copy.toolCountLabel}, ${role.skill_count} ${copy.skillCountLabel}`,
+    );
+  }
+
+  lines.push(
+    '',
+    `## ${copy.rolesHeading}`,
+    '',
+  );
+
   for (const role of roleRecords) {
     lines.push(
-      `- [${role.title[locale]}](./roles/${role.doc_slug}.md): ${role.tool_count} tools, ${role.skill_count} skills`,
+      `- [${role.title[locale]}](./roles/${role.doc_slug}.md): ${role.tool_count} ${copy.toolCountLabel}, ${role.skill_count} ${copy.skillCountLabel}`,
     );
   }
 
@@ -561,8 +642,10 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
   return `${lines.join('\n')}\n`;
 }
 
-function renderRootDocsIndex(stats) {
+function renderRootDocsIndex(stats, roleRecords) {
   const siteUrl = stats.site_url;
+  const topLocales = LOCALES.map((locale) => `- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md)`);
+  const featuredRoles = roleRecords.slice(0, 12);
   const lines = [
     `# ${LOCALE_COPY.en.rootIndexTitle}`,
     '',
@@ -574,19 +657,43 @@ function renderRootDocsIndex(stats) {
     `- Roles exported: ${stats.role_count}`,
     `- Skills exported: ${stats.skill_count}`,
     '',
+    '## Start Here',
+    '',
+    '- [Explore all AI tools](https://www.aimyflow.com/en/explore)',
+    '- [Browse roles and workflows](https://www.aimyflow.com/en/roles)',
+    '- [Inspect `data/tools.json`](../data/tools.json)',
+    '- [Inspect `data/roles.json`](../data/roles.json)',
+    '',
     `## Continue on AimyFlow`,
     '',
     `- [Explore all AI tools](${buildLocaleSiteUrl(siteUrl, 'en', '/explore')})`,
     `- [Browse roles and workflows](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
     `- [See community voting](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
     '',
-    `## ${LOCALE_COPY.en.localeIndexLabel}`,
+    '## Data Files',
+    '',
+    '- [`data/tools.json`](../data/tools.json)',
+    '- [`data/roles.json`](../data/roles.json)',
+    '- [`data/skills.json`](../data/skills.json)',
+    '- [`data/stats.json`](../data/stats.json)',
+    '',
+    '## Featured Roles',
     '',
   ];
 
-  for (const locale of LOCALES) {
-    lines.push(`- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md)`);
+  for (const role of featuredRoles) {
+    lines.push(
+      `- [${role.title.en}](./en/roles/${role.doc_slug}.md): ${role.tool_count} tools, ${role.skill_count} skills`,
+    );
   }
+
+  lines.push(
+    '',
+    `## ${LOCALE_COPY.en.localeIndexLabel}`,
+    '',
+  );
+
+  lines.push(...topLocales);
 
   lines.push('');
 
@@ -771,7 +878,7 @@ async function main() {
   await writeJson('data/roles.json', roleRecords);
   await writeJson('data/skills.json', skillRecords);
   await writeJson('data/stats.json', stats);
-  await writeText('docs/index.md', renderRootDocsIndex(stats));
+  await writeText('docs/index.md', renderRootDocsIndex(stats, roleRecords));
 
   for (const locale of LOCALES) {
     await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, roleRecords, locale));
