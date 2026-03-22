@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 24
+- Herramientas asociadas: 27
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Otros roles educativos resume 27 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Evaluación del aprendizaje, Planificación de programas, Apoyo curricular, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 

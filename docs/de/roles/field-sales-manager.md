@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 126
+- Zugeordnete Tools: 174
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Außendienstleiter bündelt 174 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Gebietsplanung, Pipeline- und Forecast-Steuerung, Kanalumsetzung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -17,6 +21,7 @@
 
 ## Passende Tools
 
+- [11x-ai](https://www.aimyflow.com/de/ai/11x-ai): 11x ist eine KI-Plattform für digitale Arbeitskräfte, die Vertriebs-, RevOps- und Go-to-Market-Teams dabei unterstützt, Prospecting, Lead-Qualifizierung, Outreach, die Bearbeitung eingehender Anfragen und die Terminplanung über alle Kundenkontaktpunkte hinweg zu automatisieren. In KI-gestützten Revenue Operations kann sie SDRs, Revenue-Operations-Führungskräften und Growth-Teams helfen, weniger Zeit für manuelle Ausführung und mehr Zeit für Strategie, Priorisierung und Pipeline-Konvertierung aufzuwenden.
 - [2pr-io](https://www.aimyflow.com/de/ai/2pr-io): 2pr ist ein KI-gestützter LinkedIn-Post-Generator und ein Tool für Content-Workflows, das Nutzern hilft, Post-Ideen zu finden, authentische LinkedIn-Posts zu schreiben, Karussells zu erstellen sowie Inhalte zu planen und zu analysieren – hauptsächlich für Gründer, B2B-Vertriebs- und Marketingteams, Blogger und Jobsuchende. Für Fachkräfte, die auf LinkedIn eine persönliche Marke aufbauen, kann es die Ideenfindung und das Verfassen von Entwürfen optimieren und dabei profilbasierte Hinweise nutzen, damit Beiträge mit ihrer Expertise und Positionierung übereinstimmen.
 - [ads-tiktok-com](https://www.aimyflow.com/de/ai/ads-tiktok-com): TikTok for Business ist eine Werbeplattform, die Marken, Agenturen und Creators beim Erstellen, Verwalten und Optimieren von Kampagnen für TikTok-Formate und Zielgruppen unterstützt. Im KI-Zeitalter hilft sie Marketern, Creatives schneller zu testen und die Performance durch automatisierte Optimierung und Zielgruppen-Insights zu steigern.
 - [affint-ai](https://www.aimyflow.com/de/ai/affint-ai): Affint ist eine KI-Office-Suite, die Teams und Berufstätigen hilft, Präsentationen, Dokumente und Tabellenkalkulationen zu erstellen, indem sie Business-Apps verbindet, Informationen zusammenträgt und die Inhaltserstellung sowie Workflows automatisiert. Für Marketing-, Produkt- und Vertriebsteams kann sie manuelle Recherche und Kontextwechsel reduzieren, sodass sie markengerechte Ergebnisse erstellen und schneller datengestützte Entscheidungen treffen können.
@@ -24,7 +29,6 @@
 - [agentvoice-com](https://www.aimyflow.com/de/ai/agentvoice-com): AgentVoice ist eine KI-Sprachagentenplattform für Unternehmen und Betriebsteams, die eingehende und ausgehende Telefonanrufe bearbeitet, Termine plant, CRMs aktualisiert, Textnachrichten versendet und Workflows mit einer No-Code- oder API-basierten Einrichtung automatisiert. In KI-gestützten Kundenabläufen kann sie Vertriebs-, Support- und Callcenter-Teams dabei helfen, die manuelle Anrufbearbeitung und Dateneingabe zu reduzieren, während Kundengespräche mit realen Geschäftssystemen verknüpft bleiben.
 - [aiheadshotgenerator-media](https://www.aimyflow.com/de/ai/aiheadshotgenerator-media): Der AI Headshot Generator ist ein KI-Fototool, das 4 oder mehr Selfies in professionelle Porträtfotos für LinkedIn, Lebensläufe, Websites und Teamprofile verwandelt, vor allem für Jobsuchende, Fachkräfte und Unternehmen, die einheitliche Porträts benötigen. Für Recruiter, Marketingverantwortliche und Teams mit direktem Kundenkontakt kann es Profilaktualisierungen beschleunigen und die digital geprägte Glaubwürdigkeit stärken, ohne herkömmliche Fotoshootings koordinieren zu müssen.
 - [aipptmaker-ai](https://www.aimyflow.com/de/ai/aipptmaker-ai): AI PPT Maker ist ein kostenloser Online-KI-Präsentationsgenerator, der Text, PDFs, Websites, Videos, Audio und andere Dateien in bearbeitbare PowerPoint-Foliensätze umwandelt, hauptsächlich für Fachleute, Lehrkräfte und Unternehmer, die schnell Präsentationen benötigen. Für Geschäfts-, Lehr- und kundenorientierte Rollen kann er den manuellen Aufwand für die Folienerstellung reduzieren, indem Quellinhalte automatisch in präsentationsreife Gliederungen und Visualisierungen strukturiert werden.
-- [anvevoice-app](https://www.aimyflow.com/de/ai/anvevoice-app): AnveVoice ist eine Website-Sprach-KI-Plattform, die Unternehmen dabei unterstützt, einen Sprachassistenten hinzuzufügen, der Besucherfragen beantwortet, durch die Navigation führt, Formulare ausfüllt und Aufgaben erledigt – hauptsächlich für Website-Betreiber, Support-Teams und wachstumsorientierte Unternehmen. Im Rahmen KI-gestützter Web-Operationen kann sie Kundenservice-, Marketing- und Vertriebsteams dabei helfen, manuellen Aufwand zu reduzieren und zugleich mehr absichtsreiche Besucherinteraktionen direkt auf der Website zu erfassen.
 
 ## Auf AimyFlow fortfahren
 

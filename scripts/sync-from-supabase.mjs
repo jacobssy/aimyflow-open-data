@@ -14,6 +14,113 @@ const LOCAL_ENV_FILES = [
   '/root/aimyflow-aitools/.env.local',
   '/root/aimyflow-aitools/.env',
 ];
+const PRIMARY_LOCALES = ['en', 'zh'];
+const SECONDARY_LOCALES = LOCALES.filter((locale) => !PRIMARY_LOCALES.includes(locale));
+const PUBLISH_RULES = {
+  en: { minToolCount: 8, maxRoles: null },
+  zh: { minToolCount: 8, maxRoles: null },
+  es: { minToolCount: 20, maxRoles: 80 },
+  ja: { minToolCount: 20, maxRoles: 80 },
+  de: { minToolCount: 20, maxRoles: 80 },
+  fr: { minToolCount: 20, maxRoles: 80 },
+};
+const FEATURED_ROLE_PRIORITIES = {
+  en: [
+    'software-engineer',
+    'content-creator',
+    'copywriter',
+    'digital-marketing-director',
+    'project-management-officer',
+    'data-scientist',
+    'technical-writer',
+  ],
+  zh: [
+    'software-engineer',
+    'content-creator',
+    'data-scientist',
+    'copywriter',
+    'digital-marketing-director',
+    'project-management-officer',
+    'cybersecurity-analyst',
+  ],
+  es: [
+    'digital-marketing-director',
+    'e-commerce-seller',
+    'content-creator',
+    'copywriter',
+    'project-management-officer',
+    'software-engineer',
+  ],
+  ja: [
+    'software-engineer',
+    'project-management-officer',
+    'technical-writer',
+    'software-development-manager',
+    'data-scientist',
+    'content-creator',
+  ],
+  de: [
+    'software-development-manager',
+    'software-engineer',
+    'cybersecurity-analyst',
+    'it-infrastructure-manager',
+    'project-management-officer',
+    'data-engineer',
+  ],
+  fr: [
+    'content-creator',
+    'graphic-designer',
+    'copywriter',
+    'digital-marketing-director',
+    'customer-success-manager',
+    'software-engineer',
+  ],
+};
+const ROLE_ALIASES = {
+  'ai-engineer': 'software-engineer',
+  appliedscientists: 'applied-mathematician',
+  'applied-scientists': 'applied-mathematician',
+  bloggers: 'writers-and-authors',
+  'community-manager': 'customer-success-manager',
+  consumerother: 'other-sales-roles',
+  'consumer-other': 'other-sales-roles',
+  cto: 'coo',
+  'customer-service-manager': 'customer-success-manager',
+  'customer-support-manager': 'customer-success-manager',
+  customerother: 'other-sales-roles',
+  'customer-other': 'other-sales-roles',
+  'cyber-security-analyst': 'cybersecurity-analyst',
+  cybersecurityanalysts: 'cybersecurity-analyst',
+  'cyber-security-manager': 'cybersecurity-manager',
+  datascientists: 'data-scientist',
+  'data-scientists': 'data-scientist',
+  ecommerceseller: 'e-commerce-seller',
+  entrepreneurs: 'top-executives',
+  financialanalysts: 'financial-analyst',
+  'financial-analysts': 'financial-analyst',
+  influencers: 'social-media-content-creator',
+  'marketing-manager': 'marketing-and-sales-managers',
+  'online-store': 'e-commerce-seller',
+  operationsplanner: 'logistics-operations-planner',
+  'operations-planner': 'logistics-operations-planner',
+  otherservicespecialists: 'misc-service-specialists',
+  'other-service-specialists': 'misc-service-specialists',
+  productmanagementofficer: 'project-management-officer',
+  'product-management-officer': 'project-management-officer',
+  researchers: 'life-scientists',
+  salessalesreps: 'service-sales-reps',
+  'sales-sales-reps': 'service-sales-reps',
+  seospecialist: 'digital-marketing-director',
+  'seo-specialist': 'digital-marketing-director',
+  softwaredevelopers: 'software-engineer',
+  'software-developers': 'software-engineer',
+  softwareengineers: 'software-engineer',
+  'software-engineers': 'software-engineer',
+  'tech-support-specialists': 'information-technology-managers',
+};
+const MAX_UNMATCHED_ROLE_REFERENCE_RATIO = 0.05;
+const MIN_PRIMARY_PUBLISHED_ROLES = 30;
+const MIN_SECONDARY_PUBLISHED_ROLES = 20;
 
 const LOCALE_COPY = {
   en: {
@@ -62,6 +169,12 @@ const LOCALE_COPY = {
     rootIndexTitle: 'AimyFlow Open Data Docs',
     rootIndexIntro:
       'A public, multilingual entry point for exploring AI tools by role, with clean data exports on GitHub and deeper role pages on AimyFlow.',
+    publishedRoles: 'Published role pages',
+    coverageFull:
+      'This locale publishes the broader role set because coverage and localization quality are stronger here.',
+    coverageSelective:
+      'This locale currently publishes a curated head set of role pages so GitHub stays focused on the strongest localized entries.',
+    roleIntroHeading: 'Why This Role Page Exists',
   },
   zh: {
     nativeName: '中文',
@@ -106,6 +219,10 @@ const LOCALE_COPY = {
     localeIndexLabel: '多语言文档',
     rootIndexTitle: 'AimyFlow 开放数据文档',
     rootIndexIntro: '这里汇总了自动生成的多语言角色文档，并链接回 AimyFlow 主站的完整体验。',
+    publishedRoles: '已发布职业页',
+    coverageFull: '这个语言版本目前发布更完整的职业覆盖，因为这里的数据覆盖和本地化质量更稳定。',
+    coverageSelective: '这个语言版本目前只发布精选头部职业页，避免 GitHub 出现过多薄内容页面。',
+    roleIntroHeading: '为什么看这个职业页',
   },
   es: {
     nativeName: 'Español',
@@ -153,6 +270,12 @@ const LOCALE_COPY = {
     rootIndexTitle: 'Documentación de Datos Abiertos de AimyFlow',
     rootIndexIntro:
       'Esta carpeta contiene documentación multilingüe generada automáticamente con enlaces a la experiencia completa de AimyFlow.',
+    publishedRoles: 'Páginas de roles publicadas',
+    coverageFull:
+      'Este idioma publica una cobertura más amplia porque aquí la cobertura y la localización son más sólidas.',
+    coverageSelective:
+      'Este idioma publica por ahora un conjunto curado de roles principales para mantener GitHub enfocado en las mejores páginas localizadas.',
+    roleIntroHeading: 'Por qué existe esta página de rol',
   },
   ja: {
     nativeName: '日本語',
@@ -200,6 +323,12 @@ const LOCALE_COPY = {
     rootIndexTitle: 'AimyFlow オープンデータ文書',
     rootIndexIntro:
       'このフォルダには、自動生成された多言語の役割ドキュメントがあり、AimyFlow の完全な体験へリンクします。',
+    publishedRoles: '公開中の役割ページ',
+    coverageFull:
+      'この言語では、データのカバレッジとローカライズ品質が比較的高いため、より広い役割セットを公開しています。',
+    coverageSelective:
+      'この言語では、GitHub 上のページ品質を保つため、まず主要な役割ページに絞って公開しています。',
+    roleIntroHeading: 'この役割ページの目的',
   },
   de: {
     nativeName: 'Deutsch',
@@ -247,6 +376,12 @@ const LOCALE_COPY = {
     rootIndexTitle: 'AimyFlow Open-Data-Dokumentation',
     rootIndexIntro:
       'Dieser Ordner enthält automatisch erzeugte mehrsprachige Rollendokumente mit Links zur vollständigen AimyFlow-Erfahrung.',
+    publishedRoles: 'Veröffentlichte Rollenseiten',
+    coverageFull:
+      'Diese Sprache veröffentlicht eine breitere Rollenabdeckung, weil Datenlage und Lokalisierung hier belastbarer sind.',
+    coverageSelective:
+      'Diese Sprache veröffentlicht derzeit nur eine kuratierte Auswahl starker Rollen-Seiten, damit GitHub nicht mit dünnen Inhalten gefüllt wird.',
+    roleIntroHeading: 'Warum diese Rollen-Seite existiert',
   },
   fr: {
     nativeName: 'Français',
@@ -294,6 +429,12 @@ const LOCALE_COPY = {
     rootIndexTitle: 'Documentation Open Data AimyFlow',
     rootIndexIntro:
       'Ce dossier contient une documentation multilingue générée automatiquement avec des liens vers l’expérience complète AimyFlow.',
+    publishedRoles: 'Pages de rôles publiées',
+    coverageFull:
+      'Cette langue publie une couverture plus large car la qualité de couverture et de localisation y est plus solide.',
+    coverageSelective:
+      'Cette langue publie pour l’instant un ensemble sélectionné de rôles majeurs afin de garder GitHub concentré sur les meilleures pages localisées.',
+    roleIntroHeading: 'Pourquoi cette page de rôle existe',
   },
 };
 
@@ -362,6 +503,48 @@ function splitCommaSeparated(value) {
     .split(',')
     .map((item) => item.trim())
     .filter(Boolean);
+}
+
+function createLocaleCounterMap() {
+  return Object.fromEntries(LOCALES.map((locale) => [locale, 0]));
+}
+
+function normalizeRoleReference(value) {
+  return String(value || '')
+    .trim()
+    .replace(/[.,!?;:]+$/g, '')
+    .replace(/[\\/]+/g, '-')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .toLowerCase();
+}
+
+function collapseRoleReference(value) {
+  return normalizeRoleReference(value).replace(/[^a-z0-9]/g, '');
+}
+
+function buildRoleReferenceKeys(value) {
+  const normalized = normalizeRoleReference(value);
+  const collapsed = collapseRoleReference(value);
+  const keys = new Set();
+
+  if (normalized) {
+    keys.add(normalized);
+  }
+
+  if (collapsed) {
+    keys.add(collapsed);
+  }
+
+  if (normalized.endsWith('s') && normalized.length > 4) {
+    keys.add(normalized.slice(0, -1));
+  }
+
+  if (collapsed.endsWith('s') && collapsed.length > 4) {
+    keys.add(collapsed.slice(0, -1));
+  }
+
+  return [...keys];
 }
 
 function humanizeSlug(slug) {
@@ -450,6 +633,14 @@ function formatSummary(text) {
   return text.replace(/\s+/g, ' ').trim();
 }
 
+function countLocalizedFallback(record, localizedFieldName, fallbackFieldNames, locale) {
+  if (locale === 'en') {
+    return 0;
+  }
+
+  return record[localizedFieldName] ? 0 : fallbackFieldNames.some((fieldName) => record[fieldName]) ? 1 : 0;
+}
+
 function buildLocaleSiteUrl(siteUrl, locale, pathname) {
   return `${siteUrl}/${locale}${pathname}`;
 }
@@ -478,30 +669,119 @@ async function writeText(relativePath, value) {
   await fs.writeFile(absolutePath, value, 'utf8');
 }
 
-function buildToolRecord(tool, rolesBySlug, siteUrl) {
+function buildRoleLookup(roles) {
+  const byKey = new Map();
+
+  function registerVariant(role, variant) {
+    for (const key of buildRoleReferenceKeys(variant)) {
+      if (!byKey.has(key)) {
+        byKey.set(key, role);
+      }
+    }
+  }
+
+  for (const role of roles) {
+    const rolePreview = {
+      slug: role.name,
+      doc_slug: toRoleDocSlug(role.name),
+      title: {
+        en: firstNonEmpty([role.title_en, role.title, humanizeSlug(role.name)]),
+        zh: firstNonEmpty([role.title_zh, role.title_en, role.title, humanizeSlug(role.name)]),
+        es: firstNonEmpty([role.title_es, role.title_en, role.title, humanizeSlug(role.name)]),
+        ja: firstNonEmpty([role.title_ja, role.title_en, role.title, humanizeSlug(role.name)]),
+        de: firstNonEmpty([role.title_de, role.title_en, role.title, humanizeSlug(role.name)]),
+        fr: firstNonEmpty([role.title_fr, role.title_en, role.title, humanizeSlug(role.name)]),
+      },
+    };
+
+    registerVariant(rolePreview, rolePreview.slug);
+    registerVariant(rolePreview, rolePreview.doc_slug);
+
+    for (const locale of LOCALES) {
+      registerVariant(rolePreview, rolePreview.title[locale]);
+    }
+  }
+
+  return { byKey };
+}
+
+function resolveRoleReference(rawRoleSlug, labels, roleLookup) {
+  const candidates = new Set();
+
+  for (const value of [rawRoleSlug, labels.en, labels.zh, labels.es, labels.ja, labels.de, labels.fr]) {
+    for (const key of buildRoleReferenceKeys(value)) {
+      candidates.add(key);
+    }
+  }
+
+  for (const candidate of candidates) {
+    const aliasTarget = ROLE_ALIASES[candidate];
+
+    if (aliasTarget) {
+      for (const aliasKey of buildRoleReferenceKeys(aliasTarget)) {
+        const aliasedRole = roleLookup.byKey.get(aliasKey);
+
+        if (aliasedRole) {
+          return aliasedRole;
+        }
+      }
+    }
+
+    const directRole = roleLookup.byKey.get(candidate);
+
+    if (directRole) {
+      return directRole;
+    }
+  }
+
+  return null;
+}
+
+function buildToolRecord(tool, roleLookup, siteUrl) {
   const roleSlugs = splitCommaSeparated(tool.category_name);
   const localizedRoleNames = Object.fromEntries(
     LOCALES.map((locale) => [locale, splitCommaSeparated(getLocalizedField(tool, 'category_name', locale))]),
   );
+  const roles = [];
+  const unmatched_roles = [];
+  const seenRoleSlugs = new Set();
 
-  const roles = roleSlugs.map((roleSlug, index) => {
-    const role = rolesBySlug.get(roleSlug);
+  for (const [index, roleSlug] of roleSlugs.entries()) {
     const labels = Object.fromEntries(
       LOCALES.map((locale) => [
         locale,
-        localizedRoleNames[locale][index] || role?.title?.[locale] || role?.title?.en || humanizeSlug(roleSlug),
+        localizedRoleNames[locale][index] || humanizeSlug(roleSlug),
       ]),
     );
-    const aimyflow_urls = Object.fromEntries(
-      LOCALES.map((locale) => [locale, buildLocaleSiteUrl(siteUrl, locale, `/role/${encodePathSegment(roleSlug)}`)]),
-    );
+    const resolvedRole = resolveRoleReference(roleSlug, labels, roleLookup);
 
-    return {
-      slug: roleSlug,
-      labels,
-      aimyflow_urls,
-    };
-  });
+    if (!resolvedRole) {
+      unmatched_roles.push({
+        slug: roleSlug,
+        labels,
+      });
+      continue;
+    }
+
+    if (seenRoleSlugs.has(resolvedRole.slug)) {
+      continue;
+    }
+
+    seenRoleSlugs.add(resolvedRole.slug);
+    roles.push({
+      slug: resolvedRole.slug,
+      doc_slug: resolvedRole.doc_slug,
+      labels: Object.fromEntries(
+        LOCALES.map((locale) => [locale, resolvedRole.title[locale] || resolvedRole.title.en || humanizeSlug(resolvedRole.slug)]),
+      ),
+      aimyflow_urls: Object.fromEntries(
+        LOCALES.map((locale) => [
+          locale,
+          buildLocaleSiteUrl(siteUrl, locale, `/role/${encodePathSegment(resolvedRole.slug)}`),
+        ]),
+      ),
+    });
+  }
 
   return {
     id: tool.id,
@@ -514,6 +794,7 @@ function buildToolRecord(tool, rolesBySlug, siteUrl) {
     image_url: tool.thumbnail_url || tool.image_url,
     collected_at: tool.collection_time,
     roles,
+    unmatched_roles,
     summary: {
       en: formatSummary(firstNonEmpty([tool.content_en, tool.content, tool.title_en, tool.title, tool.name])),
       zh: formatSummary(firstNonEmpty([tool.content_zh, tool.content_en, tool.title_zh, tool.title_en, tool.name])),
@@ -587,6 +868,179 @@ function buildRoleRecord(role, toolsForRole, skillsForRole, siteUrl) {
   };
 }
 
+function getLocaleCoverageNote(locale, publishedRoleCount, totalRoleCount) {
+  const copy = LOCALE_COPY[locale];
+  return PRIMARY_LOCALES.includes(locale) ? copy.coverageFull : copy.coverageSelective;
+}
+
+function buildRoleIntro(roleRecord, locale) {
+  const roleName = roleRecord.title[locale];
+  const topSkillNames = roleRecord.skills
+    .slice(0, 3)
+    .map((skill) => skill.title[locale])
+    .filter(Boolean)
+    .join(', ');
+  const toolCount = roleRecord.tool_count;
+  const skillCount = roleRecord.skill_count;
+
+  switch (locale) {
+    case 'zh':
+      return `${roleName} 这页聚焦 ${toolCount} 个相关 AI 工具和 ${skillCount} 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 ${topSkillNames || '核心技能整理'}，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。`;
+    case 'es':
+      return `Esta página de ${roleName} resume ${toolCount} herramientas IA relacionadas y ${skillCount} habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como ${topSkillNames || 'habilidades clave'}, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.`;
+    case 'ja':
+      return `${roleName} 向けのこのページでは、関連する AI ツール ${toolCount} 件と主要スキル ${skillCount} 件をまとめ、GitHub 上で素早く全体像を確認できるようにしています。特に ${topSkillNames || '主要スキル'} の観点が目立ち、最新の投票や詳細な workflow は AimyFlow 本体で確認できます。`;
+    case 'de':
+      return `Diese Seite für ${roleName} bündelt ${toolCount} passende KI-Tools und ${skillCount} Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem ${topSkillNames || 'Kernkompetenzen'} hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.`;
+    case 'fr':
+      return `Cette page ${roleName} regroupe ${toolCount} outils IA liés et ${skillCount} compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont ${topSkillNames || 'les compétences clés'}, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.`;
+    case 'en':
+    default:
+      return `This ${roleName} page highlights ${toolCount} relevant AI tools and ${skillCount} core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around ${topSkillNames || 'core skills'}, while live rankings, community voting, and deeper workflows remain on AimyFlow.`;
+  }
+}
+
+function getRolePriorityIndex(locale, roleRecord) {
+  const priorities = FEATURED_ROLE_PRIORITIES[locale] || [];
+  return priorities.indexOf(roleRecord.doc_slug);
+}
+
+function sortRolesForLocale(roleRecords, locale) {
+  return roleRecords.slice().sort((left, right) => {
+    const leftPriority = getRolePriorityIndex(locale, left);
+    const rightPriority = getRolePriorityIndex(locale, right);
+
+    if (leftPriority !== rightPriority) {
+      if (leftPriority === -1) {
+        return 1;
+      }
+
+      if (rightPriority === -1) {
+        return -1;
+      }
+
+      return leftPriority - rightPriority;
+    }
+
+    if (right.tool_count !== left.tool_count) {
+      return right.tool_count - left.tool_count;
+    }
+
+    return left.title.en.localeCompare(right.title.en);
+  });
+}
+
+function getPublishedRolesForLocale(roleRecords, locale) {
+  const rule = PUBLISH_RULES[locale];
+  const filteredRoles = roleRecords.filter((roleRecord) => roleRecord.tool_count >= rule.minToolCount);
+  const sortedRoles = sortRolesForLocale(filteredRoles, locale);
+
+  return rule.maxRoles ? sortedRoles.slice(0, rule.maxRoles) : sortedRoles;
+}
+
+function buildPublicationSummary(publishedRolesByLocale) {
+  return {
+    primary_locales: PRIMARY_LOCALES,
+    secondary_locales: SECONDARY_LOCALES,
+    locale_rules: Object.fromEntries(
+      LOCALES.map((locale) => [
+        locale,
+        {
+          min_tool_count: PUBLISH_RULES[locale].minToolCount,
+          max_roles: PUBLISH_RULES[locale].maxRoles,
+        },
+      ]),
+    ),
+    published_role_counts: Object.fromEntries(
+      LOCALES.map((locale) => [locale, publishedRolesByLocale[locale].length]),
+    ),
+  };
+}
+
+function buildQualitySummary({ roleRecords, toolRecords, rawRoles, rawTools, rawSkills, unmatchedRoleReferenceCount, toolsWithUnmatchedRoles }) {
+  const toolTitleFallbacks = createLocaleCounterMap();
+  const toolSummaryFallbacks = createLocaleCounterMap();
+  const roleTitleFallbacks = createLocaleCounterMap();
+  const skillTitleFallbacks = createLocaleCounterMap();
+  const skillDescriptionFallbacks = createLocaleCounterMap();
+
+  for (const tool of rawTools) {
+    for (const locale of LOCALES) {
+      toolTitleFallbacks[locale] += countLocalizedFallback(tool, `title_${locale}`, ['title_en', 'title', 'name'], locale);
+      toolSummaryFallbacks[locale] += countLocalizedFallback(
+        tool,
+        `content_${locale}`,
+        ['content_en', 'content', 'title_en', 'title', 'name'],
+        locale,
+      );
+    }
+  }
+
+  for (const role of rawRoles) {
+    for (const locale of LOCALES) {
+      roleTitleFallbacks[locale] += countLocalizedFallback(role, `title_${locale}`, ['title_en', 'title', 'name'], locale);
+    }
+  }
+
+  for (const skill of rawSkills) {
+    for (const locale of LOCALES) {
+      skillTitleFallbacks[locale] += countLocalizedFallback(skill, `title_${locale}`, ['title_en', 'title'], locale);
+      skillDescriptionFallbacks[locale] += countLocalizedFallback(
+        skill,
+        `description_${locale}`,
+        ['description_en', 'description'],
+        locale,
+      );
+    }
+  }
+
+  const totalRoleReferenceCount = toolRecords.reduce(
+    (count, toolRecord) => count + toolRecord.roles.length + toolRecord.unmatched_roles.length,
+    0,
+  );
+
+  return {
+    zero_tool_roles_total: roleRecords.filter((roleRecord) => roleRecord.tool_count === 0).length,
+    tools_with_unmatched_roles: toolsWithUnmatchedRoles,
+    total_role_references: totalRoleReferenceCount,
+    matched_role_references: totalRoleReferenceCount - unmatchedRoleReferenceCount,
+    unmatched_role_references: unmatchedRoleReferenceCount,
+    unmatched_role_reference_ratio:
+      totalRoleReferenceCount > 0 ? Number((unmatchedRoleReferenceCount / totalRoleReferenceCount).toFixed(4)) : 0,
+    tool_title_fallbacks: toolTitleFallbacks,
+    tool_summary_fallbacks: toolSummaryFallbacks,
+    role_title_fallbacks: roleTitleFallbacks,
+    skill_title_fallbacks: skillTitleFallbacks,
+    skill_description_fallbacks: skillDescriptionFallbacks,
+  };
+}
+
+function assertQuality(stats) {
+  const failures = [];
+
+  if (stats.quality.unmatched_role_reference_ratio > MAX_UNMATCHED_ROLE_REFERENCE_RATIO) {
+    failures.push(
+      `unmatched role reference ratio ${stats.quality.unmatched_role_reference_ratio} exceeded ${MAX_UNMATCHED_ROLE_REFERENCE_RATIO}`,
+    );
+  }
+
+  for (const locale of PRIMARY_LOCALES) {
+    if (stats.publication.published_role_counts[locale] < MIN_PRIMARY_PUBLISHED_ROLES) {
+      failures.push(`primary locale ${locale} only published ${stats.publication.published_role_counts[locale]} role pages`);
+    }
+  }
+
+  for (const locale of SECONDARY_LOCALES) {
+    if (stats.publication.published_role_counts[locale] < MIN_SECONDARY_PUBLISHED_ROLES) {
+      failures.push(`secondary locale ${locale} only published ${stats.publication.published_role_counts[locale]} role pages`);
+    }
+  }
+
+  if (failures.length > 0) {
+    throw new Error(`Quality checks failed:\n- ${failures.join('\n- ')}`);
+  }
+}
+
 function renderRoleDoc(roleRecord, locale) {
   const copy = LOCALE_COPY[locale];
   const siteOrigin = getSiteOrigin(roleRecord.aimyflow_urls[locale]);
@@ -601,6 +1055,9 @@ function renderRoleDoc(roleRecord, locale) {
     `- ${copy.skillCards}: ${roleRecord.skill_count}`,
     '',
   ];
+
+  lines.push(`## ${copy.roleIntroHeading}`, '');
+  lines.push(buildRoleIntro(roleRecord, locale), '');
 
   if (roleRecord.skills.length > 0) {
     lines.push(`## ${copy.coreSkills}`, '');
@@ -644,6 +1101,7 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
   const copy = LOCALE_COPY[locale];
   const siteUrl = stats.site_url;
   const featuredRoles = roleRecords.slice(0, 18);
+  const coverageNote = getLocaleCoverageNote(locale, roleRecords.length, stats.role_count);
   const lines = [
     `# ${copy.docsTitle}`,
     '',
@@ -654,12 +1112,14 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     `- ${copy.toolsExported}: ${stats.tool_count}`,
     `- ${copy.rolesExported}: ${stats.role_count}`,
     `- ${copy.skillsExported}: ${stats.skill_count}`,
+    `- ${copy.publishedRoles}: ${roleRecords.length}`,
     '',
     `## ${copy.whyUseHeading}`,
     '',
     `- ${copy.whyUsePoint1}`,
     `- ${copy.whyUsePoint2}`,
     `- ${copy.whyUsePoint3}`,
+    `- ${coverageNote}`,
     '',
     `## ${copy.bestForHeading}`,
     '',
@@ -713,10 +1173,12 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
   return `${lines.join('\n')}\n`;
 }
 
-function renderRootDocsIndex(stats, roleRecords) {
+function renderRootDocsIndex(stats, publishedRolesByLocale) {
   const siteUrl = stats.site_url;
-  const topLocales = LOCALES.map((locale) => `- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md)`);
-  const featuredRoles = roleRecords.slice(0, 12);
+  const topLocales = LOCALES.map(
+    (locale) => `- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md): ${stats.publication.published_role_counts[locale]} published role pages`,
+  );
+  const featuredRoles = publishedRolesByLocale.en.slice(0, 12);
   const lines = [
     `# ${LOCALE_COPY.en.rootIndexTitle}`,
     '',
@@ -727,12 +1189,15 @@ function renderRootDocsIndex(stats, roleRecords) {
     `- Tools exported: ${stats.tool_count}`,
     `- Roles exported: ${stats.role_count}`,
     `- Skills exported: ${stats.skill_count}`,
+    `- Published role pages (en): ${stats.publication.published_role_counts.en}`,
+    `- Published role pages (zh): ${stats.publication.published_role_counts.zh}`,
     '',
     `## ${LOCALE_COPY.en.whyUseHeading}`,
     '',
     `- ${LOCALE_COPY.en.whyUsePoint1}`,
     `- ${LOCALE_COPY.en.whyUsePoint2}`,
     `- ${LOCALE_COPY.en.whyUsePoint3}`,
+    '- Primary locales publish broader coverage, while secondary locales stay curated so GitHub concentrates on stronger localized pages.',
     '',
     `## ${LOCALE_COPY.en.bestForHeading}`,
     '',
@@ -876,26 +1341,18 @@ async function main() {
     ),
   ]);
 
-  const rolePreviewIndex = new Map(
-    roles.map((role) => [
-      role.name,
-      {
-        title: {
-          en: firstNonEmpty([role.title_en, role.title, humanizeSlug(role.name)]),
-          zh: firstNonEmpty([role.title_zh, role.title_en, role.title, humanizeSlug(role.name)]),
-          es: firstNonEmpty([role.title_es, role.title_en, role.title, humanizeSlug(role.name)]),
-          ja: firstNonEmpty([role.title_ja, role.title_en, role.title, humanizeSlug(role.name)]),
-          de: firstNonEmpty([role.title_de, role.title_en, role.title, humanizeSlug(role.name)]),
-          fr: firstNonEmpty([role.title_fr, role.title_en, role.title, humanizeSlug(role.name)]),
-        },
-      },
-    ]),
-  );
-
-  const toolRecords = tools.map((tool) => buildToolRecord(tool, rolePreviewIndex, siteUrl));
+  const roleLookup = buildRoleLookup(roles);
+  const toolRecords = tools.map((tool) => buildToolRecord(tool, roleLookup, siteUrl));
   const toolsByRole = new Map();
+  let unmatchedRoleReferenceCount = 0;
+  let toolsWithUnmatchedRoles = 0;
 
   for (const toolRecord of toolRecords) {
+    if (toolRecord.unmatched_roles.length > 0) {
+      unmatchedRoleReferenceCount += toolRecord.unmatched_roles.length;
+      toolsWithUnmatchedRoles += 1;
+    }
+
     for (const role of toolRecord.roles) {
       if (!toolsByRole.has(role.slug)) {
         toolsByRole.set(role.slug, []);
@@ -965,19 +1422,35 @@ async function main() {
     tool_count: toolRecords.length,
     role_count: roleRecords.length,
     skill_count: skillRecords.length,
+    quality: buildQualitySummary({
+      roleRecords,
+      toolRecords,
+      rawRoles: roles,
+      rawTools: tools,
+      rawSkills: skills,
+      unmatchedRoleReferenceCount,
+      toolsWithUnmatchedRoles,
+    }),
   };
+
+  const publishedRolesByLocale = Object.fromEntries(
+    LOCALES.map((locale) => [locale, getPublishedRolesForLocale(roleRecords, locale)]),
+  );
+  stats.publication = buildPublicationSummary(publishedRolesByLocale);
+
+  assertQuality(stats);
 
   await writeJson('data/tools.json', toolRecords);
   await writeJson('data/roles.json', roleRecords);
   await writeJson('data/skills.json', skillRecords);
   await writeJson('data/stats.json', stats);
   await writeText('docs/_config.yml', renderDocsSiteConfig());
-  await writeText('docs/index.md', renderRootDocsIndex(stats, roleRecords));
+  await writeText('docs/index.md', renderRootDocsIndex(stats, publishedRolesByLocale));
 
   for (const locale of LOCALES) {
-    await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, roleRecords, locale));
+    await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, publishedRolesByLocale[locale], locale));
 
-    for (const roleRecord of roleRecords) {
+    for (const roleRecord of publishedRolesByLocale[locale]) {
       await writeText(`docs/${locale}/roles/${roleRecord.doc_slug}.md`, renderRoleDoc(roleRecord, locale));
     }
   }

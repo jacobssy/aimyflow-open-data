@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 18
+- Tool matches: 20
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Other Arts Roles page highlights 20 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Artistic Research, Concept Development, Production Planning, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 

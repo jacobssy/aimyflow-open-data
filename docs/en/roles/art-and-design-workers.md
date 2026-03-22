@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 14
+- Tool matches: 16
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Art and Design Workers page highlights 16 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Concept Development, Visual Composition, Design Production, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 

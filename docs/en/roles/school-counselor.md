@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 48
+- Tool matches: 62
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This School Counselor page highlights 62 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Student Assessment, Counseling Intervention, Academic Planning, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -18,13 +22,13 @@
 ## Matched Tools
 
 - [agendahero-com-magic](https://www.aimyflow.com/en/ai/agendahero-com-magic): Agenda Hero Magic is an AI scheduling tool that turns text, images, and PDFs into calendar events users can send to themselves, mainly for people who need to capture schedules quickly from unstructured information. For assistants, coordinators, and other time-management roles, it can reduce manual calendar entry and speed up converting shared documents or messages into usable schedules.
+- [aicareercoach-org](https://www.aimyflow.com/en/ai/aicareercoach-org): Coach is an AI-powered career coach from CareerVillage.org that provides career readiness activities and expert-backed guidance to help learners explore careers, build job-search skills, and navigate transitions, mainly for students, job seekers, colleges, workforce programs, and online learning platforms. In AI-enabled career services, it can help career advisors, educators, and workforce teams extend personalized support at scale so staff can focus on higher-impact conversations.
+- [aifreeforever-com-tools-riddles-answer](https://www.aimyflow.com/en/ai/aifreeforever-com-tools-riddles-answer): Riddles Answer Solver is an AI tool that helps users enter riddles, brain teasers, logic puzzles, and some math problems to get answers with step-by-step explanations, mainly for students, teachers, parents, and puzzle enthusiasts. In AI-assisted learning, it can support teaching and tutoring work by making the reasoning behind wordplay and logic puzzles easier to explain and review.
 - [aimag-me](https://www.aimyflow.com/en/ai/aimag-me): aimag.me is an AI-powered tarot reading tool that helps people use a full 78-card deck and multiple spreads for self-reflection, question-based readings, and learning tarot without sign-up. For coaches, counselors, writers, and other reflective practitioners, it can support faster pattern recognition and more structured prompts for personal insight while leaving interpretation to the user.
 - [aiscan24-com](https://www.aimyflow.com/en/ai/aiscan24-com): AIscan24 is a free AI text detector that checks pasted text for statistical similarity to AI-generated or rewritten content from tools like ChatGPT, Gemini, or Claude, mainly for people who need a quick estimate without sign-up. For educators, editors, and reviewers, it can support faster screening of submitted writing while preserving data privacy by evaluating text on a German server and deleting it after analysis.
 - [aitherapy-care](https://www.aimyflow.com/en/ai/aitherapy-care): Faye is an AI emotional regulation companion that helps people manage anxiety, stress, burnout, grief, relationship problems, and other everyday emotional challenges through private, personalized, CBT-informed conversations, mainly for individuals seeking accessible support between or outside therapy. For therapists and mental health-adjacent professionals, tools like Faye can help clients practice regulation skills and notice emotional patterns between sessions, making human care more focused.
+- [app-pokamind-com](https://www.aimyflow.com/en/ai/app-pokamind-com): PokaMind is an AI-based mental care platform that uses science and artificial intelligence to make mental care more accessible, mainly for people seeking support and organizations using its solutions. For mental health and workplace support teams, AI tools like this can help extend access to care and streamline how users engage with support services.
 - [astrologybot-app-en](https://www.aimyflow.com/en/ai/astrologybot-app-en): Astrology Bot is an AI-powered natal chart analysis tool that helps users add birth details, ask questions, and explore chart-based interpretations, mainly for people interested in understanding themselves and others through astrology. By linking interactive chart elements to AI explanations, it can help astrologers and astrology students examine chart mechanics faster and discuss interpretations with clearer context.
-- [berean-ai](https://www.aimyflow.com/en/ai/berean-ai): Berean.ai is an AI-powered biblical theology and Christian guidance tool that helps users ask private questions about Christianity, theology, and biblical interpretation, mainly for Christians seeking answers grounded in Reformed theology with scripture references. For pastors, teachers, and other ministry workers, it can speed initial theological research and daily Bible-reading preparation while keeping responses tied to cited scripture.
-- [chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio](https://www.aimyflow.com/en/ai/chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio): Decision Forcing Studio is a custom ChatGPT strategist that helps users frame requests and responses with visual urgency cues such as green, yellow, or red, mainly for people handling time-sensitive written decisions or supervisory review matters. In AI-supported workflows, this can help policy, compliance, and case-handling professionals communicate urgency more consistently and structure escalation-related writing with clearer prioritization.
-- [connectthedotsprintable-online](https://www.aimyflow.com/en/ai/connectthedotsprintable-online): ConnectTheDotsPrintable.online is an online connect-the-dots generator that helps users turn photos, drawings, or text prompts into printable dot-to-dot worksheets, mainly for parents, teachers, and puzzle enthusiasts. For educators and activity creators, its AI-assisted image conversion and adjustable difficulty can speed up making age-appropriate printable materials for home or classroom use.
 
 ## Continue on AimyFlow
 

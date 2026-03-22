@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 31
+- Tool matches: 38
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Test Prep Tutor page highlights 38 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Diagnostic Assessment, Study Plan Design, Exam Strategy Coaching, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [aifreeforever-com-tools-riddles-answer](https://www.aimyflow.com/en/ai/aifreeforever-com-tools-riddles-answer): Riddles Answer Solver is an AI tool that helps users enter riddles, brain teasers, logic puzzles, and some math problems to get answers with step-by-step explanations, mainly for students, teachers, parents, and puzzle enthusiasts. In AI-assisted learning, it can support teaching and tutoring work by making the reasoning behind wordplay and logic puzzles easier to explain and review.
+- [bestsatscore-com](https://www.aimyflow.com/en/ai/bestsatscore-com): Best SAT Score is a digital SAT prep platform that helps students prepare for the exam with adaptive full-length practice tests, an expert-curated question bank, flashcards, score calculation, and AI-powered study plans. For students, tutors, and college admissions coaches, these AI-supported planning and performance insights can make SAT preparation more targeted and easier to adjust based on weak areas.
 - [evalyy-com](https://www.aimyflow.com/en/ai/evalyy-com): Evalyy is an AI-powered quiz and video generation platform that turns chapter PDFs into interactive assessments and educational videos for teachers, students, and parents preparing for exams or supporting learning. For teaching and study workflows, it can speed content creation and revision by generating curriculum-aligned question sets and multilingual explanations from existing materials.
 - [flashbackstudy-com](https://www.aimyflow.com/en/ai/flashbackstudy-com): Flashback is an AI study partner that helps students turn course materials like PDFs, YouTube videos, Notion pages, and pasted text into flashcards, quizzes, and active-recall study sessions. For students and other academic learners, it can streamline exam preparation by automating recall practice and giving instant feedback that supports stronger retention and understanding.
 - [flashka-ai](https://www.aimyflow.com/en/ai/flashka-ai): Flashka is an AI study tool that helps students generate flashcards from notes or highlighted text, review them with spaced repetition, and test understanding with quizzes across many subjects and languages. For learners and educators, this can streamline study prep and reinforce long-term retention by turning source material into structured practice faster.
+- [getquiz-ai](https://www.aimyflow.com/en/ai/getquiz-ai): GetQuiz is an AI study tool that turns textbooks and notes into interactive quizzes and short TikTok-style videos, mainly for students, including those who prefer visual or ADHD-friendly learning formats. By converting dense course materials into focused practice and bite-sized explanations, it can help students prepare for exams more efficiently and retain complex concepts.
+- [gogradly-com](https://www.aimyflow.com/en/ai/gogradly-com): Gradly is an AI platform that helps students with college admissions essays, scholarship matching, resumes, and mock interview preparation, mainly for college applicants and early-career job seekers. In AI-assisted admissions and hiring workflows, it can help students and career services teams produce more tailored application materials and practice responses with greater consistency.
 - [hisocra-com](https://www.aimyflow.com/en/ai/hisocra-com): Socra is a Socratic AI tutor and learning platform that helps students, self-learners, and professionals build understanding through guided dialogue, recall practice, and reusable study notes. It supports educators and trainers by capturing reasoning processes and turning sessions into structured learning assets.
-- [hkuds-github-io-DeepTutor](https://www.aimyflow.com/en/ai/hkuds-github-io-DeepTutor): DeepTutor is an AI learning assistant that turns documents into interactive study resources with document Q&A, step-by-step problem solving, quiz generation, guided learning, and research support, mainly for students, educators, and researchers. In AI-assisted education and research workflows, it can help these users study and analyze complex materials more efficiently by combining retrieval, knowledge graphs, and cited multi-agent reasoning.
-- [honen-com](https://www.aimyflow.com/en/ai/honen-com): Honen is an AI-powered learning platform that helps learners and organizations create or take multi-format courses on any topic, with a personal AI tutor that adapts lessons, pace, and format. For educators, trainers, and workforce development teams, this can speed course creation from existing materials while personalizing instruction across different learner needs.
-- [knowt-com](https://www.aimyflow.com/en/ai/knowt-com): Knowt is a study platform and Quizlet alternative that helps students and teachers create, import, and practice flashcards with multiple study modes. It supports modern learning workflows by making study content easier to reuse, review, and scale across classes.
-- [languagetool-org](https://www.aimyflow.com/en/ai/languagetool-org): LanguageTool is an AI-powered grammar and writing assistant that helps users check grammar, spelling, punctuation, and style across more than 30 languages, mainly for students, professionals, and multilingual teams. It helps writing-heavy roles communicate more clearly and edit faster at scale.
 
 ## Continue on AimyFlow
 

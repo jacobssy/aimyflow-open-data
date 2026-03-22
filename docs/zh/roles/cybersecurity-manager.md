@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 63
+- 匹配工具数: 72
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+网络安全经理 这页聚焦 72 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 安全战略, 风险评估, 事件响应，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -23,8 +27,8 @@
 - [aiqamonkey-com](https://www.aimyflow.com/zh/ai/aiqamonkey-com): AI QA Monkey 是一款免费的 AI 驱动网站安全扫描器，可在约一分钟内运行 75+ 项检查，帮助代理机构、SaaS 团队、开发者和注重安全的创始人识别 SSL/TLS 弱点、暴露文件、开放端口、CORS 风险以及 WordPress 漏洞等问题。对于安全、IT 和网站运维团队，其可导出的报告和 AI 修复提示可加快分诊，并帮助将扫描结果转化为更快速的修复工作流。
 - [aiqbee-com](https://www.aimyflow.com/zh/ai/aiqbee-com): Aiqbee 是一个面向企业的 AI 记忆平台，通过集中管理公司知识、将其连接到 Teams 和 IDE 等工具，并增加治理控制，为任何 LLM 或 AI 工具提供持久的组织上下文，主要面向在团队间管理 AI 使用的企业。对于 IT、运营、支持和开发等职能部门，它可通过在经批准的 AI 工作流中提供可共享的知识，减少重复提示并提升一致性。
 - [aivyx-studio-com](https://www.aimyflow.com/zh/ai/aivyx-studio-com): Aivyx 是一个开源、隐私优先的 AI 平台，用于在您自己的机器上运行加密、以本地优先的助手，支持工具、记忆、语音和 API，主要面向开发者、注重安全的团队，以及需要掌控数据和部署的组织。 在 AI 工作流中，它可以帮助工程、IT 和平台团队构建并运营智能体，相比仅依赖云端的方案，具备更强的数据所有权、可审计性和策略控制能力。
+- [alphavision-ai](https://www.aimyflow.com/zh/ai/alphavision-ai): Alpha Vision 是一个物理 AI 安全平台，利用 AI 代理和工作流来监控室外场所、检测不安全或未经授权的活动、阻止擅入并搜索录像，主要服务于建筑、教育、零售、公用事业和商业地产等行业中的安保、安全和运营团队。在 AI 赋能的安全运营中，它可以帮助现场管理者、调查人员和安全负责人更快响应、更高效地审查事件，并在大型或分布式物业中保持更广泛的覆盖范围。
 - [bolt-new](https://www.aimyflow.com/zh/ai/bolt-new): Bolt 是 AI 应用构建平台，可将提示词快速生成可用的 Web 应用，适合创始人、产品团队和原型开发者。在 AI 时代，它能加速从想法到原型的验证流程。
-- [cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html](https://www.aimyflow.com/zh/ai/cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html): Cisco AI Canvas 是一个面向 AgenticOps 的共享生成式工作空间，将跨域 IT 遥测数据、团队和智能体汇聚在一起，帮助 IT 运营团队在统一视图下协作和工作。在 AI 驱动的运营中，这种共享工作空间可帮助 IT 运维人员和工程师更快地解读数据，并以更少的人工交接在各个领域之间协调响应。
 
 ## 继续访问 AimyFlow
 

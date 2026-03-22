@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 34
+- Herramientas asociadas: 43
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Especialistas en operaciones empresariales resume 43 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Optimización de procesos, Reportes operativos, Coordinación interfuncional, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 

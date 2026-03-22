@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 126
+- Herramientas asociadas: 174
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerente de ventas de campo resume 174 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación territorial, Control de pipeline y pronóstico, Ejecución de canal, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -17,6 +21,7 @@
 
 ## Herramientas relacionadas
 
+- [11x-ai](https://www.aimyflow.com/es/ai/11x-ai): 11x es una plataforma de trabajadores digitales con IA que ayuda a los equipos de ventas, RevOps y go-to-market a automatizar la prospección, la calificación de leads, el outreach, la gestión de entradas y la programación de reuniones en todos los puntos de contacto con el cliente. En las operaciones de ingresos impulsadas por IA, puede ayudar a los SDR, a los líderes de operaciones de ingresos y a los equipos de crecimiento a dedicar menos tiempo a la ejecución manual y más a la estrategia, la priorización y la conversión del pipeline.
 - [2pr-io](https://www.aimyflow.com/es/ai/2pr-io): 2pr es un generador de publicaciones para LinkedIn con IA y una herramienta de flujo de trabajo de contenido que ayuda a los usuarios a encontrar ideas para publicaciones, escribir publicaciones auténticas para LinkedIn, crear carruseles y programar y analizar contenido, principalmente para fundadores, equipos de ventas y marketing B2B, blogueros y personas en búsqueda de empleo. Para los profesionales que están construyendo una marca personal en LinkedIn, puede agilizar la ideación y la redacción de borradores mientras utiliza orientación basada en el perfil para mantener las publicaciones alineadas con su experiencia y posicionamiento.
 - [ads-tiktok-com](https://www.aimyflow.com/es/ai/ads-tiktok-com): TikTok for Business es una plataforma publicitaria que ayuda a marcas, agencias y creadores a crear, gestionar y optimizar campañas para los formatos y audiencias de TikTok. En la era de la IA, permite probar creatividades más rápido y mejorar el rendimiento con optimización automatizada e insights de audiencia.
 - [affint-ai](https://www.aimyflow.com/es/ai/affint-ai): Affint es una suite ofimática con IA que ayuda a equipos y profesionales a crear presentaciones, documentos y hojas de cálculo mediante la conexión de aplicaciones empresariales, la recopilación de información y la automatización de la creación de contenido y los flujos de trabajo. Para los equipos de marketing, producto y ventas, puede reducir la investigación manual y el cambio de contexto para que puedan producir entregables alineados con la marca y tomar decisiones más rápidas e informadas por los datos.
@@ -24,7 +29,6 @@
 - [agentvoice-com](https://www.aimyflow.com/es/ai/agentvoice-com): AgentVoice es una plataforma de agentes de voz con IA para empresas y equipos de operaciones que gestiona llamadas telefónicas entrantes y salientes, programa citas, actualiza CRM, envía mensajes de texto y automatiza flujos de trabajo con una configuración sin código o basada en API. En las operaciones de atención al cliente impulsadas por IA, puede ayudar a los equipos de ventas, soporte y centros de llamadas a reducir la gestión manual de llamadas y la introducción de datos, al tiempo que mantiene las conversaciones con los clientes vinculadas a sistemas empresariales reales.
 - [aiheadshotgenerator-media](https://www.aimyflow.com/es/ai/aiheadshotgenerator-media): AI Headshot Generator es una herramienta de fotos con IA que convierte 4 o más selfies en retratos profesionales para LinkedIn, currículums, sitios web y perfiles de equipo, principalmente para personas en búsqueda de empleo, profesionales y empresas que necesitan retratos coherentes. Para reclutadores, profesionales del marketing y equipos de atención al público, puede acelerar la actualización de perfiles y reforzar la credibilidad digital sin necesidad de coordinar sesiones fotográficas tradicionales.
 - [aipptmaker-ai](https://www.aimyflow.com/es/ai/aipptmaker-ai): AI PPT Maker es un generador gratuito en línea de presentaciones con IA que convierte texto, PDF, sitios web, videos, audio y otros archivos en presentaciones de PowerPoint editables, principalmente para profesionales, educadores y emprendedores que necesitan presentaciones rápidamente. Para negocios, enseñanza y roles de atención al cliente, puede reducir la creación manual de diapositivas al estructurar automáticamente el contenido fuente en esquemas y elementos visuales listos para presentaciones.
-- [anvevoice-app](https://www.aimyflow.com/es/ai/anvevoice-app): AnveVoice es una plataforma de IA de voz para sitios web que ayuda a las empresas a añadir un asistente de voz para responder preguntas de los visitantes, guiar la navegación, completar formularios y realizar tareas, principalmente para propietarios de sitios web, equipos de soporte y empresas enfocadas en el crecimiento. En las operaciones web habilitadas por IA, puede ayudar a los equipos de atención al cliente, marketing y ventas a reducir la gestión manual mientras capturan más interacciones de visitantes ricas en intención directamente en el sitio.
 
 ## Continuar en AimyFlow
 

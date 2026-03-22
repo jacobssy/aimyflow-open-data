@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 343
+- Zugeordnete Tools: 442
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für CEO bündelt 442 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Strategische Ausrichtung, Kapitalallokation, Operativer Führungsrhythmus hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -24,7 +28,7 @@
 - [affint-ai](https://www.aimyflow.com/de/ai/affint-ai): Affint ist eine KI-Office-Suite, die Teams und Berufstätigen hilft, Präsentationen, Dokumente und Tabellenkalkulationen zu erstellen, indem sie Business-Apps verbindet, Informationen zusammenträgt und die Inhaltserstellung sowie Workflows automatisiert. Für Marketing-, Produkt- und Vertriebsteams kann sie manuelle Recherche und Kontextwechsel reduzieren, sodass sie markengerechte Ergebnisse erstellen und schneller datengestützte Entscheidungen treffen können.
 - [agentleader-io](https://www.aimyflow.com/de/ai/agentleader-io): Agentleader ist ein KI-gestütztes B2B-Tool zur Lead-Generierung, das Unternehmen dabei unterstützt, Interessentenlisten mithilfe von agentenbasiertem Browsing, signalbasierter Personalisierung und fortlaufender Lead-Bereitstellung zu finden, zu qualifizieren und anzureichern, vor allem für Vertriebs- und Wachstumsteams. In KI-gestützten Prospecting-Workflows kann es den manuellen Rechercheaufwand für SDRs, Account Executives und Demand-Generation-Teams reduzieren und gleichzeitig das Targeting mit aktuelleren Intent- und Unternehmenssignalen verbessern.
 - [aha-inc](https://www.aimyflow.com/de/ai/aha-inc): Aha ist ein KI-Assistent für Influencer-Marketing, der Unternehmen bei Creator-Matching, Outreach, Verhandlungen, Verträgen und Kampagnen-Tracking im großen Maßstab unterstützt. Im KI-Zeitalter ersetzt er manuelle Abstimmung durch schnellere und konsistentere Influencer-Prozesse.
-- [aibooksummarizer-com](https://www.aimyflow.com/de/ai/aibooksummarizer-com): AI Book Summarizer ist ein KI-Tool, das hochgeladene Bücher im PDF-, EPUB- oder TXT-Format in prägnante Zusammenfassungen und kapitelbezogene Antworten umwandelt, vor allem für Studierende, Fachkräfte und allgemeine Leser, die Inhalte schneller erfassen müssen. In KI-gestützten Lese-Workflows kann es Lernenden und Wissensarbeitern helfen, Lehrbücher, Forschungsliteratur und Wirtschaftsbücher effizienter zu sichten, bevor sie entscheiden, was sie vollständig lesen oder studieren möchten.
+- [ai-meta-com-ai-studio](https://www.aimyflow.com/de/ai/ai-meta-com-ai-studio): Meta AI Studio ist ein Tool zum Erstellen benutzerdefinierter konversationeller KI-Charaktere und Creator-KIs, die auf Messenger, Instagram und WhatsApp chatten, hauptsächlich für Verbraucher und Creator, die interessenbasierte Assistenten oder KI-Erweiterungen ihrer selbst entwickeln möchten. Für Creator und Social-Media-Manager kann es die Interaktion mit dem Publikum optimieren, indem es routinemäßige Gespräche in ihrer Stimme übernimmt und gleichzeitig Transparenz und Kontrolle über die Antworten wahrt.
 
 ## Auf AimyFlow fortfahren
 

@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 42
+- Tool matches: 51
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Certified Public Accountant page highlights 51 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Financial Reporting, Audit Execution, Tax Compliance, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 

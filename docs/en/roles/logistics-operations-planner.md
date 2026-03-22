@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 18
+- Tool matches: 31
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Logistics Operations Planner page highlights 31 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Network Planning, Capacity Forecasting, Routing & Scheduling, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [aiassistworks-com-blackfriday](https://www.aimyflow.com/en/ai/aiassistworks-com-blackfriday): AiAssistWorks is an AI add-on suite for Google Sheets, Docs, and Slides that helps users generate documents and slides, fill spreadsheets in bulk, analyze data, and use multiple AI providers, mainly for spreadsheet-heavy teams, analysts, and content professionals. In AI-assisted workflows, it can help operations, research, and content roles scale repetitive document and spreadsheet tasks while keeping model choice and API spending under their control.
+- [aiexceltranslator-com](https://www.aimyflow.com/en/ai/aiexceltranslator-com): AI Excel Translator is a web-based AI tool that translates Excel and CSV files into 100+ languages while preserving formatting and structure, mainly for business professionals, researchers, and multilingual spreadsheet users. For teams handling international data, it can reduce manual spreadsheet translation work and help analysts and coordinators keep multilingual files usable without rebuilding layouts.
 - [askweather-ai](https://www.aimyflow.com/en/ai/askweather-ai): AskWeather.ai is an ad-free weather website with AI chat that helps people check current conditions, 15-day forecasts, live radar, route weather, historical weather, and location-based alerts, mainly for everyday users and drivers. Its natural-language weather search can help travelers, drivers, and event planners make faster decisions by turning detailed location and timing questions into direct forecast answers.
 - [base44-pxf-io-c-6992242-3820726-25619](https://www.aimyflow.com/en/ai/base44-pxf-io-c-6992242-3820726-25619): Base44 Superagents is a no-code AI agent platform that helps users build personal agents to connect tools, automate recurring tasks, and take actions across apps, mainly for professionals and teams managing inboxes, leads, calendars, and reporting. In AI-enabled operations, it can reduce manual follow-ups and routine coordination for sales, support, and operations roles by running proactive workflows across existing tools.
+- [claude-com-chrome](https://www.aimyflow.com/en/ai/claude-com-chrome): Claude for Chrome is a beta browser extension that brings Claude’s AI assistance into Chrome to help paid-plan users ask questions about pages, extract information, navigate sites, click buttons, and fill forms. For developers, analysts, sales, and operations teams, it can reduce manual browser work and speed research-to-deliverable workflows when paired with Claude Code, Cowork, or Claude Desktop.
 - [cleeai-com](https://www.aimyflow.com/en/ai/cleeai-com): CleeAI is an enterprise AI operating system and orchestration engine that helps organizations build, deploy, and optimize production-ready AI tools with built-in compliance, security, and scalability, mainly for enterprise teams in sales, operations, and regulated environments. For sales and operations professionals, this kind of governed, explainable AI can speed decision support and reporting while reducing manual logic and improving audit readiness.
 - [cloudtalk-io-ai-voice-agents](https://www.aimyflow.com/en/ai/cloudtalk-io-ai-voice-agents): CloudTalk AI Voice Agent Platform is a cloud calling tool that automates inbound and outbound calls such as follow-ups, reminders, and feedback calls, mainly for sales, support, operations, and recruiting teams. For call-heavy roles, AI voice agents can extend 24/7 coverage and reduce manual call handling so staff can focus on higher-value conversations and follow-up.
-- [docbatch-ai](https://www.aimyflow.com/en/ai/docbatch-ai): docbatch.ai is an AI-powered batch document processing platform that helps growing teams extract structured data from PDFs and images at scale, especially for operations, finance, and administrative workflows handling high document volumes. In AI-era back-office work, it can help operations and data teams reduce manual entry by turning large batches of invoices, forms, contracts, and similar documents into CSV, JSON, or Excel outputs.
-- [excelmatic-ai](https://www.aimyflow.com/en/ai/excelmatic-ai): RowSpeak is an AI-powered Excel analysis and visualization tool that lets users upload spreadsheets, ask questions in plain English, and generate insights, charts, dashboards, reports, and formulas, mainly for data, finance, marketing, sales, and operations professionals. In AI-assisted analytics workflows, it can help analysts and business teams reduce manual spreadsheet work and surface trends, anomalies, and KPIs faster for reporting and decision-making.
-- [hyperfox-com](https://www.aimyflow.com/en/ai/hyperfox-com): Hyperfox is B2B order automation software for distribution, logistics, manufacturers, and back-office teams that captures orders from email, EDI, web forms, customer portals, and field sales, then validates and routes them into ERP or TMS systems. In AI-supported order operations, it can help customer service, operations, and logistics teams reduce manual entry and focus more on exceptions, accuracy, and throughput.
-- [ifoto-ai](https://www.aimyflow.com/en/ai/ifoto-ai): iFoto is an AI photo editing studio that helps users enhance images, change backgrounds, and create polished visuals online, mainly for eCommerce sellers, marketers, and content creators. It speeds up creative production for merchandising and marketing teams without requiring advanced design skills.
+- [codeask-ai](https://www.aimyflow.com/en/ai/codeask-ai): ZAPT is a custom business app builder that creates and maintains tailored software and ready-to-use subscription apps for businesses needing tools for inventory, fleet compliance, bookings, safety, quoting, and delivery operations. For operations, compliance, and administrative teams, AI-driven app development can speed up the move from manual, disconnected processes to systems that are easier to maintain and adapt as workflows change.
 
 ## Continue on AimyFlow
 

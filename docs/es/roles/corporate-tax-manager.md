@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 15
+- Herramientas asociadas: 20
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerente fiscal corporativo resume 20 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Provisión fiscal, Cumplimiento tributario, Planificación fiscal, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -22,9 +26,9 @@
 - [ifoto-ai](https://www.aimyflow.com/es/ai/ifoto-ai): iFoto es un estudio de edición fotográfica con IA que ayuda a mejorar imágenes, cambiar fondos y crear visuales profesionales online, ideal para eCommerce, marketing y creadores.
 - [jupid-com](https://www.aimyflow.com/es/ai/jupid-com): Jupid es una plataforma contable nativa de IA que ayuda a propietarios de pequeñas empresas e instituciones financieras a gestionar la contabilidad, la constitución de LLC, la presentación de impuestos y los análisis del negocio mediante mensajería, experiencias bancarias integradas y datos financieros conectados. Para propietarios de negocios, fundadores y equipos de contabilidad, puede reducir el trabajo manual de contabilidad y preparación de impuestos al automatizar la categorización de transacciones y mostrar información financiera contextual.
 - [languagetool-org](https://www.aimyflow.com/es/ai/languagetool-org): LanguageTool es un asistente de escritura y gramática con IA que ayuda a revisar gramática, ortografía, puntuación y estilo en más de 30 idiomas.
+- [ledgeriq-ai](https://www.aimyflow.com/es/ai/ledgeriq-ai): Ledger IQ es una herramienta de automatización de balances de comprobación para firmas contables que importa balances de comprobación desde QuickBooks o hojas de cálculo, aplica asientos de ajuste y asigna los datos directamente en Lacerte para agilizar la preparación de declaraciones de impuestos. Para preparadores de impuestos y contadores públicos certificados, puede reducir la recaptura manual de datos y la depuración de hojas de cálculo, lo que ayuda a estandarizar papeles de trabajo listos para revisión y a disminuir los errores de ingreso de datos durante los períodos de alta demanda de presentación.
 - [marblism-com](https://www.aimyflow.com/es/ai/marblism-com): Marblism ofrece empleados de IA que ayudan a empresas a gestionar correos, crear contenido social, escribir artículos SEO y generar leads, especialmente para equipos pequeños.
-- [openart-ai](https://www.aimyflow.com/es/ai/openart-ai): OpenArt es una plataforma de generación y edición de imágenes con IA que ayuda a artistas, diseñadores y creadores a convertir prompts en visuales y refinarlos con herramientas creativas. Permite explorar conceptos, iterar más rápido y producir más opciones visuales.
-- [openrouter-ai](https://www.aimyflow.com/es/ai/openrouter-ai): OpenRouter es una API unificada y plataforma de enrutamiento para modelos de lenguaje que ayuda a desarrolladores a acceder, comparar y usar múltiples modelos desde una sola interfaz. Ofrece flexibilidad para optimizar costo, rendimiento y fiabilidad según las necesidades.
+- [nouswise-com-home](https://www.aimyflow.com/es/ai/nouswise-com-home): Nouswise es un agente de investigación impulsado por IA que ayuda a los usuarios a buscar en fuentes de conocimiento seleccionadas y a obtener respuestas transparentes y verificables, principalmente para organizaciones reguladas y con uso intensivo del conocimiento. Para los equipos de cumplimiento, políticas, investigación y operaciones, este tipo de IA fundamentada puede reducir el tiempo dedicado a buscar información y, al mismo tiempo, facilitar la verificación de las respuestas frente a material fuente aprobado.
 
 ## Continuar en AimyFlow
 

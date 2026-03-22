@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 343
+- Herramientas asociadas: 442
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Director ejecutivo resume 442 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Dirección estratégica, Asignación de capital, Cadencia operativa ejecutiva, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -24,7 +28,7 @@
 - [affint-ai](https://www.aimyflow.com/es/ai/affint-ai): Affint es una suite ofimática con IA que ayuda a equipos y profesionales a crear presentaciones, documentos y hojas de cálculo mediante la conexión de aplicaciones empresariales, la recopilación de información y la automatización de la creación de contenido y los flujos de trabajo. Para los equipos de marketing, producto y ventas, puede reducir la investigación manual y el cambio de contexto para que puedan producir entregables alineados con la marca y tomar decisiones más rápidas e informadas por los datos.
 - [agentleader-io](https://www.aimyflow.com/es/ai/agentleader-io): Agentleader es una herramienta de generación de leads B2B impulsada por IA que ayuda a las empresas a encontrar, calificar y enriquecer listas de prospectos mediante navegación basada en agentes, personalización basada en señales y entrega continua de leads, principalmente para equipos de ventas y crecimiento. En los flujos de prospección habilitados por IA, puede reducir la investigación manual para SDR, ejecutivos de cuentas y equipos de generación de demanda, al tiempo que mejora la segmentación con señales más recientes de intención y de empresa.
 - [aha-inc](https://www.aimyflow.com/es/ai/aha-inc): Aha es un asistente de marketing de influencers con IA que ayuda a empresas a gestionar matching de creadores, outreach, negociación, contratos y seguimiento de campañas a escala. En la era de la IA, permite sustituir la coordinación manual por operaciones con influencers más rápidas y consistentes.
-- [aibooksummarizer-com](https://www.aimyflow.com/es/ai/aibooksummarizer-com): AI Book Summarizer es una herramienta de IA que convierte libros cargados en PDF, EPUB o TXT en resúmenes concisos y respuestas por capítulo, principalmente para estudiantes, profesionales y lectores habituales que necesitan una comprensión más rápida. En los flujos de trabajo de lectura asistidos por IA, puede ayudar a estudiantes y trabajadores del conocimiento a revisar libros de texto, investigaciones y libros de negocios con mayor eficiencia antes de decidir qué estudiar por completo.
+- [ai-meta-com-ai-studio](https://www.aimyflow.com/es/ai/ai-meta-com-ai-studio): Meta AI Studio es una herramienta para crear personajes de IA conversacionales personalizados y AIs de creador que conversan en Messenger, Instagram y WhatsApp, principalmente para consumidores y creadores que quieren crear asistentes basados en intereses o extensiones de IA de sí mismos. Para creadores y gestores de redes sociales, puede agilizar la interacción con la audiencia al gestionar conversaciones rutinarias con su voz, manteniendo al mismo tiempo la visibilidad y el control sobre las respuestas.
 
 ## Continuar en AimyFlow
 

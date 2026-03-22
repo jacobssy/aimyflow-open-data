@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 331
+- Tool matches: 450
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Project Management Officer page highlights 450 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Portfolio Reporting, Governance Control, Schedule Coordination, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -23,8 +27,8 @@
 - [affint-ai](https://www.aimyflow.com/en/ai/affint-ai): Affint is an AI office suite that helps teams and working professionals create presentations, documents, and spreadsheets by connecting business apps, gathering information, and automating content creation and workflows. For marketing, product, and sales teams, it can reduce manual research and context switching so they can produce branded deliverables and make faster, data-informed decisions.
 - [agendahero-com-magic](https://www.aimyflow.com/en/ai/agendahero-com-magic): Agenda Hero Magic is an AI scheduling tool that turns text, images, and PDFs into calendar events users can send to themselves, mainly for people who need to capture schedules quickly from unstructured information. For assistants, coordinators, and other time-management roles, it can reduce manual calendar entry and speed up converting shared documents or messages into usable schedules.
 - [agent-blackbox-ai-api](https://www.aimyflow.com/en/ai/agent-blackbox-ai-api): BLACKBOX AI Agent is a REST API for developers and engineering teams to run coding tasks across multiple AI agents, compare implementations, and apply changes to code repositories. In AI-assisted software work, it can help engineers and technical leads evaluate model outputs more efficiently by using parallel agent execution and a selection layer to identify the strongest implementation.
+- [agent-minimax-io](https://www.aimyflow.com/en/ai/agent-minimax-io): MiniMax Agent is an AI work assistant that helps users handle simple and complex productivity tasks such as research, scheduling, website work, coding, and office document editing, aimed mainly at professionals and knowledge workers. For engineers, analysts, and office teams, its agent-based task execution can reduce manual coordination across research, documents, and technical workflows.
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/en/ai/agent-minimax-io-max-claw): MaxClaw is an AI agent builder from MiniMax OpenClaw that helps users create personalized assistants with skills and subagents to automate complex tasks, mainly for people who need a 24/7 cloud-based assistant across work apps. For engineers and office professionals, this kind of agent can reduce manual coordination by handling debugging, project delivery, and multi-round document editing through persistent, autonomous workflows.
-- [agentdesk-noice-net-au](https://www.aimyflow.com/en/ai/agentdesk-noice-net-au): AgentDesk is an AI ticket management and workflow automation tool that reads code, investigates issues, writes fixes, runs tests, and opens pull requests for software teams using Jira and Git-based development workflows. For developers, engineering managers, and IT teams, it can reduce manual triage and speed ticket resolution by turning routine backlog items into review-ready code changes.
 
 ## Continue on AimyFlow
 

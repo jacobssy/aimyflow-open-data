@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 331
+- Zugeordnete Tools: 450
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Projektmanagement-Beauftragter bündelt 450 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Portfolio-Reporting, Governance-Steuerung, Terminplan-Koordination hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -23,8 +27,8 @@
 - [affint-ai](https://www.aimyflow.com/de/ai/affint-ai): Affint ist eine KI-Office-Suite, die Teams und Berufstätigen hilft, Präsentationen, Dokumente und Tabellenkalkulationen zu erstellen, indem sie Business-Apps verbindet, Informationen zusammenträgt und die Inhaltserstellung sowie Workflows automatisiert. Für Marketing-, Produkt- und Vertriebsteams kann sie manuelle Recherche und Kontextwechsel reduzieren, sodass sie markengerechte Ergebnisse erstellen und schneller datengestützte Entscheidungen treffen können.
 - [agendahero-com-magic](https://www.aimyflow.com/de/ai/agendahero-com-magic): Agenda Hero Magic ist ein KI-Planungstool, das Texte, Bilder und PDFs in Kalenderereignisse umwandelt, die Nutzer sich selbst senden können, vor allem für Menschen, die Zeitpläne schnell aus unstrukturierten Informationen erfassen müssen. Für Assistenten, Koordinatoren und andere Rollen im Zeitmanagement kann es die manuelle Kalendereingabe reduzieren und die Umwandlung geteilter Dokumente oder Nachrichten in nutzbare Zeitpläne beschleunigen.
 - [agent-blackbox-ai-api](https://www.aimyflow.com/de/ai/agent-blackbox-ai-api): Der BLACKBOX AI Agent ist eine REST-API für Entwickler und Engineering-Teams, mit der Coding-Aufgaben über mehrere KI-Agenten hinweg ausgeführt, Implementierungen verglichen und Änderungen auf Code-Repositories angewendet werden können. Bei KI-gestützter Softwareentwicklung kann er Ingenieuren und technischen Leitern helfen, Modellergebnisse mithilfe paralleler Agentenausführung und einer Auswahlschicht zur Identifizierung der stärksten Implementierung effizienter zu bewerten.
+- [agent-minimax-io](https://www.aimyflow.com/de/ai/agent-minimax-io): MiniMax Agent ist ein KI-Arbeitsassistent, der Nutzern hilft, einfache und komplexe Produktivitätsaufgaben wie Recherche, Terminplanung, Website-Arbeit, Programmierung und die Bearbeitung von Bürodokumenten zu erledigen und sich hauptsächlich an Fachkräfte und Wissensarbeiter richtet. Für Ingenieure, Analysten und Büroteams kann seine agentenbasierte Aufgabenausführung die manuelle Koordination über Recherche-, Dokumenten- und technische Workflows hinweg reduzieren.
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/de/ai/agent-minimax-io-max-claw): MaxClaw ist ein KI-Agenten-Builder von MiniMax OpenClaw, der Nutzern hilft, personalisierte Assistenten mit Fähigkeiten und Subagenten zu erstellen, um komplexe Aufgaben zu automatisieren – insbesondere für Menschen, die einen cloudbasierten Assistenten rund um die Uhr über verschiedene Arbeitsanwendungen hinweg benötigen. Für Ingenieure und Bürofachkräfte kann diese Art von Agent den manuellen Abstimmungsaufwand reduzieren, indem er Debugging, Projektabwicklung und mehrstufige Dokumentenbearbeitung durch persistente, autonome Workflows übernimmt.
-- [agentdesk-noice-net-au](https://www.aimyflow.com/de/ai/agentdesk-noice-net-au): AgentDesk ist ein KI-Tool für Ticket-Management und Workflow-Automatisierung, das Code liest, Probleme untersucht, Fehlerbehebungen schreibt, Tests ausführt und Pull Requests für Softwareteams erstellt, die Jira und Git-basierte Entwicklungs-Workflows nutzen. Für Entwickler, Engineering Manager und IT-Teams kann es den manuellen Triage-Aufwand reduzieren und die Ticketbearbeitung beschleunigen, indem routinemäßige Backlog-Einträge in überprüfungsreife Codeänderungen umgewandelt werden.
 
 ## Auf AimyFlow fortfahren
 

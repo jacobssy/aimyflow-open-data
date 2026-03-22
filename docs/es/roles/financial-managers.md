@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 27
+- Herramientas asociadas: 35
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerentes financieros resume 35 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación financiera, Análisis financiero, Reporte financiero, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -18,13 +22,13 @@
 ## Herramientas relacionadas
 
 - [airtable-com-platform](https://www.aimyflow.com/es/ai/airtable-com-platform): Airtable Platform es una plataforma no-code que ayuda a equipos operativos y multifuncionales a crear apps de negocio, conectar datos y automatizar flujos con IA. En la era de la IA, permite convertir información estructurada en sistemas escalables sin depender tanto de ingeniería.
+- [asksurf-ai](https://www.aimyflow.com/es/ai/asksurf-ai): Surf es una plataforma de investigación cripto impulsada por IA que ayuda a traders e inversores a analizar mercados, tendencias y oportunidades en criptomonedas. En la era de la IA, ayuda a sintetizar información cambiante y responder a señales del mercado con mayor rapidez.
 - [bitbucket-org](https://www.aimyflow.com/es/ai/bitbucket-org): Bitbucket es una plataforma de gestión de código fuente basada en Git y CI/CD que ayuda a equipos de software a colaborar en repositorios, pipelines y revisiones de código, especialmente en organizaciones que usan Jira. En flujos de desarrollo con IA, ofrece un sistema conectado para entregar más rápido y con mejor trazabilidad.
 - [capalyze-ai](https://www.aimyflow.com/es/ai/capalyze-ai): Capalyze es una plataforma de analítica de datos que ayuda a combinar datos de múltiples fuentes e información rastreada en la web para generar insights accionables, pensada para analistas, operadores y responsables de decisión. En la analítica asistida por IA, reduce la recopilación manual para centrarse más en interpretar tendencias y actuar.
 - [co-dev](https://www.aimyflow.com/es/ai/co-dev): Codev es un creador de apps con IA que ayuda a convertir descripciones de texto en aplicaciones full stack listas para producción con Next.js, pensado para founders, equipos de producto y desarrolladores. En la era de la IA, acelera la creación de software al llevar a los equipos de la idea a un producto desplegable con mucho menos trabajo de configuración.
 - [create-kwakwa-com](https://www.aimyflow.com/es/ai/create-kwakwa-com): KwaKwa Course Creator es una plataforma con IA que ayuda a crear y vender cursos sociales mobile-first rápidamente, ideal para coaches, creadores y expertos en una materia. En la era de la IA, acorta la distancia entre conocimiento y monetización para quienes crean productos educativos digitales.
 - [createanything-com](https://www.aimyflow.com/es/ai/createanything-com): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
 - [creativefabrica-com](https://www.aimyflow.com/es/ai/creativefabrica-com): Creative Fabrica es un marketplace digital y plataforma de suscripción de tipografías, gráficos, manualidades y recursos de diseño que ayuda a creadores, diseñadores y vendedores print-on-demand a producir más rápido. En la era de la IA, ofrece una amplia base de recursos para acelerar la ideación, la personalización y la producción.
-- [crustdata-com](https://www.aimyflow.com/es/ai/crustdata-com): Crustdata es una plataforma de datos B2B en tiempo real que ofrece datos de empresas y personas mediante APIs y feeds para equipos que crean productos de ventas, reclutamiento o inteligencia de mercado. En la era de la IA, los datos estructurados y actualizados mejoran la segmentación, el enriquecimiento y la automatización.
 
 ## Continuar en AimyFlow
 

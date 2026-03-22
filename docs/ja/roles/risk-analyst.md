@@ -4,8 +4,12 @@
 
 ## 概要
 
-- 一致ツール数: 42
+- 一致ツール数: 45
 - スキルカード数: 5
+
+## この役割ページの目的
+
+リスクアナリスト 向けのこのページでは、関連する AI ツール 45 件と主要スキル 5 件をまとめ、GitHub 上で素早く全体像を確認できるようにしています。特に リスクモデリング, シナリオ分析, リスク報告 の観点が目立ち、最新の投票や詳細な workflow は AimyFlow 本体で確認できます。
 
 ## 主要スキル
 
@@ -22,9 +26,9 @@
 - [chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh](https://www.aimyflow.com/ja/ai/chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh): TermOver AI は、AI を使用して利用規約やプライバシーポリシーを分析し、平易な英語で要約し、データ販売、トラッキング、隠れた料金といった問題点を指摘する Chrome 拡張機能です。法律文書の細かい注記を読みたくない一般のウェブユーザー向けに設計されています。AI 支援によるコンプライアンスおよびプライバシー業務において、このようなツールは法務オペレーション、プライバシー、リスク管理の各チームが定型的なウェブ規約をより迅速にレビューし、リスクの高い条項に注意を集中させるのに役立ちます。
 - [clamor-social](https://www.aimyflow.com/ja/ai/clamor-social): Clamorは、コンテンツ作成・共有・コミュニティ交流を支援するソーシャルプラットフォームです。クリエイターやブランド向けに、継続的な発信とエンゲージメント向上をサポートします。
 - [clonedetector-com](https://www.aimyflow.com/ja/ai/clonedetector-com): Clone Detector は、ドメインファジング、視覚的類似性分析、リスクベースのレポートを用いて、不正なドメインクローンや類似サイトの発見を企業やセキュリティチームが行えるよう支援する、ブランド保護およびフィッシングサイト検出ツールです。サイバーセキュリティ、コンプライアンス、ブランド保護の担当者にとって、巧妙ななりすましの脅威をより早期に可視化し、調査、報告、対応の迅速化を支援することで、AI時代のモニタリングを強化できます。
+- [create-kwakwa-com](https://www.aimyflow.com/ja/ai/create-kwakwa-com): KwaKwa Course Creatorは、モバイルファーストのソーシャル講座を素早く作成・販売できるAIプラットフォームです。コーチやクリエイター、専門家向けに、知識の収益化をスムーズに進められます。
 - [datacamp-com](https://www.aimyflow.com/ja/ai/datacamp-com): DataCampは、データサイエンスとAIを学べるオンライン学習プラットフォームです。Python、R、統計、分析をコースと演習で学べ、AI時代に変化の速いツールや業務フローへ継続的に対応するスキル習得を支援します。
-- [demodazzle-com](https://www.aimyflow.com/ja/ai/demodazzle-com): DemoDazzleは、製品操作の記録、AIアバタープレゼン、インタラクティブなアプリデモ作成を支援するデモ自動化プラットフォームです。営業やプロダクトマーケティングの個別デモを、手動説明を繰り返さず拡張できます。
-- [extract-wellapp-ai](https://www.aimyflow.com/ja/ai/extract-wellapp-ai): Well Extractは、PDFや画像から請求書・領収書データを構造化データに変換するオープンソースのAI抽出ツールです。設定可能なAIモデルで文書処理を効率化し、財務自動化の実装を加速します。
+- [dealnavigator-ai](https://www.aimyflow.com/ja/ai/dealnavigator-ai): Deal Navigator AI は、プライベート・エクイティ会社やその他の投資チームが、買収対象の評価、レポート作成、リスク評価をより迅速に行えるよう支援する、アルゴリズム型のM&Aインテリジェンスおよびデューデリジェンス・プラットフォームです。プライベート・エクイティ、コーポレート・デベロップメント、ディールソーシングの専門家向けに、投資判断のための初期段階のデューデリジェンスと対象企業のスクリーニングを、より迅速で一貫性のあるワークフローに集約できます。
 
 ## AimyFlow で続きを見る
 

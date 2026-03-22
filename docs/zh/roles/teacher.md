@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 146
+- 匹配工具数: 188
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+教师 这页聚焦 188 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 课程设计, 课堂管理, 学习评价，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -17,14 +21,14 @@
 
 ## 匹配工具
 
+- [15minutes-ai](https://www.aimyflow.com/zh/ai/15minutes-ai): 15Minutes 是一个图书摘要与分析平台，拥有 5,000 多本书目，通过 15 分钟速读、PDF、有声书和章节概要，帮助读者快速理解书籍，主要面向学生、专业人士和大众读者。在 AI 驱动的工作流程中，它可以帮助知识工作者、教育工作者和研究人员在决定完整阅读哪些内容之前，更快地审阅更多资料来源。
+- [ai-tenorshare-com-products-ai-bypass](https://www.aimyflow.com/zh/ai/ai-tenorshare-com-products-ai-bypass): Tenorshare AI Bypass 是一款 AI 文本人性化处理与检测工具，可将 AI 生成内容改写为更自然、更像人类撰写的文本，并使用 AI 检测工具进行检查，主要面向学生、教育工作者、写作者和 SEO 专业人士。对于使用 AI 草稿的内容与教育专业人士来说，它可通过提升文本可读性并在发布或提交作品前帮助验证检测风险，从而简化编辑流程。
 - [aibooksummarizer-com](https://www.aimyflow.com/zh/ai/aibooksummarizer-com): AI Book Summarizer 是一款 AI 工具，可将上传的 PDF、EPUB 或 TXT 书籍转化为简明摘要和按章节生成的答案，主要面向需要更快理解内容的学生、专业人士和普通读者。 在 AI 辅助阅读工作流程中，它可以帮助学习者和知识工作者更高效地审阅教材、研究资料和商业书籍，再决定哪些内容需要完整深入学习。
+- [aicoloringpage-org](https://www.aimyflow.com/zh/ai/aicoloringpage-org): ColorPage Lab 是一款 AI 涂色页生成器，可将文本提示、照片和绘画转换为可打印的线稿涂色页，主要面向家庭、教育工作者以及制作涂色书或可打印材料的人群。 在 AI 辅助创意工作中，它可以帮助教师、设计师和内容创作者更快地制作适龄的视觉材料，同时减少手动描摹和版面设计的工作量。
 - [aicoursify-com](https://www.aimyflow.com/zh/ai/aicoursify-com): AiCoursify 是一个 AI 课程创建平台，可帮助课程创作者和电子学习专业人士根据主题提示在几分钟内构建在线课程、测验、音频课程、作业和演示文稿。对于教育工作者、教学设计师和培训团队而言，它可以减少手动编写时间，加快结构化、多格式学习内容的制作。
+- [aideaflowpodcast-com](https://www.aimyflow.com/zh/ai/aideaflowpodcast-com): AIdeaFlow AI 播客生成器是一款 AI 音频创作工具，可将文本或笔记转换为播客风格的对话，并支持自定义声音、语言和音频设置，主要面向教育工作者、内容创作者和商务专业人士。对于制作培训、营销或编辑内容的团队来说，它可以加快音频内容再利用的速度，并在以 AI 为先的多语言工作流程中，让书面材料更易于获取和使用。
 - [aidubbing-io](https://www.aimyflow.com/zh/ai/aidubbing-io): AI 配音是一款免费的在线视频配音工具，可帮助用户翻译视频、生成多语言配音、添加字幕并应用口型同步，主要面向创作者、教育工作者、营销人员和培训团队。对于视频制作、本地化和内容运营专业人士，它可通过在单一浏览器流程中自动完成转录、配音和字幕工作流，加快多语言内容发布。
-- [aihumanizer-io](https://www.aimyflow.com/zh/ai/aihumanizer-io): AIHumanizer.io 是一款免费的 AI 文本人性化工具，可将 AI 生成的内容改写得更自然、更像人类写作，主要面向希望降低 AI 检测信号的学生、营销人员和博主。在 AI 辅助写作流程中，它可以帮助内容创作和学术写作相关角色快速优化草稿语气与句式变化，同时更完整地保留原意。
-- [aihumanizer-work](https://www.aimyflow.com/zh/ai/aihumanizer-work): AIHumanizer 是一款免费的在线 AI 转人工文本转换与改写工具，帮助用户将生硬的 AI 生成内容转化为更自然、更易读的文本，主要面向学生、作家、营销人员和商务专业人士。 在内容创作、学术写作和沟通工作中，它可通过优化语气和可读性来加快编辑流程，同时帮助团队更高效地审阅 AI 辅助起草的内容。
-- [aipdfreader-net](https://www.aimyflow.com/zh/ai/aipdfreader-net): AI PDF Reader 是一款免费的 AI 文档阅读器，帮助用户上传 PDF 进行分析、翻译、总结并提出后续问题，主要面向处理课程资料、论文和研究的学生、教师和研究人员。 在 AI 辅助的学术与教育工作中，它可以帮助这些用户更快地审阅源材料、提取关键要点，并以多种语言与文档进行交互。
-- [aiscan24-com](https://www.aimyflow.com/zh/ai/aiscan24-com): AIscan24 是一款免费的 AI 文本检测器，可检查粘贴的文本在统计学上是否与 ChatGPT、Gemini 或 Claude 等工具生成或改写的内容相似，主要面向无需注册、只想快速获得估计结果的用户。对于教育工作者、编辑和审稿人，它可通过在德国服务器上评估文本并在分析后删除文本，在保护数据隐私的同时，支持更快速地筛查提交的写作内容。
-- [aivoicegenerator-com](https://www.aimyflow.com/zh/ai/aivoicegenerator-com): AI Voice Generator 是一款在线文本转语音工具，帮助用户将文本转换为可下载的音频文件，并提供丰富的语音和语言选择，主要面向制作配音、播客或在线学习内容的创作者、教育工作者和团队。 在 AI 驱动的内容工作流程中，它可以帮助媒体、培训和内容专业人士更快地扩大多语言音频制作规模，同时在不同格式之间保持旁白风格更一致。
+- [aifreeforever-com-tools-riddles-answer](https://www.aimyflow.com/zh/ai/aifreeforever-com-tools-riddles-answer): Riddles Answer Solver 是一款 AI 工具，帮助用户输入谜语、脑筋急转弯、逻辑谜题以及一些数学问题，以获得答案和分步讲解，主要面向学生、教师、家长和谜题爱好者。 在 AI 辅助学习中，它可以通过让文字游戏和逻辑谜题背后的推理过程更易于解释和复盘，来支持教学和辅导工作。
 
 ## 继续访问 AimyFlow
 

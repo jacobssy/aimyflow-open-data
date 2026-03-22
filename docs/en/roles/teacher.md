@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 146
+- Tool matches: 188
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Teacher page highlights 188 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Lesson Planning, Classroom Management, Student Assessment, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [15minutes-ai](https://www.aimyflow.com/en/ai/15minutes-ai): 15Minutes is a book summary and analysis platform with over 5,000 titles that helps readers quickly understand books through 15-minute reads, PDFs, audiobooks, and chapter synopses, mainly for students, professionals, and general readers. In AI-shaped workflows, it can help knowledge workers, educators, and researchers review more sources faster before deciding what to read in full.
+- [ai-tenorshare-com-products-ai-bypass](https://www.aimyflow.com/en/ai/ai-tenorshare-com-products-ai-bypass): Tenorshare AI Bypass is an AI text humanizer and detector that rewrites AI-generated content into more natural, human-like text and checks it against AI detection tools, mainly for students, educators, writers, and SEO specialists. For content and education professionals using AI drafts, it can streamline editing by making text more readable and helping verify detector risk before publishing or submitting work.
 - [aibooksummarizer-com](https://www.aimyflow.com/en/ai/aibooksummarizer-com): AI Book Summarizer is an AI tool that turns uploaded PDF, EPUB, or TXT books into concise summaries and chapter-level answers, mainly for students, professionals, and regular readers who need faster comprehension. In AI-assisted reading workflows, it can help learners and knowledge workers review textbooks, research, and business books more efficiently before deciding what to study in full.
+- [aicoloringpage-org](https://www.aimyflow.com/en/ai/aicoloringpage-org): ColorPage Lab is an AI coloring page generator that turns text prompts, photos, and drawings into printable line-art coloring pages, mainly for families, educators, and people creating coloring books or printables. In AI-assisted creative work, it can help teachers, designers, and content creators produce age-appropriate visual materials faster while reducing manual tracing and layout effort.
 - [aicoursify-com](https://www.aimyflow.com/en/ai/aicoursify-com): AiCoursify is an AI course creation platform that helps course creators and e-learning professionals build online courses, quizzes, audio lessons, assignments, and presentations in minutes from a topic prompt. For educators, instructional designers, and training teams, it can reduce manual authoring time and speed the production of structured, multi-format learning content.
+- [aideaflowpodcast-com](https://www.aimyflow.com/en/ai/aideaflowpodcast-com): AIdeaFlow AI Podcast Generator is an AI audio creation tool that turns text or notes into podcast-style conversations with customizable voices, languages, and audio settings, mainly for educators, content creators, and business professionals. For teams producing training, marketing, or editorial content, it can speed audio repurposing and make written material easier to consume in an AI-first, multilingual workflow.
 - [aidubbing-io](https://www.aimyflow.com/en/ai/aidubbing-io): AI Dubbing is a free online video dubbing tool that helps users translate videos, generate multilingual voiceovers, add subtitles, and apply lip-sync, mainly for creators, educators, marketers, and training teams. For video production, localization, and content operations professionals, it can speed multilingual publishing by automating transcription, dubbing, and subtitle workflows in one browser-based process.
-- [aihumanizer-io](https://www.aimyflow.com/en/ai/aihumanizer-io): AIHumanizer.io is a free AI text humanizer that rewrites AI-generated writing to sound more natural and human-like, mainly for students, marketers, and bloggers who want to reduce AI-detection signals. In AI-assisted writing workflows, it can help content and academic writing roles quickly refine draft tone and sentence variation while keeping the original meaning more intact.
-- [aihumanizer-work](https://www.aimyflow.com/en/ai/aihumanizer-work): AIHumanizer is a free online AI-to-human text converter and rewriter that helps users turn stiff AI-generated writing into more natural, readable text, mainly for students, writers, marketers, and business professionals. For content, academic, and communications work, it can speed up editing by refining tone and readability while helping teams review AI-assisted drafts more efficiently.
-- [aipdfreader-net](https://www.aimyflow.com/en/ai/aipdfreader-net): AI PDF Reader is a free AI document reader that helps users upload PDFs to analyze, translate, summarize, and ask follow-up questions, mainly for students, teachers, and researchers working with lessons, papers, and studies. In AI-assisted academic and educational work, it can help these users review source material faster, extract key points, and interact with documents in multiple languages.
-- [aiscan24-com](https://www.aimyflow.com/en/ai/aiscan24-com): AIscan24 is a free AI text detector that checks pasted text for statistical similarity to AI-generated or rewritten content from tools like ChatGPT, Gemini, or Claude, mainly for people who need a quick estimate without sign-up. For educators, editors, and reviewers, it can support faster screening of submitted writing while preserving data privacy by evaluating text on a German server and deleting it after analysis.
-- [aivoicegenerator-com](https://www.aimyflow.com/en/ai/aivoicegenerator-com): AI Voice Generator is an online text-to-speech tool that helps users convert text into downloadable audio files with a wide range of voices and languages, mainly for creators, educators, and teams producing voiceovers, podcasts, or e-learning content. In AI-driven content workflows, it can help media, training, and content professionals scale multilingual audio production faster while keeping narration more consistent across formats.
+- [aifreeforever-com-tools-riddles-answer](https://www.aimyflow.com/en/ai/aifreeforever-com-tools-riddles-answer): Riddles Answer Solver is an AI tool that helps users enter riddles, brain teasers, logic puzzles, and some math problems to get answers with step-by-step explanations, mainly for students, teachers, parents, and puzzle enthusiasts. In AI-assisted learning, it can support teaching and tutoring work by making the reasoning behind wordplay and logic puzzles easier to explain and review.
 
 ## Continue on AimyFlow
 

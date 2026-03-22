@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 22
+- Tool matches: 198
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Ecommerce Seller page highlights 198 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Product Listing Optimization, Marketplace Operations, Inventory and Fulfillment Control, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
-- [agentz-ai](https://www.aimyflow.com/en/ai/agentz-ai): Agentz is an AI digital receptionist that helps businesses handle calls, texts, and website inquiries around the clock without missing potential customers. In the AI era, it improves sales and support responsiveness by automating first-contact engagement and capturing leads continuously.
-- [bolt-new](https://www.aimyflow.com/en/ai/bolt-new): Bolt is an AI app builder that helps users turn prompts into working web applications quickly, mainly for founders, product teams, and developers prototyping new ideas. In the AI era, it compresses the path from concept to prototype so builders can validate products faster.
-- [cheerlink-app](https://www.aimyflow.com/en/ai/cheerlink-app): Cheerlink is an AI-powered inbox and sales widget that helps websites engage visitors, answer questions instantly, and improve conversion rates, mainly for ecommerce businesses and sales-driven teams. In AI-enabled customer journeys, it helps support and revenue teams capture intent the moment visitors are ready to act.
-- [clamor-social](https://www.aimyflow.com/en/ai/clamor-social): Clamor is a social platform designed to help users create, share, and engage around content and communities, likely aimed at creators, brands, and online audiences. In the AI era, social tools that streamline content workflows can help community and marketing teams maintain more consistent engagement.
-- [crisp-chat-en](https://www.aimyflow.com/en/ai/crisp-chat-en): Crisp is a business messaging platform that combines live chat, team inbox, chatbot, CRM, and knowledge base tools to help startups and SMBs manage sales, marketing, and support conversations. In the AI era, it helps customer-facing teams automate routine interactions while keeping responses organized and context-rich.
-- [dynamicmockups-com](https://www.aimyflow.com/en/ai/dynamicmockups-com): Dynamic Mockups is a mockup automation platform that helps e-commerce brands generate realistic product mockups at scale through APIs, integrations, and custom Photoshop templates. In the AI era, it helps design and merchandising teams produce consistent visual assets faster across large catalogs.
-- [entireweb-com](https://www.aimyflow.com/en/ai/entireweb-com): Entireweb is a private search engine that helps users discover web results without tracking or personalized filtering. In the AI era, privacy-focused search supports researchers and everyday users who want broader information access with less algorithmic profiling.
-- [getmanifest-ai](https://www.aimyflow.com/en/ai/getmanifest-ai): Manifest AI is a Shopify shopping assistant that helps ecommerce stores answer product questions in multiple languages and automate customer support interactions. It increases efficiency for ecommerce and support teams by handling routine queries and improving shopper conversion.
+- [1min-ai](https://www.aimyflow.com/en/ai/1min-ai): 1minAI is an all-in-one AI app for text, image, audio, and video tasks that helps users create, edit, and transform content from one place, mainly for creators, marketers, small businesses, and other general professionals. In AI-assisted workflows, a single hub like this can reduce tool switching and help content, marketing, and creative teams complete mixed media tasks more efficiently.
+- [accio-com](https://www.aimyflow.com/en/ai/accio-com): Accio is an AI business agent that helps business buyers turn product ideas into factory-ready specifications by supporting product design, market and trend analysis, supplier sourcing, and go-to-market work. For sourcing, product, and ecommerce teams, it can speed research and decision-making by combining AI-guided analysis with supplier discovery across complex product requirements.
+- [adscriptly-com](https://www.aimyflow.com/en/ai/adscriptly-com): Adscriptly is an AI ad optimization and campaign automation platform for Google Ads and Meta Ads that helps data-driven marketers and agencies use offline revenue, CRM, and lead-quality signals to improve bidding, reporting, and daily campaign management. In AI-era performance marketing, it can help PPC specialists and paid media teams optimize toward real business outcomes instead of surface conversions by automating routine account decisions with richer post-click data.
+- [adsgo-ai](https://www.aimyflow.com/en/ai/adsgo-ai): AdsGo AI is an automated ad management platform that helps businesses plan, launch, and optimize Meta and Google campaigns with AI, mainly for small businesses, local stores, online services, and teams without deep marketing expertise. For marketers and business owners, it can reduce manual campaign work by using continuous AI optimization to test audiences, allocate budget, and improve ad performance faster.
+- [adsoar-ai](https://www.aimyflow.com/en/ai/adsoar-ai): ADSoar is a Google Ads intelligence and competitor research tool that uses official ad platform data and AI scoring to help advertisers, media buyers, and PPC teams find winning ads, benchmark competitors, and track expansion across countries. In AI-driven ad buying, it can help performance marketers and agencies reduce manual ad review and make more evidence-based creative, targeting, and market-entry decisions.
+- [adspawn-io](https://www.aimyflow.com/en/ai/adspawn-io): AdSpawn is an AI video ad creator that turns raw mobile game gameplay into user acquisition creatives in minutes, mainly for mobile game marketing teams and UA professionals. In AI-driven performance marketing, it can help marketers test more creative variations faster while reducing manual production work on hooks, scene selection, and ad structure.
+- [adsturbo-ai](https://www.aimyflow.com/en/ai/adsturbo-ai): AdsTurbo is an AI video ad generator that helps e-commerce brands, growth teams, and performance marketers create, analyze, clone, translate, and upscale ad creatives from product images, URLs, or reference videos. In AI-driven creative workflows, it can help marketers and media buyers produce and iterate video ads faster while reusing winning structures across campaigns.
+- [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/en/ai/affiliates-vidau-ai-XfqLzb): VidAU.ai is an all-in-one AI video ad generator that helps businesses, e-commerce sellers, marketers, and creators turn text, images, videos, URLs, or product samples into ready-to-publish ads using templates, AI models, and mobile editing. For performance marketers and creative teams, it can speed ad testing and prototyping so they can validate more creative angles with less manual production work.
 
 ## Continue on AimyFlow
 

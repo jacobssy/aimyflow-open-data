@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 331
+- Herramientas asociadas: 450
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Oficial de gestión de proyectos resume 450 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Reportes de portafolio, Control de gobernanza, Coordinación de cronogramas, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -23,8 +27,8 @@
 - [affint-ai](https://www.aimyflow.com/es/ai/affint-ai): Affint es una suite ofimática con IA que ayuda a equipos y profesionales a crear presentaciones, documentos y hojas de cálculo mediante la conexión de aplicaciones empresariales, la recopilación de información y la automatización de la creación de contenido y los flujos de trabajo. Para los equipos de marketing, producto y ventas, puede reducir la investigación manual y el cambio de contexto para que puedan producir entregables alineados con la marca y tomar decisiones más rápidas e informadas por los datos.
 - [agendahero-com-magic](https://www.aimyflow.com/es/ai/agendahero-com-magic): Agenda Hero Magic es una herramienta de programación con IA que convierte texto, imágenes y PDF en eventos de calendario que los usuarios pueden enviarse a sí mismos, principalmente para personas que necesitan capturar horarios rápidamente a partir de información no estructurada. Para asistentes, coordinadores y otros roles de gestión del tiempo, puede reducir la entrada manual en el calendario y agilizar la conversión de documentos o mensajes compartidos en horarios utilizables.
 - [agent-blackbox-ai-api](https://www.aimyflow.com/es/ai/agent-blackbox-ai-api): BLACKBOX AI Agent es una API REST para desarrolladores y equipos de ingeniería que permite ejecutar tareas de programación con múltiples agentes de IA, comparar implementaciones y aplicar cambios a repositorios de código. En el trabajo de software asistido por IA, puede ayudar a ingenieros y líderes técnicos a evaluar los resultados de los modelos con mayor eficiencia mediante la ejecución paralela de agentes y una capa de selección para identificar la implementación más sólida.
+- [agent-minimax-io](https://www.aimyflow.com/es/ai/agent-minimax-io): MiniMax Agent es un asistente de trabajo con IA que ayuda a los usuarios a gestionar tareas de productividad simples y complejas, como investigación, programación, trabajo en sitios web, codificación y edición de documentos de oficina, dirigido principalmente a profesionales y trabajadores del conocimiento. Para ingenieros, analistas y equipos de oficina, su ejecución de tareas basada en agentes puede reducir la coordinación manual entre la investigación, los documentos y los flujos de trabajo técnicos.
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/es/ai/agent-minimax-io-max-claw): MaxClaw es un creador de agentes de IA de MiniMax OpenClaw que ayuda a los usuarios a crear asistentes personalizados con habilidades y subagentes para automatizar tareas complejas, principalmente para personas que necesitan un asistente en la nube disponible 24/7 en todas sus aplicaciones de trabajo. Para ingenieros y profesionales de oficina, este tipo de agente puede reducir la coordinación manual al encargarse de la depuración, la entrega de proyectos y la edición de documentos en múltiples rondas mediante flujos de trabajo persistentes y autónomos.
-- [agentdesk-noice-net-au](https://www.aimyflow.com/es/ai/agentdesk-noice-net-au): AgentDesk es una herramienta de gestión de tickets y automatización de flujos de trabajo con IA que lee código, investiga problemas, escribe correcciones, ejecuta pruebas y abre pull requests para equipos de software que usan Jira y flujos de desarrollo basados en Git. Para desarrolladores, gerentes de ingeniería y equipos de TI, puede reducir el triaje manual y acelerar la resolución de tickets al convertir elementos rutinarios del backlog en cambios de código listos para revisión.
 
 ## Continuar en AimyFlow
 

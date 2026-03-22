@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 45
+- Herramientas asociadas: 64
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerentes de marketing y ventas resume 64 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación go-to-market, Gestión del pipeline, Rendimiento de campañas, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -18,13 +22,13 @@
 ## Herramientas relacionadas
 
 - [ads-tiktok-com](https://www.aimyflow.com/es/ai/ads-tiktok-com): TikTok for Business es una plataforma publicitaria que ayuda a marcas, agencias y creadores a crear, gestionar y optimizar campañas para los formatos y audiencias de TikTok. En la era de la IA, permite probar creatividades más rápido y mejorar el rendimiento con optimización automatizada e insights de audiencia.
+- [aha-inc](https://www.aimyflow.com/es/ai/aha-inc): Aha es un asistente de marketing de influencers con IA que ayuda a empresas a gestionar matching de creadores, outreach, negociación, contratos y seguimiento de campañas a escala. En la era de la IA, permite sustituir la coordinación manual por operaciones con influencers más rápidas y consistentes.
 - [airtable-com-platform](https://www.aimyflow.com/es/ai/airtable-com-platform): Airtable Platform es una plataforma no-code que ayuda a equipos operativos y multifuncionales a crear apps de negocio, conectar datos y automatizar flujos con IA. En la era de la IA, permite convertir información estructurada en sistemas escalables sin depender tanto de ingeniería.
 - [beacons-ai](https://www.aimyflow.com/es/ai/beacons-ai): Beacons es una plataforma todo en uno para creadores que ayuda a influencers a gestionar páginas link-in-bio, media kits, tiendas y email marketing desde un solo lugar. En la era de la IA, centraliza la monetización y la gestión de audiencia para operar como un negocio completo.
 - [briefmymeeting-com](https://www.aimyflow.com/es/ai/briefmymeeting-com): Brief My Meeting es una herramienta de preparación de reuniones con IA que genera briefings personalizados a partir del correo y el calendario, pensada para ejecutivos, ventas y equipos de cara al cliente. En el trabajo impulsado por IA, ayuda a llegar mejor informado y a dedicar menos tiempo a recopilar contexto.
+- [capalyze-ai](https://www.aimyflow.com/es/ai/capalyze-ai): Capalyze es una plataforma de analítica de datos que ayuda a combinar datos de múltiples fuentes e información rastreada en la web para generar insights accionables, pensada para analistas, operadores y responsables de decisión. En la analítica asistida por IA, reduce la recopilación manual para centrarse más en interpretar tendencias y actuar.
 - [clamor-social](https://www.aimyflow.com/es/ai/clamor-social): Clamor es una plataforma social diseñada para ayudar a crear, compartir e impulsar la interacción en torno a contenido y comunidades, orientada a creadores, marcas y audiencias online. En la era de la IA, las herramientas sociales que agilizan flujos de contenido ayudan a mantener una interacción más constante.
 - [co-dev](https://www.aimyflow.com/es/ai/co-dev): Codev es un creador de apps con IA que ayuda a convertir descripciones de texto en aplicaciones full stack listas para producción con Next.js, pensado para founders, equipos de producto y desarrolladores. En la era de la IA, acelera la creación de software al llevar a los equipos de la idea a un producto desplegable con mucho menos trabajo de configuración.
-- [creativefabrica-com](https://www.aimyflow.com/es/ai/creativefabrica-com): Creative Fabrica es un marketplace digital y plataforma de suscripción de tipografías, gráficos, manualidades y recursos de diseño que ayuda a creadores, diseñadores y vendedores print-on-demand a producir más rápido. En la era de la IA, ofrece una amplia base de recursos para acelerar la ideación, la personalización y la producción.
-- [crustdata-com](https://www.aimyflow.com/es/ai/crustdata-com): Crustdata es una plataforma de datos B2B en tiempo real que ofrece datos de empresas y personas mediante APIs y feeds para equipos que crean productos de ventas, reclutamiento o inteligencia de mercado. En la era de la IA, los datos estructurados y actualizados mejoran la segmentación, el enriquecimiento y la automatización.
 
 ## Continuar en AimyFlow
 

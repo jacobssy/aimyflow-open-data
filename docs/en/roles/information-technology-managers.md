@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 64
+- Tool matches: 96
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Information Technology Managers page highlights 96 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around IT Strategy Planning, Infrastructure Oversight, Cybersecurity Governance, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -18,13 +22,13 @@
 ## Matched Tools
 
 - [aiease-ai](https://www.aimyflow.com/en/ai/aiease-ai): AI Ease is an AI photo editing platform that helps creators, marketers, and everyday users enhance, retouch, and automate image edits online. In the AI era, it speeds up repetitive editing work so visual teams can deliver polished assets with less manual effort.
-- [aiease-ai](https://www.aimyflow.com/en/ai/aiease-ai): AI Ease is an AI photo editing platform that helps creators, marketers, and everyday users enhance, retouch, and automate image edits online. In the AI era, it speeds up repetitive editing work so visual teams can deliver polished assets with less manual effort.
 - [aifaceswap-io](https://www.aimyflow.com/en/ai/aifaceswap-io): AI Face Swap is a browser-based face swapping tool that helps casual creators instantly edit photos online without sign-up. In the AI era, it makes lightweight visual experimentation faster and more accessible for entertainment and social content use.
 - [aipose-ai](https://www.aimyflow.com/en/ai/aipose-ai): AIPose is an AI pose generation and reference tool that helps artists, designers, and creators build poseable character references for visual work. In the AI era, it reduces setup time so illustrators and design teams can move from reference to creation more quickly.
 - [airtable-com-platform](https://www.aimyflow.com/en/ai/airtable-com-platform): Airtable Platform is a no-code app platform that helps operations and cross-functional teams build business apps, connect data, and automate workflows with AI. In the AI era, it lets knowledge workers turn structured information into scalable systems without heavy engineering support.
-- [bitbucket-org](https://www.aimyflow.com/en/ai/bitbucket-org): Bitbucket is a Git-based source code management and CI/CD platform that helps software teams collaborate on repositories, pipelines, and code reviews, especially organizations using Jira. In AI-enabled development workflows, it gives engineers and DevOps teams a connected system for faster delivery and clearer traceability.
-- [bolt-new](https://www.aimyflow.com/en/ai/bolt-new): Bolt is an AI app builder that helps users turn prompts into working web applications quickly, mainly for founders, product teams, and developers prototyping new ideas. In the AI era, it compresses the path from concept to prototype so builders can validate products faster.
-- [briefmymeeting-com](https://www.aimyflow.com/en/ai/briefmymeeting-com): Brief My Meeting is an AI meeting preparation tool that helps users get personalized briefings from email and calendar context, mainly for executives, sales professionals, and client-facing teams. In AI-driven work, it helps professionals enter meetings better informed and spend less time gathering background manually.
+- [antigravity-google](https://www.aimyflow.com/en/ai/antigravity-google): Google Antigravity appears to be an experimental Google project that explores unconventional online experiences and creative ways of interacting with digital products. In the AI era, projects like this can inspire product and design teams to test more imaginative interface concepts.
+- [anytourl-com](https://www.aimyflow.com/en/ai/anytourl-com): AnyToURL is a file hosting tool that helps users upload files and instantly generate shareable direct links for images, videos, PDFs, and code snippets. In the AI era, it supports developers and content teams by simplifying fast asset sharing across automated workflows.
+- [asksurf-ai](https://www.aimyflow.com/en/ai/asksurf-ai): Surf is an AI-powered crypto research platform that helps traders and investors analyze cryptocurrency markets, trends, and trading opportunities. In the AI era, it helps crypto researchers synthesize fast-moving information and respond to market signals with greater speed.
+- [audiopod-ai](https://www.aimyflow.com/en/ai/audiopod-ai): AudioPod AI is an all-in-one audio tool that helps creators and editors extract, convert, split, and edit audio from links and video files. In the AI era, it streamlines routine audio processing so production teams can turn raw media into usable assets faster.
 
 ## Continue on AimyFlow
 

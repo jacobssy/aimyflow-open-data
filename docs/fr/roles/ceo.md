@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 343
+- Outils associés: 442
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page PDG regroupe 442 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Orientation stratégique, Allocation du capital, Rythme de pilotage exécutif, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -24,7 +28,7 @@
 - [affint-ai](https://www.aimyflow.com/fr/ai/affint-ai): Affint est une suite bureautique d’IA qui aide les équipes et les professionnels à créer des présentations, des documents et des feuilles de calcul en connectant les applications métier, en collectant des informations et en automatisant la création de contenu et les flux de travail. Pour les équipes marketing, produit et commerciales, elle peut réduire les recherches manuelles et les changements de contexte afin de leur permettre de produire des livrables conformes à la marque et de prendre plus rapidement des décisions éclairées par les données.
 - [agentleader-io](https://www.aimyflow.com/fr/ai/agentleader-io): Agentleader est un outil de génération de leads B2B alimenté par l’IA qui aide les entreprises à trouver, qualifier et enrichir des listes de prospects grâce à une navigation basée sur des agents, une personnalisation fondée sur les signaux et une livraison continue de leads, principalement pour les équipes commerciales et de croissance. Dans les workflows de prospection assistés par l’IA, il peut réduire la recherche manuelle pour les SDR, les account executives et les équipes de demand generation, tout en améliorant le ciblage grâce à des signaux d’intention et d’entreprise plus récents.
 - [aha-inc](https://www.aimyflow.com/fr/ai/aha-inc): Aha est un assistant IA de marketing d’influence qui aide les entreprises à gérer la sélection de créateurs, la prise de contact, la négociation, les contrats et le suivi de campagne à grande échelle. À l’ère de l’IA, il remplace la coordination manuelle par des opérations influence plus rapides et cohérentes.
-- [aibooksummarizer-com](https://www.aimyflow.com/fr/ai/aibooksummarizer-com): AI Book Summarizer est un outil d’IA qui transforme les livres PDF, EPUB ou TXT téléversés en résumés concis et en réponses par chapitre, principalement pour les étudiants, les professionnels et les lecteurs réguliers qui ont besoin d’une compréhension plus rapide. Dans les flux de travail de lecture assistés par l’IA, il peut aider les apprenants et les travailleurs du savoir à réviser plus efficacement des manuels, des recherches et des livres professionnels avant de décider quoi étudier en entier.
+- [ai-meta-com-ai-studio](https://www.aimyflow.com/fr/ai/ai-meta-com-ai-studio): Meta AI Studio est un outil permettant de créer des personnages d’IA conversationnelle personnalisés et des IA de créateurs qui discutent sur Messenger, Instagram et WhatsApp, principalement pour les consommateurs et les créateurs qui souhaitent concevoir des assistants basés sur les centres d’intérêt ou des extensions IA d’eux-mêmes. Pour les créateurs et les gestionnaires de réseaux sociaux, il peut rationaliser l’engagement de l’audience en prenant en charge les conversations de routine dans leur voix, tout en conservant la visibilité et le contrôle sur les réponses.
 
 ## Continuer sur AimyFlow
 

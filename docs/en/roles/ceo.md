@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 343
+- Tool matches: 442
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This CEO page highlights 442 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Strategic Direction, Capital Allocation, Executive Operating Cadence, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -24,7 +28,7 @@
 - [affint-ai](https://www.aimyflow.com/en/ai/affint-ai): Affint is an AI office suite that helps teams and working professionals create presentations, documents, and spreadsheets by connecting business apps, gathering information, and automating content creation and workflows. For marketing, product, and sales teams, it can reduce manual research and context switching so they can produce branded deliverables and make faster, data-informed decisions.
 - [agentleader-io](https://www.aimyflow.com/en/ai/agentleader-io): Agentleader is an AI-powered B2B lead generation tool that helps businesses find, qualify, and enrich prospect lists with agent-based browsing, signal-based personalization, and ongoing lead delivery, mainly for sales and growth teams. In AI-enabled prospecting workflows, it can reduce manual research for SDRs, account executives, and demand generation teams while improving targeting with fresher intent and company signals.
 - [aha-inc](https://www.aimyflow.com/en/ai/aha-inc): Aha is an AI influencer marketing assistant that helps companies manage creator matching, outreach, negotiation, contracts, and campaign tracking at scale. In the AI era, it enables marketing and growth teams to replace manual coordination with faster, more consistent influencer operations.
-- [aibooksummarizer-com](https://www.aimyflow.com/en/ai/aibooksummarizer-com): AI Book Summarizer is an AI tool that turns uploaded PDF, EPUB, or TXT books into concise summaries and chapter-level answers, mainly for students, professionals, and regular readers who need faster comprehension. In AI-assisted reading workflows, it can help learners and knowledge workers review textbooks, research, and business books more efficiently before deciding what to study in full.
+- [ai-meta-com-ai-studio](https://www.aimyflow.com/en/ai/ai-meta-com-ai-studio): Meta AI Studio is a tool for creating custom conversational AI characters and creator AIs that chat on Messenger, Instagram, and WhatsApp, mainly for consumers and creators who want to build interest-based assistants or AI extensions of themselves. For creators and social media managers, it can streamline audience engagement by handling routine conversations in their voice while keeping visibility and control over responses.
 
 ## Continue on AimyFlow
 

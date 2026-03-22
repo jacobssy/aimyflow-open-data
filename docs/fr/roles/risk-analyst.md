@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 42
+- Outils associés: 45
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Analyste des risques regroupe 45 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Modélisation des risques, Analyse de scénarios, Reporting des risques, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -22,9 +26,9 @@
 - [chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh](https://www.aimyflow.com/fr/ai/chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh): TermOver AI est une extension Chrome qui utilise l’IA pour analyser les conditions d’utilisation et les politiques de confidentialité, les résumer en anglais clair et signaler des problèmes tels que la vente de données, le suivi ou les frais cachés pour les utilisateurs web ordinaires qui ne souhaitent pas lire les petites lignes juridiques. Dans les activités de conformité et de protection de la vie privée assistées par l’IA, des outils comme celui-ci peuvent aider les équipes des opérations juridiques, de la protection de la vie privée et de la gestion des risques à examiner plus rapidement les conditions web courantes et à concentrer leur attention sur les clauses présentant un risque plus élevé.
 - [clamor-social](https://www.aimyflow.com/fr/ai/clamor-social): Clamor est une plateforme sociale conçue pour créer, partager et animer du contenu et des communautés, pensée pour les créateurs, marques et audiences en ligne.
 - [clonedetector-com](https://www.aimyflow.com/fr/ai/clonedetector-com): Clone Detector est un outil de protection de marque et de détection de sites de phishing qui aide les entreprises et les équipes de sécurité à repérer les clones de domaines frauduleux et les sites web trompeusement similaires grâce au fuzzing de domaines, à l’analyse de similarité visuelle et au reporting basé sur les risques. Pour les fonctions de cybersécurité, de conformité et de protection de marque, il peut améliorer la surveillance à l’ère de l’IA en faisant remonter plus tôt les menaces d’usurpation subtiles et en facilitant des investigations, des signalements et des réponses plus rapides.
+- [create-kwakwa-com](https://www.aimyflow.com/fr/ai/create-kwakwa-com): KwaKwa Course Creator est une plateforme IA qui aide à créer et vendre rapidement des cours sociaux mobile-first, surtout pour coachs, créateurs et experts métier.
 - [datacamp-com](https://www.aimyflow.com/fr/ai/datacamp-com): DataCamp est une plateforme d’apprentissage en ligne en data science et IA qui aide à développer des compétences en Python, R, statistiques et analytique via des cours et exercices de code. À l’ère de l’IA, elle permet aux analystes et équipes techniques de monter en compétence en continu.
-- [demodazzle-com](https://www.aimyflow.com/fr/ai/demodazzle-com): DemoDazzle est une plateforme d’automatisation de démos qui aide les équipes à enregistrer des actions produit, créer des présentations avec avatars IA et engager les prospects via des démos applicatives interactives. À l’ère de l’IA, elle permet aux équipes commerciales et marketing produit de personnaliser à grande échelle sans répétition manuelle.
-- [extract-wellapp-ai](https://www.aimyflow.com/fr/ai/extract-wellapp-ai): Well Extract est un outil open source d’extraction de données de factures et reçus qui aide les développeurs à convertir des PDF et images en données structurées grâce à des modèles IA configurables.
+- [dealnavigator-ai](https://www.aimyflow.com/fr/ai/dealnavigator-ai): Deal Navigator AI est une plateforme algorithmique d’intelligence M&A et de due diligence qui aide les sociétés de capital-investissement et autres équipes d’investissement à évaluer des cibles d’acquisition, à générer des rapports et à évaluer les risques plus rapidement. Pour les professionnels du capital-investissement, du développement corporate et du deal sourcing, elle peut condenser les diligences préliminaires et la présélection des cibles en un flux de travail plus rapide et plus cohérent pour la prise de décision d’investissement.
 
 ## Continuer sur AimyFlow
 

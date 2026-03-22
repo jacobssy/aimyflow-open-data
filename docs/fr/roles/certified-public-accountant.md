@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 42
+- Outils associés: 51
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Expert-comptable certifié regroupe 51 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Information financière, Réalisation d'audit, Conformité fiscale, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 

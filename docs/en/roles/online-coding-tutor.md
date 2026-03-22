@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 54
+- Tool matches: 62
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Online Coding Tutor page highlights 62 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Curriculum Scaffolding, Live Code Debugging, Code Review Feedback, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -19,12 +23,12 @@
 
 - [ads-tiktok-com](https://www.aimyflow.com/en/ai/ads-tiktok-com): TikTok for Business is an advertising platform that helps brands, agencies, and creators create, manage, and optimize campaigns for TikTok’s formats and audiences. In the AI era, it helps marketers test creative faster and improve performance through automated optimization and audience insights.
 - [aicoursify-com](https://www.aimyflow.com/en/ai/aicoursify-com): AiCoursify is an AI course creation platform that helps course creators and e-learning professionals build online courses, quizzes, audio lessons, assignments, and presentations in minutes from a topic prompt. For educators, instructional designers, and training teams, it can reduce manual authoring time and speed the production of structured, multi-format learning content.
+- [aifreeforever-com-tools-riddles-answer](https://www.aimyflow.com/en/ai/aifreeforever-com-tools-riddles-answer): Riddles Answer Solver is an AI tool that helps users enter riddles, brain teasers, logic puzzles, and some math problems to get answers with step-by-step explanations, mainly for students, teachers, parents, and puzzle enthusiasts. In AI-assisted learning, it can support teaching and tutoring work by making the reasoning behind wordplay and logic puzzles easier to explain and review.
 - [aiinterviewcopilot-com](https://www.aimyflow.com/en/ai/aiinterviewcopilot-com): AI Interview Copilot is an AI-powered job interview assistant for candidates, especially technical interviewees, that transcribes conversations, analyzes screenshots, and generates real-time answers, code snippets, and algorithm solutions across iOS, iPadOS, and macOS. For software engineering and other technical roles, it can speed up response drafting and problem solving during interviews by turning spoken questions and visual prompts into immediate, usable text and code.
 - [aipdfreader-net](https://www.aimyflow.com/en/ai/aipdfreader-net): AI PDF Reader is a free AI document reader that helps users upload PDFs to analyze, translate, summarize, and ask follow-up questions, mainly for students, teachers, and researchers working with lessons, papers, and studies. In AI-assisted academic and educational work, it can help these users review source material faster, extract key points, and interact with documents in multiple languages.
 - [bolt-new](https://www.aimyflow.com/en/ai/bolt-new): Bolt is an AI app builder that helps users turn prompts into working web applications quickly, mainly for founders, product teams, and developers prototyping new ideas. In the AI era, it compresses the path from concept to prototype so builders can validate products faster.
 - [codingfleet-com-code-generator-python](https://www.aimyflow.com/en/ai/codingfleet-com-code-generator-python): CodingFleet Python Code Generator is an AI coding tool that turns written instructions into Python code snippets for developers and other users working in Python. In AI-assisted software workflows, it can help developers draft routine code faster so they can spend more time on debugging, review, and system design.
 - [craftedcourses-io](https://www.aimyflow.com/en/ai/craftedcourses-io): SparklingPeach by Crafted Courses is an AI-powered course creation platform that helps educators, trainers, and academic course creators generate, customize, publish, and manage professional learning content, including slides and assessments. For teaching and training teams, it can speed course production while supporting more consistent instructional design, learner tracking, and workforce training management.
-- [createaicourse-com](https://www.aimyflow.com/en/ai/createaicourse-com): AiCoursify is an AI course creation platform that helps course creators and e-learning professionals build online courses, quizzes, assignments, voiceovers, and presentations from a topic prompt in minutes. For educators and instructional designers, it can speed course production while improving consistency across lesson structure, assessments, and multimedia materials.
 
 ## Continue on AimyFlow
 

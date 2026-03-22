@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 15
+- 匹配工具数: 20
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+企业税务经理 这页聚焦 20 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 税务计提, 企业报税, 税务筹划，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -22,9 +26,9 @@
 - [ifoto-ai](https://www.aimyflow.com/zh/ai/ifoto-ai): iFoto 是 AI 图片编辑工作室，支持在线美化图片、更换背景和生成专业视觉内容，适合电商卖家、营销人员和内容创作者，无需高级设计技能即可加速创意制作。
 - [jupid-com](https://www.aimyflow.com/zh/ai/jupid-com): Jupid 是一个 AI 原生会计平台，通过消息交互、嵌入式银行体验和互联金融数据，帮助小企业主和金融机构管理记账、有限责任公司设立、税务申报和业务洞察。对于企业主、创始人和会计团队而言，它可以通过自动化交易分类并呈现具备上下文感知能力的财务信息，减少手工记账和税务准备工作。
 - [languagetool-org](https://www.aimyflow.com/zh/ai/languagetool-org): LanguageTool 是 AI 写作与语法助手，可检查 30 多种语言的语法、拼写、标点和风格，适合学生、专业人士和多语言团队，帮助高频写作岗位更清晰表达并更快完成编辑。
+- [ledgeriq-ai](https://www.aimyflow.com/zh/ai/ledgeriq-ai): Ledger IQ 是一款面向会计师事务所的试算平衡自动化工具，可导入 QuickBooks 或电子表格中的试算平衡数据，应用调整分录，并将数据直接映射到 Lacerte，以加快报税申报准备工作。 对于报税人员和注册会计师而言，它可以减少手动重复录入和电子表格清理工作，帮助标准化可供审核的工作底稿，并在繁忙的申报期间降低数据录入错误。
 - [marblism-com](https://www.aimyflow.com/zh/ai/marblism-com): Marblism 提供 AI 员工，帮助企业管理收件箱、制作社媒内容、撰写 SEO 文章和获取线索，适合小团队和成长型公司扩展日常运营。
-- [openart-ai](https://www.aimyflow.com/zh/ai/openart-ai): OpenArt 是一款 AI 图像生成与编辑平台，帮助艺术家、设计师和内容创作者将文字提示转为视觉作品，并通过创意工具快速迭代，提升视觉产出效率。
-- [openrouter-ai](https://www.aimyflow.com/zh/ai/openrouter-ai): OpenRouter 是一个面向大语言模型的统一 API 与路由平台，帮助开发者通过单一接口接入、比较和使用多个模型，让团队更灵活优化成本、性能与稳定性。
+- [nouswise-com-home](https://www.aimyflow.com/zh/ai/nouswise-com-home): Nouswise 是一款由 AI 驱动的研究代理，帮助用户搜索经过精选的知识来源，并获得透明、可验证的答案，主要面向受监管行业和知识密集型组织。 对于合规、政策、研究和运营团队而言，这种有据可依的 AI 能减少查找信息所花费的时间，同时让答案更容易依据已批准的来源材料进行验证。
 
 ## 继续访问 AimyFlow
 

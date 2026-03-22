@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 25
+- Zugeordnete Tools: 34
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Leiter für operative Fachbereiche bündelt 34 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Operative Planung, Prozesssteuerung, Leistungsmonitoring hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 

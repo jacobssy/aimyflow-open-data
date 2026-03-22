@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 18
+- Tool matches: 29
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Restaurant General Manager page highlights 29 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around P&L Management, Service Operations, Food Safety Compliance, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [agentbro-ai](https://www.aimyflow.com/en/ai/agentbro-ai): AgentBro is an AI phone receptionist that answers inbound business calls 24/7, books appointments, captures leads, and handles customer inquiries for small businesses and service-based teams. For owners, front-desk staff, and schedulers, it can reduce missed-call workload while using transcripts, analytics, and calendar syncing to keep follow-up and booking operations more consistent.
+- [aimenuphoto-com](https://www.aimyflow.com/en/ai/aimenuphoto-com): AI Menu Photo is an AI food photo editor that helps restaurants, cloud kitchens, food bloggers, and marketers turn basic dish photos into professional-looking menu, delivery app, and social media images with lighting fixes, background cleanup, style changes, and platform-ready exports. In AI-driven food commerce, it can help restaurant operators, marketers, and menu managers publish consistent, compliant visuals faster across ordering platforms.
 - [askweather-ai](https://www.aimyflow.com/en/ai/askweather-ai): AskWeather.ai is an ad-free weather website with AI chat that helps people check current conditions, 15-day forecasts, live radar, route weather, historical weather, and location-based alerts, mainly for everyday users and drivers. Its natural-language weather search can help travelers, drivers, and event planners make faster decisions by turning detailed location and timing questions into direct forecast answers.
 - [assindo-com](https://www.aimyflow.com/en/ai/assindo-com): Assindo is a personal AI agent that helps people make and screen phone calls, search the web, post to social media, schedule tasks, and manage multi-step work, mainly for non-technical users who want automation without setup or servers. For operations, administrative, and customer-facing roles, it can reduce time spent on calls, follow-ups, and routine coordination by turning requests into completed tasks.
+- [autogmail-com](https://www.aimyflow.com/en/ai/autogmail-com): Auto Gmail is an AI email assistant for Gmail that uses ChatGPT to draft replies automatically, helping Gmail users handle inbox conversations faster on desktop and mobile. For customer-facing roles and other email-heavy professionals, it can reduce routine writing time while keeping drafts closer to each user’s existing tone and context.
+- [chat360-io](https://www.aimyflow.com/en/ai/chat360-io): Chat360 is an agentic AI omnichannel customer experience platform that helps businesses automate lead qualification, sales, bookings, and customer support across WhatsApp, voice, web, and social channels, mainly for customer service, sales, and marketing teams. In AI-driven operations, it can help CX, support, and revenue teams handle routine conversations at scale while keeping context and consistency across channels.
 - [chromewebstore-google-com-detail-where-to-eat-by-helpful-e-nakdpkdhdglelechpiijgjcoedepdmip](https://www.aimyflow.com/en/ai/chromewebstore-google-com-detail-where-to-eat-by-helpful-e-nakdpkdhdglelechpiijgjcoedepdmip): Where to Eat? by Helpful Extensions is a Chrome extension that helps groups choose restaurants by weighing different dietary needs, budgets, and preferences, mainly for people organizing shared meals or social dining plans. In the AI era, it can help coordinators, team organizers, and group planners reduce back-and-forth and reach practical dining decisions faster.
-- [dashify-daisy-so](https://www.aimyflow.com/en/ai/dashify-daisy-so): Dashify with daisy is an AI image tool that helps users quickly turn food photos into polished menu photography, mainly for restaurants and other food businesses. It can speed up menu and marketing updates by giving hospitality teams more consistent dish images from simple uploads or camera shots.
-- [fitzhr-com](https://www.aimyflow.com/en/ai/fitzhr-com): Fitz HR is AI-powered HR software for Australian hospitality businesses that helps pubs, restaurants, cafés, and hotels manage award rates, employment contracts, warning letters, and Fair Work compliance. For venue owners, managers, and HR teams, it can speed up routine HR decisions and document creation while supporting more consistent compliance with hospitality workplace law.
-- [foodshot-ai](https://www.aimyflow.com/en/ai/foodshot-ai): FoodShot AI is an AI food photo editor that helps restaurants, chefs, food creators, and marketers turn basic dish photos into menu-ready images, delivery app visuals, social posts, and promotional posters. For restaurant operators and marketing teams, it can shorten the path from a phone photo to usable branded content across menus, delivery platforms, and social channels.
-- [gpt-trainer-com](https://www.aimyflow.com/en/ai/gpt-trainer-com): GPT-trainer is an enterprise AI agent platform that helps businesses build and deploy voice and text agents for customer support, lead qualification, internal assistance, and workflow automation across phone, email, SMS, web chat, and social media. For customer success, sales, and operations teams, it can reduce repetitive conversations and manual data entry while routing higher-value interactions to human staff.
-- [ifoto-ai](https://www.aimyflow.com/en/ai/ifoto-ai): iFoto is an AI photo editing studio that helps users enhance images, change backgrounds, and create polished visuals online, mainly for eCommerce sellers, marketers, and content creators. It speeds up creative production for merchandising and marketing teams without requiring advanced design skills.
+- [copilot-tidio-com](https://www.aimyflow.com/en/ai/copilot-tidio-com): Tidio Copilot is a free AI assistant for helpdesks that works with existing support systems to help teams handle customer service tasks more efficiently, mainly for support agents and helpdesk teams. In AI-driven support workflows, it can help customer service professionals respond faster and manage higher ticket volumes with more consistent assistance.
 
 ## Continue on AimyFlow
 

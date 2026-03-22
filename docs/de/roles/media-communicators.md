@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 36
+- Zugeordnete Tools: 47
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Medien- und Kommunikationsfachkräfte bündelt 47 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Medienstrategie, Pressearbeit, Botschaftsentwicklung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -21,10 +25,10 @@
 - [ads-tiktok-com](https://www.aimyflow.com/de/ai/ads-tiktok-com): TikTok for Business ist eine Werbeplattform, die Marken, Agenturen und Creators beim Erstellen, Verwalten und Optimieren von Kampagnen für TikTok-Formate und Zielgruppen unterstützt. Im KI-Zeitalter hilft sie Marketern, Creatives schneller zu testen und die Performance durch automatisierte Optimierung und Zielgruppen-Insights zu steigern.
 - [aiease-ai](https://www.aimyflow.com/de/ai/aiease-ai): AI Ease ist eine KI-Fotobearbeitungsplattform, die Creators, Marketern und Alltagsnutzern hilft, Bilder online zu verbessern, zu retuschieren und Bearbeitungen zu automatisieren. Im KI-Zeitalter beschleunigt sie wiederkehrende Editing-Aufgaben, damit visuelle Teams schneller hochwertige Assets liefern können.
 - [aifaceswap-io](https://www.aimyflow.com/de/ai/aifaceswap-io): AI Face Swap ist ein browserbasiertes Face-Swap-Tool, das Gelegenheits-Creatorn hilft, Fotos sofort online und ohne Anmeldung zu bearbeiten. Im KI-Zeitalter macht es visuelle Experimente für Unterhaltung und Social Content schneller und zugänglicher.
+- [audiopod-ai](https://www.aimyflow.com/de/ai/audiopod-ai): AudioPod AI ist ein All-in-one-Audio-Tool, das Creators und Editoren hilft, Audio aus Links und Videodateien zu extrahieren, umzuwandeln, zu schneiden und zu bearbeiten. Im KI-Zeitalter vereinfacht es routinemäßige Audioprozesse, damit Produktionsteams Rohmaterial schneller in nutzbare Assets verwandeln können.
 - [beacons-ai](https://www.aimyflow.com/de/ai/beacons-ai): Beacons ist eine All-in-one-Plattform für Creators, die Influencern hilft, Link-in-Bio-Seiten, Media Kits, Shops und E-Mail-Marketing an einem Ort zu verwalten. Im KI-Zeitalter unterstützt sie Creators dabei, Monetarisierung und Audience-Management zu zentralisieren und professioneller zu arbeiten.
 - [clamor-social](https://www.aimyflow.com/de/ai/clamor-social): Clamor ist eine Social-Plattform zum Erstellen, Teilen und Verwalten von Inhalten und Communities, geeignet für Creator, Marken und Online-Communities.
 - [clipto-com](https://www.aimyflow.com/de/ai/clipto-com): Clipto.AI ist ein privater Medienassistent, der digitale Assets organisiert, Inhalte transkribiert und Videos bearbeitet, ideal für Creator, Forscher und Medienprofis.
-- [createanything-com](https://www.aimyflow.com/de/ai/createanything-com): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
 
 ## Auf AimyFlow fortfahren
 

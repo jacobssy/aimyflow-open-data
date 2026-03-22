@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 467
+- Zugeordnete Tools: 616
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Texter bündelt 616 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Botschaftsstrategie, Headline-Texte, Kanalgerechte Adaption hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -22,9 +26,9 @@
 - [accordio-ai](https://www.aimyflow.com/de/ai/accordio-ai): Accordio ist eine KI-Admin-Plattform für Freelancer, die ihnen hilft, Verträge und Angebote zu erstellen, Zeiten zu erfassen, Rechnungen zu versenden, Zahlungen einzuziehen und Kunden-Follow-ups an einem Ort zu verwalten. Für freiberufliche Designer, Berater, Agenturen und Kreative können solche Tools repetitive Backoffice-Arbeit reduzieren und Kundenprozesse schneller und konsistenter machen, da KI die routinemäßige Koordination übernimmt.
 - [admakeai-com](https://www.aimyflow.com/de/ai/admakeai-com): AdMake AI ist eine KI-Werbeplattform, die Marketern, kleinen Unternehmen, Agenturen sowie E-Commerce- oder SaaS-Teams dabei hilft, die Facebook- und Instagram-Anzeigen ihrer Wettbewerber zu recherchieren, Werbemittel und Anzeigentexte zu erstellen und UGC-Videoanzeigen im Stil von nutzergenerierten Inhalten aus Vorlagen zu produzieren. Im KI-gesteuerten Performance-Marketing kann sie Paid-Social-Managern und Kreativstrategen dabei helfen, Erkenntnisse über Wettbewerber in schnellere Testzyklen und gezielter zugeschnittene Facebook-Werbemittel umzusetzen.
 - [adsoar-ai](https://www.aimyflow.com/de/ai/adsoar-ai): ADSoar ist ein Tool für Google-Ads-Intelligence und Wettbewerbsrecherche, das offizielle Daten von Werbeplattformen und KI-gestützte Bewertungen nutzt, um Werbetreibenden, Media Buyern und PPC-Teams dabei zu helfen, erfolgreiche Anzeigen zu finden, Wettbewerber zu benchmarken und Expansionen über Länder hinweg zu verfolgen. Im KI-gesteuerten Media Buying kann es Performance-Marketing-Teams und Agenturen dabei helfen, die manuelle Anzeigenprüfung zu reduzieren und fundiertere Entscheidungen zu Kreation, Targeting und Markteintritt zu treffen.
+- [adspawn-io](https://www.aimyflow.com/de/ai/adspawn-io): AdSpawn ist ein KI-Videoanzeigen-Tool, das rohes Gameplay aus Mobile Games in wenigen Minuten in Creatives für die Nutzerakquise verwandelt, vor allem für Marketing-Teams von Mobile Games und UA-Profis. Im KI-gestützten Performance-Marketing kann es Marketer dabei unterstützen, schneller mehr Creative-Varianten zu testen und gleichzeitig den manuellen Produktionsaufwand für Hooks, Szenenauswahl und Anzeigenstruktur zu reduzieren.
 - [affiliates-vidau-ai-XfqLzb](https://www.aimyflow.com/de/ai/affiliates-vidau-ai-XfqLzb): VidAU.ai ist ein All-in-One-KI-Generator für Videoanzeigen, der Unternehmen, E-Commerce-Händlern, Marketingfachleuten und Creatorn dabei hilft, Texte, Bilder, Videos, URLs oder Produktmuster mithilfe von Vorlagen, KI-Modellen und mobiler Bearbeitung in veröffentlichungsfertige Anzeigen zu verwandeln. Für Performance-Marketer und Kreativteams kann es Anzeigentests und Prototyping beschleunigen, sodass sie mit weniger manuellem Produktionsaufwand mehr kreative Ansätze validieren können.
-- [aiai-com-image-ai-text-to-image-generator](https://www.aimyflow.com/de/ai/aiai-com-image-ai-text-to-image-generator): Der AIAI-Text-zu-Bild-Generator ist ein webbasiertes KI-Tool, das schriftliche Eingaben in Bilder umwandelt – mit anpassbaren Optionen für Modell, Auflösung, Seitenverhältnis und Prompt. Es richtet sich vor allem an Kreative, Designer und Marketingfachleute, die visuelle Inhalte erstellen. In KI-gestützten kreativen Workflows kann es die Ideenfindung beschleunigen und erste Visuals für Kampagnen, Produktbilder und Social-Media-Inhalte entwerfen, bevor Teams in manuelles Design oder Fotografie investieren.
-- [aiangels-io](https://www.aimyflow.com/de/ai/aiangels-io): AI Angels ist eine KI-Begleiterplattform nur für Erwachsene, die es Nutzern ermöglicht, mit anpassbaren virtuellen Freundinnen zu chatten, die über Gedächtnis, Sprachchat, Rollenspiel und unzensierte Interaktionen verfügen, hauptsächlich für Erwachsene, die Unterhaltung und simulierte Gesellschaft suchen. Für Produktteams im Bereich Consumer-KI und Konversationsdesigner zeigt sie, wie Gedächtnis, konsistente Persönlichkeit und Sprachfunktionen Chaterlebnisse kontinuierlicher und ansprechender machen können.
+- [ai-meta-com-ai-studio](https://www.aimyflow.com/de/ai/ai-meta-com-ai-studio): Meta AI Studio ist ein Tool zum Erstellen benutzerdefinierter konversationeller KI-Charaktere und Creator-KIs, die auf Messenger, Instagram und WhatsApp chatten, hauptsächlich für Verbraucher und Creator, die interessenbasierte Assistenten oder KI-Erweiterungen ihrer selbst entwickeln möchten. Für Creator und Social-Media-Manager kann es die Interaktion mit dem Publikum optimieren, indem es routinemäßige Gespräche in ihrer Stimme übernimmt und gleichzeitig Transparenz und Kontrolle über die Antworten wahrt.
 
 ## Auf AimyFlow fortfahren
 

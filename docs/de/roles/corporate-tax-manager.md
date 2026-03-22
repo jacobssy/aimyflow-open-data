@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 15
+- Zugeordnete Tools: 20
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Steuermanager bündelt 20 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Steuerrückstellungen, Steuerdeklaration, Steuerplanung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -22,9 +26,9 @@
 - [ifoto-ai](https://www.aimyflow.com/de/ai/ifoto-ai): iFoto ist ein KI-Fotobearbeitungsstudio, mit dem Nutzer Bilder verbessern, Hintergründe ändern und professionelle Visuals online erstellen können. Besonders eCommerce-Teams, Marketer und Creator beschleunigen damit kreative Produktion ohne fortgeschrittene Designkenntnisse.
 - [jupid-com](https://www.aimyflow.com/de/ai/jupid-com): Jupid ist eine KI-native Buchhaltungsplattform, die Kleinunternehmern und Finanzinstituten dabei hilft, Buchhaltung, LLC-Gründung, Steuererklärung und geschäftliche Einblicke über Messaging, eingebettete Banking-Erlebnisse und vernetzte Finanzdaten zu verwalten. Für Unternehmer, Gründer und Buchhaltungsteams kann sie den manuellen Buchhaltungs- und Steuervorbereitungsaufwand reduzieren, indem sie die Transaktionskategorisierung automatisiert und kontextbezogene Finanzinformationen bereitstellt.
 - [languagetool-org](https://www.aimyflow.com/de/ai/languagetool-org): LanguageTool ist ein KI-gestützter Grammatik- und Schreibassistent, der Grammatik, Rechtschreibung, Zeichensetzung und Stil in mehr als 30 Sprachen prüft. Das hilft Studierenden, Berufstätigen und mehrsprachigen Teams, klarer zu schreiben und schneller zu lektorieren.
+- [ledgeriq-ai](https://www.aimyflow.com/de/ai/ledgeriq-ai): Ledger IQ ist ein Tool zur Automatisierung von Summen- und Saldenlisten für Wirtschaftsprüfungs- und Steuerberatungskanzleien. Es importiert Summen- und Saldenlisten aus QuickBooks oder Tabellenkalkulationen, wendet Abschlussbuchungen an und überträgt Daten direkt in Lacerte, um die Erstellung von Steuererklärungen zu beschleunigen. Für Steuerfachkräfte und CPAs kann es die manuelle Neuerfassung und die Bereinigung von Tabellen reduzieren, dabei helfen, standardisierte, prüfungsreife Arbeitspapiere zu erstellen, und Eingabefehler in arbeitsintensiven Abgabezeiträumen verringern.
 - [marblism-com](https://www.aimyflow.com/de/ai/marblism-com): Marblism bietet KI-Mitarbeiter, die Unternehmen beim Postfachmanagement, Social-Content, SEO-Artikeln und der Leadgenerierung unterstützen. Besonders kleine Teams können so Routineaufgaben ohne zusätzliche Spezialisten skalieren.
-- [openart-ai](https://www.aimyflow.com/de/ai/openart-ai): OpenArt ist eine KI-Plattform für Bildgenerierung und -bearbeitung, mit der Künstler, Designer und Content-Creator Text-Prompts in Bilder umwandeln und kreativ verfeinern können.
-- [openrouter-ai](https://www.aimyflow.com/de/ai/openrouter-ai): OpenRouter ist eine einheitliche API- und Routing-Plattform für große Sprachmodelle, mit der Entwickler mehrere Modelle über eine einzige Schnittstelle nutzen, vergleichen und verwalten können.
+- [nouswise-com-home](https://www.aimyflow.com/de/ai/nouswise-com-home): Nouswise ist ein KI-gestützter Rechercheagent, der Nutzern dabei hilft, in kuratierten Wissensquellen zu suchen und transparente, verifizierbare Antworten zu erhalten – vor allem für regulierte und wissensintensive Organisationen. Für Compliance-, Richtlinien-, Forschungs- und Betriebsteams kann diese Art von fundierter KI den Zeitaufwand für die Informationssuche verringern und zugleich die Überprüfung von Antworten anhand freigegebener Quellen erleichtern.
 
 ## Auf AimyFlow fortfahren
 

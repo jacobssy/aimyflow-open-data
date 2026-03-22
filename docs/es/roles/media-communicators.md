@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 36
+- Herramientas asociadas: 47
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Comunicadores de medios resume 47 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Estrategia de medios, Relación con prensa, Desarrollo de mensajes, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -21,10 +25,10 @@
 - [ads-tiktok-com](https://www.aimyflow.com/es/ai/ads-tiktok-com): TikTok for Business es una plataforma publicitaria que ayuda a marcas, agencias y creadores a crear, gestionar y optimizar campañas para los formatos y audiencias de TikTok. En la era de la IA, permite probar creatividades más rápido y mejorar el rendimiento con optimización automatizada e insights de audiencia.
 - [aiease-ai](https://www.aimyflow.com/es/ai/aiease-ai): AI Ease es una plataforma de edición de fotos con IA que ayuda a creadores, marketers y usuarios a mejorar, retocar y automatizar ediciones de imagen online. En la era de la IA, acelera tareas repetitivas para entregar recursos visuales pulidos con menos esfuerzo manual.
 - [aifaceswap-io](https://www.aimyflow.com/es/ai/aifaceswap-io): AI Face Swap es una herramienta de intercambio de rostros en navegador que ayuda a creadores casuales a editar fotos al instante online sin registro. En la era de la IA, hace que la experimentación visual ligera sea más rápida y accesible para entretenimiento y contenido social.
+- [audiopod-ai](https://www.aimyflow.com/es/ai/audiopod-ai): AudioPod AI es una herramienta de audio todo en uno que ayuda a creadores y editores a extraer, convertir, dividir y editar audio desde enlaces y archivos de video. En la era de la IA, agiliza el procesamiento rutinario de audio para obtener recursos utilizables más rápido.
 - [beacons-ai](https://www.aimyflow.com/es/ai/beacons-ai): Beacons es una plataforma todo en uno para creadores que ayuda a influencers a gestionar páginas link-in-bio, media kits, tiendas y email marketing desde un solo lugar. En la era de la IA, centraliza la monetización y la gestión de audiencia para operar como un negocio completo.
 - [clamor-social](https://www.aimyflow.com/es/ai/clamor-social): Clamor es una plataforma social diseñada para ayudar a crear, compartir e impulsar la interacción en torno a contenido y comunidades, orientada a creadores, marcas y audiencias online. En la era de la IA, las herramientas sociales que agilizan flujos de contenido ayudan a mantener una interacción más constante.
 - [clipto-com](https://www.aimyflow.com/es/ai/clipto-com): Clipto.AI es un asistente privado de gestión multimedia que ayuda a organizar activos digitales, transcribir contenido y editar video, ideal para creadores, investigadores y profesionales de medios. En la era de la IA, reduce la carga manual de manejar grandes bibliotecas multimedia para centrarse más en la producción.
-- [createanything-com](https://www.aimyflow.com/es/ai/createanything-com): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
 
 ## Continuar en AimyFlow
 

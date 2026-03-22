@@ -7,6 +7,10 @@
 - Tool matches: 10
 - Skill cards: 5
 
+## Why This Role Page Exists
+
+This Health Practitioners page highlights 10 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Clinical Assessment, Diagnostic Testing, Treatment Planning, while live rankings, community voting, and deeper workflows remain on AimyFlow.
+
 ## Core Skills
 
 - **Clinical Assessment**: Evaluates symptoms, history, and exam findings to determine likely conditions and care urgency.

@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 143
+- Zugeordnete Tools: 175
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für IT-Infrastrukturmanager/in bündelt 175 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Infrastrukturarchitektur, Betriebsstabilität, Cloud- und Rechenzentrumsmanagement hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 

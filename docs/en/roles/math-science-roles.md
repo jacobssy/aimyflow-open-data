@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 13
+- Tool matches: 20
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Math Science Roles page highlights 20 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Quantitative Modeling, Experimental Design, Data Analysis, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [antigravity-google](https://www.aimyflow.com/en/ai/antigravity-google): Google Antigravity appears to be an experimental Google project that explores unconventional online experiences and creative ways of interacting with digital products. In the AI era, projects like this can inspire product and design teams to test more imaginative interface concepts.
+- [asksurf-ai](https://www.aimyflow.com/en/ai/asksurf-ai): Surf is an AI-powered crypto research platform that helps traders and investors analyze cryptocurrency markets, trends, and trading opportunities. In the AI era, it helps crypto researchers synthesize fast-moving information and respond to market signals with greater speed.
 - [bitbucket-org](https://www.aimyflow.com/en/ai/bitbucket-org): Bitbucket is a Git-based source code management and CI/CD platform that helps software teams collaborate on repositories, pipelines, and code reviews, especially organizations using Jira. In AI-enabled development workflows, it gives engineers and DevOps teams a connected system for faster delivery and clearer traceability.
 - [co-dev](https://www.aimyflow.com/en/ai/co-dev): Codev is an AI app builder that helps users turn text descriptions into production-ready full-stack Next.js applications, mainly for founders, product teams, and developers. In the AI era, it accelerates software creation by moving teams from idea to deployable product with far less setup work.
 - [createanything-com](https://www.aimyflow.com/en/ai/createanything-com): Anything is an AI app builder that helps users turn ideas into websites, apps, tools, and digital products by describing what they want, mainly for founders, makers, and non-technical builders. In the AI era, it lets product creators test and ship concepts faster with less engineering dependence.
 - [cursor-com](https://www.aimyflow.com/en/ai/cursor-com): Cursor is an AI code editor that helps software developers write, edit, understand, and refactor code more efficiently within a programming environment. In the AI era, it boosts developer productivity by accelerating routine coding tasks and shortening feedback loops during implementation.
-- [fotor-com](https://www.aimyflow.com/en/ai/fotor-com): Fotor is an online photo editing platform that helps users enhance, retouch, and customize images with accessible editing tools, templates, and effects. It enables marketers, creators, and small teams to produce polished visuals without relying on advanced design software.
-- [gauthmath-com](https://www.aimyflow.com/en/ai/gauthmath-com): Gauth is an AI homework helper that supports students across school subjects with problem solving, explanations, calculator tools, and tutor-assisted guidance. It enhances learning support by giving students faster feedback while helping tutors focus on higher-value instruction.
-- [imyfone-com](https://www.aimyflow.com/en/ai/imyfone-com): iMyFone is a utility software platform that helps users recover lost data, unlock devices, repair system issues, and manage mobile and desktop data across iOS, Android, Windows, and Mac. It streamlines common device maintenance tasks for consumers and support technicians with less technical friction.
-- [manus-im](https://www.aimyflow.com/en/ai/manus-im): Manus is a general AI agent that helps users turn ideas into completed actions across work and personal tasks. In the AI era, it shifts knowledge work from prompting for answers to delegating multi-step execution to autonomous systems.
+- [datacamp-com](https://www.aimyflow.com/en/ai/datacamp-com): DataCamp is an online learning platform for data science and AI that helps learners build skills in Python, R, statistics, and analytics through courses and coding exercises. In the AI era, it helps analysts and technical teams upskill continuously as tools and workflows evolve faster.
+- [fabi-ai](https://www.aimyflow.com/en/ai/fabi-ai): Fabi.ai is an AI-powered data analysis platform that combines SQL, Python, and automation to help analysts explore data and generate insights faster. It boosts productivity for data teams by reducing manual analysis steps and accelerating decision-making from raw data.
 
 ## Continue on AimyFlow
 

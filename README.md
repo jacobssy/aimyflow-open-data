@@ -84,6 +84,33 @@ Required GitHub repository secrets:
 - `SUPABASE_SERVICE_ROLE_KEY` (recommended)
 - `AIMYFLOW_SITE_URL` (optional, defaults to `https://www.aimyflow.com`)
 
+## Search Strategy
+
+This repo is not meant to mirror the full site. It is meant to create indexable GitHub entry points that can rank for role-based AI tool searches and then send qualified visitors back to `www.aimyflow.com`.
+
+- keep the strongest role pages indexable on GitHub
+- avoid publishing thin role pages with zero or near-zero tool coverage
+- resolve messy role aliases before export so public mappings stay consistent
+- link every role page back to the matching localized AimyFlow page, not just the generic directory
+
+## Internationalization Strategy
+
+The repo supports six locales: `en`, `zh`, `es`, `ja`, `de`, `fr`.
+
+- `en` and `zh` are the broad-coverage primary locales
+- `es`, `ja`, `de`, and `fr` publish a curated head set of stronger role pages first
+- locale exports should favor quality over page count; if a locale is thin, publish fewer pages
+- localization fallback pressure and publishing counts are tracked in `data/stats.json`
+
+## Data Quality Guardrails
+
+The sync script now treats SEO quality as part of the export contract.
+
+- roles with zero or very low tool coverage should not be published as docs pages
+- unmatched role references are tracked and quality-checked during sync
+- generated stats include publication counts by locale and localization fallback counts
+- if role mapping quality falls too far, the sync should fail instead of committing weak exports
+
 ## Content Strategy
 
 This repo should publish short, structured, index-like content. Do not copy full website body content here.

@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 13
+- Herramientas asociadas: 20
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Roles de matemáticas y ciencias resume 20 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Modelado cuantitativo, Diseño experimental, Análisis de datos, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -17,14 +21,14 @@
 
 ## Herramientas relacionadas
 
+- [antigravity-google](https://www.aimyflow.com/es/ai/antigravity-google): Google Antigravity parece ser un proyecto experimental de Google que explora experiencias online poco convencionales y formas creativas de interactuar con productos digitales. En la era de la IA, proyectos así pueden inspirar a equipos de producto y diseño a probar interfaces más imaginativas.
+- [asksurf-ai](https://www.aimyflow.com/es/ai/asksurf-ai): Surf es una plataforma de investigación cripto impulsada por IA que ayuda a traders e inversores a analizar mercados, tendencias y oportunidades en criptomonedas. En la era de la IA, ayuda a sintetizar información cambiante y responder a señales del mercado con mayor rapidez.
 - [bitbucket-org](https://www.aimyflow.com/es/ai/bitbucket-org): Bitbucket es una plataforma de gestión de código fuente basada en Git y CI/CD que ayuda a equipos de software a colaborar en repositorios, pipelines y revisiones de código, especialmente en organizaciones que usan Jira. En flujos de desarrollo con IA, ofrece un sistema conectado para entregar más rápido y con mejor trazabilidad.
 - [co-dev](https://www.aimyflow.com/es/ai/co-dev): Codev es un creador de apps con IA que ayuda a convertir descripciones de texto en aplicaciones full stack listas para producción con Next.js, pensado para founders, equipos de producto y desarrolladores. En la era de la IA, acelera la creación de software al llevar a los equipos de la idea a un producto desplegable con mucho menos trabajo de configuración.
 - [createanything-com](https://www.aimyflow.com/es/ai/createanything-com): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
 - [cursor-com](https://www.aimyflow.com/es/ai/cursor-com): Cursor es un editor de código con IA que ayuda a desarrolladores a escribir, editar, entender y refactorizar código con más eficiencia dentro del entorno de programación. En la era de la IA, aumenta la productividad al acelerar tareas rutinarias y acortar ciclos de feedback.
-- [fotor-com](https://www.aimyflow.com/es/ai/fotor-com): Fotor es una plataforma online de edición de fotos que ayuda a mejorar, retocar y personalizar imágenes con herramientas, plantillas y efectos accesibles. Permite a marketers, creadores y pequeños equipos producir visuales profesionales sin software avanzado.
-- [gauthmath-com](https://www.aimyflow.com/es/ai/gauthmath-com): Gauth es un asistente de tareas con IA que ayuda a estudiantes en varias materias con resolución de problemas, explicaciones, calculadoras y apoyo de tutores. Mejora el aprendizaje con feedback rápido y apoyo más eficiente.
-- [imyfone-com](https://www.aimyflow.com/es/ai/imyfone-com): iMyFone es una plataforma de software utilitario que ayuda a recuperar datos perdidos, desbloquear dispositivos, reparar sistemas y gestionar datos en iOS, Android, Windows y Mac.
-- [manus-im](https://www.aimyflow.com/es/ai/manus-im): Manus es un agente de IA generalista que ayuda a convertir ideas en acciones completadas tanto en tareas laborales como personales.
+- [datacamp-com](https://www.aimyflow.com/es/ai/datacamp-com): DataCamp es una plataforma de aprendizaje online de ciencia de datos e IA que ayuda a desarrollar habilidades en Python, R, estadística y analítica mediante cursos y ejercicios de programación. En la era de la IA, facilita la formación continua de analistas y equipos técnicos.
+- [fabi-ai](https://www.aimyflow.com/es/ai/fabi-ai): Fabi.ai es una plataforma de análisis de datos con IA que combina SQL, Python y automatización para ayudar a los analistas a explorar datos y generar insights más rápido. Mejora la productividad de los equipos de datos al reducir pasos manuales y acelerar decisiones.
 
 ## Continuar en AimyFlow
 

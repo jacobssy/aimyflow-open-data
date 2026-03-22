@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 143
+- Outils associés: 175
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Responsable infrastructure IT regroupe 175 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Architecture d’infrastructure, Fiabilité d’exploitation, Gestion cloud et datacenter, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 

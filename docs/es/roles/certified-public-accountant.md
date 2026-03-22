@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 42
+- Herramientas asociadas: 51
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Contador público certificado resume 51 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Información financiera, Ejecución de auditoría, Cumplimiento tributario, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 

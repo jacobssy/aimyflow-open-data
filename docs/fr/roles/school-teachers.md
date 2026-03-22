@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 21
+- Outils associés: 25
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Enseignants scolaires regroupe 25 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Planification pédagogique, Gestion de classe, Évaluation des élèves, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -23,8 +27,8 @@
 - [fotor-com](https://www.aimyflow.com/fr/ai/fotor-com): Fotor est une plateforme de retouche photo en ligne qui aide les utilisateurs à améliorer, retoucher et personnaliser des images avec des outils, modèles et effets accessibles.
 - [gamma-app](https://www.aimyflow.com/fr/ai/gamma-app): Gamma est un outil IA de création de contenu qui aide à concevoir des présentations, pages web et documents visuels sans compétences en design ni en code.
 - [gauthmath-com](https://www.aimyflow.com/fr/ai/gauthmath-com): Gauth est un assistant IA pour les devoirs qui aide les élèves dans plusieurs matières avec résolution de problèmes, explications, calculatrice et accompagnement par tuteur.
+- [heygen-com](https://www.aimyflow.com/fr/ai/heygen-com): HeyGen est une plateforme de génération vidéo IA qui aide les entreprises à créer des vidéos avec avatars, localiser leurs contenus et produire plus vite des supports marketing ou de formation.
 - [knowt-com](https://www.aimyflow.com/fr/ai/knowt-com): Knowt est une plateforme d’apprentissage et alternative à Quizlet qui aide étudiants et enseignants à créer, importer et réviser des flashcards avec plusieurs modes d’étude.
-- [lyra-so](https://www.aimyflow.com/fr/ai/lyra-so): Lyra est une plateforme IA de réunions qui aide les équipes à capturer les appels, comprendre le contexte métier et générer automatiquement des suivis actionnables.
 
 ## Continuer sur AimyFlow
 

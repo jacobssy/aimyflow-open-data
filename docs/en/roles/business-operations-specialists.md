@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 34
+- Tool matches: 43
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Business Operations Specialists page highlights 43 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Process Optimization, Operational Reporting, Cross-Functional Coordination, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 

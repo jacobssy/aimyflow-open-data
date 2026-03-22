@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 23
+- Zugeordnete Tools: 27
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Schriftsteller und Autoren bündelt 27 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Narrative Entwicklung, Recherche und Faktenprüfung, Stil- und Tonkontrolle hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 

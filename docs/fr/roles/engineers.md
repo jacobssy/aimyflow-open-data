@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 26
+- Outils associés: 30
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Ingénieurs regroupe 30 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Conception technique, Analyse et simulation, Essais et validation, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -18,13 +22,13 @@
 ## Outils associés
 
 - [aiease-ai](https://www.aimyflow.com/fr/ai/aiease-ai): AI Ease est une plateforme de retouche photo par IA qui aide créateurs, marketeurs et particuliers à améliorer, retoucher et automatiser l’édition d’images en ligne. À l’ère de l’IA, elle accélère les tâches d’édition répétitives pour livrer des visuels soignés avec moins d’effort manuel.
-- [aiease-ai](https://www.aimyflow.com/fr/ai/aiease-ai): AI Ease est une plateforme de retouche photo par IA qui aide créateurs, marketeurs et particuliers à améliorer, retoucher et automatiser l’édition d’images en ligne. À l’ère de l’IA, elle accélère les tâches d’édition répétitives pour livrer des visuels soignés avec moins d’effort manuel.
 - [aipose-ai](https://www.aimyflow.com/fr/ai/aipose-ai): AIPose est un outil IA de génération de poses et de références qui aide artistes, designers et créateurs à créer des références de personnages articulés pour leurs visuels. À l’ère de l’IA, il réduit le temps de préparation pour passer plus vite de la référence à la création.
+- [antigravity-google](https://www.aimyflow.com/fr/ai/antigravity-google): Google Antigravity semble être un projet expérimental de Google explorant des expériences en ligne originales et de nouvelles façons d’interagir avec des produits numériques. À l’ère de l’IA, ce type de projet peut inspirer les équipes produit et design à tester des interfaces plus créatives.
 - [bitbucket-org](https://www.aimyflow.com/fr/ai/bitbucket-org): Bitbucket est une plateforme Git de gestion de code source et CI/CD qui aide les équipes logicielles à collaborer sur les dépôts, pipelines et revues de code, notamment dans les organisations utilisant Jira.
 - [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
 - [co-dev](https://www.aimyflow.com/fr/ai/co-dev): Codev est un créateur d’apps IA qui transforme des descriptions textuelles en applications full-stack Next.js prêtes pour la production, pour fondateurs, équipes produit et développeurs.
+- [creao-ai](https://www.aimyflow.com/fr/ai/creao-ai): Creao.ai est un créateur no-code d’apps IA qui permet de concevoir des applications et copilotes personnalisés via le chat, pour équipes métier et profils non techniques.
 - [createanything-com](https://www.aimyflow.com/fr/ai/createanything-com): Anything est un créateur d’apps IA qui transforme des idées en sites web, applications, outils et produits numériques à partir d’une simple description, pour fondateurs et makers.
-- [crustdata-com](https://www.aimyflow.com/fr/ai/crustdata-com): Crustdata est une plateforme de données B2B en temps réel fournissant des données entreprises et contacts via API et flux pour les équipes sales, recrutement et veille marché. À l’ère de l’IA, des données structurées fraîches améliorent le ciblage, l’enrichissement et l’automatisation.
 
 ## Continuer sur AimyFlow
 

@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 36
+- Outils associés: 47
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Communicants médias regroupe 47 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Stratégie média, Relations presse, Élaboration des messages, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -21,10 +25,10 @@
 - [ads-tiktok-com](https://www.aimyflow.com/fr/ai/ads-tiktok-com): TikTok for Business est une plateforme publicitaire qui aide les marques, agences et créateurs à créer, gérer et optimiser des campagnes pour les formats et audiences de TikTok. À l’ère de l’IA, elle permet de tester les créations plus vite et d’améliorer les performances grâce à l’optimisation automatisée et aux insights d’audience.
 - [aiease-ai](https://www.aimyflow.com/fr/ai/aiease-ai): AI Ease est une plateforme de retouche photo par IA qui aide créateurs, marketeurs et particuliers à améliorer, retoucher et automatiser l’édition d’images en ligne. À l’ère de l’IA, elle accélère les tâches d’édition répétitives pour livrer des visuels soignés avec moins d’effort manuel.
 - [aifaceswap-io](https://www.aimyflow.com/fr/ai/aifaceswap-io): AI Face Swap est un outil de face swap dans le navigateur qui aide les créateurs occasionnels à modifier instantanément des photos en ligne sans inscription. À l’ère de l’IA, il rend l’expérimentation visuelle légère plus rapide et accessible pour le divertissement et les contenus sociaux.
+- [audiopod-ai](https://www.aimyflow.com/fr/ai/audiopod-ai): AudioPod AI est un outil audio tout-en-un qui aide créateurs et monteurs à extraire, convertir, découper et éditer l’audio depuis des liens et fichiers vidéo. À l’ère de l’IA, il rationalise le traitement audio courant pour transformer plus vite des médias bruts en assets exploitables.
 - [beacons-ai](https://www.aimyflow.com/fr/ai/beacons-ai): Beacons est une plateforme tout-en-un pour créateurs qui aide les influenceurs à gérer pages link-in-bio, media kits, boutiques et email marketing depuis un seul endroit. À l’ère de l’IA, elle centralise la monétisation et les opérations d’audience pour gérer leur activité comme une vraie entreprise.
 - [clamor-social](https://www.aimyflow.com/fr/ai/clamor-social): Clamor est une plateforme sociale conçue pour créer, partager et animer du contenu et des communautés, pensée pour les créateurs, marques et audiences en ligne.
 - [clipto-com](https://www.aimyflow.com/fr/ai/clipto-com): Clipto.AI est un assistant privé de gestion média qui aide à organiser les fichiers numériques, transcrire du contenu et éditer des vidéos, pour créateurs et professionnels des médias.
-- [createanything-com](https://www.aimyflow.com/fr/ai/createanything-com): Anything est un créateur d’apps IA qui transforme des idées en sites web, applications, outils et produits numériques à partir d’une simple description, pour fondateurs et makers.
 
 ## Continuer sur AimyFlow
 

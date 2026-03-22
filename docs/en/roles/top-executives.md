@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 9
+- Tool matches: 14
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Top Executives page highlights 14 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Strategic Direction, Capital Allocation, Executive Governance, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -17,14 +21,14 @@
 
 ## Matched Tools
 
+- [aha-inc](https://www.aimyflow.com/en/ai/aha-inc): Aha is an AI influencer marketing assistant that helps companies manage creator matching, outreach, negotiation, contracts, and campaign tracking at scale. In the AI era, it enables marketing and growth teams to replace manual coordination with faster, more consistent influencer operations.
+- [beacons-ai](https://www.aimyflow.com/en/ai/beacons-ai): Beacons is an all-in-one creator platform that helps influencers manage link-in-bio pages, media kits, stores, and email marketing from one place. In the AI era, it helps creators centralize monetization and audience operations so they can run more like full businesses.
 - [briefmymeeting-com](https://www.aimyflow.com/en/ai/briefmymeeting-com): Brief My Meeting is an AI meeting preparation tool that helps users get personalized briefings from email and calendar context, mainly for executives, sales professionals, and client-facing teams. In AI-driven work, it helps professionals enter meetings better informed and spend less time gathering background manually.
 - [co-dev](https://www.aimyflow.com/en/ai/co-dev): Codev is an AI app builder that helps users turn text descriptions into production-ready full-stack Next.js applications, mainly for founders, product teams, and developers. In the AI era, it accelerates software creation by moving teams from idea to deployable product with far less setup work.
+- [creativefabrica-com](https://www.aimyflow.com/en/ai/creativefabrica-com): Creative Fabrica is a digital marketplace and subscription platform for fonts, graphics, crafts, and design assets that helps makers, designers, and print-on-demand sellers create products faster. In the AI era, it gives creative professionals a broad asset base to speed ideation, customization, and production-ready output.
 - [crustdata-com](https://www.aimyflow.com/en/ai/crustdata-com): Crustdata is a real-time B2B data platform that delivers company and people data through APIs and feeds for teams building sales, recruiting, or market intelligence products. In the AI era, fresh structured data helps revenue and ops teams power more accurate targeting, enrichment, and automation.
 - [demodazzle-com](https://www.aimyflow.com/en/ai/demodazzle-com): DemoDazzle is a demo automation platform that helps teams record product actions, create AI avatar presentations, and engage prospects through interactive application demos. In the AI era, it enables sales and product marketing teams to scale personalized demos without repeating manual walkthroughs.
-- [lunacal-ai](https://www.aimyflow.com/en/ai/lunacal-ai): Lunacal is a scheduling and appointment booking platform that helps consultants, service providers, and teams manage calendar syncing, reminders, and personalized booking pages. In the AI era, it improves conversion from scheduling touchpoints by combining automation with more context-rich client booking experiences.
-- [monica-im](https://www.aimyflow.com/en/ai/monica-im): Monica is a multi-model AI assistant that helps users with chat, search, writing, and coding across browser, desktop, and mobile apps. In the AI era, it lets knowledge workers consolidate everyday AI tasks into one assistant instead of switching across specialized tools.
-- [picsart-com](https://www.aimyflow.com/en/ai/picsart-com): Picsart is an all-in-one creative platform with AI design tools, templates, and asset libraries for creators, marketers, and small teams producing visual content. It helps content teams accelerate design workflows by combining generation, editing, and templated production in one environment.
-- [replit-com](https://www.aimyflow.com/en/ai/replit-com): Replit is an AI-powered development platform that helps users build apps and websites in the browser, mainly for developers, founders, and teams shipping software quickly. It shortens the path from idea to working prototype, helping builders iterate and deploy with less setup.
+- [invideo-io](https://www.aimyflow.com/en/ai/invideo-io): InVideo is an AI video creation platform that helps users make and edit videos, avatar content, and product ads, mainly for marketers, creators, and small business teams. It reduces production time for content roles that need frequent, high-volume video output.
 
 ## Continue on AimyFlow
 

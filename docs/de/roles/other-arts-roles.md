@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 18
+- Zugeordnete Tools: 20
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Sonstige Kunstrollen bündelt 20 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Künstlerische Recherche, Konzeptentwicklung, Produktionsplanung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 

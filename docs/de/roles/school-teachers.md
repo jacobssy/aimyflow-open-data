@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 21
+- Zugeordnete Tools: 25
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Schullehrkräfte bündelt 25 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Unterrichtsplanung, Klassenführung, Lernstandsbewertung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -23,8 +27,8 @@
 - [fotor-com](https://www.aimyflow.com/de/ai/fotor-com): Fotor ist eine Online-Fotobearbeitungsplattform, mit der Nutzer Bilder mit leicht zugänglichen Tools, Vorlagen und Effekten verbessern, retuschieren und anpassen können. Sie hilft Marketern, Creatorn und kleinen Teams, professionelle Visuals ohne komplexe Designsoftware zu erstellen.
 - [gamma-app](https://www.aimyflow.com/de/ai/gamma-app): Gamma ist ein KI-Tool zur Content-Erstellung, mit dem Nutzer Präsentationen, Webseiten und visuelle Dokumente ohne Design- oder Programmierkenntnisse erstellen können. Es hilft Gründern, Marketern und Teams, Ideen schneller in professionelle Ergebnisse umzusetzen.
 - [gauthmath-com](https://www.aimyflow.com/de/ai/gauthmath-com): Gauth ist ein KI-Hausaufgabenhelfer, der Schüler in verschiedenen Schulfächern mit Problemlösungen, Erklärungen, Rechner-Tools und tutorengestützter Hilfe unterstützt. Er liefert schnelleres Feedback und entlastet Tutoren für anspruchsvollere Lernunterstützung.
+- [heygen-com](https://www.aimyflow.com/de/ai/heygen-com): HeyGen ist eine KI-Videoplattform, mit der Unternehmen Avatar-Videos erstellen, Inhalte lokalisieren und Marketing- oder Schulungsvideos schneller produzieren. So skalieren Marketing-, Kreativ- und L&D-Teams ihre Videoproduktion ohne klassische Drehengpässe.
 - [knowt-com](https://www.aimyflow.com/de/ai/knowt-com): Knowt ist eine Lernplattform und Quizlet-Alternative, mit der Schüler und Lehrkräfte Karteikarten erstellen, importieren und in verschiedenen Lernmodi üben können. So lassen sich Lerninhalte einfacher wiederverwenden, wiederholen und über Klassen hinweg skalieren.
-- [lyra-so](https://www.aimyflow.com/de/ai/lyra-so): Lyra ist eine KI-Meeting-Plattform, die Teams dabei hilft, Gespräche zu erfassen, Geschäftskontext zu verstehen und automatisch in konkrete Follow-ups umzuwandeln. Sie reduziert Notizaufwand und verbessert die Umsetzung nach Meetings.
 
 ## Auf AimyFlow fortfahren
 

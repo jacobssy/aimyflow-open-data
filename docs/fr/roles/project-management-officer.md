@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 331
+- Outils associés: 450
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Responsable PMO regroupe 450 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Reporting de portefeuille, Contrôle de gouvernance, Coordination des plannings, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -23,8 +27,8 @@
 - [affint-ai](https://www.aimyflow.com/fr/ai/affint-ai): Affint est une suite bureautique d’IA qui aide les équipes et les professionnels à créer des présentations, des documents et des feuilles de calcul en connectant les applications métier, en collectant des informations et en automatisant la création de contenu et les flux de travail. Pour les équipes marketing, produit et commerciales, elle peut réduire les recherches manuelles et les changements de contexte afin de leur permettre de produire des livrables conformes à la marque et de prendre plus rapidement des décisions éclairées par les données.
 - [agendahero-com-magic](https://www.aimyflow.com/fr/ai/agendahero-com-magic): Agenda Hero Magic est un outil de planification par IA qui transforme du texte, des images et des PDF en événements de calendrier que les utilisateurs peuvent s’envoyer à eux-mêmes, principalement pour les personnes qui ont besoin de saisir rapidement des plannings à partir d’informations non structurées. Pour les assistants, les coordinateurs et les autres fonctions liées à la gestion du temps, il peut réduire la saisie manuelle dans le calendrier et accélérer la conversion de documents ou de messages partagés en plannings exploitables.
 - [agent-blackbox-ai-api](https://www.aimyflow.com/fr/ai/agent-blackbox-ai-api): BLACKBOX AI Agent est une API REST destinée aux développeurs et aux équipes d’ingénierie pour exécuter des tâches de programmation via plusieurs agents d’IA, comparer les implémentations et appliquer des modifications aux dépôts de code. Dans le travail logiciel assisté par l’IA, il peut aider les ingénieurs et les responsables techniques à évaluer plus efficacement les résultats des modèles grâce à l’exécution parallèle des agents et à une couche de sélection permettant d’identifier l’implémentation la plus performante.
+- [agent-minimax-io](https://www.aimyflow.com/fr/ai/agent-minimax-io): MiniMax Agent est un assistant de travail IA qui aide les utilisateurs à gérer des tâches de productivité simples et complexes, telles que la recherche, la planification, le travail sur des sites web, le codage et l’édition de documents bureautiques, principalement destiné aux professionnels et aux travailleurs du savoir. Pour les ingénieurs, les analystes et les équipes de bureau, son exécution des tâches basée sur des agents peut réduire la coordination manuelle entre la recherche, les documents et les flux de travail techniques.
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/fr/ai/agent-minimax-io-max-claw): MaxClaw est un créateur d’agents IA de MiniMax OpenClaw qui aide les utilisateurs à créer des assistants personnalisés avec des compétences et des sous-agents afin d’automatiser des tâches complexes, principalement pour les personnes ayant besoin d’un assistant cloud disponible 24 h/24 et 7 j/7 dans leurs applications de travail. Pour les ingénieurs et les professionnels de bureau, ce type d’agent peut réduire la coordination manuelle en prenant en charge le débogage, la livraison de projets et l’édition de documents en plusieurs itérations grâce à des flux de travail persistants et autonomes.
-- [agentdesk-noice-net-au](https://www.aimyflow.com/fr/ai/agentdesk-noice-net-au): AgentDesk est un outil de gestion des tickets et d’automatisation des flux de travail par IA qui lit le code, analyse les problèmes, rédige des correctifs, exécute des tests et ouvre des pull requests pour les équipes logicielles utilisant Jira et des workflows de développement basés sur Git. Pour les développeurs, les responsables d’ingénierie et les équipes informatiques, il peut réduire le tri manuel et accélérer la résolution des tickets en transformant les éléments de backlog routiniers en modifications de code prêtes pour la revue.
 
 ## Continuer sur AimyFlow
 

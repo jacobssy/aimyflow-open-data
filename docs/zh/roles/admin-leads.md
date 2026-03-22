@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 7
+- 匹配工具数: 8
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+行政主管 这页聚焦 8 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 办公室运营管控, 预算与费用管理, 制度与合规监督，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -20,6 +24,7 @@
 - [ads-tiktok-com](https://www.aimyflow.com/zh/ai/ads-tiktok-com): TikTok for Business 是一个广告投放平台，帮助品牌、代理商和创作者创建、管理并优化适配 TikTok 形式与受众的营销活动。在 AI 时代，它帮助营销人员更快测试创意，并通过自动化优化和受众洞察提升广告效果。
 - [aifaceswap-io](https://www.aimyflow.com/zh/ai/aifaceswap-io): AI Face Swap 是一款基于浏览器的换脸工具，帮助普通创作者无需注册即可在线快速编辑照片。在 AI 时代，它让轻量级视觉创作更快、更易上手，适合娱乐和社交内容使用。
 - [bolt-new](https://www.aimyflow.com/zh/ai/bolt-new): Bolt 是 AI 应用构建平台，可将提示词快速生成可用的 Web 应用，适合创始人、产品团队和原型开发者。在 AI 时代，它能加速从想法到原型的验证流程。
+- [generate-folderly-com](https://www.aimyflow.com/zh/ai/generate-folderly-com): Folderly EmailGen 是一款 AI 冷邮件生成工具，帮助销售和营销团队基于验证模板创建个性化且经过垃圾邮件检测的外联邮件序列，提升开发客户效率与一致性。
 - [imyfone-com](https://www.aimyflow.com/zh/ai/imyfone-com): iMyFone 是实用软件平台，帮助用户恢复丢失数据、解锁设备、修复系统问题，并管理 iOS、Android、Windows 和 Mac 上的移动及桌面数据，简化常见设备维护任务。
 - [jotform-com](https://www.aimyflow.com/zh/ai/jotform-com): Jotform 是在线表单生成工具，帮助组织创建表单和问卷以收集报名、申请、订单和付款信息，适合运营、人力、教育和中小企业团队，快速实现数据采集数字化并减少人工行政工作。
 - [otter-ai](https://www.aimyflow.com/zh/ai/otter-ai): Otter 是一款 AI 会议助手，提供实时转录、摘要、聊天、洞察和待办事项，适合团队、管理者和知识工作者，帮助自动记录决策并提升会后执行效率。

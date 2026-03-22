@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 25
+- Outils associés: 32
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Spécialistes financiers regroupe 32 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Analyse financière, Planification budgétaire, Évaluation des risques, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 
@@ -19,12 +23,12 @@
 
 - [ads-tiktok-com](https://www.aimyflow.com/fr/ai/ads-tiktok-com): TikTok for Business est une plateforme publicitaire qui aide les marques, agences et créateurs à créer, gérer et optimiser des campagnes pour les formats et audiences de TikTok. À l’ère de l’IA, elle permet de tester les créations plus vite et d’améliorer les performances grâce à l’optimisation automatisée et aux insights d’audience.
 - [airtable-com-platform](https://www.aimyflow.com/fr/ai/airtable-com-platform): Airtable Platform est une plateforme no-code qui aide les équipes opérations et transverses à créer des applications métier, connecter les données et automatiser des workflows avec l’IA. À l’ère de l’IA, elle permet de transformer des informations structurées en systèmes évolutifs sans fort support technique.
+- [asksurf-ai](https://www.aimyflow.com/fr/ai/asksurf-ai): Surf est une plateforme de recherche crypto alimentée par l’IA qui aide traders et investisseurs à analyser les marchés des cryptomonnaies, les tendances et les opportunités de trading. À l’ère de l’IA, elle aide à synthétiser des informations très volatiles et à réagir plus vite aux signaux du marché.
 - [bolt-new](https://www.aimyflow.com/fr/ai/bolt-new): Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
 - [clamor-social](https://www.aimyflow.com/fr/ai/clamor-social): Clamor est une plateforme sociale conçue pour créer, partager et animer du contenu et des communautés, pensée pour les créateurs, marques et audiences en ligne.
 - [co-dev](https://www.aimyflow.com/fr/ai/co-dev): Codev est un créateur d’apps IA qui transforme des descriptions textuelles en applications full-stack Next.js prêtes pour la production, pour fondateurs, équipes produit et développeurs.
 - [create-kwakwa-com](https://www.aimyflow.com/fr/ai/create-kwakwa-com): KwaKwa Course Creator est une plateforme IA qui aide à créer et vendre rapidement des cours sociaux mobile-first, surtout pour coachs, créateurs et experts métier.
 - [createanything-com](https://www.aimyflow.com/fr/ai/createanything-com): Anything est un créateur d’apps IA qui transforme des idées en sites web, applications, outils et produits numériques à partir d’une simple description, pour fondateurs et makers.
-- [cursor-com](https://www.aimyflow.com/fr/ai/cursor-com): Cursor est un éditeur de code IA qui aide les développeurs à écrire, modifier, comprendre et refactoriser du code plus efficacement dans leur environnement de programmation. À l’ère de l’IA, il accélère les tâches de codage courantes et réduit les boucles de feedback.
 
 ## Continuer sur AimyFlow
 

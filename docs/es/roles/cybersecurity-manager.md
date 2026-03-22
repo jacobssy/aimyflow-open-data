@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 63
+- Herramientas asociadas: 72
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerente de ciberseguridad resume 72 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Estrategia de seguridad, Evaluación de riesgos, Respuesta a incidentes, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -23,8 +27,8 @@
 - [aiqamonkey-com](https://www.aimyflow.com/es/ai/aiqamonkey-com): AI QA Monkey es un escáner gratuito de seguridad de sitios web impulsado por IA que ejecuta más de 75 comprobaciones en aproximadamente un minuto para identificar problemas como debilidades de SSL/TLS, archivos expuestos, puertos abiertos, riesgos de CORS y vulnerabilidades de WordPress para agencias, equipos de SaaS, desarrolladores y fundadores centrados en la seguridad. Para los equipos de seguridad, TI y operaciones web, sus informes exportables y sus instrucciones de corrección con IA pueden acelerar el triaje y ayudar a convertir los hallazgos del escaneo en flujos de trabajo de remediación más rápidos.
 - [aiqbee-com](https://www.aimyflow.com/es/ai/aiqbee-com): Aiqbee es una plataforma empresarial de memoria de IA que proporciona a cualquier LLM o herramienta de IA un contexto organizacional persistente al centralizar el conocimiento de la empresa, conectarlo con herramientas como Teams e IDEs, y añadir controles de gobernanza, principalmente para empresas que gestionan el uso de la IA entre equipos. Para las funciones de TI, operaciones, soporte y desarrollo, puede reducir las solicitudes repetidas y mejorar la coherencia al poner el conocimiento compartido a disposición en flujos de trabajo de IA aprobados.
 - [aivyx-studio-com](https://www.aimyflow.com/es/ai/aivyx-studio-com): Aivyx es una plataforma de IA de código abierto, centrada en la privacidad, para ejecutar asistentes cifrados con enfoque local, con herramientas, memoria, voz y API en tu propia máquina, principalmente para desarrolladores, equipos conscientes de la seguridad y organizaciones que necesitan control sobre los datos y la implementación. En los flujos de trabajo de IA, puede ayudar a los equipos de ingeniería, TI y plataforma a crear y operar agentes con una mayor propiedad de los datos, capacidad de auditoría y control de políticas que las configuraciones basadas únicamente en la nube.
+- [alphavision-ai](https://www.aimyflow.com/es/ai/alphavision-ai): Alpha Vision es una plataforma de seguridad física con IA que utiliza agentes de IA y flujos de trabajo para supervisar sitios al aire libre, detectar actividades inseguras o no autorizadas, disuadir intrusiones y buscar en grabaciones, principalmente para equipos de seguridad, seguridad laboral y operaciones en sectores como la construcción, la educación, el comercio minorista, los servicios públicos y el sector inmobiliario comercial. En las operaciones de seguridad habilitadas por IA, puede ayudar a administradores de sitios, investigadores y responsables de seguridad a responder más rápido, revisar incidentes con mayor eficiencia y mantener una cobertura más amplia en propiedades grandes o distribuidas.
 - [bolt-new](https://www.aimyflow.com/es/ai/bolt-new): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
-- [cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html](https://www.aimyflow.com/es/ai/cisco-com-site-us-en-solutions-artificial-intelligence-agentic-ops-ai-canvas-index-html): Cisco AI Canvas es un espacio de trabajo generativo compartido para AgenticOps que reúne la telemetría de TI entre dominios, los equipos y los agentes para ayudar a los equipos de operaciones de TI a colaborar y trabajar desde una vista unificada. En las operaciones impulsadas por IA, este tipo de espacio de trabajo compartido puede ayudar a los operadores e ingenieros de TI a interpretar los datos con mayor rapidez y coordinar respuestas entre dominios con menos transferencias manuales.
 
 ## Continuar en AimyFlow
 

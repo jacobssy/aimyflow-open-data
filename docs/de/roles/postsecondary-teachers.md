@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 25
+- Zugeordnete Tools: 33
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Hochschullehrkräfte bündelt 33 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Curriculumsentwicklung, Lehrdurchführung, Prüfungskonzeption hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -17,14 +21,14 @@
 
 ## Passende Tools
 
+- [anytourl-com](https://www.aimyflow.com/de/ai/anytourl-com): AnyToURL ist ein File-Hosting-Tool, das Nutzern hilft, Dateien hochzuladen und sofort teilbare Direktlinks für Bilder, Videos, PDFs und Code-Snippets zu erstellen. Im KI-Zeitalter unterstützt es Entwickler und Content-Teams durch einfacheres, schnelles Asset-Sharing in automatisierten Workflows.
+- [audiopod-ai](https://www.aimyflow.com/de/ai/audiopod-ai): AudioPod AI ist ein All-in-one-Audio-Tool, das Creators und Editoren hilft, Audio aus Links und Videodateien zu extrahieren, umzuwandeln, zu schneiden und zu bearbeiten. Im KI-Zeitalter vereinfacht es routinemäßige Audioprozesse, damit Produktionsteams Rohmaterial schneller in nutzbare Assets verwandeln können.
 - [clipto-com](https://www.aimyflow.com/de/ai/clipto-com): Clipto.AI ist ein privater Medienassistent, der digitale Assets organisiert, Inhalte transkribiert und Videos bearbeitet, ideal für Creator, Forscher und Medienprofis.
 - [co-dev](https://www.aimyflow.com/de/ai/co-dev): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
 - [coursehero-com](https://www.aimyflow.com/de/ai/coursehero-com): Course Hero ist eine Lernplattform, die Studierenden Kursnotizen, Prüfungsvorbereitung, Nachhilfe und Unterstützung bei Hausaufgaben bietet.
 - [createanything-com](https://www.aimyflow.com/de/ai/createanything-com): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
 - [fotor-com](https://www.aimyflow.com/de/ai/fotor-com): Fotor ist eine Online-Fotobearbeitungsplattform, mit der Nutzer Bilder mit leicht zugänglichen Tools, Vorlagen und Effekten verbessern, retuschieren und anpassen können. Sie hilft Marketern, Creatorn und kleinen Teams, professionelle Visuals ohne komplexe Designsoftware zu erstellen.
 - [gamma-app](https://www.aimyflow.com/de/ai/gamma-app): Gamma ist ein KI-Tool zur Content-Erstellung, mit dem Nutzer Präsentationen, Webseiten und visuelle Dokumente ohne Design- oder Programmierkenntnisse erstellen können. Es hilft Gründern, Marketern und Teams, Ideen schneller in professionelle Ergebnisse umzusetzen.
-- [gauthmath-com](https://www.aimyflow.com/de/ai/gauthmath-com): Gauth ist ein KI-Hausaufgabenhelfer, der Schüler in verschiedenen Schulfächern mit Problemlösungen, Erklärungen, Rechner-Tools und tutorengestützter Hilfe unterstützt. Er liefert schnelleres Feedback und entlastet Tutoren für anspruchsvollere Lernunterstützung.
-- [knowt-com](https://www.aimyflow.com/de/ai/knowt-com): Knowt ist eine Lernplattform und Quizlet-Alternative, mit der Schüler und Lehrkräfte Karteikarten erstellen, importieren und in verschiedenen Lernmodi üben können. So lassen sich Lerninhalte einfacher wiederverwenden, wiederholen und über Klassen hinweg skalieren.
 
 ## Auf AimyFlow fortfahren
 

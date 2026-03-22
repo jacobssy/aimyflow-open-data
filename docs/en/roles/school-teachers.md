@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 21
+- Tool matches: 25
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This School Teachers page highlights 25 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Lesson Planning, Classroom Management, Student Assessment, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -23,8 +27,8 @@
 - [fotor-com](https://www.aimyflow.com/en/ai/fotor-com): Fotor is an online photo editing platform that helps users enhance, retouch, and customize images with accessible editing tools, templates, and effects. It enables marketers, creators, and small teams to produce polished visuals without relying on advanced design software.
 - [gamma-app](https://www.aimyflow.com/en/ai/gamma-app): Gamma is an AI content creation tool that helps users build presentations, webpages, and visual documents without needing design or coding skills. It helps founders, marketers, and teams communicate ideas faster by turning rough inputs into polished deliverables.
 - [gauthmath-com](https://www.aimyflow.com/en/ai/gauthmath-com): Gauth is an AI homework helper that supports students across school subjects with problem solving, explanations, calculator tools, and tutor-assisted guidance. It enhances learning support by giving students faster feedback while helping tutors focus on higher-value instruction.
+- [heygen-com](https://www.aimyflow.com/en/ai/heygen-com): HeyGen is an AI video generation platform that helps businesses create avatar videos, localize content, and produce polished marketing or training media faster, especially for marketers, creators, and L&D teams. It enables creative and content teams to scale video production without traditional filming bottlenecks.
 - [knowt-com](https://www.aimyflow.com/en/ai/knowt-com): Knowt is a study platform and Quizlet alternative that helps students and teachers create, import, and practice flashcards with multiple study modes. It supports modern learning workflows by making study content easier to reuse, review, and scale across classes.
-- [lyra-so](https://www.aimyflow.com/en/ai/lyra-so): Lyra is an AI meeting platform that helps teams capture calls, understand business context, and turn conversations into actionable follow-ups automatically. In the AI era, it reduces note-taking overhead for sales, customer success, and leadership roles while improving execution after meetings.
 
 ## Continue on AimyFlow
 

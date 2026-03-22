@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 331
+- 匹配工具数: 450
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+项目管理专员 这页聚焦 450 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 组合报告, 治理管控, 计划协调，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -23,8 +27,8 @@
 - [affint-ai](https://www.aimyflow.com/zh/ai/affint-ai): Affint 是一款 AI 办公套件，通过连接业务应用、汇集信息以及自动化内容创作和工作流程，帮助团队和职场专业人士创建演示文稿、文档和电子表格。对于市场、产品和销售团队而言，它可以减少手动研究和在不同工具间切换的时间，从而制作符合品牌规范的交付成果，并更快地做出有数据支撑的决策。
 - [agendahero-com-magic](https://www.aimyflow.com/zh/ai/agendahero-com-magic): Agenda Hero Magic 是一款 AI 日程安排工具，可将文本、图片和 PDF 转换为日历事件，供用户发送给自己，主要面向需要从非结构化信息中快速提取日程的人群。对于助理、协调员及其他时间管理相关岗位，它可以减少手动录入日历的工作量，并加快将共享文档或消息转换为可用日程的过程。
 - [agent-blackbox-ai-api](https://www.aimyflow.com/zh/ai/agent-blackbox-ai-api): BLACKBOX AI Agent 是一个面向开发者和工程团队的 REST API，可用于跨多个 AI 代理运行编码任务、比较实现方案，并将更改应用到代码仓库中。在 AI 辅助的软件工作中，它可以通过并行代理执行和选择层来识别最优实现，从而帮助工程师和技术负责人更高效地评估模型输出。
+- [agent-minimax-io](https://www.aimyflow.com/zh/ai/agent-minimax-io): MiniMax Agent 是一款 AI 工作助手，帮助用户处理从简单到复杂的各类生产力任务，如研究、日程安排、网站相关工作、编程和办公文档编辑，主要面向专业人士和知识工作者。对于工程师、分析师和办公团队，其基于智能体的任务执行方式可减少在研究、文档和技术工作流程中的人工协调。
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/zh/ai/agent-minimax-io-max-claw): MaxClaw 是 MiniMax OpenClaw 推出的 AI 智能体构建平台，帮助用户创建具备技能和子智能体的个性化助手，以自动化复杂任务，主要面向需要一个可在各类工作应用中 24/7 运行的云端助手的人群。对于工程师和办公室专业人士而言，这类智能体可通过持久、自主的工作流处理调试、项目交付和多轮文档编辑，从而减少人工协调工作。
-- [agentdesk-noice-net-au](https://www.aimyflow.com/zh/ai/agentdesk-noice-net-au): AgentDesk 是一款用于工单管理和工作流自动化的 AI 工具，能够读取代码、调查问题、编写修复、运行测试，并为使用 Jira 和基于 Git 的开发工作流的软件团队发起拉取请求。对于开发人员、工程经理和 IT 团队，它可以通过将常规待办事项转化为可供审查的代码变更，减少手动分流并加快工单解决速度。
 
 ## 继续访问 AimyFlow
 

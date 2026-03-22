@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 64
+- Herramientas asociadas: 96
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerentes de tecnología de la información resume 96 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación estratégica de TI, Supervisión de infraestructura, Gobierno de ciberseguridad, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -18,13 +22,13 @@
 ## Herramientas relacionadas
 
 - [aiease-ai](https://www.aimyflow.com/es/ai/aiease-ai): AI Ease es una plataforma de edición de fotos con IA que ayuda a creadores, marketers y usuarios a mejorar, retocar y automatizar ediciones de imagen online. En la era de la IA, acelera tareas repetitivas para entregar recursos visuales pulidos con menos esfuerzo manual.
-- [aiease-ai](https://www.aimyflow.com/es/ai/aiease-ai): AI Ease es una plataforma de edición de fotos con IA que ayuda a creadores, marketers y usuarios a mejorar, retocar y automatizar ediciones de imagen online. En la era de la IA, acelera tareas repetitivas para entregar recursos visuales pulidos con menos esfuerzo manual.
 - [aifaceswap-io](https://www.aimyflow.com/es/ai/aifaceswap-io): AI Face Swap es una herramienta de intercambio de rostros en navegador que ayuda a creadores casuales a editar fotos al instante online sin registro. En la era de la IA, hace que la experimentación visual ligera sea más rápida y accesible para entretenimiento y contenido social.
 - [aipose-ai](https://www.aimyflow.com/es/ai/aipose-ai): AIPose es una herramienta de generación de poses y referencias con IA que ayuda a artistas, diseñadores y creadores a crear referencias de personajes posables para trabajos visuales. En la era de la IA, reduce el tiempo de preparación para pasar de la referencia a la creación más rápido.
 - [airtable-com-platform](https://www.aimyflow.com/es/ai/airtable-com-platform): Airtable Platform es una plataforma no-code que ayuda a equipos operativos y multifuncionales a crear apps de negocio, conectar datos y automatizar flujos con IA. En la era de la IA, permite convertir información estructurada en sistemas escalables sin depender tanto de ingeniería.
-- [bitbucket-org](https://www.aimyflow.com/es/ai/bitbucket-org): Bitbucket es una plataforma de gestión de código fuente basada en Git y CI/CD que ayuda a equipos de software a colaborar en repositorios, pipelines y revisiones de código, especialmente en organizaciones que usan Jira. En flujos de desarrollo con IA, ofrece un sistema conectado para entregar más rápido y con mejor trazabilidad.
-- [bolt-new](https://www.aimyflow.com/es/ai/bolt-new): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
-- [briefmymeeting-com](https://www.aimyflow.com/es/ai/briefmymeeting-com): Brief My Meeting es una herramienta de preparación de reuniones con IA que genera briefings personalizados a partir del correo y el calendario, pensada para ejecutivos, ventas y equipos de cara al cliente. En el trabajo impulsado por IA, ayuda a llegar mejor informado y a dedicar menos tiempo a recopilar contexto.
+- [antigravity-google](https://www.aimyflow.com/es/ai/antigravity-google): Google Antigravity parece ser un proyecto experimental de Google que explora experiencias online poco convencionales y formas creativas de interactuar con productos digitales. En la era de la IA, proyectos así pueden inspirar a equipos de producto y diseño a probar interfaces más imaginativas.
+- [anytourl-com](https://www.aimyflow.com/es/ai/anytourl-com): AnyToURL es una herramienta de alojamiento de archivos que ayuda a subir archivos y generar enlaces directos compartibles al instante para imágenes, videos, PDFs y fragmentos de código. En la era de la IA, facilita el intercambio rápido de recursos dentro de flujos automatizados.
+- [asksurf-ai](https://www.aimyflow.com/es/ai/asksurf-ai): Surf es una plataforma de investigación cripto impulsada por IA que ayuda a traders e inversores a analizar mercados, tendencias y oportunidades en criptomonedas. En la era de la IA, ayuda a sintetizar información cambiante y responder a señales del mercado con mayor rapidez.
+- [audiopod-ai](https://www.aimyflow.com/es/ai/audiopod-ai): AudioPod AI es una herramienta de audio todo en uno que ayuda a creadores y editores a extraer, convertir, dividir y editar audio desde enlaces y archivos de video. En la era de la IA, agiliza el procesamiento rutinario de audio para obtener recursos utilizables más rápido.
 
 ## Continuar en AimyFlow
 

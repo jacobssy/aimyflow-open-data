@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 26
+- Zugeordnete Tools: 30
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Ingenieure bündelt 30 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Technische Auslegung, Analyse und Simulation, Test und Validierung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -18,13 +22,13 @@
 ## Passende Tools
 
 - [aiease-ai](https://www.aimyflow.com/de/ai/aiease-ai): AI Ease ist eine KI-Fotobearbeitungsplattform, die Creators, Marketern und Alltagsnutzern hilft, Bilder online zu verbessern, zu retuschieren und Bearbeitungen zu automatisieren. Im KI-Zeitalter beschleunigt sie wiederkehrende Editing-Aufgaben, damit visuelle Teams schneller hochwertige Assets liefern können.
-- [aiease-ai](https://www.aimyflow.com/de/ai/aiease-ai): AI Ease ist eine KI-Fotobearbeitungsplattform, die Creators, Marketern und Alltagsnutzern hilft, Bilder online zu verbessern, zu retuschieren und Bearbeitungen zu automatisieren. Im KI-Zeitalter beschleunigt sie wiederkehrende Editing-Aufgaben, damit visuelle Teams schneller hochwertige Assets liefern können.
 - [aipose-ai](https://www.aimyflow.com/de/ai/aipose-ai): AIPose ist ein KI-Tool für Pose-Generierung und Referenzen, das Künstlern, Designern und Creators hilft, bewegliche Charakter-Referenzen für visuelle Arbeiten zu erstellen. Im KI-Zeitalter reduziert es den Setup-Aufwand, damit Illustratoren und Design-Teams schneller von der Referenz zur Umsetzung kommen.
+- [antigravity-google](https://www.aimyflow.com/de/ai/antigravity-google): Google Antigravity scheint ein experimentelles Google-Projekt zu sein, das ungewöhnliche Online-Erlebnisse und kreative Formen der Interaktion mit digitalen Produkten erkundet. Im KI-Zeitalter können Projekte wie dieses Produkt- und Design-Teams zu fantasievolleren Interface-Konzepten inspirieren.
 - [bitbucket-org](https://www.aimyflow.com/de/ai/bitbucket-org): Bitbucket ist eine Git-basierte Plattform für Quellcodeverwaltung und CI/CD, die Softwareteams bei Repositories, Pipelines und Code-Reviews unterstützt, besonders in Organisationen mit Jira.
 - [bolt-new](https://www.aimyflow.com/de/ai/bolt-new): Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
 - [co-dev](https://www.aimyflow.com/de/ai/co-dev): Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
+- [creao-ai](https://www.aimyflow.com/de/ai/creao-ai): Creao.ai ist ein No-Code-KI-App-Builder, mit dem Teams per Chat individuelle KI-Anwendungen und Copiloten ohne Programmierung erstellen können.
 - [createanything-com](https://www.aimyflow.com/de/ai/createanything-com): Anything ist ein KI-App-Builder, der Ideen per Beschreibung in Websites, Apps, Tools und digitale Produkte verwandelt, ideal für Gründer, Maker und Non-Tech-Builder.
-- [crustdata-com](https://www.aimyflow.com/de/ai/crustdata-com): Crustdata ist eine Echtzeit-B2B-Datenplattform, die Unternehmens- und Personendaten per APIs und Feeds für Sales-, Recruiting- und Market-Intelligence-Teams bereitstellt.
 
 ## Auf AimyFlow fortfahren
 

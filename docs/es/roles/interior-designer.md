@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 18
+- Herramientas asociadas: 24
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Diseñador de interiores resume 24 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación espacial, Especificación de materiales, Documentación técnica, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -18,13 +22,13 @@
 ## Herramientas relacionadas
 
 - [aihomedesign-io](https://www.aimyflow.com/es/ai/aihomedesign-io): AI Home Design es una herramienta de diseño de interiores y rediseño de habitaciones con IA que permite a los usuarios subir fotos de habitaciones, aplicar estilos y generar rediseños, recorridos panorámicos, visitas en video y combinaciones de mobiliario, principalmente para propietarios de viviendas, diseñadores de interiores y profesionales del sector inmobiliario. En los flujos de trabajo de diseño habilitados por IA, puede ayudar a diseñadores, agentes y arrendadores a visualizar opciones de renovación más rápido y comunicar ideas de mobiliario con mayor claridad a partir de una sola imagen de una habitación.
+- [ailightdesign-com](https://www.aimyflow.com/es/ai/ailightdesign-com): ailightdesign es una herramienta de diseño de iluminación exterior con IA que ayuda a los propietarios a visualizar ideas de iluminación para patios, jardines traseros, zonas de piscina, entradas para vehículos y jardines en sus propias fotos, y a generar múltiples opciones de diseño. Para propietarios y profesionales del diseño de iluminación, este tipo de vista previa con IA puede acelerar la prueba de conceptos, reducir las conjeturas y facilitar decisiones más claras antes de la instalación.
 - [ailineart-com](https://www.aimyflow.com/es/ai/ailineart-com): AI Line Art Generator es una herramienta de IA en línea que convierte indicaciones de texto o fotos cargadas en dibujos de arte lineal en múltiples estilos, principalmente para artistas, ilustradores, diseñadores y otros usuarios creativos. Puede acelerar el trabajo visual en etapas tempranas para profesionales del diseño y la ilustración al automatizar la creación de contornos limpios, reduciendo el trazado manual y la limpieza de bocetos.
 - [archivinci-com](https://www.aimyflow.com/es/ai/archivinci-com): ArchiVinci es una herramienta de renderizado arquitectónico con IA que ayuda a los usuarios a convertir bocetos, fotos, planos de planta y conceptos en imágenes de interiores, exteriores, paisajismo y planes maestros, principalmente para arquitectos, diseñadores de interiores, urbanistas y profesionales del sector inmobiliario. En los flujos de trabajo de diseño asistido por IA, puede ayudar a estos equipos a iterar más rápido en opciones listas para clientes y a reducir el trabajo manual de renderizado en las primeras etapas del proceso de diseño.
 - [archrender-ai](https://www.aimyflow.com/es/ai/archrender-ai): ArchRender es una herramienta de renderizado con IA para arquitectos y diseñadores que convierte rápidamente modelos 3D importados en visuales fotorrealistas, con controles de estilo, iluminación, entorno, estación del año y ediciones basadas en prompts. Para equipos de arquitectura y diseño de interiores, puede acelerar la iteración y hacer más claras las presentaciones para clientes al generar y perfeccionar múltiples opciones visuales sin una configuración de renderizado compleja.
 - [archybase-com](https://www.aimyflow.com/es/ai/archybase-com): ArchyBase es una plataforma de diseño con IA para arquitectos y propietarios que convierte fotos, bocetos y planos CAD en renders de interiores, exteriores y paisajismo para renovación, visualización y exploración de diseño. Para arquitectos, diseñadores de interiores y otros profesionales del sector inmobiliario relacionados, puede acelerar la iteración de conceptos y la comunicación con los clientes al generar múltiples opciones visuales realistas a partir de la misma imagen o boceto de origen.
 - [bolt-new](https://www.aimyflow.com/es/ai/bolt-new): Bolt es un creador de apps con IA que ayuda a convertir prompts en aplicaciones web funcionales rápidamente, ideal para founders, equipos de producto y desarrolladores que prototipan ideas. En la era de la IA, acorta el camino de concepto a prototipo para validar productos más rápido.
 - [createanything-com](https://www.aimyflow.com/es/ai/createanything-com): Anything es un creador de apps con IA que ayuda a convertir ideas en sitios web, apps, herramientas y productos digitales describiendo lo que se quiere, pensado para founders, makers y perfiles no técnicos. En la era de la IA, permite probar y lanzar conceptos más rápido con menos dependencia de ingeniería.
-- [eler-ai](https://www.aimyflow.com/es/ai/eler-ai): Eler es una herramienta de renderizado con IA que convierte modelos de SketchUp o GLB en imágenes fotorrealistas en segundos, ayudando a arquitectos y diseñadores a crear visuales consistentes desde múltiples ángulos sin subcontratar ni redactar prompts. Para los flujos de trabajo de arquitectura, diseño de interiores y diseño paisajístico, puede acelerar las revisiones de conceptos y las presentaciones a clientes al producir renders controlados directamente desde el modelo 3D.
 
 ## Continuar en AimyFlow
 

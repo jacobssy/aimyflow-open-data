@@ -4,8 +4,12 @@
 
 ## 概览
 
-- 匹配工具数: 8
+- 匹配工具数: 10
 - 技能卡片数: 5
+
+## 为什么看这个职业页
+
+人力资源经理 这页聚焦 10 个相关 AI 工具和 5 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 人力规划, 招聘管理, 员工关系，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。
 
 ## 核心技能
 
@@ -23,8 +27,8 @@
 - [leadde-ai](https://www.aimyflow.com/zh/ai/leadde-ai): Leadde 是 AI 商务视频生成工具，可将文档、幻灯片和文本转为带数字人与配音的专业视频，适合培训、销售和营销团队，更快制作可复用的企业视频内容。
 - [lunacal-ai](https://www.aimyflow.com/zh/ai/lunacal-ai): Lunacal 是一款日程安排与预约平台，帮助顾问、服务提供者和团队管理日历同步、提醒及个性化预约页面，提升预约转化率。
 - [mindly-ai-com](https://www.aimyflow.com/zh/ai/mindly-ai-com): Mindly 是一款隐私优先的 AI 第二大脑工具，帮助个人整理思路、连接想法并更高效地管理个人知识，适合研究者、写作者和知识工作者。
+- [openart-ai](https://www.aimyflow.com/zh/ai/openart-ai): OpenArt 是一款 AI 图像生成与编辑平台，帮助艺术家、设计师和内容创作者将文字提示转为视觉作品，并通过创意工具快速迭代，提升视觉产出效率。
 - [prezi-com](https://www.aimyflow.com/zh/ai/prezi-com): Prezi 是一款带有 AI 功能的演示平台，帮助用户快速创建更具吸引力和互动性的演示文稿，主要面向商务人士、教育工作者和销售团队。它可更快将想法整理成清晰叙事，在减少设计负担的同时提升观众参与度。
-- [transkriptor-com](https://www.aimyflow.com/zh/ai/transkriptor-com): Transkriptor 是 AI 转录工具，支持将音频和视频转换为多语言文本，适合研究人员、团队和内容从业者。
 
 ## 继续访问 AimyFlow
 

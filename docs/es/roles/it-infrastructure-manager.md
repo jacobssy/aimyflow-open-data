@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 143
+- Herramientas asociadas: 175
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Gerente de infraestructura TI resume 175 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Arquitectura de infraestructura, Confiabilidad operativa, Gestión de nube y centro de datos, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 

@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 134
+- Zugeordnete Tools: 186
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Betriebschef bündelt 186 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Operative Strategie, Prozessoptimierung, Leistungssteuerung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -17,6 +21,7 @@
 
 ## Passende Tools
 
+- [11x-ai](https://www.aimyflow.com/de/ai/11x-ai): 11x ist eine KI-Plattform für digitale Arbeitskräfte, die Vertriebs-, RevOps- und Go-to-Market-Teams dabei unterstützt, Prospecting, Lead-Qualifizierung, Outreach, die Bearbeitung eingehender Anfragen und die Terminplanung über alle Kundenkontaktpunkte hinweg zu automatisieren. In KI-gestützten Revenue Operations kann sie SDRs, Revenue-Operations-Führungskräften und Growth-Teams helfen, weniger Zeit für manuelle Ausführung und mehr Zeit für Strategie, Priorisierung und Pipeline-Konvertierung aufzuwenden.
 - [accuchats-com](https://www.aimyflow.com/de/ai/accuchats-com): AccuChats ist eine KI-Chatbot-Plattform mit Fokus auf Genauigkeit, die Unternehmen dabei unterstützt, Website- und Support-Chatbots mit Quellenangaben, Vertrauensbewertung, Übergabe an menschliche Mitarbeitende und Sprachfunktionen zu erstellen – vor allem für Teams, die verlässliche Kundenantworten benötigen. Für Support-, Operations- und Produktteams können die mit Quellen belegten Antworten und die Intent-Analysen riskante Halluzinationen reduzieren und zugleich aufzeigen, wo Dokumentation oder Workflows verbessert werden müssen.
 - [affint-ai](https://www.aimyflow.com/de/ai/affint-ai): Affint ist eine KI-Office-Suite, die Teams und Berufstätigen hilft, Präsentationen, Dokumente und Tabellenkalkulationen zu erstellen, indem sie Business-Apps verbindet, Informationen zusammenträgt und die Inhaltserstellung sowie Workflows automatisiert. Für Marketing-, Produkt- und Vertriebsteams kann sie manuelle Recherche und Kontextwechsel reduzieren, sodass sie markengerechte Ergebnisse erstellen und schneller datengestützte Entscheidungen treffen können.
 - [agendahero-com-magic](https://www.aimyflow.com/de/ai/agendahero-com-magic): Agenda Hero Magic ist ein KI-Planungstool, das Texte, Bilder und PDFs in Kalenderereignisse umwandelt, die Nutzer sich selbst senden können, vor allem für Menschen, die Zeitpläne schnell aus unstrukturierten Informationen erfassen müssen. Für Assistenten, Koordinatoren und andere Rollen im Zeitmanagement kann es die manuelle Kalendereingabe reduzieren und die Umwandlung geteilter Dokumente oder Nachrichten in nutzbare Zeitpläne beschleunigen.
@@ -24,7 +29,6 @@
 - [agentleader-io](https://www.aimyflow.com/de/ai/agentleader-io): Agentleader ist ein KI-gestütztes B2B-Tool zur Lead-Generierung, das Unternehmen dabei unterstützt, Interessentenlisten mithilfe von agentenbasiertem Browsing, signalbasierter Personalisierung und fortlaufender Lead-Bereitstellung zu finden, zu qualifizieren und anzureichern, vor allem für Vertriebs- und Wachstumsteams. In KI-gestützten Prospecting-Workflows kann es den manuellen Rechercheaufwand für SDRs, Account Executives und Demand-Generation-Teams reduzieren und gleichzeitig das Targeting mit aktuelleren Intent- und Unternehmenssignalen verbessern.
 - [agentvoice-com](https://www.aimyflow.com/de/ai/agentvoice-com): AgentVoice ist eine KI-Sprachagentenplattform für Unternehmen und Betriebsteams, die eingehende und ausgehende Telefonanrufe bearbeitet, Termine plant, CRMs aktualisiert, Textnachrichten versendet und Workflows mit einer No-Code- oder API-basierten Einrichtung automatisiert. In KI-gestützten Kundenabläufen kann sie Vertriebs-, Support- und Callcenter-Teams dabei helfen, die manuelle Anrufbearbeitung und Dateneingabe zu reduzieren, während Kundengespräche mit realen Geschäftssystemen verknüpft bleiben.
 - [aideacatalyst-com-taaft](https://www.aimyflow.com/de/ai/aideacatalyst-com-taaft): AIdea Catalyst ist eine KI-gestützte Plattform für die Startup-Planung, die Unternehmern, insbesondere Gründern ohne Vorerfahrung, dabei hilft, Ideen zu validieren, Kunden und Märkte zu analysieren, Finanzmodelle zu erstellen und Markteinführungspläne mithilfe geführter, iterativer Workflows zu entwickeln. Für Gründer und kleine Startup-Teams kann dieser KI-unterstützte Ansatz Entscheidungen in der Frühphase beschleunigen, indem Annahmen in testbare Pläne statt in statische Geschäftsdokumente überführt werden.
-- [aiqbee-com](https://www.aimyflow.com/de/ai/aiqbee-com): Aiqbee ist eine KI-Gedächtnisplattform für Unternehmen, die jedem LLM oder KI-Tool einen persistenten organisatorischen Kontext verleiht, indem sie Unternehmenswissen zentralisiert, mit Tools wie Teams und IDEs verbindet und Governance-Kontrollen hinzufügt, hauptsächlich für Unternehmen, die den KI-Einsatz teamübergreifend steuern. Für IT-, Betriebs-, Support- und Entwicklungsfunktionen kann sie wiederholte Eingaben reduzieren und die Konsistenz verbessern, indem gemeinsames Wissen über genehmigte KI-Workflows hinweg verfügbar gemacht wird.
 
 ## Auf AimyFlow fortfahren
 

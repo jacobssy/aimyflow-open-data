@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 31
+- Tool matches: 41
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This CFO page highlights 41 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Financial Planning, Cash Flow Management, Financial Reporting, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -22,9 +26,9 @@
 - [athennian-com-capabilities-athennian-ai](https://www.aimyflow.com/en/ai/athennian-com-capabilities-athennian-ai): Athennian AI is an AI-powered entity management automation tool that extracts, validates, and populates governance data from documents to speed entity onboarding, updates, and restructuring work for legal and compliance teams. For legal operations and governance professionals, it can reduce manual entry and surface inconsistencies early, improving accuracy, auditability, and focus on higher-value oversight.
 - [beancount-io](https://www.aimyflow.com/en/ai/beancount-io): Beancount.io is a plain-text accounting platform that helps users write, automate, and audit financial records with scriptable workflows and AI-assisted insights, mainly for developers, accountants, and finance teams. In AI-enabled finance work, its transparent, version-controlled ledger can help bookkeeping and reporting professionals improve traceability, automate routine categorization, and analyze trends without relying on opaque systems.
 - [bizgraph-app](https://www.aimyflow.com/en/ai/bizgraph-app): Bizgraph is AI billing software for agencies, consultancies, and freelancers that helps them track client AI usage, apply custom markups, manage API keys, and automate invoicing for recurring revenue. For agency founders, CTOs, and finance operations teams, it can reduce manual billing work and improve profit visibility as client AI usage scales across multiple LLM providers.
+- [bizplanner-ai](https://www.aimyflow.com/en/ai/bizplanner-ai): BizPlanner AI is an AI business plan generator and editor that helps entrepreneurs create and refine investor-ready business plans with market research, SWOT analysis, financial projections, industry trends, and exportable documents. For founders and small business operators, it can speed planning and make strategy work more consistent by turning basic inputs into structured drafts they can review, edit, and tailor.
 - [booksmate-com](https://www.aimyflow.com/en/ai/booksmate-com): Booksmate is an AI accounting automation tool that automatically downloads invoices and receipts from email inboxes and 200+ online portals, extracts the data, and prepares exports to accounting software for bookkeepers, finance teams, and small businesses. For accounting and operations professionals, it can reduce manual document collection and data entry so they can focus more on reconciliation, review, and exception handling.
 - [borea-ai](https://www.aimyflow.com/en/ai/borea-ai): Borea AI is an AI-powered financial platform that provides stock price predictions, stock ratings, and market trend views to help individual investors and market watchers make more informed decisions. For investors and financial analysts, AI tools like this can speed up the review of market signals and historical patterns, supporting faster research alongside professional judgment.
-- [brevoir-com](https://www.aimyflow.com/en/ai/brevoir-com): Brevoir is an AI-powered venture capital intelligence terminal that helps investors research startups, score deals, track pipeline decisions, and generate investment memos, mainly for angels, scouts, syndicates, and funds. For venture professionals, it can speed initial diligence and preserve searchable decision history, improving pattern recognition across deal flow.
 
 ## Continue on AimyFlow
 

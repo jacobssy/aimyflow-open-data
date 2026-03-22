@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 18
+- Outils associés: 20
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Autres postes artistiques regroupe 20 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Recherche artistique, Développement conceptuel, Planification de production, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 

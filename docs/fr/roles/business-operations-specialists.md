@@ -4,8 +4,12 @@
 
 ## Vue d’ensemble
 
-- Outils associés: 34
+- Outils associés: 43
 - Cartes de compétences: 5
+
+## Pourquoi cette page de rôle existe
+
+Cette page Spécialistes des opérations regroupe 43 outils IA liés et 5 compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont Optimisation des processus, Reporting opérationnel, Coordination interfonctionnelle, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.
 
 ## Compétences clés
 

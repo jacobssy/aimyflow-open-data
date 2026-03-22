@@ -4,8 +4,12 @@
 
 ## Resumen
 
-- Herramientas asociadas: 21
+- Herramientas asociadas: 25
 - Tarjetas de habilidades: 5
+
+## Por qué existe esta página de rol
+
+Esta página de Docentes escolares resume 25 herramientas IA relacionadas y 5 habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como Planificación didáctica, Gestión del aula, Evaluación del alumnado, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.
 
 ## Habilidades clave
 
@@ -23,8 +27,8 @@
 - [fotor-com](https://www.aimyflow.com/es/ai/fotor-com): Fotor es una plataforma online de edición de fotos que ayuda a mejorar, retocar y personalizar imágenes con herramientas, plantillas y efectos accesibles. Permite a marketers, creadores y pequeños equipos producir visuales profesionales sin software avanzado.
 - [gamma-app](https://www.aimyflow.com/es/ai/gamma-app): Gamma es una herramienta de creación de contenido con IA que ayuda a crear presentaciones, páginas web y documentos visuales sin necesidad de diseño ni programación. Permite a fundadores, marketers y equipos comunicar ideas más rápido con resultados pulidos.
 - [gauthmath-com](https://www.aimyflow.com/es/ai/gauthmath-com): Gauth es un asistente de tareas con IA que ayuda a estudiantes en varias materias con resolución de problemas, explicaciones, calculadoras y apoyo de tutores. Mejora el aprendizaje con feedback rápido y apoyo más eficiente.
+- [heygen-com](https://www.aimyflow.com/es/ai/heygen-com): HeyGen es una plataforma de generación de video con IA que ayuda a empresas a crear videos con avatares, localizar contenido y producir piezas de marketing o formación más rápido.
 - [knowt-com](https://www.aimyflow.com/es/ai/knowt-com): Knowt es una plataforma de estudio y alternativa a Quizlet que ayuda a estudiantes y docentes a crear, importar y practicar flashcards con varios modos de estudio.
-- [lyra-so](https://www.aimyflow.com/es/ai/lyra-so): Lyra es una plataforma de reuniones con IA que ayuda a los equipos a registrar llamadas, entender el contexto del negocio y convertir conversaciones en seguimientos accionables automáticamente.
 
 ## Continuar en AimyFlow
 

@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 42
+- Zugeordnete Tools: 45
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Risikoanalyst bündelt 45 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Risikomodellierung, Szenarioanalyse, Risikoberichterstattung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -22,9 +26,9 @@
 - [chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh](https://www.aimyflow.com/de/ai/chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh): TermOver AI ist eine Chrome-Erweiterung, die KI nutzt, um Nutzungsbedingungen und Datenschutzrichtlinien zu analysieren, sie in einfachem Englisch zusammenzufassen und auf Probleme wie den Verkauf von Daten, Tracking oder versteckte Gebühren hinzuweisen – für alltägliche Internetnutzer, die das juristische Kleingedruckte nicht lesen möchten. Bei KI-gestützter Compliance- und Datenschutzarbeit können solche Tools den Teams aus Legal Operations, Datenschutz und Risikomanagement helfen, routinemäßige Web-Bedingungen schneller zu prüfen und die Aufmerksamkeit auf Klauseln mit höherem Risiko zu lenken.
 - [clamor-social](https://www.aimyflow.com/de/ai/clamor-social): Clamor ist eine Social-Plattform zum Erstellen, Teilen und Verwalten von Inhalten und Communities, geeignet für Creator, Marken und Online-Communities.
 - [clonedetector-com](https://www.aimyflow.com/de/ai/clonedetector-com): Clone Detector ist ein Tool zum Markenschutz und zur Erkennung von Phishing-Websites, das Unternehmen und Sicherheitsteams dabei hilft, betrügerische Domain-Klone und täuschend ähnliche Websites mithilfe von Domain-Fuzzing, visueller Ähnlichkeitsanalyse und risikobasierter Berichterstattung zu finden. Für Rollen in den Bereichen Cybersicherheit, Compliance und Markenschutz kann es das Monitoring im KI-Zeitalter verbessern, indem es subtile Bedrohungen durch Nachahmung früher aufdeckt und eine schnellere Untersuchung, Meldung und Reaktion unterstützt.
+- [create-kwakwa-com](https://www.aimyflow.com/de/ai/create-kwakwa-com): KwaKwa Course Creator ist eine KI-Plattform, mit der Coaches, Creator und Experten schnell mobile-first Social-Kurse erstellen und verkaufen können.
 - [datacamp-com](https://www.aimyflow.com/de/ai/datacamp-com): DataCamp ist eine Online-Lernplattform für Data Science und KI, auf der Nutzer mit Kursen und Coding-Übungen Skills in Python, R, Statistik und Analytics aufbauen.
-- [demodazzle-com](https://www.aimyflow.com/de/ai/demodazzle-com): DemoDazzle ist eine Demo-Automatisierungsplattform, mit der Teams Produktaktionen aufzeichnen, KI-Avatar-Präsentationen erstellen und interaktive Produktdemos für Interessenten bereitstellen.
-- [extract-wellapp-ai](https://www.aimyflow.com/de/ai/extract-wellapp-ai): Well Extract ist ein Open-Source-Tool zur Datenextraktion aus Rechnungen und Belegen, mit dem Entwickler PDFs und Bilder per konfigurierbaren KI-Modellen in strukturierte Daten umwandeln können. Es vereinfacht die Dokumentenverarbeitung und beschleunigt verlässliche Finanzautomatisierung.
+- [dealnavigator-ai](https://www.aimyflow.com/de/ai/dealnavigator-ai): Deal Navigator AI ist eine algorithmische M&A-Intelligence- und Due-Diligence-Plattform, die Private-Equity-Firmen und anderen Investmentteams dabei hilft, Übernahmeziele zu bewerten, Berichte zu erstellen und Risiken schneller einzuschätzen. Für Fachleute aus den Bereichen Private Equity, Corporate Development und Deal Sourcing kann sie die Due Diligence in frühen Phasen und die Prüfung von Zielunternehmen in einen schnelleren, konsistenteren Workflow für Investitionsentscheidungen überführen.
 
 ## Auf AimyFlow fortfahren
 

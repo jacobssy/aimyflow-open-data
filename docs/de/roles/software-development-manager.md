@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 305
+- Zugeordnete Tools: 374
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Softwareentwicklungsleiter bündelt 374 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Technische Roadmap, Architektur-Governance, Liefersteuerung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 
@@ -17,6 +21,7 @@
 
 ## Passende Tools
 
+- [11x-ai](https://www.aimyflow.com/de/ai/11x-ai): 11x ist eine KI-Plattform für digitale Arbeitskräfte, die Vertriebs-, RevOps- und Go-to-Market-Teams dabei unterstützt, Prospecting, Lead-Qualifizierung, Outreach, die Bearbeitung eingehender Anfragen und die Terminplanung über alle Kundenkontaktpunkte hinweg zu automatisieren. In KI-gestützten Revenue Operations kann sie SDRs, Revenue-Operations-Führungskräften und Growth-Teams helfen, weniger Zeit für manuelle Ausführung und mehr Zeit für Strategie, Priorisierung und Pipeline-Konvertierung aufzuwenden.
 - [1clickclaw-app](https://www.aimyflow.com/de/ai/1clickclaw-app): 1ClickClaw ist ein Hosting-Dienst, mit dem sich OpenClaw mit einem Klick als persönlicher KI-Assistent auf Telegram, Discord oder WhatsApp bereitstellen lässt, vor allem für Nutzer, die einen jederzeit verfügbaren Bot ohne Serververwaltung, SSH oder DevOps-Setup wünschen. Für Betreiber, Community-Manager und Einzelentwickler kann dies die Bereitstellungszeit verkürzen und die Wartung von KI-Bots vereinfachen, sodass sie sich stärker auf Gespräche und Workflows als auf die Infrastruktur konzentrieren können.
 - [accuchats-com](https://www.aimyflow.com/de/ai/accuchats-com): AccuChats ist eine KI-Chatbot-Plattform mit Fokus auf Genauigkeit, die Unternehmen dabei unterstützt, Website- und Support-Chatbots mit Quellenangaben, Vertrauensbewertung, Übergabe an menschliche Mitarbeitende und Sprachfunktionen zu erstellen – vor allem für Teams, die verlässliche Kundenantworten benötigen. Für Support-, Operations- und Produktteams können die mit Quellen belegten Antworten und die Intent-Analysen riskante Halluzinationen reduzieren und zugleich aufzeigen, wo Dokumentation oder Workflows verbessert werden müssen.
 - [actionbook-dev](https://www.aimyflow.com/de/ai/actionbook-dev): Actionbook ist eine Browser-Aktions-Engine für KI-Agenten, die aktuelle Handlungsanleitungen und DOM-Strukturen bereitstellt, damit Entwickler und Teams Agenten Websites schneller und zuverlässiger bedienen lassen können. Für KI-Ingenieure und Automatisierungsentwickler kann dies die Anfälligkeit von Selektorlogik und die tokenintensive Seitenanalyse bei der Arbeit mit dynamischen Web-Apps und SPAs verringern.
@@ -24,7 +29,6 @@
 - [agent-minimax-io-max-claw](https://www.aimyflow.com/de/ai/agent-minimax-io-max-claw): MaxClaw ist ein KI-Agenten-Builder von MiniMax OpenClaw, der Nutzern hilft, personalisierte Assistenten mit Fähigkeiten und Subagenten zu erstellen, um komplexe Aufgaben zu automatisieren – insbesondere für Menschen, die einen cloudbasierten Assistenten rund um die Uhr über verschiedene Arbeitsanwendungen hinweg benötigen. Für Ingenieure und Bürofachkräfte kann diese Art von Agent den manuellen Abstimmungsaufwand reduzieren, indem er Debugging, Projektabwicklung und mehrstufige Dokumentenbearbeitung durch persistente, autonome Workflows übernimmt.
 - [agent37-com](https://www.aimyflow.com/de/ai/agent37-com): Agent37 ist eine gemanagte OpenClaw-Hosting-Plattform, die Einzelpersonen, Power-Usern und Teams hilft, dauerhaft aktive KI-Agenten mit browserbasiertem Terminalzugang und integrierten Tools zu betreiben. Im KI-Zeitalter senkt sie die Deployment-Hürden, damit Builder und Operator Agent-Workflows schneller starten und monetarisieren können.
 - [agentdesk-noice-net-au](https://www.aimyflow.com/de/ai/agentdesk-noice-net-au): AgentDesk ist ein KI-Tool für Ticket-Management und Workflow-Automatisierung, das Code liest, Probleme untersucht, Fehlerbehebungen schreibt, Tests ausführt und Pull Requests für Softwareteams erstellt, die Jira und Git-basierte Entwicklungs-Workflows nutzen. Für Entwickler, Engineering Manager und IT-Teams kann es den manuellen Triage-Aufwand reduzieren und die Ticketbearbeitung beschleunigen, indem routinemäßige Backlog-Einträge in überprüfungsreife Codeänderungen umgewandelt werden.
-- [agentvoice-com](https://www.aimyflow.com/de/ai/agentvoice-com): AgentVoice ist eine KI-Sprachagentenplattform für Unternehmen und Betriebsteams, die eingehende und ausgehende Telefonanrufe bearbeitet, Termine plant, CRMs aktualisiert, Textnachrichten versendet und Workflows mit einer No-Code- oder API-basierten Einrichtung automatisiert. In KI-gestützten Kundenabläufen kann sie Vertriebs-, Support- und Callcenter-Teams dabei helfen, die manuelle Anrufbearbeitung und Dateneingabe zu reduzieren, während Kundengespräche mit realen Geschäftssystemen verknüpft bleiben.
 
 ## Auf AimyFlow fortfahren
 

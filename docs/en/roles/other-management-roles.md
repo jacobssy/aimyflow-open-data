@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 9
+- Tool matches: 11
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Other Management Roles page highlights 11 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Operational Planning, Performance Oversight, Policy & Compliance Control, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -22,9 +26,9 @@
 - [createanything-com](https://www.aimyflow.com/en/ai/createanything-com): Anything is an AI app builder that helps users turn ideas into websites, apps, tools, and digital products by describing what they want, mainly for founders, makers, and non-technical builders. In the AI era, it lets product creators test and ship concepts faster with less engineering dependence.
 - [creativefabrica-com](https://www.aimyflow.com/en/ai/creativefabrica-com): Creative Fabrica is a digital marketplace and subscription platform for fonts, graphics, crafts, and design assets that helps makers, designers, and print-on-demand sellers create products faster. In the AI era, it gives creative professionals a broad asset base to speed ideation, customization, and production-ready output.
 - [demodazzle-com](https://www.aimyflow.com/en/ai/demodazzle-com): DemoDazzle is a demo automation platform that helps teams record product actions, create AI avatar presentations, and engage prospects through interactive application demos. In the AI era, it enables sales and product marketing teams to scale personalized demos without repeating manual walkthroughs.
+- [lunacal-ai](https://www.aimyflow.com/en/ai/lunacal-ai): Lunacal is a scheduling and appointment booking platform that helps consultants, service providers, and teams manage calendar syncing, reminders, and personalized booking pages. In the AI era, it improves conversion from scheduling touchpoints by combining automation with more context-rich client booking experiences.
 - [mindly-ai-com](https://www.aimyflow.com/en/ai/mindly-ai-com): Mindly is a privacy-first AI second brain that helps individuals organize thoughts, connect ideas, and manage personal knowledge more effectively. In the AI era, it supports researchers, writers, and knowledge workers by making insight retrieval and synthesis more continuous and contextual.
 - [monica-im](https://www.aimyflow.com/en/ai/monica-im): Monica is a multi-model AI assistant that helps users with chat, search, writing, and coding across browser, desktop, and mobile apps. In the AI era, it lets knowledge workers consolidate everyday AI tasks into one assistant instead of switching across specialized tools.
-- [outlier-ai](https://www.aimyflow.com/en/ai/outlier-ai): Outlier is a platform that connects skilled freelancers with AI training work, helping experts contribute human feedback and domain knowledge to improve model performance. It gives specialists a practical way to shape AI systems while turning expertise into flexible, paid work.
 
 ## Continue on AimyFlow
 

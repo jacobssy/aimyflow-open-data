@@ -4,8 +4,12 @@
 
 ## Überblick
 
-- Zugeordnete Tools: 34
+- Zugeordnete Tools: 43
 - Skill-Karten: 5
+
+## Warum diese Rollen-Seite existiert
+
+Diese Seite für Spezialisten für Geschäftsabläufe bündelt 43 passende KI-Tools und 5 Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem Prozessoptimierung, Operatives Reporting, Bereichsübergreifende Abstimmung hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.
 
 ## Kernkompetenzen
 

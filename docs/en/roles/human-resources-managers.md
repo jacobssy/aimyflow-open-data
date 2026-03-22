@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 8
+- Tool matches: 10
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This Human Resources Managers page highlights 10 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Workforce Planning, Talent Acquisition, Employee Relations, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
@@ -23,8 +27,8 @@
 - [leadde-ai](https://www.aimyflow.com/en/ai/leadde-ai): Leadde is an AI business video creator that turns documents, slides, and text into professional videos with avatars and voices for training, sales, and marketing teams. It helps business communicators produce repeatable video content faster without traditional studio workflows.
 - [lunacal-ai](https://www.aimyflow.com/en/ai/lunacal-ai): Lunacal is a scheduling and appointment booking platform that helps consultants, service providers, and teams manage calendar syncing, reminders, and personalized booking pages. In the AI era, it improves conversion from scheduling touchpoints by combining automation with more context-rich client booking experiences.
 - [mindly-ai-com](https://www.aimyflow.com/en/ai/mindly-ai-com): Mindly is a privacy-first AI second brain that helps individuals organize thoughts, connect ideas, and manage personal knowledge more effectively. In the AI era, it supports researchers, writers, and knowledge workers by making insight retrieval and synthesis more continuous and contextual.
+- [openart-ai](https://www.aimyflow.com/en/ai/openart-ai): OpenArt is an AI image generation and editing platform that helps artists, designers, and content creators turn text prompts into visuals and refine them with creative tools. It enables creative teams to explore concepts, iterate faster, and produce more visual options without expanding production time.
 - [prezi-com](https://www.aimyflow.com/en/ai/prezi-com): Prezi is a presentation platform with AI features that helps users create engaging, interactive presentations quickly, mainly for business professionals, educators, and sales teams. It helps presenters turn ideas into clearer narratives faster, improving audience engagement without heavy design work.
-- [transkriptor-com](https://www.aimyflow.com/en/ai/transkriptor-com): Transkriptor is an AI transcription tool that helps users convert audio and video into text in multiple languages, mainly for researchers, teams, and content professionals. In the AI era, accurate transcription helps knowledge workers turn conversations into searchable assets for faster documentation and reuse.
 
 ## Continue on AimyFlow
 

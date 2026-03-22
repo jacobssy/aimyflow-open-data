@@ -4,8 +4,12 @@
 
 ## Snapshot
 
-- Tool matches: 143
+- Tool matches: 175
 - Skill cards: 5
+
+## Why This Role Page Exists
+
+This IT Infrastructure Manager page highlights 175 relevant AI tools and 5 core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around Infrastructure Architecture, Operations Reliability, Cloud & Data Center Management, while live rankings, community voting, and deeper workflows remain on AimyFlow.
 
 ## Core Skills
 
