@@ -14,68 +14,9 @@ const LOCAL_ENV_FILES = [
   '/root/aimyflow-aitools/.env.local',
   '/root/aimyflow-aitools/.env',
 ];
-const PRIMARY_LOCALES = ['en', 'zh'];
-const SECONDARY_LOCALES = LOCALES.filter((locale) => !PRIMARY_LOCALES.includes(locale));
-const PUBLISH_RULES = {
-  en: { minToolCount: 8, maxRoles: null },
-  zh: { minToolCount: 8, maxRoles: null },
-  es: { minToolCount: 20, maxRoles: 80 },
-  ja: { minToolCount: 20, maxRoles: 80 },
-  de: { minToolCount: 20, maxRoles: 80 },
-  fr: { minToolCount: 20, maxRoles: 80 },
-};
-const FEATURED_ROLE_PRIORITIES = {
-  en: [
-    'software-engineer',
-    'content-creator',
-    'copywriter',
-    'digital-marketing-director',
-    'project-management-officer',
-    'data-scientist',
-    'technical-writer',
-  ],
-  zh: [
-    'software-engineer',
-    'content-creator',
-    'data-scientist',
-    'copywriter',
-    'digital-marketing-director',
-    'project-management-officer',
-    'cybersecurity-analyst',
-  ],
-  es: [
-    'digital-marketing-director',
-    'e-commerce-seller',
-    'content-creator',
-    'copywriter',
-    'project-management-officer',
-    'software-engineer',
-  ],
-  ja: [
-    'software-engineer',
-    'project-management-officer',
-    'technical-writer',
-    'software-development-manager',
-    'data-scientist',
-    'content-creator',
-  ],
-  de: [
-    'software-development-manager',
-    'software-engineer',
-    'cybersecurity-analyst',
-    'it-infrastructure-manager',
-    'project-management-officer',
-    'data-engineer',
-  ],
-  fr: [
-    'content-creator',
-    'graphic-designer',
-    'copywriter',
-    'digital-marketing-director',
-    'customer-success-manager',
-    'software-engineer',
-  ],
-};
+const FEATURED_TOOL_COUNT = 24;
+const MAX_ROLE_LABELS = 6;
+const MAX_UNMATCHED_ROLE_REFERENCE_RATIO = 0.05;
 const ROLE_ALIASES = {
   'ai-engineer': 'software-engineer',
   appliedscientists: 'applied-mathematician',
@@ -118,323 +59,184 @@ const ROLE_ALIASES = {
   'software-engineers': 'software-engineer',
   'tech-support-specialists': 'information-technology-managers',
 };
-const MAX_UNMATCHED_ROLE_REFERENCE_RATIO = 0.05;
-const MIN_PRIMARY_PUBLISHED_ROLES = 30;
-const MIN_SECONDARY_PUBLISHED_ROLES = 20;
 
 const LOCALE_COPY = {
   en: {
     nativeName: 'English',
-    docsTitle: 'AimyFlow Open Data Index',
+    docsTitle: 'AimyFlow Tool Directory',
     docsDescription:
-      'An open, multilingual index of AI tools mapped to real job roles, with machine-readable exports and GitHub-friendly landing pages.',
-    startHere: 'Start Here',
-    featuredRoles: 'Featured Roles',
-    dataFiles: 'Data Files',
-    whyUseHeading: 'Why This Page Exists',
-    whyUsePoint1: 'Find AI tools by role without opening the full product first.',
-    whyUsePoint2: 'Inspect multilingual role, tool and skill exports in plain JSON.',
-    whyUsePoint3: 'Jump to AimyFlow for live pages, community voting and workflows.',
-    bestForHeading: 'Best For',
-    bestForPoint1: 'Developers and researchers inspecting structured AI tool data.',
-    bestForPoint2: 'Operators comparing tool coverage across roles.',
-    bestForPoint3: 'Search visitors who want a fast role-by-role starting point.',
-    exportIncludesHeading: 'What Is Included',
-    openRoleDirectory: 'Browse the full role directory',
-    roleCountLabel: 'roles',
-    toolCountLabel: 'tools',
-    skillCountLabel: 'skills',
-    openDocs: 'Open localized docs',
-    inspectData: 'Inspect raw datasets',
-    viewRoles: 'View featured role pages',
+      'A GitHub-friendly multilingual directory of AI tools from AimyFlow, showing each tool, what it does, and which job roles it fits.',
     generatedAt: 'Generated at',
     toolsExported: 'Tools exported',
-    rolesExported: 'Roles exported',
-    skillsExported: 'Skills exported',
-    rolesHeading: 'Roles',
-    openRolePage: 'Open full role page on AimyFlow',
-    snapshot: 'Snapshot',
-    toolMatches: 'Tool matches',
-    skillCards: 'Skill cards',
-    coreSkills: 'Core Skills',
-    matchedTools: 'Matched Tools',
-    nextSteps: 'Continue on AimyFlow',
+    rolesCovered: 'Roles covered',
+    whyUseHeading: 'Why This Page Exists',
+    whyUsePoint1: 'See AI tools from AimyFlow in a lightweight GitHub directory.',
+    whyUsePoint2: 'Check a short description and suitable roles for each tool.',
+    whyUsePoint3: 'Jump to the full AimyFlow tool page when you want deeper details.',
+    startHere: 'Start Here',
     exploreTools: 'Explore all AI tools',
-    browseRoles: 'Browse all roles',
-    seeCommunityVotes: 'See community voting',
+    inspectData: 'Inspect tools dataset',
+    featuredTools: 'Recently Added Tools',
+    allTools: 'All Tools',
+    suitableRoles: 'Suitable roles',
+    officialSite: 'Official site',
+    continueOnAimyFlow: 'Continue on AimyFlow',
+    browseRoles: 'Browse roles',
     notes: 'Notes',
     notesBody:
-      'This GitHub page is intentionally short. Community voting, multilingual page variants and workflow content live on the main AimyFlow site.',
-    localeIndexLabel: 'Localized docs',
-    rootIndexTitle: 'AimyFlow Open Data Docs',
+      'This GitHub page stays intentionally short and list-like. AimyFlow remains the main destination for deeper tool pages, role pages, and workflows.',
+    rootIndexTitle: 'AimyFlow Tool Directory Docs',
     rootIndexIntro:
-      'A public, multilingual entry point for exploring AI tools by role, with clean data exports on GitHub and deeper role pages on AimyFlow.',
-    publishedRoles: 'Published role pages',
-    coverageFull:
-      'This locale publishes the broader role set because coverage and localization quality are stronger here.',
-    coverageSelective:
-      'This locale currently publishes a curated head set of role pages so GitHub stays focused on the strongest localized entries.',
-    roleIntroHeading: 'Why This Role Page Exists',
+      'A public multilingual GitHub directory of AI tools from AimyFlow, linking each tool back to its main AimyFlow page.',
+    localeIndexLabel: 'Localized directories',
+    fullDirectory: 'Expand the full tool directory',
   },
   zh: {
     nativeName: '中文',
-    docsTitle: 'AimyFlow 开放数据索引',
-    docsDescription: '一个按真实职业组织的多语言 AI 工具开放索引，包含结构化导出数据与适合 GitHub 收录的落地页。',
-    startHere: '从这里开始',
-    featuredRoles: '热门职业',
-    dataFiles: '数据文件',
-    whyUseHeading: '这个页面的作用',
-    whyUsePoint1: '先按职业快速了解 AI 工具覆盖面，再决定是否进入主站。',
-    whyUsePoint2: '直接查看多语言的职业、工具和技能 JSON 数据。',
-    whyUsePoint3: '跳转到 AimyFlow 查看实时页面、社区投票和工作流内容。',
-    bestForHeading: '适合谁看',
-    bestForPoint1: '想研究结构化 AI 工具数据的开发者和研究者。',
-    bestForPoint2: '想比较不同职业工具覆盖情况的团队或运营人员。',
-    bestForPoint3: '想按职业快速了解 AI 工具的搜索访客。',
-    exportIncludesHeading: '这里包含什么',
-    openRoleDirectory: '展开完整职业目录',
-    roleCountLabel: '个职业',
-    toolCountLabel: '个工具',
-    skillCountLabel: '项技能',
-    openDocs: '查看多语言文档',
-    inspectData: '查看原始数据集',
-    viewRoles: '查看热门职业页',
+    docsTitle: 'AimyFlow 工具目录',
+    docsDescription: '一个适合 GitHub 展示的多语言 AI 工具目录，列出 AimyFlow 上的工具、简介以及适合的职业。',
     generatedAt: '生成时间',
     toolsExported: '工具数量',
-    rolesExported: '职业数量',
-    skillsExported: '技能数量',
-    rolesHeading: '职业列表',
-    openRolePage: '在 AimyFlow 打开完整职业页',
-    snapshot: '概览',
-    toolMatches: '匹配工具数',
-    skillCards: '技能卡片数',
-    coreSkills: '核心技能',
-    matchedTools: '匹配工具',
-    nextSteps: '继续访问 AimyFlow',
+    rolesCovered: '覆盖职业数',
+    whyUseHeading: '这个页面的作用',
+    whyUsePoint1: '用更轻量的 GitHub 目录方式浏览 AimyFlow 上的 AI 工具。',
+    whyUsePoint2: '快速查看每个工具的简介和适合的职业。',
+    whyUsePoint3: '需要更完整内容时，再跳转到 AimyFlow 的工具页。',
+    startHere: '从这里开始',
     exploreTools: '查看全部 AI 工具',
-    browseRoles: '浏览全部职业',
-    seeCommunityVotes: '查看社区投票',
+    inspectData: '查看工具数据集',
+    featuredTools: '最近新增工具',
+    allTools: '全部工具',
+    suitableRoles: '适合职业',
+    officialSite: '官网',
+    continueOnAimyFlow: '继续访问 AimyFlow',
+    browseRoles: '浏览职业',
     notes: '说明',
-    notesBody: '这里的 GitHub 页面保持简洁。社区投票、多语言详情页和工作流内容仍以 AimyFlow 主站为准。',
-    localeIndexLabel: '多语言文档',
-    rootIndexTitle: 'AimyFlow 开放数据文档',
-    rootIndexIntro: '这里汇总了自动生成的多语言角色文档，并链接回 AimyFlow 主站的完整体验。',
-    publishedRoles: '已发布职业页',
-    coverageFull: '这个语言版本目前发布更完整的职业覆盖，因为这里的数据覆盖和本地化质量更稳定。',
-    coverageSelective: '这个语言版本目前只发布精选头部职业页，避免 GitHub 出现过多薄内容页面。',
-    roleIntroHeading: '为什么看这个职业页',
+    notesBody: '这里的 GitHub 页面保持简洁，以工具目录为主。更完整的工具详情、职业页和工作流内容仍以 AimyFlow 主站为准。',
+    rootIndexTitle: 'AimyFlow 工具目录文档',
+    rootIndexIntro: '这里汇总了多语言工具目录，并把每个工具链接回 AimyFlow 主站。',
+    localeIndexLabel: '多语言目录',
+    fullDirectory: '展开完整工具目录',
   },
   es: {
     nativeName: 'Español',
-    docsTitle: 'Índice de Datos Abiertos de AimyFlow',
+    docsTitle: 'Directorio de Herramientas de AimyFlow',
     docsDescription:
-      'Un índice abierto y multilingüe de herramientas de IA conectadas con roles reales, con datasets estructurados y páginas aptas para GitHub.',
-    startHere: 'Comienza aquí',
-    featuredRoles: 'Roles destacados',
-    dataFiles: 'Archivos de datos',
-    whyUseHeading: 'Por qué existe esta página',
-    whyUsePoint1: 'Encontrar herramientas de IA por rol sin abrir primero el producto completo.',
-    whyUsePoint2: 'Inspeccionar exportaciones multilingües de roles, herramientas y habilidades en JSON.',
-    whyUsePoint3: 'Saltar a AimyFlow para páginas activas, votos de la comunidad y workflows.',
-    bestForHeading: 'Ideal para',
-    bestForPoint1: 'Desarrolladores e investigadores que revisan datos estructurados de herramientas IA.',
-    bestForPoint2: 'Operadores que comparan la cobertura de herramientas entre roles.',
-    bestForPoint3: 'Visitantes de búsqueda que quieren un punto de entrada rápido por rol.',
-    exportIncludesHeading: 'Qué incluye esta exportación',
-    openRoleDirectory: 'Ver el directorio completo de roles',
-    roleCountLabel: 'roles',
-    toolCountLabel: 'herramientas',
-    skillCountLabel: 'habilidades',
-    openDocs: 'Abrir documentación localizada',
-    inspectData: 'Inspeccionar datasets',
-    viewRoles: 'Ver páginas de roles destacadas',
+      'Un directorio multilingüe y apto para GitHub de herramientas de IA de AimyFlow, con descripciones breves y roles adecuados.',
     generatedAt: 'Generado el',
     toolsExported: 'Herramientas exportadas',
-    rolesExported: 'Roles exportados',
-    skillsExported: 'Habilidades exportadas',
-    rolesHeading: 'Roles',
-    openRolePage: 'Abrir la página completa del rol en AimyFlow',
-    snapshot: 'Resumen',
-    toolMatches: 'Herramientas asociadas',
-    skillCards: 'Tarjetas de habilidades',
-    coreSkills: 'Habilidades clave',
-    matchedTools: 'Herramientas relacionadas',
-    nextSteps: 'Continuar en AimyFlow',
+    rolesCovered: 'Roles cubiertos',
+    whyUseHeading: 'Por qué existe esta página',
+    whyUsePoint1: 'Ver herramientas de IA de AimyFlow en un directorio ligero dentro de GitHub.',
+    whyUsePoint2: 'Revisar una breve descripción y los roles adecuados para cada herramienta.',
+    whyUsePoint3: 'Abrir la página completa en AimyFlow cuando quieras más contexto.',
+    startHere: 'Comienza aquí',
     exploreTools: 'Explorar todas las herramientas IA',
-    browseRoles: 'Explorar todos los roles',
-    seeCommunityVotes: 'Ver la votación de la comunidad',
+    inspectData: 'Inspeccionar dataset de herramientas',
+    featuredTools: 'Herramientas añadidas recientemente',
+    allTools: 'Todas las herramientas',
+    suitableRoles: 'Roles adecuados',
+    officialSite: 'Sitio oficial',
+    continueOnAimyFlow: 'Continuar en AimyFlow',
+    browseRoles: 'Explorar roles',
     notes: 'Notas',
     notesBody:
-      'Esta página de GitHub es intencionalmente breve. Las votaciones de la comunidad, las variantes multilingües y los workflows completos viven en el sitio principal de AimyFlow.',
-    localeIndexLabel: 'Documentación localizada',
-    rootIndexTitle: 'Documentación de Datos Abiertos de AimyFlow',
+      'Esta página de GitHub es intencionalmente breve y orientada a directorio. AimyFlow sigue siendo el destino principal para páginas completas de herramientas, roles y workflows.',
+    rootIndexTitle: 'Documentación del Directorio de Herramientas de AimyFlow',
     rootIndexIntro:
-      'Esta carpeta contiene documentación multilingüe generada automáticamente con enlaces a la experiencia completa de AimyFlow.',
-    publishedRoles: 'Páginas de roles publicadas',
-    coverageFull:
-      'Este idioma publica una cobertura más amplia porque aquí la cobertura y la localización son más sólidas.',
-    coverageSelective:
-      'Este idioma publica por ahora un conjunto curado de roles principales para mantener GitHub enfocado en las mejores páginas localizadas.',
-    roleIntroHeading: 'Por qué existe esta página de rol',
+      'Un directorio público multilingüe en GitHub que enlaza cada herramienta de IA con su página principal en AimyFlow.',
+    localeIndexLabel: 'Directorios localizados',
+    fullDirectory: 'Expandir el directorio completo de herramientas',
   },
   ja: {
     nativeName: '日本語',
-    docsTitle: 'AimyFlow オープンデータ索引',
+    docsTitle: 'AimyFlow ツールディレクトリ',
     docsDescription:
-      '実際の職種に対応した AI ツールをまとめた、多言語対応のオープンインデックスです。構造化データと GitHub 向けの案内ページを含みます。',
-    startHere: 'ここから始める',
-    featuredRoles: '注目の役割',
-    dataFiles: 'データファイル',
-    whyUseHeading: 'このページの目的',
-    whyUsePoint1: 'まず職種別の AI ツールを素早く把握し、その後に本体へ進めます。',
-    whyUsePoint2: '役割、ツール、スキルの多言語 JSON エクスポートを確認できます。',
-    whyUsePoint3: 'AimyFlow 本体でコミュニティ投票や workflow、詳細ページに進めます。',
-    bestForHeading: 'こんな人に最適',
-    bestForPoint1: '構造化された AI ツールデータを調べる開発者や研究者。',
-    bestForPoint2: '役割ごとのツール網羅性を比較したい運用担当者。',
-    bestForPoint3: '職種別に素早く調べたい検索ユーザー。',
-    exportIncludesHeading: 'このエクスポートに含まれるもの',
-    openRoleDirectory: '完全な役割ディレクトリを見る',
-    roleCountLabel: '役割',
-    toolCountLabel: 'ツール',
-    skillCountLabel: 'スキル',
-    openDocs: '多言語ドキュメントを見る',
-    inspectData: '生データを見る',
-    viewRoles: '注目の役割ページを見る',
+      'AimyFlow 上の AI ツールを、短い説明と適した職種つきで GitHub 向けにまとめた多言語ディレクトリです。',
     generatedAt: '生成日時',
     toolsExported: 'ツール数',
-    rolesExported: '役割数',
-    skillsExported: 'スキル数',
-    rolesHeading: '役割一覧',
-    openRolePage: 'AimyFlow で完全版の役割ページを開く',
-    snapshot: '概要',
-    toolMatches: '一致ツール数',
-    skillCards: 'スキルカード数',
-    coreSkills: '主要スキル',
-    matchedTools: '関連ツール',
-    nextSteps: 'AimyFlow で続きを見る',
+    rolesCovered: '対応職種数',
+    whyUseHeading: 'このページの目的',
+    whyUsePoint1: 'AimyFlow の AI ツールを GitHub 上で軽く一覧できます。',
+    whyUsePoint2: '各ツールの短い説明と適した職種をすばやく確認できます。',
+    whyUsePoint3: '詳しく知りたいときは AimyFlow の完全なツールページに進めます。',
+    startHere: 'ここから始める',
     exploreTools: 'すべての AI ツールを見る',
-    browseRoles: 'すべての役割を見る',
-    seeCommunityVotes: 'コミュニティ投票を見る',
+    inspectData: 'ツールデータを見る',
+    featuredTools: '最近追加されたツール',
+    allTools: 'すべてのツール',
+    suitableRoles: '適した職種',
+    officialSite: '公式サイト',
+    continueOnAimyFlow: 'AimyFlow で続きを見る',
+    browseRoles: '職種を見る',
     notes: '補足',
     notesBody:
-      'この GitHub ページは意図的に簡潔です。コミュニティ投票、多言語ページ、workflow コンテンツは AimyFlow 本体にあります。',
-    localeIndexLabel: '多言語ドキュメント',
-    rootIndexTitle: 'AimyFlow オープンデータ文書',
+      'この GitHub ページは一覧性を重視して短く保っています。より詳しいツールページ、職種ページ、workflow は AimyFlow 本体にあります。',
+    rootIndexTitle: 'AimyFlow ツールディレクトリ文書',
     rootIndexIntro:
-      'このフォルダには、自動生成された多言語の役割ドキュメントがあり、AimyFlow の完全な体験へリンクします。',
-    publishedRoles: '公開中の役割ページ',
-    coverageFull:
-      'この言語では、データのカバレッジとローカライズ品質が比較的高いため、より広い役割セットを公開しています。',
-    coverageSelective:
-      'この言語では、GitHub 上のページ品質を保つため、まず主要な役割ページに絞って公開しています。',
-    roleIntroHeading: 'この役割ページの目的',
+      '各 AI ツールを AimyFlow 本体へリンクする、多言語 GitHub ディレクトリです。',
+    localeIndexLabel: '多言語ディレクトリ',
+    fullDirectory: '完全なツールディレクトリを開く',
   },
   de: {
     nativeName: 'Deutsch',
-    docsTitle: 'AimyFlow Open-Data-Index',
+    docsTitle: 'AimyFlow Tool-Verzeichnis',
     docsDescription:
-      'Ein offener, mehrsprachiger Index von KI-Tools für reale Rollen, mit strukturierten Datensätzen und GitHub-tauglichen Landingpages.',
-    startHere: 'Hier starten',
-    featuredRoles: 'Wichtige Rollen',
-    dataFiles: 'Datendateien',
-    whyUseHeading: 'Warum es diese Seite gibt',
-    whyUsePoint1: 'KI-Tools nach Rolle finden, ohne sofort das ganze Produkt zu öffnen.',
-    whyUsePoint2: 'Mehrsprachige Exporte für Rollen, Tools und Skills direkt als JSON prüfen.',
-    whyUsePoint3: 'Zu AimyFlow wechseln für Live-Seiten, Community-Votings und Workflows.',
-    bestForHeading: 'Geeignet für',
-    bestForPoint1: 'Entwickler und Researcher mit Fokus auf strukturierte KI-Tool-Daten.',
-    bestForPoint2: 'Operatoren, die Tool-Abdeckung über Rollen hinweg vergleichen.',
-    bestForPoint3: 'Suchnutzer, die einen schnellen Einstieg nach Rollen wollen.',
-    exportIncludesHeading: 'Was dieser Export enthält',
-    openRoleDirectory: 'Vollständiges Rollenverzeichnis öffnen',
-    roleCountLabel: 'Rollen',
-    toolCountLabel: 'Tools',
-    skillCountLabel: 'Skills',
-    openDocs: 'Lokalisierte Doku öffnen',
-    inspectData: 'Rohdaten ansehen',
-    viewRoles: 'Top-Rollen ansehen',
+      'Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen.',
     generatedAt: 'Erstellt am',
     toolsExported: 'Exportierte Tools',
-    rolesExported: 'Exportierte Rollen',
-    skillsExported: 'Exportierte Skills',
-    rolesHeading: 'Rollen',
-    openRolePage: 'Vollständige Rollen-Seite auf AimyFlow öffnen',
-    snapshot: 'Überblick',
-    toolMatches: 'Zugeordnete Tools',
-    skillCards: 'Skill-Karten',
-    coreSkills: 'Kernkompetenzen',
-    matchedTools: 'Passende Tools',
-    nextSteps: 'Auf AimyFlow fortfahren',
+    rolesCovered: 'Abgedeckte Rollen',
+    whyUseHeading: 'Warum es diese Seite gibt',
+    whyUsePoint1: 'AimyFlow-KI-Tools in einem leichten GitHub-Verzeichnis ansehen.',
+    whyUsePoint2: 'Kurzbeschreibung und passende Rollen pro Tool schnell prüfen.',
+    whyUsePoint3: 'Bei Bedarf direkt zur vollständigen Tool-Seite auf AimyFlow wechseln.',
+    startHere: 'Hier starten',
     exploreTools: 'Alle KI-Tools ansehen',
-    browseRoles: 'Alle Rollen durchsuchen',
-    seeCommunityVotes: 'Community-Votings ansehen',
+    inspectData: 'Tool-Datensatz ansehen',
+    featuredTools: 'Zuletzt hinzugefügte Tools',
+    allTools: 'Alle Tools',
+    suitableRoles: 'Passende Rollen',
+    officialSite: 'Offizielle Website',
+    continueOnAimyFlow: 'Auf AimyFlow fortfahren',
+    browseRoles: 'Rollen durchsuchen',
     notes: 'Hinweise',
     notesBody:
-      'Diese GitHub-Seite ist bewusst kurz gehalten. Community-Votings, mehrsprachige Varianten und Workflow-Inhalte liegen auf der Hauptseite von AimyFlow.',
-    localeIndexLabel: 'Lokalisierte Doku',
-    rootIndexTitle: 'AimyFlow Open-Data-Dokumentation',
+      'Diese GitHub-Seite bleibt bewusst kurz und verzeichnisartig. AimyFlow ist weiterhin das Hauptziel für ausführliche Tool-Seiten, Rollen-Seiten und Workflows.',
+    rootIndexTitle: 'AimyFlow Tool-Verzeichnis Dokumentation',
     rootIndexIntro:
-      'Dieser Ordner enthält automatisch erzeugte mehrsprachige Rollendokumente mit Links zur vollständigen AimyFlow-Erfahrung.',
-    publishedRoles: 'Veröffentlichte Rollenseiten',
-    coverageFull:
-      'Diese Sprache veröffentlicht eine breitere Rollenabdeckung, weil Datenlage und Lokalisierung hier belastbarer sind.',
-    coverageSelective:
-      'Diese Sprache veröffentlicht derzeit nur eine kuratierte Auswahl starker Rollen-Seiten, damit GitHub nicht mit dünnen Inhalten gefüllt wird.',
-    roleIntroHeading: 'Warum diese Rollen-Seite existiert',
+      'Ein öffentliches mehrsprachiges GitHub-Verzeichnis, das jedes KI-Tool mit seiner AimyFlow-Hauptseite verbindet.',
+    localeIndexLabel: 'Lokalisierte Verzeichnisse',
+    fullDirectory: 'Vollständiges Tool-Verzeichnis öffnen',
   },
   fr: {
     nativeName: 'Français',
-    docsTitle: 'Index Open Data AimyFlow',
+    docsTitle: 'Répertoire des Outils AimyFlow',
     docsDescription:
-      'Un index ouvert et multilingue des outils IA reliés à de vrais métiers, avec jeux de données structurés et pages compatibles GitHub.',
-    startHere: 'Commencer ici',
-    featuredRoles: 'Rôles mis en avant',
-    dataFiles: 'Fichiers de données',
-    whyUseHeading: 'Pourquoi cette page existe',
-    whyUsePoint1: 'Trouver des outils IA par rôle sans ouvrir tout le produit dès le départ.',
-    whyUsePoint2: 'Inspecter les exports multilingues de rôles, outils et compétences en JSON.',
-    whyUsePoint3: 'Aller sur AimyFlow pour les pages live, les votes de la communauté et les workflows.',
-    bestForHeading: 'Idéal pour',
-    bestForPoint1: 'Les développeurs et chercheurs qui inspectent des données structurées sur les outils IA.',
-    bestForPoint2: 'Les équipes qui comparent la couverture des outils selon les rôles.',
-    bestForPoint3: 'Les visiteurs issus de la recherche qui veulent un point de départ rapide par rôle.',
-    exportIncludesHeading: 'Ce que contient cet export',
-    openRoleDirectory: 'Parcourir le répertoire complet des rôles',
-    roleCountLabel: 'rôles',
-    toolCountLabel: 'outils',
-    skillCountLabel: 'compétences',
-    openDocs: 'Ouvrir la documentation localisée',
-    inspectData: 'Inspecter les jeux de données',
-    viewRoles: 'Voir les rôles mis en avant',
+      'Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés.',
     generatedAt: 'Généré le',
     toolsExported: 'Outils exportés',
-    rolesExported: 'Rôles exportés',
-    skillsExported: 'Compétences exportées',
-    rolesHeading: 'Rôles',
-    openRolePage: 'Ouvrir la page complète du rôle sur AimyFlow',
-    snapshot: 'Vue d’ensemble',
-    toolMatches: 'Outils associés',
-    skillCards: 'Cartes de compétences',
-    coreSkills: 'Compétences clés',
-    matchedTools: 'Outils associés',
-    nextSteps: 'Continuer sur AimyFlow',
+    rolesCovered: 'Rôles couverts',
+    whyUseHeading: 'Pourquoi cette page existe',
+    whyUsePoint1: 'Voir les outils IA d’AimyFlow dans un répertoire léger sur GitHub.',
+    whyUsePoint2: 'Consulter rapidement une courte description et les rôles adaptés pour chaque outil.',
+    whyUsePoint3: 'Ouvrir ensuite la page complète sur AimyFlow pour plus de détails.',
+    startHere: 'Commencer ici',
     exploreTools: 'Explorer tous les outils IA',
-    browseRoles: 'Parcourir tous les rôles',
-    seeCommunityVotes: 'Voir les votes de la communauté',
+    inspectData: 'Inspecter le jeu de données des outils',
+    featuredTools: 'Outils ajoutés récemment',
+    allTools: 'Tous les outils',
+    suitableRoles: 'Rôles adaptés',
+    officialSite: 'Site officiel',
+    continueOnAimyFlow: 'Continuer sur AimyFlow',
+    browseRoles: 'Parcourir les rôles',
     notes: 'Notes',
     notesBody:
-      'Cette page GitHub reste volontairement concise. Les votes de la communauté, les variantes multilingues et les workflows complets restent sur le site principal AimyFlow.',
-    localeIndexLabel: 'Documentation localisée',
-    rootIndexTitle: 'Documentation Open Data AimyFlow',
+      'Cette page GitHub reste volontairement concise et orientée annuaire. AimyFlow reste la destination principale pour les pages outils complètes, les rôles et les workflows.',
+    rootIndexTitle: 'Documentation du Répertoire des Outils AimyFlow',
     rootIndexIntro:
-      'Ce dossier contient une documentation multilingue générée automatiquement avec des liens vers l’expérience complète AimyFlow.',
-    publishedRoles: 'Pages de rôles publiées',
-    coverageFull:
-      'Cette langue publie une couverture plus large car la qualité de couverture et de localisation y est plus solide.',
-    coverageSelective:
-      'Cette langue publie pour l’instant un ensemble sélectionné de rôles majeurs afin de garder GitHub concentré sur les meilleures pages localisées.',
-    roleIntroHeading: 'Pourquoi cette page de rôle existe',
+      'Un répertoire GitHub multilingue qui relie chaque outil IA à sa page principale sur AimyFlow.',
+    localeIndexLabel: 'Répertoires localisés',
+    fullDirectory: 'Développer le répertoire complet des outils',
   },
 };
 
@@ -550,8 +352,17 @@ function buildRoleReferenceKeys(value) {
 function humanizeSlug(slug) {
   return slug
     .split('-')
+    .filter(Boolean)
     .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
     .join(' ');
+}
+
+function humanizeToolSlug(slug) {
+  const normalized = String(slug || '').replace(/\.[a-z]{2,}$/i, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase();
+  const parts = normalized.split('-').filter(Boolean);
+  const trimmedParts = parts.filter((part, index) => !(index === parts.length - 1 && ['com', 'io', 'ai', 'app', 'dev', 'co', 'net', 'org'].includes(part)));
+
+  return humanizeSlug((trimmedParts.length > 0 ? trimmedParts : parts).join('-')) || String(slug || '').trim();
 }
 
 function firstNonEmpty(values) {
@@ -622,8 +433,8 @@ function encodePathSegment(value) {
   return encodeURIComponent(value);
 }
 
-function toRoleDocSlug(value) {
-  return value
+function toDocSlug(value) {
+  return String(value || '')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
@@ -645,10 +456,6 @@ function buildLocaleSiteUrl(siteUrl, locale, pathname) {
   return `${siteUrl}/${locale}${pathname}`;
 }
 
-function getSiteOrigin(url) {
-  return new URL(url).origin;
-}
-
 async function ensureDirectories() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(DOCS_DIR, { recursive: true });
@@ -657,6 +464,11 @@ async function ensureDirectories() {
 async function resetDocsDirectory() {
   await fs.rm(DOCS_DIR, { recursive: true, force: true });
   await fs.mkdir(DOCS_DIR, { recursive: true });
+}
+
+async function removeLegacyDataFiles() {
+  await fs.rm(path.join(DATA_DIR, 'roles.json'), { force: true });
+  await fs.rm(path.join(DATA_DIR, 'skills.json'), { force: true });
 }
 
 async function writeJson(relativePath, value) {
@@ -683,8 +495,7 @@ function buildRoleLookup(roles) {
   for (const role of roles) {
     const rolePreview = {
       slug: role.name,
-      doc_slug: toRoleDocSlug(role.name),
-      title: {
+      labels: {
         en: firstNonEmpty([role.title_en, role.title, humanizeSlug(role.name)]),
         zh: firstNonEmpty([role.title_zh, role.title_en, role.title, humanizeSlug(role.name)]),
         es: firstNonEmpty([role.title_es, role.title_en, role.title, humanizeSlug(role.name)]),
@@ -695,10 +506,9 @@ function buildRoleLookup(roles) {
     };
 
     registerVariant(rolePreview, rolePreview.slug);
-    registerVariant(rolePreview, rolePreview.doc_slug);
 
     for (const locale of LOCALES) {
-      registerVariant(rolePreview, rolePreview.title[locale]);
+      registerVariant(rolePreview, rolePreview.labels[locale]);
     }
   }
 
@@ -737,6 +547,164 @@ function resolveRoleReference(rawRoleSlug, labels, roleLookup) {
   return null;
 }
 
+function cleanDisplayName(value, fallback) {
+  const source = firstNonEmpty([value, fallback]);
+
+  for (const delimiter of [' | ', ' ｜ ', ' - ', ' – ', ' — ', '|', '｜']) {
+    if (source.includes(delimiter)) {
+      return source.split(delimiter)[0].trim();
+    }
+  }
+
+  return source;
+}
+
+function stripLeadingNoise(value) {
+  return String(value || '')
+    .replace(/^[\s"'“”‘’`]+|[\s"'“”‘’`]+$/g, '')
+    .replace(/^[\[{(（【]+\s*(official|oficial|officiel|offiziell|官方|公式)\s*[\]})）】:：-]*\s*/iu, '')
+    .replace(/^(official|oficial|officiel|offiziell|官方|公式)\s+/iu, '')
+    .replace(/^[_*~`#>\-+=|/\\]+/g, '')
+    .replace(/^[^\p{L}\p{N}]+/u, '')
+    .trim();
+}
+
+function normalizeLinkLabel(value) {
+  return stripLeadingNoise(value)
+    .replace(/^(#\d+|top\s*\d+|no\.\s*\d+)\s+/iu, '')
+    .replace(/^\d+[%+]*\s+(free|gratis|gratuit|kostenlos)\s+/iu, '')
+    .replace(/\s+/g, ' ')
+    .replace(/[®™]+$/u, '')
+    .trim();
+}
+
+function extractBrandFromSummary(summary) {
+  const source = formatSummary(summary);
+
+  if (!source) {
+    return '';
+  }
+
+  const patterns = [
+    /^(.{1,80}?)\s+is\s/iu,
+    /^(.{1,80}?)\s+are\s/iu,
+    /^(.{1,80}?)\s+provides\s/iu,
+    /^(.{1,80}?)\s+offers\s/iu,
+    /^(.{1,80}?)\s+helps\s/iu,
+    /^(.{1,80}?)\s+lets\s/iu,
+    /^(.{1,80}?)\s+creates\s/iu,
+    /^(.{1,80}?)\s+turns\s/iu,
+    /^(.{1,80}?)\s+appears\s+to\s+be\s/iu,
+    /^(.{1,80}?)\s+was\s/iu,
+    /^(.{1,80}?)\s+是一/iu,
+    /^(.{1,80}?)\s+是一个/iu,
+    /^(.{1,80}?)\s+是一款/iu,
+    /^(.{1,80}?)\s+提供/iu,
+    /^(.{1,80}?)\s+可帮助/iu,
+    /^(.{1,80}?)\s+es\s+una?\s/iu,
+    /^(.{1,80}?)\s+es\s+un\s/iu,
+    /^(.{1,80}?)\s+ist\s+ein(?:e|en|em|er)?\s/iu,
+    /^(.{1,80}?)\s+bietet\s/iu,
+    /^(.{1,80}?)\s+est\s+une?\s/iu,
+    /^(.{1,80}?)\s+permet\s/iu,
+    /^(.{1,80}?)\s+は\s/iu,
+  ];
+
+  for (const pattern of patterns) {
+    const match = source.match(pattern);
+
+    if (match) {
+      return normalizeLinkLabel(match[1]);
+    }
+  }
+
+  return '';
+}
+
+function extractHostnameLabel(url) {
+  if (!url) {
+    return '';
+  }
+
+  try {
+    const { hostname } = new URL(url);
+    const normalized = hostname.replace(/^www\./i, '').toLowerCase();
+    const segments = normalized.split('.').filter(Boolean);
+
+    if (segments.length === 0) {
+      return '';
+    }
+
+    if (segments.length >= 2 && ['netlify', 'vercel', 'github'].includes(segments[segments.length - 2])) {
+      return humanizeToolSlug(segments[0]);
+    }
+
+    if (segments.length >= 3 && ['co', 'com', 'org', 'net'].includes(segments[segments.length - 2])) {
+      return humanizeToolSlug(segments[segments.length - 3]);
+    }
+
+    if (segments.length >= 2) {
+      const registered = segments.slice(-2).join('.');
+
+      if (/\.(ai|io|so|fm|app|dev)$/i.test(registered)) {
+        return registered;
+      }
+
+      return humanizeToolSlug(segments[segments.length - 2]);
+    }
+
+    return humanizeToolSlug(segments[0]);
+  } catch {
+    return '';
+  }
+}
+
+function isWeakDisplayName(value) {
+  const source = normalizeLinkLabel(value).toLowerCase();
+
+  if (!source) {
+    return true;
+  }
+
+  if (
+    source === 'coming soon' ||
+    source === '即将推出' ||
+    source.includes('official website') ||
+    source.includes('官方网站')
+  ) {
+    return true;
+  }
+
+  return false;
+}
+
+function deriveSiteName({ summaries, titles, externalUrl, fallbackName }) {
+  for (const locale of LOCALES) {
+    const candidate = extractBrandFromSummary(summaries[locale]);
+
+    if (candidate && !isWeakDisplayName(candidate)) {
+      return candidate;
+    }
+  }
+
+  for (const locale of LOCALES) {
+    const candidate = cleanDisplayName(titles[locale], fallbackName);
+    const normalized = normalizeLinkLabel(candidate);
+
+    if (normalized && !isWeakDisplayName(normalized)) {
+      return normalized;
+    }
+  }
+
+  const hostLabel = extractHostnameLabel(externalUrl);
+
+  if (hostLabel && !isWeakDisplayName(hostLabel)) {
+    return hostLabel;
+  }
+
+  return normalizeLinkLabel(fallbackName) || fallbackName;
+}
+
 function buildToolRecord(tool, roleLookup, siteUrl) {
   const roleSlugs = splitCommaSeparated(tool.category_name);
   const localizedRoleNames = Object.fromEntries(
@@ -748,10 +716,7 @@ function buildToolRecord(tool, roleLookup, siteUrl) {
 
   for (const [index, roleSlug] of roleSlugs.entries()) {
     const labels = Object.fromEntries(
-      LOCALES.map((locale) => [
-        locale,
-        localizedRoleNames[locale][index] || humanizeSlug(roleSlug),
-      ]),
+      LOCALES.map((locale) => [locale, localizedRoleNames[locale][index] || humanizeSlug(roleSlug)]),
     );
     const resolvedRole = resolveRoleReference(roleSlug, labels, roleLookup);
 
@@ -770,23 +735,41 @@ function buildToolRecord(tool, roleLookup, siteUrl) {
     seenRoleSlugs.add(resolvedRole.slug);
     roles.push({
       slug: resolvedRole.slug,
-      doc_slug: resolvedRole.doc_slug,
-      labels: Object.fromEntries(
-        LOCALES.map((locale) => [locale, resolvedRole.title[locale] || resolvedRole.title.en || humanizeSlug(resolvedRole.slug)]),
-      ),
-      aimyflow_urls: Object.fromEntries(
-        LOCALES.map((locale) => [
-          locale,
-          buildLocaleSiteUrl(siteUrl, locale, `/role/${encodePathSegment(resolvedRole.slug)}`),
-        ]),
-      ),
+      labels: resolvedRole.labels,
     });
   }
+
+  const titles = {
+    en: firstNonEmpty([tool.title_en, tool.title, tool.name]),
+    zh: firstNonEmpty([tool.title_zh, tool.title_en, tool.title, tool.name]),
+    es: firstNonEmpty([tool.title_es, tool.title_en, tool.title, tool.name]),
+    ja: firstNonEmpty([tool.title_ja, tool.title_en, tool.title, tool.name]),
+    de: firstNonEmpty([tool.title_de, tool.title_en, tool.title, tool.name]),
+    fr: firstNonEmpty([tool.title_fr, tool.title_en, tool.title, tool.name]),
+  };
+  const fallbackName = humanizeToolSlug(tool.name);
+  const summaries = {
+    en: formatSummary(firstNonEmpty([tool.content_en, tool.content, tool.title_en, tool.title, tool.name])),
+    zh: formatSummary(firstNonEmpty([tool.content_zh, tool.content_en, tool.title_zh, tool.title_en, tool.name])),
+    es: formatSummary(firstNonEmpty([tool.content_es, tool.content_en, tool.title_es, tool.title_en, tool.name])),
+    ja: formatSummary(firstNonEmpty([tool.content_ja, tool.content_en, tool.title_ja, tool.title_en, tool.name])),
+    de: formatSummary(firstNonEmpty([tool.content_de, tool.content_en, tool.title_de, tool.title_en, tool.name])),
+    fr: formatSummary(firstNonEmpty([tool.content_fr, tool.content_en, tool.title_fr, tool.title_en, tool.name])),
+  };
+  const siteName = deriveSiteName({
+    summaries,
+    titles,
+    externalUrl: tool.url,
+    fallbackName,
+  });
 
   return {
     id: tool.id,
     name: tool.name,
-    slug: toRoleDocSlug(tool.name),
+    slug: toDocSlug(tool.name),
+    display_name: Object.fromEntries(LOCALES.map((locale) => [locale, siteName])),
+    site_name: siteName,
+    title: titles,
     external_url: tool.url,
     aimyflow_urls: Object.fromEntries(
       LOCALES.map((locale) => [locale, buildLocaleSiteUrl(siteUrl, locale, `/ai/${encodePathSegment(tool.name)}`)]),
@@ -795,22 +778,7 @@ function buildToolRecord(tool, roleLookup, siteUrl) {
     collected_at: tool.collection_time,
     roles,
     unmatched_roles,
-    summary: {
-      en: formatSummary(firstNonEmpty([tool.content_en, tool.content, tool.title_en, tool.title, tool.name])),
-      zh: formatSummary(firstNonEmpty([tool.content_zh, tool.content_en, tool.title_zh, tool.title_en, tool.name])),
-      es: formatSummary(firstNonEmpty([tool.content_es, tool.content_en, tool.title_es, tool.title_en, tool.name])),
-      ja: formatSummary(firstNonEmpty([tool.content_ja, tool.content_en, tool.title_ja, tool.title_en, tool.name])),
-      de: formatSummary(firstNonEmpty([tool.content_de, tool.content_en, tool.title_de, tool.title_en, tool.name])),
-      fr: formatSummary(firstNonEmpty([tool.content_fr, tool.content_en, tool.title_fr, tool.title_en, tool.name])),
-    },
-    title: {
-      en: firstNonEmpty([tool.title_en, tool.title, tool.name]),
-      zh: firstNonEmpty([tool.title_zh, tool.title_en, tool.title, tool.name]),
-      es: firstNonEmpty([tool.title_es, tool.title_en, tool.title, tool.name]),
-      ja: firstNonEmpty([tool.title_ja, tool.title_en, tool.title, tool.name]),
-      de: firstNonEmpty([tool.title_de, tool.title_en, tool.title, tool.name]),
-      fr: firstNonEmpty([tool.title_fr, tool.title_en, tool.title, tool.name]),
-    },
+    summary: summaries,
     metadata: {
       star_rating: tool.star_rating,
       pricing_hint: firstNonEmpty([tool.detail_en, tool.detail]),
@@ -819,150 +787,67 @@ function buildToolRecord(tool, roleLookup, siteUrl) {
   };
 }
 
-function buildRoleRecord(role, toolsForRole, skillsForRole, siteUrl) {
-  return {
-    slug: role.name,
-    doc_slug: toRoleDocSlug(role.name),
-    title: {
-      en: firstNonEmpty([role.title_en, role.title, humanizeSlug(role.name)]),
-      zh: firstNonEmpty([role.title_zh, role.title_en, role.title, humanizeSlug(role.name)]),
-      es: firstNonEmpty([role.title_es, role.title_en, role.title, humanizeSlug(role.name)]),
-      ja: firstNonEmpty([role.title_ja, role.title_en, role.title, humanizeSlug(role.name)]),
-      de: firstNonEmpty([role.title_de, role.title_en, role.title, humanizeSlug(role.name)]),
-      fr: firstNonEmpty([role.title_fr, role.title_en, role.title, humanizeSlug(role.name)]),
-    },
-    aimyflow_urls: Object.fromEntries(
-      LOCALES.map((locale) => [locale, buildLocaleSiteUrl(siteUrl, locale, `/role/${encodePathSegment(role.name)}`)]),
-    ),
-    sort: role.sort,
-    tool_count: toolsForRole.length,
-    skill_count: skillsForRole.length,
-    tool_names: toolsForRole.map((tool) => tool.name),
-    featured_tools: toolsForRole.slice(0, 8).map((tool) => ({
-      name: tool.name,
-      title: tool.title,
-      aimyflow_urls: tool.aimyflow_urls,
-      external_url: tool.external_url,
-      summary: tool.summary,
-    })),
-    skills: skillsForRole.map((skill) => ({
-      id: skill.id,
-      sort_order: skill.sort_order,
-      title: {
-        en: firstNonEmpty([skill.title_en, skill.title, 'Untitled skill']),
-        zh: firstNonEmpty([skill.title_zh, skill.title_en, skill.title, 'Untitled skill']),
-        es: firstNonEmpty([skill.title_es, skill.title_en, skill.title, 'Untitled skill']),
-        ja: firstNonEmpty([skill.title_ja, skill.title_en, skill.title, 'Untitled skill']),
-        de: firstNonEmpty([skill.title_de, skill.title_en, skill.title, 'Untitled skill']),
-        fr: firstNonEmpty([skill.title_fr, skill.title_en, skill.title, 'Untitled skill']),
-      },
-      description: {
-        en: formatSummary(firstNonEmpty([skill.description_en, skill.description])),
-        zh: formatSummary(firstNonEmpty([skill.description_zh, skill.description_en, skill.description])),
-        es: formatSummary(firstNonEmpty([skill.description_es, skill.description_en, skill.description])),
-        ja: formatSummary(firstNonEmpty([skill.description_ja, skill.description_en, skill.description])),
-        de: formatSummary(firstNonEmpty([skill.description_de, skill.description_en, skill.description])),
-        fr: formatSummary(firstNonEmpty([skill.description_fr, skill.description_en, skill.description])),
-      },
-    })),
-  };
+function compareByDisplayName(left, right, locale = 'en') {
+  return left.display_name[locale].localeCompare(right.display_name[locale], locale, { sensitivity: 'base' });
 }
 
-function getLocaleCoverageNote(locale, publishedRoleCount, totalRoleCount) {
-  const copy = LOCALE_COPY[locale];
-  return PRIMARY_LOCALES.includes(locale) ? copy.coverageFull : copy.coverageSelective;
-}
+function sortToolRecords(toolRecords) {
+  return toolRecords.slice().sort((left, right) => {
+    const byName = compareByDisplayName(left, right);
 
-function buildRoleIntro(roleRecord, locale) {
-  const roleName = roleRecord.title[locale];
-  const topSkillNames = roleRecord.skills
-    .slice(0, 3)
-    .map((skill) => skill.title[locale])
-    .filter(Boolean)
-    .join(', ');
-  const toolCount = roleRecord.tool_count;
-  const skillCount = roleRecord.skill_count;
-
-  switch (locale) {
-    case 'zh':
-      return `${roleName} 这页聚焦 ${toolCount} 个相关 AI 工具和 ${skillCount} 项核心技能，方便先快速判断这个职业的 AI 覆盖面。当前最突出的能力方向包括 ${topSkillNames || '核心技能整理'}，更完整的实时工具排序、社区投票和工作流仍以 AimyFlow 主站为准。`;
-    case 'es':
-      return `Esta página de ${roleName} resume ${toolCount} herramientas IA relacionadas y ${skillCount} habilidades clave para ofrecer una entrada rápida desde GitHub. En esta instantánea destacan capacidades como ${topSkillNames || 'habilidades clave'}, mientras que los rankings vivos, los votos y los workflows completos siguen en AimyFlow.`;
-    case 'ja':
-      return `${roleName} 向けのこのページでは、関連する AI ツール ${toolCount} 件と主要スキル ${skillCount} 件をまとめ、GitHub 上で素早く全体像を確認できるようにしています。特に ${topSkillNames || '主要スキル'} の観点が目立ち、最新の投票や詳細な workflow は AimyFlow 本体で確認できます。`;
-    case 'de':
-      return `Diese Seite für ${roleName} bündelt ${toolCount} passende KI-Tools und ${skillCount} Kernkompetenzen, damit Suchnutzer auf GitHub schnell die Relevanz einschätzen können. In diesem Snapshot stechen vor allem ${topSkillNames || 'Kernkompetenzen'} hervor; Live-Rankings, Votings und tiefere Workflows liegen weiterhin auf AimyFlow.`;
-    case 'fr':
-      return `Cette page ${roleName} regroupe ${toolCount} outils IA liés et ${skillCount} compétences clés afin d’offrir une entrée rapide depuis GitHub. Dans ce snapshot, les axes les plus visibles sont ${topSkillNames || 'les compétences clés'}, tandis que les votes live, les classements et les workflows complets restent sur AimyFlow.`;
-    case 'en':
-    default:
-      return `This ${roleName} page highlights ${toolCount} relevant AI tools and ${skillCount} core skills so search visitors can quickly judge role coverage from GitHub. In this snapshot the strongest signals cluster around ${topSkillNames || 'core skills'}, while live rankings, community voting, and deeper workflows remain on AimyFlow.`;
-  }
-}
-
-function getRolePriorityIndex(locale, roleRecord) {
-  const priorities = FEATURED_ROLE_PRIORITIES[locale] || [];
-  return priorities.indexOf(roleRecord.doc_slug);
-}
-
-function sortRolesForLocale(roleRecords, locale) {
-  return roleRecords.slice().sort((left, right) => {
-    const leftPriority = getRolePriorityIndex(locale, left);
-    const rightPriority = getRolePriorityIndex(locale, right);
-
-    if (leftPriority !== rightPriority) {
-      if (leftPriority === -1) {
-        return 1;
-      }
-
-      if (rightPriority === -1) {
-        return -1;
-      }
-
-      return leftPriority - rightPriority;
+    if (byName !== 0) {
+      return byName;
     }
 
-    if (right.tool_count !== left.tool_count) {
-      return right.tool_count - left.tool_count;
-    }
-
-    return left.title.en.localeCompare(right.title.en);
+    return left.slug.localeCompare(right.slug);
   });
 }
 
-function getPublishedRolesForLocale(roleRecords, locale) {
-  const rule = PUBLISH_RULES[locale];
-  const filteredRoles = roleRecords.filter((roleRecord) => roleRecord.tool_count >= rule.minToolCount);
-  const sortedRoles = sortRolesForLocale(filteredRoles, locale);
+function getFeaturedTools(toolRecords) {
+  return toolRecords
+    .slice()
+    .sort((left, right) => {
+      const leftTime = left.collected_at ? Date.parse(left.collected_at) : 0;
+      const rightTime = right.collected_at ? Date.parse(right.collected_at) : 0;
 
-  return rule.maxRoles ? sortedRoles.slice(0, rule.maxRoles) : sortedRoles;
+      if (rightTime !== leftTime) {
+        return rightTime - leftTime;
+      }
+
+      return compareByDisplayName(left, right);
+    })
+    .slice(0, FEATURED_TOOL_COUNT);
 }
 
-function buildPublicationSummary(publishedRolesByLocale) {
-  return {
-    primary_locales: PRIMARY_LOCALES,
-    secondary_locales: SECONDARY_LOCALES,
-    locale_rules: Object.fromEntries(
-      LOCALES.map((locale) => [
-        locale,
-        {
-          min_tool_count: PUBLISH_RULES[locale].minToolCount,
-          max_roles: PUBLISH_RULES[locale].maxRoles,
-        },
-      ]),
-    ),
-    published_role_counts: Object.fromEntries(
-      LOCALES.map((locale) => [locale, publishedRolesByLocale[locale].length]),
-    ),
-  };
+function formatRoleList(toolRecord, locale) {
+  const labels = toolRecord.roles.map((role) => role.labels[locale] || role.labels.en).filter(Boolean);
+
+  if (labels.length <= MAX_ROLE_LABELS) {
+    return labels.join(', ');
+  }
+
+  return `${labels.slice(0, MAX_ROLE_LABELS).join(', ')} +${labels.length - MAX_ROLE_LABELS} more`;
 }
 
-function buildQualitySummary({ roleRecords, toolRecords, rawRoles, rawTools, rawSkills, unmatchedRoleReferenceCount, toolsWithUnmatchedRoles }) {
+function renderToolDirectoryEntry(toolRecord, locale) {
+  const copy = LOCALE_COPY[locale];
+  const segments = [`- [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]}): ${toolRecord.summary[locale]}`];
+  const roleList = formatRoleList(toolRecord, locale);
+
+  if (roleList) {
+    segments.push(`${copy.suitableRoles}: ${roleList}.`);
+  }
+
+  if (toolRecord.external_url) {
+    segments.push(`${copy.officialSite}: [${toolRecord.display_name[locale]}](${toolRecord.external_url}).`);
+  }
+
+  return segments.join(' ');
+}
+
+function buildQualitySummary({ rawRoles, rawTools, toolRecords, unmatchedRoleReferenceCount, toolsWithUnmatchedRoles }) {
   const toolTitleFallbacks = createLocaleCounterMap();
   const toolSummaryFallbacks = createLocaleCounterMap();
-  const roleTitleFallbacks = createLocaleCounterMap();
-  const skillTitleFallbacks = createLocaleCounterMap();
-  const skillDescriptionFallbacks = createLocaleCounterMap();
 
   for (const tool of rawTools) {
     for (const locale of LOCALES) {
@@ -976,31 +861,13 @@ function buildQualitySummary({ roleRecords, toolRecords, rawRoles, rawTools, raw
     }
   }
 
-  for (const role of rawRoles) {
-    for (const locale of LOCALES) {
-      roleTitleFallbacks[locale] += countLocalizedFallback(role, `title_${locale}`, ['title_en', 'title', 'name'], locale);
-    }
-  }
-
-  for (const skill of rawSkills) {
-    for (const locale of LOCALES) {
-      skillTitleFallbacks[locale] += countLocalizedFallback(skill, `title_${locale}`, ['title_en', 'title'], locale);
-      skillDescriptionFallbacks[locale] += countLocalizedFallback(
-        skill,
-        `description_${locale}`,
-        ['description_en', 'description'],
-        locale,
-      );
-    }
-  }
-
   const totalRoleReferenceCount = toolRecords.reduce(
     (count, toolRecord) => count + toolRecord.roles.length + toolRecord.unmatched_roles.length,
     0,
   );
 
   return {
-    zero_tool_roles_total: roleRecords.filter((roleRecord) => roleRecord.tool_count === 0).length,
+    roles_covered: rawRoles.length,
     tools_with_unmatched_roles: toolsWithUnmatchedRoles,
     total_role_references: totalRoleReferenceCount,
     matched_role_references: totalRoleReferenceCount - unmatchedRoleReferenceCount,
@@ -1009,14 +876,15 @@ function buildQualitySummary({ roleRecords, toolRecords, rawRoles, rawTools, raw
       totalRoleReferenceCount > 0 ? Number((unmatchedRoleReferenceCount / totalRoleReferenceCount).toFixed(4)) : 0,
     tool_title_fallbacks: toolTitleFallbacks,
     tool_summary_fallbacks: toolSummaryFallbacks,
-    role_title_fallbacks: roleTitleFallbacks,
-    skill_title_fallbacks: skillTitleFallbacks,
-    skill_description_fallbacks: skillDescriptionFallbacks,
   };
 }
 
 function assertQuality(stats) {
   const failures = [];
+
+  if (stats.tool_count === 0) {
+    failures.push('no tools were exported');
+  }
 
   if (stats.quality.unmatched_role_reference_ratio > MAX_UNMATCHED_ROLE_REFERENCE_RATIO) {
     failures.push(
@@ -1024,84 +892,14 @@ function assertQuality(stats) {
     );
   }
 
-  for (const locale of PRIMARY_LOCALES) {
-    if (stats.publication.published_role_counts[locale] < MIN_PRIMARY_PUBLISHED_ROLES) {
-      failures.push(`primary locale ${locale} only published ${stats.publication.published_role_counts[locale]} role pages`);
-    }
-  }
-
-  for (const locale of SECONDARY_LOCALES) {
-    if (stats.publication.published_role_counts[locale] < MIN_SECONDARY_PUBLISHED_ROLES) {
-      failures.push(`secondary locale ${locale} only published ${stats.publication.published_role_counts[locale]} role pages`);
-    }
-  }
-
   if (failures.length > 0) {
     throw new Error(`Quality checks failed:\n- ${failures.join('\n- ')}`);
   }
 }
 
-function renderRoleDoc(roleRecord, locale) {
+function renderLocaleDocsIndex(stats, toolRecords, locale) {
   const copy = LOCALE_COPY[locale];
-  const siteOrigin = getSiteOrigin(roleRecord.aimyflow_urls[locale]);
-  const lines = [
-    `# ${roleRecord.title[locale]}`,
-    '',
-    `[${copy.openRolePage}](${roleRecord.aimyflow_urls[locale]})`,
-    '',
-    `## ${copy.snapshot}`,
-    '',
-    `- ${copy.toolMatches}: ${roleRecord.tool_count}`,
-    `- ${copy.skillCards}: ${roleRecord.skill_count}`,
-    '',
-  ];
-
-  lines.push(`## ${copy.roleIntroHeading}`, '');
-  lines.push(buildRoleIntro(roleRecord, locale), '');
-
-  if (roleRecord.skills.length > 0) {
-    lines.push(`## ${copy.coreSkills}`, '');
-
-    for (const skill of roleRecord.skills) {
-      lines.push(`- **${skill.title[locale]}**: ${skill.description[locale]}`);
-    }
-
-    lines.push('');
-  }
-
-  if (roleRecord.featured_tools.length > 0) {
-    lines.push(`## ${copy.matchedTools}`, '');
-
-    for (const tool of roleRecord.featured_tools) {
-      lines.push(`- [${tool.name}](${tool.aimyflow_urls[locale]}): ${tool.summary[locale]}`);
-    }
-
-    lines.push('');
-  }
-
-  lines.push(`## ${copy.nextSteps}`, '');
-  lines.push(
-    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteOrigin, locale, '/explore')})`,
-  );
-  lines.push(
-    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteOrigin, locale, '/roles')})`,
-  );
-  lines.push(
-    `- [${copy.seeCommunityVotes}](${roleRecord.aimyflow_urls[locale]})`,
-  );
-  lines.push('');
-
-  lines.push(`## ${copy.notes}`, '');
-  lines.push(`- ${copy.notesBody}`, '');
-
-  return `${lines.join('\n')}\n`;
-}
-
-function renderLocaleDocsIndex(stats, roleRecords, locale) {
-  const copy = LOCALE_COPY[locale];
-  const siteUrl = stats.site_url;
-  const featuredRoles = roleRecords.slice(0, 18);
-  const coverageNote = getLocaleCoverageNote(locale, roleRecords.length, stats.role_count);
+  const featuredTools = getFeaturedTools(toolRecords);
   const lines = [
     `# ${copy.docsTitle}`,
     '',
@@ -1110,75 +908,47 @@ function renderLocaleDocsIndex(stats, roleRecords, locale) {
     `${copy.generatedAt}: ${stats.generated_at}`,
     '',
     `- ${copy.toolsExported}: ${stats.tool_count}`,
-    `- ${copy.rolesExported}: ${stats.role_count}`,
-    `- ${copy.skillsExported}: ${stats.skill_count}`,
-    `- ${copy.publishedRoles}: ${roleRecords.length}`,
+    `- ${copy.rolesCovered}: ${stats.role_count}`,
     '',
     `## ${copy.whyUseHeading}`,
     '',
     `- ${copy.whyUsePoint1}`,
     `- ${copy.whyUsePoint2}`,
     `- ${copy.whyUsePoint3}`,
-    `- ${coverageNote}`,
-    '',
-    `## ${copy.bestForHeading}`,
-    '',
-    `- ${copy.bestForPoint1}`,
-    `- ${copy.bestForPoint2}`,
-    `- ${copy.bestForPoint3}`,
     '',
     `## ${copy.startHere}`,
     '',
-    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
-    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
-    `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
+    `- [${copy.exploreTools}](${buildLocaleSiteUrl(stats.site_url, locale, '/explore')})`,
     `- [${copy.inspectData}](../../data/tools.json)`,
     '',
-    `## ${copy.nextSteps}`,
-    '',
-    `- [${copy.exploreTools}](${buildLocaleSiteUrl(siteUrl, locale, '/explore')})`,
-    `- [${copy.browseRoles}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
-    `- [${copy.seeCommunityVotes}](${buildLocaleSiteUrl(siteUrl, locale, '/roles')})`,
-    '',
-    `## ${copy.exportIncludesHeading}`,
-    '',
-    '- [`data/tools.json`](../../data/tools.json)',
-    '- [`data/roles.json`](../../data/roles.json)',
-    '- [`data/skills.json`](../../data/skills.json)',
-    '- [`data/stats.json`](../../data/stats.json)',
-    '',
-    `## ${copy.featuredRoles}`,
+    `## ${copy.featuredTools}`,
     '',
   ];
 
-  for (const role of featuredRoles) {
-    lines.push(
-      `- [${role.title[locale]}](./roles/${role.doc_slug}.md): ${role.tool_count} ${copy.toolCountLabel}, ${role.skill_count} ${copy.skillCountLabel}`,
-    );
+  for (const toolRecord of featuredTools) {
+    lines.push(renderToolDirectoryEntry(toolRecord, locale));
   }
 
-  lines.push('', `## ${copy.rolesHeading}`, '');
+  lines.push('', `## ${copy.allTools}`, '');
   lines.push('<details>');
-  lines.push(`<summary>${copy.openRoleDirectory} (${roleRecords.length} ${copy.roleCountLabel})</summary>`);
+  lines.push(`<summary>${copy.fullDirectory} (${toolRecords.length})</summary>`);
   lines.push('');
 
-  for (const role of roleRecords) {
-    lines.push(
-      `- [${role.title[locale]}](./roles/${role.doc_slug}.md): ${role.tool_count} ${copy.toolCountLabel}, ${role.skill_count} ${copy.skillCountLabel}`,
-    );
+  for (const toolRecord of toolRecords) {
+    lines.push(renderToolDirectoryEntry(toolRecord, locale));
   }
 
   lines.push('', '</details>', '');
+  lines.push(`## ${copy.continueOnAimyFlow}`, '');
+  lines.push(`- [${copy.exploreTools}](${buildLocaleSiteUrl(stats.site_url, locale, '/explore')})`);
+  lines.push(`- [${copy.browseRoles}](${buildLocaleSiteUrl(stats.site_url, locale, '/roles')})`);
+  lines.push('', `## ${copy.notes}`, '');
+  lines.push(`- ${copy.notesBody}`, '');
 
   return `${lines.join('\n')}\n`;
 }
 
-function renderRootDocsIndex(stats, publishedRolesByLocale) {
-  const siteUrl = stats.site_url;
-  const topLocales = LOCALES.map(
-    (locale) => `- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md): ${stats.publication.published_role_counts[locale]} published role pages`,
-  );
-  const featuredRoles = publishedRolesByLocale.en.slice(0, 12);
+function renderRootDocsIndex(stats) {
   const lines = [
     `# ${LOCALE_COPY.en.rootIndexTitle}`,
     '',
@@ -1187,62 +957,19 @@ function renderRootDocsIndex(stats, publishedRolesByLocale) {
     `Generated at: ${stats.generated_at}`,
     '',
     `- Tools exported: ${stats.tool_count}`,
-    `- Roles exported: ${stats.role_count}`,
-    `- Skills exported: ${stats.skill_count}`,
-    `- Published role pages (en): ${stats.publication.published_role_counts.en}`,
-    `- Published role pages (zh): ${stats.publication.published_role_counts.zh}`,
+    `- Roles covered: ${stats.role_count}`,
     '',
-    `## ${LOCALE_COPY.en.whyUseHeading}`,
-    '',
-    `- ${LOCALE_COPY.en.whyUsePoint1}`,
-    `- ${LOCALE_COPY.en.whyUsePoint2}`,
-    `- ${LOCALE_COPY.en.whyUsePoint3}`,
-    '- Primary locales publish broader coverage, while secondary locales stay curated so GitHub concentrates on stronger localized pages.',
-    '',
-    `## ${LOCALE_COPY.en.bestForHeading}`,
-    '',
-    `- ${LOCALE_COPY.en.bestForPoint1}`,
-    `- ${LOCALE_COPY.en.bestForPoint2}`,
-    `- ${LOCALE_COPY.en.bestForPoint3}`,
-    '',
-    '## Start Here',
-    '',
-    '- [Explore all AI tools](https://www.aimyflow.com/en/explore)',
-    '- [Browse roles and workflows](https://www.aimyflow.com/en/roles)',
-    '- [Inspect `data/tools.json`](../data/tools.json)',
-    '- [Inspect `data/roles.json`](../data/roles.json)',
-    '',
-    `## Continue on AimyFlow`,
-    '',
-    `- [Explore all AI tools](${buildLocaleSiteUrl(siteUrl, 'en', '/explore')})`,
-    `- [Browse roles and workflows](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
-    `- [See community voting](${buildLocaleSiteUrl(siteUrl, 'en', '/roles')})`,
-    '',
-    `## ${LOCALE_COPY.en.exportIncludesHeading}`,
-    '',
-    '- [`data/tools.json`](../data/tools.json)',
-    '- [`data/roles.json`](../data/roles.json)',
-    '- [`data/skills.json`](../data/skills.json)',
-    '- [`data/stats.json`](../data/stats.json)',
-    '',
-    '## Featured Roles',
+    '## Localized Directories',
     '',
   ];
 
-  for (const role of featuredRoles) {
-    lines.push(
-      `- [${role.title.en}](./en/roles/${role.doc_slug}.md): ${role.tool_count} tools, ${role.skill_count} skills`,
-    );
+  for (const locale of LOCALES) {
+    lines.push(`- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md)`);
   }
 
-  lines.push(
-    '',
-    `## ${LOCALE_COPY.en.localeIndexLabel}`,
-    '',
-  );
-
-  lines.push(...topLocales);
-
+  lines.push('', '## Data Files', '');
+  lines.push('- [`data/tools.json`](../data/tools.json)');
+  lines.push('- [`data/stats.json`](../data/stats.json)');
   lines.push('');
 
   return `${lines.join('\n')}\n`;
@@ -1250,8 +977,8 @@ function renderRootDocsIndex(stats, publishedRolesByLocale) {
 
 function renderDocsSiteConfig() {
   return [
-    'title: AimyFlow Open Data',
-    'description: Public open data for AI tools by role, career and workflow, linked back to AimyFlow.',
+    'title: AimyFlow Tool Directory',
+    'description: Public GitHub directory of AI tools from AimyFlow, with short descriptions and suitable roles.',
     'theme: minima',
     'markdown: kramdown',
     '',
@@ -1262,12 +989,13 @@ async function main() {
   await loadLocalEnv();
   await ensureDirectories();
   await resetDocsDirectory();
+  await removeLegacyDataFiles();
 
   const supabaseUrl = requireEnv('NEXT_PUBLIC_SUPABASE_URL');
   const apiKey = process.env.SUPABASE_SERVICE_ROLE_KEY || requireEnv('NEXT_PUBLIC_SUPABASE_ANON_KEY');
   const siteUrl = getSiteUrl();
 
-  const [roles, tools, skills] = await Promise.all([
+  const [roles, tools] = await Promise.all([
     fetchAllRows(
       supabaseUrl,
       apiKey,
@@ -1314,36 +1042,10 @@ async function main() {
       ].join(','),
       'name',
     ),
-    fetchAllRows(
-      supabaseUrl,
-      apiKey,
-      'role_skills',
-      [
-        'id',
-        'category_name',
-        'sort_order',
-        'title',
-        'title_en',
-        'title_zh',
-        'title_es',
-        'title_ja',
-        'title_de',
-        'title_fr',
-        'description',
-        'description_en',
-        'description_zh',
-        'description_es',
-        'description_ja',
-        'description_de',
-        'description_fr',
-      ].join(','),
-      'sort_order',
-    ),
   ]);
 
   const roleLookup = buildRoleLookup(roles);
-  const toolRecords = tools.map((tool) => buildToolRecord(tool, roleLookup, siteUrl));
-  const toolsByRole = new Map();
+  const toolRecords = sortToolRecords(tools.map((tool) => buildToolRecord(tool, roleLookup, siteUrl)));
   let unmatchedRoleReferenceCount = 0;
   let toolsWithUnmatchedRoles = 0;
 
@@ -1352,107 +1054,35 @@ async function main() {
       unmatchedRoleReferenceCount += toolRecord.unmatched_roles.length;
       toolsWithUnmatchedRoles += 1;
     }
-
-    for (const role of toolRecord.roles) {
-      if (!toolsByRole.has(role.slug)) {
-        toolsByRole.set(role.slug, []);
-      }
-
-      toolsByRole.get(role.slug).push(toolRecord);
-    }
   }
-
-  const skillsByRole = new Map();
-
-  for (const skill of skills) {
-    if (!skillsByRole.has(skill.category_name)) {
-      skillsByRole.set(skill.category_name, []);
-    }
-
-    skillsByRole.get(skill.category_name).push(skill);
-  }
-
-  const roleRecords = roles.map((role) =>
-    buildRoleRecord(role, toolsByRole.get(role.name) || [], skillsByRole.get(role.name) || [], siteUrl),
-  );
-
-  roleRecords.sort((left, right) => {
-    if (right.tool_count !== left.tool_count) {
-      return right.tool_count - left.tool_count;
-    }
-
-    return left.title.en.localeCompare(right.title.en);
-  });
-
-  const skillRecords = skills
-    .slice()
-    .sort((left, right) => {
-      if (left.category_name !== right.category_name) {
-        return left.category_name.localeCompare(right.category_name);
-      }
-
-      return left.sort_order - right.sort_order;
-    })
-    .map((skill) => ({
-      id: skill.id,
-      role_slug: skill.category_name,
-      sort_order: skill.sort_order,
-      title: {
-        en: firstNonEmpty([skill.title_en, skill.title]),
-        zh: firstNonEmpty([skill.title_zh, skill.title_en, skill.title]),
-        es: firstNonEmpty([skill.title_es, skill.title_en, skill.title]),
-        ja: firstNonEmpty([skill.title_ja, skill.title_en, skill.title]),
-        de: firstNonEmpty([skill.title_de, skill.title_en, skill.title]),
-        fr: firstNonEmpty([skill.title_fr, skill.title_en, skill.title]),
-      },
-      description: {
-        en: formatSummary(firstNonEmpty([skill.description_en, skill.description])),
-        zh: formatSummary(firstNonEmpty([skill.description_zh, skill.description_en, skill.description])),
-        es: formatSummary(firstNonEmpty([skill.description_es, skill.description_en, skill.description])),
-        ja: formatSummary(firstNonEmpty([skill.description_ja, skill.description_en, skill.description])),
-        de: formatSummary(firstNonEmpty([skill.description_de, skill.description_en, skill.description])),
-        fr: formatSummary(firstNonEmpty([skill.description_fr, skill.description_en, skill.description])),
-      },
-    }));
 
   const stats = {
     generated_at: new Date().toISOString(),
     site_url: siteUrl,
     locales: LOCALES,
     tool_count: toolRecords.length,
-    role_count: roleRecords.length,
-    skill_count: skillRecords.length,
+    role_count: roles.length,
     quality: buildQualitySummary({
-      roleRecords,
-      toolRecords,
       rawRoles: roles,
       rawTools: tools,
-      rawSkills: skills,
+      toolRecords,
       unmatchedRoleReferenceCount,
       toolsWithUnmatchedRoles,
     }),
+    publication: {
+      published_tool_counts: Object.fromEntries(LOCALES.map((locale) => [locale, toolRecords.length])),
+    },
   };
-
-  const publishedRolesByLocale = Object.fromEntries(
-    LOCALES.map((locale) => [locale, getPublishedRolesForLocale(roleRecords, locale)]),
-  );
-  stats.publication = buildPublicationSummary(publishedRolesByLocale);
 
   assertQuality(stats);
 
   await writeJson('data/tools.json', toolRecords);
-  await writeJson('data/roles.json', roleRecords);
-  await writeJson('data/skills.json', skillRecords);
   await writeJson('data/stats.json', stats);
   await writeText('docs/_config.yml', renderDocsSiteConfig());
-  await writeText('docs/index.md', renderRootDocsIndex(stats, publishedRolesByLocale));
+  await writeText('docs/index.md', renderRootDocsIndex(stats));
 
   for (const locale of LOCALES) {
-    await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, publishedRolesByLocale[locale], locale));
-
-    for (const roleRecord of publishedRolesByLocale[locale]) {
-      await writeText(`docs/${locale}/roles/${roleRecord.doc_slug}.md`, renderRoleDoc(roleRecord, locale));
-    }
+    await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, toolRecords, locale));
   }
 
   console.log(JSON.stringify(stats));

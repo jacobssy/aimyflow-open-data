@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T13:15:33.228Z",
+  "generated_at": "2026-03-22T16:55:43.068Z",
   "site_url": "https://www.aimyflow.com",
   "locales": [
     "en",
@@ -9,16 +9,15 @@
     "de",
     "fr"
   ],
-  "tool_count": 1977,
+  "tool_count": 2052,
   "role_count": 221,
-  "skill_count": 1105,
   "quality": {
-    "zero_tool_roles_total": 45,
-    "tools_with_unmatched_roles": 260,
-    "total_role_references": 10229,
-    "matched_role_references": 9961,
-    "unmatched_role_references": 268,
-    "unmatched_role_reference_ratio": 0.0262,
+    "roles_covered": 221,
+    "tools_with_unmatched_roles": 277,
+    "total_role_references": 10570,
+    "matched_role_references": 10284,
+    "unmatched_role_references": 286,
+    "unmatched_role_reference_ratio": 0.0271,
     "tool_title_fallbacks": {
       "en": 0,
       "zh": 0,
@@ -34,76 +33,16 @@
       "ja": 0,
       "de": 0,
       "fr": 0
-    },
-    "role_title_fallbacks": {
-      "en": 0,
-      "zh": 0,
-      "es": 0,
-      "ja": 0,
-      "de": 0,
-      "fr": 0
-    },
-    "skill_title_fallbacks": {
-      "en": 0,
-      "zh": 0,
-      "es": 0,
-      "ja": 0,
-      "de": 0,
-      "fr": 0
-    },
-    "skill_description_fallbacks": {
-      "en": 0,
-      "zh": 0,
-      "es": 0,
-      "ja": 0,
-      "de": 0,
-      "fr": 0
     }
   },
   "publication": {
-    "primary_locales": [
-      "en",
-      "zh"
-    ],
-    "secondary_locales": [
-      "es",
-      "ja",
-      "de",
-      "fr"
-    ],
-    "locale_rules": {
-      "en": {
-        "min_tool_count": 8,
-        "max_roles": null
-      },
-      "zh": {
-        "min_tool_count": 8,
-        "max_roles": null
-      },
-      "es": {
-        "min_tool_count": 20,
-        "max_roles": 80
-      },
-      "ja": {
-        "min_tool_count": 20,
-        "max_roles": 80
-      },
-      "de": {
-        "min_tool_count": 20,
-        "max_roles": 80
-      },
-      "fr": {
-        "min_tool_count": 20,
-        "max_roles": 80
-      }
-    },
-    "published_role_counts": {
-      "en": 88,
-      "zh": 88,
-      "es": 68,
-      "ja": 68,
-      "de": 68,
-      "fr": 68
+    "published_tool_counts": {
+      "en": 2052,
+      "zh": 2052,
+      "es": 2052,
+      "ja": 2052,
+      "de": 2052,
+      "fr": 2052
     }
   }
 }
