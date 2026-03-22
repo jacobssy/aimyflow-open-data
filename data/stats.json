@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T16:55:43.068Z",
+  "generated_at": "2026-03-22T17:08:59.328Z",
   "site_url": "https://www.aimyflow.com",
   "locales": [
     "en",
@@ -9,15 +9,15 @@
     "de",
     "fr"
   ],
-  "tool_count": 2052,
+  "tool_count": 2057,
   "role_count": 221,
   "quality": {
     "roles_covered": 221,
     "tools_with_unmatched_roles": 277,
-    "total_role_references": 10570,
-    "matched_role_references": 10284,
+    "total_role_references": 10593,
+    "matched_role_references": 10307,
     "unmatched_role_references": 286,
-    "unmatched_role_reference_ratio": 0.0271,
+    "unmatched_role_reference_ratio": 0.027,
     "tool_title_fallbacks": {
       "en": 0,
       "zh": 0,
@@ -37,12 +37,12 @@
   },
   "publication": {
     "published_tool_counts": {
-      "en": 2052,
-      "zh": 2052,
-      "es": 2052,
-      "ja": 2052,
-      "de": 2052,
-      "fr": 2052
+      "en": 2057,
+      "zh": 2057,
+      "es": 2057,
+      "ja": 2057,
+      "de": 2057,
+      "fr": 2057
     }
   }
 }

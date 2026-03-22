@@ -831,18 +831,14 @@ function formatRoleList(toolRecord, locale) {
 
 function renderToolDirectoryEntry(toolRecord, locale) {
   const copy = LOCALE_COPY[locale];
-  const segments = [`- [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]}): ${toolRecord.summary[locale]}`];
   const roleList = formatRoleList(toolRecord, locale);
+  const lines = [`#### [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})`, '', toolRecord.summary[locale]];
 
   if (roleList) {
-    segments.push(`${copy.suitableRoles}: ${roleList}.`);
+    lines.push('', `**${copy.suitableRoles}:** ${roleList}`);
   }
 
-  if (toolRecord.external_url) {
-    segments.push(`${copy.officialSite}: [${toolRecord.display_name[locale]}](${toolRecord.external_url}).`);
-  }
-
-  return segments.join(' ');
+  return lines.join('\n');
 }
 
 function buildQualitySummary({ rawRoles, rawTools, toolRecords, unmatchedRoleReferenceCount, toolsWithUnmatchedRoles }) {
@@ -927,6 +923,7 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
 
   for (const toolRecord of featuredTools) {
     lines.push(renderToolDirectoryEntry(toolRecord, locale));
+    lines.push('');
   }
 
   lines.push('', `## ${copy.allTools}`, '');
@@ -936,6 +933,7 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
 
   for (const toolRecord of toolRecords) {
     lines.push(renderToolDirectoryEntry(toolRecord, locale));
+    lines.push('');
   }
 
   lines.push('', '</details>', '');
