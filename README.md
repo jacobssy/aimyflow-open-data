@@ -1,67 +1,134 @@
 # AimyFlow Open Data
 
-An open, multilingual dataset of AI tools mapped to real job roles.
+AI tools by role, career, and workflow.
 
-中文说明见下方。This repository is an indexable, machine-readable companion to AimyFlow, designed for GitHub discovery and clean traffic back to the main product.
+This repository is the public, multilingual open-data layer for [AimyFlow](https://www.aimyflow.com), built for:
 
-Use GitHub to inspect the data. Use AimyFlow to explore live role pages, community voting and workflows.
+- people searching for AI tools by job role
+- developers looking for a machine-readable AI tools dataset
+- researchers comparing role-to-tool coverage across professions
+- search users who want a fast GitHub entry point before visiting the main site
 
-This repo is designed for people searching for:
+If you want the full product experience, use AimyFlow:
 
-- AI tools by career
+- [Explore AI tools](https://www.aimyflow.com/en/explore)
+- [Browse job roles](https://www.aimyflow.com/en/roles)
+- [Open multilingual docs index](./docs/index.md)
+
+## What You Can Find Here
+
+This repo is designed to rank and be discoverable for queries such as:
+
 - AI tools by role
-- workflow automation datasets
-- open data for AI tool directories
-- multilingual AI tool and job mapping
+- AI tools by profession
+- AI tools for software engineers
+- AI tools for marketers
+- AI tools for content creators
+- multilingual AI tools dataset
+- open data for AI tools and careers
 
-Current snapshot:
+This repository publishes:
 
-- 1,557 AI tools
-- 221 roles
-- 1,105 role skills
+- `data/tools.json`: normalized AI tool records with localized summaries and linked roles
+- `data/roles.json`: role records with localized titles, matched tools, and role skills
+- `data/skills.json`: role skill cards exported from the live dataset
+- `data/stats.json`: latest snapshot counts, publication rules, and quality metrics
+- `docs/{locale}/roles/*.md`: GitHub-friendly role landing pages
+- `docs/index.md`: multilingual documentation entry point
 
-Site links:
+## Start With These Pages
 
-- Main site: https://www.aimyflow.com
-- Explore tools: https://www.aimyflow.com/en/explore
-- Browse roles: https://www.aimyflow.com/en/roles
-- Localized docs entry: [`docs/index.md`](./docs/index.md)
+Popular role pages on GitHub:
+
+- [Software Engineer](./docs/en/roles/software-engineer.md)
+- [Content Creator](./docs/en/roles/content-creator.md)
+- [Copywriter](./docs/en/roles/copywriter.md)
+- [Digital Marketing Director](./docs/en/roles/digital-marketing-director.md)
+- [Project Management Officer](./docs/en/roles/project-management-officer.md)
+- [Data Scientist](./docs/en/roles/data-scientist.md)
+
+Go deeper on AimyFlow:
+
+- [AI tools for software engineers](https://www.aimyflow.com/en/role/software-engineer)
+- [AI tools for content creators](https://www.aimyflow.com/en/role/Content%20Creator)
+- [AI tools for copywriters](https://www.aimyflow.com/en/role/copywriter)
+- [AI tools for digital marketing](https://www.aimyflow.com/en/role/digital-marketing-director)
+- [All roles and workflows](https://www.aimyflow.com/en/roles)
 
 ## Why This Repo Exists
 
-- publish a clean public dataset that can be indexed independently of the main site
-- help developers and researchers inspect role-to-tool mappings quickly
-- create a GitHub-friendly discovery surface for people searching by role, career or workflow
-- send qualified traffic back to AimyFlow for the full product experience
+This is not a full mirror of `www.aimyflow.com`.
 
-## Start Here
+It exists to:
 
-- Search visitors: open [`docs/index.md`](./docs/index.md)
-- Developers and researchers: inspect `data/tools.json` and `data/roles.json`
-- Product users: continue to AimyFlow for live role pages and community voting
-
-## Continue On AimyFlow
-
-- [Explore all AI tools](https://www.aimyflow.com/en/explore)
-- [Browse roles and workflows](https://www.aimyflow.com/en/roles)
-- [See community voting](https://www.aimyflow.com/en/roles)
-
-## What This Repo Publishes
-
-- `data/tools.json`: normalized tool records with localized summaries and linked roles
-- `data/roles.json`: role records with localized labels, matched tools and skills
-- `data/skills.json`: role skill cards exported from the live dataset
-- `data/stats.json`: snapshot counts and generation metadata
-- `docs/{locale}/roles/*.md`: GitHub-friendly localized role landing pages
-- `docs/index.md`: multilingual docs entry point
+- create indexable GitHub pages for long-tail role-based AI search queries
+- publish clean open data that can be inspected outside the main product
+- give search visitors a faster first step into the AimyFlow ecosystem
+- send qualified users back to AimyFlow for live role pages, community voting, and workflows
 
 ## Why Visit AimyFlow Instead Of Staying On GitHub
 
+GitHub is the lightweight discovery layer. AimyFlow is the main product.
+
+Use AimyFlow for:
+
 - richer AI tool detail pages
-- role-level workflow pages
-- community voting data
-- multilingual browsing experience
-- direct exploration of tools by profession
+- live role pages and workflow pages
+- community voting and ranking signals
+- deeper multilingual browsing
+- a better end-user exploration flow
+
+## Search And SEO Strategy
+
+This repository is intentionally optimized as a GitHub discovery surface, not as a content farm.
+
+- publish strong role pages, not every possible thin page
+- avoid low-coverage role pages with weak search value
+- normalize messy role aliases before export so public mappings stay trustworthy
+- link every role page back to the matching localized AimyFlow destination
+- keep GitHub content short, structured, and index-like
+
+## Internationalization Strategy
+
+Supported locales:
+
+- `en`
+- `zh`
+- `es`
+- `ja`
+- `de`
+- `fr`
+
+Publishing is quality-based, not quantity-based:
+
+- `en` and `zh` are the broad-coverage primary locales
+- `es`, `ja`, `de`, and `fr` publish curated head sets first
+- locale exports favor stronger localized pages over maximum page count
+- localization fallback counts and publication counts are tracked in `data/stats.json`
+
+## Data Quality Guardrails
+
+The export pipeline treats SEO quality as part of the contract.
+
+- low-value role pages should not be published to docs
+- unmatched role references are tracked and quality-checked during sync
+- publication counts by locale are tracked
+- localization fallback counts are tracked
+- if role mapping quality drops too far, sync should fail instead of committing weak exports
+
+## Latest Snapshot
+
+The latest live snapshot is stored in:
+
+- [`data/stats.json`](./data/stats.json)
+
+That file includes:
+
+- tool count
+- role count
+- skill count
+- locale publication counts
+- quality metrics for role matching and localization coverage
 
 ## Local Usage
 
@@ -84,89 +151,40 @@ Required GitHub repository secrets:
 - `SUPABASE_SERVICE_ROLE_KEY` (recommended)
 - `AIMYFLOW_SITE_URL` (optional, defaults to `https://www.aimyflow.com`)
 
-## Search Strategy
-
-This repo is not meant to mirror the full site. It is meant to create indexable GitHub entry points that can rank for role-based AI tool searches and then send qualified visitors back to `www.aimyflow.com`.
-
-- keep the strongest role pages indexable on GitHub
-- avoid publishing thin role pages with zero or near-zero tool coverage
-- resolve messy role aliases before export so public mappings stay consistent
-- link every role page back to the matching localized AimyFlow page, not just the generic directory
-
-## Internationalization Strategy
-
-The repo supports six locales: `en`, `zh`, `es`, `ja`, `de`, `fr`.
-
-- `en` and `zh` are the broad-coverage primary locales
-- `es`, `ja`, `de`, and `fr` publish a curated head set of stronger role pages first
-- locale exports should favor quality over page count; if a locale is thin, publish fewer pages
-- localization fallback pressure and publishing counts are tracked in `data/stats.json`
-
-## Data Quality Guardrails
-
-The sync script now treats SEO quality as part of the export contract.
-
-- roles with zero or very low tool coverage should not be published as docs pages
-- unmatched role references are tracked and quality-checked during sync
-- generated stats include publication counts by locale and localization fallback counts
-- if role mapping quality falls too far, the sync should fail instead of committing weak exports
-
-## Content Strategy
-
-This repo should publish short, structured, index-like content. Do not copy full website body content here.
-
-- keep GitHub focused on data files, concise summaries and role/tool relationships
-- keep the full community voting, workflows and multilingual browsing on the main site
-
 ## 中文说明
 
-这个仓库用于承载 AimyFlow 的开放数据导出，是一个适合 GitHub 收录和传播的公开入口，不是主站内容的完整镜像。
+这是 AimyFlow 的开放数据仓库，用来承接 GitHub 和 Google 上与“按职业找 AI 工具”相关的搜索流量。
 
-你可以在 GitHub 看数据，在 AimyFlow 看实时角色页、社区投票和工作流内容。
+它更像一个适合收录和传播的公开入口，而不是主站内容的完整镜像。
 
-适合搜索这些内容的人进入这个仓库：
+这个仓库适合这些搜索意图：
 
 - 按职业找 AI 工具
-- 按岗位看 AI 工具目录
-- AI 工作流自动化开放数据
-- 多语言 AI 工具与职业映射
+- AI tools by role
+- AI tools for software engineers
+- AI tools for marketers
+- 面向内容创作者的 AI 工具
+- 多语言 AI 工具数据集
 
-当前快照：
+这里适合看：
 
-- 1557 个 AI 工具
-- 221 个职业
-- 1105 个职业技能
-
-这个仓库存在的目的：
-
-- 用公开数据页承接 GitHub 和搜索流量
-- 让开发者和研究者更容易查看职业与工具的结构化映射
-- 给按职业找 AI 工具的人一个更轻量的入口
-- 把高质量用户继续引导回 AimyFlow 主站
-
-建议从这里开始：
-
-- 搜索访客：先看 [`docs/index.md`](./docs/index.md)
-- 开发者和研究者：先看 `data/tools.json` 与 `data/roles.json`
-- 产品用户：回到 AimyFlow 查看实时角色页和社区投票
-
-适合放在这里的内容：
-
-- 结构化数据
-- 简短工具摘要
+- 结构化 JSON 数据
 - 职业与工具映射
-- 指向主站的详情链接
-- 多语言 GitHub 文档页
+- 精简的 GitHub 职业落地页
+- 指向主站的深链接
 
-不适合放在这里的内容：
+主站 AimyFlow 更适合看：
 
-- 主站完整正文
-- 角色详情页长文案
-- 工作流完整内容
-- 社区投票完整交互
+- 实时职业页
+- 社区投票
+- 工作流内容
+- 更完整的工具详情
+- 更强的多语言浏览体验
 
-推荐入口：
+建议入口：
 
+- 多语言文档索引：[`docs/index.md`](./docs/index.md)
+- 工具数据：[`data/tools.json`](./data/tools.json)
+- 职业数据：[`data/roles.json`](./data/roles.json)
 - 主站首页：https://www.aimyflow.com
 - 主站职业页：https://www.aimyflow.com/zh/roles
-- 多语言文档入口：[`docs/index.md`](./docs/index.md)
