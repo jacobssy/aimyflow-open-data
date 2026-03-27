@@ -8,52 +8,104 @@ This repository is the `awesome-aitools` companion for AimyFlow:
 - full tool coverage in the generated directory
 - multilingual browsing for international SEO and discovery
 
-All tool links in this repository point to their AimyFlow tool pages, not raw external URLs.
+All links in this README point to AimyFlow tool pages.
 
 ## Contents
 
-- [Developer Tools](#developer-tools)
-- [SEO and Growth](#seo-and-growth)
+- [AI Assistants and Search](#ai-assistants-and-search)
+- [Developer and Coding Tools](#developer-and-coding-tools)
+- [Workflow and Productivity](#workflow-and-productivity)
+- [Writing and Marketing](#writing-and-marketing)
 - [Customer Support and Operations](#customer-support-and-operations)
-- [Content and Media](#content-and-media)
-- [Design and Visual Tools](#design-and-visual-tools)
+- [Design and Image Tools](#design-and-image-tools)
+- [Video and Audio Tools](#video-and-audio-tools)
+- [Hiring and Career Tools](#hiring-and-career-tools)
+- [Business and Analytics](#business-and-analytics)
 - [Browse the Full Directory](#browse-the-full-directory)
 - [Internationalization](#internationalization)
 
-## Developer Tools
+## AI Assistants and Search
 
-- [ComfyOnline](https://www.aimyflow.com/en/ai/comfyonline-app) - Run ComfyUI workflows online and turn them into deployable APIs. Best for software engineers and technical creators.
-- [Baloon.dev](https://www.aimyflow.com/en/ai/baloon-dev) - Assign Jira tickets to AI agents for code changes, summaries, and product answers.
-- [Layercode](https://www.aimyflow.com/en/ai/layercode-com) - Build production-ready voice AI agents without managing low-level realtime infrastructure.
-- [AutomatedTesting.ai](https://www.aimyflow.com/en/ai/automatedtesting-ai) - Generate, run, and repair automated UI tests from natural-language prompts.
+- [ChatGPT](https://www.aimyflow.com/en/ai/chat-openai-com) - AI chatbot for ideation, problem-solving, and content creation across text, voice, and files.
+- [Claude](https://www.aimyflow.com/en/ai/claude-com-solutions-healthcare) - AI assistant used in complex, compliance-sensitive workflows such as healthcare operations.
+- [Notion AI](https://www.aimyflow.com/en/ai/notion-so-product-ai) - Workspace AI for search, summarization, drafting, and knowledge operations.
+- [AI Mention You](https://www.aimyflow.com/en/ai/aimentionyou-com) - Monitor brand visibility in AI search products and identify citation gaps.
+- [PeopleAlsoAsk.ai](https://www.aimyflow.com/en/ai/peoplealsoask-ai) - Generate PAA-style questions and answers for search intent research.
+- [Otter](https://www.aimyflow.com/en/ai/otter-ai) - Meeting assistant for live transcription, summaries, and follow-up actions.
 
-## SEO and Growth
+## Developer and Coding Tools
 
-- [PeopleAlsoAsk.ai](https://www.aimyflow.com/en/ai/peoplealsoask-ai) - Research search intent with AI-generated People Also Ask questions and answers.
-- [AI Mention You](https://www.aimyflow.com/en/ai/aimentionyou-com) - Check whether AI search products mention your site and where visibility gaps exist.
-- [MarketBetter](https://www.aimyflow.com/en/ai/marketbetter-ai) - Turn intent signals into SDR workflows and prioritized sales follow-up.
-- [HeyNews](https://www.aimyflow.com/en/ai/heynews-co) - Draft newsletter issues faster by learning from past editions and curated sources.
+- [Cursor](https://www.aimyflow.com/en/ai/cursor-com) - AI code editor for writing, understanding, and refactoring codebases.
+- [Windsurf](https://www.aimyflow.com/en/ai/codeium-com) - AI-native IDE and coding assistant for generation, fixes, and repo navigation.
+- [n8n](https://www.aimyflow.com/en/ai/n8n-io) - Build automations and AI workflows with visual nodes and code.
+- [ComfyOnline](https://www.aimyflow.com/en/ai/comfyonline-app) - Run ComfyUI workflows online and ship them as APIs.
+- [Baloon.dev](https://www.aimyflow.com/en/ai/baloon-dev) - Route Jira tickets to AI agents for implementation and summaries.
+- [Layercode](https://www.aimyflow.com/en/ai/layercode-com) - Voice AI infrastructure for TypeScript teams building production agents.
+- [AutomatedTesting.ai](https://www.aimyflow.com/en/ai/automatedtesting-ai) - AI platform for generating and repairing UI test cases.
+
+## Workflow and Productivity
+
+- [Airtable Platform](https://www.aimyflow.com/en/ai/airtable-com-platform) - Build internal apps and automate operations with AI on top of structured data.
+- [Miro](https://www.aimyflow.com/en/ai/miro-com) - Collaborative workspace for planning, ideation, and visual execution.
+- [Toki](https://www.aimyflow.com/en/ai/yestoki-com) - AI calendar assistant for scheduling and reminders across major calendar systems.
+- [Gamma](https://www.aimyflow.com/en/ai/gamma-app) - Generate presentations and visual docs quickly with AI assistance.
+- [DiscMeet](https://www.aimyflow.com/en/ai/discmeet-com) - Turn Discord voice sessions into searchable notes and transcripts.
+- [Needle](https://www.aimyflow.com/en/ai/needle-so) - AI-native ATS and recruiting workflow automation from Slack.
+
+## Writing and Marketing
+
+- [Jasper](https://www.aimyflow.com/en/ai/jasper-ai) - AI marketing platform for campaign production, SEO, and on-brand content.
+- [Copy.ai](https://www.aimyflow.com/en/ai/copy-ai) - Automate GTM writing and repetitive marketing/sales operations.
+- [Grammarly](https://www.aimyflow.com/en/ai/grammarly-com) - Writing assistant for drafting, rewriting, and tone control.
+- [HeyNews](https://www.aimyflow.com/en/ai/heynews-co) - AI newsletter drafting with historical issue learning.
+- [MarketBetter](https://www.aimyflow.com/en/ai/marketbetter-ai) - Intent-driven SDR workflow automation and outreach prioritization.
+- [PeopleAlsoAsk.ai](https://www.aimyflow.com/en/ai/peoplealsoask-ai) - Keyword/question discovery for SEO and content planning.
 
 ## Customer Support and Operations
 
-- [AssistLoop](https://www.aimyflow.com/en/ai/assistloop-ai) - Automate customer support with knowledge-base answers and human handoff when needed.
-- [Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft) - Surface support context, live data, and next actions inside existing support tools.
-- [Needle](https://www.aimyflow.com/en/ai/needle-so) - Run recruiting workflows from Slack with an AI-native applicant tracking system.
-- [Toki](https://www.aimyflow.com/en/ai/yestoki-com) - Manage calendars, reminders, and scheduling through text, voice, or images.
+- [AssistLoop](https://www.aimyflow.com/en/ai/assistloop-ai) - AI customer service agent with knowledge-base replies and handoff to humans.
+- [Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft) - AI copilot for support teams handling technical and B2B cases.
+- [Needle](https://www.aimyflow.com/en/ai/needle-so) - Operational automation for recruiting and team workflows.
+- [Toki](https://www.aimyflow.com/en/ai/yestoki-com) - Scheduling automation for busy teams and operators.
+- [DiscMeet](https://www.aimyflow.com/en/ai/discmeet-com) - Meeting and community note capture for operations contexts.
+- [Furlana](https://www.aimyflow.com/en/ai/furlana-ai) - AI operations and engagement tooling for independent pet shops.
 
-## Content and Media
+## Design and Image Tools
 
-- [Hooked](https://www.aimyflow.com/en/ai/vidme-ai) - Turn ideas, URLs, and product assets into short videos and UGC-style ads.
-- [ASMRHookLab](https://www.aimyflow.com/en/ai/ai-asmr-co) - Create short AI ASMR videos from templates for social channels.
-- [FreeMusicGen](https://www.aimyflow.com/en/ai/freemusicgen-com) - Generate draft songs, lyrics, and instrumental tracks from text prompts.
-- [SoundEffectGenerator](https://www.aimyflow.com/en/ai/soundeffectgenerator-org) - Create custom sound effects from prompts with controllable length and looping.
-- [DiscMeet](https://www.aimyflow.com/en/ai/discmeet-com) - Turn Discord voice discussions into searchable meeting notes and transcripts.
+- [Midjourney](https://www.aimyflow.com/en/ai/midjourney-com) - AI visual generation for artists and design exploration.
+- [Canva Visual Suite](https://www.aimyflow.com/en/ai/canva-com-visual-suite) - End-to-end visual content creation across formats and teams.
+- [Discova.ai](https://www.aimyflow.com/en/ai/discova-ai) - UX research synthesis and design insight generation.
+- [Inker.ai](https://www.aimyflow.com/en/ai/inker-ai) - Tattoo concept and preview generation from prompts or photos.
+- [FastHeadshot](https://www.aimyflow.com/en/ai/fastheadshot-com) - AI professional headshots for profiles and resumes.
+- [Gamma](https://www.aimyflow.com/en/ai/gamma-app) - Visual document and deck generation for non-designers.
 
-## Design and Visual Tools
+## Video and Audio Tools
 
-- [Discova.ai](https://www.aimyflow.com/en/ai/discova-ai) - Analyze designs, synthesize UX research, and generate design variations faster.
-- [Inker.ai](https://www.aimyflow.com/en/ai/inker-ai) - Generate tattoo concepts, style variations, and virtual previews from prompts or photos.
-- [FastHeadshot](https://www.aimyflow.com/en/ai/fastheadshot-com) - Convert selfies into professional headshots for resumes, LinkedIn, and business profiles.
+- [Runway](https://www.aimyflow.com/en/ai/runwayml-com) - AI platform for video generation and editing.
+- [HeyGen](https://www.aimyflow.com/en/ai/heygen-com) - Avatar-based AI video creation and localization.
+- [Synthesia](https://www.aimyflow.com/en/ai/synthesia-io) - Enterprise AI video production for training and communications.
+- [Descript](https://www.aimyflow.com/en/ai/descript-com) - Edit audio/video through transcripts and AI-assisted tools.
+- [ElevenLabs](https://www.aimyflow.com/en/ai/beta-elevenlabs-io) - Voice generation, speech APIs, and voice agent tooling.
+- [Murf AI](https://www.aimyflow.com/en/ai/murf-ai) - Text-to-speech and multilingual voice production.
+- [FreeMusicGen](https://www.aimyflow.com/en/ai/freemusicgen-com) - AI music generation from prompt to editable draft tracks.
+- [SoundEffectGenerator](https://www.aimyflow.com/en/ai/soundeffectgenerator-org) - Prompt-based sound effects with looping and timing control.
+
+## Hiring and Career Tools
+
+- [AI Interview Copilot](https://www.aimyflow.com/en/ai/aiinterviewcopilot-com) - Real-time interview support with transcriptions and suggested answers.
+- [FirstResume](https://www.aimyflow.com/en/ai/firstresume-ai) - AI resume and job-application assistant for early-career users.
+- [Needle](https://www.aimyflow.com/en/ai/needle-so) - Recruiting automation for sourcing and scheduling.
+- [FastHeadshot](https://www.aimyflow.com/en/ai/fastheadshot-com) - Professional profile image generation for career channels.
+- [DatingShoot](https://www.aimyflow.com/en/ai/datingshoot-com) - AI photo generation for profile experimentation workflows.
+
+## Business and Analytics
+
+- [MarketBetter](https://www.aimyflow.com/en/ai/marketbetter-ai) - SDR pipeline execution from intent and CRM signals.
+- [AI Mention You](https://www.aimyflow.com/en/ai/aimentionyou-com) - AI search visibility and competitor mention tracking.
+- [PeopleAlsoAsk.ai](https://www.aimyflow.com/en/ai/peoplealsoask-ai) - Search demand intelligence via PAA question mapping.
+- [Airtable Platform](https://www.aimyflow.com/en/ai/airtable-com-platform) - Structured operational workflows with AI on top.
+- [Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft) - Operational support intelligence across enterprise tools.
+- [Furlana](https://www.aimyflow.com/en/ai/furlana-ai) - AI-assisted growth and lifecycle operations for local retail businesses.
 
 ## Browse the Full Directory
 
@@ -66,7 +118,7 @@ This README is the curated layer. The generated directory is the full discovery 
 
 Current snapshot:
 
-- 3,022 tools
+- 3,027 tools
 - 221 roles
 - 6 locales
 
