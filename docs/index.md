@@ -2,9 +2,9 @@
 
 A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page.
 
-Generated at: 2026-03-27T18:03:49.114Z
+Generated at: 2026-03-27T18:16:38.950Z
 
-- Tools exported: 3022
+- Tools exported: 3027
 - Roles covered: 221
 
 ## Localized Directories

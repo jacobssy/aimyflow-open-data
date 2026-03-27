@@ -66,7 +66,7 @@ This README is the curated layer. The generated directory is the full discovery 
 
 Current snapshot:
 
-- 2,057 tools
+- 3,022 tools
 - 221 roles
 - 6 locales
 
@@ -97,16 +97,3 @@ Short version:
 ## License
 
 [CC0 1.0](./LICENSE)
-
-## 中文说明
-
-这个仓库会继续保留你现在想要的核心定位：
-
-- GitHub 首页走 `awesome` 风格精选列表
-- 全量工具继续放在 `docs/` 和 `data/` 里
-- 多语言目录继续保留，服务国际化和搜索收录
-
-也就是说：
-
-- `README`：精选、好看、适合 GitHub 传播
-- `docs` / `data`：完整、可索引、适合 SEO 和程序使用

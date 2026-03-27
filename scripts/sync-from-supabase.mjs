@@ -16,6 +16,8 @@ const LOCAL_ENV_FILES = [
 ];
 const FEATURED_TOOL_COUNT = 24;
 const MAX_ROLE_LABELS = 6;
+const COMPACT_ROLE_LABELS = 4;
+const COMPACT_SUMMARY_MAX_LENGTH = 220;
 const MAX_UNMATCHED_ROLE_REFERENCE_RATIO = 0.05;
 const ROLE_ALIASES = {
   'ai-engineer': 'software-engineer',
@@ -90,6 +92,8 @@ const LOCALE_COPY = {
       'A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page.',
     localeIndexLabel: 'Localized directories',
     fullDirectory: 'Expand the full tool directory',
+    moreLabel: 'more',
+    allToolsStyleNote: '_Compact view for faster scanning._',
   },
   zh: {
     nativeName: '中文',
@@ -117,6 +121,8 @@ const LOCALE_COPY = {
     rootIndexIntro: '这里汇总了多语言 AI 工具目录，并把每个工具链接回 AimyFlow 主站。',
     localeIndexLabel: '多语言目录',
     fullDirectory: '展开完整工具目录',
+    moreLabel: '更多',
+    allToolsStyleNote: '_使用紧凑视图，便于快速浏览。_',
   },
   es: {
     nativeName: 'Español',
@@ -147,6 +153,8 @@ const LOCALE_COPY = {
       'Un directorio público multilingüe en GitHub que enlaza cada herramienta de IA con su página principal en AimyFlow.',
     localeIndexLabel: 'Directorios localizados',
     fullDirectory: 'Expandir el directorio completo de herramientas',
+    moreLabel: 'más',
+    allToolsStyleNote: '_Vista compacta para explorar más rápido._',
   },
   ja: {
     nativeName: '日本語',
@@ -177,6 +185,8 @@ const LOCALE_COPY = {
       '各 AI ツールを AimyFlow 本体へリンクする、多言語 GitHub ディレクトリです。',
     localeIndexLabel: '多言語ディレクトリ',
     fullDirectory: '完全なツールディレクトリを開く',
+    moreLabel: '件',
+    allToolsStyleNote: '_一覧はコンパクト表示で、すばやく確認できます。_',
   },
   de: {
     nativeName: 'Deutsch',
@@ -207,6 +217,8 @@ const LOCALE_COPY = {
       'Ein öffentliches mehrsprachiges GitHub-Verzeichnis, das jedes KI-Tool mit seiner AimyFlow-Hauptseite verbindet.',
     localeIndexLabel: 'Lokalisierte Verzeichnisse',
     fullDirectory: 'Vollständiges Tool-Verzeichnis öffnen',
+    moreLabel: 'mehr',
+    allToolsStyleNote: '_Kompakte Ansicht für schnelleres Durchsehen._',
   },
   fr: {
     nativeName: 'Français',
@@ -237,6 +249,8 @@ const LOCALE_COPY = {
       'Un répertoire GitHub multilingue qui relie chaque outil IA à sa page principale sur AimyFlow.',
     localeIndexLabel: 'Répertoires localisés',
     fullDirectory: 'Développer le répertoire complet des outils',
+    moreLabel: 'de plus',
+    allToolsStyleNote: '_Vue compacte pour un balayage plus rapide._',
   },
 };
 
@@ -819,20 +833,51 @@ function getFeaturedTools(toolRecords) {
     .slice(0, FEATURED_TOOL_COUNT);
 }
 
-function formatRoleList(toolRecord, locale) {
+function formatRoleList(toolRecord, locale, maxLabels = MAX_ROLE_LABELS) {
   const labels = toolRecord.roles.map((role) => role.labels[locale] || role.labels.en).filter(Boolean);
+  const copy = LOCALE_COPY[locale];
 
-  if (labels.length <= MAX_ROLE_LABELS) {
+  if (labels.length <= maxLabels) {
     return labels.join(', ');
   }
 
-  return `${labels.slice(0, MAX_ROLE_LABELS).join(', ')} +${labels.length - MAX_ROLE_LABELS} more`;
+  return `${labels.slice(0, maxLabels).join(', ')} +${labels.length - maxLabels} ${copy.moreLabel}`;
 }
 
-function renderToolDirectoryEntry(toolRecord, locale) {
+function truncateSummary(text, maxLength) {
+  const source = formatSummary(text);
+
+  if (source.length <= maxLength) {
+    return source;
+  }
+
+  const clipped = source.slice(0, maxLength).trim();
+  const safeCut = clipped.lastIndexOf(' ');
+
+  return `${(safeCut > 100 ? clipped.slice(0, safeCut) : clipped).trim()}...`;
+}
+
+function renderToolDirectoryEntry(toolRecord, locale, options = {}) {
+  const { compact = false } = options;
   const copy = LOCALE_COPY[locale];
-  const roleList = formatRoleList(toolRecord, locale);
-  const lines = [`#### [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})`, '', toolRecord.summary[locale]];
+  const roleList = formatRoleList(toolRecord, locale, compact ? COMPACT_ROLE_LABELS : MAX_ROLE_LABELS);
+  const summary = compact ? truncateSummary(toolRecord.summary[locale], COMPACT_SUMMARY_MAX_LENGTH) : toolRecord.summary[locale];
+
+  if (compact) {
+    const lines = [`- **[${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})**`];
+
+    if (summary) {
+      lines.push(`  - ${summary}`);
+    }
+
+    if (roleList) {
+      lines.push(`  - *${copy.suitableRoles}:* ${roleList}`);
+    }
+
+    return lines.join('\n');
+  }
+
+  const lines = [`#### [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})`, '', summary];
 
   if (roleList) {
     lines.push('', `**${copy.suitableRoles}:** ${roleList}`);
@@ -930,9 +975,11 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
   lines.push('<details>');
   lines.push(`<summary>${copy.fullDirectory} (${toolRecords.length})</summary>`);
   lines.push('');
+  lines.push(copy.allToolsStyleNote);
+  lines.push('');
 
   for (const toolRecord of toolRecords) {
-    lines.push(renderToolDirectoryEntry(toolRecord, locale));
+    lines.push(renderToolDirectoryEntry(toolRecord, locale, { compact: true }));
     lines.push('');
   }
 
