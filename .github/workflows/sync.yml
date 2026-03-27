@@ -1,4 +1,4 @@
-name: Sync Open Data
+name: Sync Awesome AI Tools Directory
 
 on:
   workflow_dispatch:
@@ -38,5 +38,5 @@ jobs:
             exit 0
           fi
           git add data docs
-          git commit -m "Sync open data exports"
+          git commit -m "Sync awesome AI tools directory"
           git push

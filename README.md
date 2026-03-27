@@ -1,127 +1,112 @@
-# AimyFlow Tool Directory
+# Awesome AI Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A multilingual GitHub directory of AI tools from [AimyFlow](https://www.aimyflow.com).
+A curated, GitHub-friendly list of AI tools indexed by [AimyFlow](https://www.aimyflow.com).
 
-This repository is meant to show:
+This repository is the `awesome-aitools` companion for AimyFlow:
 
-- the AimyFlow page for each tool
-- a short description of what the tool does
-- the job roles the tool is suitable for
+- curated highlights on the GitHub homepage
+- full tool coverage in the generated directory
+- multilingual browsing for international SEO and discovery
 
-It is intentionally simple. GitHub is the directory layer. AimyFlow is the full product.
+All tool links in this repository point to their AimyFlow tool pages, not raw external URLs.
 
-## What This Repo Publishes
+## Contents
 
-- `data/tools.json`: tool records with AimyFlow links, short summaries, and suitable roles
-- `data/stats.json`: latest snapshot counts and export quality metrics
-- `docs/index.md`: multilingual directory entry
-- `docs/{locale}/index.md`: localized tool directory pages
+- [Developer Tools](#developer-tools)
+- [SEO and Growth](#seo-and-growth)
+- [Customer Support and Operations](#customer-support-and-operations)
+- [Content and Media](#content-and-media)
+- [Design and Visual Tools](#design-and-visual-tools)
+- [Browse the Full Directory](#browse-the-full-directory)
+- [Internationalization](#internationalization)
 
-Supported locales:
+## Developer Tools
 
-- `en`
-- `zh`
-- `es`
-- `ja`
-- `de`
-- `fr`
+- [ComfyOnline](https://www.aimyflow.com/en/ai/comfyonline-app) - Run ComfyUI workflows online and turn them into deployable APIs. Best for software engineers and technical creators.
+- [Baloon.dev](https://www.aimyflow.com/en/ai/baloon-dev) - Assign Jira tickets to AI agents for code changes, summaries, and product answers.
+- [Layercode](https://www.aimyflow.com/en/ai/layercode-com) - Build production-ready voice AI agents without managing low-level realtime infrastructure.
+- [AutomatedTesting.ai](https://www.aimyflow.com/en/ai/automatedtesting-ai) - Generate, run, and repair automated UI tests from natural-language prompts.
 
-## Who This Is For
+## SEO and Growth
 
-This repo is useful for people searching for:
+- [PeopleAlsoAsk.ai](https://www.aimyflow.com/en/ai/peoplealsoask-ai) - Research search intent with AI-generated People Also Ask questions and answers.
+- [AI Mention You](https://www.aimyflow.com/en/ai/aimentionyou-com) - Check whether AI search products mention your site and where visibility gaps exist.
+- [MarketBetter](https://www.aimyflow.com/en/ai/marketbetter-ai) - Turn intent signals into SDR workflows and prioritized sales follow-up.
+- [HeyNews](https://www.aimyflow.com/en/ai/heynews-co) - Draft newsletter issues faster by learning from past editions and curated sources.
 
-- AI tools by role
-- AI tools by profession
-- AI tools for software engineers
-- AI tools for marketers
-- AI tools for content creators
-- multilingual AI tool directory
+## Customer Support and Operations
 
-## Start Here
+- [AssistLoop](https://www.aimyflow.com/en/ai/assistloop-ai) - Automate customer support with knowledge-base answers and human handoff when needed.
+- [Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft) - Surface support context, live data, and next actions inside existing support tools.
+- [Needle](https://www.aimyflow.com/en/ai/needle-so) - Run recruiting workflows from Slack with an AI-native applicant tracking system.
+- [Toki](https://www.aimyflow.com/en/ai/yestoki-com) - Manage calendars, reminders, and scheduling through text, voice, or images.
 
-- [Open the multilingual docs index](./docs/index.md)
-- [Inspect the tools dataset](./data/tools.json)
-- [Explore all AI tools on AimyFlow](https://www.aimyflow.com/en/explore)
-- [Browse roles on AimyFlow](https://www.aimyflow.com/en/roles)
+## Content and Media
 
-## How Links Are Shown
+- [Hooked](https://www.aimyflow.com/en/ai/vidme-ai) - Turn ideas, URLs, and product assets into short videos and UGC-style ads.
+- [ASMRHookLab](https://www.aimyflow.com/en/ai/ai-asmr-co) - Create short AI ASMR videos from templates for social channels.
+- [FreeMusicGen](https://www.aimyflow.com/en/ai/freemusicgen-com) - Generate draft songs, lyrics, and instrumental tracks from text prompts.
+- [SoundEffectGenerator](https://www.aimyflow.com/en/ai/soundeffectgenerator-org) - Create custom sound effects from prompts with controllable length and looping.
+- [DiscMeet](https://www.aimyflow.com/en/ai/discmeet-com) - Turn Discord voice discussions into searchable meeting notes and transcripts.
 
-This repository uses the product or website name as the visible link label.
+## Design and Visual Tools
 
-- good: `[ChatGPT](https://www.aimyflow.com/en/ai/chat-openai-com-chat)`
-- not desired: `https://www.aimyflow.com/en/ai/chat-openai-com-chat`
+- [Discova.ai](https://www.aimyflow.com/en/ai/discova-ai) - Analyze designs, synthesize UX research, and generate design variations faster.
+- [Inker.ai](https://www.aimyflow.com/en/ai/inker-ai) - Generate tattoo concepts, style variations, and virtual previews from prompts or photos.
+- [FastHeadshot](https://www.aimyflow.com/en/ai/fastheadshot-com) - Convert selfies into professional headshots for resumes, LinkedIn, and business profiles.
 
-The same rule applies to official website links inside the generated directories.
+## Browse the Full Directory
 
-In multilingual pages, the surrounding copy is localized, while the link label stays aligned with the product or website name.
+This README is the curated layer. The generated directory is the full discovery layer.
 
-## Why This Repo Exists
+- [Full docs index](./docs/index.md)
+- [English directory](./docs/en/index.md)
+- [Tools dataset](./data/tools.json)
+- [Snapshot stats](./data/stats.json)
 
-This repo is not a full mirror of `www.aimyflow.com`.
+Current snapshot:
 
-It exists to:
-
-- create an indexable GitHub directory for AimyFlow tools
-- make tool discovery easier from GitHub and search engines
-- show short tool descriptions without copying the entire main site
-- send users back to AimyFlow for the full experience
+- 2,057 tools
+- 221 roles
+- 6 locales
 
 ## Internationalization
 
-Internationalization is part of the repository design, not an afterthought.
+Internationalization stays built into the project instead of being bolted on later.
 
-- each supported locale gets its own tool directory page
-- tool descriptions and suitable role labels are localized when available
-- all localized pages link back to the matching localized AimyFlow tool pages
-- the goal is one tool directory, available in multiple languages
+- [English](./docs/en/index.md)
+- [中文](./docs/zh/index.md)
+- [Español](./docs/es/index.md)
+- [日本語](./docs/ja/index.md)
+- [Deutsch](./docs/de/index.md)
+- [Français](./docs/fr/index.md)
 
-## Local Usage
+The homepage README is curated for GitHub. The generated docs keep the multilingual, full-directory experience.
 
-Copy `.env.example` to `.env.local`, fill in the Supabase values, then run:
+## Contributing
 
-```bash
-node scripts/sync-from-supabase.mjs
-```
+Read [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-The sync script also tries local env files from `/root/aimyflow-aitools/.env.local` and `/root/aimyflow-aitools/.env` when present, so it can be run conveniently beside the main project.
+Short version:
 
-## GitHub Automation
+- keep the homepage list curated, not exhaustive
+- use product names as link labels
+- prefer neutral descriptions over marketing slogans
+- if a tool is not yet indexed on AimyFlow, submit it there first
 
-The workflow at `.github/workflows/sync.yml` can run on a schedule and commit refreshed exports automatically.
+## License
 
-Required GitHub repository secrets:
-
-- `NEXT_PUBLIC_SUPABASE_URL`
-- `NEXT_PUBLIC_SUPABASE_ANON_KEY`
-- `SUPABASE_SERVICE_ROLE_KEY` (recommended)
-- `AIMYFLOW_SITE_URL` (optional, defaults to `https://www.aimyflow.com`)
+[CC0 1.0](./LICENSE)
 
 ## 中文说明
 
-这个仓库现在定位为 AimyFlow 的多语言工具目录。
+这个仓库会继续保留你现在想要的核心定位：
 
-这里主要展示三类内容：
+- GitHub 首页走 `awesome` 风格精选列表
+- 全量工具继续放在 `docs/` 和 `data/` 里
+- 多语言目录继续保留，服务国际化和搜索收录
 
-- 工具在 AimyFlow 上的页面链接
-- 工具的简短内容简介
-- 这个工具适合哪些职业
+也就是说：
 
-这个仓库不是主站完整镜像，而是适合 GitHub 和搜索收录的工具目录层。
-
-你可以把它理解为：
-
-- GitHub：工具列表和快速说明
-- AimyFlow：完整工具页、职业页、工作流和更完整体验
-
-多语言也会保留：
-
-- 每个语言版本都有自己的工具目录页
-- 工具简介和适合职业会按语言输出
-- 每个语言页面都会链接回主站对应语言的工具页
-- 链接显示名统一尽量使用产品名或网站名，而不是裸链接或营销标题
-
-建议入口：
-
-- 多语言目录索引：[`docs/index.md`](./docs/index.md)
-- 工具数据：[`data/tools.json`](./data/tools.json)
-- 主站工具页：https://www.aimyflow.com/zh/explore
+- `README`：精选、好看、适合 GitHub 传播
+- `docs` / `data`：完整、可索引、适合 SEO 和程序使用

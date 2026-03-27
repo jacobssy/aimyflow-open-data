@@ -1,0 +1,36 @@
+name: Tool suggestion
+description: Suggest a tool for curated placement in the awesome list
+title: "[Tool]: "
+labels:
+  - tool-suggestion
+body:
+  - type: input
+    id: tool_name
+    attributes:
+      label: Tool name
+      placeholder: Example: Perplexity
+    validations:
+      required: true
+  - type: input
+    id: aimyflow_url
+    attributes:
+      label: AimyFlow tool page
+      description: Use the AimyFlow page, not the raw external site.
+      placeholder: https://www.aimyflow.com/en/ai/...
+    validations:
+      required: true
+  - type: textarea
+    id: why_add
+    attributes:
+      label: Why should it be added?
+      description: Explain why it deserves curated placement in the README.
+      placeholder: Useful, distinctive, widely relevant, strong fit for a category, etc.
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Suggested category
+      placeholder: Developer Tools / SEO and Growth / Content and Media
+    validations:
+      required: true

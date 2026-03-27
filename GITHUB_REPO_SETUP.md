@@ -6,7 +6,7 @@ Use the following values when creating the public GitHub repository.
 
 Recommended:
 
-- `aimyflow-open-data`
+- `awesome-aitools`
 
 ## Website
 
@@ -19,13 +19,13 @@ https://www.aimyflow.com
 Primary option:
 
 ```text
-Open data for AI tools by role, career and workflow, with multilingual datasets and links back to AimyFlow.
+A curated multilingual list of AI tools, with highlighted picks on GitHub and full directory links back to AimyFlow.
 ```
 
 Alternative option:
 
 ```text
-Multilingual open dataset of AI tools by career, role and workflow, connected to the AimyFlow directory.
+Awesome-style AI tools list curated from the AimyFlow directory, with multilingual docs and structured exports.
 ```
 
 ## Topics
@@ -34,15 +34,15 @@ Recommended topics:
 
 ```text
 ai-tools
-open-data
-careers
-workflow
+awesome
+awesome-list
+artificial-intelligence
+workflow-automation
 automation
-dataset
 multilingual
 directory
 productivity
-job-matching
+seo
 ```
 
 ## Social Preview / About Copy
@@ -50,13 +50,13 @@ job-matching
 Short version:
 
 ```text
-Discover AI tools by career and workflow. This repo publishes structured open data from AimyFlow and links back to the full role pages, tool details and community voting experience.
+Discover curated AI tools on GitHub, then continue to AimyFlow for the full multilingual directory.
 ```
 
 Longer version:
 
 ```text
-AimyFlow Open Data is a public, multilingual dataset of AI tools mapped to careers, roles and workflow use cases. Use this repository for structured exports and lightweight GitHub-native docs, then continue to aimyflow.com for full tool pages, workflow playbooks and community voting.
+Awesome AI Tools is a public GitHub-first discovery layer for AimyFlow. The homepage stays curated in awesome-list style, while the generated docs and data files provide multilingual coverage and structured exports for broader discovery.
 ```
 
 ## Recommended Pinned Links
@@ -72,22 +72,22 @@ Pin these in the README and repo About section:
 ### English
 
 ```text
-Released a new open-data companion repo for AimyFlow.
+Released a new awesome-style AI tools repository for AimyFlow.
 
-It publishes structured AI tool data by role, multilingual role docs, and lightweight GitHub-native pages that link back to the full experience on aimyflow.com.
+It keeps a curated GitHub homepage for discovery, plus multilingual docs and structured exports that link back to the full experience on aimyflow.com.
 
-If you work on AI tooling, workflow automation, productivity research or job-role mapping, this repo should be useful:
+If you work on AI tooling, workflow automation, productivity, SEO, or AI discovery, this repo should be useful:
 https://www.aimyflow.com
 ```
 
 ### Chinese
 
 ```text
-我新开了一个 AimyFlow 的开放数据仓库。
+我新开了一个 AimyFlow 的 awesome 风格 AI 工具仓库。
 
-这个仓库会公开按职业整理的 AI 工具数据、多语言职业文档，以及适合 GitHub 收录和传播的轻量页面。完整的工具详情、工作流和社区投票仍然在 aimyflow.com 上。
+这个仓库首页走 GitHub 上常见的 awesome 风格精选列表，同时保留多语言目录和结构化数据导出。完整的工具详情、工作流和更多内容仍然在 aimyflow.com 上。
 
-如果你在关注 AI 工具、工作流自动化、效率工具或职业与 AI 的映射，这个仓库会比较有用：
+如果你在关注 AI 工具、工作流自动化、效率工具、SEO 或 AI 发现，这个仓库会比较有用：
 https://www.aimyflow.com
 ```
 

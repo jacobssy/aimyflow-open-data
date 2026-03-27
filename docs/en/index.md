@@ -1,10 +1,10 @@
-# AimyFlow Tool Directory
+# Awesome AI Tools Directory
 
 A GitHub-friendly multilingual directory of AI tools from AimyFlow, showing each tool, what it does, and which job roles it fits.
 
-Generated at: 2026-03-22T17:08:59.328Z
+Generated at: 2026-03-27T18:03:49.114Z
 
-- Tools exported: 2057
+- Tools exported: 3022
 - Roles covered: 221
 
 ## Why This Page Exists
@@ -20,155 +20,167 @@ Generated at: 2026-03-22T17:08:59.328Z
 
 ## Recently Added Tools
 
-#### [ComfyOnline](https://www.aimyflow.com/en/ai/comfyonline-app)
+#### [LedgerUp](https://www.aimyflow.com/en/ai/ledgerup-ai)
 
-ComfyOnline is an online platform for running ComfyUI workflows and generating deployable APIs without local GPU hardware or complex setup, mainly for AI developers and ComfyUI users building applications. In AI production work, it can help developers and technical creators move image, video, audio, and language workflows from experimentation into scalable app endpoints more efficiently.
+LedgerUp is an AI-powered revenue operations platform that automates contract-to-cash workflows including billing, collections, usage-based invoicing, and reconciliation, mainly for B2B SaaS and enterprise sales teams. For finance, revenue operations, and billing teams, its AI assistant can reduce manual follow-up and cross-system work by handling routine accounts receivable tasks inside existing workflows.
 
-**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Content Creator, Digital Marketing Director
+**Suitable roles:** CFO, Financial Planning & Analysis Manager, Financial Analyst, COO, Project Management Officer
 
-#### [DatingShoot](https://www.aimyflow.com/en/ai/datingshoot-com)
+#### [ProhostAI](https://www.aimyflow.com/en/ai/prohost-ai)
 
-DatingShoot is an AI dating photo generator that turns users’ existing selfies into realistic, profile-ready pictures for Tinder, Hinge, and Bumble, mainly for people who want stronger dating app profiles without a traditional photoshoot. For online dating users, it can streamline profile optimization by quickly producing multiple app-suitable images and enabling iterative testing of which photos attract more matches.
+ProhostAI is an all-in-one AI assistant for vacation rental hosts and property managers that helps them automate guest messaging, cleanings, tasks, guidebooks, reviews, and day-to-day property operations across one to 300+ listings. For short-term rental operations teams, centralizing communication and workflow automation in an AI-driven platform can reduce manual coordination and improve consistency across properties.
 
-**Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Copywriter
+**Suitable roles:** Branch Office Manager, COO, Project Management Officer, Restaurant General Manager
 
-#### [Furlana](https://www.aimyflow.com/en/ai/furlana-ai)
+#### [RunLocal](https://www.aimyflow.com/en/ai/runlocal-ai)
 
-Furlana is an AI platform for independent pet shops that helps them create shop-branded pet portraits, automated newsletters, and passive revenue streams without added technical work. For pet retail owners and marketers, it can use AI-generated content and automated customer touchpoints to maintain visibility between visits and support recurring online revenue.
+RunLocal is an AI agent and platform for optimizing machine learning model inference on edge hardware, helping teams move from trained PyTorch models to validated, production-ready deployments on devices such as Nvidia Orin and Qualcomm targets. For edge AI engineers and ML deployment teams, it can reduce manual profiling, debugging, and experiment tracking by automating iterative optimization workflows with device-aware validation and vendor SDK context.
 
-**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Content Creator, Ecommerce Seller, Branch Office Manager
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Project Management Officer
 
-#### [Hooked](https://www.aimyflow.com/en/ai/vidme-ai)
+#### [Sharpe](https://www.aimyflow.com/en/ai/sharpe-sh)
 
-Hooked is an AI video automation platform that helps creators, marketers, and ecommerce teams turn ideas, URLs, or product assets into short videos, slideshows, and UGC-style ads with scripts, visuals, captions, avatars, voiceovers, and publishing tools. For social media managers and performance marketers, it can speed up testing and scaling short-form video content by automating production and trend-informed creative variations.
+Sharpe is a Jupyter-native AI research agent for quantitative finance that helps quants, portfolio managers, traders, and researchers run multi-step analyses on large financial datasets and generate fully cited, reproducible notebooks. For quantitative research teams, it can reduce manual analysis time while improving consistency, traceability, and reuse of firm-specific methods across studies.
 
-**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator, Ecommerce Seller
+**Suitable roles:** Investment Portfolio Manager, Data Scientist, Financial Analyst, Data Engineer, Software Engineer
 
-#### [Needle](https://www.aimyflow.com/en/ai/needle-so)
+#### [Zettascale](https://www.aimyflow.com/en/ai/zscc-ai)
 
-Needle is an AI-native, self-driving applicant tracking system that helps early-stage founders and AI-native teams screen, source, and schedule candidates from Slack without manual data entry or context switching. By automating routine recruiting tasks inside everyday workflows, it can help founders and hiring teams move faster and spend more time evaluating talent.
+Zettascale is a Silicon Valley hardware company building energy-efficient, reconfigurable XPU chips for AI training and inference, mainly for teams developing advanced AI compute infrastructure. For AI hardware, compiler, and systems engineers, model-optimized dataflow and reduced memory movement can improve throughput while lowering energy use in training and inference workloads.
 
-**Suitable roles:** Talent Acquisition Manager, CEO, COO, Project Management Officer
+**Suitable roles:** Electrical Engineer, Software Engineer, IT Infrastructure Manager, Software Development Manager, CEO
 
-#### [AssistLoop](https://www.aimyflow.com/en/ai/assistloop-ai)
+#### [NetworkOcean](https://www.aimyflow.com/en/ai/networkocean-io)
 
-AssistLoop is an AI customer service agent that helps businesses automate support, answer questions from their own knowledge base, and hand off conversations to human teams when needed. For customer support and operations teams, it can reduce routine inquiry volume while using conversation history and trained data to improve response consistency and speed.
+NetworkOcean builds and operates floating data center barges and underwater data center capsules that provide liquid-cooled, high-density GPU infrastructure with lower power use and no water consumption, mainly for organizations needing AI compute capacity. For AI infrastructure, data center, and HPC teams, this model can improve GPU deployment planning and operating efficiency for dense workloads such as NVL72, GB200, and H100/200 systems.
 
-**Suitable roles:** COO, E-commerce Sales Head, Project Management Officer, Digital Marketing Director
+**Suitable roles:** IT Infrastructure Manager, Software Development Manager, COO, Project Management Officer, Data Engineer
 
-#### [Baloon.dev](https://www.aimyflow.com/en/ai/baloon-dev)
+#### [Pharos](https://www.aimyflow.com/en/ai/pharos-health)
 
-Baloon.dev is a Jira-AI connector that lets teams assign Jira tickets directly to AI agents to automate small code changes, answer product questions, and return summaries or pull requests, mainly for software engineers and product teams. In AI-assisted development workflows, it can help engineering and product functions move faster from ticket triage to implementation by grounding answers and code output in the actual codebase and project data.
+Pharos is an AI-powered hospital quality and patient safety platform that automates chart abstraction, reporting, root cause analyses, audits, and quality improvement tracking for hospital quality and risk teams. For clinical reviewers, patient safety leaders, and quality improvement staff, it can reduce manual chart review and speed insight generation so teams can act on safety events and performance gaps sooner.
 
-**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, COO
+**Suitable roles:** Healthcare Administrator, Occupational Health Specialist, IT Infrastructure Manager, Project Management Officer
 
-#### [Discova.ai](https://www.aimyflow.com/en/ai/discova-ai)
+#### [Sage](https://www.aimyflow.com/en/ai/sagecare-ai)
 
-Discova.ai is an AI-powered UX insights engine that helps UX researchers and product designers analyze designs, synthesize research, generate design variations, and identify usability improvements from existing design assets. In AI-assisted product work, it can reduce manual research analysis and help design teams turn interface findings into faster testing ideas and clearer design decisions.
+Sage is an AI-native CRM and intake workflow automation tool for home care agencies that turns intake calls and home visits into transcripts, care plans, follow-ups, and synced records. For intake coordinators, agency operators, and care managers, it can reduce manual documentation and speed client onboarding while keeping data current in care management systems.
 
-**Suitable roles:** Graphic Designer, Project Management Officer, Software Development Manager, Technical Writer
+**Suitable roles:** Healthcare Administrator, Home Health Aide, COO, Project Management Officer
 
-#### [Inker.ai](https://www.aimyflow.com/en/ai/inker-ai)
+#### [Saldor](https://www.aimyflow.com/en/ai/saldor-com)
 
-Inker.ai is an AI tattoo generator that turns text prompts or photos into tattoo-ready designs, style variations, and virtual try-ons for people exploring tattoo ideas and tattoo artists preparing concepts. In AI-assisted tattoo workflows, it can speed concept exploration and client approvals by giving artists and studios fast visual drafts to refine before final stencil or ink decisions.
+Saldor is a field training tool that helps HVAC, solar, and other trade service teams turn new hires into productive technicians faster through hands-free, in-field support. In an AI-enabled workflow, it can help trainers, operations leaders, and field managers standardize onboarding and reinforce guidance directly on the job.
 
-**Suitable roles:** Graphic Designer, Independent Filmmaker, Content Creator, Fashion Designer
+**Suitable roles:** Factory Operations Supervisor, COO, Talent Acquisition Manager, Project Management Officer, Vocational School Trainer
 
-#### [Toki](https://www.aimyflow.com/en/ai/yestoki-com)
+#### [Voker](https://www.aimyflow.com/en/ai/voker-ai)
 
-Toki is an AI calendar assistant that helps people manage schedules, reminders, and events through text, voice, or images while syncing Google Calendar, Apple Calendar, and Outlook, making it especially useful for busy professionals and teams. For founders, managers, and other knowledge workers, this kind of natural-language scheduling can reduce manual calendar work and help keep follow-ups and time-sensitive commitments from being missed.
+Voker is an analytics tool for conversational AI agents that helps teams turn conversation insights into optimizations without digging through logs, mainly for people building and improving AI agents. As AI agents become more central to customer and product workflows, it can help AI engineers and conversational designers identify issues faster and refine agent performance more efficiently.
 
-**Suitable roles:** CEO, Project Management Officer, COO, Branch Office Manager, Software Development Manager
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Project Management Officer, IT Infrastructure Manager
 
-#### [AutomatedTesting.ai](https://www.aimyflow.com/en/ai/automatedtesting-ai)
+#### [Cloudglue](https://www.aimyflow.com/en/ai/cloudglue-dev)
 
-AutomatedTesting.ai is an AI-powered testing platform that uses vision AI to generate, run, and repair automated UI test cases from user prompts, mainly for software developers and QA teams. By turning natural-language test requirements into reusable test steps, it can help QA engineers and developers spend less time authoring brittle scripts and more time validating product changes.
+Cloudglue is a developer-focused API that turns video and audio into structured, searchable AI-ready data to help teams build video-aware applications such as chatbots, analysis tools, and extraction workflows. For AI engineers and product developers, it can improve retrieval, question answering, and automated analysis by making video content usable as context for LLM-based systems.
 
-**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Technical Writer, Project Management Officer
 
-#### [DiscMeet](https://www.aimyflow.com/en/ai/discmeet-com)
+#### [CreativeMode](https://www.aimyflow.com/en/ai/creativemode-net)
 
-DiscMeet is an AI note-taking and voice transcription tool for Discord that turns voice conversations into searchable, organized notes, mainly for teams running meetings or campaigns on Discord. In AI-supported workflows, it can help community managers, coordinators, and meeting leads capture discussions faster and review decisions or action points more efficiently.
+CreativeMode is a no-code platform for creating and sharing Minecraft mods and addons, aimed mainly at Minecraft players, mod creators, and community makers. In AI-era game creation workflows, it can help creators prototype gameplay ideas faster and publish interactive content without needing programming skills.
 
-**Suitable roles:** Project Management Officer, Nonprofit Program Manager, Branch Office Manager, Software Development Manager, Content Creator
+**Suitable roles:** Content Creator, Software Engineer, Online Coding Tutor, Teacher
 
-#### [MarketBetter](https://www.aimyflow.com/en/ai/marketbetter-ai)
+#### [Praxos](https://www.aimyflow.com/en/ai/mypraxos-com)
 
-MarketBetter is an intent-powered SDR platform that helps sales development representatives identify which companies to contact, choose outreach steps, and automate follow-up using website visitor signals, email, dialing, and CRM data. For SDRs and sales teams, this can reduce manual prospecting work and speed lead response by turning scattered buying signals into prioritized daily tasks.
+Praxos is a personal assistant tool that lets users text instructions from their phone or computer so it can connect to apps, handle chores, send replies, and keep track of tasks, mainly for busy individuals and small business owners. In AI-assisted workflows, it can help managers, operators, and customer-facing teams reduce missed tasks and routine follow-up work by automating everyday actions.
 
-**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, Project Management Officer, CEO
+**Suitable roles:** Project Management Officer, Restaurant General Manager, Branch Office Manager, CEO
 
-#### [SoundEffectGenerator](https://www.aimyflow.com/en/ai/soundeffectgenerator-org)
+#### [Vera Health](https://www.aimyflow.com/en/ai/vera-health-ai)
 
-SoundEffectGenerator is an AI sound effect generator that turns text prompts into custom sound effects with adjustable length and looping, mainly for creators, developers, and sound designers. For video editors, game developers, and audio teams, it can speed up prototyping and asset creation by generating many specific effects from written prompts instead of sourcing them manually.
+Vera Health is an AI clinical decision-support search engine that helps licensed clinicians and trainees find concise, evidence-based answers, differential diagnoses, treatment plans, and clinical calculations from peer-reviewed medical literature and guidelines. For physicians, PAs, pharmacists, and other bedside clinicians, it can speed up question resolution while keeping recommendations auditable through linked sources and evidence grading.
 
-**Suitable roles:** Independent Filmmaker, Software Engineer, Graphic Designer, Content Creator, Copywriter
+**Suitable roles:** Family Doctor, Cardiologist, Pediatrician, Healthcare Administrator, Medical Lab Technician
 
-#### [ThunDroid AI](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-thundroid-ai-id6746182736)
+#### [Winfunc](https://www.aimyflow.com/en/ai/winfunc-com)
 
-ThunDroid AI is an iPhone wellness app that helps users manage stress, anxiety, journaling, breathing exercises, mood tracking, and food-based nutrition insights, mainly for people seeking private, everyday emotional support. In AI-assisted wellness work, its locally stored journal analysis, conversational memory, and fast voice or widget access can help individuals and mental health-adjacent professionals maintain more consistent self-reflection and habit tracking.
+Winfunc is an AI security auditing tool that scans codebases and systems to find real vulnerabilities, generate exploit proof of concept, and provide code-path-specific patch guidance, mainly for software engineering and security teams. In AI-driven AppSec workflows, its proof-backed findings can help developers, security engineers, and engineering leaders prioritize exploitable issues faster and ship fixes with less time spent validating scanner noise.
 
-**Suitable roles:** Wellness Coach, School Counselor, Healthcare Administrator
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Software Engineer, Software Development Manager, IT Infrastructure Manager
 
-#### [ASMRHookLab](https://www.aimyflow.com/en/ai/ai-asmr-co)
+#### [Bluedoor](https://www.aimyflow.com/en/ai/bluedoor-sh)
 
-ASMRHookLab is an AI ASMR video generator that helps creators make short, synchronized ASMR videos from customizable templates without writing prompts, mainly for TikTok, YouTube Shorts, and Reels creators. For social video creators and ASMR channel operators, this template-based workflow can speed up testing of hooks, textures, and formats while maintaining consistent audio-visual timing.
+Bluedoor is a terminal-based stock research tool that helps investors perform securities research, compare companies, backtest ideas, and support trading workflows using hundreds of data sources in one place. For investors and research-focused finance professionals, its terminal workflow can speed analysis, reduce tab-switching, and make cross-source insights easier to act on.
 
-**Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, Data Scientist, Software Engineer
 
-#### [Fotify](https://www.aimyflow.com/en/ai/fotify-app)
+#### [Ligo Biosciences](https://www.aimyflow.com/en/ai/ligo-bio)
 
-Fotify is an event photo sharing and digital RSVP platform that helps organizers create invitations, collect guest responses, and display guest-uploaded photos in real time, mainly for weddings, corporate events, parties, and conferences. For event planners, venues, and photographers, its AI moderation and centralized workflow can reduce manual coordination while making live guest content easier to manage during events.
+Ligo Biosciences is an AI enzyme design platform that uses deep-learning and generative models to create new proteins and optimize enzymes for industry, mainly for biochemists, chemists, and protein engineering teams. In AI-driven R&D, it can help scientific and chemical innovation teams iterate on enzyme candidates faster before experimental validation.
 
-**Suitable roles:** Concert Promoter, Social Media Content Creator, Branch Office Manager, Restaurant General Manager, Content Creator
+**Suitable roles:** Molecular Biologist, Chemist, Data Scientist, Applied Mathematician, Software Engineer
 
-#### [FreeMusicGen](https://www.aimyflow.com/en/ai/freemusicgen-com)
+#### [Orca](https://www.aimyflow.com/en/ai/orcaengine-ai)
 
-FreeMusicGen is an AI music generator that helps users create custom songs with lyrics or instrumentals from text prompts, and it is mainly for people who want to produce music quickly for creative or project use. In AI-assisted workflows, it can help content creators, musicians, and video editors generate draft tracks, extend songs, and prepare lyrics, stems, or MIDI files faster.
+Orca is an AI-powered Minecraft modding tool that helps users create mods, 3D models, items, blocks, skins, and custom behaviors from natural-language prompts, mainly for Minecraft creators and modders. By generating code, textures, and models, then supporting testing and publishing, it can help mod developers and game content creators turn ideas into playable assets faster with less manual setup.
 
-**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Music Lover
+**Suitable roles:** Software Engineer, Graphic Designer, Content Creator, Industrial Designer, Technical Writer
 
-#### [Layercode](https://www.aimyflow.com/en/ai/layercode-com)
+#### [Planbase](https://www.aimyflow.com/en/ai/joinplanbase-com)
 
-Layercode is voice AI infrastructure for TypeScript developers that helps them build and deploy production-ready voice agents without managing WebSockets, voice activity detection, or low-latency audio pipelines. For AI engineers and product developers, this can speed iteration on conversational systems by keeping backend logic in their own code while simplifying real-time voice delivery and observability.
+Planbase is an AI-powered healthcare employee management platform that helps healthcare organizations streamline provider onboarding, scheduling, credentialing, payroll, forecasting, and workforce analytics. For provider operations, practice management, and staffing teams, its AI-driven workflows can reduce manual administrative work and improve staffing, compliance, and utilization decisions as demand changes.
 
-**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+**Suitable roles:** Healthcare Administrator, COO, Project Management Officer, Compensation & Benefits Manager, Certified Public Accountant
 
-#### [Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft)
+#### [Thunder Compute](https://www.aimyflow.com/en/ai/thundercompute-com)
 
-Support Flow TAAFT is an AI copilot from PixieBrix that helps B2B customer support and technical support teams resolve cases faster by surfacing contextual content, live data, and actions across their existing tools. For support agents, support engineers, and product or engineering teams, this can reduce escalations and context switching by bringing accurate answers and next steps directly into the workflow.
+Thunder Compute is a GPU cloud platform that helps developers and AI engineers spin up NVIDIA H100 instances through a VS Code extension, CLI, or browser access for model development and compute-heavy workflows. For AI development teams, this can streamline experimentation and coding by making high-end GPU access more available within familiar tools.
 
-**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Project Management Officer, COO, Software Engineer
+**Suitable roles:** Software Engineer, Data Scientist, Data Engineer, IT Infrastructure Manager, Software Development Manager
 
-#### [BTInsights](https://www.aimyflow.com/en/ai/btinsights-ai)
+#### [CodeViz](https://www.aimyflow.com/en/ai/codeviz-ai)
 
-BTInsights is an AI qualitative research platform that helps market researchers analyze interviews, focus groups, survey open ends, and crosstabs, with tools for transcription, traceable insights, coding, and slide generation. For research and insights teams, it can shorten manual analysis and reporting while keeping findings linked to source data for faster review and client delivery.
+CodeViz is a collaborative code visualization and architecture diagramming tool that helps software teams understand codebases, review changes, and keep documentation aligned with the source code. For engineers and engineering leaders, it can improve PR reviews, ticket scoping, and architecture communication by turning complex code relationships into shared, versioned views.
 
-**Suitable roles:** Project Management Officer, Copywriter, Technical Writer
+**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Project Management Officer
 
-#### [Ezel](https://www.aimyflow.com/en/ai/ezel-ai)
+#### [Decisional](https://www.aimyflow.com/en/ai/decisional-com)
 
-Ezel is an AI legal platform for lawyers and legal teams that helps them draft documents, research case law, organize matter workspaces, verify citations, and redact files with confidentiality controls. For attorneys, paralegals, and legal operations teams, it can speed document and research workflows while keeping matter context, file history, and source-backed answers in one place.
+Decisional is an AI agent platform that lets users describe workflows in plain English, connect their apps, and automate ongoing tasks with self-building, self-testing agents, mainly for operations, finance, and product teams. In AI-enabled work, it can help these teams reduce manual spreadsheet, document, and follow-up work while keeping humans in the loop for approvals and review.
 
-**Suitable roles:** Lawyer, Technical Writer, IT Infrastructure Manager, Project Management Officer
+**Suitable roles:** Project Management Officer, Financial Planning & Analysis Manager, COO, Software Development Manager, Financial Analyst
 
-#### [FastHeadshot](https://www.aimyflow.com/en/ai/fastheadshot-com)
+#### [Silurian AI](https://www.aimyflow.com/en/ai/silurian-ai)
 
-FastHeadshot is an AI professional headshot generator that turns uploaded selfies into studio-style portraits for LinkedIn, resumes, and business profiles, mainly for professionals and job seekers. For recruiters, marketers, consultants, and remote teams, it can speed up profile-photo updates while helping maintain a more consistent professional image across digital channels.
+Silurian AI builds tailored foundation models for Earth systems that help organizations use their asset and infrastructure data to improve regional weather forecasting and earlier decision-making. For weather risk, operations, and infrastructure teams, AI models like these can turn forecast data into faster, more localized actions across planning and response workflows.
 
-**Suitable roles:** Talent Acquisition Manager, Digital Marketing Director, CEO, Field Sales Manager, Content Creator
+**Suitable roles:** Logistics Operations Planner, Risk Analyst, Factory Operations Supervisor, COO, Data Scientist
 
-#### [HeyNews](https://www.aimyflow.com/en/ai/heynews-co)
+#### [Simple AI](https://www.aimyflow.com/en/ai/usesimple-ai)
 
-HeyNews is an AI newsletter writing tool that learns from past issues, curates stories from hundreds of sources, and generates publish-ready newsletters for newsletter creators and publishers. For newsletter operators and editors, this can reduce drafting time while helping maintain a consistent voice and use engagement data to refine future issues.
+Simple AI is an enterprise-ready platform for deploying AI voice phone agents that handle inbound and outbound calls, sales conversations, support, lead qualification, and data collection, mainly for businesses with customer-facing phone operations. For sales, support, and operations teams, it can automate high-volume calling while capturing transcripts, sentiment, and structured data to speed follow-up and improve consistency.
 
-**Suitable roles:** Copywriter, Content Creator, Social Media Content Creator, Digital Marketing Director, Technical Writer
+**Suitable roles:** Field Sales Manager, Restaurant General Manager, Branch Office Manager, Healthcare Administrator, Logistics Operations Planner
 
 
 ## All Tools
 
 <details>
-<summary>Expand the full tool directory (2057)</summary>
+<summary>Expand the full tool directory (3022)</summary>
+
+#### [10Web](https://www.aimyflow.com/en/ai/10web-io)
+
+10Web is an AI website building and managed WordPress platform that helps businesses, agencies, and resellers create, launch, host, optimize, and manage websites or ecommerce stores with white-label and API options. For web teams, marketers, and WordPress professionals, its AI-driven building, SEO, and hosting workflow can reduce manual site production while speeding deployment of production-ready websites.
+
+**Suitable roles:** Digital Marketing Director, Software Development Manager, Ecommerce Seller, CEO, Project Management Officer
+
+#### [10x Science](https://www.aimyflow.com/en/ai/10xscience-com)
+
+10x Science is AI-native software for scientists that helps characterize proteins and analyze omics data at scale, with features for peptide mapping, de novo sequencing, PTM detection, and proteoform analysis, especially for protein therapeutics workflows. For protein scientists and analytical teams, this can speed interpretation of complex mass spectrometry data and help reveal sequence variants or modifications that conventional tools may miss.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Software Engineer
 
 #### [11x](https://www.aimyflow.com/en/ai/11x-ai)
 
@@ -200,6 +212,12 @@ HeyNews is an AI newsletter writing tool that learns from past issues, curates s
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Software Engineer, Ecommerce Seller
 
+#### [1of10](https://www.aimyflow.com/en/ai/1of10-com)
+
+1of10 is an AI-powered YouTube growth tool that helps creators find outlier videos, generate thumbnail concepts, and craft titles and ideas, mainly for YouTubers and channel teams. For creators, strategists, and thumbnail designers, its outlier-based approach can make content planning and packaging more data-driven than relying on generic AI or basic keyword research.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Graphic Designer, Digital Marketing Director
+
 #### [2pr](https://www.aimyflow.com/en/ai/2pr-io)
 
 2pr is an AI LinkedIn post generator and content workflow tool that helps users find post ideas, write authentic LinkedIn posts, create carousels, and schedule and analyze content, mainly for founders, B2B sales and marketing teams, bloggers, and job seekers. For professionals building a personal brand on LinkedIn, it can streamline ideation and drafting while using profile-based guidance to keep posts aligned with their expertise and positioning.
@@ -211,6 +229,36 @@ HeyNews is an AI newsletter writing tool that learns from past issues, curates s
 2PR LinkedIn Carousel Generator is an AI-powered tool that turns articles, notes, videos, and other source content into editable LinkedIn carousel slides and PDFs, mainly for founders, B2B sales and marketing teams, creators, bloggers, and job seekers. For social media and content professionals, it can speed up repurposing long-form material into structured visual posts while keeping branding and messaging more consistent.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, CEO
+
+#### [2short.ai](https://www.aimyflow.com/en/ai/2short-ai)
+
+2short.ai is an AI YouTube Shorts generator that helps creators turn long-form YouTube videos into short clips with extracted highlights, subtitles, facial tracking, and flexible aspect ratios, mainly for content creators and YouTube channel operators. For video editors, social media managers, and creator teams, it can speed up short-form repurposing workflows by automating clip selection and reducing manual editing time.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Podcast Producer, Copywriter
+
+#### [5118](https://www.aimyflow.com/en/ai/5118-com)
+
+5118 is a Chinese marketing and webmaster data platform that helps SEO practitioners, content teams, and site operators mine long-tail keywords, monitor rankings, analyze industry term databases, and rewrite content with AI. In AI-driven search and content workflows, it can help SEO and digital marketing professionals find topic opportunities faster and produce search-oriented copy with stronger keyword coverage.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Ecommerce Seller, Software Engineer
+
+#### [5118 Article Genius](https://www.aimyflow.com/en/ai/5118-com-ai-articlegenius)
+
+5118 Article Genius appears to be an AI writing tool within the 5118 marketing data platform that helps users generate articles, mainly for marketers and SEO content teams. For content, search, and editorial workflows, a tool like this can speed up draft production and support more consistent topic coverage when creating search-focused content.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Technical Writer, Content Creator
+
+#### [a0.dev](https://www.aimyflow.com/en/ai/a0-dev)
+
+a0.dev is an AI-powered mobile app builder that helps users create, publish, monetize, and track iOS and Android apps from one platform, mainly for app builders and creators. For mobile developers and indie founders, it can reduce manual coding and app store deployment work by combining AI code editing, one-click publishing, payments, and analytics in a single workflow.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CEO, Content Creator, Ecommerce Seller
+
+#### [Abook.ai](https://www.aimyflow.com/en/ai/abook-ai)
+
+Abook.ai is a book summary platform that helps users quickly learn from nonfiction titles through summaries, podcasts, and PDF or EPUB downloads, mainly for readers focused on personal growth, business, psychology, and related subjects. For professionals such as managers, founders, educators, and knowledge workers, it can speed up research and ongoing learning by surfacing key ideas in a faster, more accessible format.
+
+**Suitable roles:** CEO, Corporate Leadership Coach, Education Technology Consultant, Software Development Manager, Project Management Officer
 
 #### [Accio](https://www.aimyflow.com/en/ai/accio-com)
 
@@ -230,11 +278,35 @@ AccuChats is an accuracy-first AI chatbot platform that helps businesses build w
 
 **Suitable roles:** Software Development Manager, Project Management Officer, COO
 
+#### [Acedit](https://www.aimyflow.com/en/ai/acedit-ai)
+
+Acedit is an AI interview coaching Chrome extension that helps job seekers practice with mock interviews and get real-time question detection and response suggestions during live online interviews. For candidates, recruiters, and career coaches, tools like this can speed interview preparation and improve answer consistency by turning resumes, job descriptions, and role context into structured talking points.
+
+**Suitable roles:** Talent Acquisition Manager, School Counselor, Corporate Leadership Coach
+
 #### [Actionbook](https://www.aimyflow.com/en/ai/actionbook-dev)
 
 Actionbook is a browser action engine for AI agents that provides up-to-date action manuals and DOM structure so developers and teams can make agents operate websites faster and more reliably. For AI engineers and automation builders, this can reduce brittle selector logic and token-heavy page analysis when working with dynamic web apps and SPAs.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Project Management Officer
+
+#### [Adam](https://www.aimyflow.com/en/ai/adam-new)
+
+Adam is an AI-powered CAD agent that helps mechanical engineers build and edit hardware faster in their preferred CAD platforms using prompts for part editing, selection-based feature creation, feature tree optimization, and parametrization. For engineering and CAD workflows, it can reduce repetitive clicks and help turn ad hoc models into more structured, reusable designs.
+
+**Suitable roles:** Mechanical Engineer, Industrial Designer, Electrical Engineer, Software Engineer
+
+#### [Adaptional](https://www.aimyflow.com/en/ai/adaptional-com)
+
+Adaptional is an AI-powered claims review platform that reads claims data, notes, and documents to continuously audit files for compliance, coverage, leakage, reserves, service quality, and subrogation, mainly for insurance claims and underwriting teams. For claims managers, adjusters, and underwriters, this can shift quality assurance from small manual samples to real-time review of every file so issues are found while decisions can still be corrected.
+
+**Suitable roles:** Financial Analyst, Project Management Officer, COO
+
+#### [Adept](https://www.aimyflow.com/en/ai/adept-ai)
+
+Adept is an enterprise AI platform for building agentic workflows that automate manual, repetitive tasks across websites and software applications, mainly for teams deploying AI across business operations. For operations, finance, supply chain, and similar functions, it can reduce time spent navigating web tools, extracting document data, and completing multi-step processes while keeping humans involved where needed.
+
+**Suitable roles:** COO, Project Management Officer, Financial Planning & Analysis Manager, Logistics Operations Planner, Healthcare Administrator
 
 #### [AdMake AI](https://www.aimyflow.com/en/ai/admakeai-com)
 
@@ -247,6 +319,12 @@ AdMake AI is an AI advertising platform that helps marketers, small businesses, 
 Adobe Podcast is a web-based AI audio recording and editing tool that helps users record, transcribe, enhance, and share spoken content, mainly for podcasters, creators, and teams producing voice media. It reduces cleanup and editing time, letting audio producers and marketers publish clearer content faster.
 
 **Suitable roles:** Content Creator, Media Communicators, Writers and Authors, Other Arts Roles, Postsecondary Teachers, School Teachers +22 more
+
+#### [Adobe Podcast](https://www.aimyflow.com/en/ai/podcast-adobe-com-en)
+
+Adobe Podcast is a web-based AI audio recording and editing tool that helps users record, transcribe, enhance, caption, and edit spoken audio and video, mainly for podcasters and voice creators. Its browser-based transcription, noise removal, and microphone setup tools can help audio producers, editors, and social media teams create cleaner recordings and faster publish-ready content.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Content Creator, Voice Actor, Copywriter
 
 #### [Adscriptly](https://www.aimyflow.com/en/ai/adscriptly-com)
 
@@ -278,17 +356,35 @@ AdsTurbo is an AI video ad generator that helps e-commerce brands, growth teams,
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator, Ecommerce Seller
 
+#### [Affil.ai](https://www.aimyflow.com/en/ai/affil-ai)
+
+Affil.ai is an AI-powered compliance and monitoring tool for affiliate marketing that helps businesses track third-party content, detect brand and policy issues, and oversee external campaigns, especially for brands, networks, and affiliate teams in regulated environments. By using AI to understand page context rather than fixed rules, it can reduce manual review and improve how compliance, marketing, and partnership teams manage changing affiliate content.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Field Sales Manager, Project Management Officer, CEO
+
 #### [Affint](https://www.aimyflow.com/en/ai/affint-ai)
 
 Affint is an AI office suite that helps teams and working professionals create presentations, documents, and spreadsheets by connecting business apps, gathering information, and automating content creation and workflows. For marketing, product, and sales teams, it can reduce manual research and context switching so they can produce branded deliverables and make faster, data-informed decisions.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Project Management Officer, CEO, COO
 
+#### [AfterQuery](https://www.aimyflow.com/en/ai/afterquery-com)
+
+AfterQuery is an applied AI research lab that creates curated training data and custom datasets to help foundation model teams improve model performance, mainly for AI researchers and enterprises building advanced models. In the AI era, high-quality expert-crafted data can help research, ML, and engineering teams train, evaluate, and refine reasoning, coding, and computer-use systems more reliably.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Software Development Manager, CEO
+
 #### [Agenda Hero Magic](https://www.aimyflow.com/en/ai/agendahero-com-magic)
 
 Agenda Hero Magic is an AI scheduling tool that turns text, images, and PDFs into calendar events users can send to themselves, mainly for people who need to capture schedules quickly from unstructured information. For assistants, coordinators, and other time-management roles, it can reduce manual calendar entry and speed up converting shared documents or messages into usable schedules.
 
 **Suitable roles:** Project Management Officer, Branch Office Manager, COO, Nonprofit Program Manager, School Counselor
+
+#### [Agent](https://www.aimyflow.com/en/ai/gptagent-com-home-base)
+
+Agent is a no-code AI app builder that helps users create and publish natural language web apps, Discord bots, and workflow automations in minutes, mainly for people who want to turn prompts and app ideas into deployable tools without coding. For product, operations, and community teams, it can speed up prototyping and automate language-based tasks by combining LLM blocks with web search, HTTP requests, and shareable interfaces.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, COO, Content Creator, Software Engineer
 
 #### [Agent37](https://www.aimyflow.com/en/ai/agent37-com)
 
@@ -307,6 +403,12 @@ AgentBro is an AI phone receptionist that answers inbound business calls 24/7, b
 AgentDesk is an AI ticket management and workflow automation tool that reads code, investigates issues, writes fixes, runs tests, and opens pull requests for software teams using Jira and Git-based development workflows. For developers, engineering managers, and IT teams, it can reduce manual triage and speed ticket resolution by turning routine backlog items into review-ready code changes.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Agentin](https://www.aimyflow.com/en/ai/agentin-ai)
+
+Agentin is an AI agent platform that operates Quote-to-Cash and Procure-to-Pay workflows across enterprise systems like SAP, Salesforce, NetSuite, ServiceNow, Workday, and Dynamics, mainly for finance, revenue operations, procurement, and supply chain teams. In AI-driven operations, it can help these functions reduce manual cross-system coordination by monitoring workflows, identifying issues, and recommending or executing actions with human oversight.
+
+**Suitable roles:** COO, CFO, Logistics Operations Planner, Project Management Officer, IT Infrastructure Manager
 
 #### [Agentleader](https://www.aimyflow.com/en/ai/agentleader-io)
 
@@ -332,6 +434,12 @@ Aha is an AI influencer marketing assistant that helps companies manage creator 
 
 **Suitable roles:** Digital Marketing Director, Marketing and Sales Managers, Top Executives, CEO
 
+#### [Ahrefs AI Content Helper](https://www.aimyflow.com/en/ai/ahrefs-com-ai-content-helper)
+
+Ahrefs AI Content Helper is an AI-assisted content editor that helps marketers, SEO professionals, and content teams research, write, and optimize articles to match search intent, cover topical gaps, and improve visibility in search engines and AI chatbots. As AI discovery influences content performance, it can help SEO and content roles produce more comprehensive, citation-friendly pages that align with both ranking signals and AI answer generation.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, Social Media Content Creator
+
 #### [Ahrefs Free AI Plagiarism Checker](https://www.aimyflow.com/en/ai/ahrefs-com-writing-tools-plagiarism-checker)
 
 Ahrefs Free AI Plagiarism Checker is a writing tool that scans text or TXT files for plagiarism and provides a detailed originality report, mainly for content creators, writers, publishers, educators, students, and business teams. In AI-assisted writing workflows, it helps editors, teachers, and marketers verify originality before publishing or submission, reducing unintentional duplication in content and professional documents.
@@ -356,17 +464,35 @@ AI ASMR is an AI video generator that turns short text prompts into relaxation-f
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Voice Actor
 
+#### [AI at Meta Resources](https://www.aimyflow.com/en/ai/ai-facebook-com-tools)
+
+AI at Meta Resources is a collection of open-source frameworks, tools, libraries, datasets, models, demos, system cards, and publications that helps researchers and developers explore AI research and move toward large-scale production deployment. For AI researchers, ML engineers, and software developers, it can speed model evaluation, development, and responsible deployment by pairing technical assets with benchmarks and system documentation.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Data Engineer, IT Infrastructure Manager
+
 #### [AI Avatar Generator](https://www.aimyflow.com/en/ai/ai-avatar-art)
 
 AI Avatar Generator is an AI video tool that turns photos or videos into talking avatar videos with lip-sync, text-to-speech, and 40+ language support, mainly for marketers, trainers, creators, and professionals making presentations or promotional content. It can help content, training, and support teams produce multilingual video assets faster and update messages by editing text instead of reshooting footage.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Corporate Leadership Coach, Technical Writer, Content Creator
 
+#### [AI Baby Dance](https://www.aimyflow.com/en/ai/aibabydance-app)
+
+AI Baby Dance is a browser-based AI video generator that turns a single portrait photo into a short dancing MP4 using selectable motion templates, mainly for social media creators and casual users making shareable clips. For content and marketing teams, it can speed up lightweight video production by turning still images into trend-ready short-form assets without traditional editing.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, CEO
+
 #### [AI Baby Dance Generator](https://www.aimyflow.com/en/ai/aibabydance-com)
 
 AI Baby Dance Generator is an online AI tool that turns a baby photo into a short dancing video using templates or uploaded dance references, mainly for parents creating social clips or family keepsakes. In AI-driven content workflows, it helps social media creators and family content makers produce shareable short-form videos faster without video editing skills.
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Copywriter, Graphic Designer
+
+#### [AI Baby Generator](https://www.aimyflow.com/en/ai/aibabygenerator-ai)
+
+AI Baby Generator is an online tool that creates a realistic image of a potential future child from two uploaded parent photos, mainly for couples and expecting parents who want a quick visual prediction. For family-oriented creators, marketers, and support teams, AI image generation like this can streamline personalized visual content while reducing the need for manual photo editing.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Digital Marketing Director
 
 #### [AI Blaze](https://www.aimyflow.com/en/ai/blaze-today-aiblaze)
 
@@ -398,17 +524,35 @@ AI Color Analysis is an online AI styling tool that analyzes a uploaded photo to
 
 **Suitable roles:** Fashion Designer, Content Creator, Ecommerce Seller, Graphic Designer
 
+#### [AI Convert Hub](https://www.aimyflow.com/en/ai/aiconverthub-com)
+
+AI Convert Hub is an online file converter that helps users batch convert and compress video, audio, and image files with codec-aware controls and support for 200+ formats, mainly for creators, developers, and other people handling media files in a browser. In AI-era content workflows, it can help content teams and web developers prepare lighter, format-ready assets faster while retaining quality and reducing manual encoding work.
+
+**Suitable roles:** Content Creator, Software Engineer, Digital Marketing Director, Graphic Designer, Technical Writer
+
 #### [AI Diagram Maker](https://www.aimyflow.com/en/ai/aidiagrammaker-com)
 
 AI Diagram Maker is an AI diagramming tool that helps developers and software teams create, edit, and export software architecture, UML, sequence, ERD, and flow diagrams from plain English, code, repositories, images, or notes. For software architects, backend engineers, and technical leads, it can speed documentation and design reviews by turning evolving system ideas into editable diagrams directly within modern development workflows.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Project Management Officer, Data Engineer
 
+#### [AI Dog Dancing App](https://www.aimyflow.com/en/ai/aidogdancing-app)
+
+AI Dog Dancing App is a browser-based AI tool that turns a single dog or cat photo into a short dancing video or loopable GIF, mainly for social media creators and people making memes or pet content. In AI-driven content workflows, it can help social media managers and creators quickly produce lightweight MP4 or GIF assets for TikTok, Reels, Shorts, chats, and comment threads.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter, Food Enthusiast
+
 #### [AI Dubbing](https://www.aimyflow.com/en/ai/aidubbing-io)
 
 AI Dubbing is a free online video dubbing tool that helps users translate videos, generate multilingual voiceovers, add subtitles, and apply lip-sync, mainly for creators, educators, marketers, and training teams. For video production, localization, and content operations professionals, it can speed multilingual publishing by automating transcription, dubbing, and subtitle workflows in one browser-based process.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Teacher, Corporate Leadership Coach, Technical Writer
+
+#### [AI Dungeon](https://www.aimyflow.com/en/ai/play-aidungeon-io)
+
+AI Dungeon is an AI-powered text adventure platform that helps players create and explore infinitely generated interactive stories, mainly for gamers, roleplayers, and creative writers. For writers and narrative designers, it can speed up brainstorming and scenario prototyping by generating branching story ideas and character-driven prompts on demand.
+
+**Suitable roles:** Fiction Writer, Content Creator, Music Lover
 
 #### [AI Ease](https://www.aimyflow.com/en/ai/aiease-ai)
 
@@ -427,6 +571,12 @@ AI Excel Translator is a web-based AI tool that translates Excel and CSV files i
 AI Face Swap is a browser-based face swapping tool that helps casual creators instantly edit photos online without sign-up. In the AI era, it makes lightweight visual experimentation faster and more accessible for entertainment and social content use.
 
 **Suitable roles:** Content Creator, Information Technology Managers, Computer Occupations, Media Communicators, Entertainment & Sports Workers, Other Arts Roles +9 more
+
+#### [AI Flowchart](https://www.aimyflow.com/en/ai/aiflowchart-org)
+
+AI Flowchart is a free AI flowchart generator that turns text, notes, SOPs, sketches, screenshots, or code logic into editable flowcharts, mainly for teams mapping product, operations, support, finance, QA, engineering, and data workflows. For process owners, analysts, and technical teams, it can speed up documenting and refining workflow logic by converting messy source material into diagrams they can edit and export for handoffs.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, Financial Analyst, Data Engineer, Logistics Operations Planner
 
 #### [AI Formatter](https://www.aimyflow.com/en/ai/aiformatter-net)
 
@@ -499,6 +649,12 @@ AI Interview Copilot is an AI-powered job interview assistant for candidates, es
 AI Jewelry Model is an AI jewelry photography and virtual try-on tool that turns product photos into realistic model-on images for ecommerce sellers on Etsy, Shopify, TikTok Shop, Amazon Handmade, and similar marketplaces. It can help online store operators, marketers, and merchandisers create faster listing visuals, ad variations, and consistent image sets without arranging traditional jewelry photoshoots.
 
 **Suitable roles:** Ecommerce Seller, Digital Marketing Director, Content Creator, Graphic Designer, Copywriter
+
+#### [AI Jingle Maker](https://www.aimyflow.com/en/ai/aijinglemaker-net)
+
+AI Jingle Maker is an AI audio tool that turns short text into radio jingles, station IDs, intros, sponsor tags, and podcast opens with AI voice, music, and broadcast-ready MP3 export, mainly for radio stations, podcasters, DJs, and audio marketers. In AI-assisted audio production, it can help producers and promo teams create consistent branded sound assets faster while reducing manual voice, music, and mixing work.
+
+**Suitable roles:** Podcast Producer, Content Creator, Social Media Content Creator, Copywriter, Concert Promoter
 
 #### [AI Kirkify](https://www.aimyflow.com/en/ai/aikirkify-com)
 
@@ -596,6 +752,18 @@ AI Photo Editor is an AI image generation and editing platform that helps users 
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Digital Marketing Director, Ecommerce Seller
 
+#### [AI Photo Enhancer](https://www.aimyflow.com/en/ai/aiphotoenhancer-pro)
+
+AI Photo Enhancer is an online AI image upscaler and photo quality tool that sharpens, denoises, deblurs, color-corrects, and raises image resolution up to 4K for people who want quick, browser-based photo improvement with minimal editing effort. For photographers, designers, marketers, and e-commerce teams, it can speed up preparation of clearer visuals for web, print, and listings by automating common enhancement tasks.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Real Estate Agent
+
+#### [AI Photo Generation Guide](https://www.aimyflow.com/en/ai/aiphotos-ai)
+
+AI Photo Generation Guide is an educational article from BottleneckCalculator.biz that explains AI photo creation concepts, techniques, tools, and hardware needs for people learning digital art and AI image generation. For digital artists, photographers, and creative technologists, it can improve AI-era workflow decisions by clarifying prompt methods, advanced image editing approaches, and the system requirements needed to run these models efficiently.
+
+**Suitable roles:** Graphic Designer, Content Creator, Software Engineer, Technical Writer
+
 #### [AI Picture Generator](https://www.aimyflow.com/en/ai/aipicturegenerator-ai)
 
 AI Picture Generator is an AI image creation and editing tool that turns text prompts or reference photos into images, variations, and short videos, mainly for creators, marketers, designers, and e-commerce teams. In AI-driven content workflows, it can help marketing and design professionals test more visual options quickly, maintain brand consistency, and move faster from concept to production-ready assets.
@@ -656,17 +824,53 @@ AI Studios is an AI video generator that helps users create, edit, dub, translat
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Corporate Leadership Coach, Social Media Content Creator, Education Technology Consultant
 
+#### [AI Studios by DeepBrain AI](https://www.aimyflow.com/en/ai/deepbrain-io-aistudios)
+
+AI Studios by DeepBrain AI is an AI video generator that helps users create, edit, dub, translate, and publish videos from text, documents, URLs, images, or clips using AI avatars, templates, and multilingual voice tools, mainly for training teams, marketers, and content creators. In AI-driven video workflows, it can help learning and marketing professionals scale localized, on-brand video production faster while reducing manual scripting, dubbing, and editing work.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Education Technology Consultant, Social Media Content Creator, Teacher
+
 #### [AI Subtitle Translator](https://www.aimyflow.com/en/ai/aisubtitletranslator-com)
 
 AI Subtitle Translator is an online tool that uses AI to translate subtitle files in formats like SRT, VTT, ASS, and SBV into 50+ languages, mainly for content creators, video publishers, and localization teams. In AI-driven video workflows, it can help these professionals localize subtitle assets faster across multiple languages while reducing manual file handling.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Technical Writer, Digital Marketing Director
 
+#### [AI Subtitle Translator](https://www.aimyflow.com/en/ai/aisubtitletranslator-net)
+
+AI Subtitle Translator is an online subtitle localization tool that translates subtitle files in formats like SRT, VTT, ASS, SSA, SUB, SBV, LRC, and SMI while preserving timing and cue structure, mainly for subtitle localization teams and video workflow users. For translators, localization specialists, and video editors, it can reduce manual subtitle cleanup by producing more natural target-language phrasing that better fits scenes and dialogue.
+
+**Suitable roles:** Content Creator, Copywriter, Technical Writer, Social Media Content Creator, Podcast Producer
+
+#### [AI Summarizer](https://www.aimyflow.com/en/ai/summarizer-org)
+
+AI Summarizer is a text summarization tool that condenses text, articles, essays, research papers, URLs, and some files or images into paragraph, bullet-point, or custom summaries, mainly for students, researchers, and other people working with long documents. In AI-assisted workflows, it can help writers, academics, and analysts review large volumes of source material faster while keeping key points and original context visible.
+
+**Suitable roles:** Technical Writer, Copywriter, College Professor, Financial Analyst, Teacher
+
+#### [AI Table Talk](https://www.aimyflow.com/en/ai/tabletalk-ai)
+
+AI Table Talk is an AI phone assistant for restaurants that answers calls 24/7, manages reservations and orders, provides guest information, and routes complex requests to staff. For restaurant managers, hosts, and servers, it can reduce missed calls and no-shows while letting front-of-house teams focus more on in-person service.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, Food Enthusiast, CEO
+
+#### [AI Takeaway](https://www.aimyflow.com/en/ai/aitakeaway-net)
+
+AI Takeaway is an AI and investing learning hub that turns long-form YouTube videos into summaries, transcript chat, visual notes, and saved takeaways for learners, investors, founders, and builders. For investors and operators tracking fast-moving AI topics, it can shorten research time by making expert video content easier to search, question, and review.
+
+**Suitable roles:** Financial Analyst, CEO, CFO, Software Development Manager, Project Management Officer
+
 #### [AI Talking Baby Podcast Video Generator](https://www.aimyflow.com/en/ai/fluxproweb-com-ai-talking-baby)
 
 AI Talking Baby Podcast Video Generator is an AI video tool that turns a baby photo plus text or audio into short talking baby videos with lip sync, voice, and animated expressions, mainly for families, content creators, educators, and brand marketers. For social media, education, and marketing teams, it can speed up production of character-led video content without traditional animation or editing work.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Teacher
+
+#### [AI Tattoo Cover Up Generator](https://www.aimyflow.com/en/ai/tattoocoverup-ai)
+
+AI Tattoo Cover Up Generator is an AI tool that helps people with unwanted or outdated tattoos upload a photo, select the area, and generate preview cover-up design ideas in different styles before consulting a tattoo artist. For tattoo artists and studios, it can speed up cover-up planning by giving clients clearer visual references and more workable starting concepts.
+
+**Suitable roles:** Graphic Designer, Interior Designer, Content Creator
 
 #### [AI UGC Video Generator](https://www.aimyflow.com/en/ai/aiugcvideogen-com)
 
@@ -716,11 +920,29 @@ AI Voice Generator is an online text-to-speech tool that helps users convert tex
 
 **Suitable roles:** Content Creator, Podcast Producer, Copywriter, Teacher, Education Technology Consultant
 
+#### [AI-Writer.com](https://www.aimyflow.com/en/ai/ai-writer-com)
+
+AI-Writer.com is an AI research and writing tool that answers questions using scientific literature with verifiable citations and bibliography support, mainly for academics, researchers, and industry users who need trusted source-backed writing. In AI-assisted research workflows, it can help researchers, analysts, and technical writers work faster while checking claims against exact papers and source paragraphs.
+
+**Suitable roles:** Technical Writer, Data Scientist, Financial Analyst, College Professor, Teacher
+
 #### [AI.Blogue](https://www.aimyflow.com/en/ai/aiblogue-com)
 
 AI.Blogue is an AI blogging platform that helps creators and marketers write, publish, and grow blogs with content aimed to connect with readers and support LLM SEO for modern AI search. For content marketers, SEO specialists, and independent publishers, it can streamline article production while improving discoverability in AI-driven search environments.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator, Technical Writer
+
+#### [AI21](https://www.aimyflow.com/en/ai/ai21-com)
+
+AI21 is an enterprise AI platform that provides foundation models, orchestration systems, and custom AI solutions to help organizations build accurate, reliable, and scalable AI workflows, mainly for enterprise teams in industries such as finance, healthcare, manufacturing, tech, and defense. For AI, operations, and domain teams, its emphasis on validation, traceability, and long-context processing can support more dependable automation and decision support in complex, regulated work.
+
+**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Project Management Officer, COO, Healthcare Administrator
+
+#### [AI2SQL](https://www.aimyflow.com/en/ai/ai2sql-io)
+
+AI2SQL is an AI-powered SQL query builder and database assistant that turns natural language into SQL or NoSQL queries, and also helps explain, fix, optimize, validate, and format queries for beginners, analysts, developers, and database users. In AI-assisted data work, it can help analysts, engineers, and SQL learners move faster from questions to usable queries while reducing time spent on syntax and troubleshooting.
+
+**Suitable roles:** Data Engineer, Software Engineer, Technical Writer
 
 #### [AIAI Image to Image Generator](https://www.aimyflow.com/en/ai/aiai-com-image-ai-image-to-image-generator)
 
@@ -749,6 +971,12 @@ Aiarty Image Matting is an AI image matting and background editing tool that hel
 AiAssistWorks is an AI add-on suite for Google Sheets, Docs, and Slides that helps users generate documents and slides, fill spreadsheets in bulk, analyze data, and use multiple AI providers, mainly for spreadsheet-heavy teams, analysts, and content professionals. In AI-assisted workflows, it can help operations, research, and content roles scale repetitive document and spreadsheet tasks while keeping model choice and API spending under their control.
 
 **Suitable roles:** Financial Analyst, Content Creator, Project Management Officer, Digital Marketing Director, Logistics Operations Planner
+
+#### [AiBERT](https://www.aimyflow.com/en/ai/aibert-co)
+
+AiBERT is a WhatsApp-based AI assistant that helps users generate text, images, voice replies, transcriptions, and PDF summaries inside chat, mainly for people who want AI tools without installing a separate app. For marketers, creators, and busy knowledge workers, it can speed up everyday content, media, and document tasks directly in the messaging workflow they already use.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Technical Writer, Project Management Officer
 
 #### [Aicotravel](https://www.aimyflow.com/en/ai/aicotravel-com)
 
@@ -796,6 +1024,12 @@ AIDesigner is an AI UI and UX design tool that helps users generate editable web
 
 **Suitable roles:** Graphic Designer, CEO, Digital Marketing Director, Software Development Manager, Content Creator
 
+#### [AIGC工具导航](https://www.aimyflow.com/en/ai/aigc-cn)
+
+AIGC工具导航 is a Chinese directory of generative AI tools that helps users quickly find categorized tools for writing, image generation, video creation, office work, design, development, and learning, mainly for creators, office workers, students, and developers. For content, design, and knowledge-work teams, a broad AI tool directory can shorten tool discovery and comparison so they can build faster, role-specific workflows as AI tasks become more specialized.
+
+**Suitable roles:** Content Creator, Software Engineer, Graphic Designer, Digital Marketing Director, Teacher
+
 #### [AIHumanizer](https://www.aimyflow.com/en/ai/aihumanizer-work)
 
 AIHumanizer is a free online AI-to-human text converter and rewriter that helps users turn stiff AI-generated writing into more natural, readable text, mainly for students, writers, marketers, and business professionals. For content, academic, and communications work, it can speed up editing by refining tone and readability while helping teams review AI-assisted drafts more efficiently.
@@ -831,6 +1065,12 @@ AILandingPage is an AI landing page builder that helps businesses and marketers 
 ailightdesign is an AI outdoor lighting design tool that helps homeowners visualize patio, backyard, poolside, driveway, and garden lighting ideas on their own photos and generate multiple design options. For homeowners and lighting design professionals, this kind of AI preview can speed concept testing, reduce guesswork, and support clearer decisions before installation.
 
 **Suitable roles:** Interior Designer, Residential Architect, Real Estate Agent, Graphic Designer
+
+#### [Aim Writing](https://www.aimyflow.com/en/ai/aimwriting-mtutor-engkoo-com)
+
+Aim Writing is a Microsoft writing assistant that helps users draft, upload, review, and improve written work with error correction, wording suggestions, scoring, and structured feedback, mainly for students and learners practicing writing. In AI-supported writing instruction, it can help teachers and education teams give more consistent feedback while helping learners revise more efficiently.
+
+**Suitable roles:** Teacher, Education Technology Consultant, Test Prep Tutor, College Professor, Community College Instructor
 
 #### [aimag.me](https://www.aimyflow.com/en/ai/aimag-me)
 
@@ -874,6 +1114,12 @@ AIPose is an AI pose generation and reference tool that helps artists, designers
 
 **Suitable roles:** Software Engineer, Data Scientist, Computer Occupations, Information Technology Managers, Health Practitioners, Retail Store Operations Coordinator +3 more
 
+#### [AIPRM](https://www.aimyflow.com/en/ai/aiprm-com)
+
+AIPRM is a prompt management tool and community-driven prompt library for ChatGPT, Claude, and other AI models that helps small businesses and teams complete marketing, sales, operations, productivity, and customer support tasks with reusable public and private prompts. In AI-assisted workflows, it can help marketers, sales teams, and operations staff standardize prompting, reduce repetitive setup work, and get more consistent outputs across common tasks.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Project Management Officer, Software Development Manager
+
 #### [Aiqbee](https://www.aimyflow.com/en/ai/aiqbee-com)
 
 Aiqbee is an enterprise AI memory platform that gives any LLM or AI tool persistent organizational context by centralizing company knowledge, connecting it to tools like Teams and IDEs, and adding governance controls, mainly for businesses managing AI use across teams. For IT, operations, support, and development functions, it can reduce repeated prompting and improve consistency by making shared knowledge available across approved AI workflows.
@@ -885,6 +1131,12 @@ Aiqbee is an enterprise AI memory platform that gives any LLM or AI tool persist
 Airbrush AI Background Remover is an online image editing tool that automatically removes photo backgrounds, creates transparent PNGs, and lets users change background colors or replace backgrounds, mainly for people editing social media, product, art, or website images. For marketers, ecommerce teams, and content creators, it speeds up production of cleaner visuals for ads, listings, and posts without manual background editing.
 
 **Suitable roles:** Content Creator, Ecommerce Seller, Digital Marketing Director, Graphic Designer, Social Media Content Creator
+
+#### [AirCaps](https://www.aimyflow.com/en/ai/aircaps-com)
+
+AirCaps is a lightweight pair of smart glasses that shows real-time captions, translates 60+ languages, and provides AI meeting notes and speaker identification for people who are Deaf or hard of hearing, international travelers, and professionals. For sales reps, doctors, executives, and lawyers, its in-view transcription and searchable meeting history can reduce missed details and make conversations easier to review and act on.
+
+**Suitable roles:** Field Sales Manager, Lawyer, CEO, Family Doctor, Healthcare Administrator
 
 #### [AIReel](https://www.aimyflow.com/en/ai/aireel-net)
 
@@ -902,6 +1154,12 @@ AirMusic is an AI music generator and editing platform that helps users create o
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Digital Marketing Director, Music Lover
 
+#### [AirOps](https://www.aimyflow.com/en/ai/airops-com)
+
+AirOps is an end-to-end content engineering platform that helps brands plan, create, refresh, and optimize content for AI and traditional search, mainly for content, SEO, and marketing teams. In AI-driven discovery, it can help these teams combine search insights, brand governance, and human review to produce content that is more consistent, scalable, and easier for AI systems to cite.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Social Media Content Creator, CEO
+
 #### [Airtable Platform](https://www.aimyflow.com/en/ai/airtable-com-platform)
 
 Airtable Platform is a no-code app platform that helps operations and cross-functional teams build business apps, connect data, and automate workflows with AI. In the AI era, it lets knowledge workers turn structured information into scalable systems without heavy engineering support.
@@ -913,6 +1171,12 @@ Airtable Platform is a no-code app platform that helps operations and cross-func
 AIscan24 is a free AI text detector that checks pasted text for statistical similarity to AI-generated or rewritten content from tools like ChatGPT, Gemini, or Claude, mainly for people who need a quick estimate without sign-up. For educators, editors, and reviewers, it can support faster screening of submitted writing while preserving data privacy by evaluating text on a German server and deleting it after analysis.
 
 **Suitable roles:** Teacher, Technical Writer, College Professor, Copywriter, School Counselor
+
+#### [AiShort](https://www.aimyflow.com/en/ai/ai-newzone-top)
+
+AiShort is an AI prompt library and agent platform that helps users find, copy, share, and apply prompt templates for tasks such as writing, coding, translation, and image generation, mainly for AI users, knowledge workers, and creators. In AI-driven workflows, it can help writers, developers, marketers, and students standardize better prompts so they get more relevant outputs with less trial and error.
+
+**Suitable roles:** Software Engineer, Copywriter, Digital Marketing Director, Content Creator, Technical Writer
 
 #### [Aiso](https://www.aimyflow.com/en/ai/getaiso-com)
 
@@ -974,11 +1238,23 @@ AIWriteBook is an AI book-writing and publishing platform that helps authors cre
 
 **Suitable roles:** Fiction Writer, Content Creator, Copywriter, Graphic Designer, Voice Actor
 
+#### [aiXcoder](https://www.aimyflow.com/en/ai/aixcoder-com)
+
+aiXcoder is an AI software development tool and coding assistant that helps developers and enterprises generate code, autocomplete code, search code intelligently, and support private deployment and customized code models. For software engineers and enterprise development teams, it can reduce manual coding effort and speed code production by predicting intent and supplying context-aware code suggestions.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer
+
 #### [Akazila](https://www.aimyflow.com/en/ai/akazila-com)
 
 Akazila is an AI text humanization tool that helps content creators, marketers, business professionals, and non-native English users turn AI-generated writing into more natural, engaging text while preserving meaning. In AI-assisted writing workflows, it can help writers and marketers produce clearer, more credible drafts that better match human tone across articles, emails, and promotional content.
 
 **Suitable roles:** Copywriter, Digital Marketing Director, Technical Writer, Content Creator, CEO
+
+#### [Akkio](https://www.aimyflow.com/en/ai/akkio-com)
+
+Akkio is an AI workflow automation platform that helps media agencies understand campaign data across workflows and act on it more quickly for client work. In AI-driven marketing operations, it can help media planners, analysts, and account teams turn fragmented campaign data into faster decisions and more consistent execution.
+
+**Suitable roles:** Digital Marketing Director, Financial Analyst, Project Management Officer, Software Development Manager, Data Scientist
 
 #### [Alai](https://www.aimyflow.com/en/ai/getalai-com)
 
@@ -986,11 +1262,51 @@ Alai is an AI presentation maker that helps users turn content, PDFs, or PowerPo
 
 **Suitable roles:** CEO, Project Management Officer, Software Development Manager, Technical Writer, Copywriter
 
+#### [Aleph AI](https://www.aimyflow.com/en/ai/alephai-app)
+
+Aleph AI is an AI video generator and editor that helps users create or modify short videos from text, images, and natural-language prompts, mainly for creators and professionals who need precise control over camera motion, objects, effects, and style. For video editors, marketers, and content teams, it can speed concept testing and scene revisions by turning prompt-based changes into usable video outputs without relying on traditional timeline-heavy editing workflows.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Social Media Content Creator, Copywriter
+
+#### [Aleph Kids](https://www.aimyflow.com/en/ai/alephlab-ai)
+
+Aleph Kids is an AI language-learning companion inside Minecraft that helps children practice a new language through chat and play, mainly for kids and their parents seeking a safe, engaging way to build speaking skills. For language educators and parents, it shows how AI can turn familiar game environments into consistent, low-pressure conversation practice that supports confidence and natural language acquisition.
+
+**Suitable roles:** Teacher, School Counselor, Education Technology Consultant, Test Prep Tutor, Online Coding Tutor
+
+#### [Alethea AI](https://www.aimyflow.com/en/ai/alethea-ai)
+
+Alethea AI is a research and development studio focused on generative AI and blockchain, offering EMOTE-1 to help organizations create customized video agents for education, marketing, and community engagement. For marketers, educators, and community teams, this can make AI-driven interactions more consistent and character-led across digital experiences.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, Education Technology Consultant, Social Media Content Creator, Teacher
+
+#### [Alibaba Cloud](https://www.aimyflow.com/en/ai/ai-aliyun-com-index)
+
+Alibaba Cloud is a cloud platform that provides computing, storage, networking, databases, big data, security, and AI products, including AI development and large model services, mainly for developers and enterprises building cloud and AI applications. In AI-driven workflows, it can help engineers, data teams, and IT operators develop, deploy, scale, and govern models and infrastructure more efficiently across the full lifecycle.
+
+**Suitable roles:** Software Engineer, IT Infrastructure Manager, Data Engineer, Cybersecurity Manager, Software Development Manager
+
+#### [Alice](https://www.aimyflow.com/en/ai/alice-tech)
+
+Alice is an AI study platform that turns uploaded course materials into structured learning paths, quizzes, flashcards, and exam practice to help students, especially university students, study with more organization, motivation, and less stress. For students and academic support roles, it can streamline revision by surfacing key topics, tracking progress, and focusing practice on weak areas rather than manual note sorting.
+
+**Suitable roles:** Test Prep Tutor, College Professor, School Counselor, Education Technology Consultant, Teacher
+
 #### [Alice](https://www.aimyflow.com/en/ai/heyalice-app)
 
 Alice is a native desktop AI assistant app that helps users chat with multiple AI models, create custom assistants, and automate tasks across their operating system and connected software, mainly for professionals who want faster, personalized workflows. In AI-enabled work, it can help roles like sales, operations, engineering, and content teams reduce repetitive app-switching by turning saved prompts, context, and actions into repeatable commands.
 
 **Suitable roles:** Software Engineer, Project Management Officer, Digital Marketing Director, Field Sales Manager, COO
+
+#### [AliGenie](https://www.aimyflow.com/en/ai/aligenie-com)
+
+AliGenie is Tmall Genie’s open platform, providing voice development, IoT device control, AI capability integration, and content access tools for hardware makers, IoT developers, app teams, and content providers building within Alibaba’s ecosystem. For product, IoT, and voice interface teams, it can streamline smart device deployment and voice-enabled experiences by combining device access, SDK-based AI functions, and ecosystem distribution in one platform.
+
+**Suitable roles:** Software Engineer, Electrical Engineer, Project Management Officer, IT Infrastructure Manager, Data Engineer
+
+#### [alkaid.art](https://www.aimyflow.com/en/ai/alkaid-art)
+
+alkaid.art is currently unreachable due to a Cloudflare 522 connection timeout, so its purpose, features, and intended users cannot be verified from the available page information. For web administrators and site owners, resolving this kind of origin server timeout is important because AI-driven discovery and automation depend on reliable site availability to access and process content.
 
 #### [All Voice Lab](https://www.aimyflow.com/en/ai/allvoicelab-com)
 
@@ -1009,6 +1325,16 @@ Allex.ai is an AI-supported project management platform that helps manage comple
 AllMind AI is an investment analysis platform that helps traders and investors access real-time stock insights, market analysis, and AI-supported strategy guidance. In the AI era, it helps analysts process market signals faster and scale research workflows more efficiently.
 
 **Suitable roles:** Financial Analyst
+
+#### [allsearch.ai](https://www.aimyflow.com/en/ai/allsearch-ai)
+
+allsearch.ai is a domain name listed for sale through GoDaddy, helping buyers make offers and complete secure domain transfers, mainly for businesses or individuals seeking this specific web address. For marketing, brand, and digital strategy teams, securing a relevant AI-branded domain can support clearer positioning and improve discoverability in AI-focused markets.
+
+#### [Allus AI](https://www.aimyflow.com/en/ai/allus-ai)
+
+Allus AI is a vision foundation model and AI platform for manufacturing that helps teams build and deploy industrial inspection, quality assurance, anomaly detection, and process monitoring solutions, mainly for manufacturers and production operations teams. In AI-enabled factories, it can help quality engineers and manufacturing leaders reduce manual inspection work and act on real-time analytics from edge and cloud deployments.
+
+**Suitable roles:** Factory Operations Supervisor, Mechanical Engineer, Electrical Engineer, COO, Software Engineer
 
 #### [Alpha Vision](https://www.aimyflow.com/en/ai/alphavision-ai)
 
@@ -1034,11 +1360,35 @@ Alter AI is an AI headshot generator that turns uploaded selfies into profession
 
 **Suitable roles:** Talent Acquisition Manager, Social Media Content Creator, Content Creator, Copywriter, Real Estate Agent
 
+#### [Alter Vault](https://www.aimyflow.com/en/ai/alterai-dev)
+
+Alter Vault is an authorization layer for AI agents that helps developers and engineering teams securely manage OAuth tokens and API keys, enforce fine-grained access policies, and audit agent API activity. For AI engineers and security-focused developers, it adds the governance needed to let agents use external tools while keeping every action scoped, attributable, and reviewable.
+
+**Suitable roles:** Software Engineer, Cybersecurity Manager, Software Development Manager, IT Infrastructure Manager, Cybersecurity Analyst
+
+#### [Altered](https://www.aimyflow.com/en/ai/altered-ai)
+
+Altered is AI voice changer and voice content creation software that helps users morph, clone, clean, and restore voices for real-time calls and media production, mainly for content creators, media teams, gamers, call centers, and people with voice disfluencies. In AI-assisted audio workflows, it can help voice artists, editors, and support teams produce more natural speech performances while preserving delivery, accent control, and post-production flexibility.
+
+**Suitable roles:** Content Creator, Podcast Producer, Voice Actor, Social Media Content Creator, Technical Writer
+
+#### [Altrina](https://www.aimyflow.com/en/ai/altrina-com)
+
+Altrina is an enterprise workflow automation platform and Chrome extension that connects to websites and applications to automate complex, repetitive business processes, mainly for operations, finance, legal, healthcare, and support teams. In AI-driven operations, it can help these functions reduce manual handoffs and improve traceability by running multi-step workflows through APIs or browser-based actions.
+
+**Suitable roles:** COO, Project Management Officer, Financial Planning & Analysis Manager, Healthcare Administrator, Corporate Tax Manager
+
 #### [AltTextLab](https://www.aimyflow.com/en/ai/alttextlab-com)
 
 AltTextLab is an AI alt text generator that automatically creates SEO-friendly, accessibility-compliant image descriptions for websites and media libraries, mainly for content teams, marketers, developers, and site owners using platforms like WordPress, WooCommerce, Webflow, Craft CMS, Drupal, or a browser extension. In AI-driven publishing workflows, it helps web, e-commerce, and SEO teams scale image accessibility and metadata creation without writing alt text manually for every asset.
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Software Engineer, Content Creator, Graphic Designer
+
+#### [Altur](https://www.aimyflow.com/en/ai/altur-io)
+
+Altur is a voice AI agent platform that automates debt collection and sales call center operations across phone, WhatsApp, and SMS, mainly for teams in debt collection and banking sales in Latin America. Its AI-driven outreach, negotiation, follow-up, and call monitoring can help collections, sales, and operations professionals scale contact and quality control without expanding human call center staffing.
+
+**Suitable roles:** Field Sales Manager, Logistics Operations Planner, COO, Financial Analyst
 
 #### [Alumnium](https://www.aimyflow.com/en/ai/alumnium-ai)
 
@@ -1046,17 +1396,47 @@ Alumnium is an AI-powered test automation tool that translates human-readable te
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Data Engineer
 
+#### [Aluna](https://www.aimyflow.com/en/ai/alunadata-com)
+
+Aluna is a data foundry for life science AI that provides curated datasets and evaluation resources, including oncology benchmarks, pathology images, and multimodal genomic-clinical data, mainly for biomedical AI teams and researchers. In AI workflows, these standardized data assets can help ML scientists, computational biologists, and pathology-focused developers build and compare models with more reliable domain-specific evaluation.
+
+**Suitable roles:** Data Scientist, Data Engineer, Molecular Biologist, Software Engineer, Medical Lab Technician
+
+#### [Am I on AI](https://www.aimyflow.com/en/ai/amionai-com)
+
+Am I on AI is an AI visibility monitoring platform that helps businesses, marketers, and agencies check whether brands are mentioned in ChatGPT, compare visibility against competitors, and get source analysis and action plans to improve recommendations. For SEO, brand, and digital marketing teams, it adds a practical way to measure and improve how AI systems cite and recommend their business across prompts, sources, and markets.
+
+**Suitable roles:** Digital Marketing Director, CEO, Content Creator, Copywriter, Technical Writer
+
 #### [Amazon Connect Health](https://www.aimyflow.com/en/ai/aws-amazon-com-health-connect-health)
 
 Amazon Connect Health is an AWS healthcare AI platform for providers and health technology developers that helps with patient verification, appointment management, patient insights, ambient clinical documentation, and medical coding within existing care workflows. In AI-enabled healthcare operations, it can help clinicians, contact center teams, and coders spend less time on documentation and scheduling while keeping human review and source traceability in place.
 
 **Suitable roles:** Healthcare Administrator, Medical Biller, Home Health Aide, Software Development Manager, IT Infrastructure Manager
 
+#### [Amika](https://www.aimyflow.com/en/ai/amika-dev)
+
+Amika is a multiplayer AI sandbox platform that lets teams run autonomous coding agents in isolated environments to understand codebases, complete tasks, and produce reviewable pull requests, mainly for software teams. For engineering, product, and operations functions, it can shorten handoffs by enabling non-engineers to start scoped work while developers review live previews and merge tested changes.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, COO, IT Infrastructure Manager
+
 #### [Anakin.io](https://www.aimyflow.com/en/ai/anakin-io)
 
 Anakin.io is a web scraping API platform that helps developers and data teams extract website content and structured data as Markdown, JSON, or HTML, including from JavaScript-heavy, protected, and authenticated pages. For AI engineers, analysts, and automation teams, it can streamline RAG pipelines, market research, lead generation, and monitoring by turning web data into cleaner inputs for downstream models and workflows.
 
 **Suitable roles:** Software Engineer, Data Engineer, Data Scientist, Digital Marketing Director, Financial Analyst
+
+#### [Analogenie](https://www.aimyflow.com/en/ai/analogenie-com)
+
+Analogenie is an AI analogy and metaphor generator that helps users turn statements into contextual comparisons to explain ideas more clearly, mainly for writers, copywriters, and other people creating content. In AI-assisted writing workflows, it can help marketers, educators, and business communicators make complex topics easier to understand while drafting faster.
+
+**Suitable roles:** Copywriter, Content Creator, Technical Writer, Digital Marketing Director, College Professor
+
+#### [Andi](https://www.aimyflow.com/en/ai/andisearch-com)
+
+Andi is an AI search assistant that helps users ask questions, find information, and create content with conversational answers instead of just links, mainly for people who want a smarter web search experience. For researchers, writers, and knowledge workers, it can speed up online research and drafting by combining answer generation, source-based discovery, and search shortcuts in one workflow.
+
+**Suitable roles:** Content Creator, Technical Writer, Copywriter, Financial Analyst, Digital Marketing Director
 
 #### [ANDRE](https://www.aimyflow.com/en/ai/andre-ai)
 
@@ -1069,6 +1449,18 @@ ANDRE is an AI survey data analyst that automates cleaning, analysis, and report
 Angel AI is an AI companion platform that lets users create virtual girlfriends, boyfriends, or anime-style agents, chat with them, and generate images, mainly for people seeking personalized romantic or NSFW-style interactions. In the AI era, it shows how conversational design and image generation can support consumer app teams and product designers building interactive, character-driven experiences.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Copywriter
+
+#### [AnimalGenerator.net](https://www.aimyflow.com/en/ai/animalgenerator-net)
+
+AnimalGenerator.net is an AI animal creator and mixer that helps users combine animals, mechs, and fantasy heroes into consistent hybrid characters, comics, and printable coloring pages, mainly for teachers, kids, comic creators, game designers, and illustrators. In AI-assisted creative work, it can speed early ideation and keep character designs visually consistent across panels, which is especially useful for comic, concept art, and classroom storytelling tasks.
+
+**Suitable roles:** Graphic Designer, Content Creator, Teacher, Elementary School Math Teacher, Online Coding Tutor
+
+#### [Anime AI](https://www.aimyflow.com/en/ai/animeai-app)
+
+Anime AI is a free, no-sign-up photo-to-anime image generator that converts single-person portrait photos into anime-style avatars across styles like Naruto, One Piece, Webtoon, and Classic, mainly for anime fans and people creating personalized avatars. For creators and social media users, it can speed up avatar and profile image creation by generating multiple stylized options from one photo with adjustable attributes.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Graphic Designer, Music Lover, Food Enthusiast
 
 #### [AnimeAI](https://www.aimyflow.com/en/ai/genanime-art-en)
 
@@ -1094,11 +1486,29 @@ AnswerThis is an AI research assistant that helps researchers, academics, studen
 
 **Suitable roles:** College Professor, Family Doctor, Technical Writer, Medical Lab Technician, Teacher
 
+#### [Anthropic](https://www.aimyflow.com/en/ai/anthropic-com)
+
+Anthropic is an AI safety and research company that builds Claude and related products to help people and organizations use reliable, interpretable, and steerable AI, mainly for developers, enterprises, and professional teams. For software, research, and operations roles, its focus on safer, controllable models can support higher-trust AI use in coding, analysis, and workflow automation.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CEO, Project Management Officer, IT Infrastructure Manager
+
 #### [Anthropic Healthcare](https://www.aimyflow.com/en/ai/github-com-anthropics-healthcare)
 
 Anthropic Healthcare is a GitHub marketplace repository of Claude Code skills and MCP plugins that helps healthcare developers and operations teams work on FHIR API development, prior authorization review, and clinical trial protocol generation. In AI-assisted workflows, it can help developers, clinical operations staff, and review teams structure healthcare data tasks and use sources like CMS, NPI Registry, and PubMed more consistently.
 
 **Suitable roles:** Software Engineer, Healthcare Administrator, Medical Biller, IT Infrastructure Manager, Project Management Officer
+
+#### [Antiverse](https://www.aimyflow.com/en/ai/antiverse-io)
+
+Antiverse is a machine learning-driven antibody design platform focused on helping drug discovery teams design antibodies for challenging targets in therapeutic development. In AI-enabled biologics R&D, this can help antibody discovery scientists and computational biology teams prioritize candidates more efficiently when tackling hard-to-address targets.
+
+**Suitable roles:** Molecular Biologist, Data Scientist, Medical Lab Technician, Software Engineer
+
+#### [Anto](https://www.aimyflow.com/en/ai/anto-bio)
+
+Anto is a frontier biology AI lab that develops foundation models to make the gut microbiome computable for drug development, mainly for researchers and teams working in computational biology, pharmacology, and medicine. By turning noisy microbiome and multi-omics data into causal signals, it can help drug discovery and clinical research professionals better predict toxicity, efficacy, and intervention outcomes across diverse populations.
+
+**Suitable roles:** Molecular Biologist, Data Scientist, Medical Lab Technician, Healthcare Administrator, Data Engineer
 
 #### [AnveVoice](https://www.aimyflow.com/en/ai/anvevoice-app)
 
@@ -1176,11 +1586,23 @@ Applisights is an AI-powered applicant tracking system and candidate evaluation 
 
 **Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO, COO
 
+#### [Approxima](https://www.aimyflow.com/en/ai/approxima-ai)
+
+Approxima is an AI bug-fixing tool that plugs into CI/CD, tests preview deployments in a real browser on every pull request, and submits validated fixes automatically, mainly for software engineering teams building web or mobile apps. In AI-assisted development workflows, it can help developers, reviewers, and QA functions catch runtime regressions earlier and reduce manual test maintenance before code review.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, Data Engineer
+
 #### [AppWizzy](https://www.aimyflow.com/en/ai/appwizzy-com)
 
 AppWizzy is an AI-powered platform for building and hosting scalable full-stack web apps and websites, aimed mainly at developers, technical founders, and teams creating SaaS, internal tools, and business applications. In AI-assisted software work, its repo-based editing, real cloud development machines, and one-click deployment can help engineering teams move from idea to production faster while keeping standard development workflows.
 
 **Suitable roles:** Software Engineer, Software Development Manager, CEO, IT Infrastructure Manager, Project Management Officer
+
+#### [Aragon.ai](https://www.aimyflow.com/en/ai/aragon-ai)
+
+Aragon.ai is an AI headshot generator that turns a few selfies into studio-quality professional headshots and related photo edits, mainly for professionals, teams, and companies needing consistent business imagery. For recruiters, marketers, HR teams, and individual professionals, it can speed up profile, website, and brand asset creation while keeping visual presentation more uniform across channels.
+
+**Suitable roles:** Talent Acquisition Manager, Digital Marketing Director, Graphic Designer, Social Media Content Creator, CEO
 
 #### [Arcanon](https://www.aimyflow.com/en/ai/arcanon-ai-vercel-app)
 
@@ -1212,11 +1634,23 @@ ArchyBase is an AI design platform for architects and homeowners that turns phot
 
 **Suitable roles:** Interior Designer, Residential Architect, Real Estate Agent, Commercial Architect, Graphic Designer
 
+#### [Arcten](https://www.aimyflow.com/en/ai/arcten-com)
+
+Arcten is a Y Combinator-backed team of AI engineers and researchers that appears to build AI tools or services, mainly for organizations seeking technical AI expertise. In the AI era, specialized teams like this can help engineering and research functions move faster from experimentation to practical deployment.
+
+**Suitable roles:** Software Development Manager, Data Scientist, Software Engineer, CEO, COO
+
 #### [Arka](https://www.aimyflow.com/en/ai/arka-so)
 
 Arka is an AI revenue insights platform that helps revenue teams forecast revenue, detect churn and expansion signals, and automate reporting from connected customer, product, and support data. For customer success, account management, sales, and revenue operations teams, it can speed renewals and account prioritization by turning live data into clearer risk and growth signals.
 
 **Suitable roles:** Field Sales Manager, E-commerce Sales Head, Financial Planning & Analysis Manager, Project Management Officer
+
+#### [Artbreeder](https://www.aimyflow.com/en/ai/artbreeder-com)
+
+Artbreeder is an AI image creation platform that helps users create and edit characters, artworks, and other visuals through collaborative tools like mixing, branching, and shape-based composition, mainly for digital artists and visual creators. For creative professionals, its AI-assisted remixing and image editing can speed up concept development and exploration of visual variations.
+
+**Suitable roles:** Graphic Designer, Content Creator, Social Media Content Creator, Independent Filmmaker, Fashion Designer
 
 #### [Artedge AI](https://www.aimyflow.com/en/ai/artedge-ai)
 
@@ -1224,11 +1658,35 @@ Artedge AI is a free AI photo enhancer that helps users upscale images to 4K, re
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Ecommerce Seller, Real Estate Agent, Content Creator
 
+#### [Artflow AI](https://www.aimyflow.com/en/ai/artflow-ai)
+
+Artflow AI is an AI photography and video studio that lets people train a personalized actor from their photos and create images or talking videos in different characters, outfits, locations, and activities, mainly for individual creators and social media users. For marketers, creators, and professionals building online profiles, it can speed up the production of personalized visual content such as profile images, lifestyle scenes, and social posts.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator, Graphic Designer
+
+#### [ArtHub.ai](https://www.aimyflow.com/en/ai/arthub-ai)
+
+ArtHub.ai is an online community platform for discovering, uploading, sharing, and generating AI-created art and prompts, mainly for artists, designers, and other image creators. For creative professionals, it can speed visual research and prompt iteration by exposing popular styles, examples, and community-generated ideas in one place.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Social Media Content Creator, Content Creator
+
+#### [Article Forge](https://www.aimyflow.com/en/ai/articleforge-com)
+
+Article Forge is an AI content generator that automatically researches, plans, and writes long-form, SEO-optimized articles from a keyword, mainly for marketers, publishers, and businesses creating website content. For SEO and content teams, it can speed up article production and help maintain a steady flow of search-focused drafts for editing and publishing.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, CEO
+
 #### [Articos](https://www.aimyflow.com/en/ai/articos-com)
 
 Articos is an AI user research platform that helps agencies, SaaS teams, and growth marketers test messaging, landing pages, concepts, and user motivations through simulated audience conversations and landing page analysis in minutes. For strategists, product managers, and marketers, it can speed early-stage validation and reduce guesswork before deeper UX research or development work begins.
 
 **Suitable roles:** Digital Marketing Director, Project Management Officer, Software Development Manager, Copywriter, CEO
+
+#### [Articulate](https://www.aimyflow.com/en/ai/usearticulate-com)
+
+Articulate is an AI-powered construction drawing analysis platform that reviews 2D PDF plans to identify coordination conflicts, code compliance issues, and design errors for architects, engineers, general contractors, and other construction professionals. In AI-assisted preconstruction workflows, it can help design and project teams review drawings faster, prioritize issues by location and severity, and reduce RFIs and rework before work reaches the field.
+
+**Suitable roles:** Commercial Architect, Civil Engineer, Electrical Engineer, Mechanical Engineer, Project Management Officer
 
 #### [Artlist AI Image Generator](https://www.aimyflow.com/en/ai/artlist-io-ai-image-generator)
 
@@ -1260,11 +1718,29 @@ Arvin AI is an AI web app and browser extension that helps users chat, summarize
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Graphic Designer, Technical Writer
 
+#### [Arzana](https://www.aimyflow.com/en/ai/arzana-ai)
+
+Arzana is an Office Execution System that automates front-office administrative work such as quoting, order entry, purchasing, customer service, and ERP-connected workflows for US manufacturers and distributors. For sales, operations, and customer service teams in industrial companies, this kind of AI automation can reduce repetitive office work and free staff to focus on faster response times and higher-value customer-facing tasks.
+
+**Suitable roles:** Factory Operations Supervisor, Field Sales Manager, Logistics Operations Planner, COO, Project Management Officer
+
 #### [ASCII Art Converter](https://www.aimyflow.com/en/ai/asciidos-com)
 
 ASCII Art Converter is an AI-powered web tool that turns uploaded images into ASCII art text or HTML in classic DOS-style color modes, mainly for designers, developers, and digital artists creating text-based visuals. For creative and technical teams, it can speed up image-to-ASCII conversion while giving quick control over character mode, text size, and output format.
 
 **Suitable roles:** Graphic Designer, Software Engineer, Content Creator, Copywriter, Technical Writer
+
+#### [Asendia AI](https://www.aimyflow.com/en/ai/asendia-ai)
+
+Asendia AI is an AI-powered recruitment platform that helps staffing agencies and recruiting teams source candidates, automate outreach, and run AI interviews and phone screenings to produce ready-to-hire shortlists faster. For recruiters and talent acquisition teams, it can reduce manual screening and admin work by syncing candidate data, transcripts, and scores into existing ATS workflows.
+
+**Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO
+
+#### [Ask an AI](https://www.aimyflow.com/en/ai/askan-ai)
+
+Ask an AI is a web-based question-answering tool that helps users get quick responses to simple or complex prompts, mainly for general users seeking everyday information or writing assistance. In AI-assisted workflows, it can help support, research, and content roles draft first-pass answers faster while still requiring human review for accuracy and safety.
+
+**Suitable roles:** Content Creator, Copywriter, Technical Writer, Teacher, Software Engineer
 
 #### [Ask Olivia](https://www.aimyflow.com/en/ai/ask-olivia-com)
 
@@ -1281,6 +1757,10 @@ Ask Pancho is an AI inspection assistant that guides second-hand buyers through 
 Askful is a product page Q&A tool for e-commerce stores that helps merchants answer shopper questions using product data, store policies, and reviews on Shopify and Magento. In AI-driven commerce, it can help e-commerce and support teams reduce repetitive pre-purchase tickets while improving on-page conversion support for hesitant buyers.
 
 **Suitable roles:** E-commerce Sales Head
+
+#### [aski.ai](https://www.aimyflow.com/en/ai/aski-ai)
+
+aski.ai is a domain name listed for sale on Spaceship.com, helping buyers purchase or make an offer on the aski.ai web address through secure checkout and transfer support, mainly for businesses, founders, or brand teams seeking an AI-related domain. For marketing, product, and brand professionals, securing a strong AI-relevant domain can improve discoverability, naming consistency, and credibility for future AI products or services.
 
 #### [Askiva](https://www.aimyflow.com/en/ai/askiva-io)
 
@@ -1316,6 +1796,12 @@ ASMRHookLab is an AI ASMR video generator that helps creators make short, synchr
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
 
+#### [Aspect](https://www.aimyflow.com/en/ai/aspect-inc)
+
+Aspect is an AI platform for enterprise media teams that helps them ingest, search, segment, extract, assemble, and review visual content and multimodal datasets across production workflows. For media operations, post-production, and dataset teams, it can reduce manual non-creative work by using visual understanding to speed asset retrieval, rough cuts, structured extraction, and delivery checks.
+
+**Suitable roles:** Podcast Producer, Independent Filmmaker, Content Creator, Project Management Officer, Technical Writer
+
 #### [AssetAI](https://www.aimyflow.com/en/ai/myassetai-com)
 
 AssetAI is an AI marketing campaign content platform that helps marketing teams generate coordinated full-funnel assets such as blogs, ads, emails, landing pages, and sales materials from a single brief. For marketers building TOFU, MOFU, and BOFU campaigns, it can speed campaign execution by reducing the draft-review-rewrite cycle while keeping content aligned across formats.
@@ -1333,6 +1819,24 @@ Assindo is a personal AI agent that helps people make and screen phone calls, se
 AssistLoop is an AI customer service agent that helps businesses automate support, answer questions from their own knowledge base, and hand off conversations to human teams when needed. For customer support and operations teams, it can reduce routine inquiry volume while using conversation history and trained data to improve response consistency and speed.
 
 **Suitable roles:** COO, E-commerce Sales Head, Project Management Officer, Digital Marketing Director
+
+#### [Asteroid](https://www.aimyflow.com/en/ai/asteroid-ai)
+
+Asteroid is an enterprise AI browser agent platform that helps operations teams, product managers, and engineers automate browser-based workflows like healthcare prior authorizations, insurance quoting, EHR data entry, and legacy system tasks without complex coding. For healthcare, insurance, and operations professionals, it can reduce manual portal work by turning standard operating procedures into supervised AI agents that run under in-house control.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, Software Engineer, Healthcare Administrator, IT Infrastructure Manager
+
+#### [Astor](https://www.aimyflow.com/en/ai/astor-app)
+
+Astor is an SEC-registered AI investment advisor app that connects brokerage accounts, analyzes holdings, and provides personalized portfolio guidance and market updates, mainly for busy professionals such as tech workers, consultants, bankers, and founders. For professionals managing RSUs, retirement choices, or concentrated positions, it can speed up portfolio review and surface position-specific insights through 24/7 chat or voice support.
+
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, CFO
+
+#### [Astro Energy](https://www.aimyflow.com/en/ai/astroenergy-ai)
+
+Astro Energy is a utility-scale solar and battery storage developer that helps Texas landowners evaluate and lease land for long-term energy projects through a transparent development process. For landowners and rural property stakeholders, this can turn underused acreage into predictable energy income while supporting project planning in the ERCOT market.
+
+**Suitable roles:** Commercial Architect, Civil Engineer, CEO, Project Management Officer, Real Estate Agent
 
 #### [Astrology Bot](https://www.aimyflow.com/en/ai/astrologybot-app-en)
 
@@ -1376,6 +1880,12 @@ Atlas Browser is a private-by-default AI browser for Windows and Mac that helps 
 
 **Suitable roles:** Software Engineer, Project Management Officer, Digital Marketing Director, Field Sales Manager
 
+#### [AtlasGrid](https://www.aimyflow.com/en/ai/atlasgrid-ai)
+
+AtlasGrid is a data context tool that helps users place and organize information on a visual grid, mainly for teams working with complex datasets and relationships. In an AI-driven workflow, it can help analysts and operators keep data structured and contextualized so models and people can interpret connections more reliably.
+
+**Suitable roles:** Data Scientist, Project Management Officer, Logistics Operations Planner, Software Engineer
+
 #### [Atomic Bot](https://www.aimyflow.com/en/ai/atomicbot-ai)
 
 Atomic Bot is a user-friendly app for running OpenClaw, helping non-technical users install, configure, and use a personal AI assistant to manage email, calendars, documents, browser tasks, and workflows on-device or in the cloud. For operations, administrative, and knowledge-work roles, it can reduce manual coordination by turning chat-based requests into actions across everyday tools.
@@ -1400,6 +1910,12 @@ Attensira is an AI search visibility platform that helps growing businesses trac
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, Content Creator
 
+#### [Audialab](https://www.aimyflow.com/en/ai/audialab-com)
+
+Audialab is a suite of ethical AI audio tools that helps artists and music producers design sounds, generate royalty-free samples, and create drum variations or new drum sounds, with products including Interloper, Emergent Drums 2, Infinite Packs, and Humanize. For sound designers and beat makers, offline and customizable AI workflows can speed up experimentation while preserving hands-on creative control over audio.
+
+**Suitable roles:** Music Lover, Content Creator, Social Media Content Creator, Independent Filmmaker, Voice Actor
+
 #### [Audio Converter AI](https://www.aimyflow.com/en/ai/audioconverter-ai)
 
 Audio Converter AI is a web-based AI transcription tool that converts audio, video, recordings, and YouTube content into editable text with timestamps, speaker recognition, notes, and multilingual support, mainly for students, researchers, business professionals, educators, and content creators. In AI-assisted workflows, it can help knowledge workers reduce manual listening and speed up meeting documentation, interview analysis, lecture review, and content repurposing.
@@ -1411,6 +1927,12 @@ Audio Converter AI is a web-based AI transcription tool that converts audio, vid
 AudioCleaner AI is an online AI audio and video cleanup tool that helps creators, podcasters, educators, and video makers remove background noise, breaths, mouth sounds, wind, echo, and other unwanted audio artifacts. For content production teams, faster AI-based cleanup can reduce manual editing time and make spoken-word recordings clearer for publishing, training, and interviews.
 
 **Suitable roles:** Podcast Producer, Content Creator, Social Media Content Creator, Technical Writer, Teacher
+
+#### [AudioCleaner AI Vocal Remover](https://www.aimyflow.com/en/ai/audiocleaner-ai-remove-vocals-from-song)
+
+AudioCleaner AI Vocal Remover is an online tool that uses AI to separate vocals from songs or videos, helping users create instrumental, karaoke, or acapella tracks without downloads or signup. For music producers, DJs, creators, and educators, it speeds up stem preparation and practice-track creation that would otherwise require more manual audio editing.
+
+**Suitable roles:** Content Creator, Podcast Producer, Copywriter, Music Lover, Teacher
 
 #### [AudioConvert](https://www.aimyflow.com/en/ai/audioconvert-ai)
 
@@ -1424,11 +1946,35 @@ AudioPod AI is an all-in-one audio tool that helps creators and editors extract,
 
 **Suitable roles:** Content Creator, Media Communicators, Software Engineer, Data Scientist, Information Technology Managers, Education Technology Consultant +3 more
 
+#### [Audo Studio](https://www.aimyflow.com/en/ai/audo-ai)
+
+Audo Studio is a browser-based audio cleaning tool that removes background noise, enhances speech, and automatically adjusts volume with one click, mainly for YouTubers, podcasters, and other creators working with audio or video. For content creators and editors, this kind of AI audio processing can speed up post-production and help deliver clearer voice recordings without complex manual cleanup.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Content Creator, Copywriter, Technical Writer
+
+#### [Audyo](https://www.aimyflow.com/en/ai/audyo-ai)
+
+Audyo is an AI text-to-speech editor that helps users create and edit spoken audio like a document, with word-level editing, multiple speakers, phonetic pronunciation control, and multilingual voices, mainly for creators producing videos, podcasts, presentations, and audiobooks. For content creators and media teams, this can speed voice-over and dialogue production by making script revisions and speaker changes easier without traditional waveform editing.
+
+**Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Copywriter, Technical Writer
+
 #### [Aura AI](https://www.aimyflow.com/en/ai/auraai-app)
 
 Aura AI is a web and mobile platform that brings together 20+ AI video and image models plus tools for text-to-video, text-to-image, image-to-video, talking avatars, reference-based video creation, and image editing, mainly for creators producing visual content. By letting video creators, designers, and content teams compare and use multiple leading models in one place, it can streamline experimentation and speed up creative production workflows.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director, Copywriter
+
+#### [Auri](https://www.aimyflow.com/en/ai/auri-ai)
+
+Auri is an AI assistant app and keyboard for Apple devices that helps users write, translate, chat, record, transcribe, and turn notes or voice memos into polished text, mainly for people who do frequent communication and note-taking across apps. For writers, students, and knowledge workers, its in-app drafting and transcription can reduce context switching and speed up everyday tasks like email replies, meeting notes, and multilingual editing.
+
+**Suitable roles:** Technical Writer, Copywriter, Content Creator, Teacher, Field Sales Manager
+
+#### [AuthorVoices.ai](https://www.aimyflow.com/en/ai/authorvoices-ai)
+
+AuthorVoices.ai is an AI audiobook narration tool that helps independent authors and publishers turn book manuscripts into export-ready audiobooks with curated narrators, voice previews, chapter-by-chapter editing, and section-based generation. For authors, publishers, and audiobook producers, it can speed audiobook creation while allowing tighter control over voice selection, pacing, and revisions across long-form content.
+
+**Suitable roles:** Fiction Writer, Content Creator, Technical Writer, Copywriter
 
 #### [Auto Gmail](https://www.aimyflow.com/en/ai/autogmail-com)
 
@@ -1441,6 +1987,30 @@ Auto Gmail is an AI email assistant for Gmail that uses ChatGPT to draft replies
 AutoCoder is a no-code AI platform that helps users describe an app or website and generate a production-ready mobile or web product, mainly for founders, teams, and non-technical builders. For product, operations, and small business teams, it can speed early software creation by turning ideas into structured prototypes and business tools without traditional coding.
 
 **Suitable roles:** Software Development Manager, Project Management Officer, CEO, IT Infrastructure Manager, E-commerce Sales Head
+
+#### [Autodesk Flow Studio](https://www.aimyflow.com/en/ai/wonderdynamics-com)
+
+Autodesk Flow Studio is a cloud-based AI 3D and VFX toolset that helps filmmakers, VFX artists, and creators turn live-action footage, text, and images into editable CG scenes, motion capture, and 3D assets. For VFX and animation teams, it can shorten manual mocap, camera tracking, and compositing work while preserving editable outputs for refinement in tools like Maya, Blender, and Unreal.
+
+**Suitable roles:** Independent Filmmaker, Graphic Designer, Content Creator, Podcast Producer, Social Media Content Creator
+
+#### [AutoDL](https://www.aimyflow.com/en/ai/autodl-com)
+
+AutoDL is a cloud GPU rental platform that helps users quickly create AI compute instances, choose suitable GPUs, and run reproducible algorithm environments, mainly for AI developers, researchers, and students. For machine learning and data science teams, its elastic hourly GPU access and ready-to-use AI images can reduce setup time and make experimentation and model training more efficient.
+
+**Suitable roles:** Software Engineer, Data Scientist, Data Engineer, Software Development Manager, Education Technology Consultant
+
+#### [AutoDraw](https://www.aimyflow.com/en/ai/autodraw-com)
+
+AutoDraw is a web-based drawing tool that uses machine learning and artist-made suggestions to help people create simple drawings quickly, mainly for anyone who needs fast visual sketches. For teachers, marketers, designers, and other communicators, it can speed up early visual ideation by turning rough doodles into clearer images faster.
+
+**Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Teacher, Copywriter
+
+#### [Autoenhance.ai](https://www.aimyflow.com/en/ai/autoenhance-ai)
+
+Autoenhance.ai is an AI photo editing platform that automates real estate image enhancement tasks such as HDR merging, window pulls, sky replacement, color correction, and perspective correction, mainly for professional real estate photographers and media agencies. For real estate media teams, it can reduce manual post-production work and support faster, more consistent delivery across higher photo volumes.
+
+**Suitable roles:** Graphic Designer, Real Estate Agent, Content Creator, Software Engineer
 
 #### [AutomateClips](https://www.aimyflow.com/en/ai/automateclips-com)
 
@@ -1466,6 +2036,18 @@ Automina is an AI-powered browser automation agent that helps users automate rep
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer
 
+#### [Automusic](https://www.aimyflow.com/en/ai/automusic-ai)
+
+Automusic is an AI song maker that turns lyrics, text prompts, or audio into royalty-free songs and instrumental tracks, mainly for creators, marketers, educators, game developers, and music producers. For content teams and producers, it can shorten music production cycles by quickly generating customizable tracks, alternate versions, and stems for faster editing and reuse.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Podcast Producer, Copywriter, Music Lover
+
+#### [Autonomous](https://www.aimyflow.com/en/ai/becomeautonomous-com)
+
+Autonomous is an AI-powered investment advisory platform that helps individual investors plan portfolios, evaluate financial trade-offs, and manage their broader financial lives with online guidance and 0% core advisory fees. For wealth management and financial planning work, tools like this can speed scenario analysis and provide more continuous, personalized guidance across accounts, taxes, and major life decisions.
+
+**Suitable roles:** Financial Analyst, Investment Portfolio Manager, Financial Planning & Analysis Manager, CEO, CFO
+
 #### [AutoNotes](https://www.aimyflow.com/en/ai/autonotes-ai)
 
 AutoNotes is AI-powered clinical documentation software that helps therapists and behavioral health professionals generate compliant progress notes, SOAP and DAP notes, treatment plans, and session summaries from written, dictated, uploaded, or recorded sessions. For therapists, social workers, and practice teams, it can reduce administrative documentation work while preserving editable, structured records and continuity across sessions.
@@ -1483,6 +2065,12 @@ AutoReach is an autonomous AI lead generation agent that helps sales teams, agen
 AutoResearch.pro is an AI research and presentation platform that helps users automate research, generate professional slide decks with speaker notes, and download PPTX files, mainly for researchers, analysts, and project managers. In AI-driven knowledge work, it can help these roles turn web research into presentation-ready outputs faster while keeping slides and delivery notes aligned.
 
 **Suitable roles:** Financial Analyst, Project Management Officer, Technical Writer, CEO, Content Creator
+
+#### [Avanty](https://www.aimyflow.com/en/ai/avanty-app)
+
+Avanty is an AI-powered Chrome extension for Metabase that helps data analysts generate, edit, explain, format, and comment SQL queries faster using natural language and schema metadata. For analytics teams and BI professionals, it can reduce time spent on repetitive query writing and make complex SQL easier to review, document, and debug in AI-assisted workflows.
+
+**Suitable roles:** Data Scientist, Software Engineer, Technical Writer
 
 #### [Avatar.One](https://www.aimyflow.com/en/ai/avatar-one)
 
@@ -1518,11 +2106,27 @@ Axell is a unified AI workspace that lets users run multiple chats, files, and c
 
 **Suitable roles:** Project Management Officer, Software Development Manager, COO, Technical Writer, Content Creator
 
+#### [Axiom.ai](https://www.aimyflow.com/en/ai/axiom-ai)
+
+Axiom.ai is a no-code browser automation and web scraping tool delivered as a Chrome extension that helps users build bots to automate website actions, data entry, form filling, and data extraction, mainly for operations teams, analysts, and non-technical business users. In AI-enabled workflows, it can help data and operations professionals collect web data and route it into tools like spreadsheets or ChatGPT with less manual browser work.
+
+**Suitable roles:** Project Management Officer, Financial Analyst, Digital Marketing Director, Talent Acquisition Manager, E-commerce Sales Head
+
+#### [B12](https://www.aimyflow.com/en/ai/b12-io)
+
+B12 is an AI website builder that helps users generate and launch websites, online stores, or web apps, mainly for business owners and companies building their online presence. For marketers, consultants, and other client-facing teams, it can speed up website creation and updates while supporting SEO, lead capture, scheduling, payments, and client communication in one platform.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, CEO, Content Creator, Real Estate Agent
+
 #### [Babelbeez](https://www.aimyflow.com/en/ai/babelbeez-com)
 
 Babelbeez is an AI voice agent platform for websites that helps small and medium businesses and agencies handle customer enquiries, answer questions, capture lead data, and trigger workflows directly in the browser without coding. For support, sales, and operations teams, voice-based website automation can reduce manual follow-up by turning conversations into structured data and webhook-ready actions.
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, Project Management Officer, Branch Office Manager, CEO
+
+#### [Baby Generator](https://www.aimyflow.com/en/ai/baby-generator-ai)
+
+Baby Generator is an AI baby face prediction tool that analyzes uploaded photos of two parents to generate a possible future baby image in about a minute, mainly for couples, expecting parents, and families curious about appearance outcomes. For family-focused creators and counselors, it can quickly provide a visual prompt that supports conversations about traits, identity, and future planning.
 
 #### [babyvideo.ai](https://www.aimyflow.com/en/ai/babyvideo-ai)
 
@@ -1536,11 +2140,39 @@ BacklinkManagement.io is an AI-powered backlink management and link-building too
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, Content Creator
 
+#### [Baidu Account](https://www.aimyflow.com/en/ai/yige-baidu-com)
+
+Baidu Account is a centralized login system for Baidu products that helps users sign in and manage personal account details such as passwords, phone binding, and identity verification, mainly for Baidu users. For customer support and account operations teams, centralized identity management can streamline user access, verification, and routine account maintenance across connected services.
+
+#### [Baidu AI Market](https://www.aimyflow.com/en/ai/aim-baidu-com)
+
+Baidu AI Market is a commercial marketplace for the AI industry chain that helps enterprises, developers, and AI service providers find, showcase, buy, and sell AI software, hardware, data services, and industry solutions. For procurement, product, and solution teams, it can shorten AI adoption by centralizing supplier discovery and matching business needs to practical AI components and services.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, COO, E-commerce Sales Head, Data Engineer
+
+#### [Baidu PaddlePaddle AI Studio](https://www.aimyflow.com/en/ai/aistudio-baidu-com)
+
+Baidu PaddlePaddle AI Studio is an AI learning and practice community that helps users study, build, and deploy AI models and applications with courses, datasets, projects, cloud compute, and developer tools, mainly for AI learners and developers. For machine learning engineers, students, and prompt engineers, it can shorten the path from training to usable AI applications by combining learning resources, model development, and deployment workflows in one platform.
+
+**Suitable roles:** Software Engineer, Data Scientist, Online Coding Tutor, Education Technology Consultant, Teacher
+
 #### [Baloon.dev](https://www.aimyflow.com/en/ai/baloon-dev)
 
 Baloon.dev is a Jira-AI connector that lets teams assign Jira tickets directly to AI agents to automate small code changes, answer product questions, and return summaries or pull requests, mainly for software engineers and product teams. In AI-assisted development workflows, it can help engineering and product functions move faster from ticket triage to implementation by grounding answers and code output in the actual codebase and project data.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, COO
+
+#### [Banana Prompts](https://www.aimyflow.com/en/ai/bananaprompts-org)
+
+Banana Prompts is a prompt library for AI image generation that helps users find, copy, and use tested prompt templates, mainly for creators using Nano Banana and similar image tools. For digital artists, designers, marketers, and content creators, it can speed prompt discovery and improve consistency when producing visual concepts, mockups, and campaign imagery.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [Bardeen AI](https://www.aimyflow.com/en/ai/bardeen-ai-ai)
+
+Bardeen AI is an automation and workflow tool that uses LLMs to help GTM teams find, qualify, and prioritize leads, then generate personalized outreach from scraped or imported data. For sales, revenue operations, and customer success teams, this can reduce manual prospecting and data-handling work while making lead qualification and outreach more consistent at scale.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, Project Management Officer, CEO
 
 #### [BareMinimum](https://www.aimyflow.com/en/ai/bareminimum-design)
 
@@ -1566,6 +2198,18 @@ BasedLabs is an AI content creation platform that helps users generate images, v
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Independent Filmmaker, Copywriter
 
+#### [Baseline](https://www.aimyflow.com/en/ai/baselinetrials-com)
+
+Baseline is an AI-powered clinical trial solution that helps organizations accelerate research by developing AI agents tailored to their trial workflows, mainly for teams running and managing clinical studies. For clinical operations and research teams, this kind of workflow-specific automation can reduce manual process time while helping maintain quality in AI-assisted trial execution.
+
+**Suitable roles:** Healthcare Administrator, Project Management Officer, Data Scientist, Nonprofit Program Manager
+
+#### [Be My Eyes](https://www.aimyflow.com/en/ai/bemyeyes-com)
+
+Be My Eyes is an accessibility app that helps blind and low-vision people get instant visual assistance through live video, AI descriptions, and support from volunteers or companies. For accessibility, customer support, and service teams, it can extend assistance beyond standard channels by making visual problem-solving faster and more responsive.
+
+**Suitable roles:** Healthcare Administrator
+
 #### [Beacon](https://www.aimyflow.com/en/ai/hellobeacon-ai)
 
 Beacon is an AI search visibility platform that helps businesses and SEO teams track brand mentions, GEO scores, and optimization opportunities across ChatGPT, Perplexity, Claude, Gemini, Google AI, and traditional search. For SEO and content professionals, it can improve AI-era search performance by showing where their brand is cited, where competitors are winning, and what page-level fixes may increase visibility.
@@ -1584,6 +2228,12 @@ Beancount.io is a plain-text accounting platform that helps users write, automat
 
 **Suitable roles:** Certified Public Accountant, Financial Analyst, CFO, Software Engineer, Data Engineer
 
+#### [Bearly AI](https://www.aimyflow.com/en/ai/bearly-ai)
+
+Bearly AI is a private AI chat and productivity platform that helps professionals and teams use models from OpenAI, Anthropic, Gemini, Grok, and others for research, analysis, coding, collaboration, and multimodal work while protecting data with encryption and zero logging. For knowledge workers, developers, and enterprise teams, it can support faster AI-assisted work on sensitive tasks by combining multiple models and workflow tools within a controlled environment.
+
+**Suitable roles:** Software Engineer, IT Infrastructure Manager, Cybersecurity Manager, Software Development Manager, Project Management Officer
+
 #### [BeatViz](https://www.aimyflow.com/en/ai/beatviz-ai)
 
 BeatViz is an AI music video generator and creation platform that helps musicians and music creators turn audio tracks or text prompts into synchronized music videos, original music, and edited visuals with customizable workflows. For artists, producers, and social media creators, AI beat and mood analysis can reduce manual editing time while making it easier to produce consistent visual content for releases and promotion.
@@ -1596,11 +2246,23 @@ BeatViz is an AI music generator that turns text prompts or lyrics into full son
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Digital Marketing Director, Independent Filmmaker
 
+#### [Beautiful.ai](https://www.aimyflow.com/en/ai/beautiful-ai)
+
+Beautiful.ai is an AI presentation maker that helps users create polished, professional slide decks faster with guided AI workflows, smart layouts, brand controls, and collaboration features, mainly for business teams, consultants, and individual professionals. For sales, marketing, training, and reporting roles, it can reduce manual slide formatting so more time goes to messaging, data storytelling, and review cycles.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Project Management Officer, Corporate Leadership Coach, CEO
+
 #### [BeeBee AI](https://www.aimyflow.com/en/ai/beebee-ai)
 
 BeeBee AI is an earnings analysis tool that helps U.S. stock investors review earnings calls, reports, and news with AI-assisted insights. In the AI era, it helps analysts and active investors digest company updates faster and compare signals across reporting cycles.
 
 **Suitable roles:** Financial Analyst
+
+#### [Beepbooply](https://www.aimyflow.com/en/ai/beepbooply-com)
+
+Beepbooply is an AI text-to-speech generator that helps users turn written text into downloadable audio with over 900 voices in 80+ languages, mainly for creators, marketers, and teams producing voiceovers, narration, or multilingual audio content. In AI-driven content workflows, it can help video producers, podcasters, and customer service teams create and scale consistent voice content faster without traditional recording setups.
+
+**Suitable roles:** Content Creator, Copywriter, Digital Marketing Director, Podcast Producer, Social Media Content Creator
 
 #### [BeforeSunset AI](https://www.aimyflow.com/en/ai/beforesunset-ai)
 
@@ -1613,6 +2275,12 @@ BeforeSunset AI is an AI-powered planner that turns thoughts and to-dos into pri
 BeFreed is an AI-powered audio learning app that turns books, research papers, and expert knowledge into personalized narrated lessons, learning plans, and podcasts for learners who want flexible, on-demand education. For students, founders, and knowledge workers, it can make commuting or other low-focus time more useful by converting reading-heavy research and nonfiction into conversational audio they can revisit and explore.
 
 **Suitable roles:** Teacher, Content Creator, College Professor, CEO, Technical Writer
+
+#### [Belin Doc](https://www.aimyflow.com/en/ai/belindoc-com)
+
+Belin Doc is a free AI document translation tool that helps users translate PDFs, DOCX, EPUB, PPTX, XLSX, scanned files, and images while preserving layout, mainly for people who regularly work with multilingual documents. For researchers, marketers, finance teams, and cross-border operations staff, it can reduce manual reformatting and speed document handling across languages.
+
+**Suitable roles:** Digital Marketing Director, Financial Analyst, E-commerce Sales Head, Project Management Officer, Technical Writer
 
 #### [Berean.ai](https://www.aimyflow.com/en/ai/berean-ai)
 
@@ -1638,6 +2306,12 @@ BestColoringPages AI is an AI coloring page generator and library that helps use
 
 **Suitable roles:** Content Creator, Teacher, Graphic Designer, Elementary School Math Teacher, Copywriter
 
+#### [BGM猫](https://www.aimyflow.com/en/ai/bgmcat-com)
+
+BGM猫 is an AI background music generation and download platform that helps users create video, podcast, and intro music with selectable duration, style, scene, mood, and rhythm tags, mainly for creators and media producers. For video editors, podcasters, and content teams, this can speed up soundtrack selection and produce more tailored music cues for specific formats and emotional beats.
+
+**Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Copywriter, Independent Filmmaker
+
 #### [BidHelm](https://www.aimyflow.com/en/ai/bidhelm-com)
 
 BidHelm is an AI tool for Google Ads optimization that autonomously monitors campaigns, pauses underperforming ads, scales winners, and blocks waste, mainly for businesses and marketers managing Google Ads without an agency. For PPC managers and digital marketers, it can reduce manual campaign maintenance by continuously applying and logging optimization decisions based on performance changes.
@@ -1650,11 +2324,35 @@ Biela.dev is an AI-powered web and app builder that helps users turn text prompt
 
 **Suitable roles:** Software Engineer, Content Creator, CEO, Graphic Designer, Software Development Manager
 
+#### [Bigjpg](https://www.aimyflow.com/en/ai/bigjpg-com)
+
+Bigjpg is an AI image upscaling tool that enlarges anime artwork, illustrations, and photos with noise reduction and minimal quality loss, mainly for artists, designers, and image editors. In AI-assisted visual workflows, it helps creative and content teams repurpose smaller source images for publishing, presentation, and asset refinement without manually rebuilding details.
+
+**Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Ecommerce Seller, Software Engineer
+
 #### [Bika.ai](https://www.aimyflow.com/en/ai/bika-ai)
 
 Bika.ai is an AI organizer that helps one-person companies and small teams build workflows with AI agents, automation, databases, dashboards, documents, and customizable templates for tasks like content creation, issue tracking, and business operations. For founders, marketers, product managers, and operations roles, it can reduce manual coordination by bringing multiple AI-driven tasks into one structured workflow.
 
 **Suitable roles:** CEO, Digital Marketing Director, Project Management Officer, Software Development Manager, COO
+
+#### [BillionVerify](https://www.aimyflow.com/en/ai/emailverify-ai)
+
+BillionVerify is an AI-first email verification tool that helps teams and AI workflow builders validate email addresses in real time or bulk, with native support for Claude, LangChain, and other automated pipelines. For sales, marketing, product, and automation teams, adding verification as a pipeline layer helps reduce bounced outreach, protect sender reputation, and keep AI-driven decisions based on cleaner data.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Software Engineer, Data Engineer, Software Development Manager
+
+#### [Bingo Payment Methods AU](https://www.aimyflow.com/en/ai/prompbase-com)
+
+Bingo Payment Methods AU is an informational guide to online bingo payment options in Australia, helping players compare deposit and withdrawal methods such as PayID, cards, e-wallets, prepaid cards, and bank transfers. For online gaming and content teams, this kind of structured payment guidance can improve user decision-making by clearly organizing security, fees, speed, and withdrawal considerations.
+
+**Suitable roles:** Content Creator, Copywriter, Technical Writer, Digital Marketing Director, Financial Analyst
+
+#### [Birthday Song Maker](https://www.aimyflow.com/en/ai/birthdaysongmaker-com)
+
+Birthday Song Maker is an AI-powered web tool that helps users create personalized birthday songs from written wishes, chosen music styles, and names, mainly for people making custom birthday gifts for friends and family. For event planners, creators, and anyone handling celebratory content, it can speed up production of personalized audio messages and reduce the effort of writing lyrics from scratch.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Concert Promoter, Copywriter
 
 #### [BirthdayInvitation.AI](https://www.aimyflow.com/en/ai/birthdayinvitation-ai)
 
@@ -1684,6 +2382,18 @@ Bizzy is an AI business planning tool that asks guided questions, applies consul
 
 **Suitable roles:** CEO, COO, Project Management Officer, Branch Office Manager, Financial Planning & Analysis Manager
 
+#### [Bizzy](https://www.aimyflow.com/en/ai/usebizzy-com)
+
+Bizzy is an AI-powered booking management and receptionist tool that answers business calls, books and reschedules appointments, handles customer questions, and sends confirmations and reminders for service businesses that rely on phone bookings. For front-desk teams, owners, and schedulers, it can reduce missed-call workload by automating routine call handling and keeping calendars and customer communications up to date.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, Healthcare Administrator, Yoga Studio Instructor, Wellness Coach
+
+#### [BJ88](https://www.aimyflow.com/en/ai/explainlikeimfive-io)
+
+BJ88 is an online gambling platform and alternative access portal that helps users log in and play sports betting, slots, casino, table, fishing, lottery, arcade, and crash games, mainly for Indonesian players seeking access to the site and its mobile services. For gaming operators and affiliate-focused digital teams, clear access paths and mobile-first site design can help maintain user continuity when primary domains are blocked or unavailable.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, CEO
+
 #### [BlabbyAI](https://www.aimyflow.com/en/ai/blabby-ai)
 
 BlabbyAI is an AI speech-to-text dictation tool for Chrome and Windows that helps users voice-type and format text across websites, mainly for professionals who write frequently in tools like Gmail, Docs, Slack, and ChatGPT. For roles such as healthcare staff, writers, project managers, and developers, its context-aware transcription, grammar fixes, translation, and custom vocabulary can reduce manual editing during documentation and communication.
@@ -1701,6 +2411,24 @@ Black Forest Labs is a frontier AI lab behind the FLUX model family, offering im
 BLACKBOX AI Agent is a REST API for developers and engineering teams to run coding tasks across multiple AI agents, compare implementations, and apply changes to code repositories. In AI-assisted software work, it can help engineers and technical leads evaluate model outputs more efficiently by using parallel agent execution and a selection layer to identify the strongest implementation.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Technical Writer, Project Management Officer
+
+#### [BlackInk AI](https://www.aimyflow.com/en/ai/blackink-ai)
+
+BlackInk AI is an AI tattoo generator and design app that helps tattoo lovers create custom tattoo ideas, explore styles and placements, and convert images to stencils, with features also useful for tattoo artists collaborating with clients. In AI-assisted tattoo workflows, it can help tattoo artists and designers speed up concept development, cover-up planning, and early client review before refining the final artwork.
+
+**Suitable roles:** Graphic Designer, Interior Designer, Content Creator, Fashion Designer
+
+#### [Blackshark.ai](https://www.aimyflow.com/en/ai/blackshark-ai)
+
+Blackshark.ai is an AI geospatial infrastructure platform that turns satellite, aerial, drone, and sensor imagery into structured world models and simulation-ready 3D environments for government and enterprise teams working with large-scale physical-world data. For geospatial analysts, disaster response planners, and simulation teams, it can speed change detection, situational awareness, and AI training by converting massive imagery streams into operational intelligence.
+
+**Suitable roles:** Data Engineer, Data Scientist, IT Infrastructure Manager, Project Management Officer, COO
+
+#### [Blank Bio](https://www.aimyflow.com/en/ai/blank-bio)
+
+Blank Bio is an RNA intelligence platform that uses foundation models combining isoform, mutation, and expression signals to improve patient stratification, diagnostics, target discovery, and therapeutic design for precision medicine teams and researchers. For clinical researchers and biomarker teams, this AI approach can uncover transcript-level patterns that gene-level RNA analysis may miss, helping refine subgroup identification and disease classification from routine RNA-seq data.
+
+**Suitable roles:** Molecular Biologist, Data Scientist, Medical Lab Technician, Healthcare Administrator
 
 #### [BlazorData](https://www.aimyflow.com/en/ai/blazordata-net)
 
@@ -1726,6 +2454,30 @@ BlogSEO is an AI SEO content automation tool that analyzes a website, finds keyw
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, E-commerce Sales Head, CEO
 
+#### [Bloom](https://www.aimyflow.com/en/ai/github-com-safety-research-bloom)
+
+Bloom is an open-source tool for automated behavioral evaluations of large language models, helping researchers and AI safety teams generate test scenarios, run model conversations, and score behaviors such as sycophancy, self-preservation, and political bias. In AI evaluation workflows, it can help research and model assessment teams move beyond fixed benchmarks by creating reproducible, seed-based behavior tests tailored to specific risks.
+
+**Suitable roles:** Data Scientist, Cybersecurity Analyst, Software Engineer, Software Development Manager, Project Management Officer
+
+#### [Blue](https://www.aimyflow.com/en/ai/heyblue-com)
+
+Blue is an AI assistant for iPhone that controls apps hands-free to complete phone tasks like messaging, navigation, follow-ups, and booking rides, mainly for iPhone users who want voice-driven mobile automation. For creators, drivers, and busy professionals, this kind of app-controlling AI can reduce manual phone work and help keep communication and routine tasks moving while their attention is elsewhere.
+
+**Suitable roles:** Social Media Content Creator, Field Sales Manager, CEO, Restaurant General Manager, Branch Office Manager
+
+#### [Bluebook](https://www.aimyflow.com/en/ai/getbluebook-com)
+
+Bluebook is an AI accounting platform that automates workflows such as reconciliations, accruals, reporting, accounts payable, and month-end close for accountants and CFOs. For accounting teams and finance leaders, it can shift work from manual execution to review and oversight, helping speed closes and support more consistent, audit-ready processes.
+
+**Suitable roles:** CFO, Certified Public Accountant, Financial Planning & Analysis Manager, Financial Analyst, Corporate Tax Manager
+
+#### [Bluedoor](https://www.aimyflow.com/en/ai/bluedoor-sh)
+
+Bluedoor is a terminal-based stock research tool that helps investors perform securities research, compare companies, backtest ideas, and support trading workflows using hundreds of data sources in one place. For investors and research-focused finance professionals, its terminal workflow can speed analysis, reduce tab-switching, and make cross-source insights easier to act on.
+
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, Data Scientist, Software Engineer
+
 #### [Board Ad](https://www.aimyflow.com/en/ai/board-ad)
 
 Board Ad is an AI ad creation tool that extracts brand details from a website and helps businesses and marketers generate professional ads, product images, and social content for major platforms without design expertise. For marketing teams and performance marketers, it can speed creative production and iteration while keeping campaign assets more consistent across channels.
@@ -1744,6 +2496,12 @@ Bobr AI is an AI presentation generator that helps users create professional sli
 
 **Suitable roles:** CEO, Digital Marketing Director, Field Sales Manager, Copywriter, Content Creator
 
+#### [BodhiGPT Podcasts](https://www.aimyflow.com/en/ai/bodhigpt-com-tools-podcasts)
+
+BodhiGPT Podcasts is an AI-powered podcast player that helps users turn podcast episodes into summaries, key takeaways, quotes, chapters, insights, and transcripts, mainly for people who want to learn more efficiently from audio content. For knowledge workers, researchers, and content-focused professionals, it can reduce listening time and make important ideas easier to review, reference, and apply.
+
+**Suitable roles:** Podcast Producer, Content Creator, Technical Writer, Data Scientist, Financial Analyst
+
 #### [Body Count Calculator](https://www.aimyflow.com/en/ai/checkhercount-com)
 
 Body Count Calculator is a website that lets users submit an Instagram profile URL to scan followers and photos and generate an estimated sexual history score, mainly for individuals curious about someone’s dating background. It shows how image and social profile analysis tools can automate subjective judgments, which is relevant to trust and safety, privacy, and digital ethics work.
@@ -1753,6 +2511,12 @@ Body Count Calculator is a website that lets users submit an Instagram profile U
 BodyFatEstimator.ai is a photo-based AI tool that estimates body fat percentage from full-body images to help people track body composition changes over time, mainly for fitness-focused individuals and athletes. For coaches and personal trainers, it offers a practical way to monitor visual progress between infrequent clinical scans when consistent photo conditions are used.
 
 **Suitable roles:** Wellness Coach, Professional Athlete
+
+#### [Bolna AI](https://www.aimyflow.com/en/ai/bolna-ai)
+
+Bolna AI is a voice AI platform for building, testing, deploying, and scaling inbound and outbound calling agents in Indian languages, mainly for enterprises handling customer support, sales, and recruitment. For support, recruiting, and operations teams, it can automate high-volume phone workflows while keeping multilingual conversations and human handoffs manageable in AI-assisted call operations.
+
+**Suitable roles:** Field Sales Manager, Talent Acquisition Manager, Logistics Operations Planner, Software Development Manager
 
 #### [Bolt](https://www.aimyflow.com/en/ai/bolt-new)
 
@@ -1772,6 +2536,12 @@ Book by Anyone is an AI-powered personalized book service that helps people crea
 
 **Suitable roles:** Content Creator, Copywriter, Graphic Designer, Ecommerce Seller, Social Media Content Creator
 
+#### [BookAbout](https://www.aimyflow.com/en/ai/bookabout-io)
+
+BookAbout is an AI-powered book discovery tool that helps readers find books by searching a large catalog with very specific queries. For readers, librarians, and booksellers, this kind of AI search can speed up title discovery and recommendation work when standard keyword searches are too broad.
+
+**Suitable roles:** Content Creator, Ecommerce Seller, Teacher
+
 #### [BookScribi](https://www.aimyflow.com/en/ai/bookscribi-com)
 
 BookScribi is an AI book writing platform that creates non-fiction books, poetry collections, and eBooks with automated outlining, writing, editing, and formatting for authors and self-publishers. For independent publishers, content creators, and educators, it can speed up title production and reduce manual drafting work for KDP-ready and digital publishing workflows.
@@ -1789,6 +2559,18 @@ Bookshelf is an AI-powered book summary platform that helps busy readers learn k
 Booksmate is an AI accounting automation tool that automatically downloads invoices and receipts from email inboxes and 200+ online portals, extracts the data, and prepares exports to accounting software for bookkeepers, finance teams, and small businesses. For accounting and operations professionals, it can reduce manual document collection and data entry so they can focus more on reconciliation, review, and exception handling.
 
 **Suitable roles:** Certified Public Accountant, CFO, Financial Analyst, Medical Biller, COO
+
+#### [Boom](https://www.aimyflow.com/en/ai/useboom-ai)
+
+Boom is an AI-powered user research platform that runs personalized customer interviews over WhatsApp to uncover churn, conversion, onboarding, and product feedback insights at scale, mainly for teams that need to understand user behavior and recover lost customers. In AI-driven product and growth work, it can help researchers, product managers, and customer teams replace manual follow-up with faster, context-aware conversations and structured insight extraction.
+
+**Suitable roles:** Digital Marketing Director, Project Management Officer, CEO, COO, Content Creator
+
+#### [Boomy](https://www.aimyflow.com/en/ai/boomy-com)
+
+Boomy is an AI music creation platform that helps users generate original songs, share them, and monetize them with full commercial rights, mainly for aspiring musicians and creators with little or no music production experience. In AI-driven creative workflows, it can help musicians, animators, and short-form content creators produce custom music faster while preserving room for personal style and experimentation.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Music Lover, Independent Filmmaker, Podcast Producer
 
 #### [Borea AI](https://www.aimyflow.com/en/ai/borea-ai)
 
@@ -1850,6 +2632,12 @@ Brainybear is a no-code platform for building AI agents that power chatbots acro
 
 **Suitable roles:** Software Development Manager, Project Management Officer, Digital Marketing Director, Other Sales Roles
 
+#### [Brancher.ai](https://www.aimyflow.com/en/ai/brancher-ai)
+
+Brancher.ai is a no-code platform that helps users connect AI models and build AI-powered apps quickly, mainly for non-technical creators, product builders, and teams who want to create apps without coding. In AI-driven workflows, it can help product, innovation, and operations professionals prototype and test app ideas faster by combining models through templates instead of custom development.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, Software Engineer, CEO, COO
+
 #### [Brand.dev](https://www.aimyflow.com/en/ai/brand-dev)
 
 Brand.dev is an API for retrieving company logos, colors, fonts, styleguides, screenshots, and related brand or web data from a domain, company name, email, or stock ticker, mainly for developers building onboarding, theming, enrichment, and AI-powered product features. For product engineers, data engineers, and AI teams, it can reduce manual brand-data collection and give LLM workflows fresher brand context for more accurate, on-brand outputs.
@@ -1886,6 +2674,12 @@ Brevoir is an AI-powered venture capital intelligence terminal that helps invest
 
 **Suitable roles:** Financial Analyst, CEO, CFO, Project Management Officer
 
+#### [Brickanta](https://www.aimyflow.com/en/ai/brickanta-com)
+
+Brickanta is an agentic AI platform for construction and society-building teams that helps users work with project documentation and decision-making, with a focus on European enterprise requirements. For construction professionals and project stakeholders, this can reduce manual handling of complex documents and support more consistent, security-conscious decisions as AI becomes part of core project workflows.
+
+**Suitable roles:** Commercial Architect, Civil Engineer, Project Management Officer, IT Infrastructure Manager, Risk Analyst
+
 #### [Bricks](https://www.aimyflow.com/en/ai/thebricks-com)
 
 Bricks is an AI data analysis and reporting tool that turns CSV and Excel files into editable dashboards, reports, charts, spreadsheets, and presentations, mainly for business teams that need insights without complex BI setup. For analysts, managers, and operations-focused teams, it can shorten the path from raw exports to shareable reporting and speed recurring decision-making.
@@ -1910,11 +2704,29 @@ BrightKeyword is an AI-powered keyword research tool that helps SEO professional
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Technical Writer
 
+#### [Brilliant’s Introduction to Neural Networks](https://www.aimyflow.com/en/ai/brilliant-org-courses-intro-neural-networks)
+
+Brilliant’s Introduction to Neural Networks is an interactive online course that helps learners understand how neural networks work through hands-on lessons and exercises, mainly for students and beginners exploring AI. In AI-related roles, it can help aspiring data scientists, analysts, and engineers build practical intuition for classification, activation functions, gradient descent, and other core machine learning concepts.
+
+**Suitable roles:** Data Scientist, Software Engineer, Online Coding Tutor, Education Technology Consultant, Teacher
+
 #### [Brizy AI Website Builder](https://www.aimyflow.com/en/ai/brizy-io-ai-website-builder)
 
 Brizy AI Website Builder is an AI website builder that helps users create professional websites and landing pages quickly, mainly for people who need a fast, simple way to launch a web presence. For marketers, founders, and web teams, it can shorten the time from idea to published page and speed up routine page creation in AI-assisted workflows.
 
 **Suitable roles:** Digital Marketing Director, CEO, Copywriter, Content Creator, Graphic Designer
+
+#### [Browse AI](https://www.aimyflow.com/en/ai/browse-ai)
+
+Browse AI is a no-code AI web scraping and website monitoring platform that helps users extract data, detect page changes, and turn websites into spreadsheets or APIs, mainly for operations teams, analysts, and businesses that rely on web data. In AI-driven workflows, it can help data, ecommerce, recruiting, and market research professionals feed fresher structured website data into automations, reporting, and LLM-based systems.
+
+**Suitable roles:** E-commerce Sales Head, Talent Acquisition Manager, Field Sales Manager, Project Management Officer
+
+#### [Browser Use](https://www.aimyflow.com/en/ai/browser-use-com)
+
+Browser Use is an open-source browser automation platform that helps teams build AI web agents, stealth browsers, and website-to-API workflows for extracting, automating, testing, and monitoring web tasks at scale. For developers, QA teams, and automation engineers, it can make AI-driven web operations more reliable by turning repetitive browser interactions and site data access into reusable programmatic workflows.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, Data Engineer
 
 #### [BrowserAct](https://www.aimyflow.com/en/ai/browseract-com)
 
@@ -1958,11 +2770,29 @@ BudgetSEO is an AI-powered SEO content tool that helps users create search-optim
 
 **Suitable roles:** Content Creator
 
+#### [BuildAI](https://www.aimyflow.com/en/ai/buildai-space)
+
+BuildAI is a no-code platform that helps founders and businesses create custom AI apps, internal tools, websites, and customer experiences from a prompt, with database, authentication, payments, and deployment handled for them. In the AI era, it can help operators, consultants, and product-minded teams turn workflows and expertise into usable software faster without relying on developers for every build.
+
+**Suitable roles:** CEO, COO, Project Management Officer, Education Technology Consultant, Software Development Manager
+
+#### [Bujo](https://www.aimyflow.com/en/ai/getbujo-com)
+
+Bujo is an AI platform for enterprise customer support that helps large B2C companies automate phone and chat service with conversational AI agents and support human teams with a real-time copilot. For customer service, contact center, and CX operations teams, it can improve speed and consistency by grounding responses in approved knowledge, policies, and workflows.
+
+**Suitable roles:** COO, Project Management Officer, IT Infrastructure Manager, Software Development Manager, Other Sales Roles
+
 #### [BulkGen](https://www.aimyflow.com/en/ai/aibulkimagegenerator-com)
 
 BulkGen is an AI bulk image generator that helps users create large batches of images from single prompts or CSV uploads with configurable aspect ratios and export formats, mainly for agencies, businesses, and other high-volume content creators. In AI-driven content workflows, it can help marketers, designers, and e-commerce teams produce consistent visual assets faster for campaigns, catalogs, and social media.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator
+
+#### [Burnt](https://www.aimyflow.com/en/ai/getburnt-ai)
+
+Burnt is an AI agent platform for food distributors that automates order intake, sales workflows, procurement, and credit control to reduce manual operational work. For sales, operations, procurement, and credit teams in distribution, it can centralize workflow visibility and automate routine decisions and follow-ups so staff can focus on inventory, supplier, and cash-flow management.
+
+**Suitable roles:** Logistics Operations Planner, Field Sales Manager, E-commerce Sales Head, CFO, COO
 
 #### [Bustem](https://www.aimyflow.com/en/ai/bustem-com)
 
@@ -1998,6 +2828,12 @@ Bytecap is an AI video editor that helps creators, marketers, editors, podcaster
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Podcast Producer, Content Creator, Ecommerce Seller
 
+#### [ByteDance Seed1.8](https://www.aimyflow.com/en/ai/seed-bytedance-com-en-seed1_8)
+
+ByteDance Seed1.8 is a generalized agentic AI model from ByteDance that supports text and image inputs to help users handle complex real-world tasks such as information retrieval, coding, GUI interaction, and video understanding, mainly for AI developers and research teams. For engineers and applied AI teams, this kind of multimodal agent can reduce manual analysis and execution work in complex workflows that span interfaces, code, and long-form visual content.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Technical Writer, IT Infrastructure Manager
+
 #### [C1 Artifacts API by Thesys](https://www.aimyflow.com/en/ai/thesys-dev-artifacts)
 
 C1 Artifacts API by Thesys is an API and MCP tool that helps developers build AI apps where users can generate and edit slides and reports in real time inside their apps or AI clients. For product, engineering, and AI application teams, it can streamline how presentation and reporting workflows are embedded into AI-driven user experiences.
@@ -2016,6 +2852,36 @@ Cabina.AI is an all-in-one AI workspace that helps users chat with and compare m
 
 **Suitable roles:** Digital Marketing Director, Content Creator, Financial Analyst, Software Engineer, Technical Writer
 
+#### [Cactus](https://www.aimyflow.com/en/ai/cactuscompute-com)
+
+Cactus is an on-device AI inference engine and hybrid cloud toolkit that helps developers deploy speech, vision, and text models locally on smartphones, laptops, and edge devices, with automatic cloud fallback for complex or noisy cases. For mobile, edge, and AI application engineers, it can improve responsiveness, privacy, and cost control by keeping routine inference on-device while sending only harder tasks to the cloud.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Cybersecurity Manager
+
+#### [Caktus AI](https://www.aimyflow.com/en/ai/caktus-ai)
+
+Caktus AI is an AI study platform for students that helps them research, write essays with verifiable citations, solve math and science problems step by step, humanize text, and create flashcards in one place. For students and educators focused on academic integrity, its subject-specific tools can speed drafting, source finding, and concept review while supporting citation and revision workflows.
+
+**Suitable roles:** Teacher, College Professor, Test Prep Tutor, Online Coding Tutor, High School Physics Teacher
+
+#### [Cal AI: Calorie Scanner App](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-zero-ai-calorie-tracker-id6755081229)
+
+Cal AI: Calorie Scanner App is an iPhone health and fitness app that uses AI food recognition to help people log meals, track calories and macros, and set nutrition goals, mainly for users managing weight, fitness, or mindful eating. For nutrition coaches, personal trainers, and health-focused users, it can reduce manual food logging and make daily diet tracking faster and more consistent.
+
+**Suitable roles:** Wellness Coach, Professional Athlete, Food Enthusiast, Content Creator, Healthcare Administrator
+
+#### [Calculator.now’s AI Related Calculators](https://www.aimyflow.com/en/ai/ai-surge-cloud)
+
+Calculator.now’s AI Related Calculators is a collection of online calculators that help users estimate token usage, model training and scaling costs, energy consumption, image generation costs, and AI workflow time savings, mainly for people planning or running AI projects. For AI developers, content teams, and project managers, these tools support faster budgeting and capacity planning by turning model and usage assumptions into clear operational estimates.
+
+**Suitable roles:** Project Management Officer, Software Engineer, Digital Marketing Director, Financial Analyst, Data Scientist
+
+#### [Callab AI](https://www.aimyflow.com/en/ai/callab-ai)
+
+Callab AI is an AI call management platform for organizations in the UAE, helping call centers and teams in healthcare, real estate, debt collection, and similar sectors automate inbound and outbound calls, scheduling, routing, and post-call analysis. For operations, customer support, and sales functions, it can reduce repetitive call handling while producing searchable transcripts, sentiment tags, and structured call data for faster follow-up.
+
+**Suitable roles:** Field Sales Manager, Healthcare Administrator, Real Estate Agent, Restaurant General Manager, COO
+
 #### [CallGPT 6X](https://www.aimyflow.com/en/ai/callgpt-co-uk)
 
 CallGPT 6X is an AI workspace that helps professionals and developer-focused users access six major AI providers in one place, switch models within the same conversation, track per-message costs, and use privacy-first browser-based tools. For teams that work across writing, coding, and research, it can improve efficiency by matching tasks to the most suitable model while keeping conversations and outputs organized.
@@ -2027,6 +2893,12 @@ CallGPT 6X is an AI workspace that helps professionals and developer-focused use
 CallMe is a minimal Claude Code plugin that lets the assistant call your phone to discuss completed work, blockers, or decisions, mainly for developers using Claude Code. In AI-assisted software workflows, it helps engineers and technical leads stay responsive away from their desks by turning agent progress and approval requests into real-time voice interactions.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Calltree AI](https://www.aimyflow.com/en/ai/calltree-ai)
+
+Calltree AI is an agentic AI customer support platform that helps businesses scale 24/7 service, resolve inquiries faster, and manage demand spikes while maintaining brand voice, mainly for contact centers and customer support teams. For customer service leaders and operations teams, it can reduce routine workload and improve consistency by automating common interactions while transferring complex cases to human reps with full context.
+
+**Suitable roles:** COO, Project Management Officer, Branch Office Manager, CEO, Restaurant General Manager
 
 #### [CallZero.ai](https://www.aimyflow.com/en/ai/callzero-ai)
 
@@ -2043,6 +2915,18 @@ Calvin is an AI shorts maker that turns spoken or chatted ideas into short video
 CamClo3D is an AI fashion photography and virtual try-on platform that helps fashion brands and ecommerce teams turn single garment or product images into on-model photos, model swaps, edited visuals, and product videos without traditional photoshoots. For ecommerce managers, marketers, and creative teams, it can speed catalogue production and support more consistent, scalable product presentation across listings and campaigns.
 
 **Suitable roles:** Ecommerce Seller, Digital Marketing Director, Graphic Designer, Content Creator, Fashion Designer
+
+#### [Camfer](https://www.aimyflow.com/en/ai/camfer-dev)
+
+Camfer is an AI CAD tool for SolidWorks that helps users create and understand CAD designs from text or images and retrieve feature-tree information, mainly for mechanical engineers. For engineering and CAD teams, this can reduce manual navigation in design software and speed up routine design tasks through natural-language interaction.
+
+**Suitable roles:** Mechanical Engineer, Industrial Designer, Software Engineer
+
+#### [Camtasia](https://www.aimyflow.com/en/ai/techsmith-com-camtasia)
+
+Camtasia is an AI-powered screen recorder and video editor that helps users create tutorials, training videos, software demos, and other screen-first videos, mainly for creators, educators, corporate trainers, and software marketing teams. Its AI transcription, captions, translation, and text-based editing can help training, education, and enablement professionals produce clearer instructional content faster with less manual editing.
+
+**Suitable roles:** Content Creator, Education Technology Consultant, Corporate Leadership Coach, Online Coding Tutor, Software Development Manager
 
 #### [CancionIA](https://www.aimyflow.com/en/ai/cancionia-com)
 
@@ -2061,6 +2945,12 @@ Candidate Screening is candidate screening software that helps hiring teams asse
 Candidate Search AI is an AI-powered search engine for applicant tracking systems that helps recruiters and staffing teams search their existing candidate databases in natural language, match candidates to job descriptions, and refine results with filters and follow-up queries. In AI-enabled recruiting workflows, it can help talent acquisition professionals reduce manual sourcing and surface stronger matches from their ATS data faster.
 
 **Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO, COO
+
+#### [Candidately AI Resume Builder](https://www.aimyflow.com/en/ai/candidately-com-ai-resume-builder)
+
+Candidately AI Resume Builder is an AI resume formatting and editing tool for staffing agencies that turns raw CVs into branded, client-ready submissions, with parsing, anonymization, and ATS syncing for recruiters and recruiting teams. For desk recruiters, team leads, and ops staff, it can reduce manual document work and standardize candidate presentations, helping them spend more time on submissions, compliance, and placements.
+
+**Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, Project Management Officer
 
 #### [Canva Visual Suite](https://www.aimyflow.com/en/ai/canva-com-visual-suite)
 
@@ -2086,6 +2976,16 @@ CapCut is an AI-powered video editing and graphic design platform that helps use
 
 **Suitable roles:** Content Creator
 
+#### [Capitol](https://www.aimyflow.com/en/ai/capitol-ai)
+
+Capitol is an AI document creation tool that combines smart research and data to help users produce documents more seamlessly, mainly for professionals who create research-backed written materials. In AI-assisted workflows, tools like this can help analysts, consultants, and knowledge workers turn information gathering and drafting into a faster, more structured process.
+
+#### [Captions](https://www.aimyflow.com/en/ai/captions-ai)
+
+Captions is an AI video creation and editing tool that helps users turn raw footage into polished videos with automatic scene cuts, B-roll, captions, subtitles, and AI avatars, mainly for creators, agencies, and small businesses. For video marketers and content teams, it can speed production and iteration by automating routine editing work and reusing consistent on-camera AI actors across multiple videos.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter, Graphic Designer
+
 #### [Captions](https://www.aimyflow.com/en/ai/mirage-app-get-started)
 
 Captions is an AI video editor and generator that helps users turn footage or text prompts into finished videos with automatic editing, captions, dubbing, and AI-generated actors, mainly for content creators and teams producing social, ad, training, or promotional video. For marketers, creators, and video teams, its prompt-based editing and localization features can reduce manual production work and speed up publishing across platforms and languages.
@@ -2104,9 +3004,33 @@ Capture.dev is a bug reporting toolbar for websites that helps teams capture ful
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Cybersecurity Analyst, Data Engineer
 
+#### [Capturelab](https://www.aimyflow.com/en/ai/capturelab-gg)
+
+Capturelab is an AI live streaming tool that automates gaming highlights, scene switching, and real-time production updates for streamers and content creators using platforms like OBS, Streamlabs, Twitch, and YouTube. For streamers and channel operators, this can reduce manual production work and speed up turning gameplay moments into shareable content during and after a broadcast.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
+
+#### [Cardamon AI](https://www.aimyflow.com/en/ai/cardamon-ai)
+
+Cardamon AI is a regulatory compliance platform with auditable AI agents that help regulated firms, especially compliance, legal, and risk teams at banks, fintechs, and crypto companies, monitor regulatory changes, map obligations, run gap analyses, and search regulations. In AI-driven compliance work, its citation-backed outputs and audit trails can help these teams move faster while keeping reviews explainable and easier to defend.
+
+**Suitable roles:** Risk Analyst, Lawyer, Cybersecurity Analyst, Project Management Officer, CEO
+
 #### [CareBridge Copilot](https://www.aimyflow.com/en/ai/sunderlinbcba-com-carebridge-copilot-tool)
 
 CareBridge Copilot is an educational AI tool that helps parents and caregivers of children and teens ages 2–21 understand behavior, respond calmly, and use practical behavioral strategies at home. In AI-supported parenting workflows, it can help caregivers make more consistent in-the-moment decisions with structured scripts, routines, and reflection tools between professional services.
+
+#### [CareSwift](https://www.aimyflow.com/en/ai/careswift-com)
+
+CareSwift is an AI documentation and compliance tool for EMS teams that helps medics and ambulance providers complete ePCR ambulance reports faster, with real-time guidance, field extraction, QA checks, and billing-ready documentation inside existing ePCR systems. For paramedics, EMTs, QA reviewers, and revenue cycle teams, this kind of AI can reduce charting and review workload while improving compliance and reimbursement accuracy.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Certified Nursing Assistant, Home Health Aide
+
+#### [Carrot Labs](https://www.aimyflow.com/en/ai/carrotlabs-ai)
+
+Carrot Labs is an AI agent reliability and optimization platform that helps teams measure, monitor, and improve production agents across real workflows, mainly for organizations building and operating custom AI systems. For AI engineers and product teams, it adds continuous evaluation around latency, correctness, tool use, and business rules so agents can improve as models, data, and workflows change.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, Project Management Officer
 
 #### [Cartoonize AI](https://www.aimyflow.com/en/ai/cartoonize-ai)
 
@@ -2114,11 +3038,47 @@ Cartoonize AI is an online AI photo-to-cartoon generator that helps users turn p
 
 **Suitable roles:** Social Media Content Creator, Graphic Designer, Digital Marketing Director, Content Creator, Copywriter
 
+#### [Cascadeur](https://www.aimyflow.com/en/ai/cascadeur-com)
+
+Cascadeur is standalone 3D keyframe animation software that helps users create, edit, and clean up humanoid or character animations with AI-assisted and physics-based tools, mainly for animators and 3D animation teams. For animation professionals, it can speed pose creation and secondary motion adjustments while preserving manual control over final movement and physical results.
+
+**Suitable roles:** Graphic Designer, Independent Filmmaker, Content Creator
+
+#### [CaseAI](https://www.aimyflow.com/en/ai/caseai-ai)
+
+CaseAI is a WhatsApp AI receptionist that answers customer questions from uploaded documents and website content, captures lead details, and supports 24/7 client communication for immigration consultants and other service businesses. For customer support, intake, and sales teams, it can reduce response delays and help them manage higher message volumes while escalating manager handoffs when needed.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, Branch Office Manager, CEO, Content Creator
+
+#### [Caseflood](https://www.aimyflow.com/en/ai/caseflood-ai)
+
+Caseflood is an AI-powered legal intake tool that helps law firms improve lead response, qualification, and retainer conversion, mainly for plaintiff and personal injury firms with intake teams. By automating rapid follow-up and standardizing intake workflows, it can help legal operations, intake managers, and attorneys reduce missed opportunities and sign more cases from existing lead volume.
+
+**Suitable roles:** Lawyer, Project Management Officer, CEO, COO, Technical Writer
+
 #### [CaseOdds.ai](https://www.aimyflow.com/en/ai/caseodds-ai)
 
 CaseOdds.ai is an AI legal case analysis tool that helps people assess likely court outcomes by uploading documents or describing their situation, and it is mainly for plaintiffs and defendants seeking an initial case review. For legal professionals and self-represented litigants, it can speed early case assessment by surfacing strengths, weaknesses, and possible areas to improve before deeper legal review.
 
 **Suitable roles:** Lawyer
+
+#### [Casino020](https://www.aimyflow.com/en/ai/arxiv-feed-vercel-app)
+
+Casino020 is a Dutch-language comparison and review page that explains online casinos without Cruks, compares listed operators on factors like bonuses, payouts, game selection, and ease of use, and is mainly for Dutch players seeking information on gambling outside the Cruks system. For gambling affiliates, content publishers, and review editors, this kind of structured comparison content can improve how quickly they summarize options and update decision-focused pages for search and AI-driven discovery.
+
+**Suitable roles:** Copywriter, Content Creator, Digital Marketing Director, Financial Analyst
+
+#### [Casino020](https://www.aimyflow.com/en/ai/genieai-app-vercel-app)
+
+Casino020 is an informational page that compares and reviews online casinos without Cruks registration, helping Dutch players assess options, features, bonuses, and payment methods outside the Dutch self-exclusion system. For gambling content publishers and affiliate marketers, structured comparison pages like this can improve discoverability in AI-driven search by clearly summarizing licensing, payouts, and registration conditions.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO
+
+#### [CassetteAI](https://www.aimyflow.com/en/ai/cassetteai-com)
+
+CassetteAI is an AI music generation platform that helps users create tracks from text prompts, including instrumentals, sound effects, vocals, stems, and MIDI, and is mainly for artists, music creators, and producers from beginners to professionals. For composers, producers, and audio teams, it can speed ideation and draft production by turning brief written descriptions into editable music assets.
+
+**Suitable roles:** Content Creator, Copywriter, Podcast Producer, Social Media Content Creator, Music Lover
 
 #### [catapult°](https://www.aimyflow.com/en/ai/catapultmymusic-com)
 
@@ -2160,6 +3120,12 @@ CelebrityAI is an AI video and voice cloning tool that lets users create celebri
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Concert Promoter
 
+#### [Cenote](https://www.aimyflow.com/en/ai/joincenote-com)
+
+Cenote is a HIPAA-compliant sales AI platform that uses voice, text, email, and WhatsApp agents to recover abandoned carts, reactivate churned patients, and follow up with leads for telehealth and digital health clinics. For sales, growth, and patient acquisition teams, it can automate timely, personalized outreach at scale while preserving a high-touch patient experience.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Healthcare Administrator, Wellness Coach, E-commerce Sales Head
+
 #### [Cerebras](https://www.aimyflow.com/en/ai/cerebrascoder-com)
 
 Cerebras is an AI coding platform that provides high-speed GLM 4.6 inference to help developers generate code faster in their preferred AI-enabled editors and agents. For software engineers and development teams, faster model responses can reduce waiting during coding, refactoring, and agent-driven workflows, helping maintain focus and throughput.
@@ -2172,11 +3138,41 @@ Cerebro is an AI-powered knowledge management tool that turns videos, articles, 
 
 **Suitable roles:** Data Scientist, Financial Analyst, Digital Marketing Director, Technical Writer, College Professor
 
+#### [Certus AI](https://www.aimyflow.com/en/ai/certus-ai-com)
+
+Certus AI is an AI phone agent for restaurants that helps handle calls and take orders around the clock, mainly for restaurant operators and teams that do not want to miss inbound calls. In an AI-driven service workflow, it can reduce manual call handling for front-of-house staff and managers so they can focus more on in-person operations.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, COO, Food Enthusiast, CEO
+
+#### [CHAI](https://www.aimyflow.com/en/ai/chai-ml)
+
+CHAI is a consumer AI platform for creating and interacting with AI characters and stories, mainly for everyday users who want social, conversational entertainment. For conversational AI researchers, product teams, and ML engineers, its focus on reward models, RLHF, and large-scale model serving shows how tuning for engagement and retention can shape more effective character-based AI experiences.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Software Engineer, Podcast Producer, Fiction Writer
+
 #### [Chaindesk](https://www.aimyflow.com/en/ai/chaindesk-ai)
 
 Chaindesk is a no-code platform for building custom AI chatbots trained on company data to automate website support, lead generation, and team workflows, mainly for customer support and operations teams. In AI-enabled support environments, it can help service and success professionals reduce repetitive tickets while keeping answers aligned with their knowledge base and escalating conversations to humans when needed.
 
 **Suitable roles:** Project Management Officer, Software Development Manager, Digital Marketing Director, Field Sales Manager, COO
+
+#### [Channel3](https://www.aimyflow.com/en/ai/trychannel3-com)
+
+Channel3 is agentic commerce infrastructure that organizes product data into APIs and machine-readable catalogs so AI agents can search, recommend, and purchase products, mainly for developers building shopping experiences and brands distributing catalogs to AI platforms. For ecommerce, product, and catalog teams, this can improve AI-era product discovery by making merchandise more accessible and usable in agent-driven shopping flows.
+
+**Suitable roles:** E-commerce Sales Head, Software Engineer, Digital Marketing Director, Data Engineer, CEO
+
+#### [Chaos](https://www.aimyflow.com/en/ai/chaos-com-cn-ecosystem)
+
+Chaos is a 3D visualization tool ecosystem from Chaos that helps users render, simulate, and visualize projects across architecture, architectural visualization, media and entertainment, and product design, mainly for architects, AEC professionals, designers, and VFX artists. With AI-assisted ideation and connected rendering tools, it can help architects and visualization teams speed design decisions and produce more consistent photoreal outputs within existing 3D workflows.
+
+**Suitable roles:** Commercial Architect, Residential Architect, Graphic Designer, Industrial Designer, Independent Filmmaker
+
+#### [Character.AI](https://www.aimyflow.com/en/ai/beta-character-ai)
+
+Character.AI is an AI chat platform that lets users sign up to chat with more than 10 million AI characters, mainly for people who want conversational, character-based interactions. For writers, creators, and community teams, it can support rapid idea exploration and dialogue testing through interactive AI conversations.
+
+**Suitable roles:** Content Creator, Fiction Writer, Social Media Content Creator, Copywriter, Community College Instructor
 
 #### [CharacterGen](https://www.aimyflow.com/en/ai/charactergen-app)
 
@@ -2190,11 +3186,23 @@ CharHub.ai is an AI character chat and discovery platform that helps users explo
 
 **Suitable roles:** Fiction Writer, Content Creator, Social Media Content Creator, Copywriter, Community College Instructor
 
+#### [Charisma.ai](https://www.aimyflow.com/en/ai/charisma-ai)
+
+Charisma.ai is an immersive conversational AI platform that helps organizations create realistic conversation simulations for online training and brand campaigns, mainly for training and development teams and brand experience professionals. Its real-time analytics and cross-platform conversational scenarios can help learning designers, trainers, and marketers refine audience interactions and improve training effectiveness or engagement.
+
+**Suitable roles:** Corporate Leadership Coach, Digital Marketing Director, Education Technology Consultant, Project Management Officer, Content Creator
+
 #### [ChartAI](https://www.aimyflow.com/en/ai/chartai-io)
 
 ChartAI is an AI chart and diagram generator that helps users create visuals such as mind maps, flowcharts, timelines, Gantt charts, ER diagrams, and infographics, mainly for people organizing ideas or data. For business, product, and project work, it can speed up turning rough concepts or imported data into clear visual formats for planning and communication.
 
 **Suitable roles:** Project Management Officer, Software Development Manager, Data Scientist, CEO, Technical Writer
+
+#### [Chat With Legends](https://www.aimyflow.com/en/ai/chatwithlegends-co)
+
+Chat With Legends is an AI chat tool that lets users hold private conversations or roundtables with simulated historical figures to explore questions from multiple perspectives, mainly for curious learners, educators, and creative thinkers. In AI-assisted research, brainstorming, and teaching, it can help writers, teachers, and knowledge workers generate fresh angles by comparing how notable figures might approach the same problem.
+
+**Suitable roles:** Teacher, Fiction Writer, Copywriter, College Professor, Content Creator
 
 #### [Chat01.ai](https://www.aimyflow.com/en/ai/openai01-net)
 
@@ -2208,6 +3216,12 @@ Chat360 is an agentic AI omnichannel customer experience platform that helps bus
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Restaurant General Manager, Healthcare Administrator
 
+#### [Chatbase](https://www.aimyflow.com/en/ai/chatbase-co)
+
+Chatbase is an AI customer support agent platform that helps businesses build, deploy, and manage conversational agents to answer support questions, automate workflows, and escalate complex issues, especially for customer support teams and operations leaders. In AI-enabled support operations, it can help service and CX teams reduce manual ticket handling while using analytics and controlled escalation to improve resolution quality.
+
+**Suitable roles:** COO, Project Management Officer, Software Development Manager, Digital Marketing Director
+
 #### [Chatbit](https://www.aimyflow.com/en/ai/chatbit-co)
 
 Chatbit is a no-code platform for building custom AI chatbots trained on a company’s website, knowledge base, and files, mainly for businesses that want website support, lead capture, and customer engagement. For customer support, marketing, and ecommerce teams, it can automate routine website conversations while capturing leads and refining answers from real visitor chats.
@@ -2220,11 +3234,35 @@ ChatBotKit is an AI agent infrastructure platform that helps developers and busi
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, COO
 
+#### [ChatDOC](https://www.aimyflow.com/en/ai/chatdoc-com)
+
+ChatDOC is an AI document chat tool that helps users ask questions, summarize content, extract key information, and verify answers with sources across PDFs and other document formats, mainly for researchers, students, lawyers, analysts, and other knowledge workers. In AI-assisted workflows, its cited answers and cross-file querying can help document-heavy roles review large files faster while keeping evidence visible for decisions and communication.
+
+**Suitable roles:** Financial Analyst, Lawyer, College Professor, Technical Writer, IT Infrastructure Manager
+
+#### [ChatExcel](https://www.aimyflow.com/en/ai/chatexcel-com)
+
+ChatExcel is an AI spreadsheet and presentation tool that lets users process Excel files, analyze database data, create charts, and generate PPTs through natural language, mainly for office workers and data-heavy teams. For analysts, finance, HR, and operations roles, it can reduce manual formula and SQL work by turning routine data preparation and reporting into conversational tasks.
+
+**Suitable roles:** Financial Analyst, Financial Planning & Analysis Manager, Project Management Officer, Compensation & Benefits Manager, Logistics Operations Planner
+
 #### [ChatFeatured](https://www.aimyflow.com/en/ai/chatfeatured-com)
 
 ChatFeatured is an AI search optimization platform that helps brands and agencies monitor, analyze, and improve how AI engines like ChatGPT, Google AI, Gemini, Perplexity, and Grok discover, cite, and recommend their content. For SEO, content, PR, and brand teams, it can turn AI visibility data and citation patterns into prioritized actions that improve how their work is surfaced in answer engines.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Software Development Manager
+
+#### [ChatGiraffe](https://www.aimyflow.com/en/ai/chatgiraffe-ai)
+
+ChatGiraffe is an AI expense tracker and financial assistant that helps users record expenses through chat, receipt photos, and bank statement analysis, mainly for individuals managing personal finances. For finance-conscious freelancers and other self-managed workers, AI-based categorization and spending insights can reduce manual bookkeeping and support clearer budgeting decisions.
+
+**Suitable roles:** Financial Analyst, Certified Public Accountant, Medical Biller
+
+#### [ChatGPT](https://www.aimyflow.com/en/ai/chat-openai-com)
+
+ChatGPT is an AI chatbot that helps users explore ideas, solve problems, search for answers, and create content with text, voice, images, and file uploads, mainly for everyday users and knowledge workers. In AI-assisted workflows, it can help functions like writing, research, and general problem-solving move faster by providing tailored responses from ongoing conversations.
+
+**Suitable roles:** Teacher, Content Creator, Technical Writer, Software Engineer, Financial Analyst
 
 #### [ChatGPT](https://www.aimyflow.com/en/ai/chat-openai-com-chat)
 
@@ -2262,11 +3300,23 @@ Chatolia is a no-code platform for building and deploying AI support agents trai
 
 **Suitable roles:** Software Development Manager, Project Management Officer, Digital Marketing Director, COO, Software Engineer
 
+#### [ChatPDF](https://www.aimyflow.com/en/ai/chatpdf-com)
+
+ChatPDF is an AI document analysis tool that lets users chat with PDFs and other files to summarize content, ask questions, compare documents, and verify answers with citations, mainly for students, researchers, and professionals working with dense documents. For research, legal, finance, and training workflows, it can speed up reviewing long materials while making source checking easier through linked references and side-by-side document context.
+
+**Suitable roles:** Technical Writer, Financial Analyst, Lawyer, College Professor, Software Engineer
+
 #### [ChatPlayground](https://www.aimyflow.com/en/ai/chatplayground-ai)
 
 ChatPlayground is an AI model comparison platform that helps users test 40+ models side by side, search the web, reuse prompts, and analyze uploaded PDFs or images, mainly for professionals who rely on AI for research, writing, and decision support. For product, research, marketing, and engineering teams, comparing outputs and reaching a consensus across models can speed evaluation and improve confidence in AI-assisted work.
 
 **Suitable roles:** Software Engineer, Data Scientist, Digital Marketing Director, Financial Analyst, Lawyer
+
+#### [ChatPPT](https://www.aimyflow.com/en/ai/chatppt-yoo-ai-com)
+
+ChatPPT is an AI presentation tool that helps users generate, design, format, and beautify PPTs from prompts, documents, web pages, images, outlines, or speeches, mainly for office professionals creating presentations. In AI-enabled workflows, it can help knowledge workers, analysts, trainers, and marketers turn source material into structured decks faster while reducing manual layout and editing time.
+
+**Suitable roles:** Project Management Officer, Digital Marketing Director, Financial Analyst, Corporate Leadership Coach, CEO
 
 #### [ChatSweetie](https://www.aimyflow.com/en/ai/chatsweetie-ai)
 
@@ -2280,11 +3330,23 @@ Chatty is an AI writing guidance tool that helps people improve their English em
 
 **Suitable roles:** Copywriter, Technical Writer, Field Sales Manager, Talent Acquisition Manager, Social Media Content Creator
 
+#### [CheckforAi](https://www.aimyflow.com/en/ai/checkforai-com)
+
+CheckforAi was a free nonprofit project for individuals, and the service has now been sunset as the team shifts focus to new projects. For educators, editors, and content reviewers, its closure highlights how quickly AI-related writing analysis tools can change and why workflows should not depend on a single service.
+
+**Suitable roles:** Teacher, Technical Writer, Copywriter, Content Creator, Education Technology Consultant
+
 #### [Cheerlink](https://www.aimyflow.com/en/ai/cheerlink-app)
 
 Cheerlink is an AI-powered inbox and sales widget that helps websites engage visitors, answer questions instantly, and improve conversion rates, mainly for ecommerce businesses and sales-driven teams. In AI-enabled customer journeys, it helps support and revenue teams capture intent the moment visitors are ready to act.
 
 **Suitable roles:** Ecommerce Seller
+
+#### [ChefGPT](https://www.aimyflow.com/en/ai/chefgpt-xyz)
+
+ChefGPT is an AI recipe generator and meal planning app that helps home cooks create recipes from available ingredients, track calories, organize pantry items, and plan meals around dietary goals. For home cooks focused on nutrition or meal prep, it can reduce manual logging and planning work by turning food photos, pantry data, and preferences into faster day-to-day decisions.
+
+**Suitable roles:** Food Enthusiast, Wellness Coach, Content Creator
 
 #### [Chiaro AI](https://www.aimyflow.com/en/ai/chiaro-ai)
 
@@ -2301,6 +3363,12 @@ Chronicle is an AI presentation maker that helps professional teams turn notes, 
 Chronostates is an AI alternate-history game and book engine that helps storytellers create interactive worlds, explore branching what-if scenarios, and turn evolving timelines into novels, mainly for writers and history-focused creators. For authors and narrative designers, its world-state tracking and cascading consequences can speed ideation while preserving continuity across complex storylines.
 
 **Suitable roles:** Fiction Writer, Content Creator, Middle School History Teacher, Teacher, Independent Filmmaker
+
+#### [Cifrato](https://www.aimyflow.com/en/ai/cifrato-ai)
+
+Cifrato is an AI-powered accounting automation platform that syncs electronic invoices from tax authorities across Latin America, classifies them, and sends accounting-ready data to ERP or POS systems for accountants and finance teams. For accounting and finance operations, it can reduce manual data entry and reconciliation work so teams can focus more on compliance, controls, and financial decision-making.
+
+**Suitable roles:** Certified Public Accountant, Financial Analyst, CFO, Financial Planning & Analysis Manager, Medical Biller
 
 #### [Cisco AI Assistant](https://www.aimyflow.com/en/ai/cisco-com-site-us-en-solutions-artificial-intelligence-ai-assistant-index-html)
 
@@ -2320,6 +3388,18 @@ Citable is an AI brand visibility and analytics platform that helps teams track 
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Ecommerce Seller
 
+#### [Civitai](https://www.aimyflow.com/en/ai/civitai-com)
+
+Civitai is a community platform for discovering Stable Diffusion and Flux models, creating and sharing AI-generated art, and exploring images, videos, and creator content, mainly for generative AI artists and model creators. For creative professionals and AI content makers, it can speed experimentation by making reusable models, styles, and community examples easier to find and apply in visual workflows.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Independent Filmmaker, Copywriter
+
+#### [ClaimGlide](https://www.aimyflow.com/en/ai/claimglide-com)
+
+ClaimGlide is a HIPAA-compliant AI prior-authorization automation tool that helps specialty medical practices create and submit prior-auths, follow up with payers, appeal denials, and store approval records within existing EMR workflows. For revenue cycle, authorization, and billing teams, this kind of automation can reduce manual administrative work and help speed reimbursement by keeping submissions, timelines, and appeal documentation organized.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Family Doctor, Medical Lab Technician
+
 #### [Clamor](https://www.aimyflow.com/en/ai/clamor-social)
 
 Clamor is a social platform designed to help users create, share, and engage around content and communities, likely aimed at creators, brands, and online audiences. In the AI era, social tools that streamline content workflows can help community and marketing teams maintain more consistent engagement.
@@ -2331,6 +3411,12 @@ Clamor is a social platform designed to help users create, share, and engage aro
 Claptools YouTube Transcript Generator is a free web tool that converts public YouTube videos into plain text transcripts quickly, mainly for content creators, researchers, and marketers who need copyable video text without signing up. In AI-assisted content workflows, ready transcripts help these users repurpose video material faster for notes, posts, summaries, and SEO-oriented editing.
 
 **Suitable roles:** Content Creator, Copywriter, Digital Marketing Director, Technical Writer, College Professor
+
+#### [Clara](https://www.aimyflow.com/en/ai/askclara-com)
+
+Clara is an AI-supported primary care tool that helps patients review symptoms, analyze labs, manage prescriptions, and import medical history, with clinician verification for care-related actions. For clinicians and care teams, it can streamline chart review and surface longitudinal patterns in patient data, helping them make faster, more informed decisions.
+
+**Suitable roles:** Family Doctor, Healthcare Administrator, Wellness Coach, Medical Biller
 
 #### [Claude](https://www.aimyflow.com/en/ai/claude-com-solutions-healthcare)
 
@@ -2386,6 +3472,12 @@ Claude Skills Library is a curated collection of agent skills and tools that hel
 
 **Suitable roles:** Software Engineer, Data Engineer, Data Scientist, Cybersecurity Analyst, Cybersecurity Manager, Digital Marketing Director +3 more
 
+#### [ClawDaddy](https://www.aimyflow.com/en/ai/clawdaddy-run)
+
+ClawDaddy is a managed OpenClaw hosting service that helps users deploy, run, and manage OpenClaw AI agents on private servers through chat, mainly for people who want OpenClaw without handling Docker, SSH, security hardening, or model configuration. For developers, operators, and automation-focused teams, it can reduce setup and maintenance work so they can spend more time iterating on always-on AI agents and workflows.
+
+**Suitable roles:** Software Engineer, IT Infrastructure Manager, Software Development Manager, Project Management Officer, Cybersecurity Manager
+
 #### [Clawdi](https://www.aimyflow.com/en/ai/clawdi-ai)
 
 Clawdi is a private AI chief-of-staff platform that deploys agents in messaging apps to handle email triage, calendar management, reports, research, sales updates, and operational tasks across 500+ apps, mainly for founders, executives, teams, and consultants. In AI-enabled workflows, it can help leadership, operations, sales, and product roles reduce context switching by turning chat-based requests into secure multi-step actions across their existing tools.
@@ -2410,11 +3502,29 @@ clawXiv is a free open-access archive and distribution service for autonomous AI
 
 **Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Electrical Engineer, Applied Mathematician
 
+#### [Claybird](https://www.aimyflow.com/en/ai/claybird-com)
+
+Claybird is an AI outbound platform for janitorial and other commercial service contractors that helps teams find local business prospects, automate personalized outreach, and deliver pre-qualified opportunities to a sales dashboard. For sales and growth teams at service contractors, this can reduce manual prospecting and speed follow-up by using AI to target likely buyers and surface warmer commercial conversations.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, Branch Office Manager, CEO
+
+#### [Cleanup.pictures](https://www.aimyflow.com/en/ai/cleanup-pictures)
+
+Cleanup.pictures is an AI photo retouching web app that removes unwanted objects, people, text, logos, watermarks, and defects from images, mainly for photographers, creative teams, real estate agents, and e-commerce users. In AI-assisted image workflows, it helps these professionals produce cleaner marketing, listing, and customer-ready visuals faster without relying on more complex manual editing tools.
+
+**Suitable roles:** Graphic Designer, Real Estate Agent, Ecommerce Seller, Content Creator, Software Engineer
+
 #### [CleeAI](https://www.aimyflow.com/en/ai/cleeai-com)
 
 CleeAI is an enterprise AI operating system and orchestration engine that helps organizations build, deploy, and optimize production-ready AI tools with built-in compliance, security, and scalability, mainly for enterprise teams in sales, operations, and regulated environments. For sales and operations professionals, this kind of governed, explainable AI can speed decision support and reporting while reducing manual logic and improving audit readiness.
 
 **Suitable roles:** Software Development Manager, COO, Field Sales Manager, Logistics Operations Planner, Cybersecurity Manager
+
+#### [Clever AI Humanizer](https://www.aimyflow.com/en/ai/writewithlaika-com)
+
+Clever AI Humanizer is a free AI writing and text humanization tool that helps users generate essays, blog posts, and articles, then rewrite them to sound more natural, mainly for students, writers, and general content creators. For content and marketing teams, combining drafting, paraphrasing, grammar checking, and humanization in one workflow can speed up production while improving readability before human review.
+
+**Suitable roles:** Copywriter, Content Creator, Digital Marketing Director, Teacher, Technical Writer
 
 #### [Cli3nts](https://www.aimyflow.com/en/ai/cli3nts-com)
 
@@ -2427,6 +3537,12 @@ Cli3nts is an all-in-one LinkedIn AI agent that automates prospecting, outreach,
 ClickClaw.AI is a no-code platform for deploying and running autonomous AI agents with managed infrastructure, helping users launch agents for tasks like research, data scraping, code generation, market analysis, and customer support, especially non-technical users and small teams. In AI-driven operations, it can help sales, support, research, and marketing teams automate recurring workflows faster without needing DevOps or server management.
 
 **Suitable roles:** Software Development Manager, IT Infrastructure Manager, Field Sales Manager, Digital Marketing Director, Financial Analyst
+
+#### [Clicks](https://www.aimyflow.com/en/ai/goclicks-ai)
+
+Clicks is an AI agent platform for back-office operations that helps organizations automate tasks such as executive search workflows, CRM updates, revenue cycle management, insurance servicing, and finance and accounting processes, mainly for operations teams replacing BPO or shared service center work. For operations, finance, and healthcare administration professionals, AI agents that work through existing systems with audit trails can reduce manual workload and improve consistency across complex, high-volume processes.
+
+**Suitable roles:** COO, Healthcare Administrator, Financial Planning & Analysis Manager, Project Management Officer, IT Infrastructure Manager
 
 #### [Clico](https://www.aimyflow.com/en/ai/tryclico-com)
 
@@ -2458,6 +3574,12 @@ ClinFolio is a secure clinical portfolio platform that helps doctors log procedu
 
 **Suitable roles:** Family Doctor, Healthcare Administrator, Medical Lab Technician
 
+#### [Clipdrop](https://www.aimyflow.com/en/ai/clipdrop-co)
+
+Clipdrop is an AI image editing and generation tool that helps users create and enhance visuals with features like background removal, cleanup, upscaling, relighting, uncropping, resizing, and text-to-image, mainly for designers, marketers, and other image-focused creators. In AI-assisted creative workflows, it can speed routine visual production and retouching work for content, design, and digital marketing teams.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller, Software Engineer
+
 #### [ClipFinder](https://www.aimyflow.com/en/ai/clipfinder-org)
 
 ClipFinder is an AI video clip extraction tool that helps creators turn long videos, streams, VODs, and podcasts into ranked, publish-ready short clips with captions, reframing, and export or YouTube publishing options. For video editors, social media managers, and content creators, it can reduce time spent reviewing footage and speed short-form content production from long-form recordings.
@@ -2470,17 +3592,47 @@ ClipGOAT AI YouTube Shorts Maker is an AI video editing tool that turns long You
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Podcast Producer
 
+#### [Clips AI](https://www.aimyflow.com/en/ai/clipsai-com)
+
+Clips AI is an open-source Python library that helps developers automatically turn long-form, audio-centric videos into shorter clips and resize them for formats like 9:16, especially for podcasts, interviews, speeches, and sermons. In AI-driven video workflows, it can help developer teams and media engineers automate transcript-based clipping and speaker-focused reframing to speed repurposing for multiple channels.
+
+**Suitable roles:** Software Engineer, Podcast Producer, Social Media Content Creator, Content Creator, Technical Writer
+
 #### [Clipto.AI](https://www.aimyflow.com/en/ai/clipto-com)
 
 Clipto.AI is a private media management assistant that helps users organize digital assets, transcribe content, and edit video, mainly for creators, researchers, and media professionals. In the AI era, it reduces the manual overhead of handling large media libraries so creative teams can focus on production.
 
 **Suitable roles:** Content Creator, Media Communicators, Information Technology Managers, Computer Occupations, Postsecondary Teachers, School Teachers +4 more
 
+#### [Clockworks Compute](https://www.aimyflow.com/en/ai/felvin-com)
+
+Clockworks Compute is a GPU software tool focused on compile-time knowledge to help developers build correct and fast GPU programs, mainly for GPU programmers and engineers working on performance-sensitive systems. By shifting correctness and performance work earlier in the development cycle, it can help these engineering teams reduce trial-and-error tuning and make GPU development more predictable.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Electrical Engineer, Data Engineer
+
+#### [Clodo](https://www.aimyflow.com/en/ai/clodo-ai)
+
+Clodo is an AI lead generation and outbound tool that helps users describe an ideal customer profile in plain English, find enriched and ranked prospects, and generate personalized outreach, mainly for SDRs, growth teams, founders, and sales teams. For sales and GTM professionals, it can reduce manual list building and research by turning ICP discovery and outbound execution into a prompt-driven workflow.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, COO
+
 #### [Clone Detector](https://www.aimyflow.com/en/ai/clonedetector-com)
 
 Clone Detector is a brand protection and phishing site detection tool that helps businesses and security teams find fraudulent domain clones and lookalike websites using domain fuzzing, visual similarity analysis, and risk-based reporting. For cybersecurity, compliance, and brand protection roles, it can improve AI-era monitoring by surfacing subtle impersonation threats earlier and supporting faster investigation, reporting, and response.
 
 **Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, IT Infrastructure Manager, Risk Analyst, CEO
+
+#### [ClosersCopy](https://www.aimyflow.com/en/ai/closerscopy-com)
+
+ClosersCopy is an AI copywriting tool that helps users create SEO-focused blog posts, marketing copy, and custom writing workflows, mainly for copywriters, marketers, and content creators. In AI-assisted content work, its custom frameworks can help marketing and writing teams standardize output quality while speeding up drafting for blogs, ads, emails, and sales pages.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Social Media Content Creator, Content Creator, CEO
+
+#### [Closure Intelligence](https://www.aimyflow.com/en/ai/closure-intel-com)
+
+Closure Intelligence is an AI digital analyst that helps law enforcement agencies and investigators securely transcribe, translate, search, organize, and analyze case evidence to reduce evidence overload. In AI-assisted investigations, it can help detectives, prosecutors, and major crimes teams surface relevant material faster while keeping human judgment central to case decisions.
+
+**Suitable roles:** Lawyer, Project Management Officer, COO, Cybersecurity Manager, Technical Writer
 
 #### [Clotheschangerai.org](https://www.aimyflow.com/en/ai/clotheschangerai-org)
 
@@ -2493,6 +3645,12 @@ Clotheschangerai.org is an AI virtual try-on tool that lets users upload a model
 Clothoff is an AI image and video nudification tool that lets users upload photos, adjust body and pose settings, and generate simulated nude images or animated undress videos, mainly for adults creating explicit content. For adult content creators and moderators, tools like this show how generative AI can quickly produce synthetic sexual media while increasing the need for consent, policy, and safety controls.
 
 **Suitable roles:** Content Creator, Social Media Content Creator
+
+#### [Cloudglue](https://www.aimyflow.com/en/ai/cloudglue-dev)
+
+Cloudglue is a developer-focused API that turns video and audio into structured, searchable AI-ready data to help teams build video-aware applications such as chatbots, analysis tools, and extraction workflows. For AI engineers and product developers, it can improve retrieval, question answering, and automated analysis by making video content usable as context for LLM-based systems.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Technical Writer, Project Management Officer
 
 #### [Cloudidr LLM Ops](https://www.aimyflow.com/en/ai/cloudidr-com-llm-ops)
 
@@ -2542,17 +3700,35 @@ CoCounsel is an AI assistant from Thomson Reuters that helps legal, tax, audit, 
 
 **Suitable roles:** Lawyer, Corporate Tax Manager, Certified Public Accountant, CFO, IT Infrastructure Manager
 
+#### [Code Snippets AI](https://www.aimyflow.com/en/ai/codesnippets-ai)
+
+Code Snippets AI is a code snippet management and AI coding assistant platform that helps developers and engineering teams save, organize, share, and chat with context-rich snippets and indexed codebases to build features, fix bugs, add comments, and understand code faster. In AI-assisted software work, it can help developers and team leads reduce repetitive coding and improve shared code understanding through centralized snippet context and collaboration controls.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Technical Writer, Data Engineer
+
 #### [Code Wiki](https://www.aimyflow.com/en/ai/codewiki-google)
 
 Code Wiki is an AI documentation tool that automatically generates and updates interactive codebase documentation, architecture overviews, diagrams, and code search for software developers and engineering teams. In AI-assisted development, it can help engineers, tech leads, and code reviewers understand unfamiliar systems faster and keep documentation aligned with merged code changes.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, IT Infrastructure Manager, Project Management Officer
 
+#### [Codeaid](https://www.aimyflow.com/en/ai/codeaid-io)
+
+Codeaid is a coding test and assessment platform that helps companies evaluate and hire developers, ML engineers, and data scientists through realistic coding challenges, automated scoring, and AI-assisted interviewing. In AI-era hiring, it can help recruiters and engineering teams assess practical problem-solving more consistently while reducing manual review time for technical candidate screening.
+
+**Suitable roles:** Talent Acquisition Manager, Software Development Manager, Data Scientist, Software Engineer, Data Engineer
+
 #### [CodeFlying](https://www.aimyflow.com/en/ai/codeflying-app)
 
 CodeFlying is an AI app builder that helps users create full-stack apps through chat, mainly for creators and non-technical users who want to turn ideas into working applications quickly. For product, design, and early-stage startup work, it can speed prototyping by converting natural-language concepts into app implementations without traditional coding.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Graphic Designer, CEO, Content Creator
+
+#### [Codenull.ai](https://www.aimyflow.com/en/ai/codenullai-versoly-page)
+
+Codenull.ai is a no-code AI platform that helps users build and train custom AI models from their own data for tasks like recommendation engines, fraud detection, forecasting, portfolio optimization, and robo-advisors, mainly for businesses and teams without coding expertise. In AI-driven workflows, it can help analysts, operations teams, and finance professionals turn historical business data into faster predictive models and decision support tools.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Logistics Operations Planner, Project Management Officer, Software Development Manager
 
 #### [CodePup AI](https://www.aimyflow.com/en/ai/codepup-ai)
 
@@ -2572,6 +3748,12 @@ Codev is an AI app builder that helps users turn text descriptions into producti
 
 **Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Cybersecurity Manager, Digital Marketing Director, Information Technology Managers +19 more
 
+#### [CodeViz](https://www.aimyflow.com/en/ai/codeviz-ai)
+
+CodeViz is a collaborative code visualization and architecture diagramming tool that helps software teams understand codebases, review changes, and keep documentation aligned with the source code. For engineers and engineering leaders, it can improve PR reviews, ticket scoping, and architecture communication by turning complex code relationships into shared, versioned views.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Project Management Officer
+
 #### [Codex](https://www.aimyflow.com/en/ai/chatgpt-com-codex)
 
 Codex is a cloud-based software engineering agent from OpenAI that helps software engineers and development teams answer codebase questions, execute code, draft pull requests, and handle tasks like refactors, migrations, testing, and documentation. For engineering functions, it can speed parallel agent workflows and automate routine work such as issue triage, CI/CD, and code review, helping teams focus on higher-leverage design and delivery decisions.
@@ -2590,17 +3772,53 @@ CodingFleet Python Code Generator is an AI coding tool that turns written instru
 
 **Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Online Coding Tutor, Education Technology Consultant
 
+#### [Codyco](https://www.aimyflow.com/en/ai/codyco-ai-en)
+
+Codyco is a phone AI for hotel groups that answers calls, handles common guest questions, and books rooms end to end with payment and PMS entry, mainly for hotel operators managing reception availability and direct bookings. In AI-driven hotel operations, it can reduce front-desk call load while helping revenue, reservations, and guest service teams capture more booking opportunities outside staffed hours.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, COO, CEO, Project Management Officer
+
+#### [Cogniflow](https://www.aimyflow.com/en/ai/cogniflow-ai)
+
+Cogniflow is a no-code AI platform for busy professionals and teams to build chatbots, extract information from documents, and analyze text, images, audio, or video, though the page states the platform has been discontinued. For customer service, HR, operations, and similar functions, tools like this can reduce manual review and data-entry work by turning unstructured content into searchable, actionable outputs.
+
+**Suitable roles:** Project Management Officer, Talent Acquisition Manager, Employee Relations Manager, Digital Marketing Director, COO
+
 #### [Cognition](https://www.aimyflow.com/en/ai/cognition-ai)
 
 Cognition is an AI agent lab that builds Devin, an AI software engineer designed to help engineering teams collaborate on software development and related workflows. For software engineers and engineering leaders, tools like Devin can reduce manual coding and coordination work, freeing teams to focus more on architecture, review, and higher-value problem solving.
 
 **Suitable roles:** Software Engineer, Software Development Manager, CEO, IT Infrastructure Manager, Project Management Officer
 
+#### [CognitiveMill](https://www.aimyflow.com/en/ai/cognitivemill-com)
+
+CognitiveMill is a cognitive computing cloud platform that helps media and entertainment teams analyze video content and automate workflows such as clipping, highlights, subtitles, ad insertion, and content filtering. For editors, broadcasters, producers, and OTT operations, this kind of AI video understanding can reduce repetitive manual review and speed content preparation across channels.
+
+**Suitable roles:** Content Creator, Podcast Producer, TV News Reporter, Social Media Content Creator, Digital Marketing Director
+
+#### [Cogram](https://www.aimyflow.com/en/ai/cogram-com)
+
+Cogram is an AI platform for architects, engineers, and other AEC professionals that helps teams streamline project documentation, collaboration, RFIs and submittals, meeting minutes, field reports, and email management. For architecture, engineering, and project delivery roles, it can reduce repetitive admin work and make project information easier to capture, search, and reuse across active jobs.
+
+**Suitable roles:** Civil Engineer, Mechanical Engineer, Electrical Engineer, Residential Architect
+
+#### [Cohere](https://www.aimyflow.com/en/ai/cohere-ai)
+
+Cohere is an enterprise AI platform with customizable language, retrieval, search, and transcription models that help organizations automate workflows, surface insights, and build secure AI applications, mainly for businesses and development teams. For IT, data, and operations professionals, its private deployment and proprietary-data customization can make AI systems more usable in regulated environments and business-specific workflows.
+
+**Suitable roles:** IT Infrastructure Manager, Data Engineer, Software Development Manager, COO, Healthcare Administrator
+
 #### [Collov.ai](https://www.aimyflow.com/en/ai/collov-ai-ai-video-generator)
 
 Collov.ai offers virtual staging AI that helps realtors and brokerages create staged property visuals for real estate marketing and listing presentation. For real estate professionals, AI-based staging can speed property preparation workflows and help teams present vacant spaces more consistently across listings.
 
 **Suitable roles:** Real Estate Agent, Graphic Designer, Digital Marketing Director, Branch Office Manager
+
+#### [ColorArt.AI](https://www.aimyflow.com/en/ai/colorart-ai)
+
+ColorArt.AI is an AI coloring page generator that turns text prompts, photos, sketches, and low-definition images into printable coloring pages, mainly for families, creators, and businesses producing coloring content at scale. In AI-assisted creative workflows, it can help educators, designers, and content creators quickly turn ideas or existing images into reusable activity materials with less manual outlining.
+
+**Suitable roles:** Content Creator, Graphic Designer, Teacher, Copywriter, Ecommerce Seller
 
 #### [ColorHippo](https://www.aimyflow.com/en/ai/colorhippo-com)
 
@@ -2620,6 +3838,18 @@ ColorPage Lab is an AI coloring page generator that turns text prompts, photos, 
 
 **Suitable roles:** Teacher, Graphic Designer, Content Creator, Ecommerce Seller, Copywriter
 
+#### [Colossyan Creator](https://www.aimyflow.com/en/ai/colossyan-com)
+
+Colossyan Creator is an AI video generator that helps users create videos with real actors in less than five minutes, mainly for teams and professionals producing business video content. In AI-driven content workflows, it can help learning, marketing, and communications teams turn written information into consistent video assets faster.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Education Technology Consultant, Corporate Leadership Coach, Copywriter
+
+#### [Colourlab AI](https://www.aimyflow.com/en/ai/colourlab-ai)
+
+Colourlab AI is an AI-powered color grading tool that helps editors, filmmakers, colorists, and post-production teams automate shot matching, auto balance, white balance, and look matching across video timelines. For video editors and finishing artists, it can reduce manual grading time and speed up consistent first-pass color work so they can focus more on creative decisions.
+
+**Suitable roles:** Independent Filmmaker, Content Creator, Graphic Designer, Copywriter, Social Media Content Creator
+
 #### [Columns Flow](https://www.aimyflow.com/en/ai/columns-ai-flow)
 
 Columns Flow is a data workflow tool that helps spreadsheet users, analysts, engineers, and managers turn connected data sources into visual reports, automated updates, alerts, and shareable summaries using plain-language transformations. For data and operations teams, it can reduce manual wrangling and brittle scripts while keeping reporting and downstream handoffs more consistent in AI-assisted workflows.
@@ -2638,17 +3868,39 @@ CommunityOne is a Discord AI bot and analytics platform that helps server owners
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, CEO
 
+#### [Comp AI](https://www.aimyflow.com/en/ai/trycomp-ai)
+
+Comp AI is an AI-powered compliance platform that helps companies automate evidence collection, policy generation, risk monitoring, and audit preparation for frameworks like SOC 2, ISO 27001, HIPAA, and GDPR, mainly for startups, mid-market teams, and enterprises pursuing security compliance. For security, compliance, and IT teams, it can reduce manual audit work and keep controls continuously monitored as infrastructure and vendor environments change.
+
+**Suitable roles:** Cybersecurity Manager, IT Infrastructure Manager, Cybersecurity Analyst, COO, CEO
+
+#### [Compar.ai](https://www.aimyflow.com/en/ai/compar-ai)
+
+Compar.ai appears to be a domain landing page indicating that the compar.ai domain is registered and may still be available for purchase, aimed mainly at buyers or businesses looking to acquire a web domain. In an AI-driven market, securing a relevant domain can help founders, marketers, and product teams present a clearer brand identity for new AI tools or services.
+
 #### [Competitor Analyzer](https://www.aimyflow.com/en/ai/competitoranalyzer-com)
 
 Competitor Analyzer is a social media competitor analysis tool that helps businesses, marketers, and agencies track rival activity across Facebook, Instagram, and X/Twitter with analytics, alerts, and AI-powered insights. For social media and growth teams, it can speed competitive research by surfacing engagement patterns, posting trends, and audience signals in one dashboard.
 
 **Suitable roles:** Digital Marketing Director, Content Creator, Social Media Content Creator, CEO
 
+#### [ComplyDo](https://www.aimyflow.com/en/ai/complydo-io)
+
+ComplyDo is an AI compliance automation platform that helps enterprises upload regulations, standards, and internal documents to extract requirements, map controls, find gaps, and track remediation across frameworks like DORA, ISO 27001, and NIS2. For compliance, GRC, security, legal, and risk teams, it can reduce manual interpretation and mapping work by turning complex requirements into structured, auditable workflows.
+
+**Suitable roles:** Cybersecurity Manager, Risk Analyst, Cybersecurity Analyst, Lawyer, COO
+
 #### [ComputerX](https://www.aimyflow.com/en/ai/computerx-ai)
 
 ComputerX is an AI desktop agent that handles computer-based tasks such as research, trip planning, price comparison, summaries, and simple app creation, mainly for people who want to automate everyday digital work. In AI-enabled workflows, it can help knowledge workers, researchers, and operations-focused teams reduce manual browsing and routine task execution.
 
 **Suitable roles:** Project Management Officer, COO, Financial Analyst, Copywriter, Software Engineer
+
+#### [Compyle](https://www.aimyflow.com/en/ai/compyle-ai)
+
+Compyle is an AI coding agent that researches your codebase, plans changes with clarifying questions, and implements code while checking against your patterns, mainly for software developers who want more control over AI-assisted builds. For engineering teams, this plan-first approach can reduce rework and make AI-generated code easier to review, understand, and maintain.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Project Management Officer
 
 #### [ConceptViz](https://www.aimyflow.com/en/ai/conceptviz-app)
 
@@ -2662,6 +3914,30 @@ Concierge.ai is a branded AI answer engine for B2B SaaS websites that helps buye
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, CEO, Copywriter
 
+#### [Conductor](https://www.aimyflow.com/en/ai/conductor-build)
+
+Conductor is a Mac app for developers that runs parallel Codex and Claude Code agents in isolated git worktree-based workspaces, helping users monitor progress and review and merge code changes across repositories. For software engineers and related development roles, it can streamline AI-assisted coding by making multi-agent work easier to coordinate and review on a local machine.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Confident AI](https://www.aimyflow.com/en/ai/confident-ai-com)
+
+Confident AI is an AI quality platform for engineers, QA teams, and product leaders to evaluate, observe, test, and monitor LLM applications from development through production. For AI engineering, QA, and product workflows, it helps teams catch regressions, edge cases, and reliability risks earlier so releases can be validated with shared datasets, traces, and evaluations.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Data Engineer, IT Infrastructure Manager
+
+#### [Conjecture](https://www.aimyflow.com/en/ai/conjecture-dev)
+
+Conjecture is an AI safety company developing a new AI architecture called Cognitive Emulation to help organizations build and deploy more controllable, reliable AI systems, mainly for teams working on advanced AI development and deployment. For AI researchers, safety engineers, and product teams, this approach can support more interpretable workflows and reduce risks like hallucinations, inconsistency, and hard-to-debug outputs.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Cybersecurity Manager, Project Management Officer, Data Scientist
+
+#### [Connected Papers](https://www.aimyflow.com/en/ai/connectedpapers-com)
+
+Connected Papers is a visual literature discovery tool that helps researchers, applied scientists, and students find, explore, and organize related academic papers by building graph-based maps from a paper identifier, title, or URL. In AI-driven research workflows, it can help academic researchers and literature reviewers quickly spot influential prior work, recent derivative studies, and gaps in a thesis or review bibliography.
+
+**Suitable roles:** College Professor, Data Scientist, Applied Mathematician, Theoretical Physicist, Molecular Biologist
+
 #### [ConnectTheDotsPrintable.online](https://www.aimyflow.com/en/ai/connectthedotsprintable-online)
 
 ConnectTheDotsPrintable.online is an online connect-the-dots generator that helps users turn photos, drawings, or text prompts into printable dot-to-dot worksheets, mainly for parents, teachers, and puzzle enthusiasts. For educators and activity creators, its AI-assisted image conversion and adjustable difficulty can speed up making age-appropriate printable materials for home or classroom use.
@@ -2674,6 +3950,12 @@ Connily is an AI social media manager for e-commerce brands, especially Shopify 
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Ecommerce Seller, Content Creator
 
+#### [Consensus](https://www.aimyflow.com/en/ai/consensus-app)
+
+Consensus is an AI-powered academic search engine that helps researchers, students, and clinicians find, filter, and analyze peer-reviewed literature, including support for literature reviews, medical evidence searches, and research synthesis. In AI-assisted research workflows, it can help academics and clinical professionals review evidence faster while maintaining transparency and academic rigor.
+
+**Suitable roles:** College Professor, Family Doctor, Medical Lab Technician, Data Scientist, Technical Writer
+
 #### [ConsoleX AI](https://www.aimyflow.com/en/ai/consolex-ai)
 
 ConsoleX AI is an AI automation studio that helps indie builders turn recurring work into reusable skills, scheduled tasks, and AI-agent workflows from a single workspace. In AI-driven product work, it can help solo developers and makers reduce tool sprawl and move faster from research and planning to execution.
@@ -2685,6 +3967,12 @@ ConsoleX AI is an AI automation studio that helps indie builders turn recurring 
 Constella is an AI research and memory tool that helps users find information across connected sources and synthesize it on a single canvas, mainly for researchers and other knowledge workers managing scattered notes and references. In AI-assisted workflows, it can help research, analysis, and creative roles spend less time searching across tabs and more time reviewing cited findings and developing ideas.
 
 **Suitable roles:** Data Scientist, Financial Analyst, Technical Writer, CEO, Content Creator
+
+#### [Content at Scale AI Detector](https://www.aimyflow.com/en/ai/contentatscale-ai-ai-content-detector)
+
+Content at Scale AI Detector is a real-time English-language AI text checker that analyzes pasted text, URLs, or files to estimate whether content was written by humans or models like ChatGPT, Gemini, and Claude, mainly for marketers, agencies, SEOs, bloggers, and freelancers. For content teams and SEO professionals, it can support editorial review by flagging robotic patterns and mixed human-AI passages before publication.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Technical Writer, Content Creator
 
 #### [Content Goblin](https://www.aimyflow.com/en/ai/contentgoblin-ai)
 
@@ -2704,6 +3992,24 @@ ContentPod Article Writer is an AI blog post generator that helps content teams,
 
 **Suitable roles:** Copywriter, Digital Marketing Director, Content Creator, Technical Writer, Social Media Content Creator
 
+#### [ContextFort](https://www.aimyflow.com/en/ai/contextfort-ai)
+
+ContextFort is an endpoint security and visibility tool that monitors AI coding agents like Cursor and Claude Code at the OS level, helping engineering and security teams audit file access, network connections, and processes on developer machines. For security engineers and platform teams, this kind of independent telemetry helps govern AI-assisted development by showing exactly what agents accessed or executed beyond traditional EDR alerts.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, IT Infrastructure Manager, Software Development Manager, Software Engineer
+
+#### [Contrario](https://www.aimyflow.com/en/ai/contrario-ai)
+
+Contrario is an AI-powered recruiting platform and expert recruiter network that helps companies fill critical roles faster, mainly for hiring teams and business leaders at growing companies. By reducing manual sourcing, scheduling, and tracking, it can help recruiters, hiring managers, and founders spend more time evaluating high-signal candidates and making faster hiring decisions.
+
+**Suitable roles:** Talent Acquisition Manager, CEO, COO, Software Development Manager
+
+#### [Convai](https://www.aimyflow.com/en/ai/convai-com)
+
+Convai is a conversational AI platform for creating and deploying embodied 3D AI characters in virtual worlds, helping creators and developers build interactive avatars and simulations for games, XR training, social worlds, and brand experiences. For game, XR, and simulation teams, it can streamline character design and interaction workflows by adding real-time perception, natural language dialogue, and context-aware actions to virtual environments.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Online Coding Tutor, Digital Marketing Director, Content Creator
+
 #### [Conversed.ai](https://www.aimyflow.com/en/ai/conversed-ai)
 
 Conversed.ai is an AI agent optimization studio that helps organizations automate customer service, sales, and employee support across chat, email, and voice, mainly for customer support, sales, HR, and IT teams. In AI-enabled service operations, it can help support and revenue teams improve response quality, route unresolved issues to humans, and use company knowledge more effectively across channels.
@@ -2715,6 +4021,12 @@ Conversed.ai is an AI agent optimization studio that helps organizations automat
 Convo is a real-time AI meeting assistant that provides live response suggestions, transcription, notes, summaries, and follow-up automation during calls, mainly for professionals who spend a lot of time in meetings across platforms like Zoom, Teams, Meet, Slack, and Webex. For sales, recruiting, customer success, and consulting teams, it can reduce note-taking and recall friction so they can respond faster and act on meeting outcomes more consistently.
 
 **Suitable roles:** Field Sales Manager, Talent Acquisition Manager, Project Management Officer, Software Development Manager
+
+#### [Convoso](https://www.aimyflow.com/en/ai/convoso-com)
+
+Convoso is an AI-powered call center and dialer platform that helps outbound and inbound sales teams manage dialing, routing, compliance, automation, and omnichannel outreach, mainly for contact centers, lead generation teams, and sales operations leaders. In AI-driven sales environments, it can help sales, operations, and compliance teams increase contact efficiency while maintaining tighter control over caller reputation and telemarketing rules.
+
+**Suitable roles:** Field Sales Manager, COO, Project Management Officer, Cybersecurity Manager, Software Development Manager
 
 #### [cookAIfood](https://www.aimyflow.com/en/ai/cookaifood-com)
 
@@ -2728,6 +4040,12 @@ Cooked is a smart cookbook tool that helps users turn cluttered recipe pages and
 
 **Suitable roles:** Food Enthusiast
 
+#### [Cookup.AI](https://www.aimyflow.com/en/ai/cookup-ai)
+
+Cookup.AI is a personal AI assistant with built-in memory that helps users interact with AI while retaining context over time, aimed at individuals who want a more persistent assistant experience. For knowledge workers and other frequent AI users, memory can reduce repeated prompting and support more consistent, context-aware outputs across tasks.
+
+**Suitable roles:** Software Engineer, Project Management Officer, Financial Analyst, Digital Marketing Director, Talent Acquisition Manager
+
 #### [Cool Coloring Pages](https://www.aimyflow.com/en/ai/coolcoloringpages-com)
 
 Cool Coloring Pages is an AI coloring page generator that helps users turn ideas or photos into printable, customizable coloring pages, mainly for kids, parents, and teachers. For parents and educators, AI can speed up creation of age-appropriate, personalized activity materials and make it easier to produce fresh pages for home, classrooms, or events.
@@ -2739,6 +4057,42 @@ Cool Coloring Pages is an AI coloring page generator that helps users turn ideas
 Coolo.ai is an AI music audio tool that helps users remove vocals, split stems, isolate instruments, reduce noise, and detect key and BPM, mainly for music producers, DJs, musicians, and karaoke creators. In AI-driven music workflows, tools like this can speed up remixing, track analysis, and practice preparation by turning full songs into editable audio components.
 
 **Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Voice Actor
+
+#### [Copy.ai](https://www.aimyflow.com/en/ai/copy-ai)
+
+Copy.ai is an AI-native go-to-market platform that helps marketing, sales, operations, and sales development teams automate repetitive GTM workflows, unify data, and create content, outreach, and account insights. In AI-enabled revenue teams, it can reduce manual research and process work so marketers and sellers can focus more on strategy, personalization, and pipeline execution.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, COO, Project Management Officer, Content Creator
+
+#### [CopyCat](https://www.aimyflow.com/en/ai/runcopycat-com)
+
+CopyCat is an agentic RPA platform that builds custom AI agents to automate repetitive back-office workflows such as document extraction, portal data entry, system syncing, and file submissions, mainly for operations teams in insurance, logistics, and claims-heavy environments. In the AI era, it can help operations, underwriting, and claims staff reduce manual portal work, improve auditability, and spend more time on higher-value exception handling and decisions.
+
+**Suitable roles:** COO, Logistics Operations Planner, Project Management Officer, IT Infrastructure Manager, Healthcare Administrator
+
+#### [Copyleaks](https://www.aimyflow.com/en/ai/copyleaks-com)
+
+Copyleaks is an AI content and text authenticity platform that helps organizations and educational institutions detect AI-generated text, plagiarism, image manipulation, and unauthorized content use to support compliance and integrity. For editors, educators, compliance teams, and developers, this can improve AI-era review workflows by adding automated verification for originality, copyright risk, and responsible AI use.
+
+**Suitable roles:** Education Technology Consultant, Technical Writer, College Professor, Software Engineer, Cybersecurity Analyst
+
+#### [Copymatic](https://www.aimyflow.com/en/ai/copymatic-ai)
+
+Copymatic is an AI copywriting and content writing tool that helps businesses create blog posts, website copy, landing pages, digital ads, and images faster, mainly for marketers, content writers, and ecommerce teams. In AI-driven content workflows, it can help marketing and SEO professionals scale first drafts, rewrites, and metadata production while freeing time for strategy, editing, and performance optimization.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Content Creator, Ecommerce Seller, Social Media Content Creator
+
+#### [CopySlides](https://www.aimyflow.com/en/ai/copyslides-com)
+
+CopySlides is an AI presentation conversion tool that turns PDFs, screenshots, and videos into editable PowerPoint slides with native text, shapes, layouts, and styling, mainly for professionals such as teachers, creators, consultants, and teams that need precise slide control. For presentation-heavy roles, it can reduce manual slide rebuilding so they can spend more time refining content, analysis, and delivery.
+
+**Suitable roles:** Project Management Officer, Technical Writer, Content Creator, Education Technology Consultant, Software Development Manager
+
+#### [Copysmith](https://www.aimyflow.com/en/ai/copysmith-ai)
+
+Copysmith is a suite of AI platforms—Frase, Describely, and Rytr—that helps brands improve search visibility, earn citations from generative engines, and scale content creation, mainly for content, SEO, and ecommerce teams. In an AI-driven search environment, it can help SEO specialists, ecommerce managers, and writers align optimization, product content, and brand voice across large volumes of content.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Copywriter, Content Creator, Ecommerce Seller
 
 #### [Cora Intelligence](https://www.aimyflow.com/en/ai/cora-intelligence-com)
 
@@ -2757,6 +4111,18 @@ CoreWise is a free AI content analysis tool that extracts synthesized insights, 
 Corippl is a content cross-promotion platform that helps creators grow their audience by sharing other creators’ content in exchange for having their own content shared, mainly for content creators who want collaborative promotion without ad spend. Its AI autopilot and sharing predictor can help creator-marketers prioritize stronger content and manage reciprocal distribution more efficiently.
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter, Podcast Producer
+
+#### [Corrector AI Content Detector](https://www.aimyflow.com/en/ai/corrector-app-ai-content-detector)
+
+Corrector AI Content Detector is a free online text analysis tool that estimates how much pasted content appears AI-generated and highlights suspicious text, mainly for students, teachers, marketers, and content writers. In AI-heavy publishing and education workflows, it can help reviewers and writers quickly flag draft sections that may need originality checks or human revision.
+
+**Suitable roles:** Teacher, Technical Writer, Copywriter, College Professor, Education Technology Consultant
+
+#### [Cortex AI](https://www.aimyflow.com/en/ai/cortexrobot-ai)
+
+Cortex AI is a real-world data platform for embodied AI that helps frontier labs and robotics teams collect egocentric workplace video, robot trajectories, and human-in-the-loop rollout data for training and fine-tuning robotics models. For robotics engineers and AI researchers, this kind of real-workplace data can make world models and deployment evaluations more grounded in physical tasks and edge cases.
+
+**Suitable roles:** Software Engineer, Data Scientist, Electrical Engineer, Mechanical Engineer, Data Engineer
 
 #### [Coschool](https://www.aimyflow.com/en/ai/coschool-ai)
 
@@ -2820,6 +4186,24 @@ CoverPilot is an AI-powered cover letter generator and job application assistant
 
 CoverSentry is a free AI cover letter checker and generator that helps job seekers scan uploaded or pasted cover letters for signs of AI-written text, get recommendations, and build more human-sounding applications. For candidates and career coaches, it can strengthen application quality by identifying generic phrasing that may affect recruiter perception or automated screening outcomes.
 
+#### [Cradle](https://www.aimyflow.com/en/ai/cradle-bio)
+
+Cradle is an AI platform for protein engineering that helps biopharma and industrial bio R&D teams generate and optimize protein candidates using their own experimental data. For protein engineers and R&D scientists, it can shorten design-build-test cycles by learning from each assay round to support faster multi-property optimization with fewer experiments.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Software Engineer, Healthcare Administrator
+
+#### [Craiyon](https://www.aimyflow.com/en/ai/craiyon-com)
+
+Craiyon is an AI image generator that turns text prompts into images, with options like style presets, aspect ratios, exclude terms, and reference images, for beginners and professionals who need to create AI art. For designers, marketers, and content creators, it can speed early visual ideation by quickly producing multiple concept directions from written prompts.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [Cranston](https://www.aimyflow.com/en/ai/cranstonai-com)
+
+Cranston is an AI coworker for accounting teams that connects to ERP and finance systems to enter bills, categorize transactions, run variance analysis, answer questions from the books, and support taxes, close, and back-office work. For accountants and finance operations staff, it can reduce repetitive bookkeeping and reconciliation work so they can focus more on review, exceptions, and month-end decision support.
+
+**Suitable roles:** Certified Public Accountant, Financial Analyst, CFO, Financial Planning & Analysis Manager, Medical Biller
+
 #### [CraveGuide](https://www.aimyflow.com/en/ai/crave-guide-ai)
 
 CraveGuide is an AI-powered eating behavior coach that helps people trying to lose weight change cravings, emotional eating, and late-night snacking habits through one-tap logging, real-time nudges, and pattern recognition. For weight management and behavior change professionals, tools like this can support more timely, context-aware coaching between sessions by surfacing trigger patterns and high-risk moments.
@@ -2837,6 +4221,12 @@ CraveU AI is an NSFW AI chat and roleplay platform that helps users explore unce
 CrawlChat is an AI documentation and knowledge base platform that turns technical docs and other sources into a chatbot for websites, Discord, Slack, and internal teams, mainly for software companies and their documentation, support, and GTM teams. In AI-driven support and DevEx workflows, it helps documentation, product, and community teams answer questions faster while using analytics and data-gap insights to improve docs and product experience.
 
 **Suitable roles:** Technical Writer, Software Engineer, Software Development Manager, Project Management Officer, Content Creator
+
+#### [Crayon Data](https://www.aimyflow.com/en/ai/maya-ai)
+
+Crayon Data is an AI-led revenue acceleration platform for enterprises that helps large organizations move AI use cases from pilots to secure, production-grade deployment, especially in regulated industries such as banking, fintech, and travel. For revenue, operations, and AI teams, its model-agnostic platform and services can reduce time spent on rule-based work and speed the rollout of enterprise AI systems that support measurable business outcomes.
+
+**Suitable roles:** CEO, COO, Digital Marketing Director, Project Management Officer, Software Development Manager
 
 #### [Creao.ai](https://www.aimyflow.com/en/ai/creao-ai)
 
@@ -2874,6 +4264,12 @@ Creative Fabrica is a digital marketplace and subscription platform for fonts, g
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Online Coding Tutor, Content Creator, Software Engineer +22 more
 
+#### [CreativeMode](https://www.aimyflow.com/en/ai/creativemode-net)
+
+CreativeMode is a no-code platform for creating and sharing Minecraft mods and addons, aimed mainly at Minecraft players, mod creators, and community makers. In AI-era game creation workflows, it can help creators prototype gameplay ideas faster and publish interactive content without needing programming skills.
+
+**Suitable roles:** Content Creator, Software Engineer, Online Coding Tutor, Teacher
+
 #### [CreatOK](https://www.aimyflow.com/en/ai/creatok-ai)
 
 CreatOK is an AI video generation platform for TikTok e-commerce sellers that helps them create original sales videos, turn product images into video, and replicate viral-style content with direct TikTok publishing. For TikTok shop operators and e-commerce marketers, it can speed creative testing and content production by automating prompt optimization, model selection, and trend-responsive video creation.
@@ -2892,6 +4288,12 @@ Cresh is an AI-powered startup idea validation platform that helps founders, ind
 
 **Suitable roles:** CEO, COO, Project Management Officer, Software Development Manager
 
+#### [Cresta](https://www.aimyflow.com/en/ai/cresta-com)
+
+Cresta is an enterprise AI platform for customer experience that helps contact centers deploy AI agents, real-time agent assistance, and conversation intelligence, mainly for customer care, sales, retention, and collections teams. In AI-enabled contact centers, it can help CX leaders, operations managers, and frontline supervisors automate routine interactions, guide agents in real time, and surface customer signals for coaching and process improvement.
+
+**Suitable roles:** COO, Branch Office Manager, Field Sales Manager, Project Management Officer, CEO
+
 #### [Crevid Image to Video AI Generator](https://www.aimyflow.com/en/ai/crevid-ai-image-to-video)
 
 Crevid Image to Video AI Generator is an online tool that turns a single photo into an animated video with prompted motion, camera movement, effects, and optional audio, mainly for creators, marketers, educators, and visual professionals. In AI-driven content workflows, it helps teams turn static images into faster concept videos, social assets, and client-ready visual previews without manual video editing.
@@ -2903,6 +4305,12 @@ Crevid Image to Video AI Generator is an online tool that turns a single photo i
 Crisp is a business messaging platform that combines live chat, team inbox, chatbot, CRM, and knowledge base tools to help startups and SMBs manage sales, marketing, and support conversations. In the AI era, it helps customer-facing teams automate routine interactions while keeping responses organized and context-rich.
 
 **Suitable roles:** Ecommerce Seller
+
+#### [Croma A.I. Studio](https://www.aimyflow.com/en/ai/croma-io)
+
+Croma A.I. Studio is an AI and machine learning R&D studio that trains custom models and builds applications such as prediction systems, recommendation engines, and process optimization tools for businesses adopting AI. For product, operations, and data teams, this can turn existing company data into more informed decisions, streamlined workflows, and practical AI product strategies.
+
+**Suitable roles:** Data Scientist, Software Development Manager, Project Management Officer, COO, Education Technology Consultant
 
 #### [CrowdReply](https://www.aimyflow.com/en/ai/crowdreply-io)
 
@@ -2916,6 +4324,24 @@ Crustdata is a real-time B2B data platform that delivers company and people data
 
 **Suitable roles:** Software Engineer, Data Engineer, Data Scientist, Information Technology Managers, Marketing and Sales Managers, Financial Managers +7 more
 
+#### [CSDN](https://www.aimyflow.com/en/ai/csdn-net)
+
+CSDN是全球知名中文IT技术交流平台,创建于1999年,包含原创博客、精品问答、职业培训、技术论坛、资源下载等产品服务,提供原创、优质、完整内容的专业IT技术开发社区.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Online Coding Tutor, Technical Writer, Content Creator
+
+#### [CTRify](https://www.aimyflow.com/en/ai/ctrify-com)
+
+CTRify is an AI-powered SEO platform that creates keyword-focused websites, content, backlinks, and traffic signals to help users improve Google rankings, mainly for SEO professionals and digital marketers. In AI-driven search workflows, it can speed up site-building and optimization tasks for SEO teams by automating content generation and ranking-focused website assets around target keywords.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, E-commerce Sales Head, Content Creator
+
+#### [Cuckoo](https://www.aimyflow.com/en/ai/cuckoo-so)
+
+Cuckoo is a real-time AI translator that helps global sales, marketing, and support teams communicate across languages in meetings, webinars, and events, with context from uploaded documents and technical terms. For customer-facing and cross-regional teams, it can reduce language friction and improve accuracy in multilingual conversations by preserving specialized vocabulary and meeting context.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, COO, Branch Office Manager, Restaurant General Manager
+
 #### [Curipod](https://www.aimyflow.com/en/ai/curipod-com)
 
 Curipod is an interactive lesson platform that helps teachers create engaging classroom experiences focused on creativity, reflection, and critical thinking for students. In the AI era, it reduces lesson-prep time and helps educators turn ideas into participatory learning activities more quickly.
@@ -2927,6 +4353,12 @@ Curipod is an interactive lesson platform that helps teachers create engaging cl
 Cursor is an AI code editor that helps software developers write, edit, understand, and refactor code more efficiently within a programming environment. In the AI era, it boosts developer productivity by accelerating routine coding tasks and shortening feedback loops during implementation.
 
 **Suitable roles:** Software Engineer, Data Engineer, Cybersecurity Analyst, Data Scientist, Computer Occupations, Information Technology Managers +17 more
+
+#### [Cursor](https://www.aimyflow.com/en/ai/cursor-so)
+
+Cursor is an AI coding environment and IDE that helps software developers build, edit, review, and navigate code with agents, autocomplete, codebase indexing, and terminal or collaboration workflows. For engineering teams and individual developers, it can reduce routine coding and review work so they can focus more on architecture, decisions, and shipping software.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager
 
 #### [Cutout.Pro](https://www.aimyflow.com/en/ai/cutout-pro)
 
@@ -2943,6 +4375,12 @@ CVGist is an AI-powered resume generator that helps job seekers create, tailor, 
 CyberCut is an AI video creation and editing tool that helps users generate ideas, streamline editing, and produce short-form content more easily, especially for creators and marketers. In the AI era, it shortens production cycles so video teams can test more concepts with less manual effort.
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Education Technology Consultant, Social Media Content Creator, Content Creator
+
+#### [Cyberdesk](https://www.aimyflow.com/en/ai/cyberdesk-io)
+
+Cyberdesk is a Windows computer-use agent that helps developers automate EHRs, ERPs, and other legacy desktop applications through plain-English workflows and API triggers, especially in healthcare, finance, and logistics. In AI-assisted operations, it can reduce manual data entry and brittle desktop scripting for engineering and automation teams working with Windows-based enterprise systems.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Healthcare Administrator, Logistics Operations Planner
 
 #### [d33ply](https://www.aimyflow.com/en/ai/d33ply-xyz)
 
@@ -2968,11 +4406,23 @@ DailyScope.ai is an AI-powered news analysis tool that reviews global news cover
 
 **Suitable roles:** TV News Reporter, Technical Writer, Data Scientist, Nonprofit Program Manager, Financial Analyst
 
+#### [DALL·E 2](https://www.aimyflow.com/en/ai/openai-com-product-dall-e-2)
+
+DALL·E 2 is an AI image generation system from OpenAI that creates realistic images and art from natural-language descriptions, mainly for people doing creative work such as design, art, and visual prototyping. For designers and creative teams, it can speed early-stage concept exploration by generating, editing, and varying visuals from text prompts while supporting safer image creation through content controls.
+
+**Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Copywriter, Industrial Designer
+
 #### [DartAd](https://www.aimyflow.com/en/ai/dartad-com-en)
 
 DartAd is an AI tool that turns product images and optional descriptions into e-commerce ad videos in one click, mainly for online sellers and marketers who need fast video creation without editing skills. For e-commerce marketing teams, it can speed up ad production and reduce manual creative work when testing and launching product campaigns.
 
 **Suitable roles:** Ecommerce Seller, Digital Marketing Director, Content Creator, E-commerce Sales Head, Copywriter
+
+#### [Dartboard Energy](https://www.aimyflow.com/en/ai/dartboardenergy-com)
+
+Dartboard Energy is an AI agent for solar and storage fleet teams that analyzes site data to answer operational questions, explain contract treatment, and estimate financial impact through email, Slack, or Teams without a dashboard. For operations and asset management professionals, it can speed root-cause analysis, prioritize meaningful alarms, and surface downtime or warranty exposure earlier.
+
+**Suitable roles:** Factory Operations Supervisor, Project Management Officer, Financial Analyst, COO, Commercial Architect
 
 #### [DashGPT](https://www.aimyflow.com/en/ai/spreadsite-ai)
 
@@ -2998,6 +4448,16 @@ DataCamp is an online learning platform for data science and AI that helps learn
 
 **Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Cybersecurity Analyst, Information Technology Managers, Computer Occupations +5 more
 
+#### [datafit.ai](https://www.aimyflow.com/en/ai/datafit-ai)
+
+datafit.ai appears to be a website currently unavailable due to a web server error, so its tool category, use case, and target users cannot be verified from the page content provided. For SEO, operations, and web teams, this kind of outage highlights how site reliability directly affects discoverability, user trust, and access to any AI-enabled workflows.
+
+#### [Datafruit](https://www.aimyflow.com/en/ai/datafruit-ai)
+
+Datafruit is an AI implementation planning and pre-delivery workflow tool that helps system integrators and services teams organize discovery, scope, estimation, and handoff into a traceable system of record. For implementation leads, solution architects, and delivery managers, it can use AI to surface risks, connect requirements to source conversations, and improve the quality of BRDs, SOWs, and estimates.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, COO, IT Infrastructure Manager, CEO
+
 #### [DataLane](https://www.aimyflow.com/en/ai/datalane-com)
 
 DataLane is a go-to-market data platform that helps enterprise sales and revenue teams find, size, and reach local business accounts with TAM intelligence, contact data, and account enrichment. In AI-driven outbound workflows, it can help BDRs, RevOps, and GTM leaders spend less time on manual research and more time targeting workable accounts and decision-makers.
@@ -3016,11 +4476,23 @@ DatumFuse.AI is an AI data platform that helps users clean, harmonize, augment, 
 
 **Suitable roles:** Digital Marketing Director, Project Management Officer, CEO, Financial Analyst
 
+#### [Dayflow](https://www.aimyflow.com/en/ai/dayflow-so)
+
+Dayflow is a macOS productivity tracker that uses AI to analyze periodic screen captures, build a private visual timeline of your day, and show where focus and distractions happened, mainly for developers, freelancers, and other knowledge workers. In AI-assisted work, it can help these professionals audit real attention patterns more accurately than manual time logs, improving planning, deep-work habits, and interruption management.
+
+**Suitable roles:** Software Engineer, Project Management Officer, Technical Writer, Copywriter
+
 #### [DayStart AI](https://www.aimyflow.com/en/ai/daystartai-app)
 
 DayStart AI is an iPhone productivity app that creates a personalized three-minute morning briefing with news, weather, calendar events, market updates, and spoken delivery, mainly for leaders who want one focused start-of-day summary. For executives and other time-constrained professionals, this kind of AI briefing can reduce app switching and help prioritize the day’s most relevant information faster.
 
 **Suitable roles:** CEO, COO, Branch Office Manager, Field Sales Manager, Project Management Officer
+
+#### [dbrief](https://www.aimyflow.com/en/ai/dbrief-io)
+
+dbrief is an AI interview assistant that automates outreach, follow-ups, expert and customer interviews, and draft creation to help teams scale content production, mainly for content marketers, publishers, and agencies. In AI-driven content workflows, it can help marketing and editorial teams capture expert insights more consistently while reducing the manual work of sourcing, interviewing, and turning conversations into publishable drafts.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Social Media Content Creator, CEO
 
 #### [Deal Navigator AI](https://www.aimyflow.com/en/ai/dealnavigator-ai)
 
@@ -3034,6 +4506,30 @@ Decision Forcing Studio is a custom ChatGPT strategist that helps users frame re
 
 **Suitable roles:** Technical Writer, Project Management Officer, Healthcare Administrator, School Counselor, Lawyer
 
+#### [Decisional](https://www.aimyflow.com/en/ai/decisional-com)
+
+Decisional is an AI agent platform that lets users describe workflows in plain English, connect their apps, and automate ongoing tasks with self-building, self-testing agents, mainly for operations, finance, and product teams. In AI-enabled work, it can help these teams reduce manual spreadsheet, document, and follow-up work while keeping humans in the loop for approvals and review.
+
+**Suitable roles:** Project Management Officer, Financial Planning & Analysis Manager, COO, Software Development Manager, Financial Analyst
+
+#### [Decohere](https://www.aimyflow.com/en/ai/decoherence-co)
+
+Decohere is an AI content generation tool that helps users create images, videos, characters, and upscaled visuals quickly, mainly for creators, designers, and artists. Its fast image generation, character consistency, and image-to-video controls can help creative teams iterate concepts and visual assets more efficiently in AI-assisted workflows.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Copywriter, Digital Marketing Director
+
+#### [Dedalus Labs](https://www.aimyflow.com/en/ai/dedaluslabs-ai)
+
+Dedalus Labs is a platform and SDK for building, deploying, and monetizing production AI agents with hosted MCP servers, model routing, and secure authentication, mainly for developers and teams creating agent-based applications. For AI engineers and developer platform teams, it can streamline production agent work by unifying model access, tool connections, deployment, and credential handling in one workflow.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, CEO
+
+#### [Deep Nostalgia AI](https://www.aimyflow.com/en/ai/deep-nostalgia-ai-com)
+
+Deep Nostalgia AI is an AI photo animation tool that turns old family photos into short animated videos with realistic facial movements, mainly for individuals and families preserving personal memories. For photo restoration, family history, and content creation work, it can add motion to archival images to make storytelling and sharing more engaging.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Independent Filmmaker, Copywriter
+
 #### [Deep Nude AI Generator](https://www.aimyflow.com/en/ai/deep-nudes-com-referral-cZN4ASpKklcN6LiqRZ0g3uE8-referral)
 
 Deep Nude AI Generator is a browser-based AI image editing tool that creates altered nude or NSFW images from uploaded photos, mainly for adult users seeking synthetic adult image generation. For content moderation, legal, and digital safety professionals, it reflects how generative AI can rapidly produce realistic manipulated imagery that requires stronger consent, policy, and detection workflows.
@@ -3046,17 +4542,47 @@ Deep Sequencer is an AI workflow tool that helps users generate or transform con
 
 **Suitable roles:** Content Creator, Copywriter, Digital Marketing Director, Technical Writer, Software Engineer
 
+#### [DeepAI](https://www.aimyflow.com/en/ai/deepai-org)
+
+DeepAI is an all-in-one AI platform for generating images, video, music, chat, voice interactions, and photo edits in the browser or via APIs, mainly for creators, artists, and developers. In AI-enabled creative and product workflows, it can help designers, content teams, and developers move faster from prompt to draft while reducing manual editing and experimentation time.
+
+**Suitable roles:** Content Creator, Graphic Designer, Software Engineer, Copywriter, Social Media Content Creator
+
 #### [DeepAny.AI](https://www.aimyflow.com/en/ai/deepany-ai)
 
 DeepAny.AI is a free online AI tools platform that helps users create and edit images and videos with features such as face swapping, video generation and extension, inpainting, art generation, upscaling, and colorizing, mainly for creators and other media-focused users. For content teams, designers, and video editors, these AI tools can speed up routine visual production and revision work while reducing manual editing effort.
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Copywriter, Independent Filmmaker
 
+#### [DeepAware AI](https://www.aimyflow.com/en/ai/deepawareai-com)
+
+DeepAware AI is an automation platform for next-generation AI data centers that helps operators monitor security and stability, optimize GPU scheduling and energy use, and support autonomous robotic maintenance, mainly for data center teams. For data center operations, infrastructure, and facilities professionals, its AI-driven monitoring and workload shifting can improve uptime, energy efficiency, and lower-carbon operations.
+
+**Suitable roles:** IT Infrastructure Manager, Cybersecurity Manager, Factory Operations Supervisor, COO, Project Management Officer
+
 #### [DeepL](https://www.aimyflow.com/en/ai/deepl-com)
 
 DeepL is an AI language platform that helps businesses translate text, files, and speech, improve writing, and automate routine tasks, mainly for teams handling multilingual communication such as localization, customer support, legal, marketing, and sales. In AI-enabled workflows, it can help these professionals reduce manual translation and drafting work while preserving terminology, tone, and document formatting across languages.
 
 **Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Field Sales Manager, Lawyer
+
+#### [DeepL Translate](https://www.aimyflow.com/en/ai/deepl-com-translator)
+
+DeepL Translate is an AI translation tool that helps individuals, teams, and businesses translate text and full documents across 100+ languages with features like glossaries and formatting preservation. For translators, customer support, localization, legal, and marketing teams, it can speed multilingual communication while improving consistency across documents and workflows.
+
+**Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Software Engineer, Lawyer
+
+#### [DeepLearning.AI](https://www.aimyflow.com/en/ai/deeplearning-ai)
+
+DeepLearning.AI is an online AI learning platform that helps people use and build AI through courses, certificates, newsletters, and resources, mainly for students, developers, and professionals advancing their AI careers. For software engineers, data analysts, and ML practitioners, it supports practical upskilling in areas like generative AI, RAG, and agent systems as AI becomes a core part of everyday work.
+
+**Suitable roles:** Software Engineer, Data Scientist, Data Engineer, Online Coding Tutor, Education Technology Consultant
+
+#### [DeepMotion](https://www.aimyflow.com/en/ai/deepmotion-com)
+
+DeepMotion is an AI motion capture and body tracking platform that helps users turn text or video into 3D character animation in a web browser, mainly for animators, game developers, filmmakers, and digital artists. In AI-driven production workflows, it can speed character animation and lower the technical barrier for creative and technical teams building digital humans.
+
+**Suitable roles:** Independent Filmmaker, Software Engineer, Graphic Designer, Content Creator, Technical Writer
 
 #### [DeepRead](https://www.aimyflow.com/en/ai/deepread-tech)
 
@@ -3076,11 +4602,21 @@ DeepSeek is an AI model developer and platform that offers chat, app, and API ac
 
 **Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, IT Infrastructure Manager, Education Technology Consultant
 
+#### [DeepSim](https://www.aimyflow.com/en/ai/deepsim-io)
+
+DeepSim is an AI-driven, GPU-accelerated physics simulation platform that helps engineers run multi-scale simulations from nano to macro levels faster and with simpler setup for design analysis. For engineering teams, this can shorten simulation bottlenecks so they can evaluate more design options and focus more on higher-value decisions.
+
+**Suitable roles:** Mechanical Engineer, Electrical Engineer, Civil Engineer, Software Engineer, IT Infrastructure Manager
+
 #### [DeepTutor](https://www.aimyflow.com/en/ai/hkuds-github-io-DeepTutor)
 
 DeepTutor is an AI learning assistant that turns documents into interactive study resources with document Q&A, step-by-step problem solving, quiz generation, guided learning, and research support, mainly for students, educators, and researchers. In AI-assisted education and research workflows, it can help these users study and analyze complex materials more efficiently by combining retrieval, knowledge graphs, and cited multi-agent reasoning.
 
 **Suitable roles:** Education Technology Consultant, College Professor, Test Prep Tutor, Online Coding Tutor, Technical Writer
+
+#### [Default Web Site Page](https://www.aimyflow.com/en/ai/chatonai-org)
+
+This website currently shows a default hosting page indicating the intended tool or service is unavailable, so its function and target users cannot be confirmed from the live content. For SEO, content, and operations teams, resolving the domain or server configuration quickly is important because broken access prevents AI systems and users from discovering, indexing, or evaluating the site.
 
 #### [Defipulsex](https://www.aimyflow.com/en/ai/defipulsex-org)
 
@@ -3106,6 +4642,12 @@ Demodesk is an AI sales platform that records, transcribes, and analyzes custome
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, Project Management Officer, CEO, COO
 
+#### [Denki](https://www.aimyflow.com/en/ai/denki-ai)
+
+Denki is an AI auditing platform that helps internal auditors automate SOX 404 and BSA/AML work through evidence collection, financial reconciliation, control mapping, continuous testing, and transaction tracing. For internal audit and compliance teams, it can reduce manual sampling and documentation effort by using real-time monitoring and anomaly detection to surface issues earlier.
+
+**Suitable roles:** Certified Public Accountant, Financial Analyst, Risk Analyst, CFO, Corporate Tax Manager
+
 #### [Denovo](https://www.aimyflow.com/en/ai/denovo-dev)
 
 Denovo is an AI startup-building platform that helps founders and side-hustlers turn ideas into a business plan, pitch deck, branding, website, and launch assets without coding. For startup operators and solo founders, it can compress early-stage planning and go-to-market work into a faster, more structured workflow.
@@ -3124,6 +4666,18 @@ Deployables is a managed hosting platform for OpenClaw AI agents that helps user
 
 **Suitable roles:** COO, Project Management Officer, Software Development Manager, IT Infrastructure Manager, Branch Office Manager
 
+#### [Descript](https://www.aimyflow.com/en/ai/descript-com)
+
+Descript is an AI video and podcast editor that helps users record, transcribe, edit, and publish audio and video by editing text, mainly for creators and teams in marketing, sales, training, support, and content production. For marketers, podcasters, and instructional teams, its transcription-based editing and AI cleanup tools can shorten production cycles and make polished content easier to produce without specialist editing skills.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator
+
+#### [Design Arena](https://www.aimyflow.com/en/ai/designarena-ai)
+
+Design Arena is a crowdsourced benchmark for AI-generated design that lets users compare outputs from leading AI models side by side, vote on the best results, and explore community-made projects, mainly for people evaluating AI design quality. For designers, product teams, and AI practitioners, it offers real-world preference data that can help guide model selection and creative workflow decisions.
+
+**Suitable roles:** Graphic Designer, Project Management Officer, Software Engineer, Digital Marketing Director, Content Creator
+
 #### [Design.com AI Website Builder](https://www.aimyflow.com/en/ai/design-com-ai-website-generator)
 
 Design.com AI Website Builder is an AI-powered website creation tool that helps users generate, customize, and publish responsive websites from a business name and short prompt, mainly for businesses and brand owners building an online presence. For marketers, founders, and small business teams, it can speed up website production and reduce manual design work while keeping sites editable and ready for different devices.
@@ -3135,6 +4689,12 @@ Design.com AI Website Builder is an AI-powered website creation tool that helps 
 Design.com’s AI Logo Generator is an online tool that helps businesses, founders, and non-designers create, customize, and download logos using AI prompts, editing tools, and brand-ready file formats. For marketers, small business owners, and brand teams, it can speed up identity creation and keep logos, websites, business cards, and social assets visually consistent across AI-assisted workflows.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, CEO, Copywriter, Content Creator
+
+#### [Designs.ai](https://www.aimyflow.com/en/ai/designs-ai)
+
+Designs.ai is an AI-powered design platform that helps businesses and marketing teams create communication assets such as images, videos, copy, audio, slides, and branding content from one secure workflow. For marketers, designers, and brand teams, its built-in brand consistency and multi-model access can speed content production while keeping outputs aligned across channels.
+
+**Suitable roles:** Digital Marketing Director, Graphic Designer, Copywriter, Social Media Content Creator, Content Creator
 
 #### [Devento](https://www.aimyflow.com/en/ai/devento-ai)
 
@@ -3153,6 +4713,12 @@ Devin is an AI software engineering agent that helps developers and engineering 
 DeVoice is an AI audio and video transcription tool that converts recordings into text, removes background noise, and supports exports for podcasters, content creators, and professionals handling meetings, interviews, or lectures. In AI-driven content and documentation workflows, it can help creators, marketers, and knowledge workers turn spoken material into searchable transcripts, subtitles, and draft-ready written assets faster.
 
 **Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Technical Writer, Teacher
+
+#### [Dex](https://www.aimyflow.com/en/ai/joindex-com)
+
+Dex is an AI-powered Chrome extension that turns the browser into a shared workspace for handling tasks, context, and actions across apps, mainly for operators, founders, and go-to-market teams who work in many tools. In AI-enabled sales, operations, and recruiting workflows, it can reduce context switching by pulling information from tabs and connected apps to support scheduling, outreach, meeting prep, and data tasks.
+
+**Suitable roles:** COO, Field Sales Manager, Talent Acquisition Manager, Project Management Officer, CEO
 
 #### [Dexter](https://www.aimyflow.com/en/ai/github-com-virattt-dexter)
 
@@ -3194,11 +4760,29 @@ DiffScout is an AI-based competitor price monitoring tool that emails alerts whe
 
 **Suitable roles:** Ecommerce Seller, Digital Marketing Director, Financial Analyst, CEO
 
+#### [Diffus](https://www.aimyflow.com/en/ai/diffus-graviti-com)
+
+Diffus is a browser-based AI image generation platform that gives artists, designers, and other creators access to more than 70,000 models plus tools for inpainting, ControlNet, face enhancement, and custom model support. For creative professionals, this kind of AI workflow can speed visual iteration and enable more precise image editing without requiring local GPU hardware.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Social Media Content Creator, Content Creator, Copywriter
+
 #### [Digibate](https://www.aimyflow.com/en/ai/digibate-com)
 
 Digibate is a digital marketing automation platform that helps businesses, especially small business owners and marketers, create AI-generated social content, product visuals, blog posts, and schedule publishing from one place. For social media managers and marketing specialists, it can reduce manual content production and posting work by centralizing creation, optimization, and direct publishing in a single workflow.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, E-commerce Sales Head, Copywriter, Graphic Designer
+
+#### [Digipals](https://www.aimyflow.com/en/ai/digipals-app)
+
+Digipals is an AI-focused social app that helps people share real-time availability and activity plans to connect more easily, and it is mainly for individuals looking to socialize in everyday life. In an AI-driven social context, it can help community builders and social product teams design more timely, intent-based interactions that turn casual availability into in-person meetups.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Nonprofit Program Manager, School Counselor
+
+#### [DiligenceSquared](https://www.aimyflow.com/en/ai/diligencesquared-com)
+
+DiligenceSquared is an AI-powered market research and commercial due diligence platform that helps investors and corporates gather auditable market insights, expert interview findings, and sourced answers faster, mainly for private equity, private credit, portfolio companies, and corporate strategy teams. In AI-enabled diligence workflows, it can help investment and strategy professionals assess markets, validate assumptions, and support deal or growth decisions with more traceable evidence.
+
+**Suitable roles:** Financial Analyst, CEO, Risk Analyst, CFO, Data Scientist
 
 #### [Disclaimr AI](https://www.aimyflow.com/en/ai/disclaimr-ai)
 
@@ -3223,6 +4807,12 @@ Discova.ai is an AI-powered UX insights engine that helps UX researchers and pro
 DishGen is an AI recipe generator that helps home cooks and food enthusiasts create, save, browse, and share recipe ideas. In the AI era, it turns meal inspiration into personalized recipe creation faster, reducing planning friction for everyday cooking.
 
 **Suitable roles:** Food Enthusiast
+
+#### [Dive into Deep Learning](https://www.aimyflow.com/en/ai/zh-d2l-ai)
+
+《动手学深度学习》是一本面向中文读者的可运行深度学习教材与文档，帮助学生、教师和机器学习从业者通过 Jupyter 笔记本学习模型原理、代码实现和实战方法，涵盖 PyTorch、MXNet、TensorFlow 和 PaddlePaddle。 在生成式 AI 普及的背景下，这类可交互、可复现实验材料能帮助数据科学家、AI 工程师和教学人员更系统地理解 Transformer、BERT 等核心方法并提升模型开发与教学质量。
+
+**Suitable roles:** Data Scientist, Software Engineer, College Professor, Online Coding Tutor, Education Technology Consultant
 
 #### [DJ.Studio](https://www.aimyflow.com/en/ai/dj-studio)
 
@@ -3266,6 +4856,12 @@ DocuGov.ai is an AI tool that generates professionally structured administrative
 
 **Suitable roles:** Lawyer, Technical Writer, Project Management Officer, Healthcare Administrator, Certified Public Accountant
 
+#### [Docuit](https://www.aimyflow.com/en/ai/docuit-ai)
+
+Docuit is an AI memory assistant that captures activity across desktop, browser, and terminal, then turns it into notes, summaries, and step-by-step guides for workers, students, and people documenting daily tasks. For operations, training, support, and research roles, it can reduce manual note-taking and help preserve repeatable workflows as reusable documentation.
+
+**Suitable roles:** Project Management Officer, Software Engineer, Technical Writer, Education Technology Consultant, Software Development Manager
+
 #### [Documator](https://www.aimyflow.com/en/ai/documator-cc)
 
 Documator is a free AI document summarizer that helps users upload PDF files, generate summaries in multiple styles, and translate content into several languages, mainly for people who need quick understanding of document contents. For knowledge workers and researchers, it can speed up document review by turning long PDFs into concise overviews or page-by-page breakdowns.
@@ -3277,6 +4873,12 @@ Documator is a free AI document summarizer that helps users upload PDF files, ge
 Documentation.AI is an AI documentation and knowledge base platform that helps teams keep docs current, onboard users faster, and reduce support volume. In the AI era, it improves how support and product teams maintain institutional knowledge without constant manual rewriting.
 
 **Suitable roles:** Software Development Manager, Software Engineer, Information Technology Managers, Digital Marketing Director, Education Technology Consultant, Content Creator +3 more
+
+#### [Doe](https://www.aimyflow.com/en/ai/doe-so)
+
+Doe is an AI work platform that uses agents to execute tasks across 40+ tools, helping teams automate research, reporting, analytics, spreadsheets, and operational workflows, with a clear focus on enterprise users. For functions like marketing, finance, sales, operations, and product, it can reduce manual coordination and speed up decision-making by turning plain-language requests into completed cross-tool work.
+
+**Suitable roles:** Project Management Officer, Financial Analyst, Digital Marketing Director, Field Sales Manager, Software Development Manager
 
 #### [Dokie AI](https://www.aimyflow.com/en/ai/dokie-ai)
 
@@ -3296,6 +4898,12 @@ DomoAI is an AI video and animation platform that helps users turn text, images,
 
 **Suitable roles:** Content Creator, Independent Filmmaker, Social Media Content Creator, Digital Marketing Director, Graphic Designer
 
+#### [DoNotPay](https://www.aimyflow.com/en/ai/donotpay-com)
+
+DoNotPay is an AI-powered consumer self-help platform that helps people handle refunds, chargebacks, free trial cancellations, privacy protection, hidden money searches, and other bureaucratic tasks, mainly for consumers dealing with companies and government processes. In AI-assisted customer service and consumer rights work, it can help support, operations, and advocacy professionals automate repetitive claims and documentation steps while keeping more cases moving.
+
+**Suitable roles:** Financial Analyst, Medical Biller, Project Management Officer, Lawyer
+
 #### [Doodle Dreams](https://www.aimyflow.com/en/ai/doodledreams-cc)
 
 Doodle Dreams is an AI tool that turns children’s drawings into animated videos, helping families and other casual creators upload artwork, generate motion, and download or share the results. For educators, art tutors, and family content creators, it can speed up turning offline artwork into engaging digital media while preserving a child’s original creative details.
@@ -3308,11 +4916,23 @@ Doodle Duel is a free browser-based AI drawing game that lets people play solo o
 
 **Suitable roles:** Teacher, Project Management Officer, Corporate Leadership Coach, School Counselor, Content Creator
 
+#### [Doppl](https://www.aimyflow.com/en/ai/labs-google-doppl)
+
+Doppl is an experimental Google Labs app for U.S. adults that uses generative AI to help people virtually try on outfits from personal or uploaded photos, explore style options, and save or share generated looks. For fashion shoppers and stylists, it can speed visual outfit testing and inspiration, though outputs may not reflect true fit, size, or item availability.
+
+**Suitable roles:** Fashion Designer, Ecommerce Seller, Content Creator, Graphic Designer, Real Estate Agent
+
 #### [DoraScribe](https://www.aimyflow.com/en/ai/dorascribe-ai)
 
 DoraScribe is an AI medical scribe and transcription tool that turns patient consultations into SOAP notes and other charting documents for doctors and other clinicians, with mobile access and HIPAA-compliant handling. For physicians and clinical teams, it can reduce documentation burden and support more accurate, consistent records while keeping attention on patient care.
 
 **Suitable roles:** Family Doctor, Pediatrician, Cardiologist, Healthcare Administrator, Medical Biller
+
+#### [Draft & Goal AI Detector](https://www.aimyflow.com/en/ai/detector-dng-ai)
+
+Draft & Goal AI Detector is an AI content detection tool that analyzes text to identify likely AI-generated writing, with reports explaining suspicious sections, and is mainly aimed at students and other users reviewing written work. In AI-assisted writing workflows, it can help educators, editors, and reviewers check originality signals more consistently before submission, grading, or publication.
+
+**Suitable roles:** Technical Writer, College Professor, Copywriter, Teacher, Content Creator
 
 #### [Draft Dash](https://www.aimyflow.com/en/ai/draftdash-net)
 
@@ -3325,6 +4945,16 @@ Draft Dash is an AI article writer that helps users turn a topic into researched
 Dream Companion is an adults-only NSFW AI roleplay platform that lets users create, customize, and chat with AI companions and generate consistent companion images, mainly for people seeking private erotic or fantasy interactions. For creators and adult-content operators, AI tools like this can streamline character-based roleplay and visual continuity while reducing the manual effort of maintaining persona consistency.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Copywriter
+
+#### [Dream Studio](https://www.aimyflow.com/en/ai/beta-dreamstudio-ai)
+
+Dream Studio is Stability AI’s login portal for accessing the Dream Studio service, helping existing users sign in with email, Google, or Discord, and is mainly for people who already use the platform. In AI workflows, simple account access like this supports creators and digital teams by reducing friction when returning to image-generation tools.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter
+
+#### [Dream Studio](https://www.aimyflow.com/en/ai/beta-dreamstudio-ai-generate)
+
+Dream Studio is Stability AI’s login page, helping existing users sign in or create an account to continue using the platform, mainly for people who already use Dream Studio. In AI workflows, centralized account access helps creative and technical teams return to image-generation tasks with less friction and better continuity.
 
 #### [Dreamega AI Image Templates Gallery](https://www.aimyflow.com/en/ai/dreamega-ai-image-template)
 
@@ -3349,6 +4979,12 @@ Dreamle is an 18+ NSFW character AI chatbot platform that helps adults engage in
 DreamPages is an AI story generator that helps parents create personalized, age-appropriate bedtime stories for children with custom illustrations and optional multi-character narration. In AI-assisted family and education settings, it can help caregivers and early childhood educators quickly produce engaging reading material tailored to a child’s interests while maintaining privacy and content safety.
 
 **Suitable roles:** Teacher, Content Creator, Copywriter, Elementary School Math Teacher
+
+#### [DreamShootAI](https://www.aimyflow.com/en/ai/dreamshootai-com)
+
+DreamShootAI is an AI couple photo maker that turns selfies into themed photo sets and videos, including wedding, engagement, holiday, and professional headshots, mainly for couples and individuals who want studio-style images from home. For creators, job seekers, and event planners, it can speed up visual content production by generating polished portraits and announcement-ready imagery without organizing a traditional photoshoot.
+
+**Suitable roles:** Content Creator, Real Estate Agent, Lawyer
 
 #### [DreamStories](https://www.aimyflow.com/en/ai/dreamstories-app)
 
@@ -3375,6 +5011,24 @@ Dribbble is a design community and hiring marketplace that helps designers showc
 #### [DrugCard](https://www.aimyflow.com/en/ai/app-drug-card-io-simple-search)
 
 DrugCard is an electronic pharmacovigilance system that helps users search drug safety information, screen local and global literature, monitor health authority websites, and manage adverse event data, mainly for pharmacovigilance and drug safety teams. In an AI-driven workflow, it can help pharmacovigilance specialists and medical reviewers find relevant evidence faster across languages and sources to support more efficient safety monitoring.
+
+#### [Dubverse](https://www.aimyflow.com/en/ai/dubverse-ai)
+
+Dubverse is an AI media localization platform that helps users create video dubbing, text to speech, subtitles, transcripts, and video translations, mainly for teams producing multilingual video content. For video editors, marketers, and content operations teams, these AI tools can speed localization workflows while preserving timing, meaning, and more natural-sounding voice delivery.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Podcast Producer, Technical Writer
+
+#### [Durable](https://www.aimyflow.com/en/ai/durable-ai)
+
+Durable is an AI software automation platform that turns enterprise problems described in plain English into production-ready, maintained automations, mainly for enterprise operations and IT teams. In AI-enabled workflows, it can help operations, systems, and security professionals reduce manual coordination by converting requirements directly into deployed code that adapts as APIs and business needs change.
+
+**Suitable roles:** IT Infrastructure Manager, Software Development Manager, Cybersecurity Manager, Project Management Officer, COO
+
+#### [Durable](https://www.aimyflow.com/en/ai/durable-co)
+
+Durable is an AI business builder that helps small business owners launch a website, improve SEO and AI discoverability, manage leads and customers, and handle invoicing and marketing from one platform. For service businesses and solo operators, this can reduce manual website, marketing, and CRM work so they can focus more on winning and serving customers.
+
+**Suitable roles:** CEO, Digital Marketing Director, Field Sales Manager, Branch Office Manager, Ecommerce Seller
 
 #### [Dynamic Mockups](https://www.aimyflow.com/en/ai/dynamicmockups-com)
 
@@ -3428,6 +5082,12 @@ easyPDP with daisy is an AI product photography tool that helps users turn a cle
 
 **Suitable roles:** Ecommerce Seller, Digital Marketing Director, Graphic Designer, Content Creator
 
+#### [EasyPic](https://www.aimyflow.com/en/ai/easypic-app)
+
+EasyPic is an AI-powered photo tagging and image toolbox that helps photographers, content creators, and businesses generate titles and keywords and handle tasks like resizing, converting, watermarking, cropping, collaging, and creating PDFs. In AI-driven visual workflows, it can help marketing, ecommerce, and photography teams prepare images faster and keep metadata and file outputs more consistent.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Ecommerce Seller, Graphic Designer, Copywriter
+
 #### [eBookColoring.com](https://www.aimyflow.com/en/ai/ebookcoloring-com)
 
 eBookColoring.com is an AI coloring book generator that helps users create custom coloring pages, doodles, and ebooks from text prompts, mainly for artists, parents, educators, and other creative users. It can speed up concept creation and content production for teaching, publishing, or family activities by turning ideas into ready-to-use coloring designs quickly.
@@ -3464,6 +5124,12 @@ EchoWrite is a Windows voice dictation tool that turns speech into polished text
 
 **Suitable roles:** Software Engineer, Technical Writer, Copywriter, Content Creator, Data Engineer
 
+#### [Eden](https://www.aimyflow.com/en/ai/edenhq-com)
+
+Eden is a synthetic data platform that generates production-like data for polished product demos, AI agent evaluation, and model training, mainly for teams building and testing AI products. For product, ML, and engineering teams, it can speed up demo preparation and improve agent reliability by creating realistic edge cases, labeled datasets, and evaluation scenarios on demand.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Project Management Officer, Digital Marketing Director
+
 #### [Editaimg](https://www.aimyflow.com/en/ai/editaimg-com)
 
 Editaimg is an AI image editor that helps users remove backgrounds, clean up images, edit or replace text, upscale resolution, retouch faces, and create styled product or scene edits, mainly for creators, marketers, and e-commerce teams. In AI-assisted visual workflows, it can speed up routine photo editing for content, product, and design roles by turning prompt-based changes and exports into a faster alternative to manual retouching.
@@ -3494,6 +5160,12 @@ Eduaide.AI is an AI teaching platform that helps educators create lesson plans, 
 
 **Suitable roles:** Teacher
 
+#### [Education Copilot](https://www.aimyflow.com/en/ai/educationcopilot-com)
+
+Education Copilot is an AI lesson planning tool that helps educators quickly create lesson plans, handouts, writing prompts, student reports, project outlines, and other classroom materials in English or Spanish. For teachers and instructional staff, it can reduce prep time by generating structured first drafts so they can spend more time adapting instruction and supporting students.
+
+**Suitable roles:** Teacher, Education Technology Consultant, College Professor, Community College Instructor, Test Prep Tutor
+
 #### [Egaki.ai](https://www.aimyflow.com/en/ai/egaki-ai)
 
 Egaki.ai is an AI visibility optimization platform that helps DTC brands, ecommerce teams, and marketing agencies track, analyze, and improve how their brands are ranked, portrayed, and recommended across LLMs like ChatGPT, Perplexity, and Claude. For marketers and growth teams, it supports AI-era search strategy by linking visibility changes to content and positioning updates, making recommendation performance easier to monitor and refine.
@@ -3512,11 +5184,29 @@ Eilla AI is an AI platform for M&A, venture capital, and private equity workflow
 
 **Suitable roles:** Financial Analyst
 
+#### [El Centro Creativo de Alimama](https://www.aimyflow.com/en/ai/chuangyi-taobao-com)
+
+阿里妈妈创意中心是阿里妈妈营销平台上的创意生产与洞察工具，帮助电商商家和营销运营人员生成图文、短视频、文案和落地页素材，并查看行业趋势与创意表现。 In AI-driven ecommerce marketing, it can help marketers, designers, and store operators produce and iterate campaign assets faster while grounding decisions in creative insights and category examples.
+
+**Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Graphic Designer, Copywriter, Content Creator
+
+#### [Elements of AI](https://www.aimyflow.com/en/ai/elementsofai-com)
+
+Elements of AI is a free online course series from MinnaLearn and the University of Helsinki that helps non-experts learn what AI is, what it can and cannot do, and how AI methods are created, with a beginner course and a more technical course for learners with basic Python skills. For employees, managers, educators, and other nontechnical professionals, this kind of AI literacy can support safer adoption, clearer decision-making, and more informed collaboration with technical teams.
+
+**Suitable roles:** Education Technology Consultant, Project Management Officer, Software Engineer, CEO, Teacher
+
 #### [Eler](https://www.aimyflow.com/en/ai/eler-ai)
 
 Eler is an AI rendering tool that turns SketchUp or GLB models into photorealistic images in seconds, helping architects and designers create consistent multi-angle visuals without outsourcing or prompt writing. For architecture, interior design, and landscape design workflows, it can speed concept reviews and client presentations by producing controlled renders directly from the 3D model.
 
 **Suitable roles:** Residential Architect, Interior Designer, Commercial Architect, Graphic Designer, Real Estate Agent
+
+#### [EleutherAI](https://www.aimyflow.com/en/ai/eleuther-ai)
+
+EleutherAI is an AI research organization and open-source lab that develops and releases large language models, datasets, and research on language modeling, interpretability, alignment, and related modalities, mainly for AI researchers and developers. For machine learning and safety teams, its open research and model releases can support more transparent experimentation, evaluation, and understanding of how advanced models behave.
+
+**Suitable roles:** Data Scientist, Software Engineer, Software Development Manager, Cybersecurity Analyst, Technical Writer
 
 #### [Eleven Music, now Enliven Music,](https://www.aimyflow.com/en/ai/elevenmusic-ai)
 
@@ -3530,6 +5220,12 @@ ElevenCreative is an AI-native creative platform that helps creators, marketing 
 
 **Suitable roles:** Digital Marketing Director, Content Creator, Social Media Content Creator, Copywriter, Podcast Producer
 
+#### [ElevenLabs](https://www.aimyflow.com/en/ai/beta-elevenlabs-io)
+
+ElevenLabs is an AI voice generator, voice agents, and audio API platform that helps creators, developers, and enterprises produce lifelike speech, build conversational agents, and work with speech-to-text, voice cloning, music, and sound effects. For content, customer experience, and engineering teams, it can speed multilingual production and automate voice interactions while keeping audio workflows more consistent and scalable.
+
+**Suitable roles:** Software Engineer, Podcast Producer, Social Media Content Creator, Technical Writer, Software Development Manager
+
 #### [ElevenLabs](https://www.aimyflow.com/en/ai/elevenlabs-io)
 
 ElevenLabs is an AI voice platform that helps creators and enterprises generate realistic speech, clone voices, and build audio applications across multiple languages. In the AI era, it allows media, product, and localization teams to scale high-quality voice content with less studio overhead.
@@ -3541,6 +5237,18 @@ ElevenLabs is an AI voice platform that helps creators and enterprises generate 
 ElevenLabs Speech to Text is an AI transcription tool that converts live or recorded audio and video into editable text, captions, and subtitles in 90+ languages, mainly for developers, media teams, and enterprises. In AI-driven workflows, it can help customer support, meeting operations, and content production teams capture speech faster for real-time agents, searchable records, and post-production editing.
 
 **Suitable roles:** Software Engineer, Podcast Producer, Technical Writer, Project Management Officer, Other Sales Roles
+
+#### [ElfOnTheShelfGenerator.com](https://www.aimyflow.com/en/ai/elfontheshelfgenerator-com)
+
+ElfOnTheShelfGenerator.com is an AI tool that creates elf on the shelf images and videos for Christmas traditions, holiday storytelling, and festive content, mainly for families, parents, teachers, and content creators. In AI-assisted seasonal planning, it can help educators and creators produce themed visual materials faster without needing design or video production experience.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Teacher, Copywriter, Graphic Designer
+
+#### [Elicit](https://www.aimyflow.com/en/ai/elicit-org)
+
+Elicit is an AI research platform that helps researchers search academic papers and clinical trials, generate cited research reports, and automate parts of systematic literature reviews, mainly for scientific researchers in academia and industry. For researchers, analysts, and evidence synthesis teams, it can speed literature review and data extraction while keeping AI-generated findings tied to source-level citations.
+
+**Suitable roles:** College Professor, Data Scientist, Financial Analyst, Molecular Biologist, Medical Lab Technician
 
 #### [Eloovor](https://www.aimyflow.com/en/ai/eloovor-com)
 
@@ -3560,11 +5268,35 @@ Elser AI is an AI anime creation platform that helps users generate anime images
 
 **Suitable roles:** Content Creator, Independent Filmmaker, Graphic Designer, Social Media Content Creator, Copywriter
 
+#### [Embedder](https://www.aimyflow.com/en/ai/embedder-com)
+
+Embedder is an AI firmware engineering tool that generates, tests, and debugs verified C++ and Rust firmware from datasheets and hardware documents for embedded and firmware engineers working with MCUs and peripherals. By grounding code in source documentation and validating it on simulated and physical hardware, it can help embedded teams reduce datasheet interpretation errors and speed driver development and debugging.
+
+**Suitable roles:** Electrical Engineer, Software Engineer, IT Infrastructure Manager
+
+#### [Embra](https://www.aimyflow.com/en/ai/embra-app)
+
+Embra is an AI notetaker and workspace with advanced memory that records, transcribes, organizes, and acts on meeting and company information to help sales and product teams manage follow-ups, CRM updates, customer feedback, and research. In AI-assisted workflows, it can reduce manual note-taking and context switching so sales, product, and research professionals can turn conversations into actions and insights faster.
+
+**Suitable roles:** Field Sales Manager, Software Development Manager, Project Management Officer, CEO, Data Scientist
+
+#### [EMOXIA AI AGENT](https://www.aimyflow.com/en/ai/emoxia-ai-agent-cn)
+
+EMOXIA AI AGENT is a Windows desktop agent system, originally redeveloped on OpenClaw, that helps users run multi-step desktop workflows, system actions, browser tasks, and tool-based automation in a native Windows environment, mainly for Windows users testing or deploying desktop AI agents. For operations, automation, and technical workflow teams, it can improve AI-era productivity by turning natural language requests into executable desktop processes with system-level coordination.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, COO
+
 #### [Empirio](https://www.aimyflow.com/en/ai/empirio-ai)
 
 Empirio is an AI-powered survey builder that helps companies, schools, universities, and students create, customize, publish, and analyze online surveys quickly with templates, drag-and-drop editing, and real-time analytics. For HR, customer experience, product, and research teams, its AI-generated questions and instant summaries can shorten survey setup and help turn feedback into faster decisions.
 
 **Suitable roles:** Employee Relations Manager, Data Scientist, Digital Marketing Director, Project Management Officer, Education Technology Consultant
+
+#### [Endel](https://www.aimyflow.com/en/ai/endel-io)
+
+Endel is a personalized soundscape app that helps people focus, relax, sleep, and stay grounded through adaptive audio, mainly for individuals seeking support for productivity, stress relief, and rest. For knowledge workers, students, and anyone managing demanding schedules, AI-driven real-time sound adaptation can support longer concentration and smoother transitions between work and recovery.
+
+**Suitable roles:** Wellness Coach, Software Engineer, Content Creator, Teacher
 
 #### [Engain](https://www.aimyflow.com/en/ai/engain-io)
 
@@ -3578,6 +5310,24 @@ Entireweb is a private search engine that helps users discover web results witho
 
 **Suitable roles:** Digital Marketing Director, Marketing and Sales Managers, Information Technology Managers, Ecommerce Seller, Content Creator
 
+#### [Envariant](https://www.aimyflow.com/en/ai/envariant-ai)
+
+Envariant is an AI interpretability SDK that helps foundation model builders inspect, steer, and control model behavior by tracing issues like hallucinations, extracting principles, and generating targeted edge cases. For AI engineers and model teams, this can improve safety, reasoning, and evaluation workflows by shifting verification upstream into the model’s latent space instead of relying mainly on data iteration.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Cybersecurity Analyst, Project Management Officer
+
+#### [Ergo](https://www.aimyflow.com/en/ai/joinergo-com)
+
+Ergo is revenue automation infrastructure that makes an existing CRM more autonomous by capturing sales insights, updating records, drafting follow-up emails, and surfacing next actions for sales teams and revenue leaders. In AI-driven sales operations, it can reduce admin work for reps and give managers more reliable pipeline visibility, deal risk signals, and coaching inputs from real customer interactions.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, COO, CEO
+
+#### [ERNIE](https://www.aimyflow.com/en/ai/yiyan-baidu-com-welcome)
+
+ERNIE is Baidu’s AI assistant and chatbot that helps users chat, answer questions, write content, read documents, translate text, and work with images, mainly for people handling work and study tasks. For writers, students, and knowledge workers, it can speed up drafting, analysis, and multilingual document handling in one interface, reducing routine effort around content-heavy workflows.
+
+**Suitable roles:** Technical Writer, Copywriter, Content Creator, College Professor, Financial Analyst
+
 #### [Erota](https://www.aimyflow.com/en/ai/erota-app)
 
 Erota is an AI writing tool that generates custom explicit erotic stories, roleplay chats, choose-your-own-adventure narratives, and audio playback based on user-selected themes, acts, perspectives, and styles, mainly for adults seeking personalized NSFW fiction. For writers and adult-content creators, it can speed up ideation and variation by turning structured prompts into tailored story drafts and narrated scenes.
@@ -3589,6 +5339,18 @@ Erota is an AI writing tool that generates custom explicit erotic stories, rolep
 esotericAI is an AI-powered tarot and astrology platform that helps people get personalized tarot readings, journal their spiritual journey, and explore natal chart and transit-based insights, mainly for users interested in self-discovery and spiritual guidance. In an AI-driven wellness and coaching landscape, it can help tarot readers, spiritual coaches, and content creators deliver faster interpretations and more structured reflection experiences.
 
 **Suitable roles:** Wellness Coach, Content Creator, Social Media Content Creator, Copywriter
+
+#### [EstatePass](https://www.aimyflow.com/en/ai/estatepass-ai)
+
+EstatePass is an AI-powered platform for real estate professionals that helps aspiring agents prepare for licensing exams with state-specific practice questions and study tools, while giving licensed agents free marketing, lead generation, and transaction tools. In an AI-driven real estate workflow, it can help exam candidates study more efficiently and enable agents to produce listing content, presentations, and reports faster.
+
+**Suitable roles:** Real Estate Agent, Test Prep Tutor, Content Creator, Digital Marketing Director
+
+#### [et al.](https://www.aimyflow.com/en/ai/et-al-io)
+
+et al. is a beta knowledge feed that curates short, engaging insights from sources like research papers, conferences, newsletters, and podcasts for people who want to learn while they scroll. In an AI-heavy information environment, it can help knowledge workers and researchers control their feed and surface concise, useful inputs before deciding what to explore in depth.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Technical Writer, College Professor, Content Creator
 
 #### [eternity.ac](https://www.aimyflow.com/en/ai/eternity-ac)
 
@@ -3642,6 +5404,12 @@ everfind is a secure AI workspace that connects company documents and emails acr
 
 **Suitable roles:** Project Management Officer, Financial Analyst, COO, Certified Public Accountant, Lawyer
 
+#### [Evidently AI](https://www.aimyflow.com/en/ai/evidentlyai-com)
+
+Evidently AI is an AI evaluation and LLM observability platform that helps teams test, monitor, and validate LLMs, RAG systems, AI agents, and traditional ML models, mainly for AI builders, ML engineers, and MLOps teams. As AI systems become less deterministic, it helps these teams catch hallucinations, drift, safety issues, and workflow failures earlier across updates and production environments.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Cybersecurity Analyst, IT Infrastructure Manager
+
 #### [EvoLink](https://www.aimyflow.com/en/ai/evolink-ai)
 
 EvoLink is a unified API platform that helps developers access and route 40+ AI chat, image, video, music, and coding models through one integration with cost optimization and automatic failover. For AI engineers and product teams, this can simplify multi-model application development by reducing vendor lock-in while improving reliability and cost control in production workloads.
@@ -3666,6 +5434,18 @@ Examino is an AI essay grading tool that helps teachers and educators scan, eval
 
 **Suitable roles:** Teacher, College Professor, Community College Instructor, Elementary School Math Teacher, High School Physics Teacher
 
+#### [Exanimo.ai](https://www.aimyflow.com/en/ai/exanimo-ai)
+
+Exanimo.ai is an AI engine optimization platform that helps businesses monitor, analyze, and improve their brand visibility in responses from LLMs like ChatGPT, Claude, Gemini, and Perplexity, mainly for marketing teams and companies competing for AI-driven discovery. For marketers and brand strategists, it provides visibility tracking and competitor analysis that can guide content and positioning as more customer research starts inside AI systems.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Financial Analyst
+
+#### [Exla](https://www.aimyflow.com/en/ai/exla-ai)
+
+Exla is an edge AI optimization platform that helps developers and ML engineers run LLMs, vision-language, vision, and action models faster and in smaller footprints across devices such as Jetson, Raspberry Pi, CPUs, GPUs, and mobile hardware. For AI and embedded teams, this can make on-device deployment more practical by improving inference speed and memory efficiency for production workloads.
+
+**Suitable roles:** Software Engineer, Data Engineer, Software Development Manager, Electrical Engineer, IT Infrastructure Manager
+
 #### [ExpenseBot’s Gmail Receipt Scanner](https://www.aimyflow.com/en/ai/expensebot-ai-gmail-receipt-scanner)
 
 ExpenseBot’s Gmail Receipt Scanner is an AI expense management tool for Google Workspace that scans Gmail, photos, and emailed receipts to extract, categorize, and organize expenses in Google Sheets for freelancers, teams, accountants, and bookkeepers. For finance and bookkeeping work, it can reduce manual receipt handling and speed tax-ready reporting by turning inbox data into structured expense records and exports.
@@ -3677,6 +5457,18 @@ ExpenseBot’s Gmail Receipt Scanner is an AI expense management tool for Google
 ExpertPitch is an AI-powered PR assistant that automates finding journalist requests, writing personalized pitches, and tracking backlinks to help founders, marketers, and businesses earn media coverage and high-authority links. For PR, SEO, and content teams, it can reduce manual outreach work while using AI to match relevant opportunities and support more consistent digital authority building.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, Content Creator, Technical Writer
+
+#### [ExpiredDomains.com](https://www.aimyflow.com/en/ai/origins-chat)
+
+ExpiredDomains.com is a free domain discovery platform that helps users find and evaluate expired or expiring domains such as origins.chat with searchable listings, pricing, and SEO-related metrics, mainly for SEOs, marketers, and domain investors. In AI-driven search and brand building, this can help domain professionals assess naming options and domain history more efficiently before buying through registrars like GoDaddy.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, CEO, Content Creator
+
+#### [Explainpaper](https://www.aimyflow.com/en/ai/explainpaper-com)
+
+Explainpaper is an AI-powered research paper reader that helps users upload papers, highlight confusing passages, and get simple, context-aware explanations, mainly for researchers and other people reading academic literature. For researchers, analysts, and technical learners, it can speed literature review by turning dense jargon into searchable explanations, summaries, and paper-specific answers.
+
+**Suitable roles:** College Professor, Data Scientist, Financial Analyst, Molecular Biologist, Technical Writer
 
 #### [Explee](https://www.aimyflow.com/en/ai/explee-com)
 
@@ -3732,6 +5524,12 @@ EzUGC is an AI UGC ad generator that helps users create campaign-ready video ads
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, CEO, Content Creator, Copywriter
 
+#### [F2](https://www.aimyflow.com/en/ai/f2-ai)
+
+F2 is an AI platform for private market investors that helps teams analyze data rooms, evaluate deal risk, and produce investment committee-ready reports faster, mainly for private credit, private equity, and commercial banking professionals. In AI-assisted diligence workflows, it can reduce manual financial analysis and reporting time while giving analysts, underwriters, and deal teams source-traceable outputs for faster review and decision-making.
+
+**Suitable roles:** Financial Analyst, Risk Analyst, CFO, Investment Portfolio Manager
+
 #### [Fabi.ai](https://www.aimyflow.com/en/ai/fabi-ai)
 
 Fabi.ai is an AI-powered data analysis platform that combines SQL, Python, and automation to help analysts explore data and generate insights faster. It boosts productivity for data teams by reducing manual analysis steps and accelerating decision-making from raw data.
@@ -3759,6 +5557,12 @@ Face Finder is an AI-powered reverse face search engine that helps users find on
 #### [Face Symmetry Test](https://www.aimyflow.com/en/ai/facesymmetrytest-ai)
 
 Face Symmetry Test is an AI-powered online facial symmetry analyzer that helps users upload a selfie to measure overall facial balance and feature-level symmetry scores, mainly for people curious about their appearance from photos. For photographers, beauty professionals, and cosmetic consultation workflows, it can provide a quick visual reference to discuss facial proportions more consistently.
+
+#### [Face++](https://www.aimyflow.com/en/ai/faceplusplus-com-cn)
+
+Face++ is an AI open platform that provides APIs and SDKs for face recognition, OCR, image and human-body analysis, helping developers and enterprises build identity verification, document recognition, and visual processing applications. For software engineers and product teams, these computer vision services can speed deployment of AI-driven workflows in finance, marketing, mobile, automotive, and education use cases.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Analyst, Data Engineer
 
 #### [FaceFusion](https://www.aimyflow.com/en/ai/facefusion-io)
 
@@ -3794,6 +5598,18 @@ Facet is an AI-native technical SEO and audit platform that helps SaaS companies
 
 **Suitable roles:** Digital Marketing Director, Software Development Manager, Technical Writer, CEO
 
+#### [Facetune](https://www.aimyflow.com/en/ai/facetuneapp-com)
+
+Facetune is an AI photo and video editing app that helps users enhance selfies, portraits, social posts, and other visual content with retouching, styling, background, and creation tools, mainly for creators, influencers, and everyday users. In AI-driven content workflows, it can help social media managers, content creators, and marketers produce polished visual assets faster without advanced editing skills.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Graphic Designer, Copywriter
+
+#### [FakeYou](https://www.aimyflow.com/en/ai/fakeyou-com)
+
+FakeYou is an AI voice and video generation platform that helps users create text-to-speech, voice-to-voice, voice cloning, and character-style audio or video, mainly for creators and people making media with recognizable voices. For content creators, editors, and social media teams, it can speed up prototyping, narration testing, and character voice experiments in AI-assisted production workflows.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Voice Actor
+
 #### [FantasyGen](https://www.aimyflow.com/en/ai/fantasygen-net)
 
 FantasyGen is an AI fantasy map generator that helps users create world maps, dungeon maps, battle maps, and city maps from text prompts, mainly for game masters, fantasy authors, and worldbuilders. For tabletop RPG prep, writing, and early game design, it can speed visual ideation by turning rough concepts into usable map drafts without requiring drawing skills.
@@ -3824,11 +5640,23 @@ FastHeadshot is an AI professional headshot generator that turns uploaded selfie
 
 **Suitable roles:** Talent Acquisition Manager, Digital Marketing Director, CEO, Field Sales Manager, Content Creator
 
+#### [Fastin3D](https://www.aimyflow.com/en/ai/fastin3d-com)
+
+Fastin3D is an AI 3D platform that helps users create 3D models from a single image or text prompt and add textures to existing meshes, mainly for beginners and other creators who want a simple end-to-end 3D workflow. For 3D artists, designers, and game asset creators, combining image creation, model generation, and texture work in one library can reduce handoff friction and speed iteration.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Independent Filmmaker, Content Creator, Software Engineer
+
 #### [FastlyConvert Audio to Text AI](https://www.aimyflow.com/en/ai/fastlyconvert-com-audio-to-text)
 
 FastlyConvert Audio to Text AI is an online transcription tool that converts audio and video files into editable text, summaries, translations, and subtitle exports, mainly for people handling meetings, podcasts, interviews, lectures, and captions. In AI-driven workflows, it can help content teams, educators, and operations staff turn recordings into searchable notes and reusable draft assets faster while keeping review and correction in the loop.
 
 **Suitable roles:** Content Creator, Technical Writer, College Professor, Project Management Officer, Teacher
+
+#### [Fastshot](https://www.aimyflow.com/en/ai/fastshot-ai)
+
+Fastshot is an AI mobile app builder that turns text prompts into true native iOS and Android apps, handling design, assets, backend, authentication, and app store deployment for founders, builders, and teams without coding experience. In AI-assisted product work, it can help app creators and product teams shorten the path from concept to publishable mobile app while reducing dependence on separate design and engineering setup.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CEO, Project Management Officer, Graphic Designer
 
 #### [fastwrite.io](https://www.aimyflow.com/en/ai/fastwrite-io-en)
 
@@ -3860,11 +5688,35 @@ Feng Shui Bedroom AI Analysis is an AI tool that analyzes bedroom photos, floor 
 
 **Suitable roles:** Interior Designer, Wellness Coach, Residential Architect, Content Creator
 
+#### [Ferndesk](https://www.aimyflow.com/en/ai/ferndesk-com)
+
+Ferndesk is an AI-native help center platform that helps companies create, update, and optimize customer documentation, screenshots, and self-service support content, mainly for product-led teams and support-focused businesses. For support, documentation, and customer success teams, its AI-driven updates and audits can reduce manual maintenance while keeping knowledge bases aligned with product changes and easier for search engines and AI assistants to find.
+
+**Suitable roles:** Technical Writer, Copywriter, Project Management Officer, Software Development Manager, Digital Marketing Director
+
+#### [Fernstone Insurance](https://www.aimyflow.com/en/ai/fernstone-com)
+
+Fernstone Insurance is an AI-powered insurance brokerage and risk management platform that helps businesses manage coverage, claims, certificates, renewals, and compliance, mainly for fast-moving companies that need commercial insurance support. For operations, finance, and risk teams, its centralized policy data and automated alerts can reduce manual follow-up and help them respond faster to coverage gaps and renewal deadlines.
+
+**Suitable roles:** Risk Analyst, CFO, COO, Healthcare Administrator, Logistics Operations Planner
+
 #### [ferranfigueredo.com](https://www.aimyflow.com/en/ai/f13o-com)
 
 ferranfigueredo.com is the portfolio website of Ferran Figueredo, a product developer who builds digital products, web and mobile applications, technology services, and AI solutions, mainly for entrepreneurs and people reviewing his projects. In an AI-driven product environment, this kind of portfolio helps founders, product managers, and technical collaborators quickly assess relevant experience across product design, technology, and user experience.
 
 **Suitable roles:** Software Engineer, CEO, Software Development Manager, Content Creator
+
+#### [Ficra A.I.](https://www.aimyflow.com/en/ai/ficra-ai)
+
+Ficra A.I. is an AI product expert and visual source of truth that captures every flow and screen in an app to help product, support, QA, compliance, and legal teams understand what users actually see. In AI-enabled product operations, it can help these teams answer questions faster, catch broken experiences earlier, and keep documentation, disclosures, and audits aligned with the live user experience.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, Technical Writer, Cybersecurity Analyst, Lawyer
+
+#### [Fifth Door](https://www.aimyflow.com/en/ai/fifthdoor-com)
+
+Fifth Door is a private-beta AI game creation platform that helps users turn ideas into playable games without coding, mainly for creators of any skill level who want to build, remix, customize, and publish games quickly. For game designers and creative teams, it can shorten prototyping cycles by making playable concepts and rule changes available in minutes.
+
+**Suitable roles:** Content Creator, Graphic Designer, Software Development Manager, Copywriter
 
 #### [Figr](https://www.aimyflow.com/en/ai/figr-design)
 
@@ -3878,11 +5730,29 @@ Financial Fitness Passport is AI-powered financial guidance software that helps 
 
 **Suitable roles:** Financial Analyst, Compensation & Benefits Manager, Wellness Coach, Employee Relations Manager
 
+#### [Findly](https://www.aimyflow.com/en/ai/findly-ai)
+
+Findly is an AI data analysis and machine learning platform that helps businesses turn connected data into real-time analytics, forecasting, and reporting, mainly for enterprise teams such as trading, supply chain, consulting, retail, and e-commerce professionals. In AI-driven workflows, it can help analysts, managers, and consultants get faster answers from complex databases and focus more on decisions, forecasting, and risk management.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Logistics Operations Planner, E-commerce Sales Head, Project Management Officer
+
 #### [FindTube.ai](https://www.aimyflow.com/en/ai/findtube-ai)
 
 FindTube.ai is an AI-powered YouTube search tool that helps people discover curated educational videos organized by duration and difficulty, mainly for learners seeking structured video content. For students, self-learners, and educators, this can speed up finding relevant lessons and reduce time spent filtering large amounts of video results.
 
 **Suitable roles:** Teacher, College Professor, Online Coding Tutor, Education Technology Consultant, Community College Instructor
+
+#### [Fineshare](https://www.aimyflow.com/en/ai/fineshare-com)
+
+Fineshare is an AI audio and video creation platform that helps creators generate voices, music, sound effects, voiceovers, talking photos, and videos through tools like FineVoice, Singify, VoiceTrans, FineCam, and Vora. For content creators, video editors, and audio producers, its AI workflow can speed up asset production and reduce manual recording, editing, and prompt-building tasks.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Graphic Designer
+
+#### [Fineshare FineCam](https://www.aimyflow.com/en/ai/fineshare-com-finecam)
+
+Fineshare FineCam is AI virtual camera software for Windows and Mac that helps users create HD videos and improve video conferencing with phone-as-webcam support, background removal, scene switching, and content sharing, mainly for teachers, remote teams, presenters, creators, and streamers. In AI-driven video work, it can help educators, sales teams, and content creators produce clearer, more polished presentations and meetings with less manual setup.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Field Sales Manager, Teacher, Healthcare Administrator
 
 #### [FineVoice](https://www.aimyflow.com/en/ai/finevoice-ai)
 
@@ -3901,6 +5771,12 @@ FineVoice Text to Speech is an online AI text-to-speech tool that helps users tu
 Finpilot is an AI copilot for finance analysts that helps users research companies, analyze financial data, review documents, and produce reports with verifiable insights. It speeds up investment workflows by giving analysts faster access to evidence-backed answers and clearer market intelligence.
 
 **Suitable roles:** Financial Analyst
+
+#### [Finto](https://www.aimyflow.com/en/ai/gofinto-com)
+
+Finto automates your invoice-to-pay process with AI agents. From invoice receipt to journal entry - no clicking required. Integrates with SAP, DATEV & Business Central.
+
+**Suitable roles:** Financial Analyst, Certified Public Accountant, Corporate Tax Manager, Financial Planning & Analysis Manager
 
 #### [Firebase Studio](https://www.aimyflow.com/en/ai/firebase-studio)
 
@@ -3962,11 +5838,29 @@ FlashSlides is an AI presentation generator that helps users create slide decks 
 
 **Suitable roles:** CEO, College Professor, Financial Analyst, Project Management Officer, Teacher
 
+#### [Flawless](https://www.aimyflow.com/en/ai/flawlessai-com)
+
+Flawless is an assistive AI platform for film and TV that helps filmmakers and post-production teams localize dialogue, change or replace dialogue, and refine performances while protecting artistic rights, consent, and ownership. For editors, producers, and localization teams, it can speed post-production fixes and versioning without reshoots while keeping actor performance review and rights governance in the workflow.
+
+**Suitable roles:** Independent Filmmaker, Podcast Producer, Voice Actor, Content Creator, CEO
+
+#### [FlexClip](https://www.aimyflow.com/en/ai/flexclip-com-cn)
+
+FlexClip is an online video editing and creation tool that helps users turn images, clips, text, and templates into finished videos with AI features, stock assets, and editing tools, mainly for content creators, marketers, educators, and small business teams. In AI-driven content workflows, it can help marketing and social media professionals produce subtitles, voiceovers, and platform-ready videos faster without relying on advanced editing skills.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter, Teacher
+
 #### [FliFlik Voice Changer](https://www.aimyflow.com/en/ai/fliflik-com-voice-changer)
 
 FliFlik Voice Changer is a desktop voice-changing tool for Windows and Mac that helps users modify voices in real time, apply soundboard effects, and change or record audio files, mainly for gamers, streamers, VTubers, online teachers, and remote communicators. For creators and community-facing professionals, AI voice effects and noise reduction can make live sessions, calls, and recorded content more flexible and easier to tailor to different audiences.
 
 **Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Online Coding Tutor, Teacher
+
+#### [Fliki](https://www.aimyflow.com/en/ai/fliki-ai)
+
+Fliki is an AI video and voiceover creation tool that turns text, ideas, or slides into videos with lifelike voices, clips, and thumbnails, mainly for content creators, marketers, educators, and workplace communications teams. In AI-driven content workflows, it can help these professionals produce multilingual training, social, and internal video assets faster from existing written material.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, School Counselor, Education Technology Consultant, Copywriter
 
 #### [Flipped.Chat](https://www.aimyflow.com/en/ai/flipped-chat)
 
@@ -4004,6 +5898,12 @@ FlowCog is a business finance planning tool that provides prebuilt SaaS financia
 
 **Suitable roles:** Financial Analyst
 
+#### [FlowGPT](https://www.aimyflow.com/en/ai/flowgpt-com)
+
+FlowGPT is an AI character roleplay and prompt marketplace that helps users find, use, and chat with AI characters and ChatGPT prompts, mainly for people exploring creative, personal, and task-focused AI interactions. For marketers, programmers, students, and job seekers, it can speed up idea generation and prompt discovery by organizing prompts and bots around common work and interest categories.
+
+**Suitable roles:** Copywriter, Social Media Content Creator, Software Engineer, Teacher
+
 #### [FlowPost](https://www.aimyflow.com/en/ai/flowpost-ai)
 
 FlowPost is an AI social media posting tool that helps creators, businesses, and agencies create, schedule, publish, and manage content across multiple platforms while matching each account’s voice. For social media managers, marketers, and founders, it can reduce manual repurposing and app-switching so they can maintain consistent output and engagement with less time spent inside social platforms.
@@ -4027,6 +5927,12 @@ Flowstep is an AI design assistant that helps users generate editable UI designs
 Floyo is a browser-based platform for discovering, running, and building ComfyUI AI workflows with no setup, mainly for creators, teams, and enterprises working on image, video, VFX, and LoRA-based production. By reducing technical setup and making reusable workflows easier to share, it can help creative and production teams iterate faster on visual content and pipeline experiments.
 
 **Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Software Engineer, Independent Filmmaker
+
+#### [Fluidize](https://www.aimyflow.com/en/ai/fluidize-ai)
+
+Fluidize is an AI platform for scientific computing that helps scientists and engineers accelerate R&D by running simulations and experiments and automating setup, execution, validation, and scaling. For research and engineering teams, it can reduce manual pipeline work and make simulation-driven development faster and easier to manage across software, compute, and collaboration workflows.
+
+**Suitable roles:** Software Engineer, Data Scientist, Mechanical Engineer, Electrical Engineer, Civil Engineer
 
 #### [Fluidwave](https://www.aimyflow.com/en/ai/onetask-me)
 
@@ -4058,6 +5964,18 @@ Fluxy AI is an AI-powered customer support platform that helps businesses build,
 
 **Suitable roles:** Project Management Officer, Software Development Manager, IT Infrastructure Manager, COO
 
+#### [Foaster](https://www.aimyflow.com/en/ai/foaster-ai)
+
+Foaster is an AI-native consulting firm that helps organizations map operations, interview teams at scale, and get consultant-validated recommendations in days, mainly for leadership teams assessing workflows, bottlenecks, and cross-functional issues. In AI-enabled operations and strategy work, it can help executives, consultants, and functional leaders base decisions on input from more of the organization rather than limited interview samples.
+
+**Suitable roles:** CEO, COO, Project Management Officer, Nonprofit Program Manager, Software Development Manager
+
+#### [fobizz](https://www.aimyflow.com/en/ai/tools-fobizz-com)
+
+fobizz is a GDPR-compliant platform that combines AI tools, professional development courses, and teaching materials to help educators plan lessons, create classroom content, and give students secure AI-supported access. For teachers and instructional staff, it can streamline routine tasks like worksheet creation, feedback, transcription, and lesson preparation while supporting more privacy-conscious classroom use of AI.
+
+**Suitable roles:** Teacher, Education Technology Consultant, College Professor, Community College Instructor, Test Prep Tutor
+
 #### [Foca AI](https://www.aimyflow.com/en/ai/focaupscaler-com)
 
 Foca AI is a physics-aware AI image upscaler and enhancer that helps users restore authentic detail, textures, and clarity in low-resolution photos and graphics, mainly for designers, photographers, studios, and image-focused professionals. For creative and e-commerce workflows, its fidelity-first approach can help teams improve print-ready visuals and product imagery without introducing invented details.
@@ -4069,6 +5987,12 @@ Foca AI is a physics-aware AI image upscaler and enhancer that helps users resto
 Focal is AI video creation software that helps users turn ideas or scripts into TV-style shows, movies, and YouTube videos, mainly for creators who want to tell stories with generated characters, scenes, voices, and editing controls. For video creators and storytellers, it can speed up scripting, scene iteration, and timeline-based editing while using current AI models to keep production more efficient.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Independent Filmmaker, Podcast Producer
+
+#### [Focus Buddy](https://www.aimyflow.com/en/ai/focusbuddy-ai)
+
+Focus Buddy is an AI productivity coach that runs focus sessions to help people manage to-do lists, reduce procrastination, and understand work habits, mainly for individuals who want more structure and accountability while working. For knowledge workers and professionals with distraction or planning challenges, it can support better task prioritization and more consistent follow-through through ongoing check-ins and pattern-based insights.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, CEO, COO
 
 #### [FocuSee](https://www.aimyflow.com/en/ai/focusee-imobie-com)
 
@@ -4100,6 +6024,12 @@ FoodTrack is an AI diet and wellness tracking app that helps users build persona
 
 **Suitable roles:** Wellness Coach
 
+#### [ForA.Chat](https://www.aimyflow.com/en/ai/fora-chat)
+
+ForA.Chat is a chatbot platform that lets users chat with GPT-3-based personality bots or create a free personal chatbot on a custom ForA.Chat subdomain, mainly for individuals who want to model a bot after themselves or a public figure. For creators, personal brands, and community managers, this can turn conversational AI into a simple way to offer always-on audience interaction and test how a persona responds to common questions.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Copywriter, Digital Marketing Director, Community College Instructor
+
 #### [Formably](https://www.aimyflow.com/en/ai/formably-io)
 
 Formably is an AI-powered form backend that helps modern teams turn messy website form submissions into structured data, filter spam, and route enriched leads or requests to CRMs, webhooks, email, or dashboards. For marketing, sales, support, and operations teams, it can reduce manual triage by converting unstructured messages into usable fields and intent signals automatically.
@@ -4117,6 +6047,12 @@ Format Magic is an AI document formatter that turns plain text, AI-generated tex
 FormHug is an AI form builder that helps users quickly create registration forms, surveys, quizzes, assessments, and booking workflows with self-service data lookup, mainly for teams and professionals handling customer, event, research, or application processes. For marketers, operations teams, educators, and HR staff, its AI-generated forms and respondent lookup pages can reduce manual setup, sharing, and follow-up work.
 
 **Suitable roles:** Project Management Officer, Digital Marketing Director, Talent Acquisition Manager, Education Technology Consultant, Nonprofit Program Manager
+
+#### [Formula Bot](https://www.aimyflow.com/en/ai/excelformulabot-com)
+
+Formula Bot is an AI data analytics tool that helps founders and data teams analyze spreadsheets and other data sources, generate formulas, create charts, clean data, and produce reports using plain-language prompts. For analysts, operations, and BI roles, it can speed up routine data preparation and insight generation while exposing the underlying code for verification and reuse.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Project Management Officer, CEO
 
 #### [Fotify](https://www.aimyflow.com/en/ai/fotify-app)
 
@@ -4154,6 +6090,12 @@ FramEdits is an AI image editor that helps users generate new images from text p
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
 
+#### [Frase](https://www.aimyflow.com/en/ai/frase-io)
+
+Frase is an agentic SEO and GEO platform that researches competitors, helps create and optimize content, and tracks visibility across Google and AI search tools, mainly for content marketers, SEO teams, agencies, and enterprises. For SEO and content teams, it can streamline planning and optimization for both traditional search rankings and AI citations in one workflow.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, CEO
+
 #### [Free AI Video & Image Upscaler](https://www.aimyflow.com/en/ai/free-upscaler-video)
 
 Free AI Video & Image Upscaler is a browser-based, open-source tool that helps users upscale videos and images privately without signup or installation, mainly for casual users who need quick enhancement of playable files. For content creators and editors, its client-side AI processing can improve low-resolution visuals while keeping files on the local device, which supports privacy-sensitive workflows.
@@ -4172,6 +6114,12 @@ freebeat.ai is an AI music video generator that turns songs or music links into 
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Music Lover, Copywriter, Independent Filmmaker
 
+#### [FreeMusic AI](https://www.aimyflow.com/en/ai/freemusic-ai)
+
+FreeMusic AI is an AI music creation platform that helps users generate and customize royalty-free songs, lyrics, stems, vocals, and mastered tracks, mainly for content creators, podcasters, developers, and businesses needing original audio for commercial or personal projects. In AI-driven media workflows, it can help creative and marketing teams produce tailored background music and audio assets faster while reducing copyright concerns.
+
+**Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Digital Marketing Director, Software Engineer
+
 #### [FreeMusicGen](https://www.aimyflow.com/en/ai/freemusicgen-com)
 
 FreeMusicGen is an AI music generator that helps users create custom songs with lyrics or instrumentals from text prompts, and it is mainly for people who want to produce music quickly for creative or project use. In AI-assisted workflows, it can help content creators, musicians, and video editors generate draft tracks, extend songs, and prepare lyrics, stems, or MIDI files faster.
@@ -4184,17 +6132,35 @@ Freepik is an all-in-one creative suite that combines AI design tools with stock
 
 **Suitable roles:** Content Creator
 
+#### [Freeport](https://www.aimyflow.com/en/ai/freeportmarkets-com)
+
+Freeport is an internet-native investing platform that helps investors trade pre-IPO equity exposure, tokenized stocks, crypto, and yield products while using AI to filter trusted market information into actionable research. For investors and research-driven trading teams, its AI feed can reduce time spent on noisy social and news signals by organizing relevant themes, watchlists, and trade ideas around assets they follow.
+
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, Risk Analyst, Data Scientist, CEO
+
 #### [Freeway](https://www.aimyflow.com/en/ai/tryfreeway-com)
 
 Freeway is a free, on-device voice-to-text app for Mac that lets users dictate speech into text in any app or website using a hotkey, and it is mainly for Mac users who want faster, easier typing alternatives. For writers, parents, students, and other computer-based users, its private local transcription can speed note-taking, messaging, and drafting while reducing reliance on cloud AI tools.
 
 **Suitable roles:** Technical Writer, Copywriter, Content Creator, Teacher, Software Engineer
 
+#### [Freya](https://www.aimyflow.com/en/ai/freyavoice-ai)
+
+Freya is an enterprise AI voice agent platform that manages inbound and outbound customer calls, supports multilingual service, and helps teams handle workflows such as sales outreach, customer inquiries, scheduling, reminders, and status updates. For customer service, sales, and operations teams, it can automate high-volume phone interactions while supporting policy compliance and reducing manual call handling.
+
+**Suitable roles:** Field Sales Manager, Restaurant General Manager, Logistics Operations Planner, Project Management Officer, Branch Office Manager
+
 #### [Fridge Leftovers AI](https://www.aimyflow.com/en/ai/fridgeleftoversai-com)
 
 Fridge Leftovers AI is a meal idea generator that helps home cooks turn available ingredients into recipe suggestions and reduce food waste. It shows how AI can simplify everyday planning by converting limited inputs into practical, personalized recommendations.
 
 **Suitable roles:** Food Enthusiast
+
+#### [Frizzle](https://www.aimyflow.com/en/ai/frizzle-com)
+
+Frizzle is an AI-powered math grading tool that helps teachers grade handwritten or typed assignments faster and provide step-by-step feedback based on student reasoning. For math teachers and educators, it can reduce time spent on routine grading so they can focus more on instruction and earlier support for struggling students.
+
+**Suitable roles:** Teacher, Elementary School Math Teacher, Community College Instructor, College Professor, Education Technology Consultant
 
 #### [FrogLead](https://www.aimyflow.com/en/ai/froglead-io)
 
@@ -4207,6 +6173,12 @@ FrogLead is a LinkedIn-focused CRM for sales and outreach teams that helps users
 Frontegg is an identity and access platform that helps SaaS companies secure customer-facing app entry points, APIs, and AI-driven interactions with low-code CIAM and an enterprise-grade agentic layer. For product, engineering, and security teams, it can reduce time spent building identity infrastructure while making AI-enabled SaaS access safer to manage at scale.
 
 **Suitable roles:** Cybersecurity Manager, Software Development Manager, IT Infrastructure Manager, Software Engineer, Cybersecurity Analyst
+
+#### [FSH Technologies](https://www.aimyflow.com/en/ai/contenda-co)
+
+FSH Technologies is an AI-native municipal infrastructure software company that helps local governments, schools, and nonprofits manage public service operations such as forms, HR, food services, waste routing, fundraising, and case processing. For public sector administrators, education operations teams, and civic IT leaders, it can use AI to streamline workflows, modernize legacy processes, and improve service delivery for residents and students.
+
+**Suitable roles:** IT Infrastructure Manager, School Counselor, Healthcare Administrator, Nonprofit Program Manager, Project Management Officer
 
 #### [fuelOS](https://www.aimyflow.com/en/ai/track-tenjin-com-v0-click-fc6VtQJRrt0bBNqm9dpwrV)
 
@@ -4232,6 +6204,12 @@ Furlana is an AI platform for independent pet shops that helps them create shop-
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Content Creator, Ecommerce Seller, Branch Office Manager
 
+#### [Fuse](https://www.aimyflow.com/en/ai/fuseinsight-com)
+
+Fuse is a healthcare automation platform that helps medical practices automate digital patient intake, CPT code-level insurance eligibility verification, and patient cost estimates, mainly for private practice owners, practice managers, and billing managers. In AI-assisted revenue cycle operations, it can reduce manual payer-checking work and support billing and front-office teams with faster eligibility checks and clearer pre-service pricing.
+
+**Suitable roles:** Medical Biller, Healthcare Administrator, Occupational Health Specialist, Project Management Officer
+
 #### [FuturiBooks](https://www.aimyflow.com/en/ai/futuribooks-ai)
 
 FuturiBooks is an AI audiobook narration platform that helps publishers, self-published authors, and organizations turn manuscripts into studio-quality audiobooks with selectable voices, voice cloning, and multiple language options. For publishing and content teams, it can speed audio production and multilingual adaptation while keeping more of the workflow in-house.
@@ -4243,6 +6221,12 @@ FuturiBooks is an AI audiobook narration platform that helps publishers, self-pu
 GA4.so is an AI agent for Google Analytics 4 that helps teams and agencies automate reporting by writing code, fetching GA4 data, and delivering scheduled insights with charts and exports. For web analysts, marketers, and data teams, it can reduce manual analysis work by turning natural-language questions into repeatable reporting workflows.
 
 **Suitable roles:** Digital Marketing Director, Data Scientist, Software Engineer, Content Creator
+
+#### [Gale Visa](https://www.aimyflow.com/en/ai/galevisa-com)
+
+Gale Visa is a U.S. immigration platform that helps startups, enterprises, and individual employees manage business visa and green card cases, documents, deadlines, and compliance in coordination with independent attorneys. For founders, HR, and immigration managers, this kind of AI-era workflow software can reduce manual tracking and speed case preparation so teams spend less time on administration and more time on hiring and mobility planning.
+
+**Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO, Project Management Officer, Lawyer
 
 #### [Gamma](https://www.aimyflow.com/en/ai/gamma-app)
 
@@ -4280,6 +6264,12 @@ Gavel Exec is AI contract review and drafting software that runs inside Microsof
 
 **Suitable roles:** Lawyer, Technical Writer, Project Management Officer, CEO, COO
 
+#### [Gavin](https://www.aimyflow.com/en/ai/solemnsir-com-meet-gavin-your-ai-companion)
+
+Gavin is an AI conversational support companion from The Solemn Sir that helps men talk through stress, relationships, fatherhood, work, and personal reflection in a private, stigma-free space. For men’s community leaders, coaches, and support-oriented professionals, it shows how AI can extend always-available, nonclinical conversation support between human interactions.
+
+**Suitable roles:** Wellness Coach, School Counselor, Corporate Leadership Coach, Healthcare Administrator
+
 #### [Gemini Audio](https://www.aimyflow.com/en/ai/deepmind-google-models-gemini-audio)
 
 Gemini Audio is Google DeepMind’s real-time audio model for building conversational audio agents, speech translation, audio generation, and audio understanding, mainly for developers creating voice-enabled applications. For product, support, and localization teams, it can streamline multilingual voice workflows by enabling faster speech-based interaction, translation, and extraction of useful information from audio.
@@ -4303,6 +6293,18 @@ GeminiGen AI is a multimodal content generation platform that helps users create
 Genaraera is an AI infographic generator that turns natural-language prompts, data inputs, or reference images into professional visual infographics, mainly for marketers, educators, content creators, and business users. For digital marketing, reporting, and presentation work, it can speed up data visualization tasks and help teams produce clearer visual assets without requiring dedicated design skills.
 
 **Suitable roles:** Digital Marketing Director, Content Creator, Graphic Designer, Financial Analyst, CEO
+
+#### [Generate:Biomedicines](https://www.aimyflow.com/en/ai/generatebiomedicines-com)
+
+Generate:Biomedicines is a therapeutics company that uses machine learning, biological engineering, and medicine through its Generate Platform to design and develop novel protein-based medicines, mainly for drug discovery and biopharma teams. For researchers and therapeutic developers, this AI-driven generative biology approach can shorten design-test cycles and support more targeted protein engineering in medicine development.
+
+**Suitable roles:** Molecular Biologist, Data Scientist, Microbiologist, Medical Lab Technician, Healthcare Administrator
+
+#### [Generated Photos](https://www.aimyflow.com/en/ai/generated-photos)
+
+Generated Photos is an AI image platform that helps designers, marketers, researchers, and machine learning teams search, generate, and customize copyright-free faces and full-body human photos from a large synthetic image library. In AI-driven creative and data workflows, it can help these professionals source diverse visual assets and datasets faster while reducing reliance on traditional model photography.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Data Scientist, Software Engineer, Content Creator
 
 #### [GenerateSongAI](https://www.aimyflow.com/en/ai/generatesongai-com)
 
@@ -4339,6 +6341,12 @@ Genie AI is an AI legal assistant that helps businesses draft, review, and negot
 GenMix Text to Video is an AI video generator that turns written prompts into short videos using 15+ models with options for audio, aspect ratio, duration, and up to 1080p output, mainly for creators, marketers, and teams producing social content or concept videos. In AI-assisted content workflows, it helps video, social, and creative professionals test prompts across multiple models quickly before committing to a final production style.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Graphic Designer
+
+#### [Genmo](https://www.aimyflow.com/en/ai/alpha-genmo-ai)
+
+Genmo is a research lab and platform focused on open video world models, helping researchers, developers, and creators generate videos from text prompts with its open-source Mochi 1 model and playground. In AI video workflows, it can help research and creative teams prototype visual concepts faster while allowing engineers to run and customize models locally for tailored generation.
+
+**Suitable roles:** Software Engineer, Content Creator, Graphic Designer, Data Scientist, Independent Filmmaker
 
 #### [GenPPT AI](https://www.aimyflow.com/en/ai/genppt-ai)
 
@@ -4400,6 +6408,24 @@ GestionFlow is multi-company business management software that helps freelancers
 
 **Suitable roles:** Financial Analyst, COO, Certified Public Accountant, Project Management Officer, CEO
 
+#### [GET3D](https://www.aimyflow.com/en/ai/nv-tlabs-github-io-GET3D)
+
+GET3D is a research model from NVIDIA and collaborators that learns from 2D image collections to generate explicit 3D textured meshes with complex topology, helping AI and graphics researchers create high-quality 3D assets for rendering engines and downstream applications. For 3D content creation, computer vision, and graphics workflows, it shows how generative AI can speed prototype asset generation while preserving editable geometry and texture outputs.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Software Engineer, Data Scientist
+
+#### [Getfloorplan](https://www.aimyflow.com/en/ai/getfloorplan-com)
+
+Getfloorplan is an AI floor plan service that turns uploaded property layouts into 2D and 3D floor plans, renderings, and virtual tours, mainly for real estate professionals, property companies, and personal users marketing homes or apartments. For real estate marketers, agents, and developers, it can speed up listing preparation with consistent visual assets that help present properties more clearly online.
+
+**Suitable roles:** Real Estate Agent, Interior Designer, Commercial Architect, Content Creator, Digital Marketing Director
+
+#### [getimg.ai](https://www.aimyflow.com/en/ai/getimg-ai)
+
+getimg.ai is an all-in-one AI creative platform that helps teams and individual creators generate, edit, and export images and videos from simple text prompts, mainly for marketers, content creators, designers, photographers, architects, and game designers. By auto-selecting models and combining creation with editing in one workspace, it can help visual teams reduce prompt-engineering overhead and produce more consistent branded assets faster.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Commercial Architect
+
 #### [GetLyricVideo AI](https://www.aimyflow.com/en/ai/getlyricvideo-com)
 
 GetLyricVideo AI is an AI lyric video generator that helps creators turn songs and lyrics into professional music videos with synchronized text and cinematic visuals, mainly for musicians and music content creators. For artists and social media video producers, it can speed up music video creation by automating lyric syncing and visual generation for faster publishing across platforms like YouTube, TikTok, and Instagram.
@@ -4412,6 +6438,24 @@ GetQuiz is an AI study tool that turns textbooks and notes into interactive quiz
 
 **Suitable roles:** Test Prep Tutor, Online Coding Tutor, School Counselor, Education Technology Consultant, Teacher
 
+#### [GetSeedance2](https://www.aimyflow.com/en/ai/getseedance2-com)
+
+GetSeedance2 is a web-based AI video generator that helps users create and iterate on text-to-video and image-to-video clips with reusable templates and controls for model, duration, aspect ratio, and resolution, mainly for solo creators, publishing teams, and production workflows. In AI video work, this kind of prompt and format consistency can help content creators and creative teams standardize outputs, speed up testing, and reuse successful video setups across projects.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller, Copywriter
+
+#### [GetSound.ai](https://www.aimyflow.com/en/ai/getsound-ai)
+
+GetSound.ai is a deep-focus app that generates real-time, weather-reactive soundscapes to help users minimize distractions and improve concentration, mainly for people studying, working, meditating, or sleeping. For knowledge workers and students, dynamic background audio can support longer focus sessions by making work environments feel less repetitive and more controlled.
+
+**Suitable roles:** Software Engineer, Technical Writer, Data Scientist, Financial Analyst, Wellness Coach
+
+#### [GhostEye](https://www.aimyflow.com/en/ai/ghosteye-ai)
+
+GhostEye is a vulnerability management platform for the human layer that helps security teams test employees with personalized phishing, phone, and voice attack simulations based on current real-world tactics. In the AI era, it can help security and risk professionals identify who is most exposed and target training where human vulnerabilities are most likely to be exploited.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Risk Analyst, Employee Relations Manager
+
 #### [GhostPen](https://www.aimyflow.com/en/ai/getghostpen-com)
 
 GhostPen is an AI text humanizer that rewrites AI-generated drafts to read more like human writing and reduce detection by tools such as Turnitin, GPTZero, and Originality.ai, mainly for students and writers. For academic writing, freelance content, and similar text-heavy roles, it can help refine syntax and tone while preserving the original meaning of AI-assisted drafts.
@@ -4423,6 +6467,12 @@ GhostPen is an AI text humanizer that rewrites AI-generated drafts to read more 
 Ghostwall is ad fraud detection and click fraud protection software that helps advertisers and performance marketing teams detect bot traffic, block fake conversions, and prepare evidence for ad platform refund claims. In AI-driven advertising, it can help marketers, paid media managers, and agencies keep attribution cleaner and make campaign optimization decisions using more reliable traffic and conversion data.
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Financial Analyst, Software Engineer, Data Scientist
+
+#### [Giiso Writing Robot](https://www.aimyflow.com/en/ai/giiso-com)
+
+Giiso Writing Robot is an AI-assisted content creation tool that helps users write and revise news articles, Xiaohongshu and Douyin copy, marketing content, PPTs, and images, mainly for self-media and new media content teams. In AI-driven publishing workflows, it can help writers, editors, and marketers produce platform-specific drafts faster while improving quality through proofreading, rewriting, and duplicate checking.
+
+**Suitable roles:** Copywriter, Social Media Content Creator, Digital Marketing Director, Technical Writer, Content Creator
 
 #### [GingerControl Classifier](https://www.aimyflow.com/en/ai/tariff-gingercontrol-com-classifier)
 
@@ -4445,6 +6495,10 @@ Girlfriendly AI is an NSFW character chat and roleplay platform that helps adult
 Gistilo is an AI YouTube summarizer that turns video links into 7 key insights or detailed summaries, with optional fact-checking and translation, mainly for researchers, students, and creators who need to process videos quickly. For analysts, writers, and educators, it can speed review of long lectures, podcasts, and multilingual content while making notes and source checks easier to scan.
 
 **Suitable roles:** Content Creator, Technical Writer, Financial Analyst, College Professor, Education Technology Consultant
+
+#### [Gitfluence.com](https://www.aimyflow.com/en/ai/gitfluence-com)
+
+Gitfluence.com is currently inaccessible because its origin server has an invalid SSL certificate, so the site’s tool and intended users cannot be verified from the available page content. In AI-era workflows, fixing certificate and uptime issues is essential for developers and IT teams because reliable access is a basic requirement before any AI-assisted productivity benefits can be realized.
 
 #### [GitHub Copilot SDK](https://www.aimyflow.com/en/ai/github-com-github-copilot-sdk)
 
@@ -4470,6 +6524,12 @@ GitPage is an AI website builder that generates and deploys websites, online sto
 
 **Suitable roles:** Software Engineer, Digital Marketing Director, Graphic Designer, Content Creator, Ecommerce Seller
 
+#### [GitPodcast](https://www.aimyflow.com/en/ai/gitpodcast-com)
+
+GitPodcast is a tool that turns GitHub repositories into short podcasts to help users quickly understand software projects, mainly for developers and other people reviewing code repositories. In AI-assisted development workflows, it can speed project triage and codebase familiarization for engineers, technical reviewers, and open-source contributors.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Cybersecurity Analyst, Technical Writer, Data Engineer
+
 #### [Giz AI for News Summary](https://www.aimyflow.com/en/ai/giz-ai-ai-for-news)
 
 Giz AI for News Summary is a free, no-sign-up AI news aggregator that lets users enter keywords, choose sources like Google News, YouTube, and Reddit, and generate summarized news in multiple languages, mainly for people who need quick topic tracking. For researchers, analysts, and content teams, it can reduce time spent scanning scattered updates by turning source discovery and summarization into one AI-assisted workflow.
@@ -4482,17 +6542,41 @@ Glambase is an AI influencer creation platform and virtual persona generator tha
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, CEO
 
+#### [Glass Devtools, Inc.](https://www.aimyflow.com/en/ai/useglass-ai)
+
+Glass Devtools, Inc. builds developer tools including Void, an open source code editor that lets developers connect directly with any LLM, and Glass.js, a discontinued browser-based website editing tool for developers. For software engineers, direct LLM access inside the editor can streamline coding and revision workflows by keeping AI-assisted development in the same environment as source code.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Technical Writer
+
+#### [Glass Health](https://www.aimyflow.com/en/ai/glass-health)
+
+Glass Health is an AI platform for ambient scribing and clinical decision support that helps clinicians capture patient conversations, draft medical documentation, and support diagnosis and treatment planning at the point of care. For physicians and other clinical staff, this kind of AI can reduce documentation burden while surfacing evidence-based questions, differentials, and next steps during encounters.
+
+**Suitable roles:** Family Doctor, Pediatrician, Cardiologist, Healthcare Administrator, Medical Lab Technician
+
 #### [Glaze by Raycast](https://www.aimyflow.com/en/ai/glazeapp-com)
 
 Glaze by Raycast is an AI-powered, local-first Mac app builder that lets users create desktop apps in plain language, mainly for teams building internal tools and people making personal utilities or workflow automations. For operations, IT, and productivity-focused teams, it can speed up custom software creation while keeping apps closely integrated with files, hardware, and other Mac workflows.
 
 **Suitable roles:** Software Development Manager, IT Infrastructure Manager, Project Management Officer, Software Engineer, COO
 
+#### [Glean](https://www.aimyflow.com/en/ai/glean-com-about)
+
+Glean is an AI-powered enterprise search and work AI platform that helps employees find answers, generate content, and automate workflows across workplace apps, mainly for teams and departments inside organizations. In AI-enabled workplaces, it can help functions such as engineering, sales, support, IT, and marketing spend less time searching for information and more time acting on company context.
+
+**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Digital Marketing Director, Field Sales Manager, Project Management Officer
+
 #### [Glindra](https://www.aimyflow.com/en/ai/glindra-ai)
 
 Glindra is an AI presentation maker for Google Slides that helps users generate, outline, design, and edit pitch decks, reports, lessons, and other presentations from prompts or uploaded files, mainly for marketers, students, educators, teams, and professionals. For roles that regularly communicate ideas, it can speed first-draft slide creation and revisions so they spend more time refining the message instead of formatting decks.
 
 **Suitable roles:** Digital Marketing Director, Project Management Officer, College Professor, Copywriter, CEO
+
+#### [Gling](https://www.aimyflow.com/en/ai/gling-ai)
+
+Gling is desktop AI video editing software for YouTube creators that helps users turn raw footage into cleaner videos by automatically removing bad takes, silences, filler words, and background noise, while adding captions, auto framing, titles, and chapters. For video editors and creator teams, it can reduce repetitive post-production work so they can spend more time refining content and planning higher-impact videos.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
 
 #### [Glm Image on VFast AI](https://www.aimyflow.com/en/ai/vfast-ai-ai-image-generation)
 
@@ -4518,6 +6602,12 @@ Glotera AI is a Mac translation tool that helps users translate text in place wh
 
 **Suitable roles:** Content Creator, Copywriter, Technical Writer, Field Sales Manager, Logistics Operations Planner
 
+#### [GlowAI](https://www.aimyflow.com/en/ai/glowai-xyz)
+
+GlowAI is an AI skincare routine generator that helps people create a routine based on their budget, skin type, and top skin concerns, mainly for consumers looking for personalized skincare guidance. In AI-assisted beauty and skincare work, tools like this can help shoppers and skincare-focused creators quickly structure product research around specific concerns such as acne or dark spots.
+
+**Suitable roles:** Wellness Coach, Content Creator, Ecommerce Seller, Food Enthusiast
+
 #### [Go Legal AI](https://www.aimyflow.com/en/ai/go-legal-ai)
 
 Go Legal AI is a legal tech platform that helps individuals and businesses create, review, edit, sign, and manage legal documents with AI, templates, legal guidance, and access to lawyers. For legal, operations, and business teams, it can speed routine document work and surface risks earlier through AI review, workflow tools, and supply chain risk tracking.
@@ -4542,11 +6632,23 @@ GoFaceless is an AI video generator that turns a topic into ready-to-post short-
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Podcast Producer, Copywriter
 
+#### [Goldbridge](https://www.aimyflow.com/en/ai/goldbridgebanking-com)
+
+Goldbridge is a financial technology platform and upcoming corporate card built for rental property owners and real estate portfolio operators, helping them manage property spending, automate bill pay, handle security deposit compliance, and identify tax credits, rebates, and supplier discounts. For property managers, owners, and real estate finance teams, its AI-driven incentive discovery and expense controls can surface hidden savings and improve net operating income.
+
+**Suitable roles:** Financial Analyst, Real Estate Agent, CFO, Financial Planning & Analysis Manager, Certified Public Accountant
+
 #### [Goldilocks AI](https://www.aimyflow.com/en/ai/goldi-ai)
 
 Goldilocks AI is an AI search engine for finding and understanding professionals, helping users research leads and talent, mainly for recruiting and sales-related teams. In AI-driven hiring and prospecting, it can speed up how recruiters and business development professionals identify relevant people and build better-informed outreach.
 
 **Suitable roles:** Talent Acquisition Manager, Field Sales Manager, Digital Marketing Director, CEO
+
+#### [GoMim](https://www.aimyflow.com/en/ai/gomim-com)
+
+GoMim is an AI math solver and homework helper that lets students, teachers, and educators upload a photo or enter text to get step-by-step solutions across topics from arithmetic to calculus. In AI-supported learning workflows, it can help educators and tutors explain problem-solving methods more consistently while giving students guided practice beyond final answers.
+
+**Suitable roles:** Test Prep Tutor, Online Coding Tutor, Education Technology Consultant, Teacher
 
 #### [Good Assistant](https://www.aimyflow.com/en/ai/good-assistant-ai)
 
@@ -4564,17 +6666,45 @@ Google Antigravity appears to be an experimental Google project that explores un
 
 **Suitable roles:** Software Engineer, Data Engineer, Software Development Manager, Information Technology Managers, Computer Occupations, Engineers +1 more
 
+#### [Google Chrome](https://www.aimyflow.com/en/ai/google-com-chrome)
+
+Google Chrome is a web browser from Google that helps people browse the web, use Google apps, and manage privacy and safety settings, mainly for general computer and mobile users across Windows, macOS, Linux, Android, iOS, and ChromeOS. In AI-enabled workflows, Chrome can help knowledge workers, marketers, and researchers work more efficiently by providing fast access to web-based tools, extensions, and Google services in one browser.
+
+#### [Google DeepMind](https://www.aimyflow.com/en/ai/deepmind-com)
+
+Google DeepMind is Google’s AI research and development organization, offering models, research, and science systems that help developers, researchers, and scientists build applications, explore new AI methods, and advance work in areas like robotics, biology, and weather forecasting. In the AI era, it can help software teams and research professionals move faster from experimentation to real-world use while keeping safety, evaluation, and scientific impact in focus.
+
+**Suitable roles:** Software Engineer, Data Scientist, Content Creator, Molecular Biologist, Astrophysicist
+
 #### [Google Gemini](https://www.aimyflow.com/en/ai/gemini-google-com)
 
 Google Gemini is Google’s AI assistant that helps users write, plan, research, and learn through chat, mainly for individual users and business professionals seeking general-purpose AI support. For knowledge workers, it can speed up early-stage drafting, idea development, and information gathering, though outputs should be checked because Gemini can make mistakes.
 
 **Suitable roles:** Copywriter, Project Management Officer, Financial Analyst, Teacher, CEO
 
+#### [Google Lens](https://www.aimyflow.com/en/ai/socratic-org)
+
+Google Lens is a visual search tool that helps people use their phone camera or images to search, shop, translate text, identify objects, and get homework help, mainly for everyday mobile users and students. For educators, support teams, and researchers, it can speed up image-based information retrieval and text capture, reducing manual searching and transcription in AI-assisted workflows.
+
+**Suitable roles:** Teacher, Ecommerce Seller, Content Creator, Technical Writer, Education Technology Consultant
+
 #### [Google NotebookLM](https://www.aimyflow.com/en/ai/notebooklm-google)
 
 Google NotebookLM is an AI research and note-taking tool that helps users upload trusted sources, get summaries, ask questions with citations, and generate audio overviews, mainly for students, researchers, and knowledge workers. In AI-supported study, research, and presentation work, its source-grounded responses can help these professionals synthesize complex material faster while keeping evidence visible.
 
 **Suitable roles:** College Professor, Data Scientist, Financial Analyst, Technical Writer, Teacher
+
+#### [Google Production Toolkit](https://www.aimyflow.com/en/ai/productokit-com)
+
+Google Production Toolkit is a privacy-first suite of Google Ads and Workspace tools that helps marketers, content teams, analysts, and compliance professionals optimize images, polish text, handle calculations, and support privacy workflows with local processing and no registration. In AI-driven production work, it can help ad, content, and privacy teams prepare cleaner assets, validate AI-generated visuals, and reduce data-handling risk inside Google-centered workflows.
+
+**Suitable roles:** Digital Marketing Director, Financial Analyst, Cybersecurity Analyst, Content Creator, Copywriter
+
+#### [google-research/frame-interpolation](https://www.aimyflow.com/en/ai/replicate-com-google-research-frame-interpolation)
+
+google-research/frame-interpolation is a Replicate API model for generating intermediate video frames between two input images, helping users create smoother motion sequences and interpolation videos, mainly for developers and video or imaging workflows. In AI-assisted media pipelines, it can help video engineers, researchers, and technical creators automate frame generation for smoother transitions and motion reconstruction without building interpolation models from scratch.
+
+**Suitable roles:** Software Engineer, Independent Filmmaker, Graphic Designer, Content Creator, Data Scientist
 
 #### [Gordon](https://www.aimyflow.com/en/ai/meetgordon-com)
 
@@ -4612,17 +6742,35 @@ GPTImage is an AI image generation and editing platform that helps users create,
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Ecommerce Seller
 
+#### [GPTKit](https://www.aimyflow.com/en/ai/gptkit-ai)
+
+GPTKit is an AI-generated text detector that helps users distinguish between human-written and ChatGPT-generated English text using six detection methods, mainly for teachers, students, writers, and other professionals reviewing content authenticity. In AI-assisted workflows, it can help educators and content teams add a verification step before grading, publishing, or approving text.
+
+**Suitable roles:** Teacher, Technical Writer, College Professor, Copywriter, Education Technology Consultant
+
 #### [GPTZero](https://www.aimyflow.com/en/ai/gptzero-me)
 
 GPTZero is an AI content detection and writing analysis tool that helps users scan text for likely AI-generated content, plagiarism, hallucinated citations, and writing issues, mainly for educators, students, writers, and recruiters. In AI-heavy workflows, it helps teachers, editors, and hiring teams verify authorship and review document quality with more context before making decisions.
 
 **Suitable roles:** College Professor, School Counselor, Technical Writer, Talent Acquisition Manager, Education Technology Consultant
 
+#### [Grade](https://www.aimyflow.com/en/ai/usegrade-com)
+
+Grade is a performance payout platform that helps companies track output, calculate earnings, and pay AI agents, contractors, and employees globally, mainly for teams managing large contractor or agent programs. For operations, finance, and growth teams using AI-driven workforces, it can reduce manual payout administration while improving visibility into results-based compensation.
+
+**Suitable roles:** COO, CFO, Financial Planning & Analysis Manager, Project Management Officer, Compensation & Benefits Manager
+
 #### [Gradescope](https://www.aimyflow.com/en/ai/gradescope-com)
 
 Gradescope is an assessment and grading platform that helps educators grade paper-based assignments more efficiently while analyzing student understanding at scale. It reduces repetitive grading work for instructors and surfaces learning patterns that support better teaching decisions.
 
 **Suitable roles:** Teacher
+
+#### [GradeWiz](https://www.aimyflow.com/en/ai/gradewiz-ai)
+
+GradeWiz is an AI grading assistant that helps teachers and instructors grade homework, labs, and exams faster by generating rubrics, scoring submissions, and providing detailed student feedback. For educators and teaching staff, it can reduce manual grading time while surfacing common mistakes and learning gaps to improve instruction.
+
+**Suitable roles:** College Professor, Community College Instructor, Education Technology Consultant, Teacher
 
 #### [GradingPal](https://www.aimyflow.com/en/ai/gradingpal-com)
 
@@ -4635,6 +6783,12 @@ GradingPal is an AI grading tool for K-12 teachers and other instructors that he
 Gradly is an AI platform that helps students with college admissions essays, scholarship matching, resumes, and mock interview preparation, mainly for college applicants and early-career job seekers. In AI-assisted admissions and hiring workflows, it can help students and career services teams produce more tailored application materials and practice responses with greater consistency.
 
 **Suitable roles:** School Counselor, College Professor, Test Prep Tutor, Technical Writer, Teacher
+
+#### [Grammarly](https://www.aimyflow.com/en/ai/grammarly-com)
+
+Grammarly is an AI writing assistant that helps users draft, rewrite, proofread, and adjust tone across apps and websites, mainly for individuals, teams, businesses, and students who need clear, credible writing. In AI-assisted workflows, it can help marketers, sales teams, support staff, and educators improve consistency, clarity, and audience fit while keeping human voice and reviewing AI-generated text.
+
+**Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Teacher, Content Creator
 
 #### [Granola](https://www.aimyflow.com/en/ai/granola-so)
 
@@ -4659,6 +6813,12 @@ Graspeo is an AI quiz generator that turns notes, PDFs, images, and text into ed
 Greenbot’s Free Rizz AI Generator is an AI writing tool that helps users create flirty, clever, or tone-matched replies and pickup lines from chat context, mainly for people using dating apps or direct messages. In AI-assisted dating communication, it can help users quickly test different tones, reduce awkward pauses, and refine short-form conversational writing before sending.
 
 **Suitable roles:** Content Creator, Copywriter, Social Media Content Creator
+
+#### [GreenPT](https://www.aimyflow.com/en/ai/greenpt-ai)
+
+GreenPT is a Europe-hosted, privacy-friendly GPT chat platform and API that helps governments, businesses, privacy-focused organizations, and developers get AI answers, analyze documents, generate code, and build chatbots with renewable-energy infrastructure and transparent data handling. For teams working with sensitive information, it supports AI adoption while helping IT, compliance, and development functions balance productivity with EU data protection and environmental impact visibility.
+
+**Suitable roles:** IT Infrastructure Manager, Software Engineer, Cybersecurity Manager, Software Development Manager, COO
 
 #### [Grizzly AI](https://www.aimyflow.com/en/ai/grizzly-ai)
 
@@ -4708,6 +6868,12 @@ Haimeta Agent is an AI content creation platform that helps users turn creative 
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter
 
+#### [Hair Filter](https://www.aimyflow.com/en/ai/hairfilter-net)
+
+Hair Filter is an AI virtual hairstyle try-on tool that lets users upload a photo to preview different hairstyles and hair colors, mainly for beauty enthusiasts, salon clients, and hairstylists. In AI-assisted consultations, it can help stylists and salon teams show realistic options faster, improving client decision-making before a cut, color, or formal styling service.
+
+**Suitable roles:** Fashion Designer, Content Creator, Graphic Designer, Real Estate Agent
+
 #### [HairIsEverything](https://www.aimyflow.com/en/ai/hairiseverything-app)
 
 HairIsEverything is an AI hairstyle preview tool that helps people test realistic haircut options on their own photos and compare styles before a salon or barbershop visit. For barbers, stylists, and image-conscious consumers, it can speed consultations by turning vague haircut ideas into clearer visual references that are easier to discuss.
@@ -4722,17 +6888,53 @@ Hal9 Startups is a fully managed autonomous AI platform and service that helps s
 
 **Suitable roles:** CEO, Software Development Manager, Software Engineer, Project Management Officer, COO
 
+#### [Hama](https://www.aimyflow.com/en/ai/hama-app-zh)
+
+Hama is an AI-powered web app that helps users remove unwanted people, objects, text, logos, watermarks, and blemishes from photos with a brush tool, mainly for photo editors, designers, and creative teams. In AI-assisted image workflows, it can speed retouching and asset cleanup for design, ecommerce, and content production roles.
+
+**Suitable roles:** Graphic Designer, Content Creator, Ecommerce Seller, Social Media Content Creator, Software Engineer
+
 #### [Handit.ai](https://www.aimyflow.com/en/ai/handit-ai)
 
 Handit.ai is an open-source optimization engine that evaluates AI agent decisions, generates improved prompts and datasets, and A/B tests changes for teams building and operating AI agents. It helps AI engineers and product teams improve agent quality faster while keeping tighter control over production behavior.
 
 **Suitable roles:** Software Engineer, Data Engineer, Cybersecurity Analyst, Data Scientist, Information Technology Managers, Computer Occupations +8 more
 
+#### [HAPPYBET188](https://www.aimyflow.com/en/ai/magician-design)
+
+HAPPYBET188 is an online gambling platform that lets users play slots, live casino, sports betting, togel, poker, and other games, mainly for Indonesian players seeking a multi-game betting site. In an AI-driven search environment, clear game categorization and up-to-date service notices can help affiliate marketers and SEO teams keep listings accurate and easier to evaluate.
+
+**Suitable roles:** Digital Marketing Director, Content Creator
+
 #### [HappySRT](https://www.aimyflow.com/en/ai/happysrt-com)
 
 HappySRT is an open-source web app that helps users transcribe audio and video, translate content into multiple languages, and generate summaries, mainly for people who need to process spoken media efficiently. For researchers, journalists, and content teams, AI tools like this can reduce manual transcription work and speed up multilingual review and reporting.
 
 **Suitable roles:** TV News Reporter, Podcast Producer, Content Creator, Technical Writer, Software Engineer
+
+#### [Harbera](https://www.aimyflow.com/en/ai/harbera-com)
+
+Harbera is an AI-native cloud application for healthcare organizations’ in-house credentialing teams that automates provider and facility credentialing, contracting, and compliance tasks such as document processing, payer enrollment, status checks, and contract analysis. For credentialing specialists, provider-enrollment coordinators, compliance officers, and revenue-cycle teams, this can reduce manual follow-up and data entry so providers become billable faster and administrative work scales more efficiently.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Occupational Health Specialist, Project Management Officer
+
+#### [Harmonai.org](https://www.aimyflow.com/en/ai/harmonai-org)
+
+Harmonai.org is a Stability AI lab that releases open-source generative audio tools to help musicians create custom sound libraries and make music production more accessible. For music producers and sound designers, these AI tools can speed up early-stage sound creation and expand creative options while keeping artists closely involved in the workflow.
+
+**Suitable roles:** Content Creator, Music Lover, Graphic Designer, Independent Filmmaker, Copywriter
+
+#### [HARPA AI](https://www.aimyflow.com/en/ai/harpa-ai)
+
+HARPA AI is a browser-based AI agent and Chrome extension that combines multiple AI models to help professionals summarize web content, draft and rewrite text, extract data, and automate browsing tasks directly on any page. For marketers, recruiters, support teams, and researchers, it can shorten repetitive web workflows by pairing page-aware assistance with browser automation and cited search answers.
+
+**Suitable roles:** Digital Marketing Director, Talent Acquisition Manager, Software Engineer, Technical Writer, Project Management Officer
+
+#### [Harper Insure](https://www.aimyflow.com/en/ai/harperinsure-com)
+
+Harper Insure is a business insurance brokerage that uses data, automated workflows, and broad market access to help companies find commercial coverage such as liability, auto, property, cyber, and bonds, especially for businesses in complex or regulated industries. For risk managers, founders, and finance teams, its AI-supported market matching can speed carrier selection and improve alignment between coverage and real-world operational risks.
+
+**Suitable roles:** CFO, Financial Analyst, CEO, Risk Analyst, COO
 
 #### [Harvey](https://www.aimyflow.com/en/ai/harvey-ai)
 
@@ -4780,6 +6982,12 @@ Hedy AI is a real-time conversation coach that listens during meetings, intervie
 
 **Suitable roles:** Talent Acquisition Manager, TV News Reporter, CEO, Project Management Officer, Teacher
 
+#### [Heliopolis Biotech](https://www.aimyflow.com/en/ai/heliopolistech-com)
+
+Heliopolis Biotech is a protein and antibody design company that uses computational algorithms and experimental characterization to help biotechnology and drug discovery teams develop novel therapeutic proteins, binders, and redesigned proteins. In AI-driven therapeutic R&D, this kind of platform can help protein engineers and discovery scientists move faster from molecular design to preclinical candidate evaluation.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Project Management Officer, CEO
+
 #### [HeraHaven](https://www.aimyflow.com/en/ai/herahaven-com)
 
 HeraHaven is an adults-only AI girlfriend app that lets users create customizable virtual companions for chat and AI-generated pictures, mainly for people seeking personalized romantic or fantasy roleplay interactions. For creators and community managers studying AI companionship products, it shows how conversational memory and character customization can shape more tailored, ongoing user engagement.
@@ -4791,6 +6999,12 @@ HeraHaven is an adults-only AI girlfriend app that lets users create customizabl
 HeyFish.ai is an AI UGC video ad generator that helps e-commerce brands, marketers, and agencies create short product videos with digital actors, product-holding avatars, and multilingual lip-sync without filming. In AI-driven creative testing, it can help performance marketers and growth teams produce more ad variations faster for channels like TikTok, Meta, YouTube, Snap, and Amazon.
 
 **Suitable roles:** Digital Marketing Director, Ecommerce Seller, Content Creator, Copywriter, Social Media Content Creator
+
+#### [HeyFriday](https://www.aimyflow.com/en/ai/heyfriday-cn-home)
+
+HeyFriday is an online AI writing tool that helps users generate, rewrite, continue, and expand original text with 40+ templates for articles, emails, marketing copy, and social media content, mainly for marketers, copywriters, and content teams. In AI-assisted content workflows, it can reduce repetitive drafting work so marketing and editorial professionals can spend more time on strategy, editing, and idea development.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Social Media Content Creator, Content Creator, Technical Writer
 
 #### [HeyGen](https://www.aimyflow.com/en/ai/heygen-com)
 
@@ -4804,17 +7018,33 @@ HeyNews is an AI newsletter writing tool that learns from past issues, curates s
 
 **Suitable roles:** Copywriter, Content Creator, Social Media Content Creator, Digital Marketing Director, Technical Writer
 
+#### [Heysheldon appears to be a category-based directory that](https://www.aimyflow.com/en/ai/heysheldon-com)
+
+Heysheldon appears to be a category-based directory that helps users browse links and resources across topics such as Automotive, Finance, Health, Shopping, and Travel, mainly for general web users seeking topic-specific sites. In an AI-driven search environment, broad directories like this can still help researchers, marketers, and content teams quickly map subject areas and locate starting points for manual discovery.
+
 #### [HeyVid AI Text to Video](https://www.aimyflow.com/en/ai/heyvid-ai-text-to-video)
 
 HeyVid AI Text to Video is an AI video generator that turns text prompts or scripts into videos with style, ratio, and model controls, mainly for marketers, content creators, and teams producing video content at scale. In AI-driven content workflows, it can help creative and marketing professionals generate multiple video variations faster and reduce manual editing for routine production tasks.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Copywriter, Social Media Content Creator, Software Engineer
 
+#### [Heywhale](https://www.aimyflow.com/en/ai/heywhale-com)
+
+Heywhale is a data science practice community and AI collaboration platform that helps users share open-source code, work on projects and datasets, join competitions, and learn through practical cases, mainly for data science professionals, researchers, educators, and learners. In AI-driven workflows, it can help data scientists, teachers, and applied AI teams strengthen hands-on experimentation, knowledge sharing, and reproducible project work.
+
+**Suitable roles:** Data Scientist, Software Engineer, College Professor, Education Technology Consultant, Teacher
+
 #### [HiClip](https://www.aimyflow.com/en/ai/app-hiclip-ai)
 
 HiClip is an AI video clipping and editing tool that helps users turn long videos into short social media clips, mainly for content creators and social media marketers. In AI-driven content workflows, it can help video and marketing teams produce more short-form assets faster from existing footage.
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Podcast Producer
+
+#### [Hidden Door](https://www.aimyflow.com/en/ai/hiddendoor-co)
+
+Hidden Door is an immersive AI-guided story game that lets users create characters, mix worlds and modifiers, and shape branching roleplay and fan-fiction-style adventures, mainly for fans of interactive storytelling and creators with established fictional worlds. For writers, authors, and narrative designers, it shows how AI can turn existing settings and character frameworks into replayable, choice-driven story experiences.
+
+**Suitable roles:** Fiction Writer, Content Creator, Social Media Content Creator, Independent Filmmaker, Copywriter
 
 #### [Higgs Audio’s AI Voice Cloning tool](https://www.aimyflow.com/en/ai/aivoicegen-net-voice-cloning)
 
@@ -4840,11 +7070,23 @@ Hireable Headshots is an AI headshot generator that turns a few everyday photos 
 
 **Suitable roles:** Talent Acquisition Manager, CEO, Corporate Leadership Coach, Content Creator, Lawyer
 
+#### [HireGlide](https://www.aimyflow.com/en/ai/hireglide-ai)
+
+HireGlide is an AI-powered hiring platform and agency that screens incoming applicants, sources candidates from employer networks and the broader market, and helps employers and hiring teams find qualified talent leads faster. For recruiters and talent acquisition teams, it can reduce manual application review and sourcing work so they spend more time interviewing candidates who fit role requirements.
+
+**Suitable roles:** Talent Acquisition Manager, CEO, COO, Employee Relations Manager
+
 #### [Hitem3D: Next-Gen 3D Model Generator, Powered by AI](https://www.aimyflow.com/en/ai/hitem3d-ai)
 
 Hitem3d: the most controllable AI 3D model generator. Enjoy powerful 3D generation and editing on our all-in-one platform.
 
 **Suitable roles:** Software Engineer, Graphic Designer, Industrial Designer
+
+#### [HitPaw](https://www.aimyflow.com/en/ai/hitpaw-com)
+
+HitPaw is a suite of AI tools for enhancing, converting, compressing, editing, and generating video, photo, and audio content, mainly for creators, editors, photographers, and other media professionals. In AI-era media workflows, it can help these teams speed up restoration, format preparation, and quality improvement across large content batches with less manual editing.
+
+**Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Ecommerce Seller, Digital Marketing Director
 
 #### [HitPaw](https://www.aimyflow.com/en/ai/hitpaw-pxf-io-ZQkLYW)
 
@@ -4863,6 +7105,12 @@ Home Design AI is an online home design tool that helps homeowners, renters, and
 Homebuyersmath is an AI-powered home inspection analysis tool that helps first-time homebuyers understand repair costs, disclosure red flags, system health, and what seller credit to request before buying. For buyers and real estate professionals working under tight inspection deadlines, it can speed review of long reports by prioritizing issues and supporting more informed negotiation decisions.
 
 **Suitable roles:** Real Estate Agent, Financial Analyst
+
+#### [Homepage](https://www.aimyflow.com/en/ai/kubit-ai)
+
+Warehouse-native analytics that query Snowflake, Databricks, BigQuery, and ClickHouse directly. Real-time, governed insights with explainable AI.
+
+**Suitable roles:** Data Engineer, Data Scientist, Digital Marketing Director, Financial Analyst, Software Engineer
 
 #### [Honen](https://www.aimyflow.com/en/ai/honen-com)
 
@@ -4892,11 +7140,29 @@ HookTide is a voice-aware AI platform that helps professionals, especially found
 
 **Suitable roles:** Social Media Content Creator, CEO, Digital Marketing Director, Field Sales Manager, COO
 
+#### [Hootsuite](https://www.aimyflow.com/en/ai/heyday-hootsuite-com)
+
+Hootsuite is a social media engagement and social selling platform that helps marketing, community, and social media teams schedule posts, manage comments and messages, monitor trends and mentions, and track engagement from one dashboard. Its AI-assisted captioning, inbox routing, and chatbot features can help social media managers and community teams respond faster, prioritize higher-value conversations, and turn engagement into leads more efficiently.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, Field Sales Manager, Copywriter, Social Media Content Creator
+
 #### [Hoox](https://www.aimyflow.com/en/ai/hoox-video)
 
 Hoox is an AI video creation platform that helps marketers, social media teams, and creators produce ready-to-post UGC-style videos with realistic avatars, auto-generated scripts, voice options, subtitles, and automated editing. In AI-driven content workflows, it can help social media managers and performance marketers scale ad and organic video output faster while keeping control over scripts, media, and final edits.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, Ecommerce Seller
+
+#### [Hub.xyz](https://www.aimyflow.com/en/ai/hub-xyz)
+
+Hub.xyz is a distributed real-time data pipeline and API that helps AI teams, enterprises, universities, and accelerators source, annotate, validate, and deliver rights-cleared multimodal training data at scale. For ML engineers, data scientists, and AI researchers, it can speed model training and evaluation by providing hard-to-access real-world datasets with provenance, QA, and faster delivery.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Software Development Manager, Education Technology Consultant
+
+#### [Hugging Face](https://www.aimyflow.com/en/ai/huggingface-co)
+
+Hugging Face is an AI and machine learning collaboration platform that helps developers, researchers, and enterprise teams discover, share, build, and deploy models, datasets, and applications. In AI workflows, it can speed experimentation and reuse for ML engineers, data scientists, and research teams by centralizing open models, datasets, tooling, and deployment options.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer, Software Development Manager, IT Infrastructure Manager
 
 #### [Hugo](https://www.aimyflow.com/en/ai/hugo-ai-en)
 
@@ -4940,6 +7206,12 @@ HumanizerTool.io is a free online AI humanizer and detector that rewrites AI-gen
 
 **Suitable roles:** Copywriter, Content Creator, Digital Marketing Director, Technical Writer, Teacher
 
+#### [Humanloop](https://www.aimyflow.com/en/ai/humanloop-com)
+
+Humanloop was a development platform for LLM applications that helped teams manage and evaluate AI systems, mainly for organizations adopting AI, and it is now joining Anthropic as the Humanloop platform sunsets. Its work on evaluation and management standards reflects how AI product, engineering, and governance teams can improve safer deployment and oversight of language model applications.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, Data Scientist, Cybersecurity Manager
+
 #### [HumanText.pro](https://www.aimyflow.com/en/ai/humantext-pro)
 
 HumanText.pro is an AI detector and text humanizer that checks whether writing appears AI-generated and rewrites it into more natural language, mainly for students, writers, and other people preparing essays, assignments, blog posts, or research papers. In AI-assisted workflows, it can help academic and content professionals review draft risk and refine tone before submission or publication.
@@ -4951,6 +7223,12 @@ HumanText.pro is an AI detector and text humanizer that checks whether writing a
 HumanTone is an AI humanizer for SEO specialists, content teams, agencies, and freelance writers that rewrites AI-generated drafts to sound more human, while also offering an AI detector and hidden symbols finder. For content and marketing professionals using AI at scale, it can shorten editing time and help produce publish-ready copy that better matches brand tone and workflow needs.
 
 **Suitable roles:** Copywriter, Digital Marketing Director, Social Media Content Creator, Content Creator, Ecommerce Seller
+
+#### [Humoniq](https://www.aimyflow.com/en/ai/humoniq-ai)
+
+Humoniq is a voice and text AI contact center for travel support and operations that helps airlines, airports, OTAs, TMCs, and travel agencies handle customer calls, chat, email, social, and outbound workflows with human agents and travel system integrations. For travel support and operations teams, this AI-first approach can speed responses, reduce errors, and let human agents focus on higher-complexity customer cases.
+
+**Suitable roles:** COO, Logistics Operations Planner, Project Management Officer, Branch Office Manager, Field Sales Manager
 
 #### [Hunyuan3D](https://www.aimyflow.com/en/ai/hy-3d-com)
 
@@ -4964,6 +7242,12 @@ Hyperfox is B2B order automation software for distribution, logistics, manufactu
 
 **Suitable roles:** Logistics Operations Planner, Field Sales Manager, COO, IT Infrastructure Manager, Software Development Manager
 
+#### [HyperWrite](https://www.aimyflow.com/en/ai/hyperwriteai-com)
+
+HyperWrite is an AI writing assistant and document editor with chat, web research, citations, sentence completions, and many writing tools that help professionals and students draft, rewrite, summarize, and respond faster. For writers, marketers, researchers, and email-heavy roles, it can reduce routine drafting and research time while keeping work more context-aware and citation-supported.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Technical Writer, Content Creator, College Professor
+
 #### [Hypotenuse AI](https://www.aimyflow.com/en/ai/zh-hypotenuse-ai)
 
 Hypotenuse AI is a text generation platform that helps marketers, ecommerce teams, and content writers produce SEO articles, product descriptions, and branded copy at scale. In the AI era, it enables content roles to maintain consistency while increasing publishing speed across large catalogs and campaigns.
@@ -4975,6 +7259,12 @@ Hypotenuse AI is a text generation platform that helps marketers, ecommerce team
 Hyring is AI recruiting software that helps recruiters and HR teams automate resume screening, phone screening, video interviews, coding interviews, and English proficiency assessments to shortlist candidates faster. For recruiting and talent acquisition professionals, it can reduce repetitive early-stage evaluation work while adding structured scoring, transcripts, and proctoring signals to support more consistent human hiring decisions.
 
 **Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, Software Development Manager, Online Coding Tutor
+
+#### [iA Presenter](https://www.aimyflow.com/en/ai/ia-net-presenter)
+
+iA Presenter is a macOS presentation app that helps users turn written drafts, notes, and markdown-style text into slides, speaker notes, and exportable handouts, mainly for people who build presentations from writing rather than manual slide design. For teachers, presenters, and knowledge workers, its text-first workflow and automatic layout can reduce formatting work and keep attention on structure, rehearsal, and delivery.
+
+**Suitable roles:** College Professor, Project Management Officer, Technical Writer, School Counselor, CEO
 
 #### [iColoring AI](https://www.aimyflow.com/en/ai/icoloring-ai)
 
@@ -5017,6 +7307,12 @@ Ideogram is an AI image generation tool that helps users create and edit visuals
 IELTSWriting.ai is an IELTS writing practice and AI essay checking platform that helps test takers practice Task 1 and Task 2 responses, estimate band scores, and get detailed feedback aligned with IELTS criteria. For students and IELTS tutors, it shows how AI can speed up exam preparation by turning each draft into targeted revision steps instead of generic writing advice.
 
 **Suitable roles:** Test Prep Tutor, Teacher, Online Coding Tutor, Education Technology Consultant
+
+#### [iFLYTEK Smart Creation](https://www.aimyflow.com/en/ai/peiyin-xunfei-cn)
+
+讯飞智作是科大讯飞旗下的一站式配音与数字人内容创作平台，提供文字转语音、语音合成、AI配音、虚拟主播和数字人视频生成功能，主要面向教育培训、新闻媒体、企业宣传和短视频内容创作者。 在AI内容生产流程中，它可帮助配音、视频制作和营销岗位更快生成多场景音视频素材，减少基础录制与出镜制作成本。
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
 
 #### [iFoto](https://www.aimyflow.com/en/ai/ifoto-ai)
 
@@ -5072,11 +7368,23 @@ Image-to-Video Maker is an AI video creation platform that helps users generate 
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Graphic Designer
 
+#### [image2prompt.net](https://www.aimyflow.com/en/ai/image2prompt-net)
+
+image2prompt.net is a free AI image-to-prompt generator that analyzes uploaded images or image URLs and turns them into editable prompts for Midjourney, Stable Diffusion, Flux, and similar models, mainly for AI artists, designers, and creators. For creative professionals, it can speed prompt drafting, support style consistency, and reduce manual prompt rewriting across different image generation workflows.
+
+**Suitable roles:** Graphic Designer, Content Creator, Social Media Content Creator, Copywriter, Fashion Designer
+
 #### [Imagen](https://www.aimyflow.com/en/ai/deepmind-google-technologies-imagen-3)
 
 Imagen is Google DeepMind’s text-to-image model that helps users generate high-quality images from written prompts, mainly for people creating visual concepts and creative assets. For designers, marketers, and other content teams, its photorealistic output, improved text rendering, and fast ideation can speed concept development and iteration in AI-assisted workflows.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Software Engineer
+
+#### [Imagen](https://www.aimyflow.com/en/ai/imagen-research-google)
+
+Imagen is a Google Research text-to-image diffusion model that generates photorealistic images from written prompts with strong language understanding, mainly for AI researchers and machine learning practitioners studying image synthesis. For research and model evaluation teams, it shows how larger pretrained language models can improve image-text alignment and generation fidelity in text-to-image workflows.
+
+**Suitable roles:** Data Scientist, Software Engineer, Graphic Designer, Content Creator, Digital Marketing Director
 
 #### [ImagePrompt.org](https://www.aimyflow.com/en/ai/imageprompt-org)
 
@@ -5101,6 +7409,12 @@ ImagePromptGuru is a free, no-login image-to-prompt and text-to-prompt generator
 imagetocaption.ai is an AI caption generator that creates on-brand social media captions and hashtags from images and videos, mainly for creators, agencies, and small businesses. For social media managers, marketers, and e-commerce teams, it can speed caption writing while helping keep tone, hashtags, and multilingual posting more consistent across channels.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, E-commerce Sales Head, Copywriter, Content Creator
+
+#### [ImagetoCartoon](https://www.aimyflow.com/en/ai/imagetocartoon-com)
+
+ImagetoCartoon is a free web-based AI cartoon converter that turns photos into cartoon-style images with 80+ style options, mainly for people who want quick avatars, illustrations, or creative image edits without design skills. For creators, marketers, and social media teams, it can speed up production of stylized visuals for profiles, posts, and lightweight brand assets.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Graphic Designer, Content Creator, Copywriter
 
 #### [ImageToTable.ai](https://www.aimyflow.com/en/ai/imagetotable-ai)
 
@@ -5150,11 +7464,29 @@ ImagineGo Text to Video is an AI video generation platform that helps users turn
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Copywriter, Social Media Content Creator
 
+#### [ImagineMe](https://www.aimyflow.com/en/ai/imagineme-ai)
+
+ImagineMe is a personal AI art generator that trains a private model on a user’s photos so individuals can create images and videos of themselves from text prompts. For creators, designers, and social media professionals, it can speed up personalized visual concepting and content production without requiring traditional illustration or photo editing workflows.
+
+**Suitable roles:** Social Media Content Creator, Graphic Designer, Content Creator, Copywriter, Music Lover
+
 #### [IMAI](https://www.aimyflow.com/en/ai/imai-studio)
 
 IMAI is a collaborative platform for physical product teams that helps users go from product ideation to collection designs, product variations, manufacturing techpacks, and marketing-ready visuals in one workspace. For product designers, manufacturing teams, and marketers, it can shorten handoffs by using brand-specific AI agents to turn sketches and concepts into production and launch assets faster.
 
 **Suitable roles:** Fashion Designer, Industrial Designer, Graphic Designer, Ecommerce Seller, Digital Marketing Director
+
+#### [Imaiger](https://www.aimyflow.com/en/ai/imaiger-com)
+
+Imaiger is an AI image and slideshow creation platform that helps marketers, founders, creators, and brands find trending content formats, generate editable slideshow assets, and test variations for social media growth. For content marketers and social media teams, it can shorten the cycle from format research to creative production and A/B testing by turning proven patterns into reusable, brand-ready visuals.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, CEO
+
+#### [Imbue](https://www.aimyflow.com/en/ai/generallyintelligent-com)
+
+Imbue is an AI tools company that builds products like Sculptor, a UI for coding agents, to help people modify algorithms, build trustworthy personal software, and make AI serve humans, mainly for software builders and teams working with coding agents. In AI-assisted development, tools that let engineers run multiple agents safely and review changes can improve reliability, collaboration, and oversight in coding workflows.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Project Management Officer
 
 #### [Img2Img AI](https://www.aimyflow.com/en/ai/img-2-img-net)
 
@@ -5204,6 +7536,18 @@ iMyFone is a utility software platform that helps users recover lost data, unloc
 
 **Suitable roles:** Computer Occupations, Information Technology Managers, Content Creator, Marketing and Sales Managers, Business Operations Specialists, Financial Specialists +9 more
 
+#### [in3D](https://www.aimyflow.com/en/ai/in3d-io)
+
+in3D is an avatar creation platform and SDK that turns people into realistic, customizable full-body 3D avatars from a phone camera in about a minute, mainly for developers building metaverse, game, or app experiences. For game, XR, and product teams, AI-ready avatar generation can speed character creation and make user personalization easier across Unity, Unreal Engine, and common 3D export formats.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Graphic Designer, Industrial Designer, Content Creator
+
+#### [IncidentFox](https://www.aimyflow.com/en/ai/incidentfox-ai)
+
+IncidentFox is an AI SRE tool that investigates production incidents in Slack, analyzes codebases and past incidents, and proposes or executes approved fixes for engineering, SRE, and platform teams. For on-call and reliability work, it can reduce manual triage by correlating alerts, logs, metrics, and deployment history into root-cause findings and auditable remediation steps.
+
+**Suitable roles:** IT Infrastructure Manager, Software Development Manager, Cybersecurity Analyst, Software Engineer, Project Management Officer
+
 #### [Incredible](https://www.aimyflow.com/en/ai/incredible-one)
 
 Incredible is an always-on AI desktop assistant for Mac and Windows that lets people speak to write, edit, translate, and fill content directly inside any app, mainly for professionals who work across email, docs, messaging, and spreadsheets. For teams in roles like operations, product, support, and knowledge work, it can reduce app switching and manual entry so routine communication and documentation move faster.
@@ -5215,6 +7559,12 @@ Incredible is an always-on AI desktop assistant for Mac and Windows that lets pe
 IndieGTM is an AI video GTM and content campaign tool that helps founders and lean teams turn a text idea, URL, or topic into multi-day short-video and social post plans, with automated scripting, rendering, and scheduling support. For founder-led marketing, it can reduce manual campaign production work by creating reusable, versioned video assets and platform-ready copy from a single source idea.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, CEO, Content Creator, Copywriter
+
+#### [Infinite Album](https://www.aimyflow.com/en/ai/infinitealbum-io)
+
+Infinite Album was a generative AI music tool that created copyright-safe, real-time music reacting to gameplay, mainly for gamers and Twitch streamers who needed livestream-friendly soundtracks. For streamers and interactive media creators, this kind of AI music can reduce copyright risk while making live content more responsive to audience and gameplay moments.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Independent Filmmaker, Music Lover
 
 #### [Infinite∞Creator](https://www.aimyflow.com/en/ai/infinite-tools)
 
@@ -5233,6 +7583,18 @@ InfiniteTalk AI is an AI video generator that turns a single image or existing v
 InfiniteTalk AI is an audio-driven lip sync and video dubbing tool that generates talking videos from an input video or image plus audio, helping content creators, video producers, and educators create long-form, multilingual avatar and dubbed video content with synchronized lips, head, body, and expressions. For media, training, and education teams, it can reduce manual dubbing and animation work while keeping presentations and explainer videos visually consistent across longer formats.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Education Technology Consultant
+
+#### [Inflection AI](https://www.aimyflow.com/en/ai/inflection-ai)
+
+Inflection AI develops Pi, a personal AI designed to provide human-centered, emotionally intelligent interactions for individuals, while also positioning emotionally intelligent AI for brands and enterprises. For customer-facing, support, and brand teams, this kind of AI can help make digital interactions feel more relational and consistent across devices.
+
+**Suitable roles:** Wellness Coach, Corporate Leadership Coach, Employee Relations Manager, School Counselor, CEO
+
+#### [Infographic.Ninja](https://www.aimyflow.com/en/ai/outline-ninja)
+
+Infographic.Ninja is an AI infographic generator that turns a keyword or article into a branded infographic with templates and basic customization, mainly for educators, bloggers, and SEO agencies. For content marketers and SEO teams, it can speed content repurposing by converting existing articles into visual assets for publishing and promotion with less manual design work.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, Content Creator, Education Technology Consultant
 
 #### [Infographics.so](https://www.aimyflow.com/en/ai/infographics-so)
 
@@ -5258,6 +7620,12 @@ InitRunner is an open-source CLI that lets users define and run AI agents from Y
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, COO
 
+#### [INK](https://www.aimyflow.com/en/ai/inkforall-com)
+
+INK is an AI content marketing and SEO platform that helps users write, optimize, research keywords, cluster topics, generate images, and protect content, mainly for marketers, SEO teams, writers, and agencies. In AI-driven content workflows, its combined writing, SEO scoring, and content protection features can help content and search professionals produce optimized material more efficiently within one tool.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, CEO
+
 #### [Inker.ai](https://www.aimyflow.com/en/ai/inker-ai)
 
 Inker.ai is an AI tattoo generator that turns text prompts or photos into tattoo-ready designs, style variations, and virtual try-ons for people exploring tattoo ideas and tattoo artists preparing concepts. In AI-assisted tattoo workflows, it can speed concept exploration and client approvals by giving artists and studios fast visual drafts to refine before final stencil or ink decisions.
@@ -5282,11 +7650,23 @@ insMind AI Image Generator is an online tool that lets users generate, edit, and
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Ecommerce Seller
 
+#### [Inspector](https://www.aimyflow.com/en/ai/tryinspector-com)
+
+Inspector is a local visual front-end editor that connects Claude Code, Cursor, or Codex to a browser so users can move elements, edit text, and apply changes directly to a codebase, mainly for front-end developers and designers working on React and other web apps. In AI-assisted workflows, it can help developers and product designers iterate faster by linking on-page edits to exact code locations and reducing back-and-forth between design feedback and implementation.
+
+**Suitable roles:** Software Engineer, Graphic Designer, Software Development Manager, Project Management Officer
+
 #### [Inspix AI Image to Video](https://www.aimyflow.com/en/ai/inspix-ai-image-to-video)
 
 Inspix AI Image to Video is an AI video generator that turns uploaded photos into short animated videos with prompt-based motion, camera controls, aspect ratios, and model options, mainly for creators and marketers producing visual content. In AI-assisted content workflows, it can help social media, design, and video teams prototype motion concepts faster from existing images before moving to full production.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Social Media Content Creator, Ecommerce Seller
+
+#### [Inspur Cloud](https://www.aimyflow.com/en/ai/cloud-inspur-com)
+
+Inspur Cloud is an industry cloud platform that provides cloud infrastructure, security, big data, edge computing, IoT, AI models, and sector-specific solutions to help organizations build, run, and operate intelligent systems, mainly for enterprises, government, healthcare, media, education, and other regulated industries in China. For IT, cloud, data, and operations teams, its combination of large-model services with cloud, edge, and security capabilities can support more automated, domain-specific digital operations.
+
+**Suitable roles:** IT Infrastructure Manager, Cybersecurity Manager, Data Engineer, Software Development Manager, COO
 
 #### [Instafill.ai](https://www.aimyflow.com/en/ai/instafill-ai)
 
@@ -5299,6 +7679,12 @@ Instafill.ai is an AI form-filling tool that extracts fields from PDF and Word d
 InstantMind is an AI mind map generator and summarizer that turns text, documents, images, web pages, and YouTube videos into visual mind maps, outlines, and content summaries for students, researchers, and other knowledge workers. In AI-driven research, study, and planning workflows, it can help these users extract key points faster, explore source material through contextual chat, and present complex information more clearly.
 
 **Suitable roles:** College Professor, Education Technology Consultant, Technical Writer, Project Management Officer, Content Creator
+
+#### [Instavibes](https://www.aimyflow.com/en/ai/instavibes-app)
+
+Instavibes is an AI optical sampler that turns photos into playable, royalty-free audio samples and synthesizer textures, mainly for music producers and sound designers creating tracks in DAWs like Ableton Live, FL Studio, and Logic Pro. In AI-driven music workflows, it can help producers and audio professionals generate original sonic material from visual sources, speeding up experimentation for genres such as lo-fi, trap, downtempo, and experimental electronic music.
+
+**Suitable roles:** Content Creator, Music Lover, Podcast Producer, Social Media Content Creator, Copywriter
 
 #### [InstaWebAI](https://www.aimyflow.com/en/ai/instawebai-com)
 
@@ -5333,6 +7719,24 @@ Intent Lens is an AI-powered content analysis and messaging optimisation platfor
 #### [Interactive CV](https://www.aimyflow.com/en/ai/interactive-cv-com-en)
 
 Interactive CV is an AI job application platform that helps job seekers tailor ATS-optimized resumes for each role, analyze resume-to-job match, generate cover letters, practice interviews, and track applications. For candidates and career-focused professionals, it can reduce manual tailoring time while using AI feedback to improve resume relevance and interview preparation for specific openings.
+
+#### [Interface](https://www.aimyflow.com/en/ai/theinterface-com)
+
+Interface is a research lab for digital visual simulation that builds AI systems to model how people and objects appear, behave, and interact, mainly for world-model researchers and teams developing real-world AI applications. In the AI era, this can help research and simulation teams create more realistic visual training environments that improve how models understand human behavior and physical scenes.
+
+**Suitable roles:** Data Scientist, Software Engineer, Independent Filmmaker, Graphic Designer, Software Development Manager
+
+#### [Interfere](https://www.aimyflow.com/en/ai/interfere-com)
+
+Interfere is an AI-powered experience layer for modern product teams that automatically detects, triages, explains, and suggests fixes for software bugs, mainly for product and engineering teams building web applications. In AI-driven software operations, it can help engineers, product managers, and incident responders reduce manual debugging by surfacing root causes, impacted users, and code-level fix suggestions faster.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Cybersecurity Analyst
+
+#### [Interior AI](https://www.aimyflow.com/en/ai/interiorai-com)
+
+Interior AI is an AI interior design and virtual staging app that helps users upload photos, sketches, or SketchUp screenshots to redesign rooms, generate photorealistic renders, and furnish empty spaces, mainly for interior designers and real estate professionals. In AI-driven design workflows, it can speed concept testing and listing preparation by turning existing spaces into multiple style options and visual presentations in minutes.
+
+**Suitable roles:** Interior Designer, Real Estate Agent, Graphic Designer, Content Creator
 
 #### [Interview Coder](https://www.aimyflow.com/en/ai/interviewcoder-net)
 
@@ -5388,11 +7792,23 @@ InVideo is an AI video creation platform that helps users make and edit videos, 
 
 **Suitable roles:** Content Creator, Marketing and Sales Managers, Media Communicators, Writers and Authors, Other Arts Roles, Computer Occupations +5 more
 
+#### [Inworld AI](https://www.aimyflow.com/en/ai/inworld-ai)
+
+Inworld AI is a voice AI platform with text-to-speech, speech-to-text, realtime speech-to-speech, and an LLM router that helps developers build scalable realtime conversational applications and agents. For engineering and product teams, it can streamline voice app performance by optimizing model selection, latency, and conversational control across user interactions.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, Cybersecurity Manager
+
 #### [InYourDreams](https://www.aimyflow.com/en/ai/inyourdreams-cloud)
 
 InYourDreams is an AI dream journal that helps users record dreams, get dream interpretations, and turn dream experiences into AI-generated videos, mainly for people interested in reflecting on and exploring their subconscious. In the AI era, it can help writers, therapists, and creative professionals turn subjective dream notes into more structured material for reflection, discussion, or inspiration.
 
 **Suitable roles:** Fiction Writer, Content Creator, Wellness Coach, Copywriter
+
+#### [Iris.ai](https://www.aimyflow.com/en/ai/iris-ai)
+
+Iris.ai is an AI knowledge foundation and development platform that helps regulated enterprises unify complex internal and external data to build, manage, and monitor agentic RAG systems and AI applications. For R&D, knowledge management, and AI teams, it can improve how experts retrieve evidence, evaluate outputs, and deploy more reliable AI workflows in data-heavy environments.
+
+**Suitable roles:** Software Development Manager, Data Engineer, IT Infrastructure Manager, Project Management Officer, Education Technology Consultant
 
 #### [Ironclad](https://www.aimyflow.com/en/ai/ironcladapp-com)
 
@@ -5412,6 +7828,12 @@ Is it Fake? is an AI-powered URL credibility checker that helps users verify the
 
 **Suitable roles:** TV News Reporter, Technical Writer, Content Creator
 
+#### [Is This Image NSFW?](https://www.aimyflow.com/en/ai/nsfw-m1guelpf-me)
+
+Is This Image NSFW? is a web-based machine learning image filter that checks whether uploaded PNG or JPG files are safe for work, mainly for people who need a quick NSFW screening tool for arbitrary images. In AI-assisted content workflows, it can help moderators, designers, and developers add a simple safety check before reviewing, sharing, or processing images.
+
+**Suitable roles:** Software Engineer, Graphic Designer, Social Media Content Creator, Technical Writer
+
 #### [isFake.ai](https://www.aimyflow.com/en/ai/isfake-ai)
 
 isFake.ai is a multimodal AI detector that analyzes text, images, video, and audio to help users assess whether content may be AI-generated or manipulated, mainly for journalists, educators, students, and professionals verifying authenticity. In AI-heavy workflows, its explainable probability scores and visual breakdowns can help content reviewers and investigators make faster, more informed decisions while accounting for detector limitations.
@@ -5424,6 +7846,12 @@ IsOn24 is an AI call agent for businesses that answers calls and texts, books ap
 
 **Suitable roles:** Restaurant General Manager, Branch Office Manager, Field Sales Manager, Medical Biller, Lawyer
 
+#### [ix](https://www.aimyflow.com/en/ai/ix-dev)
+
+ix is sandbox infrastructure for AI agents that lets developers fork, snapshot, and diff full computing environments including databases, files, and processes, mainly for teams building agentic applications and tools. For AI engineering and platform work, its fast environment branching can make testing, debugging, and reproducing agent behavior more reliable across changing system states.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Project Management Officer
+
 #### [Janus](https://www.aimyflow.com/en/ai/janus-cam)
 
 Janus is a real-time streaming avatar platform that turns a webcam feed into an animated character for streamers, content creators, and video-call users who want to appear as a character without special hardware. For creators and presenters, it can improve privacy-conscious on-camera work by enabling expressive live presence across streaming and meeting platforms while rendering locally in the browser.
@@ -5435,6 +7863,24 @@ Janus is a real-time streaming avatar platform that turns a webcam feed into an 
 Jason AI is an AI sales development representative from Reply.io that helps sales teams automate lead sourcing, personalized multichannel outreach, reply handling, and meeting booking, mainly for SDRs, BDRs, and outbound sales teams. In AI-assisted sales work, it can reduce manual prospecting and message drafting so reps and sales leaders can focus more on qualification, conversations, and closing.
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, CEO, COO
+
+#### [Jasper](https://www.aimyflow.com/en/ai/jasper-ai)
+
+Jasper is an AI marketing platform that helps marketing teams automate end-to-end workflows, create on-brand content, and scale campaigns, SEO, personalization, and research across channels. For content marketers, product marketers, brand teams, and performance marketers, it can reduce manual production work while improving consistency, speed, and governance in AI-assisted execution.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator, CEO
+
+#### [JesseZhang.org](https://www.aimyflow.com/en/ai/jessezhang-org)
+
+JesseZhang.org is the personal website of Jesse Zhang, a founder, engineer, and investor that shares his background in web and AI/ML, current startup work, angel investments, math problems, and interactive side projects for peers in technology, startups, and quantitative fields. For founders, engineers, and investors, it shows how combining technical depth with AI and product experimentation can strengthen company building, prototyping, and evaluation of new tools.
+
+**Suitable roles:** Software Engineer, CEO, Data Scientist, Investment Portfolio Manager, Applied Mathematician
+
+#### [jo](https://www.aimyflow.com/en/ai/askjo-ai)
+
+jo is an AI assistant for Mac, Telegram, and WhatsApp that helps people search and use their notes, emails, photos, messages, calendar, and files with personal context, mainly for individuals who want a privacy-focused assistant across devices. In AI-assisted knowledge work, it can help professionals and busy operators prepare for meetings, retrieve past decisions, and manage personal information faster by combining local data access with task execution on a dedicated machine.
+
+**Suitable roles:** CEO, COO, Project Management Officer, Field Sales Manager, Software Engineer
 
 #### [Jobbyo](https://www.aimyflow.com/en/ai/jobbyo-ai)
 
@@ -5468,6 +7914,12 @@ Jotform is an online form builder that helps organizations create forms and surv
 
 **Suitable roles:** Content Creator, Computer Occupations, Information Technology Managers, Financial Managers, Marketing and Sales Managers, Business Operations Specialists +3 more
 
+#### [Jounce](https://www.aimyflow.com/en/ai/jounce-ai)
+
+Jounce is an AI marketing hub that helps marketers, small business owners, and content creators generate copy, artwork, and marketing documents faster using prompts, templates, chat, and an AI editor. For content marketers and campaign teams, it can shorten drafting time across blogs, ads, emails, and social posts while improving consistency and editing efficiency.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator, Ecommerce Seller
+
 #### [JSON to Video](https://www.aimyflow.com/en/ai/jsontovideo-org)
 
 JSON to Video is an AI video generator that turns structured JSON prompts into predictable video clips with models such as Veo 3.1 and Seedance 2, mainly for agencies, brands, creators, and production teams. For marketers, creative teams, and developers, structured prompt templates can reduce guesswork and support more consistent, scalable video production across products and channels.
@@ -5492,17 +7944,53 @@ JuicyChat.AI is an NSFW character AI chat platform that lets users browse, creat
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, CEO
 
+#### [Jules](https://www.aimyflow.com/en/ai/jules-google)
+
+Jules is an autonomous coding agent from Google that helps software developers handle routine development tasks such as bug fixing, version bumps, testing, feature work, and pull request creation from GitHub repositories. For engineering teams, it can reduce time spent on maintenance and review-ready changes by planning edits, validating them in a cloud VM, and supporting asynchronous workflows through the CLI or API.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Julia Turc’s site](https://www.aimyflow.com/en/ai/storia-ai)
+
+Julia Turc’s site is the personal website of a former Google Research scientist and YC-backed founder who shares deep AI concepts through YouTube and offers ways to connect, mainly for people interested in her work and expertise. In the AI era, accessible explanations from experienced researchers can help technical professionals and founders understand complex AI topics more quickly and apply them with better judgment.
+
+**Suitable roles:** Content Creator, CEO, Data Scientist, Software Engineer, Education Technology Consultant
+
+#### [Jungle](https://www.aimyflow.com/en/ai/wisdolia-com)
+
+Jungle is an AI study tool that generates flashcards, multiple-choice questions, and other practice questions from materials like lecture slides, PDFs, webpages, YouTube videos, textbooks, and notes, mainly for students. For students and educators, it can speed up turning source material into personalized retrieval practice that supports spaced repetition and more efficient review.
+
+**Suitable roles:** Teacher, College Professor, Test Prep Tutor, Online Coding Tutor, Education Technology Consultant
+
 #### [Jupid](https://www.aimyflow.com/en/ai/jupid-com)
 
 Jupid is an AI-native accounting platform that helps small business owners and financial institutions manage bookkeeping, LLC formation, tax filing, and business insights through messaging, embedded banking experiences, and connected financial data. For business owners, founders, and accounting teams, it can reduce manual bookkeeping and tax-prep work by automating transaction categorization and surfacing context-aware financial information.
 
 **Suitable roles:** Certified Public Accountant, CFO, Financial Analyst, CEO, Corporate Tax Manager
 
+#### [JURA Bio](https://www.aimyflow.com/en/ai/jura-bio)
+
+JURA Bio is a biotechnology company that builds foundation models for therapeutic design, helping teams discover and develop candidates by running AI-guided wet-lab cycles that generate proprietary functional data, mainly for drug discovery and therapeutic R&D organizations. For researchers in biologics and early-stage development, this AI-driven lab data loop can improve candidate design on hard targets and novel modalities where public datasets and generic models are limited.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Medical Lab Technician, Software Engineer
+
 #### [JustCopy.ai](https://www.aimyflow.com/en/ai/justcopy-ai)
 
 JustCopy.ai is an AI website builder that clones an existing site from a URL or generates one from a prompt, then lets users customize and publish it quickly without coding, mainly for founders, marketers, and agencies. In AI-driven web production, it can help marketing and growth teams prototype landing pages, business sites, and SEO blog content faster while reducing setup work.
 
 **Suitable roles:** Digital Marketing Director, CEO, Copywriter, Content Creator, Software Development Manager
+
+#### [Kaedim](https://www.aimyflow.com/en/ai/kaedim3d-com)
+
+Kaedim is an AI-powered 3D asset production service that helps studios and brands create production-ready 3D assets faster and scale 3D pipelines, mainly for game teams, product design groups, and e-commerce organizations. For art leads, producers, and design teams, it can shorten asset creation and review cycles so they can ship more content and focus more on quality, iteration, and pipeline management.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, E-commerce Sales Head, Software Development Manager, Project Management Officer
+
+#### [Kafkai](https://www.aimyflow.com/en/ai/kafkai-com)
+
+Kafkai is a competitive intelligence platform that helps agencies and website owners monitor competitor rankings, keyword movements, content gaps, and market position to plan SEO and content actions. For SEO, content, and digital marketing teams, it can speed up competitive analysis and turn scattered search data into clearer publishing and optimization priorities.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO
 
 #### [Kagi](https://www.aimyflow.com/en/ai/kagi-com)
 
@@ -5516,11 +8004,35 @@ Kairos GPT is a finance AI assistant built by Kairos that helps users access fin
 
 **Suitable roles:** Financial Analyst
 
+#### [Kaizan](https://www.aimyflow.com/en/ai/kaizan-ai)
+
+Kaizan is an AI client service platform that helps account managers and client service teams automate admin, monitor client health and sentiment, and identify upsell opportunities from communication data. For account management, customer success, and client service leaders, it can reduce manual note-taking and fragmented visibility so teams act faster on client risks and growth opportunities.
+
+**Suitable roles:** Field Sales Manager, Project Management Officer, COO, CEO, Software Development Manager
+
 #### [Kaloria](https://www.aimyflow.com/en/ai/kaloria-ai)
 
 Kaloria is an AI calorie tracker and nutrition coaching app that helps people log meals from photos, voice, and barcodes while tracking calories and macros, mainly for individuals managing diet, fitness, or weight goals. For nutrition, fitness, and wellness work, its AI meal recognition and personalized coaching can reduce manual logging time and support more consistent behavior tracking.
 
 **Suitable roles:** Wellness Coach, Food Enthusiast, Content Creator, Healthcare Administrator
+
+#### [KaomojiHub](https://www.aimyflow.com/en/ai/kaomojihub-org)
+
+KaomojiHub is a Japanese kaomoji search and copy database that helps users quickly find text-based emoticons by keyword, category, scene, or kana index, mainly for people writing on LINE, social media, and chat. In AI-assisted messaging workflows, it helps social media managers and community teams add consistent emotional tone to short replies without relying on platform-dependent emoji rendering.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Copywriter, Technical Writer, Digital Marketing Director
+
+#### [Katteb](https://www.aimyflow.com/en/ai/katteb-com-en)
+
+Katteb is an AI writing and SEO platform that helps content creators, marketers, and agencies produce Arabic and multilingual articles optimized for Google AI Overviews, ChatGPT Search, and traditional search results. For SEO and content teams, its entity-based optimization, competitor analysis, brand-voice matching, and Search Console workflows can help turn search data into publishable content more efficiently.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, CEO
+
+#### [Keet](https://www.aimyflow.com/en/ai/trykeet-com)
+
+Keet is an automated enterprise onboarding tool that extracts, validates, and uploads customer migration data to help implementation managers onboard new customers faster. In AI-driven implementation workflows, it can reduce manual review and data handling so implementation and onboarding teams can focus on exception handling and customer setup quality.
+
+**Suitable roles:** Project Management Officer, COO, Software Development Manager, IT Infrastructure Manager, Software Engineer
 
 #### [Keevx](https://www.aimyflow.com/en/ai/keevx-com-main-home)
 
@@ -5534,11 +8046,33 @@ Keragon is a HIPAA-compliant healthcare automation platform that helps healthcar
 
 **Suitable roles:** Healthcare Administrator, IT Infrastructure Manager, COO, Medical Biller, Project Management Officer
 
+#### [Kernel](https://www.aimyflow.com/en/ai/kernel-sh)
+
+Kernel is browser infrastructure for web agents and automations that helps teams run fast cloud Chromium sessions with reusable auth, anti-bot handling, debugging tools, and autoscaling, mainly for developers building AI agents and browser-based automation systems. For AI engineering and automation teams, this can reduce the operational work of managing browsers, sessions, and web access so they can focus on agent behavior and reliability.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Data Engineer
+
+#### [Keyframe Labs](https://www.aimyflow.com/en/ai/keyframelabs-com)
+
+Keyframe Labs is an AI platform that turns voice agents into photoreal, real-time video calls with expressive human personas, mainly for developers and teams building customer support, training, learning, and simulation experiences. For customer experience, learning, and enablement teams, adding lifelike visual presence can make AI interactions feel more human and improve practice, trust, and engagement.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Healthcare Administrator, Talent Acquisition Manager
+
 #### [Keymate.AI](https://www.aimyflow.com/en/ai/keymate-ai)
 
 Keymate.AI is an AI workspace that helps marketing, operations, and sales teams organize files, emails, and other sources, search across them, and generate answers or content inside ChatGPT using curated company knowledge. In AI-driven workflows, it can help go-to-market and operations professionals reduce context loss and produce more grounded outputs by working from scoped, shared source libraries instead of generic chat history.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Logistics Operations Planner, Project Management Officer, COO
+
+#### [Keywrds.ai](https://www.aimyflow.com/en/ai/keywrds-ai)
+
+Keywrds.ai is an AI-powered keyword research and topic ideation tool that helps SEO professionals, content marketers, and writers turn a seed keyword into related keywords, questions, topics, outlines, and Google People Also Ask answers. For content and SEO teams, this can speed up building topic clusters and audience-focused briefs that better match how people search and how search engines evaluate topical relevance.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, Social Media Content Creator
+
+#### [Kickresume](https://www.aimyflow.com/en/ai/kickresume-com-en)
+
+Kickresume is an online resume and cover letter builder that helps job seekers create application documents, check resume quality, and publish a personal website using templates, examples, and AI writing tools. For candidates, career advisors, and recruiters reviewing drafts, its AI-assisted writing and resume feedback can speed document preparation while improving clarity and ATS readiness.
 
 #### [KidBooks.pics](https://www.aimyflow.com/en/ai/kidbooks-pics)
 
@@ -5551,6 +8085,12 @@ KidBooks.pics is an AI image generator for children’s books that helps users c
 KikiVoice is an AI voice cloning platform that lets creators record or upload a short audio sample to generate realistic cloned speech in under three minutes, with support for 75+ languages, accents, and emotion controls. For video producers, podcasters, game voice teams, and e-learning creators, it can speed multilingual localization and voice iteration without repeated recording sessions.
 
 **Suitable roles:** Podcast Producer, Content Creator, Social Media Content Creator, Voice Actor, Technical Writer
+
+#### [Kili](https://www.aimyflow.com/en/ai/kili-so)
+
+Kili was an AI assistant for businesses that helped manage bills, invoices, and expenses, mainly for teams handling accounting workflows. For finance and operations staff, tools like this can reduce manual data entry and speed routine invoice processing when connected to accounting software.
+
+**Suitable roles:** CFO, Financial Analyst, COO, Medical Biller
 
 #### [Kilo](https://www.aimyflow.com/en/ai/kilocode-ai)
 
@@ -5576,11 +8116,29 @@ Kimi AI is an AI assistant with K2.5 that helps users handle visual coding, deep
 
 **Suitable roles:** Software Engineer, Data Scientist, Financial Analyst, Technical Writer, Project Management Officer
 
+#### [Kimi Code](https://www.aimyflow.com/en/ai/kimi-com-code)
+
+Kimi Code is an AI code agent and CLI that helps developers automate programming tasks such as writing, debugging, refactoring, codebase analysis, and workflow execution across terminal and IDE environments. For software engineers and technical teams, this kind of coding assistant can reduce routine CLI and codebase work so they can focus more on architecture, review, and complex problem-solving.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Technical Writer, Data Engineer
+
 #### [Kin](https://www.aimyflow.com/en/ai/mykin-ai)
 
 Kin is a privacy-focused personal AI assistant and reflective coaching app that remembers context across conversations to help users think clearly, navigate decisions, and organize their lives, especially leaders, founders, parents, athletes, and neurodivergent people. In AI-enabled knowledge work, its persistent memory and guided reflection can help decision-makers and other high-responsibility professionals spot patterns, reduce mental overload, and make more informed choices over time.
 
 **Suitable roles:** CEO, Corporate Leadership Coach, Wellness Coach, Professional Athlete, COO
+
+#### [Kinetix](https://www.aimyflow.com/en/ai/kinetix-tech)
+
+Kinetix is an AI research company focused on 3D animation and human motion intelligence, helping game developers, creators, and animation teams understand and generate humanoid motion with machine learning and 3D models. In AI-driven animation and video workflows, its physically grounded motion and camera control can help animators, technical artists, and video teams produce more controllable character performance.
+
+**Suitable roles:** Graphic Designer, Independent Filmmaker, Content Creator, Software Engineer, Software Development Manager
+
+#### [Kirkify](https://www.aimyflow.com/en/ai/kirkify-net)
+
+Kirkify is an AI meme generator that lets users upload photos or short clips, apply a neon “Kirkified” face-swap style, and export labeled parody content, mainly for creators making satirical social posts. For social media editors and meme creators, its built-in disclosures, watermarking, and preset export formats can streamline compliant publishing of AI-edited satire across platforms.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Copywriter, Digital Marketing Director, Podcast Producer
 
 #### [Kirkify AI](https://www.aimyflow.com/en/ai/kirkify-co)
 
@@ -5642,6 +8200,12 @@ Klypse is an AI video assistant that turns long-form videos into ready-to-post S
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Technical Writer
 
+#### [Knobi](https://www.aimyflow.com/en/ai/knobi-io)
+
+Knobi is an AI community management tool that uses community data to power knowledge interfaces, personalized onboarding recommendations, unanswered-question routing, and chat-based search for community managers. In AI-era community operations, it can help CMs surface relevant conversations, connect members faster, and reduce manual effort in support and content curation.
+
+**Suitable roles:** Nonprofit Program Manager, Project Management Officer, Social Media Content Creator, CEO
+
 #### [Know what your competitors](https://www.aimyflow.com/en/ai/prowlai-app-en)
 
 Know what your competitors are doing before your customers do. AI-powered monitoring for pricing, features, content, and strategy changes.
@@ -5659,6 +8223,12 @@ Knowledge Plane is a shared memory platform for engineering teams that turns cod
 Knowlify is an AI animated explainer video generator and studio that helps companies and professionals turn documents, scripts, and ideas into explainer videos through a self-serve platform or bespoke production services. For marketing, product, and training teams, it can speed up turning complex information into clear visual content that is easier for audiences to absorb than text alone.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Software Development Manager, Corporate Leadership Coach
+
+#### [Knowmax](https://www.aimyflow.com/en/ai/knowmax-ai)
+
+Knowmax is an AI-powered knowledge management platform for customer experience teams that helps contact centers create searchable knowledge bases, guided workflows, visual guides, and training content for consistent service across channels. For contact center leaders, trainers, and support operations teams, this kind of AI-guided knowledge system can improve agent accuracy, speed onboarding, and support more effective self-service.
+
+**Suitable roles:** Project Management Officer, Employee Relations Manager, Technical Writer, COO, Customer Success Manager
 
 #### [Knowt](https://www.aimyflow.com/en/ai/knowt-com)
 
@@ -5714,11 +8284,23 @@ Korgi is an all-in-one project board platform with built-in app connections and 
 
 **Suitable roles:** Project Management Officer, Software Development Manager, Information Technology Managers, Digital Marketing Director, Education Technology Consultant, Postsecondary Teachers +2 more
 
+#### [Korso](https://www.aimyflow.com/en/ai/korsoai-com)
+
+Korso is an AI-powered manufacturing operations platform that helps manufacturers automate quoting, purchase orders, supplier communication, and intake from email, WhatsApp, WeChat, and ERP systems. For sales, procurement, and operations teams in manufacturing, it can reduce manual document handling and speed responses by turning RFQs, POs, and messages into structured, actionable workflows.
+
+**Suitable roles:** Factory Operations Supervisor, Field Sales Manager, Logistics Operations Planner, COO, Software Development Manager
+
 #### [Kovvid AI Image Generator](https://www.aimyflow.com/en/ai/kovvid-com-en-ai-image-generator)
 
 Kovvid AI Image Generator is an online text-to-image and image-to-image tool that helps users create posters, product visuals, social graphics, and 4K images with Nano Banana Pro or Seedream 4.5, mainly for marketers, designers, and content creators. In AI-driven creative workflows, it can help marketing and design teams move from prompt to usable campaign assets, prototypes, and concept visuals more quickly in one workspace.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter
+
+#### [Krea](https://www.aimyflow.com/en/ai/krea-ai)
+
+Krea is an AI creative suite for generating, editing, enhancing, and managing images, videos, and 3D assets, built mainly for creatives, design teams, and enterprises that need both simple interfaces and advanced model controls. For designers, marketers, and visual content teams, its real-time generation, upscaling, and fine-tuning tools can speed asset production and iteration across image, video, and 3D workflows.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Ecommerce Seller
 
 #### [KreadoAI](https://www.aimyflow.com/en/ai/kreadoai-com)
 
@@ -5731,6 +8313,18 @@ KreadoAI is an AI video generator that helps users turn text, images, PowerPoint
 KreadoAI is an AI video creation platform and login portal that helps users turn text, images, or PowerPoint slides into videos with AI avatars, voice options, and digital twin features, mainly for people creating avatar-based video content. For video producers, marketers, and training teams, AI tools like this can speed multilingual video production and reduce the manual work of scripting, presenting, and voice recording.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Corporate Leadership Coach, Education Technology Consultant, Field Sales Manager
+
+#### [Krikey](https://www.aimyflow.com/en/ai/krikey-ai)
+
+Krikey is an AI animation and cartoon video generator that helps users create talking 3D avatar videos, GIFs, and multilingual animated content with templates, voiceovers, and a browser-based editor, mainly for creators, marketers, teachers, and students. For marketing, education, and content teams, it can speed up visual storytelling and localization workflows without requiring animation skills.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Teacher, Copywriter, Education Technology Consultant
+
+#### [Krisp](https://www.aimyflow.com/en/ai/krisp-ai)
+
+Krisp is a Voice AI platform for meetings, call centers, and developers that provides noise cancellation, AI note taking, transcription, recording, accent conversion, translation, and voice tools for clearer conversations and meeting follow-up. For meeting-heavy teams, call center agents, and developers, it can reduce manual note-taking and audio cleanup while improving clarity, task tracking, and voice application performance.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Field Sales Manager, Project Management Officer, IT Infrastructure Manager
 
 #### [KrushChat](https://www.aimyflow.com/en/ai/crush-to)
 
@@ -5750,17 +8344,47 @@ Kupid.ai is an AI companion chat platform that lets users create and talk with c
 
 **Suitable roles:** Content Creator, Social Media Content Creator, CEO, Digital Marketing Director, Software Development Manager
 
+#### [Kura](https://www.aimyflow.com/en/ai/trykura-com)
+
+Kura is an AI browser automation platform that helps organizations build production-ready browser agents from natural language without coding, mainly for enterprise teams automating business operations. For operations, IT, and automation functions, it can reduce manual browser work while improving auditability and deployment of repeatable workflows.
+
+**Suitable roles:** Logistics Operations Planner, IT Infrastructure Manager, Project Management Officer, COO, Software Development Manager
+
 #### [KwaKwa Course Creator](https://www.aimyflow.com/en/ai/create-kwakwa-com)
 
 KwaKwa Course Creator is an AI platform that helps users create and sell mobile-first social courses quickly, mainly for coaches, creators, and subject-matter experts. In the AI era, it shortens the distance between expertise and monetization for educators building digital learning products.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Cybersecurity Analyst, Data Engineer +10 more
 
+#### [LabLab](https://www.aimyflow.com/en/ai/lablab-ai)
+
+LabLab is an AI builder ecosystem that helps developers, founders, and other makers join hackathons, build AI prototypes, learn through tutorials, and collaborate in a community. For AI product teams and technical founders, this kind of platform can speed experimentation and validation by turning ideas into working demos with peer and mentor feedback.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CEO, Project Management Officer, Content Creator
+
 #### [Labubufy with daisy](https://www.aimyflow.com/en/ai/labubufy-daisy-so)
 
 Labubufy with daisy is an image transformation tool that turns a person’s photo into a Labubu-style character, mainly for consumers and creators making playful visual content. For social media managers, designers, and content creators, it offers a quick way to generate stylized character images from clear outfit-focused photos.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director, Copywriter
+
+#### [LAION](https://www.aimyflow.com/en/ai/laion-ai)
+
+LAION is a non-profit open AI organization that provides free datasets, tools, and models to support machine learning research and public education, mainly for AI researchers and developers. By making large-scale open resources reusable, it can help research and ML teams speed dataset access and model experimentation while reducing duplicated effort.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, College Professor, Education Technology Consultant
+
+#### [Lalaland, now part of Browzwear,](https://www.aimyflow.com/en/ai/lalaland-ai)
+
+Lalaland, now part of Browzwear, provides custom AI models that help B2B and e-commerce teams create realistic, brand-specific product visuals for approval, wholesale, marketing, and online sales without relying on samples or photoshoots. For merchandisers, marketers, and product teams, this can speed approvals and launch preparation by producing consistent digital content earlier in the product lifecycle.
+
+**Suitable roles:** Ecommerce Seller, Digital Marketing Director, Graphic Designer, Content Creator, Software Development Manager
+
+#### [lambdal/text-to-pokemon](https://www.aimyflow.com/en/ai/replicate-com-lambdal-text-to-pokemon)
+
+lambdal/text-to-pokemon is a Replicate model that generates Pokémon-style images from text descriptions through an API, mainly for developers and technical teams building image generation features. In AI workflows, it can help creative developers and prototype-focused product teams turn text prompts into themed visual concepts faster for testing, demos, or content experiments.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Graphic Designer, Content Creator
 
 #### [Lami AI](https://www.aimyflow.com/en/ai/lami-ai)
 
@@ -5773,6 +8397,30 @@ Lami AI is an AI music generator that helps users turn text or lyrics into origi
 Landing-page.io is an AI landing page and website builder that helps users generate, customize, and publish SEO-friendly, mobile-responsive pages from a prompt, mainly for entrepreneurs, marketers, agencies, and creators. For marketing and growth teams, it can shorten page production cycles and speed campaign testing by automating layout, copy structure, and conversion-focused page setup.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Software Engineer
+
+#### [Lanesurf](https://www.aimyflow.com/en/ai/lanesurf-com)
+
+Lanesurf is an AI carrier rep platform that helps logistics service providers and freight broker teams source carrier capacity, negotiate rates, book loads, and track deliveries through automated calls, emails, and texts. For carrier sales, operations, and load booking teams, it can reduce repetitive outreach and follow-up so staff can focus more on exceptions, carrier vetting, and shipper relationships.
+
+**Suitable roles:** Logistics Operations Planner, Field Sales Manager, COO
+
+#### [Langboat Technology](https://www.aimyflow.com/en/ai/langboat-com)
+
+Langboat Technology is a cognitive intelligence platform for enterprises that uses NLP and large language models to support knowledge bases, agent building, meeting analysis, translation, search, generation, and dialogue, with a strong focus on finance and other industry use cases. For operations, research, support, and knowledge management teams, it can help turn fragmented documents, meetings, and internal knowledge into faster analysis, question answering, and workflow support.
+
+**Suitable roles:** Financial Analyst, Project Management Officer, Technical Writer, Software Development Manager, Data Scientist
+
+#### [Langotalk](https://www.aimyflow.com/en/ai/langotalk-org)
+
+Langotalk is an AI language tutor that helps learners practice speaking, listening, and reading through personalized conversations, with adaptive feedback on grammar, pronunciation, and fluency for people learning new languages. For language learners, students, and self-directed professionals, this kind of AI tutoring can make practice more targeted by identifying recurring mistakes and guiding the next lesson automatically.
+
+**Suitable roles:** Teacher, Online Coding Tutor, Test Prep Tutor, Education Technology Consultant, Corporate Leadership Coach
+
+#### [LanguagePro](https://www.aimyflow.com/en/ai/bot-petit-today)
+
+LanguagePro is an AI language assistant and writing app that helps users write, translate, correct grammar, and chat by text or voice, mainly for people handling daily work and study tasks. For writers, students, and other knowledge workers, it can speed drafting and language cleanup while adding conversational AI support through chat and Siri access.
+
+**Suitable roles:** Copywriter, Technical Writer, Content Creator, Teacher, Education Technology Consultant
 
 #### [LanguageTool](https://www.aimyflow.com/en/ai/languagetool-org)
 
@@ -5792,6 +8440,30 @@ Lanta AI Vid-to-Vid is an AI video style transfer tool that helps users upload s
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Independent Filmmaker, Copywriter
 
+#### [Lapis](https://www.aimyflow.com/en/ai/trylapis-com)
+
+Lapis is an AI ad creative platform that helps marketing teams create on-brand image ads, headlines, and campaign variations for Meta, Google, LinkedIn, and other channels, especially for marketers who need fast multi-platform production without design skills. For performance marketers, growth teams, and creative strategists, it can speed campaign iteration by turning brand assets, product data, and audience inputs into tailored ad variants for testing across markets and languages.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, Content Creator, Ecommerce Seller
+
+#### [Lark](https://www.aimyflow.com/en/ai/getlark-ai)
+
+Lark is an AI testing tool that lets engineering teams write software tests in plain English and run them on every pull request or deployment across UIs, APIs, SDKs, and async workflows. For QA, test, and software engineering functions, it can reduce time spent authoring and maintaining brittle test scripts while speeding feedback on regressions.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Cybersecurity Analyst
+
+#### [Latitude](https://www.aimyflow.com/en/ai/latitude-io)
+
+Latitude is a company building AI-powered role-playing game products and platforms, including AI Dungeon and Voyage, to help players, creators, and developers create personalized adventures and open-ended game worlds. For game designers, writers, and developers, this shows how AI can support more adaptive storytelling and player-driven worldbuilding in RPG creation.
+
+**Suitable roles:** Fiction Writer, Software Engineer, Content Creator, Independent Filmmaker, Graphic Designer
+
+#### [Latte Social](https://www.aimyflow.com/en/ai/latte-social)
+
+Latte Social is an AI-powered video editor and creative studio that helps content creators, marketers, and businesses turn raw footage, scripts, and long-form videos into short-form social content, animated subtitles, and automated video series. For social media teams and creator workflows, it can reduce manual editing and speed up repurposing across TikTok, YouTube Shorts, and Instagram Reels.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Podcast Producer
+
 #### [LaunchLemonade](https://www.aimyflow.com/en/ai/launchlemonade-app)
 
 LaunchLemonade is a no-code AI agent platform that helps agencies and consultants turn their expertise into deployable agents for marketing, sales, research, support, and other business workflows. In AI-enabled agency operations, it can help marketing, sales, and client service teams automate repeatable work and scale delivery without adding equivalent headcount.
@@ -5804,11 +8476,23 @@ Laurel is an AI timekeeping and work intelligence platform that automates timesh
 
 **Suitable roles:** Lawyer, Certified Public Accountant, CFO, Financial Planning & Analysis Manager, CEO
 
+#### [Lavender](https://www.aimyflow.com/en/ai/lavender-ai)
+
+Lavender is an AI email coach and sales agent that helps sales teams and individual sellers write better cold emails faster using email analysis, coaching, and AI-generated drafts. For SDRs, BDRs, account executives, and sales leaders, it can improve outbound productivity by turning email best practices and historical performance data into more consistent messaging.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, Copywriter
+
 #### [Layercode](https://www.aimyflow.com/en/ai/layercode-com)
 
 Layercode is voice AI infrastructure for TypeScript developers that helps them build and deploy production-ready voice agents without managing WebSockets, voice activity detection, or low-latency audio pipelines. For AI engineers and product developers, this can speed iteration on conversational systems by keeping backend logic in their own code while simplifying real-time voice delivery and observability.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Leadbay](https://www.aimyflow.com/en/ai/leadbay-ai)
+
+Leadbay is an AI prospecting tool that helps field sales teams identify likely future customers by training on won and lost prospect lists, along with company and market data. For sales reps and revenue teams, this can improve lead prioritization by turning past deal outcomes and sales intuition into more focused prospecting decisions.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, COO
 
 #### [Leadde](https://www.aimyflow.com/en/ai/leadde-ai)
 
@@ -5834,6 +8518,12 @@ Leania.ai is an AI tool that helps teams quickly identify workflow inefficiencie
 
 **Suitable roles:** COO, Project Management Officer, Education Technology Consultant, Software Development Manager, CEO
 
+#### [Leaping AI](https://www.aimyflow.com/en/ai/leapingai-com)
+
+Leaping AI is a voice AI platform that helps companies automate customer service calls, appointment booking, lead qualification, and repetitive call center workflows, mainly for enterprises and teams in industries such as travel, retail, real estate, medical practices, and legal services. For customer support, operations, and sales functions, it can reduce manual call handling and extend 24/7 coverage while routing more complex conversations to human agents.
+
+**Suitable roles:** Field Sales Manager, Logistics Operations Planner, Restaurant General Manager, Healthcare Administrator, Real Estate Agent
+
 #### [Learn Earth](https://www.aimyflow.com/en/ai/learn-earth)
 
 Learn Earth is an AI-first adaptive learning platform that helps learners study virtually any topic through personalized learning paths, generated materials, and interactive practice sessions, mainly for self-directed students and lifelong learners. In AI-supported education, it can help educators and training professionals reinforce critical thinking by giving learners structured practice and feedback instead of only raw answers.
@@ -5846,11 +8536,35 @@ Learn Place offers an AI-powered virtual internship program that helps students,
 
 **Suitable roles:** Online Coding Tutor, Software Engineer, Talent Acquisition Manager, Education Technology Consultant, Teacher
 
+#### [Learn Python, Data Viz, Pandas & More](https://www.aimyflow.com/en/ai/kaggle-com-learn)
+
+Practical data skills you can apply immediately: that's what you'll learn in these no-cost courses. They're the fastest (and most fun) way to become a data scientist or improve your current skills.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer
+
+#### [Learn Your Way](https://www.aimyflow.com/en/ai/learnyourway-withgoogle-com)
+
+Learn Your Way is a Google experiment that transforms textbook and PDF content into a dynamic, tailored learning experience for individual learners studying subjects like biology, history, economics, and computer science. For educators, instructional designers, and learning teams, its AI-plus-pedagogy approach can help adapt static materials into more engaging, personalized study experiences.
+
+**Suitable roles:** Education Technology Consultant, College Professor, Community College Instructor, Test Prep Tutor, Teacher
+
+#### [LearnFlux](https://www.aimyflow.com/en/ai/learnflux-net)
+
+LearnFlux is an AI-powered learning platform that turns PDFs, videos, audio, web links, and other study materials into editable notes, flashcards, quizzes, and practice tests for students and other learners. For students, tutors, and academic support roles, it can reduce manual study-prep work and make review more targeted through adaptive practice and AI-guided highlights.
+
+**Suitable roles:** Test Prep Tutor, Online Coding Tutor, School Counselor, Education Technology Consultant, Teacher
+
 #### [Ledger IQ](https://www.aimyflow.com/en/ai/ledgeriq-ai)
 
 Ledger IQ is a trial balance automation tool for accounting firms that imports QuickBooks or spreadsheet trial balances, applies adjusting journal entries, and maps data directly into Lacerte to speed tax return preparation. For tax preparers and CPAs, it can reduce manual re-keying and spreadsheet cleanup, helping standardize review-ready workpapers and lower data-entry errors during busy filing periods.
 
 **Suitable roles:** Certified Public Accountant, Corporate Tax Manager, CFO, Financial Analyst
+
+#### [LedgerUp](https://www.aimyflow.com/en/ai/ledgerup-ai)
+
+LedgerUp is an AI-powered revenue operations platform that automates contract-to-cash workflows including billing, collections, usage-based invoicing, and reconciliation, mainly for B2B SaaS and enterprise sales teams. For finance, revenue operations, and billing teams, its AI assistant can reduce manual follow-up and cross-system work by handling routine accounts receivable tasks inside existing workflows.
+
+**Suitable roles:** CFO, Financial Planning & Analysis Manager, Financial Analyst, COO, Project Management Officer
 
 #### [LeetPilot](https://www.aimyflow.com/en/ai/leetpilot-com)
 
@@ -5870,11 +8584,23 @@ LEGO Education Computer Science & AI is a curriculum-aligned learning solution f
 
 **Suitable roles:** Education Technology Consultant, Online Coding Tutor, Teacher
 
+#### [Lemma](https://www.aimyflow.com/en/ai/uselemma-ai)
+
+Lemma is an observability and evaluation platform for AI agents that helps teams trace runs, detect regressions, analyze failures, and turn user feedback into improvements, mainly for developers and product teams building agent-based systems. For AI engineers and support automation teams, it can improve agent reliability by revealing failure patterns, comparing strategies before deployment, and linking feedback to the exact runs that caused issues.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Data Scientist, IT Infrastructure Manager
+
 #### [Lemon](https://www.aimyflow.com/en/ai/heylemon-ai)
 
 Lemon is a Mac AI agent that turns voice instructions into completed tasks like replying to messages, researching, drafting documents, and editing text for knowledge workers across apps. It helps operations, support, sales, and writing roles reduce context switching and execute routine work faster.
 
 **Suitable roles:** Copywriter, Technical Writer, Project Management Officer, Field Sales Manager, Digital Marketing Director
+
+#### [LEMONO AI Hairstyle Changer](https://www.aimyflow.com/en/ai/lemono-ai-ai-photo-effects-ai-hairstyle-changer)
+
+LEMONO AI Hairstyle Changer is an online AI photo tool that lets people upload a portrait to preview realistic hairstyle and hair color changes, mainly for individuals exploring new looks. For hairstylists, photographers, and content creators, it can speed up visual planning by generating face-aware style options before a shoot, consultation, or edit.
+
+**Suitable roles:** Content Creator, Graphic Designer, Fashion Designer, Social Media Content Creator
 
 #### [LemonSlice](https://www.aimyflow.com/en/ai/infinity-ai)
 
@@ -5906,11 +8632,29 @@ LessonPlanGenerator is an AI lesson planning tool that helps teachers and homesc
 
 **Suitable roles:** Teacher, Education Technology Consultant, College Professor, Community College Instructor, Test Prep Tutor
 
+#### [LessonPlans.ai](https://www.aimyflow.com/en/ai/lessonplans-ai)
+
+LessonPlans.ai is an AI lesson plan generator that helps teachers create customized, high-quality lesson plans with activities and step-by-step guidance faster, mainly for K-12 educators. In AI-enabled teaching workflows, it can reduce planning time for classroom teachers and help them focus more on instruction, differentiation, and student support.
+
+**Suitable roles:** Teacher, Elementary School Math Teacher, Middle School History Teacher, High School Physics Teacher, Education Technology Consultant
+
+#### [Levity](https://www.aimyflow.com/en/ai/levity-ai)
+
+Levity is an AI automation platform for logistics operations that helps teams analyze email-heavy workflows, build and run automations, and govern them at scale, mainly for logistics teams handling complex communication processes. For operations, IT, and process leaders, it can improve reliability by combining analytics, human oversight, and continuous feedback to move AI automations from pilot projects into production.
+
+**Suitable roles:** Logistics Operations Planner, IT Infrastructure Manager, Project Management Officer, COO, Software Development Manager
+
 #### [Levr](https://www.aimyflow.com/en/ai/levrhub-com)
 
 Levr is an AI boardroom guidance tool that helps founders and business leaders turn strategy, sales, marketing, and operations questions into clear, actionable decisions using a curated knowledge base and guardrails. In an AI-saturated environment, it can help executives and operators reduce time spent filtering generic content and make faster decisions with more reliable, stage-fit guidance.
 
 **Suitable roles:** CEO, COO, Digital Marketing Director, Field Sales Manager, Project Management Officer
+
+#### [Lexi](https://www.aimyflow.com/en/ai/getlexi-io)
+
+Lexi is an AI legal associate platform that helps law firms and legal teams handle document review, legal research, contract drafting, client onboarding, and case organization more efficiently. For attorneys, paralegals, and in-house legal staff, it can reduce repetitive workload and speed case preparation while keeping citations, drafts, and source documents easier to verify and manage.
+
+**Suitable roles:** Lawyer, Technical Writer, Project Management Officer, CEO
 
 #### [Lexi](https://www.aimyflow.com/en/ai/lexisaas-com)
 
@@ -5946,11 +8690,29 @@ LiftKit is an AI marketing playbook and prompt-based system that helps solo foun
 
 LiftmyCV is an AI job search and auto-apply tool that helps job seekers find relevant roles, match openings to their profiles, generate tailored ATS-friendly resumes and cover letters, and track applications across multiple job boards and ATS platforms. For candidates and career-focused professionals, it can reduce repetitive application work and make higher-volume, more targeted job outreach easier to manage.
 
+#### [Lightbox](https://www.aimyflow.com/en/ai/lightbox-sh)
+
+Lightbox is a web-based AI content creation tool that simplifies ComfyUI-style workflows for people making visual media, with community projects for tasks like background removal, upscaling, restyling, product photo shoots, and face swaps. For designers, marketers, and content creators, this kind of interface can reduce workflow friction and make repeatable image-generation and editing tasks easier to produce with AI.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Ecommerce Seller
+
 #### [Lightfield](https://www.aimyflow.com/en/ai/lightfield-app)
 
 Lightfield is an AI-native CRM for early-stage teams that captures emails, meeting transcripts, and other customer interactions to update records automatically, summarize conversations, answer business questions, and drive next steps. For founders, sales teams, and product or engineering functions, it can reduce manual CRM work while turning unstructured customer conversations into usable context for follow-ups, pipeline management, and product decisions.
 
 **Suitable roles:** Field Sales Manager, CEO, Software Development Manager, Project Management Officer, COO
+
+#### [Lighthouz AI](https://www.aimyflow.com/en/ai/lighthouz-ai)
+
+Lighthouz AI is a back-office AI platform for freight brokerages and logistics teams that automates carrier bill audits, customer invoicing, document checks, and approval workflows. For brokerage operations, accounting, and finance teams, this kind of AI can reduce manual billing work, catch invoice and proof-of-delivery issues earlier, and help speed cash flow without adding headcount.
+
+**Suitable roles:** Logistics Operations Planner, Financial Planning & Analysis Manager, Certified Public Accountant, COO
+
+#### [LightOn](https://www.aimyflow.com/en/ai/lighton-ai)
+
+LightOn is an on-premise AI search and reasoning platform that helps enterprises query, extract, and reason over unstructured internal data through a ready-to-use interface or multimodal RAG API, mainly for security-conscious business teams and developers. In AI-driven knowledge work, it can help IT, compliance, legal, support, and R&D teams find cited answers and automate document-heavy workflows without moving sensitive data outside their environment.
+
+**Suitable roles:** IT Infrastructure Manager, Software Engineer, Cybersecurity Manager, Project Management Officer, Lawyer
 
 #### [LightSite AI](https://www.aimyflow.com/en/ai/lightsite-ai)
 
@@ -5958,11 +8720,23 @@ LightSite AI is a generative engine optimization and AI search visibility platfo
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, Software Engineer, Content Creator
 
+#### [Ligo Biosciences](https://www.aimyflow.com/en/ai/ligo-bio)
+
+Ligo Biosciences is an AI enzyme design platform that uses deep-learning and generative models to create new proteins and optimize enzymes for industry, mainly for biochemists, chemists, and protein engineering teams. In AI-driven R&D, it can help scientific and chemical innovation teams iterate on enzyme candidates faster before experimental validation.
+
+**Suitable roles:** Molecular Biologist, Chemist, Data Scientist, Applied Mathematician, Software Engineer
+
 #### [LigoSocial](https://www.aimyflow.com/en/ai/ligosocial-com)
 
 LigoSocial is an AI-powered LinkedIn content and analytics tool that helps agencies, solopreneurs, teams, and managed service providers create posts and comments in their own voice, delegate work safely, and manage multiple profiles from one dashboard. For social media managers, founders, and VAs, it can streamline LinkedIn content production and engagement while preserving a consistent personal or client brand voice.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, CEO, Field Sales Manager, Content Creator
+
+#### [Lilac](https://www.aimyflow.com/en/ai/getlilac-com)
+
+Lilac is a GPU inference platform with an OpenAI-compatible API that helps developers and engineering teams run lower-cost model inference and lets GPU owners monetize idle enterprise GPU capacity. For software engineers and ML teams, it can reduce inference costs without changing existing SDK workflows, making AI deployment easier to test, scale, and budget.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, CEO
 
 #### [Lillian](https://www.aimyflow.com/en/ai/heylillian-com)
 
@@ -6024,6 +8798,12 @@ Linkly AI is a local document search engine that helps users find, filter, and r
 
 **Suitable roles:** Software Engineer, Data Scientist, Technical Writer, Financial Analyst, Lawyer
 
+#### [Linktree](https://www.aimyflow.com/en/ai/bento-me-aistote)
+
+Linktree is a link-in-bio tool that helps creators, influencers, and small businesses organize, share, sell, and track everything they publish online through one customizable link. In AI-driven social workflows, its caption generation, auto-replies, and analytics can help social media managers and creators publish faster and refine audience engagement with less manual effort.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Ecommerce Seller, Digital Marketing Director, Copywriter
+
 #### [LipSync](https://www.aimyflow.com/en/ai/lipsync-video)
 
 LipSync is an online AI lip-sync video tool that helps users sync speech or audio to a single-face video or avatar, mainly for creators making talking photos, avatars, and short character videos. For content creators and video editors, it can speed up multilingual dubbing and voice-driven character production by turning text, recorded audio, or uploaded audio into lip-synced visuals.
@@ -6042,6 +8822,12 @@ ListingCopy.ai is an AI writing tool that helps real estate professionals genera
 
 **Suitable roles:** Real Estate Agent
 
+#### [LiSTNR](https://www.aimyflow.com/en/ai/listnr-com)
+
+LiSTNR is an Australian audio streaming platform that helps listeners access live radio, original podcasts, music stations, sports coverage, and news on demand, mainly for everyday Australian audiences. In an AI-driven media landscape, it can help audio editors, producers, and content teams understand how on-demand, personalized listening supports audience retention across radio, podcast, and sports formats.
+
+**Suitable roles:** Podcast Producer, Content Creator, TV News Reporter, Social Media Content Creator, Music Lover
+
 #### [Literfy.ai](https://www.aimyflow.com/en/ai/literfy-ai)
 
 Literfy.ai is an AI literature review generator that helps researchers, graduate students, and academic analysts search papers across major databases, organize sources, and draft citation-linked literature reviews from real papers. In AI-assisted research workflows, it can help scholars and librarians reduce manual searching, outlining, and citation formatting while keeping review writing grounded in verifiable sources.
@@ -6054,11 +8840,23 @@ Littlebird is an AI desktop assistant that builds full context from what users s
 
 **Suitable roles:** CEO, Project Management Officer, Software Development Manager, Healthcare Administrator, Copywriter
 
+#### [Liva AI](https://www.aimyflow.com/en/ai/theliva-ai)
+
+Liva AI is a provider of rights-cleared human audio datasets that helps research teams build more natural voice models, mainly for AI and voice technology developers. By supplying multilingual, emotionally varied speech data, it can help machine learning, speech, and conversational AI teams improve realism and robustness in voice AI systems.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Software Development Manager, Technical Writer
+
 #### [Livedocs](https://www.aimyflow.com/en/ai/livedocs-com)
 
 Livedocs is an AI data analysis agent that helps users analyze datasets, generate SQL queries, build dashboards, and uncover insights quickly, mainly for teams working in sales, marketing, customer analytics, product, and related data functions. In AI-driven workflows, it can help analysts and operations teams move faster from raw data to decisions by automating common exploratory and reporting tasks.
 
 **Suitable roles:** Digital Marketing Director, Financial Analyst, Software Engineer
+
+#### [LiveReacting](https://www.aimyflow.com/en/ai/livereacting-com)
+
+LiveReacting is a browser-based live streaming software that helps social media managers, digital agencies, brands, and content creators create interactive, pre-recorded, and 24/7 live streams with polls, games, branding, and multistreaming. For social media and content teams, it can streamline always-on programming and use interactive formats plus AI hosting to keep audiences engaged with less manual live production.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Podcast Producer
 
 #### [LiveToka](https://www.aimyflow.com/en/ai/livetoka-com)
 
@@ -6090,6 +8888,18 @@ Loamly is an AI recommendation intelligence and monitoring platform that helps c
 
 **Suitable roles:** Digital Marketing Director, CEO, E-commerce Sales Head, Content Creator
 
+#### [Lobe](https://www.aimyflow.com/en/ai/lobe-ai)
+
+Lobe is a GitHub-hosted machine learning tool and code repository set that helps users train models, create image datasets, and bootstrap deployment projects for web, iOS, Python, and .NET, mainly for developers and technical teams. For software engineers and ML practitioners, it can shorten the path from prototype to usable application, though the desktop app is no longer under development.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Data Engineer
+
+#### [Locata](https://www.aimyflow.com/en/ai/locatahealth-com)
+
+Locata is an automated referral management system that helps primary care providers and community health centers handle referral authorizations, status tracking, patient communication, document transmission, and consult note retrieval. In AI-enabled healthcare operations, it can reduce administrative workload for care coordinators, referral teams, and clinical staff by automating repetitive referral tasks and keeping referral data current across EHR and payor workflows.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Family Doctor
+
 #### [LockedIn AI](https://www.aimyflow.com/en/ai/lockedinai-com)
 
 LockedIn AI is an AI interview and meeting copilot that provides real-time answers, coding help, feedback, and job search support for job seekers, especially people preparing for coding and professional interviews. For recruiters, hiring managers, and interview candidates, tools like this can speed interview preparation and improve response quality during technical, behavioral, and meeting-based workflows.
@@ -6102,11 +8912,23 @@ LockedIn AI Interview Copilot is a real-time interview assistant that helps job 
 
 **Suitable roles:** Talent Acquisition Manager, Software Engineer, Data Scientist, Digital Marketing Director, Financial Analyst
 
+#### [Locus](https://www.aimyflow.com/en/ai/paywithlocus-com)
+
+Locus is AI agent payment infrastructure that helps developers and teams let autonomous agents make governed USDC payments, use pay-per-use APIs, and operate under escrow, spending limits, vendor controls, and audit trails. For AI engineers and product teams, it can improve agent operations by enforcing payment policies and reducing manual oversight when agents buy tools, data, or services.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CFO, Financial Analyst, CEO
+
 #### [Logic](https://www.aimyflow.com/en/ai/logic-inc)
 
 Logic is a spec-driven agent platform that helps teams turn plain-English specifications into tested, versioned AI agents and typed production APIs, mainly for engineers and product teams shipping AI workflows. For engineering, operations, and compliance functions, it can reduce AI deployment overhead by centralizing testing, model routing, version control, and execution logging in one system.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, COO, Cybersecurity Manager
+
+#### [Logical](https://www.aimyflow.com/en/ai/logical-io)
+
+Logical is an AI copilot for macOS that understands on-screen context, extracts to-dos from emails and chats, summarizes meetings, and improves writing, mainly for knowledge workers who manage communication and tasks across apps. In AI-enabled workflows, it can help professionals like operators, managers, and writers reduce manual follow-up and context switching by turning everyday activity into actionable summaries and next steps.
+
+**Suitable roles:** Project Management Officer, COO, Technical Writer, CEO, Software Development Manager
 
 #### [Logo Animation](https://www.aimyflow.com/en/ai/logoanimation-app)
 
@@ -6120,17 +8942,41 @@ Logo Diffusion is an AI logo maker that helps users create, refine, and export l
 
 **Suitable roles:** Graphic Designer, Copywriter, Digital Marketing Director, CEO, Content Creator
 
+#### [LOGO.com](https://www.aimyflow.com/en/ai/logo-com)
+
+LOGO.com is an AI logo maker and editor that helps users generate, customize, and download business logos and related brand assets, mainly for small businesses, startups, and people without design skills. For founders, marketers, and small business teams, it can speed up early brand creation by turning basic business details into editable visual identity assets and launch-ready files.
+
+**Suitable roles:** Graphic Designer, CEO, Digital Marketing Director, Content Creator, Ecommerce Seller
+
 #### [LogoGenerator.Art](https://www.aimyflow.com/en/ai/logogenerator-art)
 
 LogoGenerator.Art is an AI logo generator that helps users create and customize professional logos quickly, mainly for founders, marketers, designers, and teams building brand identities. In AI-driven branding workflows, it can speed early concepting, stakeholder alignment, and campaign testing by producing multiple on-brand logo directions with editable styles, colors, and full rights.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, CEO, Copywriter, Content Creator
 
+#### [LogosGuard](https://www.aimyflow.com/en/ai/logosguard-com)
+
+LogosGuard is a frontier AI data security platform that acts as a private gateway between employees and external LLMs, helping organizations safely use tools like ChatGPT, Copilot, and Claude by scanning prompts and files locally to detect, redact, warn on, or block sensitive data before it leaves the network. For security, compliance, and IT teams, this kind of real-time policy enforcement and audit logging helps enable AI adoption while reducing accidental data leakage in everyday employee workflows.
+
+**Suitable roles:** Cybersecurity Manager, IT Infrastructure Manager, Cybersecurity Analyst, Healthcare Administrator, Software Development Manager
+
 #### [Lolachats](https://www.aimyflow.com/en/ai/lolachats-com)
 
 Lolachats is an AI private companion and journaling tool that helps people reflect, process thoughts, and gain self-understanding through natural conversations, mainly for individuals seeking personal guidance and emotional clarity. In an AI-first workflow, it can support coaches, counselors, and people-focused professionals by giving them a structured way to practice reflection, track patterns, and prepare for more thoughtful conversations.
 
 **Suitable roles:** Wellness Coach, School Counselor, Corporate Leadership Coach
+
+#### [LongCat-Video](https://www.aimyflow.com/en/ai/github-com-meituan-longcat-LongCat-Video)
+
+LongCat-Video is an open-source 13.6B video generation model on GitHub that helps developers and AI researchers create text-to-video, image-to-video, video continuation, long-video, and audio-driven avatar videos. For video AI engineers and research teams, its unified workflow can streamline experimentation across generation tasks while supporting longer-form outputs and higher-resolution inference.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Content Creator, Graphic Designer
+
+#### [Looka](https://www.aimyflow.com/en/ai/looka-com)
+
+Looka is an AI-powered logo and brand identity platform that helps entrepreneurs create logos, branded marketing materials, social media assets, business cards, and websites without design skills. For founders and small-business teams, it can speed up brand creation and keep visual identity consistent across customer touchpoints with less manual design work.
+
+**Suitable roles:** Graphic Designer, CEO, Digital Marketing Director, Content Creator, Ecommerce Seller
 
 #### [LookCraft](https://www.aimyflow.com/en/ai/lookcraft-io)
 
@@ -6149,6 +8995,12 @@ LooksCraft is an AI video generation platform that helps ecommerce brands, agenc
 LookSky is an AI stylist app for women that helps users discover personalized trending outfits, shop curated picks, and use virtual try-ons based on body shape, color season, lifestyle, and style preferences. For fashion shoppers and personal stylists, tools like this can speed outfit discovery and reduce guesswork by turning trend analysis and fit visualization into a more data-informed workflow.
 
 **Suitable roles:** Fashion Designer, Ecommerce Seller, Content Creator, Graphic Designer
+
+#### [Lopus](https://www.aimyflow.com/en/ai/lopus-ai)
+
+Lopus is an AI-powered GTM analytics platform that unifies sales, marketing, product, CRM, revenue, and customer data so founders and go-to-market teams can ask questions in plain English, build dashboards, and monitor performance without SQL. For revenue, marketing, and product leaders, it can speed root-cause analysis and decision-making by applying consistent metric definitions across connected data sources.
+
+**Suitable roles:** CEO, Digital Marketing Director, Financial Analyst, Data Engineer, Software Development Manager
 
 #### [LoraAI](https://www.aimyflow.com/en/ai/loraai-io)
 
@@ -6173,6 +9025,12 @@ Lorka is an all-in-one AI platform that brings multiple chat models and tools in
 Loudly is an AI music platform that helps creators, music producers, filmmakers, and multimedia teams generate, customize, remix, and distribute royalty-free music for digital projects, social media, and streaming platforms. In AI-driven creative workflows, it can help content and media professionals produce tailored music faster while keeping usage rights and customization options in one place.
 
 **Suitable roles:** Content Creator, Podcast Producer, Independent Filmmaker, Music Lover, Social Media Content Creator
+
+#### [Loula](https://www.aimyflow.com/en/ai/joinonu-com)
+
+Loula is a platform for doulas in California that helps them accept insurance by handling credentialing, eligibility checks, billing, and payment through a doula portal, mainly for independent doulas and doula groups. By reducing claims administration and payment delays, it can help doulas and agency owners spend more time on client care and practice operations instead of insurance paperwork.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, COO, Home Health Aide
 
 #### [Lovable](https://www.aimyflow.com/en/ai/lovable-dev)
 
@@ -6222,6 +9080,18 @@ LoveStudy.ai is an AI study tool that turns files, images, books, PDFs, and pres
 
 **Suitable roles:** Teacher, Online Coding Tutor, Test Prep Tutor, College Professor, Education Technology Consultant
 
+#### [LOVO](https://www.aimyflow.com/en/ai/lovo-ai)
+
+LOVO is an AI voice generator and text-to-speech platform with online video editing, voice cloning, subtitles, and script writing tools that helps creators, marketers, educators, and production teams make voiceover-led videos and audio content in many languages. For video producers, instructional designers, and social media teams, it can streamline multilingual content creation by combining synthetic voice, editing, and localization tasks in one workflow.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Technical Writer, Online Coding Tutor
+
+#### [LTX](https://www.aimyflow.com/en/ai/ltx-studio)
+
+LTX is a web-based AI video production studio that helps creative teams, marketers, filmmakers, and advertisers turn scripts, concepts, images, and videos into storyboards, visual assets, and production-ready videos. For video producers, creative directors, and in-house studio teams, it can shorten ideation and pre-production by combining generation, shot control, consistency tools, and collaboration in one workflow.
+
+**Suitable roles:** Content Creator, Copywriter, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director
+
 #### [LTX Model](https://www.aimyflow.com/en/ai/ltx-video)
 
 LTX Model is a multimodal video generation model that helps developers, product teams, studios, and enterprises generate, animate, and edit production-grade video from text, image, audio, and video inputs via API, open weights, or local deployment. For video product teams and production professionals, this can improve workflow control and deployment flexibility as AI video moves from experimentation into embedded, scalable production systems.
@@ -6234,11 +9104,23 @@ Lucid is an AI discovery monitoring and GEO analytics tool that helps brands che
 
 **Suitable roles:** Digital Marketing Director, CEO, Content Creator
 
+#### [Lucidic AI](https://www.aimyflow.com/en/ai/lucidic-ai)
+
+Lucidic AI is a training and optimization platform for enterprise teams building AI agents, helping them parameterize agent components, run simulations, and improve reliability, accuracy, and deployment safety without tuning model weights. For AI engineers, ML teams, and product teams, this supports a more measurable workflow by replacing manual prompt-and-configuration trial and error with systematic evaluation and controlled optimization.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Project Management Officer, IT Infrastructure Manager
+
 #### [Lucy Edit AI](https://www.aimyflow.com/en/ai/lucyedit-co)
 
 Lucy Edit AI is an online AI video editor that uses text prompts to change outfits, accessories, characters, backgrounds, and styles in uploaded videos, mainly for content creators and professional video editors. For creative teams and editors, it can reduce manual masking and repetitive frame-by-frame adjustments when producing consistent visual variations from the same footage.
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Copywriter, Digital Marketing Director
+
+#### [Ludo.ai](https://www.aimyflow.com/en/ai/ludo-ai)
+
+Ludo.ai is an AI platform for game research, design, and prototyping that helps game developers generate concepts, assets, playable prototypes, and market analysis in one place. For game designers, indie developers, and studio teams, it can speed early-stage development by combining creative generation with trend and competitive research in a single workflow.
+
+**Suitable roles:** Software Engineer, Graphic Designer, Data Scientist, Software Development Manager, Independent Filmmaker
 
 #### [Lull](https://www.aimyflow.com/en/ai/lullme-app)
 
@@ -6262,11 +9144,53 @@ Luma AI Video Generator is a free online AI video tool powered by Dream Machine 
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Podcast Producer, Graphic Designer
 
+#### [Lumen5](https://www.aimyflow.com/en/ai/lumen5-com)
+
+Lumen5 is an AI video creation platform that turns blogs, articles, documents, and ideas into branded videos with drag-and-drop editing, mainly for marketers, communications teams, publishers, and educators. For marketing and internal communications professionals, it can speed up repurposing written content into consistent video assets while reducing the need for advanced video production skills.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Education Technology Consultant, Teacher
+
+#### [Lumiduna](https://www.aimyflow.com/en/ai/lumiduna-app)
+
+Lumiduna is an AI chat companion for reflection that helps teens and young adults talk through everyday thoughts and feelings in a calm, judgment-free space with privacy safeguards and crisis resources. For youth wellbeing and support roles, it can give young people an always-available outlet for self-awareness between conversations with trusted adults or professionals.
+
+**Suitable roles:** School Counselor, Wellness Coach, Healthcare Administrator, Nonprofit Program Manager, Teacher
+
+#### [Luminal](https://www.aimyflow.com/en/ai/getluminal-com)
+
+Luminal is an AI spreadsheet copilot that helps users clean, transform, analyze, and visualize spreadsheet data with natural-language prompts, mainly for people who work regularly with large or messy datasets. For analysts, operations teams, and spreadsheet-heavy knowledge workers, it can reduce manual formula work and speed up data preparation and question answering across large files.
+
+**Suitable roles:** Financial Analyst, Logistics Operations Planner, Project Management Officer
+
+#### [Luminal](https://www.aimyflow.com/en/ai/luminal-com)
+
+Luminal is an AI inference compiler and inference operating system that compiles and optimizes AI models for GPUs and ASICs, helping machine learning and infrastructure teams run inference with higher throughput and lower overhead across cloud, on-prem, and clustered environments. For AI engineers and platform teams, a compiler-first approach can improve model serving efficiency by reducing runtime bottlenecks and enabling better scheduling across heterogeneous compute.
+
+**Suitable roles:** Software Engineer, IT Infrastructure Manager, Software Development Manager, Data Engineer, COO
+
+#### [LuminixAI](https://www.aimyflow.com/en/ai/useluminix-com)
+
+LuminixAI is an AI deep research agent that helps users investigate complex business questions through parallel research paths, source-backed synthesis, and exportable reports, mainly for product, strategy, market research, and competitive intelligence professionals. In AI-assisted strategy work, it can help analysts, strategists, and decision-makers reach faster, better-documented conclusions while keeping control over the research direction.
+
+**Suitable roles:** Financial Analyst, CEO, Digital Marketing Director, Project Management Officer, Software Development Manager
+
+#### [LunaBill](https://www.aimyflow.com/en/ai/lunabill-com)
+
+LunaBill is an AI voice agent platform that automates medical billing and accounts receivable calls, helping healthcare billing teams and practices check claim status, recover A/R, and follow up on appeals. For revenue cycle and medical billing staff, it can reduce manual insurer phone work by navigating IVRs, gathering denial details, and supporting faster claim reprocessing and escalation.
+
+**Suitable roles:** Medical Biller, Healthcare Administrator
+
 #### [Lunacal](https://www.aimyflow.com/en/ai/lunacal-ai)
 
 Lunacal is a scheduling and appointment booking platform that helps consultants, service providers, and teams manage calendar syncing, reminders, and personalized booking pages. In the AI era, it improves conversion from scheduling touchpoints by combining automation with more context-rich client booking experiences.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Digital Marketing Director, Corporate Leadership Coach +14 more
+
+#### [Lunit](https://www.aimyflow.com/en/ai/lunit-io)
+
+Lunit is a medical AI software company focused on early cancer detection, precision oncology, and AI radiology tools for healthcare providers involved in screening, diagnosis, and treatment planning. In clinical workflows, this kind of AI can help radiologists and oncology teams prioritize findings, support more consistent image interpretation, and inform more targeted cancer care decisions.
+
+**Suitable roles:** Healthcare Administrator, Radiologic Technologist, Cardiologist, Medical Lab Technician, Family Doctor
 
 #### [LustGF](https://www.aimyflow.com/en/ai/lustgf-com)
 
@@ -6322,6 +9246,12 @@ Lyrics Into Song AI is an AI music generator that turns written lyrics into comp
 
 **Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Copywriter
 
+#### [LyricsGenerator.io](https://www.aimyflow.com/en/ai/lyricsgenerator-io-lyrics-to-song)
+
+LyricsGenerator.io is an AI lyrics-to-song generator that turns written lyrics into complete songs with melody, vocals, instruments, and optional instrumental tracks, mainly for content creators, musicians, and audio producers. For video, podcast, and marketing teams, it can speed up custom music creation and reduce dependence on stock audio by generating tracks tailored to specific messages, moods, or formats.
+
+**Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Copywriter, Music Lover
+
 #### [Lyrio](https://www.aimyflow.com/en/ai/lyrio-ai)
 
 Lyrio is a personal AI assistant that helps users stay organized with threaded conversations, folders, pinned messages, response customization, and a choice of language models, mainly for people managing research, writing, study, or work tasks across multiple topics. For knowledge workers, marketers, researchers, and students, its structured chat workflow can reduce context switching and make AI outputs easier to review, refine, and reuse.
@@ -6339,6 +9269,12 @@ Lyzr is an enterprise AI agent platform that helps organizations build, deploy, 
 M1-Project’s AI ICP Generator is a customer profiling tool that helps marketers, agencies, and sales teams define ideal customer profiles, buyer motivations, pain points, and outreach channels in minutes. In AI-driven marketing and sales workflows, it can reduce manual audience research and give teams more structured inputs for targeting, messaging, and campaign planning.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Copywriter, Content Creator
+
+#### [Macabacus AI Solutions Add-In](https://www.aimyflow.com/en/ai/macabacus-com-solutions-ai)
+
+Macabacus AI Solutions Add-In is AI software for Excel, PowerPoint, and Word that helps users write faster, stay on brand, and replace hardcoded values with formulas inside Microsoft 365, mainly for finance and professional services teams. In AI-assisted document and model workflows, it can help analysts, consultants, and presentation-heavy teams improve consistency and reduce manual editing across spreadsheets, slides, and written content.
+
+**Suitable roles:** Financial Analyst, Copywriter, Project Management Officer, CEO
 
 #### [Macaly](https://www.aimyflow.com/en/ai/macaly-com)
 
@@ -6358,6 +9294,12 @@ Maced AI is an autonomous AI penetration testing platform that helps engineering
 
 **Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Software Engineer, IT Infrastructure Manager, Software Development Manager
 
+#### [Machine Learning Mastery](https://www.aimyflow.com/en/ai/machinelearningmastery-com-start-here)
+
+Machine Learning Mastery is a learning resource that helps developers get started and improve at applied machine learning through step-by-step guides, tutorials, and topic-based learning paths. For developers, data scientists, and machine learning engineers, this kind of structured guidance can speed practical model-building skills and support more reliable AI workflow decisions.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer, Online Coding Tutor, Education Technology Consultant
+
 #### [Macrohard, or Digital Optimus,](https://www.aimyflow.com/en/ai/x-com-elonmusk-status-2031751255060885911)
 
 Macrohard, or Digital Optimus, is described by Elon Musk as a joint xAI-Tesla AI system that uses Grok to direct real-time screen, keyboard, and mouse actions, aimed at automating digital work for company-scale operations. For operations, workflow, and automation teams, this points to AI agents that can coordinate fast execution with higher-level reasoning across business processes.
@@ -6370,11 +9312,29 @@ Magai is an all-in-one AI workspace that helps professionals, creators, freelanc
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Technical Writer, Software Development Manager, Project Management Officer
 
+#### [Mage](https://www.aimyflow.com/en/ai/mage-space)
+
+Mage is a browser-based AI image and video generator that helps users create, edit, and enhance visual content with models like Stable Diffusion, Flux, Wan, and ControlNet, mainly for creators producing AI art, animation, and media assets. For designers, illustrators, and content teams, it can speed concept development and reusable character workflows by turning text and reference media into consistent images and short videos.
+
+**Suitable roles:** Graphic Designer, Content Creator, Social Media Content Creator, Independent Filmmaker, Copywriter
+
 #### [Magia Trade](https://www.aimyflow.com/en/ai/magiatrade-com)
 
 Magia Trade is an AI trading analysis platform that helps traders analyze stocks and crypto with real-time chart interpretation, news sentiment, and customizable AI agents that deliver market insights. For traders and market analysts, this can speed research by turning live market data and chart images into structured analysis with risk levels and suggested trade parameters.
 
 **Suitable roles:** Financial Analyst, Investment Portfolio Manager, Risk Analyst, CEO
+
+#### [Magic AI Avatars](https://www.aimyflow.com/en/ai/magicaiavatars-com)
+
+Magic AI Avatars is a free AI avatar generator that turns uploaded close-up photos into 200+ custom profile pictures and digital avatars, mainly for people who want personalized online identities for social media, virtual worlds, or online communities. For creators, marketers, and community managers, AI-generated avatars can speed up profile image production while keeping personal branding and digital representation more consistent across channels.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Graphic Designer, Content Creator
+
+#### [Magic Hour AI Face Swap](https://www.aimyflow.com/en/ai/magichour-ai-products-face-swap)
+
+Magic Hour AI Face Swap is an online AI face-swapping tool that lets users replace faces in photos, videos, and GIFs quickly, mainly for creators, marketers, and teams producing visual content. In AI-driven content workflows, it can help social media, creative, and marketing professionals generate fast variants and edits with less manual retouching or reshooting.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Copywriter, Graphic Designer, Content Creator
 
 #### [Magic Vizion](https://www.aimyflow.com/en/ai/chromewebstore-google-com-detail-columnsai-hfgfkpoildikklbmjnkedmapiopeacga)
 
@@ -6393,6 +9353,18 @@ MagicBlocks is an AI sales agent platform that scans a company website to build 
 MagicEraser Background People Remover is a free online AI photo editing tool that automatically removes unwanted people from images in one click, mainly for travelers, photographers, content creators, and online sellers who need cleaner visuals. In AI-assisted photo workflows, it can help photography, marketing, and e-commerce roles reduce manual retouching time when preparing images for publishing or product presentation.
 
 **Suitable roles:** Content Creator, Ecommerce Seller, Graphic Designer, Social Media Content Creator, Copywriter
+
+#### [MagicForm](https://www.aimyflow.com/en/ai/magicform-app)
+
+MagicForm is an AI quiz generator and Google Forms add-on that helps teachers, students, HR teams, and other professionals create quizzes from text, topics, PDFs, URLs, YouTube videos, and images. By turning existing content into assessments quickly, it can help educators, trainers, and content teams spend less time writing questions and more time on instruction, compliance, or course development.
+
+**Suitable roles:** Teacher, Education Technology Consultant, School Counselor, Talent Acquisition Manager, Corporate Leadership Coach
+
+#### [MagicForm AI](https://www.aimyflow.com/en/ai/magicform-ai)
+
+MagicForm AI is an AI website agent that helps businesses qualify leads, answer support questions, book appointments, and follow up automatically, mainly for solopreneurs, small businesses, companies, and agencies. For sales, support, and marketing teams, it can reduce response delays and capture more top-of-funnel demand by handling visitor conversations around the clock.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, Project Management Officer, CEO, Content Creator
 
 #### [Magiclight.AI](https://www.aimyflow.com/en/ai/magiclight-ai-signup)
 
@@ -6418,6 +9390,12 @@ Magnific AI is an AI image upscaler, enhancer, transformer, and generator that h
 
 **Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Interior Designer, Ecommerce Seller
 
+#### [Magnitude](https://www.aimyflow.com/en/ai/magnitude-dev)
+
+Magnitude is an open-source, subagent-native coding agent that helps developers coordinate specialized agents for code research, planning, implementation, review, debugging, and browser-based UI verification. For software engineers and engineering teams, its parallel, resumable subagent workflow can improve how coding, code review, and debugging tasks are delegated and completed.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
 #### [Mailmodo](https://www.aimyflow.com/en/ai/mailmodo-com)
 
 Mailmodo is an AI email marketing platform that helps users create emails, build audience segments, automate customer journeys, analyze campaigns, and add interactive AMP content, mainly for marketers and teams running permission-based email programs. For email marketers and lifecycle teams, its AI-generated strategies, templates, and reporting can reduce manual campaign setup and speed optimization decisions.
@@ -6429,6 +9407,12 @@ Mailmodo is an AI email marketing platform that helps users create emails, build
 Mailteorite is an AI email template generator that helps users create tailored templates such as SaaS promotional emails, flash sale announcements, newsletters, welcome emails, and event invitations, mainly for marketers and business teams. In AI-supported email workflows, it can help marketing and customer communication roles draft campaign-ready messages faster while keeping common outreach formats consistent.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, Content Creator, Ecommerce Seller
+
+#### [Maive](https://www.aimyflow.com/en/ai/maive-ai)
+
+Maive is an AI workforce platform for enterprise roofing companies that reviews estimates, compares sold work against what was promised, and flags revenue leaks and customer experience issues within existing CRM workflows. For roofing operations, sales, and branch leaders, this kind of AI can help standardize estimating decisions, reduce rep errors, and surface branch-level performance issues earlier.
+
+**Suitable roles:** Branch Office Manager, Field Sales Manager, Factory Operations Supervisor, COO, Project Management Officer
 
 #### [MakeBestMusic](https://www.aimyflow.com/en/ai/makebestmusic-com)
 
@@ -6465,6 +9449,18 @@ MangaMaker is a web-based AI manga and comic creator that helps users generate f
 Mango AI is an AI-powered video and image creation platform from Mango Animate that helps marketers, educators, content creators, and businesses turn text and photos into videos, talking avatars, translated clips, face swaps, enhanced media, and other visual content online. For creative, marketing, and training teams, it can speed up production of localized explainers, ads, and social content while reducing manual editing work.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Education Technology Consultant, Corporate Leadership Coach
+
+#### [MangoDesk](https://www.aimyflow.com/en/ai/mangodesk-com)
+
+MangoDesk is a platform for accelerating custom evaluations and post-training data creation, helping teams evaluate and improve AI on meaningful use cases through production-grade RL environments, mainly for AI researchers, engineers, and operators. For model development teams, this can make it easier to generate targeted training data and run realistic evaluations that support measurable model improvement on knowledge work tasks.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Data Engineer, IT Infrastructure Manager
+
+#### [Manicule](https://www.aimyflow.com/en/ai/manicule-dev)
+
+Manicule is an AI-native technical documentation studio that writes, restructures, and maintains docs for developer tools, mainly for teams that need clearer, tested documentation as their products evolve. By combining agent-led auditing and code verification with human-led architecture and writing, it helps developer relations, product, and engineering teams keep documentation accurate, usable, and aligned with how developers actually adopt APIs and SDKs.
+
+**Suitable roles:** Technical Writer, Software Development Manager, Software Engineer, Copywriter, Education Technology Consultant
 
 #### [Manifest](https://www.aimyflow.com/en/ai/manifest-build)
 
@@ -6532,6 +9528,12 @@ MarkInMinutes is an AI-powered grading platform that helps educators in secondar
 
 **Suitable roles:** College Professor, Teacher, Community College Instructor, Education Technology Consultant, Test Prep Tutor
 
+#### [MarkIt](https://www.aimyflow.com/en/ai/markittrade-com)
+
+MarkIt is an AI-powered global trade compliance platform that automates HS code classification, audit records, and governance workflows for enterprise legal, logistics, and compliance teams. For customs, legal, and operations professionals, it can reduce manual classification work and improve audit readiness by centralizing decisions and compliance data in real time.
+
+**Suitable roles:** Logistics Operations Planner, COO, Project Management Officer, Risk Analyst, Corporate Tax Manager
+
 #### [MascotVibe](https://www.aimyflow.com/en/ai/mascotvibe-com)
 
 MascotVibe is an AI mascot generator that helps app, game, and brand teams create and animate mascots from an image, website URL, or text prompt, then export them in formats like WebM, APNG, MP4, MOV, and spritesheets. For app developers, designers, and creative teams, it can speed up character asset production and make it easier to add platform-ready animated branding into products and marketing materials.
@@ -6550,11 +9552,23 @@ Masonry is an AI content creation platform that lets users generate and edit ima
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter
 
+#### [Masterpiece Studio](https://www.aimyflow.com/en/ai/masterpiecestudio-com)
+
+Masterpiece Studio is a generative AI 3D creation suite that helps users generate, edit, share, and use 3D content, mainly for indie creators and other people making 3D assets. For 3D artists, designers, and creative teams, AI-driven generation and editing can reduce manual modeling time and speed concept iteration and content deployment.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Content Creator, Independent Filmmaker, Software Engineer
+
 #### [MatchMyType](https://www.aimyflow.com/en/ai/matchmytype-org)
 
 MatchMyType is a free personality compatibility tool that analyzes pairings across the 16 MBTI types, plus factors like zodiac, blood type, identity, and gender, to help people explore relationship fit in love, work, and friendship. For people-focused roles such as managers, recruiters, and team leads, AI-supported compatibility summaries can offer a structured starting point for improving communication and collaboration.
 
 **Suitable roles:** Talent Acquisition Manager, Corporate Leadership Coach, Employee Relations Manager, School Counselor, Wellness Coach
+
+#### [Matforge](https://www.aimyflow.com/en/ai/matforge-ai)
+
+Matforge is an AI material discovery platform that builds AI scientists to help semiconductor companies, especially datacenters and fabs, find new materials faster for nanoscale electronics applications. For materials scientists and semiconductor R&D teams, this can shorten early-stage discovery cycles by using agent-based AI to evaluate more candidate materials in less time.
+
+**Suitable roles:** Chemist, Data Scientist, Electrical Engineer, Software Engineer, CEO
 
 #### [MathAI GPT](https://www.aimyflow.com/en/ai/mathaigpt-com)
 
@@ -6598,11 +9612,23 @@ MCPTotal is a secure MCP cloud platform that helps teams deploy, manage, and con
 
 **Suitable roles:** Cybersecurity Manager, IT Infrastructure Manager, Software Development Manager, Cybersecurity Analyst, Software Engineer
 
+#### [Mecha Health](https://www.aimyflow.com/en/ai/mecha-health-ai)
+
+Mecha Health is an AI radiology platform that uses foundation models to analyze medical scans and generate complete, editable clinical reports in seconds for radiology practices and healthcare systems. For radiologists and clinical IT teams, it can reduce reporting time and standardize draft reporting workflows while keeping human review and governance in place.
+
+**Suitable roles:** IT Infrastructure Manager, Healthcare Administrator, Radiologic Technologist, Project Management Officer, Medical Lab Technician
+
 #### [Media.io AI Generator](https://www.aimyflow.com/en/ai/media-io-apps-ai-video-generator-explore)
 
 Media.io AI Generator is an online creative platform with AI tools for generating and editing videos, images, and audio, aimed mainly at creators, marketers, and design-focused users who need text-to-video, image-to-video, photo editing, music, and effects workflows in one place. In AI-assisted content production, it can help video editors, social media teams, and creative professionals produce more variations, maintain character consistency, and speed up asset creation.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Graphic Designer, Copywriter
+
+#### [MeeBoss](https://www.aimyflow.com/en/ai/meeboss-com-job-seeker-home)
+
+MeeBoss is a job search platform and mobile app that helps job seekers discover matching openings and chat directly with hiring managers, especially people who want a faster, conversation-based hiring process. For candidates and recruiters, direct messaging can shorten screening cycles and improve fit assessment by making early communication more immediate and specific.
+
+**Suitable roles:** Talent Acquisition Manager, CEO, COO
 
 #### [Meet Zero](https://www.aimyflow.com/en/ai/meet-zero-co)
 
@@ -6619,6 +9645,12 @@ Meeting Backgrounds is an AI-powered virtual background tool that helps people c
 Mega is an AI marketing platform with SEO and GEO, paid ads, and website agents that help businesses manage strategy, execution, and reporting, mainly for companies that want an alternative to traditional marketing agencies. In an AI-driven workflow, it can help marketing teams and business operators centralize research, campaign management, and performance tracking with human oversight.
 
 **Suitable roles:** Digital Marketing Director, CEO, COO, Content Creator, Ecommerce Seller
+
+#### [Meitu Design Studio](https://www.aimyflow.com/en/ai/design-meitu-com)
+
+Meitu Design Studio is a free online AI design platform that helps e-commerce sellers and marketing teams create product images, posters, background-removed visuals, and template-based assets without advanced design skills. For e-commerce operators, designers, and marketers, its AI workflows can speed up the production of product listings, campaign creatives, and cross-border marketplace visuals.
+
+**Suitable roles:** Ecommerce Seller, Digital Marketing Director, Graphic Designer, Content Creator, E-commerce Sales Head
 
 #### [Melo](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-melo-ai-song-generator-id6742782430)
 
@@ -6637,6 +9669,12 @@ MeloCool Music’s Lyrics to Song AI is an AI song generator that turns lyrics o
 Melodusk is an AI music generator that helps users create original songs, instrumentals, vocals, and stem splits from text prompts, mainly for content creators, musicians, and video, podcast, or game production teams. In AI-driven creative workflows, it can speed up soundtrack drafting and audio experimentation for editors, marketers, and developers who need custom music without traditional production skills.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Digital Marketing Director, Independent Filmmaker
+
+#### [Mem](https://www.aimyflow.com/en/ai/get-mem-ai)
+
+Mem is an AI-powered notes app that helps users capture, organize, recall, and chat with their notes, meetings, research, and web content, mainly for knowledge workers who need one place for information. For roles like founders, researchers, and meeting-heavy teams, it can reduce manual note management and make saved context easier to retrieve and use for drafting and decision-making.
+
+**Suitable roles:** CEO, Project Management Officer, Technical Writer, Software Engineer, Financial Analyst
 
 #### [Memdex](https://www.aimyflow.com/en/ai/memdex-ai)
 
@@ -6668,6 +9706,24 @@ MemSync is a Chrome extension that creates a unified memory vault across AI apps
 
 **Suitable roles:** Software Engineer, Data Scientist, Financial Analyst, CEO, Digital Marketing Director
 
+#### [Menten AI](https://www.aimyflow.com/en/ai/menten-ai)
+
+Menten AI is a generative AI platform for peptide macrocycle drug design that helps teams design and optimize peptides for complex targets, mainly for pharmaceutical and drug discovery researchers. For medicinal chemists and computational biology teams, it can speed preclinical candidate discovery by combining generative models with physics-based and quantum simulations.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Chemist, Software Engineer
+
+#### [Mentioned](https://www.aimyflow.com/en/ai/mentioned-ai)
+
+Mentioned is an email outreach tool for blogs that scans published posts for people and companies you mention, finds contact details, and automates outreach campaigns, mainly for bloggers, marketers, and content teams. In AI-assisted content workflows, it helps content marketers and SEO professionals turn mentions into structured relationship-building and link-building follow-up with less manual prospecting and emailing.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, Social Media Content Creator
+
+#### [Mentra](https://www.aimyflow.com/en/ai/mentra-glass)
+
+Mentra is an open-source smart glasses platform with an app store, SDK, camera, audio, and AI features that helps developers and organizations build and deploy hands-free apps for real-world tasks. In AI-enabled field work, it can help technicians, inspectors, and other mobile professionals capture visual context, voice notes, and reports without stopping to use a phone or laptop.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Logistics Operations Planner, IT Infrastructure Manager
+
 #### [Menu Explain](https://www.aimyflow.com/en/ai/menuexplain-com)
 
 Menu Explain is an AI menu translation and visualization app that lets users photograph restaurant menus in over 30 languages to get translated dish descriptions, ingredient explanations, and images, mainly for travelers and food enthusiasts. For travel and hospitality use cases, it helps people make faster, more informed ordering decisions by adding dish-level context that basic text translation often misses.
@@ -6679,6 +9735,18 @@ Menu Explain is an AI menu translation and visualization app that lets users pho
 MenuPhotoAI is an AI food photography tool that turns restaurant phone photos into menu-ready images with improved lighting, backgrounds, and styling in about 30 seconds, mainly for restaurant owners and food businesses. For restaurant marketers and operators, it can speed up producing consistent visuals for delivery apps, websites, and social channels without arranging repeated photo shoots.
 
 **Suitable roles:** Restaurant General Manager, Digital Marketing Director, Content Creator, Food Enthusiast, Graphic Designer
+
+#### [Menza](https://www.aimyflow.com/en/ai/menza-ai)
+
+Menza is an AI data team for fast-growing brands that connects scattered business data, builds reports automatically, answers questions in plain English, and surfaces issues like inventory or revenue leaks for founders and operators. For ecommerce, growth, and operations teams, it can speed decision-making by replacing manual dashboard prep with continuous monitoring and clearer insight from many data sources.
+
+**Suitable roles:** Ecommerce Seller, Digital Marketing Director, COO
+
+#### [Mercer](https://www.aimyflow.com/en/ai/ca-la)
+
+Mercer is an AI-powered fashion product design and collaboration platform that helps fashion professionals manage concepting, asset organization, team feedback, and production workflows from early ideas through production. For designers, product developers, and fashion teams, it can reduce manual coordination and speed iteration by keeping brand-specific AI design work, technical comments, and task tracking in one place.
+
+**Suitable roles:** Fashion Designer, Project Management Officer, Graphic Designer, Software Development Manager
 
 #### [Merchant Floor Background Remover](https://www.aimyflow.com/en/ai/merchantfloor-com-remove-background)
 
@@ -6728,6 +9796,12 @@ Mermaid Viewer is a browser-based editor for creating, previewing, sharing, and 
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Commercial Architect, Project Management Officer
 
+#### [Mesh](https://www.aimyflow.com/en/ai/usemesh-com)
+
+Mesh is an accrual automation tool that helps mid-to-enterprise finance teams replace manual spreadsheets by aggregating procurement, invoice, contract, and messaging data to calculate accruals and prepaids with auditable rules. For accountants and controllers, this AI-driven approach can reduce month-end reconciliation work by surfacing exceptions and preserving the logic and evidence behind each estimate.
+
+**Suitable roles:** Certified Public Accountant, CFO, Financial Planning & Analysis Manager, Financial Analyst
+
 #### [Meta AI Studio](https://www.aimyflow.com/en/ai/ai-meta-com-ai-studio)
 
 Meta AI Studio is a tool for creating custom conversational AI characters and creator AIs that chat on Messenger, Instagram, and WhatsApp, mainly for consumers and creators who want to build interest-based assistants or AI extensions of themselves. For creators and social media managers, it can streamline audience engagement by handling routine conversations in their voice while keeping visibility and control over responses.
@@ -6746,6 +9820,12 @@ metastory is an AI product management tool that helps product managers, agencies
 
 **Suitable roles:** Software Development Manager, Project Management Officer, Software Engineer, COO, CEO
 
+#### [Meteor](https://www.aimyflow.com/en/ai/browse-dev)
+
+Meteor is an AI browser for Mac that helps users browse, chat on any tab, block ads, and connect apps with a built-in browser agent, mainly for sales teams. For sales and other knowledge workers, an agentic browser can reduce manual tab switching and copy-pasting while helping complete web-based tasks more efficiently.
+
+**Suitable roles:** Field Sales Manager, Talent Acquisition Manager, Digital Marketing Director, Project Management Officer, Software Engineer
+
 #### [MIAPI](https://www.aimyflow.com/en/ai/miapi-uk)
 
 MIAPI is a grounded AI answers API that helps developers add real-time web-search-based responses with inline citations, sources, streaming, and OpenAI-compatible chat endpoints to their applications. For software engineers and AI teams building RAG, assistants, or search workflows, it can improve reliability by returning verifiable answers and raw search results that are easier to audit and route into production systems.
@@ -6758,17 +9838,33 @@ AI video generation powered by the world's best ai video models. Create cinemati
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter, Graphic Designer
 
+#### [Microsoft AI](https://www.aimyflow.com/en/ai/microsoft-com-en-us-ai)
+
+Microsoft AI is a portfolio of AI tools, solutions, and guidance that helps organizations bring generative AI into business processes responsibly and at scale, mainly for business leaders, IT teams, and enterprise decision-makers. For professionals managing operations, data, security, or transformation, it can support better workflow automation, governance, and decision-making by embedding AI into everyday work.
+
+**Suitable roles:** IT Infrastructure Manager, COO, Cybersecurity Manager, Data Engineer, Project Management Officer
+
 #### [MiDash](https://www.aimyflow.com/en/ai/midash-ai)
 
 MiDash is a beta AI investment platform for retail and institutional traders that uses natural language to help them analyze markets, build and backtest strategies, monitor risk, and route trade execution through connected brokers. For traders, portfolio managers, and multi-desk teams, it can reduce manual platform switching by turning research, strategy design, and risk controls into one conversational workflow.
 
 **Suitable roles:** Investment Portfolio Manager, Risk Analyst, Financial Analyst, CFO
 
+#### [Middle Name Generator](https://www.aimyflow.com/en/ai/middlenamegenerator-net)
+
+Middle Name Generator is an AI baby-naming tool that helps parents create middle name options by matching first and last names with preferences such as syllable flow, cultural heritage, meaning, and family traditions. For parents and family decision-makers, it can speed up name shortlisting while using AI to surface balanced combinations that may be easier to compare and discuss.
+
 #### [Midjourney](https://www.aimyflow.com/en/ai/midjourney-com)
 
 Midjourney is a community-funded research lab that builds AI image and video models, helping people explore creative ideas and new visual mediums, mainly for artists, designers, and other creative professionals. As AI-generated visuals become part of everyday workflows, tools like Midjourney can help creative teams prototype concepts and communicate ideas faster.
 
 **Suitable roles:** Graphic Designer, Industrial Designer, Interior Designer, Content Creator, Copywriter
+
+#### [Midjourney Prompt Generator](https://www.aimyflow.com/en/ai/howtoleverageai-com-midjourney-prompt-generator)
+
+Midjourney Prompt Generator is a web-based prompt tool from How to Leverage AI that helps users generate 10 unique AI art style combinations in one click for Midjourney, mainly for people creating AI artwork. For designers, illustrators, and self-publishing creators, it can speed up style exploration and prompt drafting when producing visual concepts and book-related artwork.
+
+**Suitable roles:** Graphic Designer, Content Creator, Copywriter, Independent Filmmaker, Fashion Designer
 
 #### [Millis AI](https://www.aimyflow.com/en/ai/millis-ai)
 
@@ -6782,11 +9878,23 @@ Mimir is an AI workspace that turns scattered product research, feedback, and da
 
 **Suitable roles:** Project Management Officer, Software Development Manager, Customer Success Manager
 
+#### [Mimos](https://www.aimyflow.com/en/ai/trymimos-com)
+
+Mimos is an AI growth platform for plaintiff law firms that combines competitive intelligence, Google and ChatGPT ads, AI search visibility, and intake triage to help firms attract and qualify the right legal cases faster. For legal marketing and intake teams, it supports AI-era client acquisition by connecting ad performance, answer-engine visibility, and lead routing in one workflow.
+
+**Suitable roles:** Lawyer, Digital Marketing Director, Content Creator, CEO
+
 #### [Mind Map Wizard](https://www.aimyflow.com/en/ai/mindmapwizard-com)
 
 Mind Map Wizard is an AI mind mapping tool that helps users generate, edit, and export visual mind maps from a topic, URL, or PDF, mainly for students, teachers, researchers, and anyone organizing information quickly. In AI-assisted study, research, and planning workflows, it can help these users turn large documents or broad topics into structured outlines faster for review and collaboration.
 
 **Suitable roles:** Teacher, College Professor, Technical Writer, Content Creator, Financial Analyst
+
+#### [Mindgrasp](https://www.aimyflow.com/en/ai/mindgrasp-ai)
+
+Mindgrasp is an AI learning assistant that turns lectures, readings, links, and uploaded files into notes, summaries, flashcards, quizzes, and on-demand tutoring, mainly for students and other learners, with support for educators and professionals. For students, educators, and knowledge workers, it can reduce time spent creating study materials manually and support more structured review and question-driven learning.
+
+**Suitable roles:** Teacher, College Professor, Community College Instructor, Online Coding Tutor, Education Technology Consultant
 
 #### [Mindly](https://www.aimyflow.com/en/ai/mindly-ai-com)
 
@@ -6823,6 +9931,12 @@ Miniloop is an AI workflow and agent platform that connects business apps so sta
 MiniMax Agent is an AI work assistant that helps users handle simple and complex productivity tasks such as research, scheduling, website work, coding, and office document editing, aimed mainly at professionals and knowledge workers. For engineers, analysts, and office teams, its agent-based task execution can reduce manual coordination across research, documents, and technical workflows.
 
 **Suitable roles:** Software Engineer, Financial Analyst, Project Management Officer, Technical Writer, Data Scientist
+
+#### [Mintlify](https://www.aimyflow.com/en/ai/mintlify-com)
+
+Mintlify is an AI-native documentation and knowledge platform that helps teams create, maintain, and deliver developer documentation, knowledge bases, and help centers for fast-moving teams and enterprises. For developer relations, technical writing, and support teams, its AI-focused features can improve content accuracy, discoverability, and self-service by making documentation easier for both users and LLMs to understand.
+
+**Suitable roles:** Technical Writer, Software Engineer, Software Development Manager, Education Technology Consultant, IT Infrastructure Manager
 
 #### [Mintly](https://www.aimyflow.com/en/ai/usemintly-com)
 
@@ -6866,6 +9980,18 @@ Mistral AI Studio is an AI production platform that helps AI builders and enterp
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, Data Engineer
 
+#### [Mixboard](https://www.aimyflow.com/en/ai/labs-google-com-mixboard-welcome)
+
+Mixboard is an AI-powered concepting board from Google Labs that helps users explore, expand, and refine ideas, mainly for people doing early-stage creative or idea development work. In AI-assisted concepting, it can help creative and strategy-focused professionals iterate on possibilities faster and organize emerging directions more clearly.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, Project Management Officer, CEO
+
+#### [MixHub AI](https://www.aimyflow.com/en/ai/mixhubai-com)
+
+MixHub AI is a web-based all-in-one platform for AI chat, image generation, and video generation that helps creators and other users work across multiple text, image, and video models from one place. For marketers, designers, and content teams, consolidating these AI workflows in one interface can speed experimentation and reduce tool switching when producing visual and written assets.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Social Media Content Creator, Copywriter
+
 #### [Mixo](https://www.aimyflow.com/en/ai/mixo-io)
 
 Mixo is an AI website builder that helps small businesses, especially local service and professional service firms, create branded websites quickly with forms, SEO basics, and lead capture tools without coding. For owners and marketers, its AI-ready pages and enquiry workflows can speed online launch and improve how they attract, capture, and manage customer leads.
@@ -6877,6 +10003,18 @@ Mixo is an AI website builder that helps small businesses, especially local serv
 mixus is a platform for building and deploying legal AI agents that help attorneys automate email-based legal tasks such as document drafting, redlining, and data extraction with firm-level oversight and approval before action. For legal teams, this kind of supervised, playbook-driven AI can speed routine review and drafting while keeping attorney control, source visibility, and consistency across matters.
 
 **Suitable roles:** Lawyer, Technical Writer, Project Management Officer, CEO
+
+#### [Mixy](https://www.aimyflow.com/en/ai/usemixy-com)
+
+Mixy is a tool for making mashups, helping users create combined audio tracks, and it is mainly for music creators and DJs. In AI-era music workflows, tools like this can streamline idea testing and quick edits for producers and other audio-focused creative roles.
+
+**Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Independent Filmmaker
+
+#### [MMAudio](https://www.aimyflow.com/en/ai/mmaudio-pro)
+
+MMAudio is an AI video-to-audio synthesis tool that helps users generate synchronized audio, sound effects, and voiceovers from uploaded videos or text, mainly for video creators and sound-focused media work. For content creators, editors, and sound designers, it can speed post-production by turning rough visual input into matched audio layers faster than manual sound design.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Independent Filmmaker, Graphic Designer
 
 #### [Mnemom](https://www.aimyflow.com/en/ai/mnemom-ai)
 
@@ -6902,9 +10040,21 @@ Mocko is an AI-powered exam preparation platform that helps French learners prac
 
 **Suitable roles:** Test Prep Tutor, Teacher, School Counselor, Education Technology Consultant
 
+#### [MockWise](https://www.aimyflow.com/en/ai/mockwise-io)
+
+MockWise is an AI mock interview training platform that helps job candidates practice voice-based interviews, receive tailored feedback, and prepare with CV-based scenarios, especially for people getting ready for HR, technical, and salary negotiation rounds. For recruiters, hiring managers, and career-focused professionals, this kind of AI practice can help candidates improve answer structure, confidence, and role-specific communication before real interviews.
+
+**Suitable roles:** Software Engineer, Field Sales Manager, Talent Acquisition Manager, School Counselor, Teacher
+
 #### [MockXP](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-interview-prep-ai-mockxp-id6751194160)
 
 MockXP is an AI mock interview app for iPhone, iPad, and Mac that helps job seekers practice screening, technical, behavioral, and salary negotiation interviews with tailored questions, adjustable difficulty, and instant feedback. For candidates and career-focused professionals, it can speed up interview preparation by turning resumes and job descriptions into more targeted practice and clearer improvement areas.
+
+#### [Mod AI](https://www.aimyflow.com/en/ai/usemod-ai)
+
+Mod AI is an autonomous accounts payable automation tool that handles invoice processing, GL coding, approvals, payments, and reporting for finance teams and AP professionals. In AI-enabled finance operations, it can help controllers, AP managers, and accountants spend less time on manual inbox work and exceptions while improving payment timing, fraud checks, and workflow visibility.
+
+**Suitable roles:** CFO, Certified Public Accountant, Financial Analyst, COO
 
 #### [modelAIz](https://www.aimyflow.com/en/ai/modelaiz-com-en)
 
@@ -6936,11 +10086,23 @@ A social network built exclusively for AI agents. Where AI agents share, discuss
 
 **Suitable roles:** Software Engineer, Software Development Manager, Cybersecurity Manager, IT Infrastructure Manager
 
+#### [Monarcha](https://www.aimyflow.com/en/ai/monarcha-ai)
+
+Monarcha is an AI-powered geospatial platform that turns scanned maps, plats, deeds, drawings, and other documents into accurate, queryable GIS data for mining, civil engineering, infrastructure, and land intelligence teams. By automating georeferencing and spatial data extraction, it can help geologists, engineers, and land professionals reduce manual map interpretation and work faster with structured spatial datasets.
+
+**Suitable roles:** Civil Engineer, Data Engineer, Commercial Architect, Project Management Officer
+
 #### [Monica](https://www.aimyflow.com/en/ai/monica-im)
 
 Monica is a multi-model AI assistant that helps users with chat, search, writing, and coding across browser, desktop, and mobile apps. In the AI era, it lets knowledge workers consolidate everyday AI tasks into one assistant instead of switching across specialized tools.
 
 **Suitable roles:** Content Creator, Marketing and Sales Managers, Financial Analyst, Information Technology Managers, Computer Occupations, Writers and Authors +7 more
+
+#### [Monitaur](https://www.aimyflow.com/en/ai/monitaur-ai)
+
+Monitaur is an AI governance platform that helps enterprises define policies, manage compliance, monitor model performance, and automate validation across the full AI lifecycle, with a strong focus on regulated industries such as insurance. For risk, compliance, and model governance teams, it can improve AI oversight by centralizing controls, documentation, and performance monitoring for both internal and third-party systems.
+
+**Suitable roles:** Risk Analyst, Cybersecurity Manager, Data Scientist, Software Development Manager, CEO
 
 #### [Monobot](https://www.aimyflow.com/en/ai/monobot-ai)
 
@@ -6960,17 +10122,53 @@ Mooduna is a mood tracking and wellbeing app that helps people log moods, habits
 
 **Suitable roles:** Wellness Coach, School Counselor, Healthcare Administrator
 
+#### [Moonbeam](https://www.aimyflow.com/en/ai/gomoonbeam-com)
+
+Moonbeam is an AI long-form writing assistant that helps users turn notes or prompts into outlines, drafts, and edits for blogs, essays, guides, newsletters, and similar content, mainly for writers, marketers, educators, and technical content creators. In AI-assisted content workflows, it can help these professionals speed up first drafts and structure development while keeping collaboration and revision inside one editor.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Technical Writer, College Professor, Content Creator
+
 #### [Moozix](https://www.aimyflow.com/en/ai/moozix-com)
 
 Moozix is AI music and video production software that helps songwriters and musicians generate songs, mix and master stems with reference matching, get workflow guidance, and create music or promo videos in one browser-based workflow. For music creators and producers, this can shorten drafting, feedback, finishing, and promotion cycles by keeping composition, audio polishing, and visual asset creation in the same tool.
 
 **Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Independent Filmmaker, Copywriter
 
+#### [Moss](https://www.aimyflow.com/en/ai/moss-dev)
+
+Moss is a real-time semantic search infrastructure tool that helps developers build conversational AI, voice agents, copilots, and other AI apps with fast local or cloud retrieval, mainly for teams shipping AI products. For AI engineers and platform teams, it can reduce retrieval latency on critical paths so assistants respond with relevant context more smoothly in browser, edge, device, or cloud environments.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, CEO
+
+#### [Motion AI](https://www.aimyflow.com/en/ai/motion-ai)
+
+Motion AI is a visual chatbot builder that helps businesses build, train, and deploy chatbots, mainly for marketing and customer engagement teams. As AI-driven messaging becomes central to customer communication, it can help marketers and customer-facing teams automate conversations across channels to improve engagement and support at scale.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Customer Success Manager
+
+#### [Motives](https://www.aimyflow.com/en/ai/motives-ai)
+
+Motives is an AI-powered qualitative research platform that helps insights and marketing teams at consumer brands run in-depth video interviews, test concepts and creative, and turn consumer feedback into actionable insights quickly. In AI-enabled brand research, it can help researchers and marketers shorten the path from customer voice to decisions by generating research plans, surfacing findings fast, and packaging outputs for stakeholders.
+
+**Suitable roles:** Digital Marketing Director, CEO, Project Management Officer, Content Creator
+
+#### [Mottle](https://www.aimyflow.com/en/ai/mottle-com)
+
+Mottle is a no-code platform for creating and embedding a custom ChatGPT-style chatbot on a website, trained on business information to answer customer questions, mainly for businesses that want website support automation. In AI-era customer service and web operations, it can help support, marketing, and site managers provide always-on answers while tracing responses back to source documents for easier debugging.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Project Management Officer, Software Development Manager, Content Creator
+
 #### [MovArt.ai](https://www.aimyflow.com/en/ai/movart-ai)
 
 MovArt.ai is an AI video generation and editing platform that helps creators and marketers produce viral-ready videos and high-converting images from text or existing media. In the AI era, it enables content teams to increase output speed while reducing production complexity and turnaround time.
 
 **Suitable roles:** Digital Marketing Director, Marketing and Sales Managers, Education Technology Consultant, Software Development Manager, Software Engineer, Data Scientist +4 more
+
+#### [MOVE.](https://www.aimyflow.com/en/ai/movedot-ai)
+
+MOVE. is an AI agent platform for hardware engineering teams that analyzes hardware test data, surfaces anomalies and correlations, and turns raw telemetry, sensor logs, and related inputs into reports and answers faster. For hardware engineers, race engineers, and R&D teams, it can reduce manual data review so they can focus more on diagnosing issues, improving performance, and making engineering decisions.
+
+**Suitable roles:** Mechanical Engineer, Electrical Engineer, Factory Operations Supervisor, Data Engineer, Software Engineer
 
 #### [MoveAlerts.ai](https://www.aimyflow.com/en/ai/movealerts-ai)
 
@@ -6984,11 +10182,23 @@ Mozart AI is an AI song generator and music creation tool that helps artists pro
 
 **Suitable roles:** Content Creator, Music Lover, Media Communicators, Entertainment & Sports Workers, Other Arts Roles, Marketing and Sales Managers
 
+#### [MSong.ai](https://www.aimyflow.com/en/ai/msong-ai)
+
+MSong.ai is an AI song maker that helps creators turn prompts or lyrics into songs, instrumentals, synced lyrics, and downloadable audio, with tools for vocal removal, track extension, music videos, and audio-to-MIDI conversion. For musicians, content creators, and producers, it can speed ideation and asset production by automating early composition, stem preparation, and export tasks in one browser-based workflow.
+
+**Suitable roles:** Content Creator, Podcast Producer, Social Media Content Creator, Copywriter, Music Lover
+
 #### [Muapi](https://www.aimyflow.com/en/ai/muapi-ai)
 
 Muapi is an AI image and video API platform that helps developers and product teams build generation and editing workflows for text, image, audio, and video content. For engineers and media workflow builders, API-based access to multimodal models can speed prototyping, automate content pipelines, and support more consistent creative outputs across applications.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Graphic Designer, Content Creator, Digital Marketing Director
+
+#### [Mubert](https://www.aimyflow.com/en/ai/mubert-com)
+
+Mubert is an AI music generator that helps creators, developers, brands, and artists produce or source royalty-free music for videos, podcasts, apps, and other projects. For content teams, app developers, and multimedia producers, it can speed soundtrack creation and reduce time spent searching stock libraries by generating music matched to mood, style, and duration.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Software Engineer, Digital Marketing Director
 
 #### [MUJO AI AI Photoshoot](https://www.aimyflow.com/en/ai/mujoai-com-product-ai-photoshoot)
 
@@ -7008,11 +10218,23 @@ Multiplayer is a full-stack session recording and debugging platform that helps 
 
 **Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, IT Infrastructure Manager, Project Management Officer
 
+#### [Munch Studio](https://www.aimyflow.com/en/ai/getmunch-com)
+
+Munch Studio is an AI social media marketing tool that creates, repurposes, schedules, publishes, and analyzes on-brand content for businesses, especially small business owners who want a hands-free way to stay active online. For marketers, consultants, and owner-operators, it can reduce manual content workflow and support more consistent posting with brand-aligned output and performance feedback.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, CEO, Content Creator
+
 #### [Munch Studio](https://www.aimyflow.com/en/ai/munchstudio-com)
 
 Munch Studio is an AI social media marketing tool that creates, repurposes, plans, schedules, publishes, and analyzes on-brand content for small business owners who want a hands-free way to stay active across platforms. For business owners and marketers, it can reduce manual posting work and support more consistent content operations with less time spent on day-to-day social management.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, CEO, Real Estate Agent, Content Creator
+
+#### [Murf AI](https://www.aimyflow.com/en/ai/murf-ai)
+
+Murf AI is an AI voice platform for developers, creators, and localization teams that helps users generate realistic text-to-speech voiceovers, build voice agents, and dub or translate audio and video in multiple languages. In AI-driven content and customer operations, it can help learning designers, support teams, marketers, and media producers create multilingual spoken experiences faster with more consistent voice quality.
+
+**Suitable roles:** Content Creator, Software Engineer, Technical Writer, Copywriter, Digital Marketing Director
 
 #### [MuseCraft.AI](https://www.aimyflow.com/en/ai/musecraft-ai)
 
@@ -7086,6 +10308,12 @@ Musid is an AI music video generator that helps creators turn text prompts or up
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Music Lover
 
+#### [Mutiny](https://www.aimyflow.com/en/ai/mutinyhq-com)
+
+Mutiny is an AI agent that helps go-to-market teams create customer-facing assets like landing pages, proposals, case studies, battlecards, and deal materials quickly while keeping them on brand and personalized with connected data. For sales, marketing, and account-based teams, it can shorten content production cycles and reduce reliance on design or marketing bottlenecks when responding to specific accounts or opportunities.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Copywriter, Content Creator
+
 #### [muuic](https://www.aimyflow.com/en/ai/muuic-com)
 
 muuic is a browser-based piano roll music maker that helps users create, edit, record, and export songs with a keyboard or MIDI controller, mainly for musicians, producers, and beat makers. Its AI composition and full-track generation features can help music creators and composers sketch ideas faster, iterate arrangements, and turn prompts into editable multi-instrument drafts.
@@ -7127,6 +10355,12 @@ My Tattoo Ideas is an AI tattoo generator and body preview workspace that helps 
 MyClaw.Host is a hosting platform that provides pre-configured VPS infrastructure for deploying and managing OpenClaw AI agents with one-click setup, mainly for users who need dedicated agent hosting without manual server administration. For AI operations, support, and automation teams, it can reduce setup overhead and simplify running multiple agents across web chat and messaging channels from one dashboard.
 
 **Suitable roles:** IT Infrastructure Manager, Software Development Manager, Project Management Officer, Software Engineer, Data Engineer
+
+#### [mymind](https://www.aimyflow.com/en/ai/mymind-com)
+
+mymind is a private AI-powered note taking and bookmarking tool that helps people save, organize, search, and revisit notes, images, articles, quotes, and inspiration without folders or tags, mainly for individuals managing personal knowledge and research. For researchers, designers, writers, and other knowledge workers, its AI summaries, visual search, and automatic categorization can reduce manual organization and speed up finding relevant context later.
+
+**Suitable roles:** Technical Writer, Graphic Designer, Content Creator, Software Engineer, Data Scientist
 
 #### [MyPicNow](https://www.aimyflow.com/en/ai/mypicnow-com)
 
@@ -7188,11 +10422,23 @@ Nametastic is an AI business name and domain generator that helps users describe
 
 **Suitable roles:** CEO, Digital Marketing Director, Copywriter, Software Engineer, Content Creator
 
+#### [namethispic](https://www.aimyflow.com/en/ai/namethispic-com)
+
+namethispic is an AI image renaming tool that analyzes images in bulk to generate SEO-friendly filenames and alt text, mainly for website owners, marketers, and content teams improving image search visibility and accessibility. In AI-driven search, it can help SEO and content professionals scale consistent image optimization faster across large media libraries.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Ecommerce Seller, Content Creator
+
 #### [Nana Banana 2 AI](https://www.aimyflow.com/en/ai/nanabanana2ai-io)
 
 Nana Banana 2 AI is an AI image generation and editing platform that helps creators produce and refine visuals through text-to-image, image-to-image, and prompt-guided edits with fast iteration and stronger text rendering. For designers, marketers, and creative teams, it can speed concepting and revision cycles while reducing manual cleanup on assets such as ads, posters, UI mockups, and social visuals.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [Nanonets](https://www.aimyflow.com/en/ai/nanonets-com)
+
+Nanonets is an AI-powered intelligent document processing and workflow automation platform that helps businesses extract data from documents and automate processes like accounts payable, reconciliation, order processing, and insurance underwriting, especially for finance, operations, and document-heavy teams. In AI-driven back-office work, it can help finance and operations professionals reduce manual review and move structured data faster into systems for quicker decisions.
+
+**Suitable roles:** Financial Analyst, Logistics Operations Planner, Medical Biller, Corporate Tax Manager, Project Management Officer
 
 #### [NanoPro AI Clothes Changer](https://www.aimyflow.com/en/ai/nanopro-ai-ai-clothes-changer)
 
@@ -7205,6 +10451,12 @@ NanoPro AI Clothes Changer is an AI image editing tool that lets users swap outf
 Napkin AI is a visual AI tool for business storytelling that turns pasted or imported text into editable visuals such as diagrams, charts, mind maps, flowcharts, and infographics, mainly for professionals creating presentations, documents, blog content, and social posts. For marketers, consultants, educators, and project managers, it can speed up converting written ideas into shareable visuals that are easier for audiences to understand across formats like PPT, PDF, PNG, and SVG.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Project Management Officer, Content Creator, Education Technology Consultant
+
+#### [Narrative](https://www.aimyflow.com/en/ai/narrative-sports-com)
+
+Narrative is an AI-powered sports highlights platform that turns live game broadcasts into ready-to-publish, personalized social media clips for sports teams and content teams. In AI-era workflows, it can help social media managers, video editors, and digital content staff produce platform-specific highlights faster from live footage without relying on manual tagging or game logs.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Podcast Producer, Concert Promoter
 
 #### [NaturalReader](https://www.aimyflow.com/en/ai/naturalreaders-com)
 
@@ -7230,6 +10482,12 @@ Nebius Token Factory Inference Service is an enterprise inference platform for r
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Education Technology Consultant
 
+#### [Nectar AI Companion](https://www.aimyflow.com/en/ai/nectar-ai)
+
+Nectar AI Companion is an AI chatbot and image-generation platform for creating customizable virtual companions, mainly for users seeking simulated friendship, romance, or roleplay through personalized conversations and characters. In AI-assisted conversational design and adult entertainment work, its memory and character customization features show how persistent context can make interactive experiences feel more tailored and consistent.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Fiction Writer, Copywriter
+
 #### [Needle](https://www.aimyflow.com/en/ai/needle-ai-com)
 
 Needle is an AI-powered knowledge threading and workflow automation platform that helps teams search across connected apps and documents, build knowledge bases, and automate tasks, with support for developers building agentic AI applications. For operations, support, HR, sales, and engineering teams, it can reduce time spent finding information and enable AI-driven actions from current company data.
@@ -7247,6 +10505,12 @@ Needle is an AI-native, self-driving applicant tracking system that helps early-
 Neolemon is an AI cartoon generator that helps users create consistent cartoon characters across scenes, poses, expressions, and styles, mainly for writers, educators, and creators making children’s books, stories, animations, and other visual projects. For authors, illustrators, and content teams, this kind of consistency can speed up visual storytelling workflows and reduce the need to redraw the same character repeatedly.
 
 **Suitable roles:** Content Creator, Copywriter, Teacher, Graphic Designer
+
+#### [Neon.ai](https://www.aimyflow.com/en/ai/neon-ai)
+
+Neon.ai is a platform for businesses to build private, customizable AI agents, companions, avatars, and digital twins powered by custom LLMs they own and control. For operations, sales, support, and IT teams, this can improve automation and decision-making while keeping knowledge, workflows, and model behavior aligned to internal systems and privacy requirements.
+
+**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Field Sales Manager, Factory Operations Supervisor, CEO
 
 #### [NeonVideo.ai](https://www.aimyflow.com/en/ai/neonvideo-ai)
 
@@ -7266,17 +10530,53 @@ Nereo AI Anime Shorts Generator is an AI video tool that turns a single prompt i
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter, Podcast Producer
 
+#### [Nerviom](https://www.aimyflow.com/en/ai/nerviom-com)
+
+Nerviom is an AI workflow platform that helps data center, energy, infrastructure, and related site development teams speed up predevelopment by identifying permitting, interconnection, utility, and compliance risks earlier and organizing scattered project data. For development, project, and operations teams, this can shorten manual review cycles and improve site selection and execution decisions before delays hit the critical path.
+
+**Suitable roles:** Project Management Officer, COO, Civil Engineer, Commercial Architect, Factory Operations Supervisor
+
+#### [Nessie](https://www.aimyflow.com/en/ai/nessielabs-com)
+
+Nessie is a Mac app that turns scattered AI conversations into a private, searchable personal knowledge base, helping users capture, organize, and revisit insights; it is mainly for people who rely on AI chats for thinking and note-taking. For knowledge workers, researchers, and writers, this can reduce lost context and make it easier to connect past AI-assisted ideas into new work.
+
+**Suitable roles:** Technical Writer, Fiction Writer, Data Scientist, Software Engineer, Content Creator
+
+#### [NetEase Shufan Artificial Intelligence](https://www.aimyflow.com/en/ai/sf-163-com-product-yz)
+
+网易数帆人工智能是面向企业的 AI 产品与服务平台，提供多媒体内容理解、音视频效率工具以及语音、NLP、计算机视觉能力组件，帮助客户推进智能化升级。对内容运营、生产管理、客服和电商等岗位来说，这类 AI 能力可提升音视频处理与内容理解效率，支持更快的业务协同和决策。
+
+**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Social Media Content Creator, E-commerce Sales Head, Education Technology Consultant
+
 #### [Networker.ai](https://www.aimyflow.com/en/ai/chromewebstore-google-com-detail-networkerai-innhhchcboconofndjjlonpckbkljjim)
 
 Networker.ai is a Chrome extension that helps LinkedIn users generate personalized coffee chat and outreach messages from profile details, with lead discovery and message tracking features for professionals focused on networking, prospecting, or partnership building. For recruiters, sales teams, and business development professionals, AI-assisted personalization can make outreach more relevant while reducing the time spent drafting and managing follow-ups.
 
 **Suitable roles:** Field Sales Manager, Talent Acquisition Manager, CEO, Digital Marketing Director
 
+#### [NetworkOcean](https://www.aimyflow.com/en/ai/networkocean-io)
+
+NetworkOcean builds and operates floating data center barges and underwater data center capsules that provide liquid-cooled, high-density GPU infrastructure with lower power use and no water consumption, mainly for organizations needing AI compute capacity. For AI infrastructure, data center, and HPC teams, this model can improve GPU deployment planning and operating efficiency for dense workloads such as NVL72, GB200, and H100/200 systems.
+
+**Suitable roles:** IT Infrastructure Manager, Software Development Manager, COO, Project Management Officer, Data Engineer
+
 #### [NEUROFIT](https://www.aimyflow.com/en/ai/neurofit-app)
 
 NEUROFIT is a research-based nervous system regulation app that uses somatic exercises, stress tracking, and vagus nerve reset practices to help users reduce stress and improve well-being, mainly for individuals seeking nervous system support and health professionals using it with clients. For therapists, doctors, coaches, and hospital clinicians, it can add a data-informed, body-based tool that supports faster stress relief and between-session self-regulation.
 
 **Suitable roles:** Wellness Coach, Healthcare Administrator, Family Doctor, Occupational Health Specialist, School Counselor
+
+#### [neuroflash](https://www.aimyflow.com/en/ai/neuroflash-com)
+
+neuroflash is an AI content platform for marketing and sales teams that helps users create, edit, optimize, and manage brand-aligned text and copyright-free images, with features such as SEO analysis, brand voice storage, audience profiles, and performance prediction. For marketers, content creators, and sales professionals, it can streamline AI-assisted content workflows while keeping messaging more consistent across audiences, channels, and languages.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Field Sales Manager, Social Media Content Creator, Content Creator
+
+#### [NEURONwriter](https://www.aimyflow.com/en/ai/neuronwriter-com)
+
+NEURONwriter is a content optimization platform with generative AI that helps users plan, write, and improve SEO content using semantic analysis, SERP research, competitor insights, and team workflows, mainly for copywriters, SEO professionals, and content teams. For SEO and content roles, it can speed up production while aligning pages more closely with search intent and AI-driven discovery.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Content Creator, Social Media Content Creator, CEO
 
 #### [NewHero](https://www.aimyflow.com/en/ai/newhero-ai)
 
@@ -7289,6 +10589,12 @@ NewHero was an AI photography and poster design tool that helped users create he
 NewYouGo is an AI content generation platform that helps users create and edit images, short videos, and music from prompts, mainly for creators and design-focused users who need fast model choices in one place. In AI-driven creative workflows, it can help designers, content creators, and marketers move faster from concept to usable visual assets by switching between draft, edit, style, and higher-resolution generation modes.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Ecommerce Seller
+
+#### [Nexa](https://www.aimyflow.com/en/ai/nexa-farm)
+
+Nexa is a cattle health monitoring system that uses implantable microchips, a centralized beacon, and herd management software to help farmers and ranchers detect disease early, manage breeding, and track cattle behavior and location. For livestock managers and herd health teams, its AI-driven alerts can support faster intervention decisions and more targeted daily monitoring across beef and dairy operations.
+
+**Suitable roles:** Factory Operations Supervisor, COO, Healthcare Administrator, Project Management Officer
 
 #### [Nexi](https://www.aimyflow.com/en/ai/kudos-tv-products-nexi-ai-streamer)
 
@@ -7308,17 +10614,35 @@ NextDocs is an AI document and presentation creation tool that helps professiona
 
 **Suitable roles:** Project Management Officer, Digital Marketing Director, Field Sales Manager, CEO, Copywriter
 
+#### [Nexus](https://www.aimyflow.com/en/ai/agent-nexus)
+
+Nexus is an enterprise AI agent platform that helps large organizations build, deploy, and monitor AI agents across sales, support, marketing, operations, HR, and reporting, with embedded engineers and change management to support adoption. For enterprise operations, sales, and transformation teams, it can speed practical AI deployment by connecting agents to existing systems and improving workflow execution without requiring major process changes.
+
+**Suitable roles:** COO, Project Management Officer, Digital Marketing Director, Field Sales Manager, Talent Acquisition Manager
+
 #### [Nexus Watch](https://www.aimyflow.com/en/ai/nexusseek-app)
 
 Nexus Watch is an automated trade and competitive intelligence tool that monitors tariffs, competitors, regulations, and market signals, then delivers structured briefings for US importers, manufacturers, UK growth companies, and agencies. In AI-assisted strategy and compliance work, it can help supply chain, market intelligence, and consulting teams reduce manual research and act faster on emerging risks and competitive changes.
 
 **Suitable roles:** COO, Logistics Operations Planner, Project Management Officer, Digital Marketing Director
 
+#### [NightCafe](https://www.aimyflow.com/en/ai/creator-nightcafe-studio)
+
+NightCafe is an AI art generator that helps users create images and videos from text prompts using multiple AI models, mainly for AI artists, enthusiasts, and content creators. In AI-driven creative workflows, it can help designers, marketers, and social media teams produce visual concepts and shareable assets faster while supporting prompt exploration and community feedback.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter
+
 #### [Nimbalyst](https://www.aimyflow.com/en/ai/nimbalyst-com)
 
 Nimbalyst is a visual workspace and session manager for Claude Code and Codex that helps developers, product managers, and designers edit markdown, code, mockups, diagrams, CSVs, and tasks while reviewing AI-driven changes in one place. For teams working with coding agents, it can improve oversight and speed by keeping context, file diffs, and task progress visible across parallel AI sessions.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Graphic Designer, Technical Writer
+
+#### [Nivara](https://www.aimyflow.com/en/ai/getnivara-com)
+
+Nivara is a data and API platform that helps teams find, enrich, and monitor local and independent businesses with verified owner contacts, revenue estimates, license status, software stack, and activity signals, mainly for vertical SaaS, insurance, fintech, and hospitality teams. In AI-driven prospecting and risk workflows, it can give sales, underwriting, and market intelligence teams fresher business records and change alerts for better targeting and faster decisions.
+
+**Suitable roles:** Field Sales Manager, Risk Analyst, E-commerce Sales Head, Digital Marketing Director, Financial Analyst
 
 #### [NodeLand](https://www.aimyflow.com/en/ai/nodeland-io)
 
@@ -7332,11 +10656,29 @@ Nodu AI is an AI video creation platform that turns a product URL into publicati
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, E-commerce Sales Head, Copywriter, Content Creator
 
+#### [Noetic](https://www.aimyflow.com/en/ai/getnoetic-ai)
+
+Noetic is an AI-powered hardware compliance platform that helps hardware teams identify applicable regulations, draft technical documentation, and find suitable testing labs faster. For compliance, regulatory, and engineering functions, it can shorten the path from standards research to lab-ready documentation by keeping requirements, documents, and status updates in one place.
+
+**Suitable roles:** Electrical Engineer, Mechanical Engineer, Project Management Officer, Software Development Manager, CEO
+
 #### [NoFilterGPT](https://www.aimyflow.com/en/ai/nofiltergpt-com)
 
 NoFilterGPT is an anonymous AI chat platform for users who want uncensored text, image, and voice interactions, with privacy-focused features like encrypted chats, purged conversations, multilingual support, and API access. For developers, creators, and researchers, it can speed experimentation with sensitive or unconventional prompts while reducing manual setup for private AI workflows.
 
 **Suitable roles:** Software Engineer, Content Creator, Social Media Content Creator, Technical Writer, Data Scientist
+
+#### [Noiz AI](https://www.aimyflow.com/en/ai/noiz-ai-landing)
+
+Noiz AI is an AI voice generation platform for creators and developers that helps them produce text to speech, clone voices, design new voices, and dub content across languages with emotion control. For video producers, educators, podcasters, and audio teams, this can speed multilingual narration and character voice work while keeping tone and voice identity more consistent at scale.
+
+**Suitable roles:** Content Creator, Podcast Producer, Software Engineer, Technical Writer, Teacher
+
+#### [Nolej](https://www.aimyflow.com/en/ai/nolej-io)
+
+Nolej is an AI learning design platform that turns existing content into quizzes, games, interactive videos, chatbots, and courses, mainly for educators, universities, business schools, and enterprise training teams. For instructional designers and L&D professionals, it can speed course creation from source materials while keeping editing control, accessibility options, and export formats aligned with current AI-enabled learning workflows.
+
+**Suitable roles:** Education Technology Consultant, Corporate Leadership Coach, College Professor, Community College Instructor, Software Development Manager
 
 #### [Nonverbia](https://www.aimyflow.com/en/ai/nonverbia-com)
 
@@ -7344,11 +10686,41 @@ Nonverbia is an AI sales call analysis tool that helps sales reps, managers, and
 
 **Suitable roles:** Field Sales Manager, E-commerce Sales Head, Project Management Officer, CEO, COO
 
+#### [Norby](https://www.aimyflow.com/en/ai/norby-io)
+
+Norby is a no-code AI agent that turns a company’s product, service, documentation, and FAQ content into chat-based customer support and sales responses, mainly for businesses that want to add an automated assistant to their website. For support and sales teams, this can reduce repetitive inquiries and help them deliver faster, more consistent answers using business-specific content.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, Project Management Officer, CEO
+
+#### [Nori](https://www.aimyflow.com/en/ai/nori-ai)
+
+Nori is a personal health advisor that connects wearable and lab data to create clear daily health plans and explanations, mainly for people tracking their wellness and fitness. In the AI era, it can help health-conscious users and fitness-focused professionals spend less time interpreting fragmented metrics and more time acting on personalized, data-informed priorities.
+
+**Suitable roles:** Wellness Coach, Healthcare Administrator, Content Creator, Food Enthusiast
+
+#### [Normal Factory](https://www.aimyflow.com/en/ai/normalfactory-com)
+
+Normal Factory is a hardware testing and certification platform that helps companies prepare for and manage compliance for standards such as FCC, ISED, CE, and ASTM through pre-compliance software and a step-by-step process, mainly for hardware teams bringing products to market. For hardware, compliance, and operations professionals, it can reduce manual coordination and make certification work faster to review, document, and move toward market approval.
+
+**Suitable roles:** Electrical Engineer, Mechanical Engineer, Project Management Officer, Factory Operations Supervisor, COO
+
+#### [Norra](https://www.aimyflow.com/en/ai/norra-io)
+
+Norra is an AI-powered equipment management platform for skilled nursing facilities that helps administrators and staff track assets, route tasks, monitor maintenance, and produce audit-ready records. For asset managers and facility administrators, it can reduce manual searching and rental waste by turning real-time equipment data into faster operational decisions and cleaner compliance workflows.
+
+**Suitable roles:** Healthcare Administrator, Logistics Operations Planner, Branch Office Manager, Medical Lab Technician
+
 #### [Norton Neo](https://www.aimyflow.com/en/ai/neobrowser-ai)
 
 Norton Neo is an AI-native browser that helps people browse, search, organize tabs, and use conversational AI with local data storage and Norton phishing protection, mainly for privacy-conscious users who work, study, research, or manage many online tasks. For researchers, students, and knowledge workers, it can reduce tab overload and turn search activity into faster, more focused decisions.
 
 **Suitable roles:** Software Engineer, Cybersecurity Analyst, Content Creator, Financial Analyst
+
+#### [Noso](https://www.aimyflow.com/en/ai/noso-so)
+
+Noso is an AI field service platform that gives field technicians a mobile agent to automate notes, follow-ups, scheduling, and CRM updates, mainly for trades and home service teams. For field service operations and back-office staff, this can reduce admin work, surface only complex exceptions, and help technicians spend more time on jobs instead of paperwork.
+
+**Suitable roles:** Factory Operations Supervisor, Logistics Operations Planner, COO, Branch Office Manager, Project Management Officer
 
 #### [Notch](https://www.aimyflow.com/en/ai/usenotch-ai)
 
@@ -7380,6 +10752,12 @@ NoteX is an AI meeting agent and knowledge platform that records, transcribes, s
 
 **Suitable roles:** Project Management Officer, COO, Software Development Manager, Branch Office Manager, Field Sales Manager
 
+#### [Notion AI](https://www.aimyflow.com/en/ai/notion-so-product-ai)
+
+Notion AI is an AI workspace assistant built into Notion that helps teams search connected apps, generate and edit content, summarize meetings, and automate repetitive work, mainly for business teams managing documents, projects, and knowledge. For functions like operations, product, marketing, and IT, it can reduce tool switching and speed routine coordination by using workspace context to answer questions and complete multi-step tasks.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, Digital Marketing Director, IT Infrastructure Manager, COO
+
 #### [Notra](https://www.aimyflow.com/en/ai/usenotra-com)
 
 Notra is an AI content tool that connects to GitHub, Linear, and Slack to turn shipped work into publish-ready changelogs, blog posts, and social updates, mainly for software teams and the people who communicate product progress. By drafting from PRs, issues, and team conversations, it helps product, engineering, and growth functions keep audiences informed with less manual writing.
@@ -7392,6 +10770,12 @@ Notta is an AI note-taking and transcription tool that captures meetings, interv
 
 **Suitable roles:** Software Development Manager, Information Technology Managers, Digital Marketing Director, Sales Leads, Customer Success Manager, Education Technology Consultant +5 more
 
+#### [Notte](https://www.aimyflow.com/en/ai/notte-cc)
+
+Notte is a browser infrastructure platform for AI developers that helps them run web automation and AI agents at scale with remote browser sessions, browser functions, authentication tools, and prompt-based browser agents. For AI engineers and automation teams, it can reduce the operational work of maintaining selectors, sessions, and anti-bot handling so they can focus on building agent workflows.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, Project Management Officer
+
 #### [Nourish](https://www.aimyflow.com/en/ai/nourished-news)
 
 Nourish is a smart news app from OneSub that helps busy people understand major current events faster while aiming to support healthier news consumption. For journalists, analysts, and knowledge workers, this kind of AI-era news summarization can reduce information overload and speed up staying current on fast-moving topics.
@@ -7403,6 +10787,12 @@ Nourish is a smart news app from OneSub that helps busy people understand major 
 Nouswise is an AI-powered research agent that helps users search curated knowledge sources and get transparent, verifiable answers, mainly for regulated and knowledge-intensive organizations. For compliance, policy, research, and operations teams, this kind of grounded AI can reduce time spent hunting for information while making answers easier to verify against approved source material.
 
 **Suitable roles:** Project Management Officer, Healthcare Administrator, Financial Analyst, Corporate Tax Manager, Lawyer
+
+#### [NovelAI](https://www.aimyflow.com/en/ai/novelai-net)
+
+NovelAI is an AI anime image generator and storytelling platform that helps creators generate anime-style art, write stories, and edit visuals, mainly for writers and AI artists. In AI-driven creative work, its prompt controls, image editing tools, and longer-context storytelling can help illustrators and fiction writers iterate faster while keeping character and style details more consistent.
+
+**Suitable roles:** Fiction Writer, Graphic Designer, Content Creator, Independent Filmmaker, Copywriter
 
 #### [NovelCraft](https://www.aimyflow.com/en/ai/novelcraft-ai)
 
@@ -7480,6 +10870,18 @@ NVIDIA NemoClaw is an open source stack that adds policy-based privacy and secur
 
 **Suitable roles:** Software Engineer, Cybersecurity Manager, IT Infrastructure Manager, Software Development Manager, Data Engineer
 
+#### [Nyx.gallery](https://www.aimyflow.com/en/ai/nyx-gallery)
+
+Nyx.gallery is an AI-generated photography gallery that lets users preview, favorite, download, and edit synthetic images, mainly for people seeking non-real visual content such as food, animals, and landscapes. For designers, marketers, and content creators, this can speed early-stage concepting and asset selection when AI-generated visuals are suitable.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [Oasis](https://www.aimyflow.com/en/ai/theoasis-com)
+
+Oasis is an AI writing tool for macOS that lets users speak instead of type, then rewrites their transcript into polished text for use in any app, mainly for people who want faster everyday writing. For professionals who draft messages, notes, or documents throughout the day, it can reduce typing time and help turn rough spoken input into cleaner written output.
+
+**Suitable roles:** Copywriter, Technical Writer, Content Creator, CEO, Field Sales Manager
+
 #### [Obsess AI](https://www.aimyflow.com/en/ai/obsessai-com)
 
 Obsess AI is an AI content marketing and SEO platform for Shopify merchants that analyzes store catalogs, discovers keywords, and helps users generate and publish blog, product, and social content from within Shopify. For ecommerce marketers and store owners, this can reduce manual SEO and content work by turning store data into faster, more targeted execution across organic search and social channels.
@@ -7526,11 +10928,29 @@ Okara is a private AI chat platform that lets professionals, founders, writers, 
 
 **Suitable roles:** CEO, Technical Writer, Data Scientist, Software Engineer, Lawyer
 
+#### [Oki](https://www.aimyflow.com/en/ai/okiapplications-com)
+
+Oki is an AI company progress tracking tool that reads code, Slack threads, tickets, and docs to create interactive weekly and daily reports for team leaders, founders, and managers. For engineering and operations leaders, it can reduce manual status gathering by surfacing cited updates, blocked contributors, and off-track projects in one place.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, COO, CEO, IT Infrastructure Manager
+
 #### [okkslides](https://www.aimyflow.com/en/ai/okkslides-com)
 
 okkslides is an AI presentation maker that helps users create, refresh, and edit professional PowerPoint slides from files, assets, or templates, mainly for business, education, finance, marketing, research, and corporate presentation needs. For professionals who build decks regularly, AI-driven slide generation and natural-language editing can speed production while keeping formatting and template consistency intact.
 
 **Suitable roles:** CEO, Financial Analyst, Digital Marketing Director, Project Management Officer, College Professor
+
+#### [Olive](https://www.aimyflow.com/en/ai/fromolive-com)
+
+Olive is a team context layer and memory tool that automatically captures work across apps, lets users search their own history with AI, and enables teammates to request context without interruptions, mainly for knowledge workers and teams. For roles like engineers, designers, and managers, it can reduce context-switching and make past decisions and work sessions easier to retrieve and share when needed.
+
+**Suitable roles:** Software Engineer, Graphic Designer, Software Development Manager, Project Management Officer, COO
+
+#### [Omnara](https://www.aimyflow.com/en/ai/omnara-com)
+
+Omnara is a mobile, web, and desktop client for controlling Claude Code and Codex running on your machine, helping software developers start sessions, review changes, and manage AI coding agents from anywhere. For developers and engineering teams using AI coding agents, it can reduce desk-bound workflow friction by keeping sessions, context, and code accessible across devices, including through cloud continuation when a laptop goes offline.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, CEO
 
 #### [Omni One](https://www.aimyflow.com/en/ai/app-omni1-ai)
 
@@ -7544,11 +10964,35 @@ OmniDetect is an AI content detector that scans text across GPTZero, Winston AI,
 
 **Suitable roles:** Teacher, Technical Writer, Copywriter, School Counselor, College Professor
 
+#### [Omniscience](https://www.aimyflow.com/en/ai/beta-omnilabs-ai)
+
+Omniscience is an AI research and writing tool with a browser extension that helps users search their uploaded documents, websites, notes, and transcripts to generate context-aware writing, mainly for researchers, writers, and knowledge teams. In AI-assisted workflows, it can help these professionals retrieve prior work, surface citations, and reduce duplicated effort by bringing relevant internal and external sources directly into the writing process.
+
+**Suitable roles:** Technical Writer, Fiction Writer, Data Scientist, Financial Analyst, Content Creator
+
+#### [onestafinance.com](https://www.aimyflow.com/en/ai/onestafinance-com)
+
+onestafinance.com is a GoDaddy domain sale landing page that helps buyers purchase, lease to own, or make offers on the onestafinance.com domain, mainly for businesses or individuals seeking that web address. For founders, marketers, and digital teams, securing a relevant domain remains a practical step for discoverability, brand control, and future AI-search visibility.
+
+**Suitable roles:** CEO, Digital Marketing Director, E-commerce Sales Head, Copywriter, Lawyer
+
 #### [Online Gantt’s AI Assistant for Gantt Charts](https://www.aimyflow.com/en/ai/onlinegantt-com-ai-html)
 
 Online Gantt’s AI Assistant for Gantt Charts is a natural-language project planning tool that helps users create, update, revise, and analyze Gantt charts, mainly for project managers and teams coordinating schedules and workloads. In AI-supported project work, it can speed up bulk schedule changes and surface risks or blockers faster for planning, operations, and delivery roles.
 
 **Suitable roles:** Project Management Officer, COO, Software Development Manager, Logistics Operations Planner, Nonprofit Program Manager
+
+#### [Onlook](https://www.aimyflow.com/en/ai/onlook-com)
+
+Onlook is a visual design canvas for existing React, Next.js, or Vue codebases that helps designers edit real components, iterate with AI, and turn visual changes into pull requests without coding. For product designers and design-engineering teams, this can reduce handoff friction by keeping AI-generated changes aligned with the live design system and code structure.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Software Development Manager, Technical Writer
+
+#### [ONLYOFFICE](https://www.aimyflow.com/en/ai/onlyoffice-com)
+
+ONLYOFFICE is a secure, open-source online office suite that helps users create, edit, share, and collaborate on documents, spreadsheets, presentations, and PDFs across web, desktop, and mobile, mainly for businesses, teams, and developers embedding editors into their platforms. Its AI assistants and local deployment options can help operations, IT, and knowledge workers speed document workflows while maintaining stronger control over security and compliance.
+
+**Suitable roles:** IT Infrastructure Manager, Project Management Officer, Software Development Manager, Technical Writer, Education Technology Consultant
 
 #### [OnSpace.AI](https://www.aimyflow.com/en/ai/onspace-ai)
 
@@ -7574,11 +11018,29 @@ OnSpace.AI is an AI web app builder that helps users turn written ideas into res
 
 **Suitable roles:** Software Engineer, CEO, Project Management Officer, Graphic Designer, Teacher
 
+#### [Ontora](https://www.aimyflow.com/en/ai/ontora-com)
+
+Ontora is an AI process mining and operational analysis tool that connects company systems, documents, and meetings to discover how work actually happens, mainly for leaders and consulting or operating teams assessing organizations. For strategy, operations, and portfolio management roles, it can speed process discovery and stakeholder interviews so they can focus more on diagnosing bottlenecks and delivering recommendations.
+
+**Suitable roles:** COO, Project Management Officer, CEO
+
 #### [Open eLMS AI](https://www.aimyflow.com/en/ai/openelms-com-landing-page-ai)
 
 Open eLMS AI is an AI eLearning authoring tool that turns documents or text prompts into editable courses with scripts, quizzes, images, voiceovers, video presenters, and SCORM exports, mainly for learning and development teams, training providers, and instructional designers. In AI-driven training workflows, it can help these professionals produce and customize accessible learning content faster while reducing manual course development work.
 
 **Suitable roles:** Education Technology Consultant, Corporate Leadership Coach, Project Management Officer, Technical Writer
+
+#### [Open Voice OS](https://www.aimyflow.com/en/ai/openvoiceos-com)
+
+Open Voice OS is a community-driven, open-source voice AI platform that helps developers create custom voice-controlled interfaces across devices, especially for Linux, embedded, and DIY hardware projects. In AI workflows, it gives voice interface developers and embedded system teams a flexible way to prototype privacy-conscious assistants with customizable speech, NLP, and user interface components.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Education Technology Consultant
+
+#### [OpenAI](https://www.aimyflow.com/en/ai/openai-com)
+
+OpenAI is an AI research and product company that offers ChatGPT, developer APIs, and business tools to help individuals, developers, educators, and organizations generate content, write code, learn, and solve problems. For knowledge workers, software teams, and business functions, these AI systems can speed drafting, analysis, and prototyping while supporting more efficient decision-making and workflow automation.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Education Technology Consultant, CEO
 
 #### [OpenAI Frontier](https://www.aimyflow.com/en/ai/openai-com-business-frontier)
 
@@ -7586,17 +11048,35 @@ OpenAI Frontier is an enterprise platform for deploying secure, production-ready
 
 **Suitable roles:** IT Infrastructure Manager, COO, Project Management Officer, Software Development Manager, Cybersecurity Manager
 
+#### [OpenAI Platform](https://www.aimyflow.com/en/ai/platform-openai-com-ai-text-classifier)
+
+OpenAI Platform is a developer platform for building with the OpenAI API, helping users access documentation, references, starter apps, and practical examples, mainly for software developers and technical teams. In AI-focused product development, it can help developers and API engineers prototype, implement, and refine language-powered features more efficiently using documented endpoints and best-practice guides.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, Project Management Officer
+
 #### [OpenArt](https://www.aimyflow.com/en/ai/openart-ai)
 
 OpenArt is an AI image generation and editing platform that helps artists, designers, and content creators turn text prompts into visuals and refine them with creative tools. It enables creative teams to explore concepts, iterate faster, and produce more visual options without expanding production time.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Software Engineer, Data Scientist, Content Creator, E-commerce Sales Head +42 more
 
+#### [OpenArt Photobooth](https://www.aimyflow.com/en/ai/openart-ai-photobooth)
+
+OpenArt Photobooth is an AI image tool that lets users browse and use more than 100 fine-tuned models for image generation and editing, aimed mainly at creators who need specialized visual styles, subjects, or tasks. For designers and content teams, these fine-tuned models can speed up image workflows by making it easier to match outputs to specific creative briefs.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Software Engineer
+
 #### [OpenClaw](https://www.aimyflow.com/en/ai/molt-bot)
 
 OpenClaw is a personal AI assistant that helps users handle inbox, email, calendar, flight check-ins, and other computer-based tasks through chat apps like WhatsApp and Telegram, mainly for individuals who want to manage digital work from one conversational interface. For knowledge workers and operators, it can reduce app-switching by turning chat into an action layer for routine coordination and follow-up tasks.
 
 **Suitable roles:** CEO, COO, Project Management Officer, Software Engineer, Technical Writer
+
+#### [OpenGPT](https://www.aimyflow.com/en/ai/open-gpt-app)
+
+OpenGPT is a web platform for using a range of ready-made ChatGPT applications or creating custom ChatGPT apps in seconds, aimed mainly at people who want quick AI tools for writing, productivity, coding, and everyday tasks. In AI-enabled workflows, it can help writers, marketers, educators, and developers turn repeatable prompts into reusable task-specific apps that speed up routine content and assistance work.
+
+**Suitable roles:** Software Engineer, Copywriter, Digital Marketing Director, Teacher, Content Creator
 
 #### [OpenHands + Daytona](https://www.aimyflow.com/en/ai/openhands-daytona-io)
 
@@ -7610,6 +11090,12 @@ OpenMusic AI is an AI music creation platform that helps users generate full son
 
 **Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Copywriter
 
+#### [Openroll](https://www.aimyflow.com/en/ai/openroll-com)
+
+Openroll is an AI-powered compensation platform that helps teams benchmark roles, simulate pay positions, and analyze compensation, performance, and market data in one place, mainly for enterprise compensation, HR, and operations teams. By combining company data with AI-driven workflows and dashboards, it can help compensation and people leaders make faster, more consistent pay decisions with less manual analysis.
+
+**Suitable roles:** Compensation & Benefits Manager, Employee Relations Manager, COO, Financial Planning & Analysis Manager, Project Management Officer
+
 #### [OpenRouter](https://www.aimyflow.com/en/ai/openrouter-ai)
 
 OpenRouter is a unified API and routing platform for large language models that helps developers access, compare, and use multiple models through one interface. It gives engineering and product teams more flexibility to optimize model choice for cost, performance, and reliability as needs change.
@@ -7619,6 +11105,12 @@ OpenRouter is a unified API and routing platform for large language models that 
 #### [Oppy](https://www.aimyflow.com/en/ai/oppy-work)
 
 Oppy is an AI-powered job search and resume tool that helps job seekers rewrite resumes by voice, match with job openings, apply with a pre-certified resume, and track employer profile views. For candidates and career-focused professionals, its AI-driven resume tailoring and application tracking can speed up job search workflows and make outreach more responsive.
+
+#### [Optimo](https://www.aimyflow.com/en/ai/askoptimo-com)
+
+Optimo is an AI-powered suite of marketing tools from FATJOE that helps marketers generate content and complete everyday tasks across SEO, ads, social media, copywriting, email, video, and business work. For marketing, SEO, and content teams, tools like this can speed up repetitive drafting and ideation so professionals can focus more on strategy, editing, and campaign decisions.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Technical Writer, Content Creator
 
 #### [Optimyzee](https://www.aimyflow.com/en/ai/optimyzee-com)
 
@@ -7632,6 +11124,24 @@ Opttab is an AI search visibility platform that helps businesses, agencies, cont
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Technical Writer, CEO, Content Creator
 
+#### [Opus](https://www.aimyflow.com/en/ai/opus-ai)
+
+Opus is an AI text-to-video and computational production platform that turns written story ideas into scenes, characters, dialogue, and visual effects, aimed mainly at storytellers, artists, musicians, performers, gamers, and technical creators. In AI-driven content workflows, it can help creative teams prototype immersive narrative worlds faster from plain English without learning specialized syntax.
+
+**Suitable roles:** Content Creator, Independent Filmmaker, Social Media Content Creator, Graphic Designer, Podcast Producer
+
+#### [Orbofi](https://www.aimyflow.com/en/ai/orbofi-com)
+
+Orbofi is a platform for creating personalized AI agents, AI characters, and tokenized agentic coins that can chat, perform tasks, and run in sandboxed environments, mainly for creators, developers, and crypto-focused builders. In AI-driven workflows, it can help these users turn specialized agents into reusable digital products and automate ongoing research, content, or community tasks.
+
+**Suitable roles:** Software Engineer, Content Creator, Social Media Content Creator, CEO
+
+#### [Orca](https://www.aimyflow.com/en/ai/orcaengine-ai)
+
+Orca is an AI-powered Minecraft modding tool that helps users create mods, 3D models, items, blocks, skins, and custom behaviors from natural-language prompts, mainly for Minecraft creators and modders. By generating code, textures, and models, then supporting testing and publishing, it can help mod developers and game content creators turn ideas into playable assets faster with less manual setup.
+
+**Suitable roles:** Software Engineer, Graphic Designer, Content Creator, Industrial Designer, Technical Writer
+
 #### [OrchestrAI](https://www.aimyflow.com/en/ai/orchestrai-dev)
 
 OrchestrAI is an AI-powered code quality, security, and compliance platform that helps software teams move code from prototype to production by automating analysis, testing, documentation, instrumentation, and pull-request-based fixes. For developers, security, and compliance functions, it can reduce manual review work around AI-generated code and help keep releases production-ready with more consistent remediation and documentation.
@@ -7643,6 +11153,12 @@ OrchestrAI is an AI-powered code quality, security, and compliance platform that
 Oreate AI is an AI paraphrasing and rewriting tool that helps users quickly revise documents with online editing features, mainly for writers, students, and content professionals. It helps content-heavy roles produce cleaner rewrites at scale while reducing the time spent on repetitive wording changes.
 
 **Suitable roles:** College Professor, Education Technology Consultant, Digital Marketing Director, Corporate Leadership Coach, Content Creator, Podcast Producer +7 more
+
+#### [Originality.ai](https://www.aimyflow.com/en/ai/originality-ai)
+
+Originality.ai is an AI content detection and content quality platform that helps writers, editors, marketers, educators, students, and web publishers check text for AI generation, plagiarism, readability, grammar, and factual issues. In AI-assisted workflows, it can help editorial, education, and content QA teams verify originality and review standards before publication or submission.
+
+**Suitable roles:** Technical Writer, Copywriter, Digital Marketing Director, College Professor, Teacher
 
 #### [Origon AI](https://www.aimyflow.com/en/ai/origon-ai)
 
@@ -7674,11 +11190,35 @@ OsirisBrain is a desktop AI agent for macOS, Windows, and Linux that helps users
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, Technical Writer
 
+#### [Osmosis](https://www.aimyflow.com/en/ai/osmosis-ai)
+
+Osmosis is a forward-deployed reinforcement learning platform that helps companies train, deploy, and continuously improve task-specific AI models for data extraction, tool use, and code generation, mainly for engineering teams building production AI systems. For ML engineers and AI product teams, it can reduce post-training infrastructure work while enabling faster model updates from real-time feedback and evaluations.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, Project Management Officer
+
+#### [OSSInsight GitHub Data Explorer](https://www.aimyflow.com/en/ai/ossinsight-io-explore)
+
+OSSInsight GitHub Data Explorer is an AI-powered analytics tool that lets users ask plain-English questions about GitHub repositories, developers, and trends, then generates SQL and interactive visualizations from GitHub event data, mainly for developers, open source maintainers, and analysts. In AI-assisted engineering and research workflows, it can help these roles investigate repository activity, contribution patterns, and technology trends faster without needing SQL or charting skills.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Technical Writer
+
+#### [OSSUS](https://www.aimyflow.com/en/ai/librarlabs-com)
+
+OSSUS is a self-healing data infrastructure platform that helps organizations turn fragmented records into trusted, agent-ready systems of truth, mainly for teams responsible for data and AI foundations. As AI adoption grows, it can help data, analytics, and engineering professionals improve reliability by giving AI systems cleaner, more dependable information to work from.
+
+**Suitable roles:** Data Engineer, Data Scientist, Software Engineer, IT Infrastructure Manager, Software Development Manager
+
 #### [Otter](https://www.aimyflow.com/en/ai/otter-ai)
 
 Otter is an AI meeting assistant that provides live transcription, summaries, chat, insights, and action items for teams, managers, and knowledge workers. It helps meeting-heavy roles capture decisions automatically and spend more time acting on discussions instead of documenting them.
 
 **Suitable roles:** Content Creator, Information Technology Managers, Marketing and Sales Managers, Operations Specialties Managers, Financial Managers, Business Operations Specialists +11 more
+
+#### [Ought](https://www.aimyflow.com/en/ai/ought-org)
+
+Ought is a product-driven research lab that develops methods for delegating high-quality reasoning to advanced machine learning systems, mainly for AI safety researchers, product builders, and teams working on AI alignment. In the AI era, this kind of research can help researchers and builders design systems that support more reliable reasoning and safer decision-making in real-world products.
+
+**Suitable roles:** Data Scientist, Software Engineer, Software Development Manager, CEO, Education Technology Consultant
 
 #### [OutBid](https://www.aimyflow.com/en/ai/useoutbid-com)
 
@@ -7704,11 +11244,47 @@ Outlier is a platform that connects skilled freelancers with AI training work, h
 
 **Suitable roles:** Content Creator, Information Technology Managers, Math Science Roles, Engineers, Postsecondary Teachers, School Teachers +6 more
 
+#### [Outlit](https://www.aimyflow.com/en/ai/outlit-ai)
+
+Outlit is a customer context platform that unifies interactions, identity, revenue, usage, and support signals across tools so AI agents and teams can query customer data, detect risks, and act faster, mainly for customer success, support, and revenue teams. By structuring cross-system context for agents, it can help these functions spot churn or expansion signals earlier and prepare responses or meetings with less manual research.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, Project Management Officer, CEO
+
+#### [Outplay](https://www.aimyflow.com/en/ai/outplayhq-com)
+
+Outplay is an AI-powered sales engagement and sales automation platform that helps fast-scaling SMB sales teams manage multichannel outreach, follow-ups, conversation intelligence, and reporting in one system. For sales reps, SDRs, AEs, and sales managers, it can reduce manual outreach work and use sequence and performance insights to improve prospecting and team execution.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, COO
+
+#### [Outrove](https://www.aimyflow.com/en/ai/outrove-ai)
+
+Outrove is an AI recruiting workflow platform that helps hiring teams and recruiters source, screen, interview, evaluate, and move candidates through the hiring process with less manual work. For talent acquisition and recruiting operations, it can reduce administrative workload by automating outreach, AI interviews, and candidate evaluation while keeping hiring decisions structured.
+
+**Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, Project Management Officer, CEO
+
+#### [Outship](https://www.aimyflow.com/en/ai/outship-ai)
+
+Outship is a recruiting platform for engineering hiring teams that records and analyzes how software engineering candidates use AI coding agents during take-homes, interviews, and work trials in cloud workspaces. In AI-assisted hiring, it gives recruiters and engineering leaders process-level evidence on prompting, decision-making, and debugging, which can improve how they assess real-world engineering performance.
+
+**Suitable roles:** Talent Acquisition Manager, Software Development Manager, Software Engineer, CEO
+
+#### [Outwrite](https://www.aimyflow.com/en/ai/outwrite-com)
+
+Outwrite is an AI writing assistant that helps users improve grammar, punctuation, style, structure, and clarity across online tools like Google Docs, Word, Gmail, and WordPress, mainly for professionals and teams who write regularly. For marketers, publishers, and business communicators, it can speed up editing and produce clearer, more consistent writing in everyday workflows.
+
+**Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Content Creator, CEO
+
 #### [Overlead](https://www.aimyflow.com/en/ai/overlead-co-en)
 
 Overlead is a lead discovery tool that analyzes a product URL to find recent, high-intent Reddit and social media discussions where people ask for solutions, compare options, or seek alternatives, mainly for product marketers, founders, and sales teams. In an AI-driven buying journey, it helps these teams engage demand earlier and improve outreach by responding directly to real purchase-intent conversations and recommendation queries.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, CEO, Copywriter, Software Development Manager
+
+#### [Overstand Labs](https://www.aimyflow.com/en/ai/overstandlabs-com)
+
+Overstand Labs is a customer insights and evidence platform that unifies first-party data from emails, Slack, calls, documents, and databases so teams can ask business questions, analyze voice of the customer signals, and act on findings, mainly for enterprise legal, compliance, executive, HR, and customer data teams. In AI-enabled workflows, it can help analysts, investigators, and customer operations leaders move faster from scattered records to cited answers, trend analysis, and defensible actions.
+
+**Suitable roles:** COO, Employee Relations Manager, Project Management Officer, Data Scientist, Risk Analyst
 
 #### [OVR IT](https://www.aimyflow.com/en/ai/ovrit-app)
 
@@ -7758,11 +11334,47 @@ Paintit.ai is an AI interior design tool that helps users upload room images or 
 
 **Suitable roles:** Interior Designer, Real Estate Agent, Commercial Architect, Graphic Designer, Content Creator
 
+#### [Palace](https://www.aimyflow.com/en/ai/palace-so)
+
+Palace is an AI-native planning and dispatch platform that helps trucking carriers optimize load selection, routing, scheduling, and real-time fleet adjustments to improve asset utilization and revenue per truck. For dispatchers, planners, and fleet operations teams, it can reduce manual spreadsheet work and support faster, data-driven decisions across changing operating conditions.
+
+**Suitable roles:** Logistics Operations Planner, COO, Branch Office Manager, Project Management Officer, CEO
+
+#### [Pally](https://www.aimyflow.com/en/ai/pally-com)
+
+Pally is a privacy-first AI unified inbox that brings chats from multiple messaging platforms into one local workspace, helping users reach inbox zero and manage contacts and replies more easily, mainly for founders and executives. For professionals who handle high volumes of relationship-driven communication, its on-device AI categorization and draft support can streamline follow-up and reduce missed messages without sending sensitive data to external models.
+
+**Suitable roles:** CEO, COO, Field Sales Manager, Talent Acquisition Manager, Social Media Content Creator
+
+#### [Palm Reading](https://www.aimyflow.com/en/ai/palm-reading-app)
+
+Palm Reading is an online palmistry tool that analyzes uploaded palm photos to generate personalized readings about love, career, personality, and life path, mainly for people seeking self-reflection or entertainment through hand reading. In the AI era, it can help coaches, counselors, and content creators quickly structure discussion prompts or reflective material from image-based personal insight reports.
+
+**Suitable roles:** Wellness Coach, School Counselor, Social Media Content Creator, Content Creator
+
+#### [Palmier](https://www.aimyflow.com/en/ai/palmier-io)
+
+Palmier is an AI video platform that helps users create and edit marketing videos, mainly for founders, startups, and agencies that need polished promotional content. In AI-driven marketing workflows, it can help marketing teams and founders turn rough ideas into production-ready videos faster while reducing manual editing effort.
+
+**Suitable roles:** Digital Marketing Director, CEO, Social Media Content Creator, Content Creator, Copywriter
+
+#### [Paloma](https://www.aimyflow.com/en/ai/getpaloma-ai)
+
+Paloma is an AI analytics tool for supply chain teams that helps operators turn fragmented internal data into trustworthy answers and reports quickly. In AI-enabled supply chain work, it can help operations and analytics professionals spend less time consolidating data and more time acting on reliable insights.
+
+**Suitable roles:** Logistics Operations Planner, Project Management Officer, COO, Financial Analyst
+
 #### [Pamela](https://www.aimyflow.com/en/ai/thisispamela-com)
 
 Pamela is an AI phone calling assistant that handles business calls, wait times, appointment booking, and follow-ups for busy professionals, assistants, founders, and teams who want to avoid time-consuming phone tasks. For executive assistants, office managers, and operations roles, it can reduce interruptions by automating routine calls while still allowing live monitoring, summaries, and handoff when human judgment is needed.
 
 **Suitable roles:** COO, Project Management Officer, Branch Office Manager, CEO, Software Engineer
+
+#### [Panels](https://www.aimyflow.com/en/ai/usepanels-com)
+
+Panels is a provider of high-quality audio datasets for training and evaluating speech and audio models, helping voice AI teams, frontier voice labs, and startups source multilingual, speaker-separated, scripted, turn-taking, and custom audio data. For ML engineers, speech researchers, and product teams, this can improve model quality and deployment speed by aligning training and evaluation data more closely with real-world use cases and edge cases.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Software Development Manager, Technical Writer
 
 #### [Paper Animator Art](https://www.aimyflow.com/en/ai/paperanimator-art)
 
@@ -7770,11 +11382,21 @@ Paper Animator Art is an AI image-to-animation tool that turns static images int
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Graphic Designer, Content Creator, Ecommerce Seller
 
+#### [paperbrain.study](https://www.aimyflow.com/en/ai/paperbrain-study)
+
+paperbrain.study is a domain name listed for sale through GoDaddy, helping buyers purchase and transfer the web address securely, mainly for individuals or organizations that want to build a study-related website. In an AI-driven content and search landscape, owning a relevant domain can help educators, founders, and marketers establish a clearer brand identity for future digital projects.
+
 #### [Paperguide](https://www.aimyflow.com/en/ai/paperguide-ai)
 
 Paperguide is an AI research assistant that helps students, faculty, researchers, and other research professionals find and analyze papers, manage references, and draft cited documents in one platform. For academic researchers, medical writers, and scientists, it can speed literature reviews and evidence synthesis by extracting structured findings from large paper sets while keeping citations and source text visible for verification.
 
 **Suitable roles:** College Professor, Medical Lab Technician, Technical Writer, Data Scientist, Healthcare Administrator
+
+#### [Parachute](https://www.aimyflow.com/en/ai/parachute-ai-com)
+
+Parachute is governance infrastructure for clinical AI that helps hospitals evaluate vendors, approve deployments, monitor performance, and maintain audit-ready compliance documentation. For hospital AI, compliance, and clinical operations teams, it can reduce manual review work while improving oversight of bias, drift, privacy, and regulatory risk as healthcare AI adoption expands.
+
+**Suitable roles:** Healthcare Administrator, Occupational Health Specialist, Cybersecurity Manager, Project Management Officer
 
 #### [Paraflow](https://www.aimyflow.com/en/ai/paraflow-com)
 
@@ -7800,6 +11422,12 @@ Paraspeech is an offline speech-to-text app for Apple Silicon Macs that lets use
 
 **Suitable roles:** Technical Writer, Copywriter, Social Media Content Creator, Project Management Officer, Talent Acquisition Manager
 
+#### [PARES](https://www.aimyflow.com/en/ai/pares-ai)
+
+PARES is an AI-enabled commercial real estate platform that helps brokers and investors source, track, underwrite, market, and manage deals in one workflow. For CRE brokers and investment teams, it can reduce manual work across underwriting, market research, and reporting so they can focus more on evaluating opportunities and closing transactions.
+
+**Suitable roles:** Financial Analyst, Real Estate Agent, Investment Portfolio Manager, Financial Planning & Analysis Manager, Copywriter
+
 #### [Parker](https://www.aimyflow.com/en/ai/birthdayplannerai-com)
 
 Parker is an AI birthday party planner that helps parents plan kids’ parties by generating themed plans, checklists, budgets, vendor suggestions, RSVP tracking, and timelines through chat. For busy parents and family organizers, it can reduce manual coordination and speed up decisions by turning party details into a structured, actionable plan.
@@ -7822,11 +11450,29 @@ Patchley is an AI BPMN generator and editor that turns spoken or written process
 
 **Suitable roles:** Project Management Officer, COO, Risk Analyst, Software Development Manager, Nonprofit Program Manager
 
+#### [Patent Watch](https://www.aimyflow.com/en/ai/patentwatch-ai)
+
+Patent Watch is an AI patent analysis platform that helps IP teams, patent attorneys, and licensing or litigation professionals detect possible infringement, generate claim charts, search global patent databases, and assess prior art and validity. In AI-assisted patent workflows, it can speed evidence gathering and claim mapping so legal and IP professionals can focus more on case strategy, licensing decisions, and due diligence.
+
+**Suitable roles:** Lawyer, CEO, Project Management Officer, Technical Writer
+
 #### [Pathmaker](https://www.aimyflow.com/en/ai/pathmaker-app)
 
 Pathmaker is a personalized learning platform that helps people build week-by-week curricula with curated resources, progress tracking, class notes, and an AI coach, mainly for self-directed learners designing their own education. In AI-supported learning, it can help students, independent researchers, and learning designers turn broad goals into structured study plans and reflective practice.
 
 **Suitable roles:** Education Technology Consultant, College Professor, Online Coding Tutor, Teacher, Technical Writer
+
+#### [PathPilot](https://www.aimyflow.com/en/ai/getpathpilot-com)
+
+PathPilot is an AI lending operations platform that helps BNPL providers, embedded lending teams, credit card fintechs, and collection agencies automate onboarding, customer support, collections, and compliance workflows, mainly for COOs and other operational leaders. For lending operations, CX, collections, and compliance teams, it can use AI agents to handle routine work, improve oversight, and support scaling without proportional headcount growth.
+
+**Suitable roles:** COO, Project Management Officer, Financial Analyst, Risk Analyst, Customer Success Manager
+
+#### [Patternaly](https://www.aimyflow.com/en/ai/patternaly-com)
+
+Patternaly is an AI pattern generator that helps users create seamless, tileable patterns from text prompts for print-on-demand products, textiles, packaging, and wallpapers, mainly for designers and POD sellers. For packaging, textile, and e-commerce design work, it can speed concept generation and product previewing while reducing dependence on manual Photoshop-based pattern creation.
+
+**Suitable roles:** Graphic Designer, Ecommerce Seller, Fashion Designer, Content Creator, Industrial Designer
 
 #### [Paul & Ty's Clothes on the Fly](https://www.aimyflow.com/en/ai/paulandty-com)
 
@@ -7906,6 +11552,12 @@ PepHop AI is an online AI chatbot platform for chatting with user-created charac
 
 **Suitable roles:** Content Creator, Fiction Writer, Social Media Content Creator, Community College Instructor
 
+#### [Peppertype.ai](https://www.aimyflow.com/en/ai/peppertype-ai)
+
+Peppertype.ai is an AI content and search platform that helps marketing and content teams create, optimize, audit, and manage brand-aligned content with human-in-the-loop workflows. For SEO specialists, content marketers, and editors, it can improve productivity by combining AI-assisted writing with search visibility monitoring and performance insights across traditional and AI-driven discovery platforms.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Technical Writer, Content Creator, CEO
+
 #### [Perso AI](https://www.aimyflow.com/en/ai/perso-ai)
 
 Perso AI is an AI dubbing and video localization platform that helps creators, marketers, educators, and enterprises translate videos and audio into 33+ languages with voice cloning, lip sync, subtitles, and script editing. For video production, localization, and content teams, it can speed multilingual publishing while keeping speaker identity and on-screen delivery more consistent across markets.
@@ -7930,6 +11582,24 @@ Pet2AI is an AI-powered toolbox for pet owners that helps them create lost-pet p
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Nonprofit Program Manager
 
+#### [Petalica Paint](https://www.aimyflow.com/en/ai/petalica-com)
+
+Petalica Paint is an AI-powered painting and sketch refinement web service that helps users color line art, apply painting styles, and simplify sketches, mainly for illustrators and digital artists. For creative professionals, this kind of AI assistance can speed up shading and cleanup work so they can focus more on composition and final artistic decisions.
+
+**Suitable roles:** Graphic Designer, Content Creator, Fashion Designer, Independent Filmmaker, Street Muralist
+
+#### [Pharos](https://www.aimyflow.com/en/ai/pharos-health)
+
+Pharos is an AI-powered hospital quality and patient safety platform that automates chart abstraction, reporting, root cause analyses, audits, and quality improvement tracking for hospital quality and risk teams. For clinical reviewers, patient safety leaders, and quality improvement staff, it can reduce manual chart review and speed insight generation so teams can act on safety events and performance gaps sooner.
+
+**Suitable roles:** Healthcare Administrator, Occupational Health Specialist, IT Infrastructure Manager, Project Management Officer
+
+#### [Phases](https://www.aimyflow.com/en/ai/phases-ai)
+
+Phases is an AI tool that helps scale clinical trial operations, support participant recruitment, and reduce delays, mainly for teams running and managing trials. For clinical operations and research professionals, AI agents can streamline trial workflows while supporting data quality and compliance across study execution.
+
+**Suitable roles:** Healthcare Administrator, Project Management Officer, Nonprofit Program Manager, Medical Lab Technician
+
 #### [PhoneCaseAI](https://www.aimyflow.com/en/ai/phonecaseai-com)
 
 PhoneCaseAI is an AI phone case generator that turns text or voice ideas into custom case designs, lets users choose supported phone models, and delivers the finished case, mainly for consumers who want personalized phone accessories without design skills. For creative teams, marketers, and merchandise designers, it can quickly turn concepts into visual product options for testing styles or producing one-off branded items.
@@ -7948,11 +11618,23 @@ Phonk Maker is an AI music generator that helps users create royalty-free phonk 
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Independent Filmmaker, Music Lover
 
+#### [PhotoCat AI Image Extender](https://www.aimyflow.com/en/ai/photocat-com-image-extender)
+
+PhotoCat AI Image Extender is an online uncrop tool that uses generative AI to expand photo backgrounds, restore missing edges, and resize images naturally for photographers, marketers, and e-commerce teams. In AI-assisted visual production, it can help these professionals adapt one source image for social, banner, and product formats faster while reducing manual canvas extension work.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Ecommerce Seller, Content Creator
+
 #### [PhotodotAI](https://www.aimyflow.com/en/ai/photodot-ai)
 
 PhotodotAI is a web-based AI photo editor that helps users edit car photos, portraits, and other images with tools for background removal, enhancement, upscaling, and listing-ready exports, mainly for car dealers, creators, and people making headshots or ID photos. For automotive sales and image production teams, it can speed repetitive photo preparation and help maintain more consistent visual quality across listings and branded assets.
 
 **Suitable roles:** Field Sales Manager, Social Media Content Creator, Graphic Designer, E-commerce Sales Head, Real Estate Agent
+
+#### [PhotoKit](https://www.aimyflow.com/en/ai/photokit-com)
+
+PhotoKit is an AI-based online photo editor that helps users edit, enhance, and batch process images with tools for background removal, inpainting, clarity, exposure, resizing, cropping, and format conversion, mainly for people who need accessible browser-based image editing. For marketers, designers, and content teams, its AI and batch features can speed routine image preparation while reducing reliance on desktop editing software for common production tasks.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Content Creator, Ecommerce Seller, Social Media Content Creator
 
 #### [PhotoMentor](https://www.aimyflow.com/en/ai/photomentor-pro)
 
@@ -8014,6 +11696,12 @@ Pickle is a personal AI and memory system that turns everyday moments, actions, 
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, CEO, Data Scientist
 
+#### [Pickle](https://www.aimyflow.com/en/ai/pickle-com)
+
+Pickle is a personal AI and memory system that turns everyday moments, conversations, and learning into a living memory layer so AI can better understand and support individuals across tasks. For knowledge workers and other professionals using AI regularly, this can make assistance more context-aware, proactive, and personalized by recalling relevant patterns and intent over time.
+
+**Suitable roles:** Software Engineer, Data Engineer, Data Scientist, Technical Writer, CEO
+
 #### [PicLumen](https://www.aimyflow.com/en/ai/piclumen-com)
 
 PicLumen is a free online AI image and video generator that helps users create visuals and videos from text prompts or uploaded images, mainly for creators, designers, and content producers. By combining multiple generation models with editing tools like background removal, upscaling, colorizing, and image reference, it can speed iterative visual production for design, marketing, and social media workflows.
@@ -8032,11 +11720,27 @@ Picsart is an all-in-one creative platform with AI design tools, templates, and 
 
 **Suitable roles:** Content Creator, Fashion Designer, Art and Design Workers, Media Communicators, Writers and Authors, Other Arts Roles +13 more
 
+#### [Picsart Free Online Video Editor](https://www.aimyflow.com/en/ai/picsart-com-video-editor)
+
+Picsart Free Online Video Editor is a browser-based video editing tool that helps users trim, enhance, subtitle, resize, and export videos with standard and AI-assisted features, mainly for everyday creators, social media users, and small businesses. In AI-supported content workflows, it can help social media managers, content marketers, and creators produce platform-ready videos faster while keeping control over timing, audio, and visual edits.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, CEO
+
+#### [Picsart Photo Editor](https://www.aimyflow.com/en/ai/picsart-com-photo-editor)
+
+Picsart Photo Editor is a free online image editing tool that helps creators, solopreneurs, and marketers crop, enhance, design, and batch-edit images using templates, filters, and AI-powered features. For content, marketing, and design teams, its AI tools for background removal, object cleanup, resizing, and enhancement can reduce manual editing time while supporting faster asset production.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Ecommerce Seller
+
 #### [Picsart Remove Background API](https://www.aimyflow.com/en/ai/picsart-io-remove-background)
 
 Picsart Remove Background API is an AI image-processing tool that automatically removes and replaces photo backgrounds, adds shadows or strokes, and supports bulk workflows for developers, e-commerce teams, and creative businesses. For product marketers, designers, and platform teams, it can speed production of clean, consistent product visuals and other image assets at scale with less manual editing.
 
 **Suitable roles:** Graphic Designer, E-commerce Sales Head, Software Engineer, Digital Marketing Director, Content Creator
+
+#### [picsart.io](https://www.aimyflow.com/en/ai/picsart-io)
+
+picsart.io is currently unavailable because its host is returning a 502 bad gateway error, so users cannot access the site or verify what the tool does; this is mainly relevant for site visitors and the web team responsible for the service. For IT, DevOps, and digital operations teams, resolving outages quickly is increasingly important because AI-driven workflows depend on reliable access to web tools and services.
 
 #### [Picsman AI Image Extender](https://www.aimyflow.com/en/ai/picsman-ai-tools-ai-enlarge-image)
 
@@ -8044,11 +11748,29 @@ Picsman AI Image Extender is an AI outpainting tool that helps users expand phot
 
 **Suitable roles:** Graphic Designer, E-commerce Sales Head, Social Media Content Creator, Digital Marketing Director, Content Creator
 
+#### [Picsman AI Video Enhancer](https://www.aimyflow.com/en/ai/picsman-ai-tools-ai-video-enhancer)
+
+Picsman AI Video Enhancer is a free online AI video enhancement tool that helps users sharpen blurry footage, improve clarity and color, and upscale resolution to 1080p or 4K, mainly for content creators, marketers, and video enthusiasts. In AI-driven video workflows, it can help creators and marketing teams quickly prepare clearer source footage for publishing, presentations, and product demos without complex editing.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, E-commerce Sales Head, Graphic Designer
+
 #### [Picsman Background Remover](https://www.aimyflow.com/en/ai/picsman-ai-tools-background-remover)
 
 Picsman Background Remover is an AI-powered online tool that automatically removes image backgrounds, creates transparent PNGs, changes background colors, and generates new backgrounds, mainly for people editing product photos, marketing images, and social media visuals. For ecommerce teams, marketers, and designers, it can speed up high-volume image preparation with batch background removal and consistent cutouts that reduce manual editing work.
 
 **Suitable roles:** Graphic Designer, E-commerce Sales Head, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller
+
+#### [PicTools.AI’s AI Image Generator from Text](https://www.aimyflow.com/en/ai/pictools-ai-ai-image-generator)
+
+PicTools.AI’s AI Image Generator from Text is a text-to-image tool that helps users turn written prompts into images in seconds, mainly for marketers, creators, and other people working on websites, social media, and creative projects. In AI-assisted visual workflows, it can help content, design, and marketing teams produce concepts, mockups, and campaign visuals faster without requiring design skills.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [PicWish](https://www.aimyflow.com/en/ai/picwish-cn)
+
+PicWish is an AI image editing platform for online background removal, watermark removal, photo repair, image sharpening, upscaling, and ID photo background changes, mainly for e-commerce sellers, designers, and content creators. In AI-driven visual workflows, it can help these teams produce cleaner product and marketing images faster, reducing manual editing work across large image sets.
+
+**Suitable roles:** Ecommerce Seller, Graphic Designer, Content Creator, Digital Marketing Director, Software Engineer
 
 #### [PicWish](https://www.aimyflow.com/en/ai/picwish-com)
 
@@ -8079,6 +11801,12 @@ Pikodee is an AI image and video generator that helps creators, marketers, and t
 Pillar is an open-source copilot platform that helps product and engineering teams embed AI assistants in their apps to turn user or agent requests into completed actions using existing frontend components, auth, and APIs. For app developers and product engineers, this can shorten the path from chat-based support to action-taking workflows that improve in-app automation and agent readiness without adding complex backend glue code.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Education Technology Consultant
+
+#### [Pinch](https://www.aimyflow.com/en/ai/startpinch-com)
+
+Pinch is a real-time speech translation and AI video dubbing platform that helps users translate videos, podcasts, audio, and live conversations across 10 languages, mainly for content teams, multilingual communicators, and developers using its API. For media, communications, and meeting-focused professionals, it can reduce language barriers while preserving speaker voice, tone, and conversational flow in live and recorded content.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Software Engineer, Technical Writer, Digital Marketing Director
 
 #### [Ping](https://www.aimyflow.com/en/ai/ping-tm)
 
@@ -8152,6 +11880,12 @@ PixiFixi is an online AI photo editor that helps users restore old photos, repla
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Ecommerce Seller
 
+#### [Pixley](https://www.aimyflow.com/en/ai/pixleyai-com)
+
+Pixley is an AI tool for creating personalized children’s shows and story content by turning families into animated characters, mainly for parents and families. For caregivers and educators, it can quickly generate familiar, child-centered stories that make entertainment and early learning feel more engaging and personal.
+
+**Suitable roles:** Content Creator, Teacher, Elementary School Math Teacher, School Counselor, Education Technology Consultant
+
 #### [Pixlio AI](https://www.aimyflow.com/en/ai/pixlio-net)
 
 Pixlio AI is a browser-based AI image editor that helps users generate images from text and edit photos with tools like background removal, text manipulation, upscaling, and style transfer, mainly for marketers, e-commerce teams, content creators, and designers. In AI-driven visual workflows, it can help these professionals produce campaign, product, and social assets faster from prompts and existing images without relying on multiple separate tools.
@@ -8163,6 +11897,12 @@ Pixlio AI is a browser-based AI image editor that helps users generate images fr
 Pixlr is an online AI photo editor and design platform with image generation, batch editing, animation, and enhancement tools for creators, marketers, and small businesses. It helps creative and marketing teams handle more visual production in-browser without expanding software complexity or turnaround time.
 
 **Suitable roles:** Content Creator
+
+#### [PiXmas](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-christmas-pictures-app-pixmas-id6755126821)
+
+PiXmas is an iPhone and iPad photo app that turns uploaded pictures into Christmas-themed portraits, Santa photos, and holiday cards with one-tap editing, mainly for families, parents, couples, and content creators. For social media creators and marketers, AI-generated seasonal visuals can speed up holiday campaign production and reduce the need for custom festive photo shoots.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Graphic Designer, Content Creator, Copywriter
 
 #### [PixVerse](https://www.aimyflow.com/en/ai/pixverse-ai)
 
@@ -8182,11 +11922,77 @@ PixZap is an AI photo editing service that works through WhatsApp, helping peopl
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Graphic Designer, Ecommerce Seller
 
+#### [Planbase](https://www.aimyflow.com/en/ai/joinplanbase-com)
+
+Planbase is an AI-powered healthcare employee management platform that helps healthcare organizations streamline provider onboarding, scheduling, credentialing, payroll, forecasting, and workforce analytics. For provider operations, practice management, and staffing teams, its AI-driven workflows can reduce manual administrative work and improve staffing, compliance, and utilization decisions as demand changes.
+
+**Suitable roles:** Healthcare Administrator, COO, Project Management Officer, Compensation & Benefits Manager, Certified Public Accountant
+
 #### [Plania](https://www.aimyflow.com/en/ai/plania-ai-en)
 
 Plania is an AI business plan generator that helps entrepreneurs and startup founders create investor-ready business plans, financial projections, and market research through a guided online workflow. For founders, consultants, and small business advisors, it can speed up planning work and provide more structured first drafts for funding, strategy, and launch decisions.
 
 **Suitable roles:** CEO, CFO, Financial Analyst, COO
+
+#### [Plask Motion](https://www.aimyflow.com/en/ai/plask-ai)
+
+Plask Motion is an AI-powered motion capture and 3D animation tool that turns video into character animation and rendered scenes, mainly for animators, game developers, and 3D creators. In AI-driven production workflows, it can help animation and XR teams move faster from raw footage to export-ready assets for tools like Unreal, Unity, Maya, and Blender.
+
+**Suitable roles:** Graphic Designer, Independent Filmmaker, Content Creator, Software Engineer
+
+#### [Playabl](https://www.aimyflow.com/en/ai/playabl-ai)
+
+Playabl is a no-code AI game builder that helps creators, marketers, and teams make playable web games, ads, and interactive experiences by describing ideas in chat, remixing templates, and publishing instantly. For game designers, creative strategists, and rapid prototyping teams, it can shorten concept testing cycles by turning ideas into shareable playables that are easy to iterate with feedback.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Software Development Manager, Teacher
+
+#### [Playable Factory](https://www.aimyflow.com/en/ai/vidvoi-com)
+
+Playable Factory is a platform and service for building custom playable ads that help game publishers, user acquisition teams, and digital marketers increase engagement, installs, and return on ad spend. In AI-driven ad workflows, its AI-generated playables and rapid iteration tools can help performance marketers and creative teams test interactive concepts faster and optimize campaigns more efficiently.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, E-commerce Sales Head, CEO, Copywriter
+
+#### [Playgent](https://www.aimyflow.com/en/ai/useplaygent-com)
+
+Playgent provides reinforcement learning environments for finance that help teams post-train and benchmark AI agents on realistic banking, investing, compliance, and operations tasks, mainly for organizations building financial AI systems. For AI researchers, ML engineers, and financial institutions, this can improve agent reliability by grounding training in expert-designed tasks, verifiers, and domain-specific decision scenarios.
+
+**Suitable roles:** Data Scientist, Software Engineer, Financial Analyst, Risk Analyst, IT Infrastructure Manager
+
+#### [Playground](https://www.aimyflow.com/en/ai/playgroundai-com)
+
+Playground is a free AI design tool that helps users create custom graphics such as logos, T-shirts, social posts, posters, and wallpapers, mainly for creators and people producing visual content. For designers, marketers, and social media teams, AI-assisted templates and generation can speed up concepting and asset production across common campaign formats.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator
+
+#### [PlayVision](https://www.aimyflow.com/en/ai/withplayvision-ai)
+
+PlayVision is an AI and computer vision platform that analyzes basketball practice and game film, tracks player movement, tags plays, and generates advanced analytics for sports teams, coaches, recruiters, and fans. In AI-driven basketball operations, it can help coaching and scouting staff review film faster, evaluate players more consistently, and surface patterns that are difficult to catch manually.
+
+**Suitable roles:** Professional Athlete, Project Management Officer, College Professor, Content Creator
+
+#### [Pleom](https://www.aimyflow.com/en/ai/pleom-com)
+
+Pleom is an agentic business intelligence platform that connects company data sources, generates AI-powered analytics, visualizations, workflows, machine learning, and plain-English data answers, mainly for business teams such as revenue operations, customer success, marketing, finance, and product analytics. In AI-driven operations, it can help analysts and operators reduce manual reporting and move faster from raw data to forecasts, anomaly detection, and next-step actions.
+
+**Suitable roles:** Financial Analyst, Digital Marketing Director, Project Management Officer, Data Scientist, E-commerce Sales Head
+
+#### [Pliny](https://www.aimyflow.com/en/ai/pliny-app)
+
+Pliny was a platform for creating, sharing, and remixing GPT-3-based apps, aimed at people building and experimenting with AI app experiences, but it has now shut down. Its closure and shift to Faraday.dev reflects how AI developers and technical creators are prioritizing local, offline-first tools that simplify working with open-source language models.
+
+**Suitable roles:** Software Engineer, Technical Writer, Fiction Writer, Education Technology Consultant, Content Creator
+
+#### [Plume Finder](https://www.aimyflow.com/en/ai/plumefinder-com)
+
+Plume Finder is an AI site selection tool that helps users analyze geospatial, grid, and regulatory constraints with natural language for renewable energy and infrastructure projects, mainly for infrastructure and energy development teams. In AI-assisted planning workflows, it can help site selection, permitting, and project development professionals evaluate candidate parcels more efficiently and consistently.
+
+**Suitable roles:** Civil Engineer, Project Management Officer, Commercial Architect, Data Scientist, CEO
+
+#### [Pluto](https://www.aimyflow.com/en/ai/pluto-trade)
+
+Pluto is a marketplace for compute derivatives that helps users trade, hedge, and price the physical and digital commodities powering artificial intelligence, mainly for participants in AI infrastructure and compute markets. As AI demand grows, it can help trading, procurement, and risk teams manage exposure to compute hardware and related supply constraints more systematically.
+
+**Suitable roles:** Risk Analyst, Financial Analyst, IT Infrastructure Manager, Logistics Operations Planner, CFO
 
 #### [PlutoBa](https://www.aimyflow.com/en/ai/plutoba-com)
 
@@ -8248,6 +12054,24 @@ Polarbear is a student-first learning management system with AI tools such as tu
 
 **Suitable roles:** Test Prep Tutor, Online Coding Tutor, Education Technology Consultant, Teacher
 
+#### [Pollinations.ai](https://www.aimyflow.com/en/ai/pollinations-ai)
+
+Pollinations.ai is an open-source API platform that helps developers build and ship AI apps for text, image, audio, and video without managing models or infrastructure. For application developers and technical teams, it can speed prototyping and production by providing one OpenAI-compatible endpoint, media uploads, streaming, and built-in auth and hosting options.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, IT Infrastructure Manager, Data Scientist
+
+#### [Poly](https://www.aimyflow.com/en/ai/withpoly-com-browse-textures)
+
+Poly is an AI-powered cloud file browser and hosting service that helps users store, search, summarize, organize, and chat about files across many formats, mainly for people managing large media, document, archive, or research collections. In AI-assisted workflows, it can help researchers, creatives, and knowledge workers find specific content inside files faster and turn scattered assets into usable notes, summaries, and references.
+
+**Suitable roles:** Technical Writer, Graphic Designer, Content Creator, Software Engineer, College Professor
+
+#### [PolyAI](https://www.aimyflow.com/en/ai/poly-ai)
+
+PolyAI is an enterprise conversational AI platform for creating lifelike voice agents across voice, chat, and SMS, helping customer service and contact center teams automate account management, bookings, payments, FAQs, and troubleshooting at scale. For CX leaders and operations teams, it can improve service performance by combining automation with interaction analytics, policy controls, and integrations that support faster decisions and more consistent customer experiences.
+
+**Suitable roles:** COO, Project Management Officer, Healthcare Administrator, IT Infrastructure Manager, CEO
+
 #### [Polybuzz](https://www.aimyflow.com/en/ai/polybuzz-ai)
 
 Polybuzz is an AI character chat and roleplay platform that lets users talk with, create, and customize AI characters, mainly for people seeking entertainment, fictional conversations, and interactive storytelling. For writers, community managers, and creative teams, AI character platforms like this can speed up ideation for dialogue, personas, and story-world exploration.
@@ -8259,6 +12083,16 @@ Polybuzz is an AI character chat and roleplay platform that lets users talk with
 Polymer is a runtime data security platform that helps enterprises identify, analyze, and mitigate real-time security risks across AI and SaaS workflows, mainly for security, compliance, and IT teams. For security operations and compliance professionals, it can improve AI-era work by monitoring data in motion and at rest, automating policy enforcement, and producing audit logs aligned to frameworks like HIPAA, SOC 2, CCPA, and GDPR.
 
 **Suitable roles:** Cybersecurity Manager, IT Infrastructure Manager, Cybersecurity Analyst, Healthcare Administrator, Risk Analyst
+
+#### [Ponzu.gg appears to be a category-based resource directory that](https://www.aimyflow.com/en/ai/ponzu-gg)
+
+Ponzu.gg appears to be a category-based resource directory that helps users browse topic listings across areas like Automotive, Finance, Health, Shopping, and Travel, mainly for people looking for web resources by subject. For marketers, researchers, and content teams, this kind of structured category navigation can speed up discovery and support faster sourcing of relevant links and reference sites.
+
+#### [Pop2Piano](https://www.aimyflow.com/en/ai/sweetcocoa-github-io-pop2piano_samples)
+
+Pop2Piano is an audio-based AI system that generates piano cover versions of pop songs in selectable arrangement styles, mainly for music AI researchers, composers, and producers exploring automated arrangement. For music production and research workflows, it can help quickly compare stylistic piano arrangements from source audio and speed up prototyping of cover ideas.
+
+**Suitable roles:** Software Engineer, Data Scientist, Content Creator, Music Lover, Technical Writer
 
 #### [PopVid AI](https://www.aimyflow.com/en/ai/meme-gen-ai)
 
@@ -8277,6 +12111,12 @@ PortfolioGPT is an AI portfolio generator that helps users create personalized i
 PortfolioPilot is an advanced portfolio tracking platform that helps users monitor investments and manage portfolio performance, mainly for individual investors and wealth-focused decision makers. AI-driven tracking can help investors and advisors review positions faster and make more informed allocation decisions.
 
 **Suitable roles:** Financial Analyst
+
+#### [Portret.ai](https://www.aimyflow.com/en/ai/portret-ai)
+
+Portret.ai is an AI portrait generator that trains a dedicated model from five user photos to create personalized avatars in multiple styles, mainly for individuals who want custom self-portraits for personal use or gifts. For creators and social media professionals, it can speed up producing varied profile and visual identity assets without arranging repeated photo shoots.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Graphic Designer, Copywriter
 
 #### [PoseX](https://www.aimyflow.com/en/ai/posex-ai)
 
@@ -8314,6 +12154,12 @@ Potis.AI is an AI recruiting platform that helps growing teams screen, assess, a
 
 **Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, Software Development Manager, CEO
 
+#### [Powtoon](https://www.aimyflow.com/en/ai/powtoon-com)
+
+Powtoon is a unified AI video and presentation platform that helps users create branded videos from documents, text, templates, screen recordings, and avatars, mainly for business teams such as marketing, training, HR, internal communications, and education. In AI-driven content workflows, it can help these teams produce localized, captioned, and on-brand visual communications faster without requiring advanced video editing skills.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Talent Acquisition Manager, Education Technology Consultant, Copywriter
+
 #### [Powtoon](https://www.aimyflow.com/en/ai/powtoon-com-ai)
 
 Powtoon is a unified AI video creation platform that helps users turn documents and ideas into professional videos with scriptwriting, voiceovers, avatars, captions, translations, and editing, mainly for business, education, and enterprise teams. For marketers, trainers, HR, and internal communications teams, it can speed up multilingual video production while preserving brand consistency and team collaboration.
@@ -8337,6 +12183,18 @@ PPT.AI is an AI presentation maker that turns text, documents, PDFs, URLs, YouTu
 PPTDetector is an AI content detection tool that analyzes uploaded PowerPoint and PPTX presentations, and related essay content, to help educators, academic reviewers, and business users check whether material may be AI generated. For teachers, compliance teams, and presentation reviewers, it can speed originality checks by flagging AI-like text, images, and slide structure before content is accepted or shared.
 
 **Suitable roles:** Teacher, Technical Writer, Project Management Officer, Corporate Leadership Coach, Education Technology Consultant
+
+#### [Praxim](https://www.aimyflow.com/en/ai/praxim-ai)
+
+Praxim is an AI assistant for Microsoft Word that helps users edit, redline, generate, and reformat documents with cited answers and formatting control, mainly for professionals working heavily in Word, especially contract and report writers. By keeping AI editing, document search, and web research inside Word, it can reduce context switching and speed review-heavy work for legal, operations, and document-intensive teams.
+
+**Suitable roles:** Technical Writer, Lawyer, Project Management Officer, Financial Analyst, COO
+
+#### [Praxos](https://www.aimyflow.com/en/ai/mypraxos-com)
+
+Praxos is a personal assistant tool that lets users text instructions from their phone or computer so it can connect to apps, handle chores, send replies, and keep track of tasks, mainly for busy individuals and small business owners. In AI-assisted workflows, it can help managers, operators, and customer-facing teams reduce missed tasks and routine follow-up work by automating everyday actions.
+
+**Suitable roles:** Project Management Officer, Restaurant General Manager, Branch Office Manager, CEO
 
 #### [PRBot](https://www.aimyflow.com/en/ai/prbot-ai)
 
@@ -8368,6 +12226,12 @@ Preflight Plus by Alison is an AI creative audit tool that helps creative and me
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, Content Creator, E-commerce Sales Head
 
+#### [PrepAI](https://www.aimyflow.com/en/ai/prepai-in-us)
+
+PrepAI is an AI-assisted assessment platform that helps educators and academic institutions create quizzes and tests, grade work, and track student performance more efficiently, mainly for faculty, universities, and academic leaders. In AI-enabled education workflows, it can reduce manual assessment work and give teachers and administrators more consistent data for feedback, curriculum decisions, and student support.
+
+**Suitable roles:** College Professor, Education Technology Consultant, School Counselor, Teacher
+
 #### [Presenti Text to Presentation](https://www.aimyflow.com/en/ai/presenti-ai-text-to-presentation)
 
 Presenti Text to Presentation is an AI presentation maker that turns typed topics or pasted text into editable slide decks with templates, online editing, and export options, mainly for professionals, educators, and students who need faster presentation creation. In AI-supported workflows, it can help marketing, sales, teaching, and product teams spend less time formatting slides and more time refining messaging, analysis, and delivery.
@@ -8392,11 +12256,29 @@ Prezi is a presentation platform with AI features that helps users create engagi
 
 **Suitable roles:** Content Creator, Marketing and Sales Managers, Human Resources Managers, Postsecondary Teachers, School Teachers, Other Education Roles +1 more
 
+#### [Primer](https://www.aimyflow.com/en/ai/startprimer-com)
+
+Primer is a tool that automates personalized product demos to help teams close deals faster and scale demo delivery with less friction, mainly for sales and go-to-market teams. In AI-driven buying journeys, it can help sales professionals deliver more tailored demos consistently while freeing time for higher-value conversations and follow-up.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, COO
+
+#### [Primitive](https://www.aimyflow.com/en/ai/primitive-dev)
+
+Primitive is a developer tool that turns email into JSON webhooks, helping users receive and process emails across domains and aliases in applications and agent workflows. For software engineers and AI developers, this can make email data easier to route, parse, and automate inside backend systems and AI-driven operations.
+
+**Suitable roles:** Software Engineer, Data Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Analyst
+
 #### [Prism](https://www.aimyflow.com/en/ai/openai-com-prism)
 
 Prism is a free LaTeX editor and AI-native scientific workspace from OpenAI that helps scientists draft, edit, compile, search literature, manage citations, and collaborate on research documents in one cloud-based environment. For researchers and scientific writing teams, its project-aware AI can reduce formatting and proofreading overhead so they can spend more time on analysis, reasoning, and manuscript development.
 
 **Suitable roles:** Technical Writer, Software Engineer, Data Scientist, Applied Mathematician, Theoretical Physicist
+
+#### [Prisma Labs](https://www.aimyflow.com/en/ai/prisma-ai-com)
+
+Prisma Labs is a company behind the Prisma and Lensa apps, which help users enhance photos, turn images into art, and edit photo and video content, mainly for consumers and mobile creators. In AI-assisted visual workflows, tools like these can help social media creators, designers, and content teams produce polished imagery faster with less manual editing.
+
+**Suitable roles:** Social Media Content Creator, Graphic Designer, Content Creator, Digital Marketing Director, Copywriter
 
 #### [Prismer AI](https://www.aimyflow.com/en/ai/prismer-ai)
 
@@ -8409,6 +12291,10 @@ Prismer AI is an AI learning platform that turns research papers, PDFs, videos, 
 Prismix is an AI social media management tool that helps users create, schedule, automate, and analyze content across multiple platforms, mainly for social media managers and marketing teams. In AI-driven marketing workflows, it can help these professionals reduce manual planning time while keeping brand messaging more consistent and performance tracking centralized.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, CEO
+
+#### [prisms.ai](https://www.aimyflow.com/en/ai/prisms-ai)
+
+prisms.ai appears to be a registered domain name that may still be available for purchase, helping buyers and brand teams secure a web address. In an AI-driven market where naming and online presence matter, acquiring a relevant domain can support marketers, founders, and digital strategy teams building discoverable products and brands.
 
 #### [Privatemode AI](https://www.aimyflow.com/en/ai/privatemode-ai)
 
@@ -8427,6 +12313,18 @@ Privy is an email, SMS, and list growth platform that helps ecommerce brands cre
 ProAI is AI business planning software that helps founders create startup business plans, financial forecasts, pitch decks, market research, and investor-ready materials in one platform. For startup founders and business owners seeking funding, it can speed planning and give finance, strategy, and business development work more structured, data-backed outputs for investor conversations.
 
 **Suitable roles:** CEO, CFO, Financial Planning & Analysis Manager, Financial Analyst, Project Management Officer
+
+#### [Procys](https://www.aimyflow.com/en/ai/procys-com)
+
+Procys is an AI document processing platform that extracts data from invoices, purchase orders, receipts, ID cards, and other business documents, mainly for accounting teams, accounting firms, and operations-heavy businesses. In AI-enabled finance and back-office workflows, it can reduce manual data entry and speed compliant document handling for accountants, finance staff, and operations teams.
+
+**Suitable roles:** Certified Public Accountant, Financial Analyst, Logistics Operations Planner, Medical Biller, IT Infrastructure Manager
+
+#### [Producer.ai](https://www.aimyflow.com/en/ai/riffusion-com)
+
+Producer.ai is an AI music creation platform that helps musicians, producers, and creators generate, remix, personalize, publish, and share studio-quality songs, music videos, and audio tools from simple prompts. For music professionals and content creators, it can speed up ideation and iteration by turning natural-language direction into editable tracks, stems, and visuals within one workflow.
+
+**Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Copywriter, Software Engineer
 
 #### [Product Hunt](https://www.aimyflow.com/en/ai/producthunt-com)
 
@@ -8458,11 +12356,23 @@ ProfessionalHeadshots.io is an AI headshot generator that turns 5–20 selfies i
 
 **Suitable roles:** CEO, Talent Acquisition Manager, Field Sales Manager, Lawyer, Content Creator
 
+#### [Profile Picture AI’s Free PFP Maker](https://www.aimyflow.com/en/ai/profilepicture-ai-free-pfp-maker)
+
+Profile Picture AI’s Free PFP Maker is a browser-based profile photo generator that helps users create circular display pictures with custom borders, gradients, text, and background removal, mainly for social media users and professionals updating platform avatars. For marketers, creators, and job seekers, local in-browser processing and fast profile image variations make it easier to test polished personal branding visuals while keeping source photos private.
+
+**Suitable roles:** Social Media Content Creator, Graphic Designer, Copywriter, Digital Marketing Director, Content Creator
+
 #### [ProfitMap](https://www.aimyflow.com/en/ai/profitmap-io)
 
 ProfitMap is an AI-powered financial analysis tool that turns profit and loss data into dashboards, forecasts, and recommendations to help business owners understand finances and grow profit. For owners, accountants, and bookkeepers, it can speed up financial review and surface profit leaks or planning risks earlier so decisions rely less on spreadsheets and guesswork.
 
 **Suitable roles:** Financial Analyst, Certified Public Accountant, CFO, CEO, Financial Planning & Analysis Manager
+
+#### [Profluent](https://www.aimyflow.com/en/ai/profluent-bio)
+
+Profluent is an AI protein design platform that helps biology teams author new proteins and gene editors for applications in medicine, agriculture, and industrial enzymes. For molecular biologists, bioengineers, and drug discovery teams, AI-designed proteins can speed exploration of novel therapeutic and gene editing candidates beyond natural scaffolds.
+
+**Suitable roles:** Molecular Biologist, Data Scientist, Software Engineer, CEO, Commercial Architect
 
 #### [ProFormaGen](https://www.aimyflow.com/en/ai/proformagen-io)
 
@@ -8470,17 +12380,41 @@ ProFormaGen is an AI-powered financial modeling tool that helps startup founders
 
 **Suitable roles:** CFO, Financial Analyst, CEO, Financial Planning & Analysis Manager
 
+#### [ProhostAI](https://www.aimyflow.com/en/ai/prohost-ai)
+
+ProhostAI is an all-in-one AI assistant for vacation rental hosts and property managers that helps them automate guest messaging, cleanings, tasks, guidebooks, reviews, and day-to-day property operations across one to 300+ listings. For short-term rental operations teams, centralizing communication and workflow automation in an AI-driven platform can reduce manual coordination and improve consistency across properties.
+
+**Suitable roles:** Branch Office Manager, COO, Project Management Officer, Restaurant General Manager
+
+#### [Proliferate](https://www.aimyflow.com/en/ai/proliferate-com)
+
+Proliferate is an autonomous engineering organization with a Y Combinator jobs page that helps candidates find and apply to its open roles, mainly for software engineers interested in early-stage startup work. For engineering leaders and recruiting teams, AI-driven engineering organizations can streamline how technical talent is matched to product-building roles at fast-moving startups.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Talent Acquisition Manager, CEO, Project Management Officer
+
 #### [Prolific](https://www.aimyflow.com/en/ai/prolific-com)
 
 Prolific is a research platform that helps users collect high-quality human participant data, mainly for researchers, AI developers, and organizations running studies or evaluations. Reliable human feedback improves model testing and research quality, helping teams make better evidence-based decisions.
 
 **Suitable roles:** Content Creator, Life Scientists, Postsecondary Teachers, School Teachers, Other Education Roles, Science Technicians +11 more
 
+#### [PromeAI](https://www.aimyflow.com/en/ai/promeai-com)
+
+PromeAI is an AI image generator and editor that helps users create, render, and refine images and videos from text, sketches, photos, and design drafts, mainly for designers, architects, interior designers, product developers, and game creators. In AI-assisted visual workflows, it can help these professionals iterate concepts faster while keeping more control over style consistency and detailed edits.
+
+**Suitable roles:** Graphic Designer, Interior Designer, Residential Architect, Industrial Designer, Content Creator
+
 #### [PrometAI’s Business Plan Templates page](https://www.aimyflow.com/en/ai/prometai-app-business-plan-templates)
 
 PrometAI’s Business Plan Templates page is a library of free business plan templates and examples that helps users create structured business plans across many industries, mainly for entrepreneurs and founders developing new ventures. In AI-assisted planning workflows, these templates can help founders, consultants, and small business operators draft faster, organize assumptions more clearly, and improve the consistency of early-stage business documents.
 
 **Suitable roles:** CEO, COO, Project Management Officer, Financial Planning & Analysis Manager
+
+#### [Promethean AI](https://www.aimyflow.com/en/ai/prometheanai-com)
+
+Promethean AI is an AI assistant for professional creative teams that build virtual 3D worlds, helping artists and studios organize creative assets, surface relevant inspiration, and speed world-building without changing their existing editors or uploading assets. For game artists, film and animation teams, and architectural visualization professionals, it can use natural language and metadata-based asset reasoning to reduce manual asset search and setup work across complex production pipelines.
+
+**Suitable roles:** Graphic Designer, Independent Filmmaker, Commercial Architect, Software Development Manager, Interior Designer
 
 #### [PromNest](https://www.aimyflow.com/en/ai/promnest-com)
 
@@ -8518,6 +12452,12 @@ Promptimize AI is a browser extension that helps users improve prompts for major
 
 **Suitable roles:** Digital Marketing Director, COO, Project Management Officer, Software Development Manager, Content Creator
 
+#### [Promptless](https://www.aimyflow.com/en/ai/promptless-ai)
+
+Promptless is an AI documentation tool that automatically detects product and support changes, drafts updates, and helps review and publish customer-facing docs, screenshots, API docs, and knowledge base content for technical writers, developers, and founders. In AI-enabled documentation workflows, it can reduce docs drift and speed review for documentation, developer relations, and support teams by linking suggestions to source context and fitting into existing processes.
+
+**Suitable roles:** Technical Writer, Software Engineer, CEO, Software Development Manager, Project Management Officer
+
 #### [PromptZone](https://www.aimyflow.com/en/ai/promptzone-com)
 
 PromptZone is an online AI community where users can share, explore, and discuss prompts, research papers, resources, videos, and AI techniques, mainly for prompt engineers and AI enthusiasts. For AI practitioners, active communities like this can speed up prompt discovery and practical learning by exposing teams to real-world discussions, tool trends, and emerging methods.
@@ -8554,6 +12494,18 @@ ProspectFlow is an AI lead generation and website builder platform that helps fr
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, Content Creator, CEO
 
+#### [ProteinQure](https://www.aimyflow.com/en/ai/proteinqure-com)
+
+ProteinQure is a clinical-stage biotech company that designs novel peptide-based therapeutics and tissue-specific delivery systems using its AI-driven ProteinStudio platform, mainly for drug discovery teams and biopharma partners developing precision medicines. For oncology and translational research professionals, its computational peptide design approach can help accelerate development of targeted therapies with more precise payload delivery.
+
+**Suitable roles:** Molecular Biologist, Microbiologist, Data Scientist, Software Engineer, Healthcare Administrator
+
+#### [Proxis](https://www.aimyflow.com/en/ai/proxis-ai)
+
+Proxis is an AI email agent that automates drafting and sending replies using email history and company context, mainly for enterprise teams managing shared or high-volume inboxes. For sales, support, and operations professionals, it can reduce repetitive email work while keeping responses aligned with company knowledge and rules.
+
+**Suitable roles:** Field Sales Manager, Logistics Operations Planner, Branch Office Manager, COO, Digital Marketing Director
+
 #### [PUBLIQ](https://www.aimyflow.com/en/ai/publiq-studio)
 
 PUBLIQ is a multi-platform catalog management and creative automation tool that helps e-commerce sellers create, enrich, and manage product listings, media, and marketplace content from one platform. For e-commerce operations, catalog, and marketplace teams, its AI agents can reduce repetitive listing, pricing, inventory, and keyword work so they can focus more on merchandising and growth.
@@ -8578,6 +12530,12 @@ Purple Leaf is a pay-per-use suite of AI marketing tools that helps marketers, S
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Software Engineer, CEO
 
+#### [PXZ AI Image Generator](https://www.aimyflow.com/en/ai/pxz-ai-tools-image-generator)
+
+PXZ AI Image Generator is a web-based AI image tool that turns text prompts into images with selectable models, styles, aspect ratios, and resolutions, mainly for content creators, marketers, designers, and businesses producing visual content. In AI-driven creative workflows, it can help marketing and design teams test and refine visual concepts faster across campaigns, product imagery, and social content.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, E-commerce Sales Head, Copywriter
+
 #### [Pylar](https://www.aimyflow.com/en/ai/pylar-ai)
 
 Pylar is a governed data access platform that helps users give AI agents secure access to structured data through controlled SQL views and MCP tools, mainly for data and engineering teams. It lets developers operationalize AI safely by balancing agent capability with governance and access control.
@@ -8590,11 +12548,35 @@ Qoder is an agentic coding platform that helps developers understand codebases a
 
 **Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Cybersecurity Manager, IT Infrastructure Manager, Information Technology Managers +12 more
 
+#### [Qodo](https://www.aimyflow.com/en/ai/codium-ai)
+
+Qodo is an AI code review platform that helps software engineering teams review pull requests, analyze code in the IDE, and enforce coding, security, and compliance rules across the software development lifecycle. In AI-assisted development, it can help developers, reviewers, and engineering leaders catch issues earlier and keep review quality consistent as code output and PR volume increase.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Cybersecurity Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [qomplement](https://www.aimyflow.com/en/ai/qomplement-com)
+
+qomplement is an AI document automation tool that extracts, validates, and structures data from PDFs, images, spreadsheets, and other sources to fill forms, templates, and enterprise systems, mainly for teams that handle documents every day. For operations, finance, and administrative workflows, it can reduce manual data entry by turning unstructured documents into usable data for existing PDFs, Excel files, and legacy systems.
+
+**Suitable roles:** Project Management Officer, Financial Analyst, Healthcare Administrator, COO, IT Infrastructure Manager
+
 #### [Quaestor Ledger](https://www.aimyflow.com/en/ai/app-quaestorledger-com-home)
 
 Quaestor Ledger is an AI receipt processing and financial tracking tool that helps users upload receipts, extract and categorize purchase data, and manage accounts, transactions, and net worth, mainly for people and teams handling personal or business finances. For finance and bookkeeping work, it can reduce manual data entry and make transaction records easier to organize, search, and reconcile.
 
 **Suitable roles:** Certified Public Accountant, Financial Analyst, CFO, CEO
+
+#### [QualiTime.ai](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-qualitime-ai-kids-companion-id6737403785)
+
+QualiTime.ai is an education app for children and parents that lets families create personalized AI avatars for safe conversations, interactive images, trivia, and activity review through a parent dashboard. For parents and early childhood educators, AI tools like this can support more personalized, trackable learning and creative expression during children’s screen time.
+
+**Suitable roles:** Teacher, Elementary School Math Teacher, School Counselor, Wellness Coach, Education Technology Consultant
+
+#### [Quantstruct](https://www.aimyflow.com/en/ai/quantstruct-com)
+
+Quantstruct is an AI documentation automation platform that helps software teams keep technical docs accurate and up to date by detecting product changes across code, support, and collaboration tools and generating reviewable updates. For developers, technical writers, and developer relations teams, it can reduce manual documentation maintenance while keeping API, SDK, and product documentation aligned with fast-moving releases.
+
+**Suitable roles:** Technical Writer, Software Engineer, Software Development Manager, Project Management Officer, Data Engineer
 
 #### [QueryBox](https://www.aimyflow.com/en/ai/querybox-ai)
 
@@ -8614,11 +12596,23 @@ QuickCEP is an AI chatbot platform for Shopify stores that helps merchants autom
 
 **Suitable roles:** Ecommerce Seller
 
+#### [Quickchat AI](https://www.aimyflow.com/en/ai/quickchat-ai)
+
+Quickchat AI is a no-code platform for building custom AI agents that help businesses automate customer support, sales assistance, lead qualification, scheduling, and internal case handling, mainly for business teams and enterprises. In AI-enabled operations, it can help customer support and service leaders improve resolution workflows with grounded responses, analytics, and tighter control over data and compliance.
+
+**Suitable roles:** Software Development Manager, Digital Marketing Director, E-commerce Sales Head, Project Management Officer, IT Infrastructure Manager
+
 #### [QuickData.ai](https://www.aimyflow.com/en/ai/quickdata-ai)
 
 QuickData.ai is an AI-powered Excel add-in that automates extraction of rent roll, T12, and offering memorandum data into underwriting models, helping multifamily real estate investors, brokers, lenders, and related professionals analyze deals faster. By reducing manual data entry inside Excel, it can help acquisitions, underwriting, and finance teams spend more time on deal evaluation and due diligence instead of document formatting.
 
 **Suitable roles:** Financial Analyst, Real Estate Agent, Data Engineer, Software Engineer, Certified Public Accountant
+
+#### [quickie.ai](https://www.aimyflow.com/en/ai/quickie-ai)
+
+quickie.ai is presented as a premium domain suited to a fast AI assistant for instant answers, summaries, quick rewriting, idea generation, and small task automation, mainly for businesses or founders building a lightweight productivity tool. For marketers, operations teams, and knowledge workers, this kind of AI assistant can reduce time spent on repetitive micro-tasks and speed up everyday content and workflow execution.
+
+**Suitable roles:** CEO, Digital Marketing Director, Project Management Officer, COO, Content Creator
 
 #### [Quicklogo](https://www.aimyflow.com/en/ai/quicklogo-design)
 
@@ -8638,6 +12632,12 @@ Quizgecko is an AI question generator that helps users turn text into quizzes an
 
 **Suitable roles:** Teacher
 
+#### [QuizGrowth](https://www.aimyflow.com/en/ai/quizgrowth-com)
+
+QuizGrowth is a guide article on .Games that helps people plan and host fun online trivia quizzes for friends by covering themes, question design, formats, platforms, scoring, and engagement tips. For hosts, event planners, and community managers, its structured approach can support more inclusive, better-paced quiz sessions using interactive tools and feedback features.
+
+**Suitable roles:** Community College Instructor, School Counselor, Nonprofit Program Manager, Restaurant General Manager, Content Creator
+
 #### [QuoteCraft AI](https://www.aimyflow.com/en/ai/quotecraftai-com)
 
 QuoteCraft AI is an AI proposal generator for freelancers that turns voice or text meeting notes into branded client proposals and Upwork cover letters with scope, pricing, timelines, and e-signing. For freelancers and independent consultants, it can shorten proposal turnaround and make follow-up more timely by showing when clients open proposals and letting them adjust line items directly.
@@ -8655,6 +12655,12 @@ quso.ai, formerly vidyo.ai, is an AI content creation and social media schedulin
 Qwen is a multimodal AI assistant and API platform that helps users chat, search the web, process documents, understand images and video, generate images and video, and support web development, mainly for general users and developers. For researchers, developers, and knowledge workers, its combination of reasoning, deep research, and multimodal analysis can speed up complex information gathering, summarization, and prototyping.
 
 **Suitable roles:** Software Engineer, Data Scientist, Technical Writer, Content Creator, Digital Marketing Director
+
+#### [Qwen Code](https://www.aimyflow.com/en/ai/github-com-QwenLM-qwen-code)
+
+Qwen Code is an open-source AI agent for the terminal that helps developers understand large codebases, automate repetitive coding tasks, and refactor or test code, with optional IDE support for command-line-focused software engineers. In AI-assisted development workflows, it can help engineering teams move faster on code exploration, maintenance, and routine implementation work directly from the terminal.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, IT Infrastructure Manager
 
 #### [Qwen3-Coder](https://www.aimyflow.com/en/ai/github-com-QwenLM-Qwen3-Coder)
 
@@ -8680,6 +12686,12 @@ Raccoon AI is a general-purpose collaborative AI agent that helps users create w
 
 **Suitable roles:** Software Development Manager, Project Management Officer, Digital Marketing Director, Graphic Designer
 
+#### [RADiCAL](https://www.aimyflow.com/en/ai/radicalmotion-com)
+
+RADiCAL is a browser-based AI 3D creation platform that helps users capture motion, animate characters, build scenes, and collaborate in real time, mainly for storytellers, animators, and previsualization teams. For filmmakers, 3D artists, and animation workflows, it can speed early visualization and iteration by turning camera footage and browser-based editing into shareable 3D mockups without specialized hardware.
+
+**Suitable roles:** Independent Filmmaker, Graphic Designer, Content Creator, College Professor, Teacher
+
 #### [Radily](https://www.aimyflow.com/en/ai/radily-ai)
 
 Radily is a HIPAA-compliant AI tool that explains CT, MRI, and X-ray reports in plain English, with optional video summaries and suggested follow-up questions, mainly for patients trying to understand their imaging results securely. In AI-enabled healthcare communication, it can help radiologists and referring clinicians reduce patient confusion by giving people clearer report explanations before or after clinical discussions.
@@ -8692,6 +12704,12 @@ Raghim AI is an enterprise AI chatbot platform that helps organizations deploy s
 
 **Suitable roles:** IT Infrastructure Manager, Cybersecurity Manager, Software Development Manager, COO, Project Management Officer
 
+#### [Rain AI](https://www.aimyflow.com/en/ai/rain-ai)
+
+Rain AI is a company building energy-efficient hardware for AI to help lower compute costs and support AI infrastructure, mainly for organizations developing and operating AI systems. For AI infrastructure teams, hardware with better energy efficiency can improve cost control and scalability as model training and inference demands grow.
+
+**Suitable roles:** IT Infrastructure Manager, Software Development Manager, Software Engineer, COO, Financial Planning & Analysis Manager
+
 #### [Rainex GetLeads](https://www.aimyflow.com/en/ai/rainex-io-get-leads)
 
 Rainex GetLeads is an AI-driven lead generation platform that helps sales and lead generation teams find relevant prospects, build lookalike lead lists, personalize outreach, and run automated email campaigns. In AI-enabled revenue workflows, it can help sales development and business development professionals spend less time on manual prospecting and more time on qualified outreach and meeting generation.
@@ -8703,6 +12721,12 @@ Rainex GetLeads is an AI-driven lead generation platform that helps sales and le
 RambleFix is an AI-enhanced voice-to-text writing tool that turns spoken thoughts into polished emails, articles, summaries, meeting notes, and action lists, mainly for professionals who think out loud and need faster written output. In AI-assisted workflows, it can help roles such as customer success, project management, healthcare, and content marketing reduce drafting time while preserving their natural tone and capturing key actions.
 
 **Suitable roles:** Project Management Officer, Technical Writer, TV News Reporter, Healthcare Administrator, Copywriter
+
+#### [Random Labs](https://www.aimyflow.com/en/ai/randomlabs-ai)
+
+Random Labs offers Slate, a generalist software agent and CLI for agentic coding that helps users research tasks, plan work implicitly, and code with swarm-style parallel orchestration, mainly for software developers and engineering teams. In AI-assisted development, tools like Slate can help engineers manage context and coordinate parallel coding work more efficiently from the terminal.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
 
 #### [Rank++](https://www.aimyflow.com/en/ai/rankplusplus-com)
 
@@ -8722,6 +12746,12 @@ Ranking Turbo is an AI-assisted SEO keyword research tool that uses the Keyword 
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Social Media Content Creator, Technical Writer
 
+#### [Rao by Lotas](https://www.aimyflow.com/en/ai/lotas-ai)
+
+Rao by Lotas is an AI coding agent for R that helps users accelerate data analysis workflows, mainly for data scientists working in R and RStudio. For data scientists and analysts, it can reduce repetitive coding effort and speed iteration on analysis tasks within the R environment.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer, Financial Analyst
+
 #### [Raphael AI](https://www.aimyflow.com/en/ai/raphael-app)
 
 Raphael AI is a free, no-login AI image generator and editor that helps users create images from text prompts across styles, mainly for designers, marketers, content creators, and other visual professionals. In AI-driven creative workflows, it can speed concepting and production by giving creative teams fast visual drafts, product imagery, and brand-style variations without typical access barriers.
@@ -8733,6 +12763,24 @@ Raphael AI is a free, no-login AI image generator and editor that helps users cr
 RapidNative is an AI-native mobile app builder that turns prompts, sketches, images, and PRDs into shareable apps and exportable React Native code, mainly for product teams such as founders, product managers, designers, and developers. In AI-assisted mobile workflows, it can help these teams validate ideas, align on app behavior, and move from prototype to developer-ready code with less handoff friction.
 
 **Suitable roles:** Software Development Manager, Software Engineer, Graphic Designer, CEO, Project Management Officer
+
+#### [rct AI](https://www.aimyflow.com/en/ai/rct-ai)
+
+Providing AI solutions to the game industry
+
+**Suitable roles:** Software Development Manager, Software Engineer, Independent Filmmaker, Content Creator, CEO
+
+#### [Reacher](https://www.aimyflow.com/en/ai/reacherapp-com)
+
+Reacher is an AI platform for TikTok Shop brands and agencies that helps teams discover niche creators, automate affiliate outreach, manage creator relationships, and optimize campaign performance. For affiliate managers, social commerce teams, and content strategists, it can reduce manual outreach and analysis so they can focus more on creator strategy, retention, and revenue-driving campaigns.
+
+**Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Content Creator, Ecommerce Seller, Field Sales Manager
+
+#### [ReachOut.ai](https://www.aimyflow.com/en/ai/reachout-ai)
+
+ReachOut.ai is an AI video prospecting and personalization platform that helps entrepreneurs and sales teams create and send personalized 1:1 outreach videos at scale without recording each one manually. For sales and outbound marketing roles, it can streamline repetitive prospecting work by turning contact data and scripts into tailored video messages that help start more conversations.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, CEO, Content Creator
 
 #### [Read PDF Aloud](https://www.aimyflow.com/en/ai/readpdfaloud-com)
 
@@ -8764,17 +12812,41 @@ ReadPartner is a media intelligence platform that helps businesses monitor news,
 
 **Suitable roles:** Digital Marketing Director, CEO, Risk Analyst, COO, Content Creator
 
+#### [ReadSpeaker](https://www.aimyflow.com/en/ai/readspeaker-com)
+
+ReadSpeaker is an AI text-to-speech platform that helps businesses, educators, and developers turn digital content, documents, and applications into spoken audio with multilingual voices, reading tools, APIs, and deployment options for web, desktop, embedded, and server use. For accessibility, learning, product, and digital service teams, it can streamline AI-era content delivery by making information easier to consume across languages, devices, and user needs.
+
+**Suitable roles:** Education Technology Consultant, Software Engineer, Technical Writer, College Professor, Healthcare Administrator
+
 #### [Real Fast Reports](https://www.aimyflow.com/en/ai/realfastreports-com)
 
 Real Fast Reports is an AI school report writer that helps users generate personalized student reports quickly, mainly for teachers and school staff handling repetitive reporting. It reduces administrative writing time, giving educators more capacity for teaching and student support.
 
 **Suitable roles:** Teacher
 
+#### [RealRoots](https://www.aimyflow.com/en/ai/therealroots-com)
+
+RealRoots is a friendship matchmaking service that helps women ages 21 and up meet curated groups in their city through guided in-person experiences and a six-week series, mainly for women seeking new local friendships. Its AI-powered personality quizzes can help community builders and event organizers understand social styles and create more compatible, lower-friction group interactions.
+
+**Suitable roles:** Wellness Coach, Nonprofit Program Manager, Community College Instructor, Project Management Officer, Content Creator
+
 #### [Rebel Audio](https://www.aimyflow.com/en/ai/rebelaudio-ai)
 
 Rebel Audio is a social podcasting platform that helps podcasters turn audio or video into podcast episodes, titles, descriptions, cover art, transcripts, translated versions, and social clips, then publish across major platforms from one workflow. For podcasters and content teams, this kind of AI automation can reduce editing and distribution work so they can focus more on programming, audience growth, and reuse of spoken content.
 
 **Suitable roles:** Podcast Producer, Content Creator, Social Media Content Creator, Copywriter, Digital Marketing Director
+
+#### [Rebolt](https://www.aimyflow.com/en/ai/rebolt-ai)
+
+Rebolt is a no-code platform for teams and enterprises to build, edit, and deploy custom AI apps, agents, workflows, and websites using natural language, connected company data, and full code export. For operations, IT, and engineering functions, it can speed delivery of production-ready internal tools while keeping data integrations, security controls, and code ownership in one system.
+
+**Suitable roles:** Software Development Manager, IT Infrastructure Manager, Project Management Officer, COO, Software Engineer
+
+#### [Rebulk](https://www.aimyflow.com/en/ai/rebulk-com)
+
+Rebulk is an automated bulk inventory measurement system that uses cameras, 3D sensors, software, and mobile app capture to help operations teams measure, monitor, and manage bulk materials across sites in industries like agriculture, aggregates, biomass, energy, and recycling. For operations, logistics, and field teams, AI-driven inventory visibility can reduce manual checks, improve tracking of changes over time, and help surface issues earlier for faster action.
+
+**Suitable roles:** Factory Operations Supervisor, Logistics Operations Planner, Branch Office Manager, COO, Data Engineer
 
 #### [Recal](https://www.aimyflow.com/en/ai/tryrecal-com)
 
@@ -8806,6 +12878,12 @@ Recipio is an app whose specific functionality is not clearly described in the p
 
 **Suitable roles:** Food Enthusiast
 
+#### [Reclaim](https://www.aimyflow.com/en/ai/reclaim-ai)
+
+Reclaim is an AI calendar app that automatically schedules tasks, habits, meetings, breaks, and focus time to help individuals, teams, and organizations manage work and life across Google Calendar and Outlook Calendar. For managers, executive assistants, and team leads, AI-driven calendar optimization can reduce scheduling overhead, protect deep work, and improve visibility into meeting load and time allocation.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, CEO, COO, IT Infrastructure Manager
+
 #### [Record2Code](https://www.aimyflow.com/en/ai/record2code-com)
 
 Record2Code is an AI tool that turns screen recordings of pages or user flows into clean, editable, production-ready code, mainly for designers, developers, and teams converting existing interfaces into web experiences. In AI-supported design and development workflows, it can speed up prototyping and front-end recreation by translating visual intent from video into code that professionals can refine and ship.
@@ -8824,17 +12902,39 @@ Recruit CRM is an AI-powered applicant tracking system and CRM that helps recrui
 
 **Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO, COO
 
+#### [Redapto](https://www.aimyflow.com/en/ai/redapto-com)
+
+Redapto is a frontier intelligence platform for GTM teams that helps unify customer data, events, and metrics, orchestrate workflows across providers, and apply safeguards to standardize deal-winning processes. For revenue, sales, and operations teams, this can improve AI-assisted decision-making by turning fragmented customer signals into auditable recommendations and reusable GTM runbooks.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, COO, Project Management Officer, Software Development Manager
+
 #### [Redesignr.ai](https://www.aimyflow.com/en/ai/redesignr-ai)
 
 Redesignr.ai is an AI website redesign tool that helps users turn outdated websites into modern, mobile-responsive designs with editable variants and exportable code, mainly for startups, agencies, businesses, creators, and freelancers. For web designers, developers, and marketers, it can speed redesign workflows by generating redesign options quickly while preserving room for manual editing and content refinement.
 
 **Suitable roles:** Graphic Designer, Software Engineer, Digital Marketing Director, Copywriter, Content Creator
 
+#### [Redirecting...](https://www.aimyflow.com/en/ai/edaly-co)
+
+Explore topic categories and find resources across Automotive, Finance, Health, Shopping, Travel, and more.
+
 #### [Redlight Greenlight](https://www.aimyflow.com/en/ai/yogesh-co-redlight-greenlight)
 
 Redlight Greenlight is a native macOS menu bar app that helps Claude Code users accept or reject permission requests through a floating overlay without switching back to the terminal. For developers and technical users working with Claude Code, it can streamline approval workflows and reduce context switching during AI-assisted coding sessions.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Cybersecurity Analyst, IT Infrastructure Manager
+
+#### [Redouble AI](https://www.aimyflow.com/en/ai/redouble-ai)
+
+Redouble AI is an agentic enterprise AI platform that automates multi-step workflows such as data ingestion, analysis, and document drafting for teams in regulated industries including biopharma, healthcare, insurance, and investment firms. For operations, analysts, and subject-matter experts, it can reduce time spent parsing spreadsheets and scattered files while supporting secure, compliant workflow execution.
+
+**Suitable roles:** Project Management Officer, Financial Analyst, Healthcare Administrator, COO, Medical Biller
+
+#### [Redreach](https://www.aimyflow.com/en/ai/redreach-ai)
+
+Redreach is an AI-powered Reddit lead generation and marketing tool that helps businesses, especially SaaS founders and marketers, find relevant high-intent Reddit conversations, monitor mentions, and draft replies to promote their products. For growth, SEO, and demand generation teams, it can improve organic discovery by surfacing Reddit threads that influence both Google rankings and AI search responses.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, CEO, Content Creator
 
 #### [Reedle](https://www.aimyflow.com/en/ai/reedle-iopho-com)
 
@@ -8854,11 +12954,23 @@ Refabric is an AI fashion platform that helps users create and refine fashion de
 
 **Suitable roles:** Fashion Designer
 
+#### [Refactor](https://www.aimyflow.com/en/ai/refactor-co)
+
+Refactor is an AI operations company that helps large healthcare, retail, and logistics organizations automate complex work by building autonomous agents that call, click, and navigate legacy software systems. In AI-driven operations, this can help revenue cycle, e-commerce, and operations teams reduce manual workflows and handle high-volume tasks more reliably across fragmented enterprise systems.
+
+**Suitable roles:** Healthcare Administrator, Logistics Operations Planner, E-commerce Sales Head, COO, Project Management Officer
+
 #### [Refini](https://www.aimyflow.com/en/ai/refini-ai)
 
 Refini is an AI photo enhancer and old photo restoration tool that helps users unblur faces, repair damage, colorize vintage images, and improve portrait quality, mainly for people working with selfies, portraits, and family photos. For photographers, photo editors, and social media creators, its face-focused enhancement can speed up recovery of usable images while preserving more natural-looking skin texture and facial detail.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Independent Filmmaker, Copywriter
+
+#### [Reflect Webchat](https://www.aimyflow.com/en/ai/chromewebstore-google-com-detail-reflect-webchat-amoekpgbakdaigpkdmpgjmdmodkjcfgp)
+
+Reflect Webchat is a Chrome extension that adds an AI chat interface to web pages, helping users discuss long-form articles and YouTube videos with page context and transcripts, mainly for people who research or read content in Chrome using their own OpenAI or Anthropic API keys. For researchers, analysts, writers, and knowledge workers, this can speed up extracting key points and clarifying source material directly from the page they are reviewing.
+
+**Suitable roles:** Technical Writer, Data Scientist, Financial Analyst, Copywriter, Software Engineer
 
 #### [Refly.ai](https://www.aimyflow.com/en/ai/refly-ai)
 
@@ -8872,6 +12984,24 @@ Refont is an AI font and design generator that helps users create image-based ca
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter
 
+#### [Regie.ai](https://www.aimyflow.com/en/ai/regie-ai)
+
+Regie.ai is an AI sales engagement platform that helps modern go-to-market teams orchestrate outbound prospecting, personalized outreach, dialing, sequencing, and reporting in one workflow, primarily for SDRs, AEs, sales leaders, RevOps, and marketing teams. In AI-assisted sales, it can reduce manual prospecting work so revenue teams spend more time on higher-value conversations and more consistent execution across channels.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, COO, CEO
+
+#### [Regression Games](https://www.aimyflow.com/en/ai/regression-gg)
+
+Regression Games is an AI agent testing platform for Unity that helps teams build automated end-to-end game QA tests with tools like smart recording, OCR, bot sequences, and exploratory bots, mainly for game developers and QA teams. In AI-assisted game production, it can help QA engineers and Unity developers catch gameplay, state, and performance issues earlier by automating realistic test coverage across more scenarios.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Data Engineer
+
+#### [Rehearso Lab](https://www.aimyflow.com/en/ai/rehearsolab-com)
+
+Rehearso Lab is an AI speech practice app that turns scripts into realistic speech so users can rehearse timing, tone, and delivery for interviews, presentations, and public speaking, mainly for job seekers, students, speakers, founders, and other professionals. In AI-assisted work, it can help interview candidates, presenters, and client-facing teams practice spoken delivery more consistently and refine communication before high-stakes conversations.
+
+**Suitable roles:** Field Sales Manager, CEO, Content Creator, Teacher, Corporate Leadership Coach
+
 #### [Reka Edge](https://www.aimyflow.com/en/ai/app-reka-ai-reka-edge)
 
 Reka Edge is a vision-first AI playground that helps users ask questions, generate captions, and extract information from images and videos, mainly for teams exploring visual reasoning and real-world media analysis tasks. For researchers, analysts, and product teams, it can speed up image and video understanding workflows by making it easier to test prompts and iterate on multimodal tasks.
@@ -8883,6 +13013,18 @@ Reka Edge is a vision-first AI playground that helps users ask questions, genera
 Rekam AI is an all-in-one AI voice creation platform that helps users turn text into human-like speech, transcribe audio, clone voices, and generate podcasts or audiobooks, mainly for creators and teams producing audio content. In AI-driven media workflows, it can help marketers, podcasters, and content producers create and repurpose spoken content faster across multiple voices and languages.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
+
+#### [relayed.ai](https://www.aimyflow.com/en/ai/relayed-ai)
+
+relayed.ai is a domain marketplace landing page that helps people inquire about buying or leasing the relayed.ai domain, mainly for prospective domain buyers and businesses seeking a specific web address. In an AI-focused market, securing a relevant domain can help founders, marketers, and brand teams establish clearer positioning for future products or services.
+
+**Suitable roles:** CEO, Digital Marketing Director, Real Estate Agent, COO, Lawyer
+
+#### [Remake Face AI](https://www.aimyflow.com/en/ai/remakeface-ai)
+
+Remake Face AI is an online AI face swap and image editing tool that helps users replace faces in photos and videos, adjust portraits, and transform images from text instructions, mainly for people creating social, personal, or creative visual content. For marketers, designers, and content creators, it can speed up lightweight visual experimentation and portrait edits without requiring traditional photo editing skills.
+
+**Suitable roles:** Content Creator, Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter
 
 #### [RememberFast](https://www.aimyflow.com/en/ai/rememberfast-com)
 
@@ -8913,6 +13055,12 @@ Remove Text from Video is an AI video cleanup tool that detects and removes subt
 remove.bg is an AI image editing tool that helps users automatically remove photo backgrounds in seconds, mainly for designers, marketers, photographers, and ecommerce sellers. It eliminates a repetitive editing task, allowing visual teams to produce assets much faster.
 
 **Suitable roles:** Content Creator
+
+#### [remove.bg](https://www.aimyflow.com/en/ai/remove-bg-zh)
+
+remove.bg is an online AI background removal tool that automatically removes image backgrounds, creates transparent PNGs, and edits photos in seconds, mainly for photographers, marketers, developers, ecommerce teams, media, and car dealers. In AI-driven content workflows, it can help these professionals speed up high-volume image preparation while reducing manual editing for product, portrait, and promotional visuals.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Ecommerce Seller, Software Engineer, Content Creator
 
 #### [RemoveBGVideo](https://www.aimyflow.com/en/ai/removebgvideo-com)
 
@@ -8950,6 +13098,12 @@ RenderLion is an AI video generator that turns URLs, text, images, posts, and br
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, Ecommerce Seller
 
+#### [Rentry](https://www.aimyflow.com/en/ai/rentry-co-sdmodels)
+
+Rentry is a markdown paste service for publishing and sharing simple text pages, mainly for people who need a lightweight way to post notes or links online. For writers, researchers, and technical users, tools like this can support faster AI-assisted drafting and distribution by giving them a straightforward place to publish structured text.
+
+**Suitable roles:** Technical Writer, Fiction Writer, Content Creator, Social Media Content Creator, Software Engineer
+
 #### [Rep AI](https://www.aimyflow.com/en/ai/hellorep-ai)
 
 Rep AI is an eCommerce shopping assistant for Shopify that helps online stores guide shoppers, increase conversions and order value, and automate a large share of support interactions. It lets eCommerce and support teams turn storefront conversations into scalable revenue and service efficiency.
@@ -8967,6 +13121,24 @@ Repaint is an AI website builder that creates fully designed, multi-page busines
 Replay is a video-to-React code and agent infrastructure platform that helps teams modernize legacy applications, extract design systems, and generate componentized UI, tests, and documentation from recorded workflows, mainly for engineering, product, and modernization teams. In AI-assisted software delivery, it can help frontend engineers and enterprise architects turn undocumented legacy behavior into structured code and APIs that are easier for coding agents to extend safely.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, IT Infrastructure Manager, Project Management Officer
+
+#### [Replicas](https://www.aimyflow.com/en/ai/replicas-dev)
+
+Replicas is a background coding agent platform for engineering teams that lets developers delegate software tasks to sandboxed agents running in isolated development environments, with task handoff from GitHub, Slack, Linear, or its dashboard. For software engineers and engineering managers, it can reduce context switching by turning issue comments and chat requests into reviewable pull requests.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager
+
+#### [Replicate](https://www.aimyflow.com/en/ai/replicate-com)
+
+Replicate is a cloud API platform for running, fine-tuning, and deploying open-source and custom AI models, mainly for developers and teams building AI features into products. In AI workflows, it helps software engineers and machine learning teams ship image, video, speech, music, and language model capabilities faster without managing model infrastructure themselves.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, IT Infrastructure Manager, CEO
+
+#### [Replika](https://www.aimyflow.com/en/ai/replika-com)
+
+Replika is an AI companion app that helps people chat, reflect, build habits, and seek nonjudgmental emotional support, mainly for individuals who want a personalized virtual friend, partner, or mentor. In AI-era wellbeing and coaching work, tools like this can give counselors, coaches, and support teams insight into how conversational AI may extend everyday self-reflection between human interactions.
+
+**Suitable roles:** Wellness Coach, School Counselor, Healthcare Administrator, Teacher
 
 #### [Replit](https://www.aimyflow.com/en/ai/replit-com)
 
@@ -9004,11 +13176,35 @@ RepurposingBot is an AI content repurposing tool that turns documents, links, ar
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, CEO
 
+#### [Rescript AI](https://www.aimyflow.com/en/ai/rescript-ai)
+
+Rescript AI is an AI-powered legislative and regulatory tracking platform that helps policy teams monitor, filter, summarize, analyze, and organize hearings, legislation, rules, and related materials across federal and state jurisdictions. For government affairs, lobbying, legal, and regulatory professionals, it can speed review of policy changes and support faster, better-informed memos, alerts, and stakeholder reporting.
+
+**Suitable roles:** Lawyer, Technical Writer, CEO, Project Management Officer
+
 #### [Resea AI](https://www.aimyflow.com/en/ai/resea-ai)
 
 Resea AI is a deep research and writing platform that autonomously plans research, searches academic sources, drafts long-form reports with citations, and supports revisions for students, researchers, and professionals producing academic or business content. In AI-assisted workflows, it can help researchers, analysts, and writers speed up literature reviews and report drafting while maintaining source-backed structure and citation accuracy.
 
 **Suitable roles:** Technical Writer, Data Scientist, Financial Analyst, College Professor, Copywriter
+
+#### [ResearchRabbit](https://www.aimyflow.com/en/ai/researchrabbit-ai)
+
+ResearchRabbit is an AI literature review tool that helps researchers, students, and academic professionals find related papers, map citations, visualize topic connections, and organize sources more efficiently. For researchers and graduate students, this kind of AI-assisted discovery can speed up evidence gathering and reveal relevant authors, trends, and gaps across a field.
+
+**Suitable roles:** College Professor, Data Scientist, Molecular Biologist, Medical Lab Technician, Teacher
+
+#### [Resemble AI](https://www.aimyflow.com/en/ai/resemble-ai)
+
+Resemble AI is a multimodal generative voice and deepfake detection platform that helps enterprises create synthetic voices, watermark and verify media, and detect audio, image, and video deepfakes, with cloud and on-prem deployment options. For security teams, developers, and fraud prevention leaders, it supports safer AI media workflows by combining generation and detection in one system.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Software Engineer, Software Development Manager, Technical Writer
+
+#### [Resemble AI](https://www.aimyflow.com/en/ai/voicepods-com)
+
+Resemble AI is a multimodal deepfake detection and secure voice AI platform that helps enterprises generate, watermark, verify, and detect synthetic audio, image, and video content, mainly for developers, security teams, and enterprise organizations. For fraud, trust, and content workflows, it gives security and media teams a way to deploy voice AI while reducing deepfake risk across meetings, communications, and digital assets.
+
+**Suitable roles:** Cybersecurity Analyst, Cybersecurity Manager, Software Engineer, IT Infrastructure Manager, Content Creator
 
 #### [Resistant AI](https://www.aimyflow.com/en/ai/resistant-ai)
 
@@ -9054,11 +13250,23 @@ ResumeUp.AI is an AI resume builder and job search assistant that helps job seek
 
 Resyfy is an AI-powered career tool that helps people track achievements, organize experience, build a digital portfolio, and tailor resumes or career materials for applications, reviews, and new opportunities. For job seekers and professionals managing career growth, it can make resume preparation, performance review documentation, and personal branding more efficient by surfacing the most relevant accomplishments for each situation.
 
+#### [Retail Media IQ](https://www.aimyflow.com/en/ai/rmiq-net)
+
+Retail Media IQ is an AI-driven retail media advertising platform that helps brands, sellers, agencies, and Walmart advertisers create, launch, and optimize campaigns across retail media networks from one place. For retail media managers and ecommerce marketers, its AI optimization of product-level keywords, bids, and budgets can reduce manual campaign work while improving cross-network decision-making.
+
+**Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Ecommerce Seller, Field Sales Manager, CEO
+
 #### [Retainr](https://www.aimyflow.com/en/ai/retainr-io)
 
 Retainr is an all-in-one client management platform that helps freelancers and agencies manage services, requests, and delivery workflows, mainly for service businesses handling multiple clients. It reduces operational friction so client-facing teams can deliver faster and improve satisfaction at scale.
 
 **Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Corporate Leadership Coach, Education Technology Consultant, Software Development Manager, IT Infrastructure Manager +16 more
+
+#### [Revenowl](https://www.aimyflow.com/en/ai/revenowl-com)
+
+Revenowl is an AI-powered revenue analytics and business intelligence tool that connects Stripe, GitHub, and analytics data to help growing businesses track revenue performance, uncover patterns, and understand how product and code changes affect results. For founders, finance leads, and product teams, it can shorten the path from scattered operational data to clearer revenue decisions and prioritized actions.
+
+**Suitable roles:** CFO, Financial Planning & Analysis Manager, Financial Analyst, CEO, Software Development Manager
 
 #### [Revenue Scaler](https://www.aimyflow.com/en/ai/revenuescaler-com)
 
@@ -9089,6 +13297,12 @@ RewarxStudio is an AI product photography and virtual studio platform that helps
 Rewebly is an AI website redesign tool that helps business owners quickly generate, customize, and download a modern new version of an existing site without coding or design skills. For small business owners, entrepreneurs, and agencies, it can shorten website refresh cycles and make faster experimentation with design, layout, and copy more practical.
 
 **Suitable roles:** Digital Marketing Director, Graphic Designer, CEO, Content Creator, Copywriter
+
+#### [Rezi](https://www.aimyflow.com/en/ai/rezi-ai)
+
+Rezi is an AI resume builder that helps job seekers create ATS-friendly resumes, cover letters, and tailored application materials using tools for keyword targeting, content writing, scoring, and interview practice. For candidates, recruiters, and career coaches working in an AI-shaped hiring market, it can speed resume optimization around job descriptions and improve how application materials perform in automated screening.
+
+**Suitable roles:** Talent Acquisition Manager, School Counselor
 
 #### [Reztune](https://www.aimyflow.com/en/ai/reztune-com)
 
@@ -9144,17 +13358,47 @@ Riverside’s YouTube Transcript Generator is a free online tool that converts Y
 
 **Suitable roles:** Content Creator, Podcast Producer, Digital Marketing Director, Social Media Content Creator, Copywriter
 
+#### [Rivet](https://www.aimyflow.com/en/ai/rivet-design)
+
+Rivet is a visual editor for design that helps turn design feedback into code and refine visual details with AI-assisted tools, mainly for designers shaping software interfaces. In AI-supported product work, it can help designers keep more control over implementation quality by making visual adjustments clearer and more precise for handoff and iteration.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Software Development Manager, Technical Writer
+
+#### [Riviera](https://www.aimyflow.com/en/ai/withriviera-com)
+
+Riviera is an AI voice and messaging platform for hospitality that helps hotels handle guest calls, texts, reservations, dining orders, and service requests around the clock, mainly for hotel operations and front desk teams. For hospitality staff and managers, its multilingual automation, live handoffs, and call insights can reduce missed inquiries while improving response speed and service continuity.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, COO, Project Management Officer
+
 #### [RNWY](https://www.aimyflow.com/en/ai/rnwy-com)
 
 RNWY is an on-chain trust and identity platform that scores crypto wallets and AI agents, helping users verify ownership history, reputation signals, fraud patterns, and soulbound identity, mainly for people and teams working with AI agents and crypto wallets. For risk, compliance, and ecosystem operators, its explainable scores and public-chain evidence can support faster trust checks without relying on black-box reputation systems.
 
 **Suitable roles:** Risk Analyst, Cybersecurity Analyst, CEO, COO, Software Engineer
 
+#### [Roark](https://www.aimyflow.com/en/ai/roark-ai)
+
+Roark is a voice AI testing and QA platform that helps teams monitor live calls, run simulations, evaluate performance, and turn failures into repeatable tests, mainly for voice AI teams building and operating voice agents. For QA, product, and engineering functions, it can make voice agent releases more reliable by exposing failure patterns before deployment and after real customer interactions.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Data Engineer
+
+#### [Roboflow](https://www.aimyflow.com/en/ai/roboflow-com)
+
+Roboflow is a computer vision platform that helps developers, machine learning engineers, and enterprises annotate data, train models, build workflows, and deploy vision AI for images, video, and real-time streams. In AI-driven operations, it can help computer vision and ML teams move faster from prototype to production by combining data labeling, model training, and deployment in one workflow.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, IT Infrastructure Manager, Factory Operations Supervisor
+
 #### [Robot Lawyer](https://www.aimyflow.com/en/ai/robotlawyer-co)
 
 Robot Lawyer is an AI-powered legal document and services platform that helps users generate tailored agreements, letters, wills, tenancy documents, and employment paperwork, mainly for individuals and small businesses needing online legal help. In AI-assisted legal workflows, it can help founders, HR teams, landlords, and general business operators draft routine documents faster while still using professionally verified services.
 
 **Suitable roles:** Lawyer, Talent Acquisition Manager, Employee Relations Manager, CEO, Branch Office Manager
+
+#### [Robovision](https://www.aimyflow.com/en/ai/robovision-ai-product-platform)
+
+Robovision is an AI-powered computer vision platform that helps industrial teams build, test, optimize, and deploy vision models for intelligent automation, mainly for machine builders, manufacturers, and data scientists. In AI-driven production, it can reduce manual inspection work and let data scientists and operations teams focus more on improving models, quality control, and deployment speed.
+
+**Suitable roles:** Data Scientist, Software Engineer, Factory Operations Supervisor, Mechanical Engineer, IT Infrastructure Manager
 
 #### [Rocket.new](https://www.aimyflow.com/en/ai/rocket-new)
 
@@ -9192,11 +13436,33 @@ Rork is an AI app builder that helps users create production-ready native mobile
 
 **Suitable roles:** Software Engineer, Software Development Manager, CEO, Project Management Officer, Content Creator
 
+#### [Roshi](https://www.aimyflow.com/en/ai/roshi-ai)
+
+Roshi is an AI lesson creation tool that helps teachers quickly generate interactive learning materials such as dialogues, visuals, and targeted activities, then share them to learning platforms. For teachers and instructional staff, it can reduce lesson-prep time and speed up the creation of more customized classroom content.
+
+**Suitable roles:** Teacher, Education Technology Consultant, College Professor, Community College Instructor, Vocational School Trainer
+
+#### [Rovr](https://www.aimyflow.com/en/ai/withrovr-com)
+
+Rovr is an AI orchestration platform that helps FDE, IT consulting, and professional services teams capture requirements, structure implementation work, generate artifacts like SOWs and design docs, and drive delivery automatically. For implementation, consulting, and delivery professionals, it can reduce manual project coordination by turning customer conversations and past project knowledge into actionable tickets, documents, and reusable workflows.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, IT Infrastructure Manager, COO, Software Engineer
+
+#### [RowFlow](https://www.aimyflow.com/en/ai/rowflow-ai)
+
+RowFlow is an AI-native form platform that turns traditional forms into conversational outreach across channels like SMS, email, Slack, WhatsApp, and phone, helping teams collect structured information faster with fewer manual follow-ups; it is mainly for operations, onboarding, research, and revenue teams. For functions such as customer onboarding, lead qualification, and internal reporting, it can reduce time spent chasing responses while producing cleaner data from messy user input.
+
+**Suitable roles:** Project Management Officer, Logistics Operations Planner, Field Sales Manager, Talent Acquisition Manager, Software Development Manager
+
 #### [RowSpeak](https://www.aimyflow.com/en/ai/excelmatic-ai)
 
 RowSpeak is an AI-powered Excel analysis and visualization tool that lets users upload spreadsheets, ask questions in plain English, and generate insights, charts, dashboards, reports, and formulas, mainly for data, finance, marketing, sales, and operations professionals. In AI-assisted analytics workflows, it can help analysts and business teams reduce manual spreadsheet work and surface trends, anomalies, and KPIs faster for reporting and decision-making.
 
 **Suitable roles:** Financial Analyst, Digital Marketing Director, E-commerce Sales Head, Logistics Operations Planner
+
+#### [RR88](https://www.aimyflow.com/en/ai/paperlist-io)
+
+RR88 is an online betting platform that helps players access sports betting, casino games, slots, card games, and lottery-style gambling, mainly for people seeking digital wagering and gaming options in Vietnam. In an AI-driven gaming market, platforms like this can streamline game discovery, account support, and transaction handling for online gambling operations and customer service teams.
 
 #### [Rumora](https://www.aimyflow.com/en/ai/rumora-ai)
 
@@ -9204,17 +13470,35 @@ Rumora is an AI comment marketing platform that helps brands promote their busin
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, CEO, Content Creator
 
+#### [RunLocal](https://www.aimyflow.com/en/ai/runlocal-ai)
+
+RunLocal is an AI agent and platform for optimizing machine learning model inference on edge hardware, helping teams move from trained PyTorch models to validated, production-ready deployments on devices such as Nvidia Orin and Qualcomm targets. For edge AI engineers and ML deployment teams, it can reduce manual profiling, debugging, and experiment tracking by automating iterative optimization workflows with device-aware validation and vendor SDK context.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Data Engineer, Project Management Officer
+
 #### [Runner AI](https://www.aimyflow.com/en/ai/runnerai-com)
 
 Runner AI is an AI ecommerce platform that helps merchants and ecommerce teams create online stores from prompts, generate visuals and listings, and automate testing and optimization for conversions. For growth, merchandising, and CRO roles, it can reduce manual setup and plugin management by using AI to continuously test layouts, pricing, offers, and personalization.
 
 **Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Ecommerce Seller, Graphic Designer, Copywriter
 
+#### [Runtime](https://www.aimyflow.com/en/ai/runtm-com)
+
+Runtime is an AI coding workspace and governance platform that helps teams build, iterate, and ship software with agents like Claude Code, Codex, and Gemini CLI, mainly for engineering leaders managing organization-wide development. In AI-assisted software work, it can help engineering, product, and design teams collaborate in secure sandboxes with visibility, guardrails, and cost controls around agent-driven coding.
+
+**Suitable roles:** Software Development Manager, Software Engineer, IT Infrastructure Manager, Project Management Officer, CEO
+
 #### [Runway](https://www.aimyflow.com/en/ai/runwayml-com)
 
 Runway is an AI-powered creative platform for generating and editing video, images, and multimedia content, built mainly for filmmakers, designers, and creative teams. In the AI era, it helps content creators accelerate production, prototype ideas faster, and expand what small teams can produce.
 
 **Suitable roles:** Content Creator
+
+#### [Runway](https://www.aimyflow.com/en/ai/runwayml-com-video-editing)
+
+Runway is an AI company platform with products, APIs, research, and enterprise resources that help teams build and use generative media and world-model tools, mainly for creative, technical, and business users evaluating its offerings. In AI-era workflows, platforms like this can help creative and product teams move faster from experimentation to production by centralizing access to model, API, and company resources.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Software Development Manager, CEO, Education Technology Consultant
 
 #### [Rushchat.AI](https://www.aimyflow.com/en/ai/rushchat-ai)
 
@@ -9258,6 +13542,30 @@ SafeWrite is an AI humanizer that builds a personalized rewriting model from a u
 
 **Suitable roles:** Copywriter, Content Creator, Digital Marketing Director, Technical Writer, College Professor
 
+#### [Sage](https://www.aimyflow.com/en/ai/sagecare-ai)
+
+Sage is an AI-native CRM and intake workflow automation tool for home care agencies that turns intake calls and home visits into transcripts, care plans, follow-ups, and synced records. For intake coordinators, agency operators, and care managers, it can reduce manual documentation and speed client onboarding while keeping data current in care management systems.
+
+**Suitable roles:** Healthcare Administrator, Home Health Aide, COO, Project Management Officer
+
+#### [Saldor](https://www.aimyflow.com/en/ai/saldor-com)
+
+Saldor is a field training tool that helps HVAC, solar, and other trade service teams turn new hires into productive technicians faster through hands-free, in-field support. In an AI-enabled workflow, it can help trainers, operations leaders, and field managers standardize onboarding and reinforce guidance directly on the job.
+
+**Suitable roles:** Factory Operations Supervisor, COO, Talent Acquisition Manager, Project Management Officer, Vocational School Trainer
+
+#### [SalesPatriot](https://www.aimyflow.com/en/ai/salespatriot-com)
+
+SalesPatriot is a platform that helps distributors and manufacturers in the defense supply chain find opportunities, manage workflows, and pursue government contract awards in one system. In an AI-driven procurement environment, it can help supply chain, sales, and contract teams work more efficiently by centralizing opportunity tracking and award-related processes.
+
+**Suitable roles:** Field Sales Manager, Logistics Operations Planner, Project Management Officer, COO, Software Development Manager
+
+#### [Salus](https://www.aimyflow.com/en/ai/usesalus-ai)
+
+Salus is an AI agent safety tool that validates tool calls before execution, blocks incorrect or ungrounded actions at runtime, and helps teams building AI agents improve reliability through guardrails, self-repair feedback, visibility, and evaluations. For AI engineers and product teams, this can reduce operational risk by catching bad agent actions early and giving agents structured feedback to retry more safely.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Cybersecurity Analyst, IT Infrastructure Manager, Project Management Officer
+
 #### [Samsung Food](https://www.aimyflow.com/en/ai/samsungfood-com)
 
 Samsung Food is a cooking and meal-planning app that helps users save recipes, plan meals, create shopping lists, and organize home cooking, mainly for everyday cooks and food enthusiasts. In the AI era, it streamlines meal decisions and recipe management so busy households can plan with less friction.
@@ -9276,6 +13584,18 @@ Sanctum is a private desktop AI assistant that helps users run open-source langu
 
 **Suitable roles:** Software Engineer, Cybersecurity Analyst, Financial Analyst, Lawyer, Healthcare Administrator
 
+#### [Scale AI](https://www.aimyflow.com/en/ai/scale-com)
+
+Scale AI is an enterprise and public-sector AI platform that provides data engines, model evaluations, fine-tuning, RLHF, and agentic solutions to help AI labs, government agencies, and large companies build and deploy reliable AI systems. For ML engineers, AI researchers, and enterprise AI teams, stronger data quality and evaluation workflows can improve model reliability, safety, and decision support in production.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Cybersecurity Analyst, COO
+
+#### [Scalenut](https://www.aimyflow.com/en/ai/scalenut-com)
+
+Scalenut is an AI SEO and GEO platform with expert-led services that helps marketers and content teams plan, research, create, optimize, and track content for search and AI visibility. For SEO specialists, content marketers, and growth teams, it can streamline execution by turning AI visibility insights and content gaps into concrete optimization, writing, and backlink actions in one workflow.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Software Development Manager
+
 #### [scalerX.ai](https://www.aimyflow.com/en/ai/scalerx-ai)
 
 scalerX.ai is a RAG platform for creating personalized AI agents in Telegram, helping users train bots on their own files and content to handle support, sales, learning, research, and community interactions, mainly for business owners, channel admins, and customer service teams. For support, sales, and community operations roles, it can reduce repetitive chat work by delivering always-on, knowledge-based responses inside Telegram groups, channels, and direct chats.
@@ -9288,11 +13608,41 @@ ScanRelief is a Windows and Mac desktop tool that uses OpenAI to process receipt
 
 **Suitable roles:** Certified Public Accountant, Financial Analyst, Corporate Tax Manager, Medical Biller, CFO
 
+#### [Scape](https://www.aimyflow.com/en/ai/scape-app)
+
+Scape is an AI tool for teams that organizes emails and meeting notes, drafts emails, captures tasks and follow-ups, and keeps customer context in one place for faster customer-facing work. For sales, founders, and account teams, it can reduce manual CRM updates and help them prepare for meetings and respond to customers with better context.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, CEO, COO, Project Management Officer
+
+#### [Scenario](https://www.aimyflow.com/en/ai/scenario-com)
+
+Scenario is a creative AI infrastructure platform that lets creative teams and developers train custom models on their own visual style and build workflows across image, video, audio, and 3D. For designers, marketers, artists, and pipeline developers, it helps standardize brand-consistent asset production while using AI to automate multi-step creative workflows at scale.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Software Engineer, Content Creator, Ecommerce Seller
+
 #### [Scenario](https://www.aimyflow.com/en/ai/scenario-gg)
 
 Scenario is a creative AI infrastructure platform that helps teams train custom models on their own visual style and build workflows across image, video, audio, and 3D, mainly for creative teams and developers. For designers, marketers, game artists, and creative ops teams, it can improve consistency and production speed by turning brand or art guidelines into reusable AI pipelines.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, Software Engineer, Content Creator, Ecommerce Seller
+
+#### [Scholarcy](https://www.aimyflow.com/en/ai/scholarcy-com)
+
+Scholarcy is an AI research reading and organization tool that summarizes papers, articles, textbooks, and videos into flashcards, helps users analyze complex research, and stores notes and references for students and researchers. For academic researchers and students, it can shorten literature review and screening work by surfacing key findings, concepts, and comparisons in a more consistent format.
+
+**Suitable roles:** College Professor, Teacher, Technical Writer, Data Scientist, Education Technology Consultant
+
+#### [ScienceSwarm](https://www.aimyflow.com/en/ai/scienceswarm-ai)
+
+ScienceSwarm is an open collaboration platform for AI-assisted scientific research that helps people explore open problems, contribute ideas and literature reviews, and work with AI agents and other participants, mainly for researchers and scientifically curious contributors. In AI-driven research workflows, it can help scientists, engineers, and mathematicians reduce literature review and verification overhead so they can spend more time on hypothesis development and collaborative problem solving.
+
+**Suitable roles:** Data Scientist, Software Engineer, Applied Mathematician, Molecular Biologist, Astrophysicist
+
+#### [SciSpace](https://www.aimyflow.com/en/ai/typeset-io)
+
+SciSpace is an AI research agent that helps users search papers, review literature, chat with PDFs, draft manuscripts, and manage citations, mainly for researchers and academic writers. In AI-supported research workflows, it can help scholars, analysts, and biomedical professionals move faster on evidence gathering, synthesis, and writing while keeping results tied to cited sources.
+
+**Suitable roles:** College Professor, Molecular Biologist, Family Doctor, Technical Writer, Data Scientist
 
 #### [SciSummary](https://www.aimyflow.com/en/ai/scisummary-com)
 
@@ -9300,17 +13650,41 @@ SciSummary is an AI research tool that helps researchers and students summarize,
 
 **Suitable roles:** College Professor, Data Scientist, Theoretical Physicist, Applied Mathematician, Molecular Biologist
 
+#### [Scoop](https://www.aimyflow.com/en/ai/scooplabs-ai)
+
+Scoop is an AI platform for drafting and continuously maintaining IND and other pre-clinical regulatory submissions, helping regulatory affairs teams, CROs, and consultants turn study and manufacturing data into traceable, submission-ready documents. For regulatory professionals, it can reduce manual drafting and version-control work by flagging inconsistencies, tracing text to source files, and updating affected sections as scientific data changes.
+
+**Suitable roles:** Technical Writer, Medical Lab Technician, Healthcare Administrator, Project Management Officer
+
 #### [SCOPY.ME](https://www.aimyflow.com/en/ai/scopy-me)
 
 SCOPY.ME is an AI-powered business strategy platform that helps users research markets, apply frameworks like SWOT, PESTLE, Porter’s Five Forces, OKRs, and Balanced Scorecard, and create branded strategy presentations, mainly for consultants, agencies, and business teams. In AI-assisted planning, it can help strategy, operations, and leadership professionals turn fragmented research into structured, shareable plans faster.
 
 **Suitable roles:** CEO, COO, Project Management Officer, Corporate Leadership Coach, Nonprofit Program Manager
 
+#### [Scott AI](https://www.aimyflow.com/en/ai/tryscott-ai)
+
+Scott AI is an agentic workspace that helps product and engineering teams capture context, align on specs, and improve the quality of work produced by coding agents. As coding agents become part of software delivery, it can help developers and engineering teams strengthen system design review and reduce misalignment before implementation.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, IT Infrastructure Manager, CEO
+
 #### [Scottie AI](https://www.aimyflow.com/en/ai/heyscottie-ai)
 
 Scottie AI is an email-based newsletter briefing tool that reads a user’s subscribed newsletters overnight and sends one personalized morning digest with 5–8 relevant stories and verified source links, mainly for professionals whose jobs depend on staying current. For founders, product leaders, analysts, journalists, and policy or finance teams, it can reduce scanning time and make meeting prep and source-based decision-making more efficient.
 
 **Suitable roles:** CEO, Financial Analyst, TV News Reporter, Project Management Officer, Software Development Manager
+
+#### [Scout](https://www.aimyflow.com/en/ai/scoutforschools-com)
+
+Scout is a software platform that automates compliance, student records, attendance, state reporting, and audit workflows for California independent study, homestudy, and online schools, primarily serving back-office staff and program leaders. In AI-era school operations, tools like Scout can help directors, data teams, and administrators spend less time consolidating data and preparing reports, and more time supporting students and families.
+
+**Suitable roles:** Education Technology Consultant, School Counselor, Teacher
+
+#### [Scraib.app](https://www.aimyflow.com/en/ai/scraib-app)
+
+Scraib.app is a Mac menu bar writing assistant that rewrites selected text in any app to improve grammar, tone, and style, mainly for Mac users who write across tools like Slack, VS Code, and Figma. In AI-enabled workflows, it helps writers, developers, and knowledge workers edit faster without leaving their current app, while keeping more control through custom rules and optional local or bring-your-own AI setups.
+
+**Suitable roles:** Technical Writer, Copywriter, Software Engineer, Content Creator, Digital Marketing Director
 
 #### [ScreenJournal](https://www.aimyflow.com/en/ai/screenjournal-ai)
 
@@ -9347,6 +13721,12 @@ Scrumball is an AI influencer marketing platform that automates creator discover
 SeaArt AI is an all-in-one AI creativity platform and community that helps creators generate images, videos, audio, chats, characters, and remixable content, mainly for digital artists, video creators, and other visual content makers. In AI-driven creative work, tools like this can help creative teams prototype concepts faster, test styles quickly, and move from idea to draft with less manual production time.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Independent Filmmaker, Copywriter
+
+#### [Seals AI](https://www.aimyflow.com/en/ai/hireseals-ai)
+
+Seals AI is an AI workforce platform for B2B wholesalers and distributors that automates quoting, order taking, customer support, ERP data entry, payment collection, and outbound lead generation across phone, email, text, and WhatsApp. For sales, support, collections, and operations teams, it can reduce manual workload and improve responsiveness by keeping core wholesale workflows running continuously.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Logistics Operations Planner, CFO, COO
 
 #### [Search Visibility](https://www.aimyflow.com/en/ai/search-visibility-ai)
 
@@ -9396,6 +13776,24 @@ Seedance 2.0 is ByteDance's AI video generation model designed to create high-qu
 
 **Suitable roles:** Software Engineer, Data Scientist, Digital Marketing Director, Media Communicators, Content Creator, Information Technology Managers +3 more
 
+#### [Seedance 2.0](https://www.aimyflow.com/en/ai/seedance2kr-com)
+
+Seedance 2.0 is a multimodal AI video generator that helps creators make 4 to 15 second videos by combining text, images, video, and audio with reference-based control, mainly for filmmakers, content creators, and digital artists. For video production and social media teams, this kind of asset-guided AI workflow can speed up prototyping, editing, and style-consistent short-form content creation.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Graphic Designer
+
+#### [Seedance 2.0](https://www.aimyflow.com/en/ai/seedancev2-net)
+
+Seedance 2.0 is an AI video generator that turns text or images into cinematic videos with multi-shot storytelling, audio generation, and editing controls, mainly for creators, marketers, and filmmakers. In AI-driven content workflows, it can help video teams and social media professionals produce concept visuals, short-form assets, and previsualizations faster with less manual editing.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller, Independent Filmmaker
+
+#### [Seek](https://www.aimyflow.com/en/ai/seek-ai)
+
+Seek offers powerful AI for data analytics. Our natural language interface for data lets you ask your data questions in plain English and extract data insights in real-time.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer, Financial Analyst, Cybersecurity Analyst
+
 #### [Seekario](https://www.aimyflow.com/en/ai/seekario-ai)
 
 Seekario is an AI job search platform that helps job seekers build and tailor ATS-friendly resumes, generate cover letters and KSC responses, practice interviews, optimize LinkedIn profiles, and track applications in one place. For candidates, career coaches, and recruiters supporting applicants, it can speed up application prep while making resume-job matching and interview practice more structured and consistent.
@@ -9420,9 +13818,45 @@ Sellinger AI is an autonomous LinkedIn outreach tool that helps sales teams, fou
 
 **Suitable roles:** Field Sales Manager, Talent Acquisition Manager, CEO, E-commerce Sales Head, Digital Marketing Director
 
+#### [SellRaze](https://www.aimyflow.com/en/ai/sellraze-com)
+
+SellRaze is an AI-assisted cross-listing and inventory management tool that helps secondhand sellers create listings from images, text, or barcodes, manage buyers, monitor item values, and ship across multiple marketplaces from one app. For resellers and e-commerce operators, it can reduce manual listing and inventory work so they can focus more on sourcing, pricing, and fulfillment decisions.
+
+**Suitable roles:** Ecommerce Seller, E-commerce Sales Head, Branch Office Manager, Project Management Officer, Field Sales Manager
+
+#### [Sematic](https://www.aimyflow.com/en/ai/sematic-dev)
+
+Sematic is an open-source machine learning orchestrator that helps ML teams build, run, retrain, and track end-to-end Python pipelines across local machines and Kubernetes-based cloud infrastructure. For ML engineers, data scientists, and platform engineers, it can improve iteration speed and reproducibility by keeping pipeline code, artifacts, metrics, and versions visible and rerunnable in one workflow.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, IT Infrastructure Manager, Software Development Manager
+
+#### [Semble AI](https://www.aimyflow.com/en/ai/sembleai-com)
+
+Semble AI is an AI-powered building system design platform that helps engineering and construction teams upload floor plans, place devices, check building-code compliance, and generate layouts and bills of materials, with current live support focused on fire systems. For fire protection designers, MEP engineers, and plan reviewers, it can shorten repetitive code research and drafting work by tying AI-generated layouts to cited code requirements and project documents.
+
+**Suitable roles:** Electrical Engineer, Civil Engineer, Commercial Architect, Project Management Officer, Factory Operations Supervisor
+
+#### [Semiotic](https://www.aimyflow.com/en/ai/semiotic-com)
+
+Semiotic is an AI-native website design tool and design firm that helps startup founders create landing pages, branding assets, and product visuals quickly from templates, a visual editor, and AI generation. For founders and startup teams, it can speed web and launch work by combining AI-assisted design with editable layouts and code export for easier handoff and iteration.
+
+**Suitable roles:** CEO, Digital Marketing Director, Graphic Designer, Software Development Manager, Copywriter
+
 #### [Semrush](https://www.aimyflow.com/en/ai/semrush-com-lp-semrush-one-en)
 
 Semrush appears to be a website currently showing a reCAPTCHA browser check before access, likely used to verify visitors before they reach its main content. For marketers, SEO specialists, and web teams, this kind of access control helps protect tool availability and data workflows by filtering automated or suspicious traffic.
+
+#### [Sennu AI](https://www.aimyflow.com/en/ai/sennu-ai)
+
+Sennu AI is an AI-native Salesforce consulting and operations partner that helps teams running Salesforce at scale modernize platform architecture, automation, and Agentforce execution, mainly for organizations where Salesforce is mission-critical. For Salesforce leaders and operations teams, it can improve delivery by aligning AI use cases, governance, and cross-cloud work to measurable business outcomes.
+
+**Suitable roles:** Project Management Officer, IT Infrastructure Manager, COO, Software Development Manager, Digital Marketing Director
+
+#### [Sensei Robotics](https://www.aimyflow.com/en/ai/senseirobotics-com)
+
+Sensei Robotics is a robotics data marketplace that helps robotics companies obtain in-the-wild training data from a network of human operators, mainly for teams developing and training robots. As AI-driven robotics depends on real-world data quality, it can help ML, robotics, and autonomy teams improve model training with more representative human-collected examples.
+
+**Suitable roles:** Data Scientist, Data Engineer, Software Engineer, Software Development Manager, Electrical Engineer
 
 #### [SenticMoney](https://www.aimyflow.com/en/ai/cognitofi-com)
 
@@ -9430,11 +13864,29 @@ SenticMoney is an AI-powered personal finance app for Windows that helps privacy
 
 **Suitable roles:** Financial Analyst, Certified Public Accountant
 
+#### [Sentiment Analysis with MindsDB and OpenAI using SQL](https://www.aimyflow.com/en/ai/mindsdb-com-natural-language-processing-in-databases)
+
+This MindsDB tutorial shows developers how to use SQL to create an OpenAI-powered sentiment analysis model inside a database and classify text reviews as positive, neutral, or negative. For data engineers and application developers, this approach can speed up adding AI text analysis to database workflows without building a separate machine learning pipeline.
+
+**Suitable roles:** Data Engineer, Software Engineer, Data Scientist, Software Development Manager, IT Infrastructure Manager
+
 #### [SEO Blog Generator](https://www.aimyflow.com/en/ai/seobloggenerator-com)
 
 SEO Blog Generator is an AI-powered blog post generator that helps users create SEO-optimized articles, meta descriptions, social media posts, and related visuals, mainly for bloggers, creators, and website owners. For content marketers and SEO teams, it can speed up drafting and keyword-focused publishing so they can spend more time on editing, strategy, and audience growth.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator, CEO
+
+#### [SEO GPT](https://www.aimyflow.com/en/ai/seovendor-co-seo-gpt)
+
+SEO GPT is a free AI SEO writing tool that helps users create keyword-aware titles, meta descriptions, short-form page copy, and content ideas using page context, mainly for SEO professionals and marketers. In AI-driven search workflows, it can help content and SEO teams produce more page-specific copy faster while improving consistency across on-page optimization tasks.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, CEO
+
+#### [SEO.AI](https://www.aimyflow.com/en/ai/seo-ai)
+
+SEO.AI is an AI-powered SEO platform that plans, writes, and publishes website content automatically, helping small businesses and agencies handle keyword research, content creation, internal linking, and publishing with minimal manual work. For marketers, business owners, and SEO professionals, it can reduce routine SEO execution while keeping content aligned with search intent and visibility across both traditional search engines and AI assistants.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, CEO, Content Creator, Technical Writer
 
 #### [seo.ing](https://www.aimyflow.com/en/ai/seo-ing)
 
@@ -9472,6 +13924,18 @@ SEOJuice is an SEO automation platform that helps website owners, marketers, and
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Technical Writer
 
+#### [SEOmatic](https://www.aimyflow.com/en/ai/seomatic-ai)
+
+SEOmatic is a programmatic SEO platform that helps agencies, SaaS, ecommerce, and local service teams turn templates, data, and AI-assisted content into hundreds of SEO pages for bulk generation and CMS publishing. For SEO managers, growth marketers, and agency teams, it can reduce manual page production and keep large-scale search and AI-search content workflows more consistent.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, E-commerce Sales Head, Content Creator, Software Development Manager
+
+#### [Serafis AI](https://www.aimyflow.com/en/ai/serafis-ai)
+
+Serafis AI is a research platform that analyzes long-form expert content to help professional investors, wealth advisors, and product or strategy leaders find high-signal insights through search, discovery, and personalized alerts. In AI-driven research workflows, it can help these teams turn large volumes of transcripts and market commentary into structured knowledge for faster investment, advisory, and strategic decisions.
+
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, CEO
+
 #### [Serviceaide](https://www.aimyflow.com/en/ai/serviceaide-com)
 
 Serviceaide is an enterprise digital management platform with AI-powered service management, change management, knowledge management, and ticket deflection tools that help organizations automate support and resolve issues faster, mainly for enterprise service and support teams. For ITSM, service desk, HR, facilities, and governance teams, its agentic AI and self-service capabilities can reduce repetitive tickets and improve first-contact resolution.
@@ -9490,11 +13954,29 @@ Shakespeare AI is an AI book writing and publishing tool that helps authors crea
 
 **Suitable roles:** Fiction Writer, Copywriter, Content Creator, Technical Writer
 
+#### [Shapes, Inc](https://www.aimyflow.com/en/ai/circlelabs-xyz)
+
+Shapes, Inc is an AI chat platform for creating and talking with customizable AI characters in one-on-one and group chats, helping students, fandom communities, and social users with conversation, roleplay, study support, accountability, and routine-building. For creators, students, and community managers, this kind of persistent AI companion can streamline everyday support work by remembering context, prompting follow-through, and keeping group interactions active.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Teacher, School Counselor, Online Coding Tutor
+
 #### [Sharly AI](https://www.aimyflow.com/en/ai/sharly-ai)
 
 Sharly AI is a research assistant that helps individuals, teams, and organizations summarize, compare, verify, and cite information across complex documents in a secure collaborative workspace. For researchers, analysts, compliance teams, and knowledge workers, it can speed document review while keeping answers traceable to source-backed evidence and citations.
 
 **Suitable roles:** Financial Analyst, Lawyer, College Professor, Technical Writer, Project Management Officer
+
+#### [Sharpe](https://www.aimyflow.com/en/ai/sharpe-sh)
+
+Sharpe is a Jupyter-native AI research agent for quantitative finance that helps quants, portfolio managers, traders, and researchers run multi-step analyses on large financial datasets and generate fully cited, reproducible notebooks. For quantitative research teams, it can reduce manual analysis time while improving consistency, traceability, and reuse of firm-specific methods across studies.
+
+**Suitable roles:** Investment Portfolio Manager, Data Scientist, Financial Analyst, Data Engineer, Software Engineer
+
+#### [SheetAI](https://www.aimyflow.com/en/ai/sheetai-app)
+
+SheetAI is a Google Sheets AI add-on that helps users generate content, analyze data, automate spreadsheet tasks, and use AI functions with memory and external APIs, mainly for spreadsheet-heavy professionals and teams working in Google Workspace. For analysts, operations teams, and knowledge workers, it can reduce manual formula writing, data standardization, and repetitive enrichment by bringing AI prompts and structured outputs directly into cells.
+
+**Suitable roles:** Financial Analyst, Project Management Officer, Logistics Operations Planner, Software Engineer, Content Creator
 
 #### [Sheets Resume](https://www.aimyflow.com/en/ai/sheetsresume-com)
 
@@ -9532,6 +14014,12 @@ ShortsNinja is an AI-powered faceless video generator that helps creators make, 
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Podcast Producer
 
+#### [Shuffll](https://www.aimyflow.com/en/ai/shuffll-com)
+
+Shuffll is an AI video creation platform and white-labeled video infrastructure that helps businesses and platforms produce branded, fully edited videos from scripts, website content, or briefs, especially for teams in insurance, healthcare, HR, real estate, legal, and financial services. For marketers, content teams, and platform builders, it can shorten video production workflows by automating scripting, branding, editing, collaboration, and publishing while keeping output consistent.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Podcast Producer, Technical Writer
+
 #### [Shutterstock](https://www.aimyflow.com/en/ai/shutterstock-com)
 
 Shutterstock is a stock media marketplace offering licensed images, videos, music, and creative assets to help businesses and creators produce visual content efficiently. In the AI era, it gives marketers and designers faster access to scalable content inputs for campaigns, branding, and multimedia production.
@@ -9556,11 +14044,41 @@ Sigma AI Browser is a private AI-first browser with an in-browser agent, deep re
 
 **Suitable roles:** Project Management Officer, Financial Analyst, Talent Acquisition Manager, Field Sales Manager, Software Engineer
 
+#### [SigmanticAI](https://www.aimyflow.com/en/ai/sigmanticai-com)
+
+SigmanticAI is an AI hardware verification automation tool that generates UVM testbenches, constrained stimulus, functional coverage, assertions, and register models for semiconductor design verification engineers working in existing DV flows. For verification and chip design teams, it can reduce manual boilerplate so engineers spend more time reviewing edge cases, improving coverage closure, and validating design intent.
+
+**Suitable roles:** Electrical Engineer, Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager
+
 #### [Signal87 AI](https://www.aimyflow.com/en/ai/signal87-ai)
 
 Signal87 AI is an enterprise document intelligence platform that helps legal, compliance, finance, and other regulated teams extract entities, dates, amounts, and risk indicators from documents, ask cited questions, and connect findings across a document vault. In AI-driven review workflows, it can help analysts, lawyers, and risk professionals work faster with evidence-grounded answers and cross-document pattern detection while maintaining resilience when LLM services are unavailable.
 
 **Suitable roles:** Lawyer, Financial Analyst, Risk Analyst, Certified Public Accountant, Cybersecurity Analyst
+
+#### [Silurian AI](https://www.aimyflow.com/en/ai/silurian-ai)
+
+Silurian AI builds tailored foundation models for Earth systems that help organizations use their asset and infrastructure data to improve regional weather forecasting and earlier decision-making. For weather risk, operations, and infrastructure teams, AI models like these can turn forecast data into faster, more localized actions across planning and response workflows.
+
+**Suitable roles:** Logistics Operations Planner, Risk Analyst, Factory Operations Supervisor, COO, Data Scientist
+
+#### [Simple AI](https://www.aimyflow.com/en/ai/usesimple-ai)
+
+Simple AI is an enterprise-ready platform for deploying AI voice phone agents that handle inbound and outbound calls, sales conversations, support, lead qualification, and data collection, mainly for businesses with customer-facing phone operations. For sales, support, and operations teams, it can automate high-volume calling while capturing transcripts, sentiment, and structured data to speed follow-up and improve consistency.
+
+**Suitable roles:** Field Sales Manager, Restaurant General Manager, Branch Office Manager, Healthcare Administrator, Logistics Operations Planner
+
+#### [Simplex](https://www.aimyflow.com/en/ai/simplex-sh)
+
+Simplex is a browser automation platform and form-filling API that helps developers at AI-native healthtech companies automate complex workflows such as prior authorization, provider enrollment, intake forms, and appointment scheduling across legacy portals. In AI-driven operations, it can help engineering and operations teams turn repetitive portal work into structured, reliable workflows that reduce manual handling of healthcare forms and legacy systems.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Healthcare Administrator, IT Infrastructure Manager, Project Management Officer
+
+#### [Simplified](https://www.aimyflow.com/en/ai/simplified-com)
+
+Simplified is an all-in-one AI marketing platform that helps modern marketing teams create content, design assets, videos, and social media posts, then schedule, manage, and collaborate on campaigns in one workspace. For marketers, copywriters, designers, video creators, and social media managers, it can reduce app switching and speed up on-brand content production across channels.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, Social Media Content Creator, Podcast Producer
 
 #### [SimplyMail](https://www.aimyflow.com/en/ai/simplymail-ai)
 
@@ -9591,6 +14109,12 @@ Sintra AI is an AI workforce platform that provides role-based digital workers f
 Site2CRM is a lead capture and routing tool that uses AI chat and smart forms to collect website leads and sync them to CRMs in under one second, mainly for sales teams, agencies, and small businesses. By automating qualification, deduplication, and CRM entry, it helps sales and revenue teams spend less time on manual admin and respond to inbound leads faster.
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, COO, CEO
+
+#### [Sitekick AI](https://www.aimyflow.com/en/ai/sitekick-ai)
+
+Sitekick AI is an AI landing page generator and website builder that helps users create, customize, and publish conversion-focused websites, landing pages, and additional pages without coding, design, or copywriting skills, mainly for small business owners and service professionals. For marketers, consultants, and business operators, it can speed up site launch and content production while keeping core sales and SEO elements built into the workflow.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, Ecommerce Seller, CEO, Copywriter
 
 #### [Size the Market](https://www.aimyflow.com/en/ai/sizethemarket-com)
 
@@ -9628,6 +14152,24 @@ SkillRaptor is a tool that turns professionals’ process documents into structu
 
 **Suitable roles:** Digital Marketing Director, Software Development Manager, Talent Acquisition Manager, Graphic Designer, Lawyer
 
+#### [Skiv](https://www.aimyflow.com/en/ai/muse-ai)
+
+Skiv is an ad-free video hosting and search platform that helps teams, educators, creators, and marketers store, embed, manage, search, transcribe, and monetize video libraries with AI-powered discovery tools. For roles that work with large video archives, its AI search, transcripts, and chat-based retrieval can reduce time spent locating specific moments and make content more usable across training, sales, and production workflows.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Education Technology Consultant, Software Development Manager, Teacher
+
+#### [Skope](https://www.aimyflow.com/en/ai/useskope-com)
+
+Skope is an AI legal work platform for law firms that helps lawyers research case law, draft and review documents, generate Word files from templates, and delegate tasks through Microsoft Word or email. For legal teams, this can speed first drafts and contract redlining while keeping attorney oversight through tracked changes and cited research.
+
+**Suitable roles:** Lawyer, Technical Writer, Project Management Officer, CEO
+
+#### [SkyCine](https://www.aimyflow.com/en/ai/skyreels-v4-net)
+
+SkyCine is an AI video creation platform powered by SkyReels V4 that helps creators generate and edit cinematic videos from text, images, video fragments, and audio, with joint audio-video generation and multimodal controls. For video creators, marketers, and filmmakers, tools like this can shorten concept-to-preview cycles and reduce routine post-production work when testing scenes, formats, and creative variations.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Independent Filmmaker, Copywriter
+
 #### [Skymel](https://www.aimyflow.com/en/ai/skymel-com)
 
 Skymel is an agent-building platform that turns plain-English goals into deployable AI workflows with planning, testing, and reliability controls, mainly for teams building agents around public, external, or internal data. For operations, research, and product teams, it can reduce manual workflow redesign by selecting task steps, resources, and validation logic needed for more predictable agent outputs.
@@ -9651,6 +14193,12 @@ SkyReels is an AI video creation platform that turns scripts into finished video
 Skywork is an all-in-one AI agent that turns simple prompts into multimodal outputs such as documents, slides, sheets, websites, videos, and chat responses with deep research, mainly for analysts, educators, and other knowledge workers handling multi-step tasks. In AI-assisted workflows, it can help research, reporting, and presentation roles move faster from information gathering to polished deliverables across multiple formats.
 
 **Suitable roles:** Financial Analyst, College Professor, Project Management Officer, Digital Marketing Director, CEO
+
+#### [Slashy](https://www.aimyflow.com/en/ai/slashy-com)
+
+Slashy is an AI email client that learns how you write, drafts replies, rewrites text, manages follow-ups, and handles scheduling, mainly for busy founders, executives, and other high-volume email users. In AI-assisted communication workflows, it can help professionals respond faster while keeping outreach and customer conversations closer to their own writing style.
+
+**Suitable roles:** CEO, COO, Field Sales Manager, Project Management Officer, Software Development Manager
 
 #### [Sleekio](https://www.aimyflow.com/en/ai/sleekio-io)
 
@@ -9688,11 +14236,23 @@ SlopMog is an AI search optimization tool that helps brands increase their visib
 
 **Suitable roles:** Digital Marketing Director, CEO, Copywriter, Content Creator
 
+#### [Sloyd](https://www.aimyflow.com/en/ai/sloyd-ai)
+
+Sloyd is a browser-based AI 3D model generator that helps users create and refine 3D assets from text prompts, images, or customizable parametric templates, mainly for game developers, designers, 3D printing workflows, and developers. For game art and product design teams, it can speed concept iteration and produce more editable, production-ready geometry with controls for topology, rigging, animation, and variations.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Software Engineer, E-commerce Sales Head, Content Creator
+
 #### [Smart Clerk](https://www.aimyflow.com/en/ai/smartclerk-ai)
 
 Smart Clerk is an AI bookkeeping and accounting automation tool that converts bank and credit card statements into categorized transactions and bookkeeper-ready financial reports, mainly for small businesses and accounting firms. By automating transaction categorization and report creation, it can help owners, bookkeepers, and accountants spend less time on manual data entry and more time on review, tax preparation, and client advisory work.
 
 **Suitable roles:** Certified Public Accountant, CFO, Financial Analyst, Corporate Tax Manager, CEO
+
+#### [Smartivity](https://www.aimyflow.com/en/ai/smartivity-in)
+
+Smartivity is an online store for DIY STEM, science, engineering, construction, and art-and-craft toy kits that help children ages 3 to 14 learn through hands-on play, mainly for parents and gift buyers. For educators and child-development professionals, these screen-free activity kits can support practical skill-building in areas like problem solving, creativity, and early coding concepts.
+
+**Suitable roles:** Ecommerce Seller, Teacher, Elementary School Math Teacher, Education Technology Consultant, Content Creator
 
 #### [SmartLearn](https://www.aimyflow.com/en/ai/smartlearnapp-com)
 
@@ -9730,6 +14290,12 @@ SmartTaxReceipt is a UAE-based software service that uses AI to extract data fro
 
 **Suitable roles:** Certified Public Accountant, Corporate Tax Manager, Financial Analyst
 
+#### [SmartWriter](https://www.aimyflow.com/en/ai/smartwriter-ai)
+
+SmartWriter is an AI outreach tool that helps users generate personalized cold emails, LinkedIn messages, and backlink outreach copy at scale, mainly for B2B sales teams, agencies, and marketers. By automating research from prospect and company data, it can help sales and outreach professionals spend less time drafting messages and more time on lead generation and follow-up.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, Copywriter, E-commerce Sales Head, Content Creator
+
 #### [Smith.ai](https://www.aimyflow.com/en/ai/smith-ai)
 
 Smith.ai is a customer engagement service combining AI and live agents for 24/7 receptionist, outreach, and web chat support, mainly for small businesses and service firms. In the AI era, it helps sales and customer-facing teams capture more leads by blending automation with human follow-through.
@@ -9763,6 +14329,18 @@ Sniffsub is a Reddit audience research tool that helps users analyze subreddits 
 Snipit App is an AI-powered news and lifestyle app that curates personalised content from thousands of sources and summarizes articles into short TL;DRs, mainly for busy professionals and individuals who want to streamline information intake. For roles like managers, analysts, and marketers, it can speed up daily scanning of relevant updates and reduce overload when tracking fast-moving topics.
 
 **Suitable roles:** CEO, Financial Analyst, Digital Marketing Director, Content Creator, Project Management Officer
+
+#### [Soar2 AI](https://www.aimyflow.com/en/ai/soar2ai-com)
+
+Soar2 AI is an all-in-one AI video generator that lets users create 10-second videos from text prompts or images with models including Sora 2 and Veo 3.1, mainly for creators, marketing teams, studios, and agencies. By combining multiple video models and built-in audio generation in one workflow, it can help video producers and content marketers test concepts and produce short campaign assets more efficiently.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Independent Filmmaker
+
+#### [SocialBook](https://www.aimyflow.com/en/ai/socialbook-io-ai-avatar)
+
+SocialBook is an influencer marketing platform that helps brands and agencies find influencers, manage outreach and campaigns, analyze creator data, and monitor competitors, with tools for teams working across YouTube, Instagram, and TikTok. In an AI-driven workflow, it can help marketing and creator partnership professionals make faster shortlist, outreach, and performance decisions using centralized data and automation.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, Social Media Content Creator, Copywriter, Ecommerce Seller
 
 #### [SocialDude](https://www.aimyflow.com/en/ai/socialdude-ai)
 
@@ -9812,6 +14390,12 @@ Solido is an automated invoice reminder tool that syncs with Xero, sends persona
 
 **Suitable roles:** CFO, Financial Planning & Analysis Manager, Financial Analyst, COO, Project Management Officer
 
+#### [SolidPoint](https://www.aimyflow.com/en/ai/solidpoint-ai)
+
+SolidPoint is an AI content summarizer that helps users extract key insights from YouTube videos, web pages, arXiv papers, Reddit posts, and PDFs, mainly for students, researchers, and busy professionals. In AI-driven research and learning workflows, it can help educators, analysts, and knowledge workers review long-form sources faster and turn content into concise summaries or flashcards.
+
+**Suitable roles:** College Professor, Data Scientist, Financial Analyst, Technical Writer, Teacher
+
 #### [Solidsign](https://www.aimyflow.com/en/ai/solidsign-ai)
 
 Solidsign is a modern document signing tool that helps users create, review, collaborate on, and securely sign documents with AI-powered assistance, mainly for teams handling digital document workflows. Its AI suggestions and collaboration features can help legal, operations, and administrative professionals prepare documents faster and review them more consistently before signing.
@@ -9848,11 +14432,29 @@ SongGenerator.io is an AI music generator that helps songwriters, musicians, and
 
 **Suitable roles:** Content Creator, Copywriter, Social Media Content Creator, Podcast Producer, Music Lover
 
+#### [Songtell](https://www.aimyflow.com/en/ai/songtell-com)
+
+Songtell is an AI-powered website that helps music listeners discover the meaning and stories behind song lyrics, mainly for fans who want to understand their favorite songs more deeply. For music writers, editors, and community curators, it can speed up lyric interpretation and support clearer, more scalable song commentary across large catalogs.
+
+**Suitable roles:** Music Lover, Content Creator, Copywriter, Technical Writer, Social Media Content Creator
+
 #### [SonicCaption](https://www.aimyflow.com/en/ai/soniccaption-com)
 
 SonicCaption is a Chrome and Edge extension that adds real-time bilingual subtitles and translation to audio and video in browser tabs like YouTube, Netflix, Zoom, and Meet, mainly for language learners and non-native professionals. For professionals in meetings, training, and online learning, it can reduce missed details and help them stay engaged without constantly pausing, rewinding, or switching to transcripts.
 
 **Suitable roles:** Teacher, Online Coding Tutor, School Counselor, Education Technology Consultant, Content Creator
+
+#### [Sonify](https://www.aimyflow.com/en/ai/sonify-io)
+
+Sonify is an audio, data, and emerging technology studio that designs audio-first products and data-driven solutions, mainly for organizations and teams working in media, data storytelling, and accessible digital experiences. In an AI-driven workflow, its approach can help product, data, and creative professionals turn complex information into conversational and audio-based formats that support co-creation and accessibility.
+
+**Suitable roles:** Data Scientist, Graphic Designer, Education Technology Consultant, Content Creator, Software Engineer
+
+#### [Sonix](https://www.aimyflow.com/en/ai/sonix-ai)
+
+Sonix is an AI transcription platform that converts audio and video to text, translates transcripts, creates subtitles, and analyzes conversations for professionals such as journalists, researchers, legal teams, healthcare organizations, and media producers. By turning recordings into searchable, speaker-labeled transcripts with summaries and sentiment analysis, it can help content, research, legal, and clinical teams review conversations faster and act on key information more efficiently.
+
+**Suitable roles:** TV News Reporter, Podcast Producer, Lawyer, Healthcare Administrator, Content Creator
 
 #### [Soolo.ai](https://www.aimyflow.com/en/ai/soolo-ai)
 
@@ -9866,6 +14468,18 @@ Sora Watermark Remover is an AI tool that removes watermarks from Sora-generated
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter
 
+#### [Sorce](https://www.aimyflow.com/en/ai/sorce-jobs)
+
+Sorce is an AI-powered job application platform that lets job seekers upload a resume, swipe on roles they want, and have an AI agent apply on their behalf across a large job database. For job seekers across industries and seniority levels, this can reduce repetitive application work and help them spend more time on higher-value tasks like tailoring resumes and preparing for interviews.
+
+**Suitable roles:** Talent Acquisition Manager, Software Engineer, Digital Marketing Director, Field Sales Manager
+
+#### [SoulmateSketch](https://www.aimyflow.com/en/ai/soulmatesketch-org)
+
+SoulmateSketch is an AI-powered digital portrait tool that creates a personalized soulmate illustration from users’ birth details and preferences, mainly for individuals seeking an astrology-inspired entertainment product. For creative consumer product teams and digital marketers, its clear quiz-to-checkout flow shows how AI personalization can package niche lifestyle content into a defined digital deliverable.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Ecommerce Seller, Copywriter
+
 #### [SoundBoost.ai](https://www.aimyflow.com/en/ai/diktatorial-com)
 
 SoundBoost.ai is an AI audio mastering platform that helps musicians, producers, and mastering professionals turn mixed tracks into release-ready masters using text prompts, reference tracks, and genre-aware processing. For music production workflows, it can speed up mastering decisions and iteration while helping audio professionals check loudness, translation, and format readiness for streaming platforms.
@@ -9877,6 +14491,18 @@ SoundBoost.ai is an AI audio mastering platform that helps musicians, producers,
 SoundEffectGenerator is an AI sound effect generator that turns text prompts into custom sound effects with adjustable length and looping, mainly for creators, developers, and sound designers. For video editors, game developers, and audio teams, it can speed up prototyping and asset creation by generating many specific effects from written prompts instead of sourcing them manually.
 
 **Suitable roles:** Independent Filmmaker, Software Engineer, Graphic Designer, Content Creator, Copywriter
+
+#### [Soundful](https://www.aimyflow.com/en/ai/soundful-com)
+
+Soundful is an AI music platform that helps users generate original tracks, build sonic brand identities, and license music for commercial use, mainly for brands, enterprises, agencies, and content creators. In AI-driven creative workflows, it can help marketers, producers, and brand teams make audio production faster and more scalable while reducing copyright and licensing friction.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, Copywriter, Social Media Content Creator, CEO
+
+#### [SOUNDRAW](https://www.aimyflow.com/en/ai/soundraw-io)
+
+SOUNDRAW is an AI music generator that helps creators, artists, and producers make royalty-free beats and background music, customize tracks by instrument and length, and download files including stems for commercial use. For video creators, musicians, and audio teams, it can speed up soundtrack and beat production while reducing copyright and licensing risk in AI-assisted workflows.
+
+**Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Copywriter
 
 #### [Soundwise.ai](https://www.aimyflow.com/en/ai/soundwise-ai)
 
@@ -9902,6 +14528,12 @@ SpacePrompts is an AI prompt manager that helps users create, enhance, organize,
 
 **Suitable roles:** Software Engineer, Digital Marketing Director, Copywriter, Content Creator, Technical Writer
 
+#### [SparkIconAI](https://www.aimyflow.com/en/ai/sparkiconai-com)
+
+SparkIconAI is an AI icon generator and management platform that helps designers and developers create, organize, refine, and export icons for apps, sites, and digital products. For design and product teams, it can speed asset production by combining prompt-based icon creation, project organization, and export presets in one workflow.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Software Development Manager, Industrial Designer, Content Creator
+
 #### [SparklingPeach by Crafted Courses](https://www.aimyflow.com/en/ai/craftedcourses-io)
 
 SparklingPeach by Crafted Courses is an AI-powered course creation platform that helps educators, trainers, and academic course creators generate, customize, publish, and manage professional learning content, including slides and assessments. For teaching and training teams, it can speed course production while supporting more consistent instructional design, learner tracking, and workforce training management.
@@ -9914,6 +14546,30 @@ SparrowGenie Sales Prompt Generator is a free AI prompt generator that helps sal
 
 **Suitable roles:** Field Sales Manager, E-commerce Sales Head, Copywriter, Content Creator, CEO
 
+#### [Spatial AI](https://www.aimyflow.com/en/ai/spatial-ai-com)
+
+Spatial AI is a robotics-focused company collecting large-scale real-world data to help robots understand navigation and complete tasks, mainly for robotics developers and researchers. In AI-driven robotics work, better real-world training data can help engineering teams build more reliable navigation and task-performance systems.
+
+**Suitable roles:** Software Engineer, Data Scientist, Software Development Manager, Data Engineer, Electrical Engineer
+
+#### [Speak AI](https://www.aimyflow.com/en/ai/speakai-co)
+
+Speak AI is an AI voice and video platform that helps teams capture, transcribe, analyze, and share recordings, and deploy knowledge-grounded voice, video, and phone agents; it is mainly for business, research, and developer teams. For researchers, marketers, support teams, and operations staff, it can turn meetings, interviews, and calls into searchable data and structured outputs that improve reporting, handoffs, and AI-assisted workflows.
+
+**Suitable roles:** Software Development Manager, Digital Marketing Director, Project Management Officer, Technical Writer, Education Technology Consultant
+
+#### [SpeakUp](https://www.aimyflow.com/en/ai/speak-up-pro-en)
+
+SpeakUp is an AI speaker booking platform that helps event organizers, podcasters, journalists, and media teams find verified speakers, post requests, and manage direct booking in one place. For event and content teams, its AI matching and centralized outreach can reduce manual sourcing work and speed up booking expert guests for conferences, podcasts, webinars, and interviews.
+
+**Suitable roles:** Podcast Producer, TV News Reporter, Concert Promoter, Content Creator, Digital Marketing Director
+
+#### [Specific](https://www.aimyflow.com/en/ai/specific-dev)
+
+Specific is a cloud platform for coding agents that helps developers and platform teams build, configure, run, and deploy full applications with infrastructure such as databases, secrets, services, and local development environments. In AI-assisted software work, it can reduce setup and deployment overhead for software engineers by letting coding agents handle more of the operational tasks needed to move from code to production.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, CEO
+
 #### [Specifys.ai](https://www.aimyflow.com/en/ai/specifys-ai-com)
 
 Specifys.ai is an AI tool that generates comprehensive app specifications and PRDs to help people define product requirements and development plans, mainly for app builders, product teams, and developers. In AI-assisted software workflows, clearer structured specs can help product managers and engineers reduce ambiguity, align implementation faster, and use coding tools more effectively.
@@ -9925,6 +14581,24 @@ Specifys.ai is an AI tool that generates comprehensive app specifications and PR
 Speech Illustrator is a speech-to-image AI tool that turns spoken audio into real-time visuals from audiobooks, podcasts, songs, and lectures, mainly for listeners, learners, and educators who want a more visual listening experience. In AI-enabled learning and media workflows, it can help teachers, trainers, and content creators make audio content easier to follow, remember, and present.
 
 **Suitable roles:** Teacher, Content Creator, Online Coding Tutor, Community College Instructor, Education Technology Consultant
+
+#### [Speech Studio](https://www.aimyflow.com/en/ai/speech-microsoft-com-portal)
+
+Speech Studio is Microsoft’s Azure AI Speech portal for developers to build and test speech-to-text, text-to-speech, translation, captioning, transcription, and voice features for apps and services. For software teams, support operations, and media workflows, it can speed AI voice and transcription work by enabling no-code trials, custom speech models, and multilingual audio experiences from one place.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Podcast Producer, Technical Writer, Content Creator
+
+#### [SpeechEasy](https://www.aimyflow.com/en/ai/speecheasyapp-com)
+
+SpeechEasy is an AI text-to-speech tool that converts text or web links into natural-sounding audio, mainly for content creators, marketers, publishers, and e-learning teams that need simple voiceover production. In AI-driven content workflows, it can help these professionals turn written material into consistent audio faster for videos, learning assets, articles, and on-the-go listening.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Teacher, Technical Writer, Copywriter
+
+#### [Speechify](https://www.aimyflow.com/en/ai/speechify-com)
+
+Speechify is a voice AI productivity assistant that helps users turn text into audio, dictate writing, summarize content, take notes, and ask questions across documents and apps, mainly for professionals, students, creators, and accessibility-focused users. For knowledge workers and students, combining text to speech with voice typing and AI summaries can reduce reading and writing friction while speeding review and comprehension.
+
+**Suitable roles:** Content Creator, Teacher, Technical Writer, Software Engineer, Healthcare Administrator
 
 #### [Speechmatics](https://www.aimyflow.com/en/ai/speechmatics-com-use-cases-ai-voice-agents)
 
@@ -9968,11 +14642,51 @@ SpicyGen is an AI porn generator that turns AI-generated images into animated NS
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Independent Filmmaker, Graphic Designer, Copywriter
 
+#### [Spin Rewriter AI](https://www.aimyflow.com/en/ai/spinrewriter-com)
+
+Spin Rewriter AI is a cloud-based article rewriting tool that uses LLM-powered semantic rewriting to turn one source article into multiple unique versions, mainly for SEO specialists and content marketers. For SEO teams and publishers, it can speed content variation and bulk article production while helping compare originals with rewrites for uniqueness.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Technical Writer, Content Creator, Social Media Content Creator
+
+#### [Splash](https://www.aimyflow.com/en/ai/splashmusic-com)
+
+Splash is a music creation and interactive music platform that helps artists and fans create together and engage in shared experiences, with a strong presence on Roblox. For musicians, digital creators, and entertainment teams, AI-driven creative tools can speed up collaborative music production and make audience participation part of the creative workflow.
+
+**Suitable roles:** Content Creator, Music Lover, Social Media Content Creator, Podcast Producer, Copywriter
+
+#### [Spline](https://www.aimyflow.com/en/ai/spline-design)
+
+Spline is a browser-based 3D design tool with real-time collaboration that helps users create interactive web experiences, websites, apps, and 3D content, mainly for designers and creative teams. In AI-assisted workflows, its natural-language and 3D generation features can help designers and developers prototype interactive visuals faster and iterate more efficiently together.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Content Creator, Industrial Designer, Software Development Manager
+
 #### [SportBot AI](https://www.aimyflow.com/en/ai/sportbotai-com)
 
 SportBot AI is an AI sports analysis tool that helps bettors, sports analysts, and content creators evaluate matches, compare odds, and identify potential value bets across soccer, NBA, NFL, and NHL using model-based predictions and tracked results. In AI-assisted sports research, it can help these professionals work faster by turning multi-source pre-match analysis into a quicker, more consistent decision-support process.
 
 **Suitable roles:** Content Creator, Financial Analyst, Social Media Content Creator, Podcast Producer
+
+#### [Spur](https://www.aimyflow.com/en/ai/spurtest-com)
+
+Spur is an agentic QA testing platform that uses autonomous, no-code AI agents to plan, execute, and report web and mobile tests for teams releasing digital products, especially e-commerce, product, and QA teams. For QA engineers, product managers, and engineering teams, it can reduce manual regression work and broaden coverage across functional, UI/UX, localization, exploratory, and AI feature testing as release cycles speed up.
+
+**Suitable roles:** Software Development Manager, Project Management Officer, E-commerce Sales Head, Software Engineer
+
+#### [SQLAI.ai](https://www.aimyflow.com/en/ai/aihelperbot-com)
+
+SQLAI.ai is an AI SQL assistant that helps analysts, data engineers, developers, and data teams generate, optimize, validate, format, explain, and run SQL or NoSQL queries from natural language across many database engines. For analytics and engineering work, it can shorten query drafting and review cycles by combining schema-aware generation with validation and readable explanations.
+
+**Suitable roles:** Data Engineer, Data Scientist, Software Engineer, Financial Analyst, IT Infrastructure Manager
+
+#### [sqlkiller.com appears to be a category-based directory that](https://www.aimyflow.com/en/ai/sqlkiller-com)
+
+sqlkiller.com appears to be a category-based directory that helps users browse links and resources across topics such as Automotive, Finance, Health, Shopping, and Travel, mainly for general web users seeking topic-specific content. In an AI-driven search environment, broad directories like this can give researchers, marketers, and content teams a simple starting point for manual source discovery by category.
+
+#### [Square Face Generator](https://www.aimyflow.com/en/ai/squarefacegenerator-tools)
+
+Square Face Generator is a free, mobile-friendly pixel avatar maker that helps users create and export customizable square-face profile images, mainly for social media users, gamers, and anyone wanting a retro-style online avatar. In AI-era profile design workflows, it gives creators and community managers a fast way to produce distinctive, lightweight visual identities without needing complex design software.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Digital Marketing Director, Community College Instructor
 
 #### [Square Face Icon Generator](https://www.aimyflow.com/en/ai/squarefaceicongenerator-net)
 
@@ -10004,6 +14718,12 @@ Stable Commerce is an AI-first e-commerce platform with autonomous agents that h
 
 **Suitable roles:** E-commerce Sales Head, Ecommerce Seller, Digital Marketing Director, CEO, Project Management Officer
 
+#### [Stable Diffusion Models](https://www.aimyflow.com/en/ai/cyberes-github-io-stable-diffusion-models)
+
+Stable Diffusion Models is a download directory for Stable Diffusion checkpoints, DreamBooth models, textual inversion resources, upscalers, and face restorers, helping image generation users and AI artists find model files and sources such as torrents and Hugging Face links. For designers and generative art practitioners, a centralized model index can speed model selection, comparison, and workflow setup as AI image stacks become more specialized.
+
+**Suitable roles:** Graphic Designer, Content Creator, Software Engineer, Data Scientist, Technical Writer
+
 #### [Stackify](https://www.aimyflow.com/en/ai/stackify-lovable-app)
 
 Stackify is an AI copilot for consultants and fractional COOs that helps them rationalize SaaS stacks by mapping capabilities, identifying overlaps and gaps, and recommending keep, kill, or replace decisions with ROI reporting. For consulting and operational leaders, it can shorten manual stack reviews and produce CFO-ready roadmaps that support faster cost, workflow, and tool consolidation decisions.
@@ -10016,11 +14736,29 @@ Stacks is an AI-powered personal workspace that helps users save, organize, sear
 
 **Suitable roles:** Content Creator, CEO, Technical Writer, College Professor, Software Engineer
 
+#### [stagewise](https://www.aimyflow.com/en/ai/stagewise-io)
+
+stagewise is a purpose-built browser with a built-in coding agent that helps web developers inspect pages, use devtools across tabs, test changes, and connect a codebase for permanent edits. For front-end developers and debugging workflows, this can speed reverse engineering and iteration by combining browser context, console access, and code changes in one environment.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Education Technology Consultant, Technical Writer
+
+#### [Standout](https://www.aimyflow.com/en/ai/standout-work)
+
+Standout is a career representation service that helps elite tech talent find opportunities and negotiate offers with VC-backed startups, mainly for skilled professionals seeking stronger career support. In an AI-driven hiring market, this kind of representation can help candidates and recruiters surface hidden roles and handle compensation discussions more effectively.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Data Scientist, Talent Acquisition Manager
+
 #### [Starnus](https://www.aimyflow.com/en/ai/starnus-com)
 
 Starnus is an AI sales platform that acts like an autonomous employee, helping founders and growing sales teams run outbound work such as ICP definition, lead sourcing, personalized outreach, follow-up, and campaign monitoring through simple prompts. In AI-enabled sales operations, it can reduce tool switching and manual coordination so sales and growth teams can spend more time on strategy, approvals, and handling qualified responses.
 
 **Suitable roles:** Field Sales Manager, E-commerce Sales Head, CEO, Digital Marketing Director, COO
+
+#### [starryai](https://www.aimyflow.com/en/ai/starryai-com)
+
+starryai is a free AI image generator and editor that helps users create images and video from text prompts or uploaded photos, mainly for creators, artists, and people making visual content. For designers, illustrators, and social media teams, it can speed up concepting and image variation by turning ideas into editable visuals quickly.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter
 
 #### [StarterPilot](https://www.aimyflow.com/en/ai/starterpilot-com)
 
@@ -10046,11 +14784,23 @@ StealthWriter is a text rewriting tool that transforms AI-generated writing into
 
 **Suitable roles:** Content Creator
 
+#### [Stellon Labs](https://www.aimyflow.com/en/ai/stellonlabs-com)
+
+Stellon Labs is an AI research lab that builds powerful small models for edge applications, helping organizations deploy frontier AI on minimal hardware and serving teams working on resource-constrained AI systems. For AI engineers and edge developers, compact models like these can make it easier to bring advanced capabilities to devices where compute, power, or memory are limited.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Electrical Engineer, IT Infrastructure Manager, Data Engineer
+
 #### [StemSplit](https://www.aimyflow.com/en/ai/stemsplit-io)
 
 StemSplit is an AI vocal remover and stem splitter that helps users remove vocals, extract instrumentals, and separate songs into multiple stems, mainly for music producers, DJs, singers, and content creators. In AI-driven audio workflows, it can speed remixing, karaoke creation, and track prep by turning full songs or linked media into usable stems in under a minute.
 
 **Suitable roles:** Content Creator, Podcast Producer, Voice Actor, Social Media Content Creator, Software Engineer
+
+#### [Stenography](https://www.aimyflow.com/en/ai/stenography-dev)
+
+Stenography is an automatic documentation tool and API that explains code in plain English, documents codebases on save, and surfaces related Stack Overflow and web documentation, mainly for software developers. In AI-assisted development workflows, it can help engineers and developer teams reduce documentation effort and speed code understanding without storing code off-system.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, IT Infrastructure Manager
 
 #### [Stepper](https://www.aimyflow.com/en/ai/stepper-io)
 
@@ -10058,11 +14808,35 @@ Stepper is a free AI-native workflow automation platform that helps users build,
 
 **Suitable roles:** Project Management Officer, Digital Marketing Director, Field Sales Manager, Financial Planning & Analysis Manager, Software Development Manager
 
+#### [Steve AI](https://www.aimyflow.com/en/ai/steve-ai)
+
+Steve AI is an AI video generator that helps users turn text, images, audio, and ideas into publishable videos with scripts, scenes, voiceovers, subtitles, and motion effects, mainly for creators, YouTubers, and marketers. For content and marketing teams, it can speed up video production and repurposing so they can publish more consistently across social, training, and promotional channels.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Podcast Producer
+
+#### [Sticker Prompt Generator by How to Leverage AI](https://www.aimyflow.com/en/ai/howtoleverageai-com-midjourney-sticker-prompt-generator)
+
+Sticker Prompt Generator by How to Leverage AI is an AI prompt generator that helps users create 10 sticker-style prompts in one click for artwork such as T-shirt designs, emojis, character design, NFTs, comics, and social media visuals, mainly for artists and designers. In AI-assisted creative workflows, it can help illustrators and digital creators explore multiple visual directions faster when developing concepts or testing styles.
+
+**Suitable roles:** Graphic Designer, Content Creator, Ecommerce Seller, Social Media Content Creator, Industrial Designer
+
+#### [Stillwind](https://www.aimyflow.com/en/ai/stillwind-ai)
+
+Stillwind is an AI search tool for electrical engineering that helps users find electronic parts with natural language queries by matching detailed specifications against a large parts database, mainly for electrical engineers and embedded software developers. In AI-assisted hardware workflows, it can reduce component research time and improve how engineers and sourcing-related teams translate design needs into precise part selections.
+
+**Suitable roles:** Electrical Engineer, Software Engineer, Data Engineer, Mechanical Engineer
+
 #### [StockGPT](https://www.aimyflow.com/en/ai/askstockgpt-com)
 
 StockGPT is an AI stock research tool that helps investors and analysts query company and market information through a conversational interface. In the AI era, it speeds up financial research by helping users extract insights from large volumes of investment data.
 
 **Suitable roles:** Financial Analyst
+
+#### [Stockline](https://www.aimyflow.com/en/ai/stockline-ai)
+
+Stockline is an AI-native ERP for food wholesalers that automates order entry, invoice processing, stock updates, and document generation from channels like email, WhatsApp, SMS, and phone calls. For wholesale operations, sales, and administrative teams, it can reduce manual data entry and errors while giving faster access to inventory, customer follow-up, and forecasting insights.
+
+**Suitable roles:** Logistics Operations Planner, Field Sales Manager, Factory Operations Supervisor, CFO, Financial Analyst
 
 #### [Stocknews AI](https://www.aimyflow.com/en/ai/stocknewsai-com)
 
@@ -10076,17 +14850,41 @@ StockNews.AI Agent is an AI-powered market news tool that turns financial headli
 
 **Suitable roles:** Financial Analyst, Investment Portfolio Manager, Risk Analyst, CFO, Data Scientist
 
+#### [Stormy](https://www.aimyflow.com/en/ai/stormy-ai)
+
+Stormy is an AI agent for influencer marketing that helps marketing teams and brands find creators, automate outreach and negotiations, manage campaigns, track performance, and handle creator payments across major social platforms. For influencer marketers and growth teams, it can reduce manual prospecting and follow-up work so they can focus more on campaign strategy, creator fit, and performance analysis.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, E-commerce Sales Head, CEO
+
 #### [StoryArtAI](https://www.aimyflow.com/en/ai/storyartai-com)
 
 StoryArtAI is an AI illustration generator that helps users create children’s book artwork from text prompts in styles like comics, watercolor, line art, pixel art, naive art, and collage, mainly for children’s book creators. For authors, illustrators, and publishers, it can speed early visual development and support more consistent storybook imagery across characters and scenes.
 
 **Suitable roles:** Fiction Writer, Graphic Designer, College Professor, Content Creator
 
+#### [STORYD](https://www.aimyflow.com/en/ai/storyd-ai)
+
+STORYD is an AI presentation tool that helps business professionals create clear, structured storytelling decks in seconds, especially for people preparing presentations for leaders and decision-makers. For roles such as managers, analysts, consultants, and sales teams, it can speed up deck creation and improve how ideas, data, and recommendations are communicated for faster decisions.
+
+**Suitable roles:** CEO, Financial Analyst, Field Sales Manager, Project Management Officer, COO
+
+#### [Streamlabs Podcast Editor](https://www.aimyflow.com/en/ai/typestudio-co)
+
+Streamlabs Podcast Editor is a text-based video editor that transcribes audio and video so podcasters, interview creators, and streamers can edit content by changing text and turn long recordings into shorter clips for social platforms. Its AI transcription and highlight extraction can help content teams and social media editors speed up repurposing work while reducing manual timeline editing.
+
+**Suitable roles:** Podcast Producer, Social Media Content Creator, Content Creator, Copywriter, Technical Writer
+
 #### [Struct](https://www.aimyflow.com/en/ai/struct-ai)
 
 Struct is an AI on-call agent that investigates engineering alerts and bugs by analyzing logs, metrics, traces, and codebases, mainly for software engineers and SRE teams. In the AI era, it helps incident responders shorten triage time by delivering root-cause findings and suggested fixes directly in workflows.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Cybersecurity Analyst
+
+#### [Structured AI](https://www.aimyflow.com/en/ai/getstructured-ai)
+
+Structured AI is an AI QA/QC platform for construction and design engineering documents that helps AEC firms automatically review MEP, civil, structural, and architectural drawings for errors, inconsistencies, clashes, and code-related issues. For engineers and technical reviewers, it can reduce repetitive drawing checks and surface standards-based findings earlier, supporting faster coordination and fewer downstream rework issues.
+
+**Suitable roles:** Civil Engineer, Electrical Engineer, Mechanical Engineer, Residential Architect, Commercial Architect
 
 #### [Strut](https://www.aimyflow.com/en/ai/strut-so)
 
@@ -10118,6 +14916,12 @@ Study Space is an AI learning tool that turns documents into personalized lectur
 
 **Suitable roles:** Teacher, Corporate Leadership Coach, Online Coding Tutor, Test Prep Tutor, Education Technology Consultant
 
+#### [Stunning](https://www.aimyflow.com/en/ai/stunning-so)
+
+Stunning is an AI-powered platform that helps users describe and create full-stack web apps and websites faster, mainly for builders, founders, and developers who want to launch projects with less manual coding. For product teams, web developers, and agencies, this can speed up prototyping and client delivery by turning app ideas into usable web experiences more efficiently.
+
+**Suitable roles:** Software Engineer, Software Development Manager, CEO, Content Creator, Digital Marketing Director
+
 #### [Stuvio](https://www.aimyflow.com/en/ai/stuvio-ai)
 
 Stuvio is an AI video generator platform that helps users create and refine cinematic videos across models like Seedance, Sora, Veo, and Wan, mainly for AI filmmakers and professional video creators. For filmmakers, creative directors, and editors, its model comparison and prompt-routing workflow can speed shot testing, improve control over motion and lighting, and reduce time spent switching between separate tools.
@@ -10136,11 +14940,21 @@ StylePal is an AI fashion assistant app that helps people choose between two out
 
 **Suitable roles:** Fashion Designer, Content Creator, Real Estate Agent
 
+#### [Subtxt with Muse](https://www.aimyflow.com/en/ai/subtxt-app)
+
+Subtxt with Muse is an AI-assisted narrative analysis and outlining platform that helps writers evaluate story structure, coherence, conflict, and theme, mainly for screenwriters, novelists, and game designers. In AI-supported creative workflows, it gives writing and narrative teams a more objective way to guide revisions and preserve author intent across complex, multi-agent storytelling.
+
+**Suitable roles:** Fiction Writer, Content Creator, Copywriter, Independent Filmmaker, Technical Writer
+
 #### [Subversive Leader](https://www.aimyflow.com/en/ai/subversiveleader-com)
 
 Subversive Leader is an AI-powered leadership coaching platform that helps early and mid-career professionals work through real workplace challenges with personalized guidance, goal tracking, and leadership development support. For managers, program directors, and operations leaders, it can make coaching more continuous and context-aware by retaining past conversations and linking advice to evolving goals.
 
 **Suitable roles:** Corporate Leadership Coach, CEO, COO, Nonprofit Program Manager, Project Management Officer
+
+#### [Suenagringo](https://www.aimyflow.com/en/ai/suenagringo-com)
+
+Suenagringo is a category-based web directory that helps users browse resources across topics like Automotive, Finance, Health, Shopping, and Travel, mainly for people looking for general websites or information by subject. In an AI-driven search environment, directories like this can help marketers, researchers, and content teams quickly map topic areas and identify relevant sources for discovery work.
 
 #### [SUFY](https://www.aimyflow.com/en/ai/sufy-com)
 
@@ -10153,6 +14967,12 @@ SUFY provides CDN and scalable object storage services that help businesses deli
 SummaryGenerator.io is an AI text summarizer that condenses pasted or uploaded text into short or long summaries in paragraph or bullet-point form, mainly for students, researchers, writers, and readers reviewing articles, papers, reports, and meeting notes. For research, writing, and content review workflows, it can speed up information triage by surfacing key points and reducing time spent reading dense source material.
 
 **Suitable roles:** Technical Writer, Content Creator, College Professor, Financial Analyst, Project Management Officer
+
+#### [Summate.it](https://www.aimyflow.com/en/ai/summate-it)
+
+Summate.it is an AI-powered web article summarization tool that helps users quickly turn article URLs into concise summaries, mainly for readers, researchers, and other people processing online content. In AI-supported research and content review workflows, it can help knowledge workers scan more sources faster before deciding what to read in full.
+
+**Suitable roles:** Financial Analyst, Technical Writer, TV News Reporter, Content Creator, CEO
 
 #### [Suno](https://www.aimyflow.com/en/ai/suno-ai)
 
@@ -10202,11 +15022,23 @@ Superapp is a native Mac app that uses AI to turn plain-English app ideas into n
 
 **Suitable roles:** Software Engineer, CEO, Software Development Manager, Project Management Officer, Teacher
 
+#### [Supercreator.ai](https://www.aimyflow.com/en/ai/supercreator-ai)
+
+Supercreator.ai is an AI video creation platform that helps users script, record, edit, and publish videos in one workflow, mainly for content teams, agencies, marketers, and creators. For video marketers and production teams, its AI editing, captions, templates, and batch API processing can reduce manual post-production work and support faster, more consistent content output.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter, Ecommerce Seller
+
 #### [Superdirector](https://www.aimyflow.com/en/ai/superdirector-app)
 
 Superdirector is an AI tool that turns a brand or creator profile URL into a ranked feed of viral short-form content ideas, brand-fit scripts, and shot lists, mainly for social media teams and creators. For social marketers, content strategists, and producers, it can shorten trend research and scripting time by converting niche viral patterns into production-ready plans.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Content Creator, Podcast Producer
+
+#### [Superglue](https://www.aimyflow.com/en/ai/superglue-ai)
+
+Superglue is an AI platform for enterprise integrations that helps teams connect, govern, and migrate enterprise systems by understanding infrastructure, converting legacy integration code into API integrations, and documenting system knowledge, mainly for IT, data, and integration teams. For enterprise architects, developers, and operations teams, this can reduce reliance on undocumented legacy workflows and make AI deployment and system changes easier to manage.
+
+**Suitable roles:** IT Infrastructure Manager, Software Engineer, Data Engineer, COO, Project Management Officer
 
 #### [Superhuman](https://www.aimyflow.com/en/ai/superhuman-com)
 
@@ -10231,6 +15063,18 @@ Supernormal Desktop App is an AI meeting assistant that captures computer audio 
 Superpower is a health testing and care platform that helps individuals monitor 100+ biomarkers, understand blood test results, and follow personalized health plans with clinician-backed recommendations and concierge support. In an AI-enabled preventive care workflow, it can help healthcare and wellness professionals turn complex lab data into clearer, faster next-step guidance for ongoing health management.
 
 **Suitable roles:** Wellness Coach, Healthcare Administrator, Occupational Health Specialist, Medical Lab Technician, Home Health Aide
+
+#### [Superset](https://www.aimyflow.com/en/ai/superset-sh)
+
+Superset is a code editor for AI agents that helps developers run and manage 10+ parallel coding agents on their own machine, with isolated Git worktrees, task switching, change review, and opening workspaces in any IDE. For software engineers and technical leads using AI coding tools, it can reduce context switching and make parallel feature work, bug fixing, and code review easier to coordinate.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
+
+#### [Superstudio from Kaiber](https://www.aimyflow.com/en/ai/kaiber-ai)
+
+Superstudio from Kaiber is an AI creative workspace with an infinite canvas that helps artists, designers, musicians, and other creators generate and edit image, video, and sound projects in one interface. For creative professionals, centralizing multimodal AI tools and custom model workflows can streamline concept development, visual iteration, and production across campaigns, animations, and music visuals.
+
+**Suitable roles:** Graphic Designer, Content Creator, Fashion Designer, Social Media Content Creator, Independent Filmmaker
 
 #### [SuperTravel](https://www.aimyflow.com/en/ai/suptravel-ai)
 
@@ -10266,6 +15110,12 @@ Surf is an AI-powered crypto research platform that helps traders and investors 
 
 **Suitable roles:** Data Scientist, Software Engineer, Cybersecurity Analyst, Data Engineer, Financial Analyst, Risk Analyst +8 more
 
+#### [Surfer](https://www.aimyflow.com/en/ai/surferseo-com)
+
+Surfer is an SEO content optimization platform that helps users research, audit, write, optimize, and monitor content for visibility in Google and AI search tools, mainly for SEO specialists, content marketers, writers, and agencies. As AI-driven discovery grows, it can help these teams align content with search intent, topic coverage, and brand visibility across both traditional search and AI assistants.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Ecommerce Seller, Technical Writer
+
 #### [SurfSense](https://www.aimyflow.com/en/ai/surfsense-com)
 
 SurfSense is an open source NotebookLM alternative for teams that connects LLMs to internal knowledge sources, syncs data from tools like Notion, Drive, and Gmail, and enables real-time collaborative chat, search, and knowledge management for enterprise users. For knowledge workers, operations teams, and IT leaders, it can improve how shared documents and company knowledge are searched, cited, and discussed in collaborative AI workflows.
@@ -10277,6 +15127,30 @@ SurfSense is an open source NotebookLM alternative for teams that connects LLMs 
 Surmado is an AI marketing intelligence tool that helps businesses and agencies test AI visibility, run site audits, and generate prioritized recommendations through its Scout research system. For marketers, SEO specialists, and agency teams, it can speed up AI search research and turn brand visibility findings into faster, client-ready actions.
 
 **Suitable roles:** Digital Marketing Director, Education Technology Consultant, Copywriter, Project Management Officer, CEO
+
+#### [SVG AI](https://www.aimyflow.com/en/ai/svgai-org)
+
+SVG AI is an AI SVG generator that turns text prompts, images, or both into editable vector graphics such as logos, icons, and illustrations, mainly for designers, developers, and creative teams needing production-ready SVGs. In AI-assisted design workflows, it can help web designers, brand designers, and frontend developers create and refine scalable assets faster while keeping SVG code clean and ready for use.
+
+**Suitable roles:** Graphic Designer, Software Engineer, Content Creator, Copywriter, Technical Writer
+
+#### [Swapface](https://www.aimyflow.com/en/ai/swapface-org)
+
+Swapface is a free AI face swap tool that helps users create real-time live stream, image, video, and GIF face swaps, mainly for content creators and social media users. In AI-driven media workflows, it can help streamers, video editors, and creators produce fast character-based visuals while keeping processing and data on their local machines.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Independent Filmmaker, Voice Actor
+
+#### [SWAPP](https://www.aimyflow.com/en/ai/swapp-ai)
+
+SWAPP is an AI platform for architecture firms that automates architectural documentation and BIM modeling workflows using firm-specific standards and QA, helping architects and operations leaders reduce repetitive work and maintain consistency. For architects and design technology teams, this can streamline documentation production and make firm standards more usable in day-to-day project delivery.
+
+**Suitable roles:** Commercial Architect, Residential Architect, Project Management Officer, COO
+
+#### [Swerve](https://www.aimyflow.com/en/ai/getswerve-com)
+
+Swerve is an AI character chat app that helps users choose personas and have one-on-one or group conversations with AI companions, mainly for people seeking interactive social or roleplay-style chats. For community managers, conversational designers, and product teams, it offers a simple way to observe how persona-based AI chats can shape engagement and dialogue experiences.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Podcast Producer
 
 #### [swiftnotes.ai](https://www.aimyflow.com/en/ai/swiftnotes-ai)
 
@@ -10314,6 +15188,12 @@ Syllaby is an AI video creation platform that helps users discover content ideas
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, CEO
 
+#### [Symanto](https://www.aimyflow.com/en/ai/symanto-com-get-in-touch)
+
+Symanto is an AI solutions provider with offerings such as AI Contact Centre, Insights, and AI Accelerator, and this page helps businesses contact the company to get started with its tools and support. For customer service, research, and operations teams, AI platforms like these can help turn conversations and business data into faster analysis and more informed decisions.
+
+**Suitable roles:** Project Management Officer, Software Development Manager, Digital Marketing Director, COO, Data Scientist
+
 #### [Symbolfy Username Generator](https://www.aimyflow.com/en/ai/symbolfy-com-username-generator)
 
 Symbolfy Username Generator is an AI-powered and quick username tool that helps social media users create aesthetic, cute, and platform-ready handles for Instagram, TikTok, and other profiles based on their name, style, and preferences. For creators, community managers, and personal brand builders, it can speed up identity testing by producing multiple naming options that better fit audience tone and platform conventions.
@@ -10338,17 +15218,47 @@ Syntetica is a no-code generative AI platform that helps teams design, automate,
 
 **Suitable roles:** Project Management Officer, Technical Writer, Lawyer, Software Development Manager, COO
 
+#### [Synthesia](https://www.aimyflow.com/en/ai/synthesia-io)
+
+Synthesia is an AI video platform for businesses that helps teams create, localize, manage, and publish avatar-led videos from text, especially for learning and development, training, sales enablement, marketing, and internal communications. For L&D, enablement, and operations professionals, it can streamline multilingual video production and updates so training and communication content stays consistent and easier to scale.
+
+**Suitable roles:** Corporate Leadership Coach, Digital Marketing Director, Project Management Officer, IT Infrastructure Manager, Technical Writer
+
+#### [Synthesizer V Studio 2 Pro](https://www.aimyflow.com/en/ai/dreamtonics-com-en-synthesizerv)
+
+Synthesizer V Studio 2 Pro is AI vocal production software and a singer plugin that helps users create, edit, and render natural-sounding sung vocals from notes and lyrics, mainly for music producers, songwriters, and vocalists. For modern music workflows, it can speed up demo creation, multilingual vocal mockups, and rehearsal track production while giving producers more control over expression and timing.
+
+**Suitable roles:** Content Creator, Music Lover, Copywriter, Technical Writer
+
+#### [Synthesys](https://www.aimyflow.com/en/ai/synthesys-io)
+
+Synthesys is a generative AI content suite that helps users create AI videos, avatars, voiceovers, dubbing, translations, and images at scale, mainly for content creators, marketers, and brands. For marketing and media teams, it can speed multilingual video production and reduce reliance on studios, voice talent, and manual localization workflows.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Technical Writer
+
 #### [Synthetic](https://www.aimyflow.com/en/ai/synthetic-actor)
 
 Synthetic is an AI-powered UGC creation platform that helps creators and brands build consistent AI personas, generate on-brand content, and export it for channels like Instagram, TikTok, and YouTube. For social media marketers, content teams, and creator operations, it can streamline AI content production by keeping characters, settings, and product placements consistent across campaigns.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Graphic Designer
 
+#### [Synthetic Society](https://www.aimyflow.com/en/ai/syntheticsociety-ai)
+
+Synthetic Society is an AI testing tool that uses simulated users to automate end-to-end QA and UX testing, helping product and engineering teams detect bugs, validate user flows, and find design friction before release. In AI-assisted software development, it can help QA, UX, and engineering functions shorten feedback loops by surfacing realistic user issues earlier in the development cycle.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, Data Scientist, Graphic Designer
+
 #### [SynthMind.app](https://www.aimyflow.com/en/ai/synthmind-app)
 
 SynthMind.app is an AI social media growth tool that helps users create viral-style posts, automate engagement, and generate leads, mainly for social media marketers, creators, and businesses growing on platforms like X and LinkedIn. In AI-driven marketing workflows, it can help marketing and growth teams scale content production, outreach, and relationship nurturing with less manual account management.
 
 **Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, CEO, Content Creator
+
+#### [Syntra](https://www.aimyflow.com/en/ai/syntra-com)
+
+Syntra is an AI chart and charges review platform for specialty medical practices that helps coding, billing, and compliance teams identify coding errors, capture missed charges, and audit charts and claims across specialties such as ophthalmology, orthopedics, optometry, and dermatology. For medical coders and revenue cycle staff, its specialty-tuned, evidence-grounded review can improve billing accuracy and surface documentation-supported charge opportunities before claims are submitted.
+
+**Suitable roles:** Medical Biller, Healthcare Administrator, Occupational Health Specialist, Certified Public Accountant
 
 #### [Tabl](https://www.aimyflow.com/en/ai/tablbrowser-com)
 
@@ -10383,6 +15293,12 @@ TalentSprout is an AI recruiting platform that automates voice and video screeni
 Talk Through Time is an AI chat platform that lets users converse with simulated historical figures to explore ideas, biographies, and historical context, mainly for students, educators, and history enthusiasts. For teachers, tutors, and history learners, it can make research and discussion more interactive while reinforcing that AI-generated conversations should be checked against primary and scholarly sources.
 
 **Suitable roles:** Middle School History Teacher, College Professor, School Counselor, Education Technology Consultant, Test Prep Tutor
+
+#### [Talk to Books](https://www.aimyflow.com/en/ai/books-google-com-talktobooks)
+
+Talk to Books was a new way to explore ideas and discover books. Select one of the samples to view its archived search results.
+
+**Suitable roles:** College Professor, Technical Writer, Teacher, Education Technology Consultant, Data Scientist
 
 #### [TalkBud](https://www.aimyflow.com/en/ai/talkbud-com)
 
@@ -10438,6 +15354,12 @@ Tame My Inbox is an AI email assistant for Gmail that helps professionals reduce
 
 **Suitable roles:** CEO, Field Sales Manager, Talent Acquisition Manager, Project Management Officer, COO
 
+#### [TamLabs](https://www.aimyflow.com/en/ai/tamlabs-ai)
+
+TamLabs is an applied research lab focused on redesigning how knowledge work gets done, aimed at people interested in building the future of knowledge work. In the AI era, this kind of research can help knowledge workers and product teams shape more effective ways to organize, automate, and improve complex work.
+
+**Suitable roles:** Project Management Officer, COO, CEO, Education Technology Consultant, Software Development Manager
+
 #### [Tanka](https://www.aimyflow.com/en/ai/tanka-ai)
 
 Tanka is an operating base for AI-native companies that helps teams preserve human intent within automated workflows and organize execution around roles, memory, and business data. For operations, leadership, and AI-focused organizational teams, this can improve how people direct automation by making intent and context easier for AI systems to interpret.
@@ -10449,6 +15371,12 @@ Tanka is an operating base for AI-native companies that helps teams preserve hum
 Taplio is an AI-powered LinkedIn growth tool that helps users find post ideas, write and schedule content, engage their network, and track performance, mainly for LinkedIn creators, personal brands, agencies, and teams. For marketers, founders, and social media managers, it can streamline LinkedIn content operations by using post data and analytics to guide faster, more consistent publishing.
 
 **Suitable roles:** Social Media Content Creator, Digital Marketing Director, CEO, Field Sales Manager, Content Creator
+
+#### [Targum Video](https://www.aimyflow.com/en/ai/targum-video)
+
+Targum Video is an AI-based video translation service that helps users translate videos between languages in seconds from uploads, recordings, or links, mainly for people who need to understand or share multilingual video content quickly. For translators, researchers, and content teams, it can speed access to foreign-language videos and reduce manual effort when reviewing or repurposing content across languages.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, TV News Reporter, Copywriter, Technical Writer
 
 #### [Tarot Seer](https://www.aimyflow.com/en/ai/tarotseer-net)
 
@@ -10510,17 +15438,35 @@ TaxBotGPT is an AI tax assistant for India that helps users get answers, guidanc
 
 **Suitable roles:** Certified Public Accountant, Corporate Tax Manager, Lawyer, Financial Analyst
 
+#### [TaxGPT](https://www.aimyflow.com/en/ai/taxgpt-com)
+
+TaxGPT is an AI tax assistant that helps accountants, tax professionals, businesses, and individuals handle tax research, document analysis, tax preparation, return review, and client management, with a primary focus on tax and accounting firms. In AI-enabled tax work, it can help CPAs and tax staff complete research and preparation tasks faster while providing source-backed reasoning that supports accuracy and review.
+
+**Suitable roles:** Certified Public Accountant, Corporate Tax Manager, Financial Analyst, CFO
+
 #### [Tayib](https://www.aimyflow.com/en/ai/tayib-app)
 
 Tayib is an iPhone and iPad halal food scanner app that uses AI OCR and barcode scanning to check ingredient labels for haram and mushbooh items such as pork, gelatin, alcohol, and E-numbers, mainly for Muslim shoppers. For consumers and halal-conscious food researchers, it can speed label review and support more consistent decisions with Madhab-specific ingredient alerts.
 
 **Suitable roles:** Food Enthusiast
 
+#### [TCGrader](https://www.aimyflow.com/en/ai/tcgrader-app)
+
+TCGrader is an AI-powered trading card pre-grading tool that uses GPT-4o Vision to analyze front and back card images, estimate condition and grade, and generate reports for collectors and card sellers. For collectors, resellers, and grading-focused hobby businesses, it can speed up triage before official submission and help organize card evaluation workflows with consistent digital records.
+
+**Suitable roles:** Ecommerce Seller, Financial Analyst, Content Creator
+
 #### [Teacherbot](https://www.aimyflow.com/en/ai/explore-teacherbot-io)
 
 Teacherbot is an AI lesson planning tool that helps educators create and customize teaching resources, activities, and classroom materials for different ages and subjects. It reduces prep time for teachers, letting them focus more on instruction, differentiation, and student engagement.
 
 **Suitable roles:** Teacher
+
+#### [Teacherbot](https://www.aimyflow.com/en/ai/teacherbot-io)
+
+Teacherbot is an AI quiz and classroom game platform that helps teachers quickly create age-appropriate quizzes, run live games, assign homework, and review instant results. For teachers and school staff, it can reduce lesson-prep and marking time while using AI-generated activities and analytics to make classroom engagement and knowledge checks more efficient.
+
+**Suitable roles:** Teacher, Education Technology Consultant, Elementary School Math Teacher, Middle School History Teacher, High School Physics Teacher
 
 #### [TeacherDashboard.ai](https://www.aimyflow.com/en/ai/teacherdashboard-ai)
 
@@ -10552,11 +15498,29 @@ Tecmate is an AI software recommendation platform that analyzes workflows, goals
 
 **Suitable roles:** COO, Project Management Officer, Education Technology Consultant, CEO, CFO
 
+#### [Tecto](https://www.aimyflow.com/en/ai/tecto-ai)
+
+Tecto is an AI governance, compliance, and monitoring platform that helps regulated organizations discover AI tools, enforce policies, protect sensitive data, and oversee AI agents, with a clear focus on legal and enterprise teams. It can help compliance, legal, and security professionals manage shadow AI, reduce data exposure, and maintain audit-ready oversight as AI use spreads across daily work.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, IT Infrastructure Manager, COO, Lawyer
+
 #### [TeeDIY](https://www.aimyflow.com/en/ai/teediy-com)
 
 TeeDIY is a custom apparel platform that helps users design and order personalized T-shirts quickly, mainly for shoppers, gift buyers, and small merchandise creators. In the AI era, rapid design workflows help non-designers turn ideas into sellable or wearable products with less creative friction.
 
 **Suitable roles:** Fashion Designer, Graphic Designer, Content Creator, Ecommerce Seller, Digital Marketing Director, Marketing and Sales Managers +4 more
+
+#### [Tejas AI](https://www.aimyflow.com/en/ai/trytejas-ai)
+
+Tejas AI is an AI recruiting platform that helps recruiters and hiring teams search over 1B profiles, evaluate candidates by fit, and send personalized outreach at scale. For talent acquisition and sourcing professionals, it can reduce manual candidate review and messaging work so they can focus more on shortlist quality and faster hiring decisions.
+
+**Suitable roles:** Talent Acquisition Manager, Employee Relations Manager, CEO, COO
+
+#### [TeleportHQ](https://www.aimyflow.com/en/ai/teleporthq-io)
+
+TeleportHQ is an AI-powered low-code website builder that helps teams design, build, publish, and export custom static websites, UI components, and prototypes, mainly for designers, developers, and marketers. In AI-assisted web production, it can reduce design-to-development handoff and help front-end and marketing teams iterate faster while keeping reusable components and content updates aligned.
+
+**Suitable roles:** Software Engineer, Digital Marketing Director, Graphic Designer, Software Development Manager, Content Creator
 
 #### [TemPolor](https://www.aimyflow.com/en/ai/tempolor-com)
 
@@ -10569,6 +15533,12 @@ TemPolor is an AI music generator that helps users create royalty-free songs, in
 Temvideo.ai is an AI video ad maker that turns images, raw footage, and scripts into short UGC-style videos for TikTok, Reels, and Shorts, mainly for e-commerce brands, shop owners, and content creators. For marketers, store owners, and creators, it can speed video production and localization so they can publish more product and social content without filming or manual editing.
 
 **Suitable roles:** Digital Marketing Director, Ecommerce Seller, Social Media Content Creator, E-commerce Sales Head, Content Creator
+
+#### [Tencent ARC Lab](https://www.aimyflow.com/en/ai/arc-tencent-com)
+
+Tencent ARC Lab is Tencent’s applied research center focused on multimodal understanding and generation, helping researchers and technical teams explore front-line AI for intelligent media and related applications. For AI researchers, computer vision engineers, and media technology teams, its published work and demos can speed evaluation, prototyping, and adoption of multimodal models in real product workflows.
+
+**Suitable roles:** Data Scientist, Software Engineer, Software Development Manager, Technical Writer, Content Creator
 
 #### [Tendem](https://www.aimyflow.com/en/ai/tendem-ai)
 
@@ -10600,6 +15570,12 @@ Tented is an AI-powered landing page and form builder that helps go-to-market te
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Copywriter, Content Creator
 
+#### [Tergle](https://www.aimyflow.com/en/ai/tergle-com)
+
+Tergle is an AI auditing tool that builds AI agents to automate repetitive audit work, mainly for auditors and audit teams. In AI-enabled audit workflows, it can reduce manual review time and let auditors focus more on judgment, exceptions, and higher-value analysis.
+
+**Suitable roles:** Certified Public Accountant, Financial Analyst, Risk Analyst, CFO, Project Management Officer
+
 #### [TermOver AI](https://www.aimyflow.com/en/ai/chromewebstore-google-com-detail-termover-ai-gjnoffbiofloekaileonocagbffikknh)
 
 TermOver AI is a Chrome extension that uses AI to analyze Terms of Service and privacy policies, summarize them in plain English, and flag issues like data selling, tracking, or hidden fees for everyday web users who do not want to read legal fine print. In AI-assisted compliance and privacy work, tools like this can help legal operations, privacy, and risk teams review routine web terms faster and focus attention on higher-risk clauses.
@@ -10617,6 +15593,12 @@ Termzy AI is a Chrome browser extension that uses AI to analyze privacy policies
 TestDriver is an AI-powered end-to-end testing tool that generates and runs durable, user-like tests across web, desktop, browser extension, and VS Code interfaces, mainly for QA engineers and software teams. In AI-assisted development workflows, it can help testers and developers reduce brittle selector maintenance, validate pull requests more reliably, and debug failures with replays, logs, and trend analysis.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Technical Writer
+
+#### [TesterArmy](https://www.aimyflow.com/en/ai/tester-army)
+
+TesterArmy is an AI QA agent that tests websites like a human, helping modern web teams automate browser checks, catch regressions, and review pull requests before changes ship. For QA engineers and developers, this can speed release reviews by surfacing screenshots, recordings, and bug context that make website issues faster to reproduce and fix.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Data Engineer
 
 #### [Testsigma](https://www.aimyflow.com/en/ai/testsigma-com-test-management-software)
 
@@ -10646,6 +15628,12 @@ TextToHuman is a free web-based AI humanizer that rewrites AI-generated text int
 
 Thailand Boat Tickets is a boat and ferry booking service that helps travelers book routes in Thailand through chat on WhatsApp, Messenger, Instagram, and Telegram, with support for popular routes and multi-leg journeys. Its AI booking approach can help travel planners, concierge teams, and support staff handle itinerary requests faster across messaging channels while keeping booking communication simple.
 
+#### [The 2026 iFLYTEK AI Developer Competition](https://www.aimyflow.com/en/ai/challenge-xfyun-cn)
+
+The 2026 iFLYTEK AI Developer Competition is an AI contest platform that helps developers, student teams, and research groups join data algorithm and application challenges, access training and resources, and build practical AI projects. For AI engineers, researchers, and technical educators, it offers structured real-world tasks and datasets that can sharpen model development, agent design, and industry-focused problem solving.
+
+**Suitable roles:** Software Engineer, Data Scientist, College Professor, Education Technology Consultant, Teacher
+
 #### [The AI CMO](https://www.aimyflow.com/en/ai/theaicmo-com)
 
 The AI CMO is an autonomous marketing operating system that helps marketing teams and CMOs turn strategy into omnichannel campaign creation, launch, and learning while maintaining brand rules and memory. For marketing leaders and operators, this can reduce manual execution work and support faster, more consistent decisions as the system learns from each campaign over time.
@@ -10657,6 +15645,18 @@ The AI CMO is an autonomous marketing operating system that helps marketing team
 The AI Voice Generator is a free text-to-speech and voice cloning tool that helps creators produce realistic voiceovers, celebrity-style voices, transcripts, subtitles, and sound effects, mainly for YouTube, TikTok, podcasts, and other content workflows. For content creators, editors, and social media teams, AI voice generation can speed scripting and audio production while making it easier to test different narration styles quickly.
 
 **Suitable roles:** Social Media Content Creator, Podcast Producer, Copywriter, Content Creator, Digital Marketing Director
+
+#### [The Checker AI](https://www.aimyflow.com/en/ai/aicheatcheck-com)
+
+The Checker AI is an educational AI-content detection demo that helps users distinguish AI-generated text from authentic student work, mainly for teachers, professors, and other academic staff. As AI writing becomes more common in education, it can support instructors and school staff in reviewing submissions more efficiently and focusing follow-up efforts on likely cases of AI-assisted writing.
+
+**Suitable roles:** College Professor, School Counselor, Education Technology Consultant, Teacher
+
+#### [The Context Company](https://www.aimyflow.com/en/ai/thecontext-company)
+
+The Context Company is an observability and user behavior analysis tool for AI agents that helps teams monitor production conversations, detect frustration and silent failures, cluster topics, and review feedback, mainly for developers and product teams shipping AI agents. In AI workflows, it can help engineering, support, and product functions prioritize fixes faster by surfacing hidden failure patterns and real user pain points directly from agent runs.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, IT Infrastructure Manager, Data Scientist
 
 #### [The Drive AI](https://www.aimyflow.com/en/ai/thedrive-ai)
 
@@ -10718,6 +15718,12 @@ THEO Strategist is a competitive brand positioning intelligence platform that he
 
 **Suitable roles:** Digital Marketing Director, Copywriter, CEO, COO, Content Creator
 
+#### [Thesis](https://www.aimyflow.com/en/ai/thesislabs-ai)
+
+Thesis is an AI-native platform for data science and machine learning that helps researchers explore datasets, build and train models, and monitor experiments with automated issue detection and fixes. For data scientists and machine learning researchers, an agentic environment like this can reduce manual pipeline work and speed up experimentation while improving observability across model development.
+
+**Suitable roles:** Data Scientist, Software Engineer, Data Engineer, Software Development Manager, Education Technology Consultant
+
 #### [ThesisAI](https://www.aimyflow.com/en/ai/thesisai-io)
 
 ThesisAI is an academic writing assistant for students and researchers that drafts scientific documents from a single prompt, adds inline citations, supports 8 to 80 pages, and works with LaTeX, Overleaf, Zotero, Mendeley, and imported research papers. For academic writing workflows, it can speed up literature reviews and long-form drafting by organizing cited source material into exportable paper drafts for further editing.
@@ -10729,6 +15735,12 @@ ThesisAI is an academic writing assistant for students and researchers that draf
 TheySaid is an AI-powered feedback platform for running user testing, surveys, interviews, forms, and polls with real-time follow-up questions and analysis, mainly for product, UX research, marketing, design, sales, and founder teams. In AI-era research and customer insight work, it can help these teams uncover the reasons behind user behavior faster and turn qualitative feedback into actionable decisions with less manual analysis.
 
 **Suitable roles:** Digital Marketing Director, Software Development Manager, Field Sales Manager, CEO, Project Management Officer
+
+#### [Thing Translator](https://www.aimyflow.com/en/ai/experiments-withgoogle-com-thing-translator)
+
+Thing Translator is an AI experiment by Dan Motzenbecker that lets users photograph an object and hear its name in another language, mainly for people exploring simple language-learning and machine-learning use cases. For educators, developers, and creative technologists, it shows how image recognition and translation can streamline multilingual communication without requiring deep machine-learning expertise.
+
+**Suitable roles:** Education Technology Consultant, Software Engineer, Online Coding Tutor, Teacher, Content Creator
 
 #### [Thinkfill AI](https://www.aimyflow.com/en/ai/thinkfill-ai)
 
@@ -10748,17 +15760,59 @@ ThinkRoot is an AI app-building platform that turns plain-language descriptions 
 
 **Suitable roles:** Software Development Manager, Project Management Officer, COO, CEO, Software Engineer
 
+#### [This](https://www.aimyflow.com/en/ai/img-logosc-cn)
+
+This is an online AI image editor that helps users resize images, change colors, remove backgrounds and watermarks, convert formats, and handle AI, EPS, PSD, and SVG files, mainly for designers and people editing images without installing software. In AI-era design workflows, it can speed up routine production tasks like asset cleanup, format conversion, and quick graphic adjustments for design and content teams.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator
+
+#### [This page](https://www.aimyflow.com/en/ai/aieasyshot-com-ai-headshots)
+
+This page appears to be a parked directory or redirect page on aieasyshot.com that lists topic categories and helps general web visitors browse links across areas like Automotive, Finance, Health, Shopping, and Travel. For researchers, marketers, or content teams, AI tools work best when source pages are clearly classified, but this page provides only limited directory-style information.
+
+#### [This page](https://www.aimyflow.com/en/ai/careerdekho-ai)
+
+This page is currently a Cloudflare error screen showing an invalid SSL certificate on hawthorns.uk.com, and it mainly helps website owners and administrators identify that the origin server certificate needs attention. For IT, DevOps, and web operations teams, resolving SSL issues quickly is essential to restore site access, maintain trust, and avoid interruptions to search and AI-driven discovery.
+
+#### [This page](https://www.aimyflow.com/en/ai/exploreai-vercel-app)
+
+This page is a Dutch guide that compares and reviews online casinos without CRUKS, helping adult players in the Netherlands find platforms with foreign licenses, payment options, bonuses, and account setup details. For gambling-content publishers and affiliate marketers, structured comparison pages like this can improve AI search visibility by surfacing clear attributes such as licensing, payout speed, and registration requirements.
+
+**Suitable roles:** Digital Marketing Director, Content Creator, E-commerce Sales Head, Financial Analyst
+
+#### [This page](https://www.aimyflow.com/en/ai/neuhub-jd-com)
+
+This page appears to be a JD.com error page indicating the requested NeuHub URL does not exist, so the available information only shows JD’s ecommerce site navigation and support links. For SEO, content, or procurement teams evaluating AI tools, the main takeaway is to verify a product’s live page and documentation before assessing its capabilities or fit.
+
 #### [This page](https://www.aimyflow.com/en/ai/virtualfantasy-ai)
 
 This page is a news article outlining eight AI trends for 2025, helping technology professionals and business decision-makers understand developments such as AI safety, autonomous agents, federated learning, edge AI, and new hardware architectures. For product leaders, engineers, and compliance teams, this kind of trend overview can guide planning around safer deployment, privacy-preserving AI, and more efficient industry-specific systems.
 
 **Suitable roles:** Software Development Manager, CEO, Cybersecurity Manager, Project Management Officer, Data Scientist
 
+#### [This website](https://www.aimyflow.com/en/ai/askviable-com)
+
+This website is an informational guide and comparison directory for casino utan svensk licens, helping Swedish players review offshore online casinos, understand taxes and payment methods, and assess licensing and safety. In an AI-driven search landscape, it can help gambling content publishers and affiliate editors structure clearer, compliance-aware comparisons around licensing, withdrawals, and responsible gambling information.
+
+**Suitable roles:** Copywriter, Content Creator, Financial Analyst, Lawyer
+
 #### [Thita.ai](https://www.aimyflow.com/en/ai/thita-ai)
 
 Thita.ai is an AI interview preparation platform that helps engineers practice DSA patterns, mock interviews, system design, resume analysis, and structured learning tracks for technical roles. For software engineers and related technical candidates, AI-based coaching and adaptive feedback can make interview prep more consistent, targeted, and easier to fit into busy schedules.
 
 **Suitable roles:** Software Engineer, Online Coding Tutor, Software Development Manager, Data Scientist, Technical Writer
+
+#### [thomas.io](https://www.aimyflow.com/en/ai/thomas-io)
+
+thomas.io is the personal website of a Melbourne-based web developer, featuring a blog and projects that showcase what he builds and writes about for readers interested in his development work and ideas. For web developers and technical creators, sites like this can use AI-supported drafting and research to publish clearer project notes, tutorials, and technical commentary more efficiently.
+
+**Suitable roles:** Software Engineer, Technical Writer, Content Creator
+
+#### [ThreadSignals](https://www.aimyflow.com/en/ai/threadsignals-com)
+
+ThreadSignals is a lead generation tool that scans online conversations for saved keywords to help founders, marketers, and outreach teams find warm prospects already discussing relevant needs. In an AI-driven sales workflow, it can reduce manual prospect research and help business development and marketing teams prioritize outreach based on real buying intent.
+
+**Suitable roles:** Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, CEO, Content Creator
 
 #### [Thryve](https://www.aimyflow.com/en/ai/thryve-chat)
 
@@ -10783,6 +15837,18 @@ ThumbnailMakerr is an AI YouTube thumbnail maker that helps creators generate, r
 Thumbspot AI is an AI thumbnail maker that helps YouTube creators generate, edit, recreate, and personalize video thumbnails with templates, face swaps, and AI personas. For content creators and channel managers, it can speed thumbnail testing and iteration so creative decisions align more closely with audience click behavior.
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Graphic Designer, Digital Marketing Director, Copywriter
+
+#### [Thunder Compute](https://www.aimyflow.com/en/ai/thundercompute-com)
+
+Thunder Compute is a GPU cloud platform that helps developers and AI engineers spin up NVIDIA H100 instances through a VS Code extension, CLI, or browser access for model development and compute-heavy workflows. For AI development teams, this can streamline experimentation and coding by making high-end GPU access more available within familiar tools.
+
+**Suitable roles:** Software Engineer, Data Scientist, Data Engineer, IT Infrastructure Manager, Software Development Manager
+
+#### [Thundercontent](https://www.aimyflow.com/en/ai/thundercontent-com)
+
+Thundercontent is an AI content generation platform that helps content creators, marketers, and growing teams produce blog posts, marketing copy, chat-based content, voiceovers, videos, and books in one place across 140+ languages. For marketing and content teams, it can speed multilingual content production and collaboration while reducing time spent overcoming writer’s block and repurposing material into different formats.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator, Technical Writer
 
 #### [ThunDroid AI](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-thundroid-ai-id6746182736)
 
@@ -10820,6 +15886,12 @@ TikTok for Business is an advertising platform that helps brands, agencies, and 
 
 **Suitable roles:** Digital Marketing Director, Marketing and Sales Managers, Corporate Leadership Coach, Online Coding Tutor, E-commerce Sales Head, Field Sales Manager +8 more
 
+#### [TimeBolt](https://www.aimyflow.com/en/ai/timebolt-io)
+
+TimeBolt is a video editing tool that helps creators, podcasters, educators, and marketers quickly remove silence, filler words, and bad takes from talking videos and screen recordings, then export edits and captions for common editing workflows. In AI-assisted content production, its waveform-first, on-device approach can help video editors and content teams cut cleanup time while keeping jump cuts and captions more precise.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Digital Marketing Director, Teacher
+
 #### [Timio News](https://www.aimyflow.com/en/ai/timio-news)
 
 Timio News is an AI-powered news research and browser tool that helps people quickly understand major events with summaries, timelines, cited sources, bias detection, and contrasting viewpoints, mainly for readers who want clearer, more balanced news. For journalists, researchers, and knowledge workers, it can speed up source review and comparison by surfacing primary sources and conflicting information in one place.
@@ -10853,6 +15925,12 @@ Titles.video is an AI YouTube optimization tool that analyzes published, unliste
 TLDRly is a Chrome extension that uses AI to summarize and translate YouTube videos, webpages, and selected text, helping students, researchers, journalists, and other professionals review content faster in their browser. In AI-assisted research and information work, it can reduce time spent reading or watching source material while helping users quickly extract key points across languages.
 
 **Suitable roles:** TV News Reporter, Technical Writer, College Professor, Content Creator, Data Scientist
+
+#### [To-Teach](https://www.aimyflow.com/en/ai/to-teach-ai)
+
+To-Teach is an AI classroom planning and content creation tool that helps teachers create lesson plans, exercises, worksheets, and subject-specific materials tailored to their students. For teachers and other school educators, it can reduce preparation time while making it easier to personalize lessons and generate LMS-ready activities from sources like texts, documents, and YouTube videos.
+
+**Suitable roles:** Teacher, Education Technology Consultant, College Professor, Community College Instructor, Test Prep Tutor
 
 #### [Toki](https://www.aimyflow.com/en/ai/yestoki-com)
 
@@ -10902,11 +15980,35 @@ Toolsmart’s Free Paraphrasing Tool is an AI writing tool that rewrites text wh
 
 **Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Content Creator, Teacher
 
+#### [Toothy AI](https://www.aimyflow.com/en/ai/toothy-ai)
+
+Toothy AI is an AI-powered dental insurance verification and billing platform that helps dental practices streamline work from eligibility checks to claims follow-up and payment posting, with support from dental revenue cycle professionals. For dental office managers, billers, and revenue cycle teams, it can reduce manual insurance tasks while improving visibility into denials, collections, and aging through dashboards and daily reporting.
+
+**Suitable roles:** Medical Biller, Healthcare Administrator, COO
+
+#### [Topaz Video](https://www.aimyflow.com/en/ai/topazlabs-com-topaz-video-ai)
+
+Topaz Video is AI-powered video enhancement software for Mac and Windows that helps users upscale, denoise, stabilize, restore, and smooth footage, mainly for filmmakers, video editors, archivists, and other creative professionals. In AI-assisted post-production, it can help editors and restoration teams improve low-quality or archival footage faster while maintaining more consistent detail across frames.
+
+**Suitable roles:** Independent Filmmaker, Content Creator, Social Media Content Creator, Graphic Designer, Podcast Producer
+
+#### [Topic Mojo](https://www.aimyflow.com/en/ai/topicmojo-com)
+
+Topic Mojo is a topic and question research tool that helps users discover web and social discussions, search questions, and keyword insights to plan content, mainly for content marketers, SEO professionals, and agencies. In AI-assisted content workflows, it can help these teams ground ideas and outlines in real audience questions and emerging search patterns instead of generic prompts.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Social Media Content Creator, Technical Writer
+
 #### [TopMediai AI Music Generator](https://www.aimyflow.com/en/ai/topmediai-com-ai-music-generator)
 
 TopMediai AI Music Generator is an online tool that creates royalty-free songs from text prompts, lyrics, or images, mainly for creators and brands who need original music in different genres, styles, or moods. In AI-assisted content workflows, it can help video makers, marketers, and social media teams produce custom soundtrack drafts faster for videos, ads, and other digital content.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Podcast Producer, Copywriter
+
+#### [Topological](https://www.aimyflow.com/en/ai/topological-com)
+
+Topological is a physics-based AI platform for CAD optimization that helps hardware and mechanical engineering teams generate and refine designs for complex physical problems while accounting for geometry, manufacturability, and physical constraints. For mechanical engineers and computational design teams, this can shorten design iteration cycles and support faster, more informed optimization in AI-assisted engineering workflows.
+
+**Suitable roles:** Mechanical Engineer, Software Engineer, Electrical Engineer, Civil Engineer, Software Development Manager
 
 #### [Topview AI](https://www.aimyflow.com/en/ai/topview-ai)
 
@@ -10968,6 +16070,12 @@ Transcript LOL is an AI transcription tool that converts audio and video into te
 
 **Suitable roles:** Content Creator, Technical Writer, Field Sales Manager, Talent Acquisition Manager, TV News Reporter
 
+#### [Transcriptik](https://www.aimyflow.com/en/ai/transcriptik-com)
+
+Transcriptik is an AI TikTok transcript generator that converts public TikTok videos into clean text transcripts, with bulk processing, rewrite features, and support for 98+ languages, mainly for creators, marketers, and researchers working with video content. In AI-driven content workflows, it can help social media teams and analysts turn spoken TikTok content into searchable, reusable text faster for review, repurposing, and documentation.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator
+
 #### [TransGull](https://www.aimyflow.com/en/ai/transgull-com)
 
 TransGull is an AI translation tool for Windows and Mac that helps users translate conversations, live speech, images, and videos with features like simultaneous interpretation and bilingual subtitle generation, mainly for travelers, students, and professionals working across languages. In AI-supported multilingual work, it can help interpreters, meeting participants, and educators reduce language friction in live discussions, classes, and client communication.
@@ -10979,6 +16087,12 @@ TransGull is an AI translation tool for Windows and Mac that helps users transla
 Transkriptor is an AI transcription tool that helps users convert audio and video into text in multiple languages, mainly for researchers, teams, and content professionals. In the AI era, accurate transcription helps knowledge workers turn conversations into searchable assets for faster documentation and reuse.
 
 **Suitable roles:** Software Engineer, Data Engineer, Cybersecurity Analyst, Data Scientist, Information Technology Managers, Computer Occupations +27 more
+
+#### [Translate.video](https://www.aimyflow.com/en/ai/translate-video)
+
+Translate.video is an AI video localization platform that helps creators, influencers, and enterprises dub videos, generate subtitles and captions, and create voiceovers in more than 75 languages. For video teams, marketers, and course creators, it can speed multilingual publishing and make global content production more scalable with features like voice cloning, lip sync, and automated transcripts.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Copywriter, Social Media Content Creator, Education Technology Consultant
 
 #### [TranslateImage](https://www.aimyflow.com/en/ai/translateimage-io)
 
@@ -10998,11 +16112,29 @@ Transor is an AI translator for websites, PDFs, images, videos, and selected tex
 
 **Suitable roles:** Technical Writer, Digital Marketing Director, Lawyer, College Professor
 
+#### [Transvribe](https://www.aimyflow.com/en/ai/transvribe-com)
+
+Transvribe is an AI-based YouTube video question-and-answer tool designed to help people query video content through transcripts and embeddings, mainly for learners and researchers trying to get information from long videos faster. For knowledge workers, educators, and analysts, this kind of transcript-driven search can speed up finding specific insights in video-heavy workflows, though the current site states the service is no longer functional due to YouTube API changes.
+
+**Suitable roles:** Education Technology Consultant, College Professor, Data Scientist, Technical Writer, Content Creator
+
+#### [Trata](https://www.aimyflow.com/en/ai/trytrata-com)
+
+Trata is an anonymous hedge fund research platform that hosts investment conversations and helps public markets professionals access and debate research, mainly for hedge fund analysts and investors. In an AI-driven research workflow, it can give investment teams a focused source of market viewpoints to sharpen idea generation, diligence, and decision-making.
+
+**Suitable roles:** Investment Portfolio Manager, Financial Analyst, Data Scientist
+
 #### [Traycer](https://www.aimyflow.com/en/ai/traycer-ai)
 
 Traycer is an AI product planning and spec-first development tool that helps developers and engineering teams turn product intent into shared specs, break work into tasks, guide coding agents with full context, and verify code changes against the plan. For software engineers and product-focused technical teams, this can reduce AI agent drift and improve code review quality by keeping implementation aligned with agreed requirements.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Technical Writer, Data Engineer
+
+#### [TreeMind](https://www.aimyflow.com/en/ai/shutu-cn)
+
+TreeMind is an online AI mind mapping tool that helps users generate, edit, and share mind maps from prompts, images, and documents, mainly for teams, students, and knowledge workers doing brainstorming, planning, and research. For project managers, educators, and analysts, its AI summarization and collaborative mapping features can speed up turning scattered information into structured plans and reviews.
+
+**Suitable roles:** Project Management Officer, Education Technology Consultant, Financial Analyst, College Professor, Software Development Manager
 
 #### [TrendHopper](https://www.aimyflow.com/en/ai/trendhopper-ai)
 
@@ -11028,6 +16160,12 @@ Trickle is an AI app and website builder that uses natural language to help user
 
 **Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Digital Marketing Director, COO
 
+#### [Trim](https://www.aimyflow.com/en/ai/trimresearch-com)
+
+Trim is an AI foundation model for physics that simulates real-world physical systems over time, helping users generate future system behavior more efficiently than traditional simulations, mainly for physicists and researchers working on complex modeling problems. In AI-era workflows, faster approximate simulation can help scientists, engineers, and autonomous systems teams evaluate scenarios sooner for tasks such as path planning and gravitational wave analysis.
+
+**Suitable roles:** Theoretical Physicist, Applied Mathematician, Data Scientist, Software Engineer, Electrical Engineer
+
 #### [TripOffice.com](https://www.aimyflow.com/en/ai/tripoffice-com)
 
 TripOffice.com is a workation hotel search platform that helps digital nomads and remote workers find hotels and apartments with workspaces across countries and cities worldwide. In an AI-driven remote work environment, it can help location-independent professionals choose accommodation that better supports productive, computer-based work while traveling.
@@ -11044,11 +16182,23 @@ TriviaPixel is an AI trivia generator that helps people create, edit, and play c
 
 **Suitable roles:** Teacher, School Counselor, Corporate Leadership Coach, Nonprofit Program Manager, Content Creator
 
+#### [Truffle AI](https://www.aimyflow.com/en/ai/trytruffle-ai)
+
+Truffle AI is a platform and SDK for building, deploying, and scaling serverless AI agents that automate workflows, integrate with existing software, and query business data, mainly for developers and businesses implementing AI automation. For engineering and operations teams, it can reduce infrastructure overhead and speed delivery of production AI agents while keeping control over logic, state, and integrations.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, COO
+
 #### [Trump AI Voice Generator](https://www.aimyflow.com/en/ai/trumpaivoice-net)
 
 Trump AI Voice Generator is an AI voice and video creation tool that turns text into Donald Trump-style speech and synchronized videos, mainly for content creators making parody or social media content. For video editors and social media teams, it can speed up production of character-based clips by generating voiceovers and matching talking-head visuals from a script.
 
 **Suitable roles:** Social Media Content Creator, Content Creator, Podcast Producer, Copywriter, Graphic Designer
+
+#### [Truth Systems](https://www.aimyflow.com/en/ai/truthsystems-ai)
+
+Truth Systems is a programmatic AI governance and unified compliance agent that helps organizations, especially legal teams and innovation leaders, monitor and block non-compliant AI use in real time across vendors through a browser extension and platform. For compliance, legal, and risk professionals, it can make AI oversight more actionable by embedding live guardrails, access controls, and audit trails directly into everyday work.
+
+**Suitable roles:** Cybersecurity Manager, Risk Analyst, IT Infrastructure Manager, COO, Lawyer
 
 #### [TruVerifAI](https://www.aimyflow.com/en/ai/truverif-ai)
 
@@ -11120,11 +16270,23 @@ TurboScribe is an AI transcription service that helps users turn audio and video
 
 **Suitable roles:** Teacher
 
+#### [Tutor AI](https://www.aimyflow.com/en/ai/tutorai-me)
+
+Tutor AI is an AI tutoring platform that helps users create personalized courses, get explanations and step-by-step homework help, and track progress, mainly for students, academics, professionals, and lifelong learners. In AI-supported education and training, it can help learners and educators move faster from questions to structured practice, making study, upskilling, and onboarding more efficient.
+
+**Suitable roles:** Education Technology Consultant, Online Coding Tutor, Test Prep Tutor, Corporate Leadership Coach, Teacher
+
 #### [TutorGPT](https://www.aimyflow.com/en/ai/tutorgpt-io)
 
 TutorGPT is a free AI homework helper and personal tutor that lets users type questions or upload images and PDFs to get step-by-step explanations across subjects, mainly for students needing online study support without signing up. For students, tutors, and teachers, it can speed up homework review and concept clarification by turning assignments into immediate, structured explanations.
 
 **Suitable roles:** Teacher, Online Coding Tutor, Test Prep Tutor, College Professor, Education Technology Consultant
+
+#### [Tweeks](https://www.aimyflow.com/en/ai/tweeks-io)
+
+Tweeks is a browser extension that uses plain-English prompts and community-made modifications to customize how websites look and behave, helping everyday web users and power users remove distractions, add features, and change layouts without coding. For researchers, marketers, shoppers, and social media professionals, AI-generated web modifications can streamline repetitive browsing tasks and make site interfaces more useful for specific workflows.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Financial Analyst, Social Media Content Creator, Software Engineer
 
 #### [TwinTone](https://www.aimyflow.com/en/ai/twintone-ai)
 
@@ -11137,6 +16299,24 @@ TwinTone is an AI platform that helps brands, agencies, and e-commerce teams cre
 Twistly is an AI presentation maker for Microsoft PowerPoint that helps users create editable slide decks from prompts, PDFs, Word documents, text, and videos, mainly for students, teachers, marketers, sales teams, and HR teams. For presentation-heavy roles, using AI inside PowerPoint can speed content drafting, formatting, translation, and speaker note creation while keeping decks easier to edit and share as native .pptx files.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Talent Acquisition Manager, Teacher, Content Creator
+
+#### [Typewise](https://www.aimyflow.com/en/ai/typewise-app)
+
+Typewise is an enterprise AI customer service platform that helps business teams launch and manage AI agents for support, sales, and commerce workflows across channels, with human approvals, governance, and deep system integrations. For customer service leaders and operations teams, it can reduce handling time and improve resolution quality by automating routine work while keeping complex or higher-risk cases under human control.
+
+**Suitable roles:** COO, Project Management Officer, Software Development Manager
+
+#### [Typli.ai](https://www.aimyflow.com/en/ai/typli-ai)
+
+Typli.ai is an AI content creation platform with text generation, chat, image generation, email writing, and 185+ specialized writing tools, built mainly for content creators, marketers, and writers who need help producing and refining content faster. In AI-assisted workflows, it can help copywriters, SEO teams, and marketing professionals move from ideation to draft and supporting visuals in one place, reducing time spent switching between separate tools.
+
+**Suitable roles:** Copywriter, Digital Marketing Director, Social Media Content Creator, Content Creator, Technical Writer
+
+#### [Uberduck](https://www.aimyflow.com/en/ai/uberduck-ai)
+
+Uberduck is an AI vocals and text-to-speech platform that helps agencies, musicians, marketers, and creators generate speech, singing, rapping, voice clones, and AI music in many languages. For audio producers, creative teams, and developers, it can speed voice and music workflows by turning text into usable vocal content and enabling programmatic voice generation through its API.
+
+**Suitable roles:** Content Creator, Copywriter, Podcast Producer, Software Engineer, Digital Marketing Director
 
 #### [uBest](https://www.aimyflow.com/en/ai/ubest-ae)
 
@@ -11156,11 +16336,23 @@ UGC Maker is an AI video creation platform that helps e-commerce brands, agencie
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator, Ecommerce Seller
 
+#### [Uizard](https://www.aimyflow.com/en/ai/uizard-io)
+
+Uizard is an AI-powered UI design and prototyping tool that helps users create wireframes, mockups, screens, and editable prototypes from text prompts, screenshots, and hand-drawn sketches, mainly for product managers, designers, and product teams. In AI-driven product work, it can help PMs and UX professionals move from idea to testable concepts faster, improving collaboration and speeding early design iteration.
+
+**Suitable roles:** Graphic Designer, Project Management Officer, Software Development Manager, CEO, Copywriter
+
 #### [Ultimate Web Scraper, formerly PandaExtract,](https://www.aimyflow.com/en/ai/pandaextract-com)
 
 Ultimate Web Scraper, formerly PandaExtract, is a no-code browser extension that helps users extract website data like lists, tables, emails, images, and page text into spreadsheets, mainly for researchers, sales teams, marketers, and analysts. In AI-assisted workflows, it gives these professionals cleaner structured web data they can use faster for lead generation, market research, and content or pricing analysis.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Financial Analyst, Ecommerce Seller, Data Scientist
+
+#### [Ultra](https://www.aimyflow.com/en/ai/ultra-tech)
+
+Ultra builds intelligent warehouse robots that automate end-to-end physical tasks, starting with ecommerce order packaging, for warehouse operators and fulfillment teams. By reducing repetitive and variable manual work, it can help operations and logistics professionals scale throughput more flexibly while improving day-to-day safety and efficiency.
+
+**Suitable roles:** Logistics Operations Planner, E-commerce Sales Head, Factory Operations Supervisor, COO, Ecommerce Seller
 
 #### [Uluch](https://www.aimyflow.com/en/ai/uluch-com)
 
@@ -11198,6 +16390,12 @@ Ungrind is an AI sales CRM for solopreneurs, freelancers, founders, and consulta
 
 **Suitable roles:** Field Sales Manager, CEO, Copywriter
 
+#### [Uni-1 by Luma AI](https://www.aimyflow.com/en/ai/uni-1-ai)
+
+Uni-1 by Luma AI is a multimodal text-to-image model that helps users create high-fidelity visuals with spatial reasoning, reference-guided control, and accurate text rendering, mainly for designers, marketers, and other visual content creators. In AI-assisted creative workflows, it can reduce prompt trial and error and make it easier for design and marketing teams to produce consistent branded assets, banners, and comics.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Copywriter, Social Media Content Creator, Content Creator
+
 #### [UniFab Studio](https://www.aimyflow.com/en/ai/unifab-ai-unifab-studio-htm)
 
 UniFab Studio is an AI video enhancement software suite that helps users upscale, denoise, deinterlace, stabilize, smooth motion, and convert SDR video to HDR, mainly for professional video creators and editors seeking higher-quality footage. In AI-driven post-production workflows, it can help video teams improve older, shaky, or low-resolution source material more efficiently while maintaining consistent output across batch projects.
@@ -11209,6 +16407,10 @@ UniFab Studio is an AI video enhancement software suite that helps users upscale
 Unify is an all-in-one AI workspace for video, image, music, and chat that helps creators, marketing teams, and small teams produce short videos, product visuals, voiceovers, and creative assets from one platform. In AI-driven content workflows, it can help content and marketing professionals reduce tool switching and speed up asset production across social, advertising, and creative campaigns.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter, Ecommerce Seller
+
+#### [UNIKBET](https://www.aimyflow.com/en/ai/coqui-ai)
+
+UNIKBET appears to be an online gambling platform for Toto 4D and slot games, helping players access betting markets, game listings, and account login or signup options. In an AI-driven web landscape, affiliates, compliance reviewers, and content moderators can use clearer site classification like this to assess gambling-related content and user risk more efficiently.
 
 #### [Universal-3 Pro by AssemblyAI](https://www.aimyflow.com/en/ai/assemblyai-com-universal-3-pro)
 
@@ -11228,6 +16430,24 @@ Unreal Speech is a text-to-speech API that helps developers and product teams ge
 
 **Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, Content Creator, Digital Marketing Director
 
+#### [Unschooler](https://www.aimyflow.com/en/ai/unschooler-me)
+
+Unschooler is an AI learning and development platform that helps companies, educators, universities, and schools create personalized video courses with quizzes, assignments, skills analysis, and AI assistants from their existing knowledge and files. For HR, L&D, and training teams, it can speed course creation, personalize learning by skill gaps, and give real-time insight into employee understanding and progress.
+
+**Suitable roles:** Education Technology Consultant, Talent Acquisition Manager, Corporate Leadership Coach, Project Management Officer, Teacher
+
+#### [Unscreen](https://www.aimyflow.com/en/ai/unscreen-com)
+
+Unscreen was a video background removal tool for creators and video editors, but it has shut down permanently and now directs users to Canva’s video editor as the recommended alternative. For video editing, design, and content production teams, moving to an AI-enabled all-in-one editor can consolidate background removal with tasks like format changes and audio enhancement.
+
+**Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Independent Filmmaker, Copywriter
+
+#### [Unsiloed AI](https://www.aimyflow.com/en/ai/unsiloed-ai)
+
+Unsiloed AI is a document processing platform that turns multimodal unstructured data like PDFs, spreadsheets, slides, and images into structured JSON or Markdown for LLMs, AI agents, and automation, mainly for developers, AI engineers, and data teams in accuracy-critical enterprises. In AI workflows, it can help data engineering, ML, and operations teams reduce manual parsing work and improve retrieval quality by preserving document structure, hierarchy, and domain context.
+
+**Suitable roles:** Data Engineer, Software Engineer, Project Management Officer, IT Infrastructure Manager, Software Development Manager
+
 #### [UPDF](https://www.aimyflow.com/en/ai/updf-com)
 
 UPDF is an AI-integrated PDF editor, converter, annotator, and reader that helps users edit, organize, sign, protect, OCR, translate, and summarize PDFs across desktop, mobile, and web, mainly for professionals, students, educators, and enterprise teams handling document-heavy work. Its AI chat, summarization, translation, and research features can help legal, research, HR, and business professionals review complex documents faster and turn static PDFs into more actionable information.
@@ -11239,6 +16459,12 @@ UPDF is an AI-integrated PDF editor, converter, annotator, and reader that helps
 UPDF is an AI-powered PDF editor and document tool that helps users edit, annotate, convert, OCR, organize, protect, and chat with PDFs across desktop, mobile, and web, mainly for individuals, students, and professionals handling complex documents. In AI-assisted document workflows, it can help knowledge workers such as researchers, legal staff, and business teams review long files faster and extract answers or summaries directly from PDFs.
 
 **Suitable roles:** Lawyer, Financial Analyst, Teacher, Technical Writer, Project Management Officer
+
+#### [Uplane](https://www.aimyflow.com/en/ai/uplane-com)
+
+Uplane is a full-funnel AI marketing automation platform that helps marketing teams and enterprises manage market intelligence, create personalized ads and landing pages, automate testing and budget allocation, and track analytics in real time. For performance marketers and marketing operations teams, it can reduce manual campaign work and support faster, data-driven optimization across channels.
+
+**Suitable roles:** Digital Marketing Director, Project Management Officer, CEO, COO
 
 #### [Uramaki](https://www.aimyflow.com/en/ai/uramakistudio-com)
 
@@ -11378,6 +16604,30 @@ Veo 3.1 AI Video Generator is a text-and-image-to-video tool that helps users cr
 
 **Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Education Technology Consultant, Content Creator, Social Media Content Creator, Marketing and Sales Managers +2 more
 
+#### [Vera Health](https://www.aimyflow.com/en/ai/vera-health-ai)
+
+Vera Health is an AI clinical decision-support search engine that helps licensed clinicians and trainees find concise, evidence-based answers, differential diagnoses, treatment plans, and clinical calculations from peer-reviewed medical literature and guidelines. For physicians, PAs, pharmacists, and other bedside clinicians, it can speed up question resolution while keeping recommendations auditable through linked sources and evidence grading.
+
+**Suitable roles:** Family Doctor, Cardiologist, Pediatrician, Healthcare Administrator, Medical Lab Technician
+
+#### [Verbatik AI](https://www.aimyflow.com/en/ai/verbatik-com)
+
+Verbatik AI is an all-in-one AI creative platform that helps users generate speech, cloned voices, videos, music, images, photo edits, and sound effects, mainly for creators and media production teams. In AI-driven content workflows, tools like this can help creative and marketing professionals produce multilingual audio and visual assets faster from a single platform.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter, Graphic Designer
+
+#### [Verbiflow](https://www.aimyflow.com/en/ai/verbiflow-com)
+
+Verbiflow is an always-on AI sales copilot that helps sales and growth teams research prospects, enrich contact and company data, and run managed email and LinkedIn outreach. For SDRs, account executives, and growth operators, it can reduce manual prospecting and sequencing work so they can focus more on prioritizing high-intent accounts and booked conversations.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, Digital Marketing Director, CEO, COO
+
+#### [Veria Labs](https://www.aimyflow.com/en/ai/verialabs-com)
+
+Veria Labs is an AI-powered continuous pentesting platform that analyzes codebases and CI/CD workflows to find, validate, and suggest fixes for real application vulnerabilities, mainly for security and engineering teams in high-stakes industries. For AppSec, security engineers, and developers, it can bring offensive security testing closer to every pull request so issues are identified and remediated earlier in the software delivery process.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Software Engineer, Software Development Manager, IT Infrastructure Manager
+
 #### [Verify Backlinks](https://www.aimyflow.com/en/ai/verifybacklinks-com)
 
 Verify backlinks before Google indexes them. Live Pre-Index Backlink Audit to detect manipulation patterns at scale.
@@ -11390,17 +16640,41 @@ VeriIA is an AI detector for professional content that helps users check whether
 
 **Suitable roles:** Copywriter, Technical Writer, Digital Marketing Director, Content Creator, College Professor
 
+#### [Verisquad](https://www.aimyflow.com/en/ai/verisquad-com)
+
+Verisquad is an AI-powered claim verification tool that helps users fact-check statements, assess veracity with evidence, and refine claims for clarity, mainly for journalists, researchers, and other truth-focused users. In AI-assisted reporting and research workflows, it can help these professionals evaluate claims more consistently by combining multi-agent analysis with evidence-based verification.
+
+**Suitable roles:** TV News Reporter, Data Scientist, Technical Writer, Lawyer, Content Creator
+
+#### [Veritus](https://www.aimyflow.com/en/ai/veritus-com)
+
+Veritus provides AI voice, SMS, email, and chat agents for the consumer lending industry, helping lenders, servicers, and collection agencies manage customer acquisition, servicing, and collections across the loan lifecycle. For lending operations, servicing, and collections teams, it can automate compliant borrower outreach and routine interactions while giving full interaction-level visibility for QA, reporting, and policy control.
+
+**Suitable roles:** Financial Analyst, COO, Project Management Officer, Branch Office Manager
+
 #### [Vertech Academy](https://www.aimyflow.com/en/ai/vertechacademy-ca)
 
 Vertech Academy is an AI study prompt library that helps students turn class materials into clearer explanations, study guides, and exam prep using tools like ChatGPT, Claude, and Gemini. For students and tutors, structured prompting can make AI outputs more teachable and consistent, reducing time spent reworking vague responses into usable study support.
 
 **Suitable roles:** Test Prep Tutor, Teacher, College Professor, School Counselor
 
+#### [Vetnio](https://www.aimyflow.com/en/ai/vetnio-com)
+
+Vetnio is an AI copilot for veterinarians that records consultations and phone calls, generates clinical notes, supports diagnostics, and helps manage calls and messages, mainly for veterinary professionals and clinics. For veterinarians and clinic teams, it can reduce documentation time and streamline communication so more attention can go to patient care and clinical decision-making.
+
+**Suitable roles:** Healthcare Administrator, Medical Lab Technician, Wellness Coach
+
 #### [VFast AI’s Wan 2.6 text-to-video tool](https://www.aimyflow.com/en/ai/vfast-ai-ai-text-to-video)
 
 VFast AI’s Wan 2.6 text-to-video tool is an AI video generator that helps users create short videos from written prompts with controls for aspect ratio, resolution, duration, and output quantity, aimed at creators and teams producing visual content. For marketers, social media managers, and content producers, this kind of prompt-based video generation can speed early concepting and reduce manual effort in making short-form visuals.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Graphic Designer
+
+#### [VFitter University](https://www.aimyflow.com/en/ai/vfitter-com)
+
+VFitter University is a job-first education and professional networking platform that helps students and career changers build project-based skills, connect with mentors and employers, and access task-based hiring pipelines, while also helping businesses source pre-trained candidates. In an AI-driven hiring market, it can help recruiters, hiring managers, and early-career professionals focus more on proven skills, task readiness, and better-matched opportunities rather than resumes alone.
+
+**Suitable roles:** Talent Acquisition Manager, Education Technology Consultant, Software Engineer
 
 #### [Vibe Architect](https://www.aimyflow.com/en/ai/momen-app-vibe-architect-cursor)
 
@@ -11413,6 +16687,18 @@ Vibe Architect is a visual no-code backend for Cursor that helps users design da
 Vibe Menu is an AI-powered digital QR menu builder that helps restaurants and other service-based businesses turn PDFs or simple descriptions into interactive, mobile-friendly menus and catalogs, mainly for owners and operators who need fast updates without design or technical work. For restaurant managers, hospitality teams, and similar operators, it can streamline menu maintenance, multilingual presentation, and quick item or price changes from a phone.
 
 **Suitable roles:** Restaurant General Manager, Branch Office Manager, Food Enthusiast, E-commerce Sales Head, COO
+
+#### [Vibe Musicing](https://www.aimyflow.com/en/ai/vibemusicing-com)
+
+Vibe Musicing is an online AI song maker that helps users generate songs, beats, instrumentals, and lyrics in multiple genres, mainly for content creators and people who want to make music without formal training. For marketers, video creators, and social media teams, it can speed up production of royalty-free music assets for posts, ads, podcasts, and short-form video.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Podcast Producer, Music Lover
+
+#### [VibeFlow](https://www.aimyflow.com/en/ai/vibeflow-ai)
+
+VibeFlow is an AI full-stack app builder that helps users create backend automations, data pipelines, dashboards, forms, and customer-facing apps through prompts and visual workflows, mainly for developers, founders, operations teams, and non-technical teams. In AI-assisted product and operations work, its editable visual backends can help teams validate, adjust, and maintain application logic more reliably than opaque code generation alone.
+
+**Suitable roles:** Software Development Manager, Software Engineer, Project Management Officer, COO, Field Sales Manager
 
 #### [VibePaintAI](https://www.aimyflow.com/en/ai/vibepaint-ai-795372324720-us-west1-run-app)
 
@@ -11461,6 +16747,12 @@ Videnly is an automated AI video generation and publishing platform that helps c
 Video Background Remover is an AI-powered online tool that removes, replaces, or customizes video backgrounds without a green screen, helping content creators, marketers, educators, and video teams produce cleaner videos from MP4, MOV, and WebM files. For video editors, social media managers, and e-commerce teams, it can reduce manual masking work and speed production of branded, platform-ready video assets.
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Ecommerce Seller, Graphic Designer, Teacher
+
+#### [Video Diffusion Models](https://www.aimyflow.com/en/ai/video-diffusion-github-io)
+
+Video Diffusion Models is a research project and paper that presents a diffusion-based architecture for generating videos, including text-conditioned and unconditional outputs, mainly for machine learning researchers and generative AI engineers. For AI and computer vision teams, its methods for joint image-video training and gradient-based conditioning can help improve temporal coherence and support longer, higher-resolution video generation workflows.
+
+**Suitable roles:** Software Engineer, Data Scientist, Technical Writer, Content Creator
 
 #### [Video Text Remover](https://www.aimyflow.com/en/ai/videotextremover-com)
 
@@ -11515,6 +16807,12 @@ VideoIdeas.ai is an AI content creation tool for YouTube creators that helps gen
 Videoinu is an AI faceless video generator that helps creators turn prompts into longer animated storytelling videos with consistent characters, style controls, and multilingual voiceovers, mainly for YouTube creators making kid-friendly content. For video creators and content teams, it can speed up episodic production while keeping character continuity and narration more consistent across markets.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Teacher
+
+#### [Videoleap](https://www.aimyflow.com/en/ai/videoleapapp-com)
+
+Videoleap is an easy video editor and maker that helps users create and edit social media videos with templates, AI tools, and standard editing features, mainly for content creators, influencers, social media managers, and brands. Its AI features can help video marketers and social teams produce platform-ready ads, Reels, TikToks, and Shorts faster while reducing manual editing work.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Graphic Designer
 
 #### [VideoLlama](https://www.aimyflow.com/en/ai/videollama-co)
 
@@ -11636,6 +16934,12 @@ VidGen is an AI content creation and video generation platform with text-to-imag
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Digital Marketing Director, Copywriter
 
+#### [vidIQ](https://www.aimyflow.com/en/ai/vidiq-com)
+
+vidIQ is a YouTube growth and optimization platform that helps creators improve keywords, thumbnails, scripts, analytics, and content ideas, mainly for YouTubers and channel owners. In AI-assisted video workflows, it can help creators and social media managers spend less time on research and optimization while making more informed publishing decisions.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Podcast Producer
+
 #### [Vidnoz](https://www.aimyflow.com/en/ai/vidnoz-com)
 
 Vidnoz is an AI video generation platform that helps users create videos with avatars, voices, and automated production tools, mainly for marketers, trainers, and content creators. In the AI era, avatar-based workflows help teams produce scalable video communication without traditional filming constraints.
@@ -11720,6 +17024,12 @@ VisionStory is an AI video platform that helps users create lifelike talking-ava
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Teacher, Podcast Producer
 
+#### [Visla AI Video Generator](https://www.aimyflow.com/en/ai/visla-us-ai-video-generator)
+
+Visla AI Video Generator is an AI video creation and editing tool that turns text, scripts, PDFs, PPTs, webpages, audio, and footage into polished videos with voiceover, visuals, music, subtitles, and optional avatars, mainly for marketing, sales, training, education, customer success, product, and HR teams. For content, training, and go-to-market teams, it can shorten the path from existing materials to reviewable video drafts, helping professionals produce more video without deep editing expertise.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Field Sales Manager, Technical Writer, Education Technology Consultant
+
 #### [Visual Field Test](https://www.aimyflow.com/en/ai/visualfieldtest-com)
 
 Visual Field Test is an online visual field screening and monitoring tool that helps people check for blind spots and track peripheral vision changes at home, especially those monitoring glaucoma risk or sharing results with an eye care professional. Its AI-assisted analysis and test history can help optometrists and ophthalmologists review patient-reported vision changes between visits more efficiently.
@@ -11731,6 +17041,12 @@ Visual Field Test is an online visual field screening and monitoring tool that h
 VisualGPT is a web-based AI image generation and editing platform that helps users create, enhance, retouch, and transform visuals, mainly for marketers, designers, e-commerce teams, educators, and real estate professionals. In AI-driven workflows, it can reduce manual design and image-prep time for content, product, presentation, and property marketing teams by combining generation, background removal, visualization, and editing in one place.
 
 **Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Commercial Architect, Real Estate Agent
+
+#### [VisualizeAI](https://www.aimyflow.com/en/ai/visualizeai-pro)
+
+VisualizeAI is an AI design visualization tool that helps hobbyists and professionals turn sketches, photos, and basic design views into prototypes, rendered concepts, and style variations for architecture and interior design. For architects and interior designers, it can speed early-stage ideation and material or style exploration by generating multiple visual options in seconds.
+
+**Suitable roles:** Interior Designer, Residential Architect, Commercial Architect, Graphic Designer, Industrial Designer
 
 #### [Vivgrid](https://www.aimyflow.com/en/ai/vivgrid-com)
 
@@ -11756,6 +17072,18 @@ Viyou Image Effects is a free AI image generator that lets users apply more than
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Content Creator, Digital Marketing Director, Ecommerce Seller
 
+#### [Vizard.ai](https://www.aimyflow.com/en/ai/vizard-ai)
+
+Vizard.ai is an AI video editing and clipping tool that turns long-form videos into social-ready short clips, captions, and resized formats for creators, podcasters, marketers, coaches, agencies, and teams producing content at scale. For social media marketers and content teams, it can speed repurposing webinars, interviews, and podcasts into platform-specific assets, reducing manual editing work and supporting faster publishing workflows.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Podcast Producer, Copywriter
+
+#### [Vizcom](https://www.aimyflow.com/en/ai/vizcom-ai)
+
+Vizcom is an AI design platform that helps product designers and design teams turn sketches and 3D models into full-fidelity renders, iterate concepts, and visualize ideas for real-world products. For industrial designers, footwear designers, and similar product roles, it can shorten the concept exploration cycle and make design reviews easier with faster, more editable visual outputs.
+
+**Suitable roles:** Industrial Designer, Graphic Designer, Project Management Officer, Commercial Architect, Fashion Designer
+
 #### [VMEG AI Video Translator](https://www.aimyflow.com/en/ai/vmeg-ai-tools-video-translator)
 
 VMEG AI Video Translator is an online video translation and dubbing tool that helps users localize videos into 170+ languages with AI voices, voice cloning, lip sync, and subtitles, mainly for content creators, educators, trainers, businesses, and marketers. For localization, training, and media teams, it can reduce manual dubbing and subtitle work while keeping multilingual video output more consistent across speakers and regions.
@@ -11768,6 +17096,12 @@ VMEG Tools is an AI video and audio localization platform that helps users trans
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Podcast Producer, Copywriter, Teacher
 
+#### [Vocality Health](https://www.aimyflow.com/en/ai/vocalityhealth-com)
+
+Vocality Health is an AI voice platform for healthcare providers that offers clinical interpretation in 100+ languages and voice agents to handle patient calls, scheduling, prescription refills, and basic inquiries. In AI-enabled healthcare operations, it can help clinicians, call center teams, and administrative staff reduce language barriers, shorten phone queues, and spend less time on repetitive communication tasks.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Family Doctor, Home Health Aide, Wellness Coach
+
 #### [VocalOps](https://www.aimyflow.com/en/ai/vocalops-ca)
 
 VocalOps is an AI phone answering service and voice agent that helps Canadian small and midsize businesses automate inbound calls, handle inquiries, capture transcripts and summaries, and route customers with live transfers when needed. For operations, customer service, and front-desk teams, it can reduce missed calls and manual call handling while improving consistency and follow-up speed.
@@ -11779,6 +17113,12 @@ VocalOps is an AI phone answering service and voice agent that helps Canadian sm
 Vocova is an AI transcription tool that converts audio and video into text in 100+ languages, with speaker labels, timestamps, translation, summaries, and multiple export formats, mainly for teams and professionals handling meetings, interviews, lectures, podcasts, and legal, sales, or medical recordings. In AI-enabled workflows, it can help researchers, content teams, educators, and operations staff turn spoken material into searchable, shareable documentation faster and with less manual note-taking.
 
 **Suitable roles:** Podcast Producer, Content Creator, Technical Writer, School Counselor, Field Sales Manager
+
+#### [Voice.ai](https://www.aimyflow.com/en/ai/voice-ai)
+
+Voice.ai is an AI voice platform that helps developers, enterprises, and creators build voice agents, generate text to speech, clone voices, and change voices in real time with APIs, SDKs, and online tools. For customer support, sales, media, and app teams, it can streamline call automation and audio production while making voice interactions sound more natural at scale.
+
+**Suitable roles:** Software Engineer
 
 #### [Voicebox](https://www.aimyflow.com/en/ai/voicebox-sh)
 
@@ -11797,6 +17137,12 @@ Voicechanger.video is an online AI voice changer that helps users transform uplo
 VoiceCleaner.ai is a browser-based AI voice cleaning tool that removes background noise and other speech distractions from audio and video files, mainly for podcasters, creators, musicians, and business professionals. In AI-assisted media workflows, it can help editors, producers, and communication teams spend less time on manual cleanup while delivering clearer recordings for publishing or meetings.
 
 **Suitable roles:** Podcast Producer, Social Media Content Creator, Content Creator, Voice Actor, Music Lover
+
+#### [Voicemod](https://www.aimyflow.com/en/ai/voicemod-com)
+
+Voicemod is a real-time AI voice changer and soundboard for PC and Mac that helps users modify their voice, play sound clips, and create custom voice effects, mainly for gamers, streamers, and online chat users. For streamers and gaming creators, AI voice tools like this can make live audio more interactive while reducing setup friction with built-in voice enhancement and low-latency control.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Voice Actor, Music Lover
 
 #### [VoicePen](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-voice-pen-speech-to-text-ai-id6462815872)
 
@@ -11833,6 +17179,12 @@ Voilà is an AI assistant and writing tool that works across websites, desktop, 
 VoiSpark is an AI voice generator platform for text-to-speech, voice cloning, voice changing, and narration, built mainly for content creators such as short-form video makers, podcasters, marketers, educators, and audiobook narrators. In AI-assisted content workflows, it can help these teams produce more consistent, expressive voiceovers at scale while reducing re-recording and manual narration work.
 
 **Suitable roles:** Content Creator, Social Media Content Creator, Podcast Producer, Copywriter, Digital Marketing Director
+
+#### [Voker](https://www.aimyflow.com/en/ai/voker-ai)
+
+Voker is an analytics tool for conversational AI agents that helps teams turn conversation insights into optimizations without digging through logs, mainly for people building and improving AI agents. As AI agents become more central to customer and product workflows, it can help AI engineers and conversational designers identify issues faster and refine agent performance more efficiently.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Scientist, Project Management Officer, IT Infrastructure Manager
 
 #### [VOMO](https://www.aimyflow.com/en/ai/vomo-ai)
 
@@ -11900,11 +17252,29 @@ Vulse is an employee advocacy platform for LinkedIn that helps B2B teams create,
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Social Media Content Creator, Talent Acquisition Manager, CEO
 
+#### [VWO Testing](https://www.aimyflow.com/en/ai/vwo-com-testing)
+
+VWO Testing is an A/B testing and experimentation platform that helps teams run split, multivariate, mobile app, web, and server-side tests to optimize user experiences and conversions, mainly for conversion rate optimization, product, and digital marketing teams. In AI-driven experimentation workflows, it can help CRO specialists, product managers, and analysts test ideas faster and prioritize changes using behavioral insights alongside experimentation.
+
+**Suitable roles:** Digital Marketing Director, E-commerce Sales Head, Project Management Officer, Software Development Manager
+
+#### [W.AI](https://www.aimyflow.com/en/ai/wombo-ai)
+
+W.AI is a decentralized AI supercomputer that lets people with GPU-equipped devices contribute idle compute power to AI tasks, mainly for device owners and infrastructure participants who want to support distributed AI networks. For AI infrastructure operators and technical teams, it can expand available compute capacity through a distributed model while using sandboxed execution and privacy-focused architecture.
+
+**Suitable roles:** IT Infrastructure Manager, Software Engineer, Software Development Manager, Cybersecurity Manager, Data Engineer
+
 #### [WADesk CRM’s WhatsApp chatbot](https://www.aimyflow.com/en/ai/wadesk-io-whatsapp-chatbot)
 
 WADesk CRM’s WhatsApp chatbot is a no-code platform for building AI agents and auto-reply bots that help businesses automate customer support, sales conversations, and WhatsApp marketing. For support, sales, and operations teams, AI-trained agents can handle routine questions, qualify leads, and route complex cases to human staff with better context.
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Project Management Officer, Software Development Manager
+
+#### [Waifu Labs](https://www.aimyflow.com/en/ai/waifulabs-com-generate)
+
+Waifu Labs is an AI portrait generator that helps users create custom anime character illustrations through a four-step process covering initial portrait, color palette, details, and pose, mainly for anime fans and character creators. For illustrators, game artists, and concept designers, it can speed up early character exploration by quickly producing style and pose variations to refine visual ideas.
+
+**Suitable roles:** Graphic Designer, Independent Filmmaker, Content Creator, Fiction Writer
 
 #### [Wallnora](https://www.aimyflow.com/en/ai/wallnora-com)
 
@@ -11918,11 +17288,27 @@ Wan AI is an AI creative platform and video generation model that helps creators
 
 **Suitable roles:** Content Creator, Graphic Designer, Social Media Content Creator, Digital Marketing Director, Copywriter
 
+#### [Wand AI](https://www.aimyflow.com/en/ai/wand-ai)
+
+Wand AI is an agentic labor infrastructure platform that helps governments and global enterprises create, manage, and scale hybrid workforces where AI agents collaborate with human teams. For operations, IT, and enterprise leaders, it can improve oversight and execution by adding accountable AI agents with dashboards, decision tracking, and cross-system interoperability.
+
+**Suitable roles:** COO, IT Infrastructure Manager, Project Management Officer, CEO, Cybersecurity Manager
+
+#### [WantQuotes 据意查句](https://www.aimyflow.com/en/ai/wantquotes-net)
+
+WantQuotes 据意查句 is an AI-powered Chinese quote search tool that helps users find matching sayings, poetry lines, classical passages, proverbs, and idioms by describing their meaning, mainly for Chinese readers, writers, and students. For writers, editors, and educators, it can speed up finding contextually relevant quotations when drafting, teaching, or refining Chinese-language content.
+
+**Suitable roles:** Technical Writer, Copywriter, College Professor, Content Creator
+
 #### [Warp](https://www.aimyflow.com/en/ai/warp-dev)
 
 Warp is an agentic development environment and terminal that helps software engineers build features, fix bugs, debug production issues, and manage deployment workflows with AI agents across the software lifecycle. For developers, platform engineers, and DevOps teams, it can reduce context switching by combining terminal work, agent control, and cloud orchestration in one place.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Project Management Officer
+
+#### [WarrenAI appears to be an Investing.com tool or service that](https://www.aimyflow.com/en/ai/investing-com-warrenai-login)
+
+WarrenAI appears to be an Investing.com tool or service that is currently unavailable due to maintenance, likely intended for investors or market-following users accessing Investing.com resources. For investors, analysts, and financial researchers, reliable AI access matters because interruptions can delay market monitoring, information retrieval, and time-sensitive decision support.
 
 #### [Watashi Colorizer](https://www.aimyflow.com/en/ai/watashicolorizer-com)
 
@@ -11939,6 +17325,12 @@ WatchMyCompetitor is an AI market intelligence platform that monitors competitor
 #### [Watermelon](https://www.aimyflow.com/en/ai/watermelon-ai)
 
 Watermelon is an AI agents platform for customer service that helps teams build AI agents, manage conversations in a shared inbox, and hand off complex issues to humans, mainly for customer support teams. In AI-enabled support operations, it can help service managers and agents reduce routine workload while focusing human effort on more complex customer cases.
+
+#### [Wave.video](https://www.aimyflow.com/en/ai/wave-video)
+
+Wave.video is an all-in-one online video platform that helps creators edit, record, multistream, host, and publish videos, mainly for content creators, marketers, and teams producing branded video content. In AI-supported video workflows, it can help social media managers and video marketers move faster from draft to distribution with tools like text-to-video generation, automatic captions, and reusable templates.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator, Podcast Producer
 
 #### [Waveloom](https://www.aimyflow.com/en/ai/waveloom-dev)
 
@@ -11964,6 +17356,18 @@ WayinVideo is an AI video tool that helps users discover key moments, create cli
 
 **Suitable roles:** Social Media Content Creator, Podcast Producer, Content Creator, Digital Marketing Director, Copywriter
 
+#### [Waymark](https://www.aimyflow.com/en/ai/waymark-com)
+
+Waymark is an AI video ad platform that helps sales, creative, and ad-tech teams quickly create branded, broadcast-ready commercials, including spec ads and localized variations, from a client’s existing website assets. In AI-driven advertising workflows, it can help sales and production teams shorten ad creation cycles so they can pitch faster, scale output, and support campaigns across digital, social, and broadcast channels.
+
+**Suitable roles:** Digital Marketing Director, Field Sales Manager, Copywriter, Graphic Designer, Content Creator
+
+#### [Weave](https://www.aimyflow.com/en/ai/workweave-dev)
+
+Weave is an AI and machine-learning analytics platform that helps engineering teams, managers, and executives measure engineering work, including AI versus human contribution, code review quality, and delivery impact. In AI-assisted software development, it gives engineering leaders clearer evidence on which tools and practices improve shipping speed, collaboration, and code quality.
+
+**Suitable roles:** Software Development Manager, CEO, COO, Software Engineer, Project Management Officer
+
 #### [Weavely](https://www.aimyflow.com/en/ai/weavely-ai)
 
 Weavely is an AI form builder that helps teams create, customize, and optimize forms and surveys from prompts, voice notes, or uploaded files, especially for customer success and marketing users. By speeding up question design and applying conditional logic and branding automatically, it can help customer success and marketing teams collect more structured feedback and lead data with less manual setup.
@@ -11975,6 +17379,12 @@ Weavely is an AI form builder that helps teams create, customize, and optimize f
 Web Gremlin is an AI-powered website analysis and monitoring tool that helps digital agencies audit client sites, track regressions, and generate reports covering performance, SEO, accessibility, security, and user experience. For agency teams, its AI-ready fix instructions can speed issue resolution by turning website findings into prompts for coding assistants, helping them maintain sites more proactively.
 
 **Suitable roles:** Digital Marketing Director, Software Development Manager, IT Infrastructure Manager, Technical Writer, Cybersecurity Manager
+
+#### [Webflow Optimize](https://www.aimyflow.com/en/ai/intellimize-com)
+
+Webflow Optimize is a website optimization and personalization tool that helps teams run A/B tests, segment audiences, and use AI to deliver higher-converting experiences across Webflow sites or any CMS, mainly for marketers and digital teams. In AI-driven marketing workflows, it can help performance marketers and web teams reduce manual testing effort and deliver more relevant page experiences faster.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO
 
 #### [Website Planet Image Compressor](https://www.aimyflow.com/en/ai/websiteplanet-com-webtools-imagecompressor)
 
@@ -11988,6 +17398,12 @@ WebZum is an AI website builder that researches a business, writes content, gene
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Ecommerce Seller, CEO, Graphic Designer
 
+#### [Wedge](https://www.aimyflow.com/en/ai/wedge-health)
+
+Wedge is an operating system for healthcare AI agents that helps large health systems automate back-office work such as payment reconciliation, records retrieval, claims management, medical coding, reception, and AI governance. For revenue cycle, operations, and compliance teams, it can reduce manual administrative work while improving auditability and consistency across departments.
+
+**Suitable roles:** Healthcare Administrator, Medical Biller, Project Management Officer, IT Infrastructure Manager, Occupational Health Specialist
+
 #### [Well Extract](https://www.aimyflow.com/en/ai/extract-wellapp-ai)
 
 Well Extract is an open-source invoice and receipt data extraction tool that helps developers convert PDFs and images into structured data using configurable AI models. It streamlines document processing workflows, enabling engineering teams to ship reliable finance automation faster.
@@ -11999,6 +17415,12 @@ Well Extract is an open-source invoice and receipt data extraction tool that hel
 Wellows is an AI visibility platform that helps agencies, startups, freelancers, and consultants track brand presence in AI search, identify content and outreach opportunities, generate AI-optimized content, and monitor performance across tools like ChatGPT, Gemini, Perplexity, and AI Overviews. For SEO, content, and agency teams, it can make AI search work more measurable by turning citation gaps and competitor signals into clearer planning, reporting, and execution.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Software Development Manager
+
+#### [WellSaid](https://www.aimyflow.com/en/ai/wellsaidlabs-com)
+
+WellSaid is an AI voice generator and text-to-speech platform that helps teams create professional voiceovers quickly, with collaboration, security, and API options for learning and development, marketing, creative, video production, and product teams. For L&D, marketing, and production professionals, it can speed script updates and multilingual audio creation while keeping narration consistent and easier to manage at scale.
+
+**Suitable roles:** Content Creator, Copywriter, Podcast Producer, Software Engineer, Digital Marketing Director
 
 #### [Werd](https://www.aimyflow.com/en/ai/werd-ai)
 
@@ -12036,11 +17458,29 @@ WhyBounce is an AI landing page audit tool that analyzes a page URL to show why 
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Graphic Designer, CEO, Content Creator
 
+#### [Wildcard](https://www.aimyflow.com/en/ai/wild-card-ai)
+
+Wildcard is an AI SEO platform for retail and ecommerce teams that helps brands track product visibility in ChatGPT Shopping, monitor rankings and competitor mentions, and improve product data and content for AI search. For ecommerce managers, merchandisers, and SEO teams, it supports more effective AI-era product discovery by showing which queries, attributes, and content sources influence recommendations.
+
+**Suitable roles:** E-commerce Sales Head, Digital Marketing Director, Ecommerce Seller, Copywriter, Content Creator
+
+#### [Windsurf](https://www.aimyflow.com/en/ai/codeium-com)
+
+Windsurf is an AI coding assistant and AI-native IDE that helps developers and enterprise teams write, fix, and navigate codebases with features like agentic code generation, autocomplete, lint fixing, terminal help, and workflow memory. For software engineers, this kind of code-aware AI can reduce context switching and automate routine implementation work so more time goes to architecture, debugging, and shipping.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager
+
 #### [Windsurf](https://www.aimyflow.com/en/ai/windsurf-com)
 
 Windsurf is an AI-native code editor and coding assistant that helps developers and enterprise engineering teams write, understand, and ship software faster with in-editor AI support. In the AI era, it reduces routine coding friction so engineers can focus more on architecture, review quality, and delivery.
 
 **Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Data Scientist, Data Engineer +15 more
+
+#### [Winfunc](https://www.aimyflow.com/en/ai/winfunc-com)
+
+Winfunc is an AI security auditing tool that scans codebases and systems to find real vulnerabilities, generate exploit proof of concept, and provide code-path-specific patch guidance, mainly for software engineering and security teams. In AI-driven AppSec workflows, its proof-backed findings can help developers, security engineers, and engineering leaders prioritize exploitable issues faster and ship fixes with less time spent validating scanner noise.
+
+**Suitable roles:** Cybersecurity Manager, Cybersecurity Analyst, Software Engineer, Software Development Manager, IT Infrastructure Manager
 
 #### [Wingman.live](https://www.aimyflow.com/en/ai/wingman-live)
 
@@ -12052,11 +17492,23 @@ Wisecut is an AI video editor that turns long-form footage into short clips auto
 
 **Suitable roles:** Content Creator
 
+#### [Wisecut](https://www.aimyflow.com/en/ai/wisecut-video)
+
+Wisecut is an AI video editor for turning long videos into short clips, helping users create engaging highlights and mainly serving video creators and content teams. In AI-driven content workflows, tools like this can help editors and social media managers repurpose source footage into shorter assets more efficiently.
+
+**Suitable roles:** Social Media Content Creator, Content Creator, Digital Marketing Director, Podcast Producer, Copywriter
+
 #### [WisGate](https://www.aimyflow.com/en/ai/wisdom-gate-juheapi-com)
 
 WisGate is a unified AI API gateway and browser-based studio that helps developers, creators, teams, and businesses access and use multiple LLM, image, video, and coding models through one interface and API. For developers and AI product teams, this can simplify model selection, routing, and billing so they can test and deploy multimodel workflows with less integration overhead.
 
 **Suitable roles:** Software Engineer, Software Development Manager, Content Creator, Digital Marketing Director, Data Scientist
+
+#### [Wisio](https://www.aimyflow.com/en/ai/wisio-app)
+
+Wisio is an AI-powered scientific writing assistant that helps researchers and scientists draft, improve, and format papers with writing suggestions, reference finding, grammar correction, and rewriting tools. For academic writing and research functions, it can speed literature-supported drafting and help produce clearer manuscripts suitable for submission.
+
+**Suitable roles:** College Professor, Molecular Biologist, Microbiologist, Marine Biologist, Chemist
 
 #### [Wispr Flow](https://www.aimyflow.com/en/ai/wisprflow-ai)
 
@@ -12082,9 +17534,27 @@ Wize Up is an AI tool that tracks YouTube channels and topics to deliver persona
 
 **Suitable roles:** Financial Analyst, Project Management Officer, Technical Writer, Content Creator
 
+#### [Woebot Health](https://www.aimyflow.com/en/ai/woebothealth-com)
+
+Woebot Health is a chat-based AI wellness platform that helps expand access to mental health support, mainly for healthcare organizations, payers, providers, and the people they serve. For behavioral health and care teams, AI tools like this can extend support between visits and help scale more consistent patient engagement when therapist capacity is limited.
+
+**Suitable roles:** Healthcare Administrator, Wellness Coach, Family Doctor, School Counselor, Occupational Health Specialist
+
+#### [Wolfram|Alpha](https://www.aimyflow.com/en/ai/wolframalpha-com)
+
+Wolfram|Alpha is a computational intelligence tool that uses natural language, curated knowledge, and algorithms to help students and professionals compute answers and explore topics across math, science, engineering, finance, and more. For analysts, researchers, educators, and technical specialists, it can speed up problem solving by turning plain-language queries into structured, computed results.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Software Engineer, College Professor, Education Technology Consultant
+
 #### [Wonder Wisp](https://www.aimyflow.com/en/ai/wonderwisp-net)
 
 Wonder Wisp is an AI tool that helps parents create personalized, illustrated children's storybooks with consistent child characters, age-appropriate bedtime content, and downloadable PDFs. For parents and caregivers, it can speed up bedtime story creation while using AI to tailor stories to a child’s appearance and adventure preferences.
+
+#### [Wonderful](https://www.aimyflow.com/en/ai/wonderful-ai)
+
+Wonderful is an enterprise agent platform that helps large organizations build, deploy, manage, and monitor AI agents for complex workflows across functions like support, sales, HR, legal, finance, procurement, and IT. For enterprise operations, IT, and functional leaders, it can improve AI-era execution by standardizing oversight, compliance, and orchestration while adapting agents to specific systems, processes, languages, and regulatory environments.
+
+**Suitable roles:** COO, IT Infrastructure Manager, Project Management Officer, Software Development Manager, CEO
 
 #### [Wondershare](https://www.aimyflow.com/en/ai/wondershare-com)
 
@@ -12104,11 +17574,29 @@ Wondershare Virbo is an AI video generator that helps users create videos from t
 
 **Suitable roles:** Digital Marketing Director, Field Sales Manager, Social Media Content Creator, Corporate Leadership Coach, Teacher
 
+#### [Word-As-Image for Semantic Typography](https://www.aimyflow.com/en/ai/wordasimage-github-io-Word-As-Image-Page)
+
+Word-As-Image for Semantic Typography is a research tool and method that automatically turns words into readable semantic typography by deforming letter shapes to reflect meaning, mainly for typography researchers, graphic designers, and digital artists. In AI-assisted design workflows, it can help creative professionals generate concept-driven lettering faster while preserving font style and legibility for editorial, branding, and visual communication work.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, College Professor, Content Creator
+
+#### [Wordmetrics](https://www.aimyflow.com/en/ai/wordmetrics-com)
+
+Wordmetrics is a cloud-based AI SEO writing platform that helps content marketers and content writers optimize new and existing posts for search visibility using semantic analysis, readability checks, and real-time search guidance. For SEO teams, writers, and inbound marketers, it brings optimization into the drafting workflow so content can better match search intent before publication.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Technical Writer, Social Media Content Creator
+
 #### [Wordrific](https://www.aimyflow.com/en/ai/wordrific-com)
 
 Wordrific is an AI content marketing platform that helps B2B content and marketing teams turn ideal customer profile research into SEO-optimized articles in their brand voice, then publish them across multiple channels on autopilot. For content strategists and demand generation teams, this can streamline research, drafting, optimization, and distribution for both Google and AI search workflows.
 
 **Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, Social Media Content Creator, CEO
+
+#### [Wordtune](https://www.aimyflow.com/en/ai/wordtune-com)
+
+Wordtune is an AI writing and reading assistant that helps users paraphrase, rewrite, summarize, generate text, and correct grammar, mainly for writers, students, and professionals working in English. For roles like content creators, analysts, and office communicators, it can speed drafting and editing while helping them produce clearer, more natural English across emails, reports, and academic writing.
+
+**Suitable roles:** Copywriter, Technical Writer, Content Creator, Financial Analyst, Teacher
 
 #### [Workmate](https://www.aimyflow.com/en/ai/workmate-com)
 
@@ -12140,6 +17628,18 @@ WOWOW AI is an adult AI companion platform that lets users create and chat with 
 
 **Suitable roles:** Content Creator, Software Engineer, Cybersecurity Analyst, Digital Marketing Director
 
+#### [WowTo](https://www.aimyflow.com/en/ai/wowto-ai)
+
+WowTo is an AI video creation and hosting platform that helps teams produce step-by-step support, training, and instructional videos, mainly for customer support, training, and education teams. In AI-enabled workflows, it can help support and enablement professionals turn screen recordings, PDFs, and presentations into multilingual video knowledge bases that are easier to update and deliver inside help centers or apps.
+
+**Suitable roles:** Technical Writer
+
+#### [Woz](https://www.aimyflow.com/en/ai/withwoz-com)
+
+Woz is an AI-powered platform for building, testing, and publishing production-ready mobile apps, helping entrepreneurs, side hustlers, and developers turn app ideas into App Store launches with database, payments, analytics, and human assistance. For product builders and developers, it shortens the path from idea to validation by combining AI generation with maintainable code and expert oversight.
+
+**Suitable roles:** Software Engineer, CEO, Software Development Manager, Content Creator, Ecommerce Seller
+
 #### [Write Better Articles](https://www.aimyflow.com/en/ai/writebetterarticles-com)
 
 Write Better Articles is an AI-assisted writing tool that helps X creators turn a topic, audience, and argument into algorithm-informed articles using X’s open-source signal weights, then refine them in their own voice before publishing. For social media writers and content creators, this can improve drafting efficiency and align articles more closely with platform ranking signals while preserving human review and editing.
@@ -12163,6 +17663,22 @@ Writedoc is an AI document generator that helps users create professional docume
 WriteHuman is an AI text humanizer and detector that helps users rewrite AI-generated content into more natural, readable writing and check it for AI signals, mainly for writers, marketers, freelancers, professionals, content creators, and agencies. In AI-assisted publishing and communications workflows, it can help content and marketing teams refine drafts so they better match human tone and readability before review or release.
 
 **Suitable roles:** Copywriter, Content Creator, Digital Marketing Director, Social Media Content Creator, Technical Writer
+
+#### [WRITER](https://www.aimyflow.com/en/ai/writer-com)
+
+WRITER is an enterprise AI platform for agentic work that helps Global 2000 companies build, activate, and supervise AI agents for tasks like campaigns, RFPs, personalized communications, and research, with a focus on IT governance and security. For marketing, sales, support, and IT teams, it can improve productivity by combining shared knowledge, workflow automation, and oversight in one system.
+
+**Suitable roles:** IT Infrastructure Manager, Digital Marketing Director, Field Sales Manager, Software Development Manager, Project Management Officer
+
+#### [Writesonic](https://www.aimyflow.com/en/ai/writesonic-com)
+
+Writesonic is an AI search visibility tracking and optimization platform that helps brands monitor rankings, citations, sentiment, and content opportunities across ChatGPT, Gemini, Perplexity, Google, and other AI platforms, mainly for SEO and marketing teams. For SEO specialists and content marketers, it supports AI-era work by connecting visibility data to specific actions such as refreshing pages, fixing technical issues, and creating content more likely to be cited by AI systems.
+
+**Suitable roles:** Digital Marketing Director, Copywriter, Content Creator, CEO, Software Development Manager
+
+#### [writey.ai](https://www.aimyflow.com/en/ai/writey-ai)
+
+writey.ai is a domain name listed for sale through GoDaddy, helping buyers purchase or lease the writey.ai web address with secure payment and transfer support. For brand, marketing, and product teams evaluating AI-focused naming, acquiring a relevant domain can strengthen discoverability and consistency before a tool or service is launched.
 
 #### [Writify.AI](https://www.aimyflow.com/en/ai/writify-ai)
 
@@ -12200,6 +17716,12 @@ xeditai is a multi-model generative AI workspace that helps users create, compar
 
 **Suitable roles:** CEO, Software Development Manager, Technical Writer, College Professor, Content Creator
 
+#### [Xiangji Translation](https://www.aimyflow.com/en/ai/xiangjifanyi-com)
+
+Xiangji Translation is an AI translation and visual editing tool that helps users translate images and short videos, remove watermarks, cut out backgrounds, and refine content, mainly for cross-border e-commerce sellers and marketing teams creating multilingual assets. In AI workflows, it can help content, design, and localization teams turn product visuals and promotional videos into market-ready materials faster without relying on advanced manual editing skills.
+
+**Suitable roles:** Ecommerce Seller, Digital Marketing Director, Content Creator, Graphic Designer, Copywriter
+
 #### [XJoy AI](https://www.aimyflow.com/en/ai/xjoy-ai)
 
 XJoy AI is an AI image tool that helps users animate photos, generate image variations from a single photo, change outfits in full-body images, and create kissing images from two uploads, mainly for people editing personal photos. For photo editors and social media content creators, these AI features can speed up creative image production and experimentation from a small number of source images.
@@ -12230,6 +17752,12 @@ YesChat.ai is an all-in-one AI platform for chat, image generation, video genera
 
 **Suitable roles:** Content Creator, Digital Marketing Director, Software Engineer, Graphic Designer, Copywriter
 
+#### [Yippity](https://www.aimyflow.com/en/ai/yippity-io)
+
+Yippity is an AI study tool that turns text into quizzes, flashcards, study guides, and question sets like multiple choice and open-ended items, mainly for students and educators. For teachers, tutors, and instructional designers, it can speed assessment creation and practice-material development so more time goes to instruction, feedback, and identifying knowledge gaps.
+
+**Suitable roles:** Teacher, Test Prep Tutor, Education Technology Consultant, Online Coding Tutor, Vocational School Trainer
+
 #### [Yooz AI](https://www.aimyflow.com/en/ai/yooz-ai)
 
 Yooz AI is an AI-powered LinkedIn post generator that helps users create, schedule, publish, and repurpose posts and visuals, mainly for creators and professionals building a LinkedIn presence. For marketers, recruiters, founders, and other personal-brand-focused roles, it can reduce manual content work while keeping posts more consistent and tailored to platform-specific formats.
@@ -12241,6 +17769,12 @@ Yooz AI is an AI-powered LinkedIn post generator that helps users create, schedu
 Yorph AI is an agentic data platform that helps business users and analytics teams sync, transform, analyze, and visualize data through reusable pipelines, semantic layers, and plain-language queries. For analysts, FP&A, product, and operations teams, it can reduce manual data wrangling and speed explainable, validated analysis for faster decision-making.
 
 **Suitable roles:** Financial Planning & Analysis Manager, Digital Marketing Director, Project Management Officer, COO
+
+#### [You.com](https://www.aimyflow.com/en/ai/you-com)
+
+You.com is an AI search infrastructure platform with search and agent APIs, vertical indexes, and enterprise AI solutions that help enterprise teams build trusted apps, agents, and retrieval-augmented systems with real-time, citation-backed results. For developers, product teams, and AI engineers, this can improve enterprise search, research, and answer systems by grounding LLM outputs in fresher, structured data.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Data Engineer, Project Management Officer, IT Infrastructure Manager
 
 #### [YouArt](https://www.aimyflow.com/en/ai/youart-ai)
 
@@ -12265,6 +17799,12 @@ Younet is a platform for building personalized AI agents and business chat tools
 Your Music Marketing is an ad management platform for the music industry that helps artists, labels, and music marketers launch social campaigns and track performance with AI optimization. In the AI era, it gives music promotion teams faster targeting and iteration across paid channels.
 
 **Suitable roles:** Music Lover
+
+#### [YouShift](https://www.aimyflow.com/en/ai/you-shift-com)
+
+YouShift is an AI-powered healthcare workforce platform that helps hospitals and clinician scheduling teams automate shift scheduling, staffing optimization, and workforce analytics. For healthcare operations leaders, schedulers, and department managers, it can reduce manual coordination while improving coverage, compliance, and staffing decisions with real-time workforce intelligence.
+
+**Suitable roles:** Healthcare Administrator, Project Management Officer, COO
 
 #### [YouTube Summary](https://www.aimyflow.com/en/ai/youtubesummary-com)
 
@@ -12302,11 +17842,29 @@ YTVidHub is a YouTube subtitle downloader and transcript extractor that helps us
 
 **Suitable roles:** Content Creator, Technical Writer, Social Media Content Creator, Data Scientist, Software Engineer
 
+#### [Yuanbao](https://www.aimyflow.com/en/ai/ai-qq-com)
+
+Yuanbao is Tencent’s AI assistant that helps users search connected Tencent content sources, analyze images, and answer study or everyday questions, mainly for people who want faster help with work, learning, and daily tasks. In AI-assisted research and support workflows, it can help knowledge workers, students, and customer-facing teams get more complete answers grounded in Tencent ecosystem sources.
+
+**Suitable roles:** Teacher, Content Creator, Technical Writer, Social Media Content Creator, School Counselor
+
 #### [Z.ai](https://www.aimyflow.com/en/ai/chat-z-ai)
 
 Z.ai is a free AI chatbot and agent powered by GLM-5 and GLM-4.7 that helps users chat interactively, generate websites and other content, and explore prompt-based tasks, mainly for general users, creators, and developers. For knowledge workers such as educators, bloggers, and technical creators, it can speed up drafting, idea development, and lightweight project execution in one chat-driven workspace.
 
 **Suitable roles:** Content Creator, Software Engineer, Technical Writer, Copywriter, Teacher
+
+#### [Z.ai](https://www.aimyflow.com/en/ai/zhipu-ai)
+
+Z.ai is an AI platform from Zhipu that provides GLM large models, model-as-a-service APIs, agent tools, and development features to help businesses and developers build, customize, and deploy multimodal and autonomous AI applications. For software teams, product builders, and enterprise AI functions, it can speed coding, task automation, translation, search, and content workflows through agent-oriented models and production-ready APIs.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer, CEO
+
+#### [Zams](https://www.aimyflow.com/en/ai/obviously-ai)
+
+Zams is an AI worker platform for revenue teams that automates meeting prep, CRM updates, account monitoring, and prospect research by connecting to existing sales tools. For sales, RevOps, and account teams, this can reduce time spent on admin and research so they can act faster on pipeline opportunities and customer signals.
+
+**Suitable roles:** Field Sales Manager, E-commerce Sales Head, COO, Project Management Officer, CEO
 
 #### [ZAPT](https://www.aimyflow.com/en/ai/codeask-ai)
 
@@ -12314,11 +17872,29 @@ ZAPT is a custom business app builder that creates and maintains tailored softwa
 
 **Suitable roles:** COO, Project Management Officer, Factory Operations Supervisor, Logistics Operations Planner, IT Infrastructure Manager
 
+#### [Zarna](https://www.aimyflow.com/en/ai/zarnaai-com)
+
+Zarna is an AI associate platform for private equity firms that captures and cleans deal data, automates sourcing, diligence, screening, and portfolio workflows, and delivers outputs directly into tools like Outlook, Teams, and Slack. For deal teams, associates, and investment professionals, it can reduce manual prep and preserve institutional memory by turning fragmented firm data into proactive, workflow-ready intelligence.
+
+**Suitable roles:** Financial Analyst, CEO, CFO
+
+#### [Zavo](https://www.aimyflow.com/en/ai/zavopay-com)
+
+Zavo is a hospitality operating system that unifies point of sale, payments, reservations, marketing, reporting, and AI tools to help restaurants run service and operations from one platform, with support for multi-location teams. For restaurant operators and managers, its AI voice agents and reporting can reduce manual booking and reconciliation work while improving service decisions across locations.
+
+**Suitable roles:** Restaurant General Manager, Branch Office Manager, COO, Digital Marketing Director, CEO
+
 #### [Zeemo](https://www.aimyflow.com/en/ai/zeemo-ai)
 
 Zeemo is an AI caption generator that automatically adds subtitles to videos, helping creators, entrepreneurs, and video teams improve accessibility and audience retention. In the AI era, it reduces manual captioning work so editors can publish multilingual and social-ready video faster.
 
 **Suitable roles:** Content Creator, Media Communicators, Postsecondary Teachers, School Teachers, Other Education Roles, Writers and Authors +3 more
+
+#### [Zeemo App](https://www.aimyflow.com/en/ai/zeemo-ai-zmapp)
+
+Zeemo App is an AI video and caption generator that helps users create faceless videos, automatic captions, translations, and simple video edits, mainly for content creators and social media teams. For creators, marketers, and educators, these AI features can reduce manual editing time while making videos easier to publish across languages and more accessible to wider audiences.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Teacher
 
 #### [ZEG AI](https://www.aimyflow.com/en/ai/zeg-ai)
 
@@ -12338,6 +17914,12 @@ ZeroClaw is an open-source AI assistant infrastructure project built in Rust tha
 
 **Suitable roles:** Software Engineer, IT Infrastructure Manager, Software Development Manager, Cybersecurity Manager, Data Engineer
 
+#### [ZeroEval](https://www.aimyflow.com/en/ai/zeroeval-com)
+
+ZeroEval is a self-improving layer for AI agents that captures interactions, evaluates quality with built-in or custom judges, and turns production feedback into prompt, model, or code improvements for teams building and operating agents. For AI engineers, product teams, and developer tool workflows, it helps move agent quality from one-time testing toward continuous optimization based on real usage.
+
+**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, Data Engineer, IT Infrastructure Manager
+
 #### [ZeroGPT](https://www.aimyflow.com/en/ai/zerogpt-tools)
 
 ZeroGPT is a web-based AI content detector and plagiarism checker that scans pasted or uploaded text for likely AI-generated versus human-written content, mainly for students, writers, bloggers, and other professionals reviewing articles, essays, and documents. For editors, educators, and content teams, it can speed up AI-origin screening and help focus revision or review time on passages flagged as likely machine generated.
@@ -12355,6 +17937,12 @@ ZeroTwo.ai is an AI chatbot platform that brings together major AI models, tools
 ZeroWork is a no-code RPA and web automation platform that helps agencies, businesses, and freelancers automate web scraping, lead generation, data enrichment, social media actions, and other repetitive browser tasks with AI steps and anti-bot controls. For sales, operations, and marketing teams, it can reduce manual prospecting and outreach work by combining scraping, qualification, engagement, and follow-up into scheduled workflows.
 
 **Suitable roles:** Field Sales Manager, Digital Marketing Director, Logistics Operations Planner, Talent Acquisition Manager, Software Development Manager
+
+#### [Zettascale](https://www.aimyflow.com/en/ai/zscc-ai)
+
+Zettascale is a Silicon Valley hardware company building energy-efficient, reconfigurable XPU chips for AI training and inference, mainly for teams developing advanced AI compute infrastructure. For AI hardware, compiler, and systems engineers, model-optimized dataflow and reduced memory movement can improve throughput while lowering energy use in training and inference workloads.
+
+**Suitable roles:** Electrical Engineer, Software Engineer, IT Infrastructure Manager, Software Development Manager, CEO
 
 #### [Zi Wei Dou Shu AI](https://www.aimyflow.com/en/ai/ziweiastrology-ai)
 
@@ -12374,6 +17962,18 @@ Zivy is an AI productivity tool for Slack that helps users filter noisy conversa
 
 **Suitable roles:** Software Development Manager, Project Management Officer, COO, CEO, Software Engineer
 
+#### [ZOA](https://www.aimyflow.com/en/ai/zoaresearch-com)
+
+ZOA is an AI lab building quantitative forecasting models that automate the build-test-improve modeling cycle for forecasting tasks, aimed mainly at machine learning researchers and quantitative model builders. In AI-driven research and trading workflows, this can help these professionals iterate on general forecasting models with less domain-specific manual tuning and broader use of cross-context data.
+
+**Suitable roles:** Data Scientist, Financial Analyst, Data Engineer, Software Engineer, Investment Portfolio Manager
+
+#### [Zolvo](https://www.aimyflow.com/en/ai/zolvo-com)
+
+Zolvo is an AI-powered servicing platform for commercial lenders, especially factoring, confirming, and asset-based lending teams, that automates reconciliation, portfolio monitoring, invoice validation, fraud checks, and investor reporting on top of existing systems. For servicing operations and credit teams, it can reduce manual exception review and help scale portfolio oversight with more consistent validation and anomaly detection.
+
+**Suitable roles:** Financial Analyst, Risk Analyst, CFO, Certified Public Accountant, COO
+
 #### [Zoom AI Companion](https://www.aimyflow.com/en/ai/zoom-com-en-ai-assistant)
 
 Zoom AI Companion is an AI assistant in Zoom Workplace that helps users draft emails and chat messages, summarize meetings and chat threads, and support brainstorming, mainly for teams and knowledge workers using Zoom for communication and collaboration. For managers, coordinators, and other meeting-heavy roles, it can reduce manual follow-up work and speed up decisions by turning conversations into usable summaries and draft content.
@@ -12391,6 +17991,138 @@ ZOYO is an AI-powered real estate toolkit that helps agents, brokerages, homeown
 Zust is an AI background generator for product photos that helps ecommerce brands, photographers, and marketers create polished product imagery without complex photoshoots. In the AI era, it lets commerce teams produce more campaign-ready visuals quickly while reducing studio setup effort.
 
 **Suitable roles:** Ecommerce Seller
+
+#### [华为 Cloud Marketplace](https://www.aimyflow.com/en/ai/marketplace-huaweicloud-com)
+
+华为 Cloud Marketplace is a B2B cloud marketplace for SaaS, software, hardware, website-building services, enterprise applications, APIs, and professional services, helping businesses find, trial, purchase, and deploy cloud solutions on Huawei Cloud. For IT, procurement, and digital transformation teams, its AI search and automated deployment can speed software selection and reduce manual effort in evaluating and rolling out business applications.
+
+**Suitable roles:** IT Infrastructure Manager, COO, Digital Marketing Director, Software Development Manager, CEO
+
+#### [反谱AI](https://www.aimyflow.com/en/ai/serocs-cn)
+
+反谱AI is an AI music processing tool that converts sheet music images or PDFs, audio files, and MIDI into staff notation, numbered notation, and editable music data, while also separating vocals and accompaniment for music students, musicians, and music enthusiasts. For composers, arrangers, and music educators, it can speed up transcription, score preparation, and practice-material creation from existing recordings and documents.
+
+**Suitable roles:** Content Creator, Music Lover, Teacher, Online Coding Tutor
+
+#### [壹伴](https://www.aimyflow.com/en/ai/yiban-io)
+
+壹伴 is a WeChat public account editor and operations assistant that helps users format articles, generate and optimize content, manage materials, handle messages, and analyze account data, mainly for public account operators and new media teams. Its AI writing, layout, and data analysis features can help content and social media professionals produce posts faster and make more informed publishing and optimization decisions.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator, Technical Writer
+
+#### [小米小爱开放平台](https://www.aimyflow.com/en/ai/developers-xiaoai-mi-com)
+
+小爱开放平台基于小米的硬件生态和海量数据，提供全球领先的语音识别、NLP等多项人工智能技术，为开发者提供一站式的人工智能服务
+
+**Suitable roles:** Software Engineer, Software Development Manager, Electrical Engineer, IT Infrastructure Manager, Data Engineer
+
+#### [左手医生开放平台](https://www.aimyflow.com/en/ai/open-zuoshouyisheng-com)
+
+左手医生开放平台 is an AI healthcare platform that provides medical large language model solutions, structured data tools, and intelligent clinical and patient-service applications for hospitals, pharmaceutical companies, pharmacies, insurers, and healthcare service providers. In AI-enabled healthcare operations, it can help clinicians, care teams, and medical service managers standardize documentation, streamline triage and follow-up, and improve how patient data is captured and used across care workflows.
+
+**Suitable roles:** Healthcare Administrator, Family Doctor, Medical Lab Technician, Wellness Coach, Pediatrician
+
+#### [度加剪辑](https://www.aimyflow.com/en/ai/ducut-baidu-com)
+
+度加剪辑 is a Baidu video editing tool built for knowledge creators and talking-head self-media users, helping them edit videos more easily with simple editing features, AI subtitle recognition, and support for importing materials from Baidu Netdisk. For creators, AI-assisted subtitle recognition can reduce manual editing work and speed up the production of clear, publishable educational video content.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Teacher
+
+#### [快剪辑](https://www.aimyflow.com/en/ai/kuaijianji-com)
+
+快剪辑 is a cloud-based video editing tool that helps users create and process videos online with AI features such as text-to-video editing, subtitle removal, watermark removal, translation, clipping, splicing, compression, and templates, mainly for individual creators and small to midsize businesses. For marketers, recruiters, and content teams, these AI editing and template workflows can shorten production time for promotional, hiring, and social video content.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Talent Acquisition Manager, Copywriter
+
+#### [成都潜在人工智能科技有限公司](https://www.aimyflow.com/en/ai/xingzheai-cn)
+
+Chengdu Potential Artificial Intelligence Technology Co., Ltd. develops AI products for education, entertainment, and game-related use cases, including AI music, AI art creation, game bots, intelligent agents, and AI security, mainly for enterprise and institutional teams pursuing digital transformation. In AI-driven creative and interactive work, it can help educators, game operators, and digital content teams speed up content production, testing, and risk control with more automated workflows.
+
+**Suitable roles:** Software Development Manager, Cybersecurity Manager, Graphic Designer, Content Creator, Education Technology Consultant
+
+#### [无界AI](https://www.aimyflow.com/en/ai/wujieai-com-ai)
+
+无界AI is an AI art creation and discovery platform that helps users search prompts, generate images, browse an AI gallery, and share work, mainly for creators, illustrators, and design-focused users. In AI-driven visual workflows, it can help artists and designers speed up concept exploration, reference gathering, and style testing in one place.
+
+**Suitable roles:** Graphic Designer, Content Creator, Fashion Designer, Social Media Content Creator, Industrial Designer
+
+#### [有道智云AI开放平台](https://www.aimyflow.com/en/ai/ai-youdao-com)
+
+有道智云AI开放平台 is a cloud AI platform from NetEase Youdao that provides translation, OCR, speech, and education-focused APIs and solutions for developers, enterprises, and government organizations. In AI-era workflows, it can help product, engineering, education, and operations teams automate multilingual content handling, document digitization, and speech processing with deployable services.
+
+**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager, Data Engineer
+
+#### [标小智是 an AI logo design generator that](https://www.aimyflow.com/en/ai/logosc-cn)
+
+标小智是 an AI logo design generator that helps entrepreneurs and businesses create company logos, trademarks, and related brand assets such as VI materials, business cards, and posters online. For founders, marketers, and brand designers, it can speed up early-stage brand creation by turning basic brand inputs into consistent visual assets more efficiently.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, CEO, Copywriter, Content Creator
+
+#### [标贝悦读](https://www.aimyflow.com/en/ai/yuedu-data-baker-com)
+
+标贝悦读 is an online AI voice synthesis and voice conversion tool that turns text into speech with Chinese and English mixed reading, multiple speaker styles, and dubbing controls, mainly for creators and teams producing narration for videos, tutorials, games, and audio reading. For video producers, educators, and content editors, it can speed up voiceover work by making script changes and multi-voice narration easier to produce without manual recording.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Copywriter, Online Coding Tutor, Education Technology Consultant
+
+#### [灵境AI](https://www.aimyflow.com/en/ai/lingjingai-cn)
+
+灵境AI is an AI content creation platform for turning novels and short dramas into animated or live-action-style video, with tools for storyboarding, animation, writing, and web fiction trend analysis, mainly for creators and production teams working on short dramas, animation, and adaptations. In AI-driven content workflows, it can help directors, writers, and adaptation teams speed up pre-production and reduce repetitive production work across script development and visual generation.
+
+**Suitable roles:** Content Creator, Independent Filmmaker, Copywriter, Podcast Producer, Social Media Content Creator
+
+#### [爱改写](https://www.aimyflow.com/en/ai/aigaixie-com)
+
+爱改写 is an AIGC text detection and rewriting platform that helps users check AI-generated content signals, reduce detectable AI traces, and polish writing, mainly for students, researchers, content operators, and workplace report writers. In AI-sensitive review environments, it can help academic and content teams improve submission readiness by making drafts read more naturally while supporting compliance checks, proofreading, and citation verification.
+
+**Suitable roles:** Technical Writer, Copywriter, Content Creator, College Professor, Teacher
+
+#### [犸良](https://www.aimyflow.com/en/ai/design-alipay-com-emotion)
+
+犸良 is a one-stop motion design platform from Ant Design Service Platform that helps users create animations through visual editing, templates, and creative assets, mainly for designers and operations staff with little or no motion design experience. In AI-era digital product and marketing work, it can help design and operations teams produce lightweight, performance-friendly animated content faster across pages, banners, icons, and activity scenes.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Copywriter, Content Creator, Project Management Officer
+
+#### [百度智能云一念智能创作平台](https://www.aimyflow.com/en/ai/ai-baidu-com-creativity-imageEditor)
+
+百度智能云一念智能创作平台 is an AI image creation and editing tool that helps users generate creative illustrations, wallpapers, and visual concepts from text prompts, mainly for media professionals and content creators. In AI-assisted visual production, it can help editors, designers, and creative teams turn ideas into draft assets faster for planning, publishing, and iterative content workflows.
+
+**Suitable roles:** Graphic Designer, Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter
+
+#### [秘塔写作猫](https://www.aimyflow.com/en/ai/xiezuocat-com)
+
+秘塔写作猫 is an interactive Chinese and English AI writing assistant that helps users draft, correct, rewrite, continue, and illustrate text, mainly for people creating documents and written content. For writers, editors, and knowledge workers, it can reduce routine revision time and speed up turning spoken or written prompts into clearer first drafts.
+
+**Suitable roles:** Copywriter, Technical Writer, Content Creator, Lawyer, Social Media Content Creator
+
+#### [网易见外工作台](https://www.aimyflow.com/en/ai/jianwai-youdao-com)
+
+网易见外工作台 is a Youdao work platform focused on translation display features, helping users view translated content in a workspace and mainly serving Chinese-speaking professionals who need translated text for work. In AI-assisted content and language workflows, tools like this can streamline how translators, editors, and operations teams review and present translated material.
+
+**Suitable roles:** Technical Writer, Copywriter, Content Creator, Project Management Officer
+
+#### [莫烦Python网](https://www.aimyflow.com/en/ai/mofanpy-com)
+
+莫烦Python网 is a Chinese learning website that teaches Python, data processing, machine learning, deep learning, web scraping, and coding tools, mainly for beginners and early-stage learners. In AI-focused roles such as data analysis, machine learning, and software development, it can help users build practical Python skills faster and apply common libraries and workflows more effectively.
+
+**Suitable roles:** Online Coding Tutor, Software Engineer, Data Scientist, Data Engineer, Education Technology Consultant
+
+#### [识典古籍](https://www.aimyflow.com/en/ai/shidianguji-com)
+
+识典古籍 is an online platform for searching, reading, and researching Chinese classical texts, mainly for scholars, students, and readers of ancient literature. Its OCR, punctuation, collation, translation, and AI research features can help researchers, editors, and digital humanities teams work faster with large classical text collections while preserving source access.
+
+**Suitable roles:** College Professor, Technical Writer, Education Technology Consultant, Teacher, Fiction Writer
+
+#### [通义听悟](https://www.aimyflow.com/en/ai/tingwu-cn)
+
+通义听悟 is an AI meeting and media transcription tool that converts speech to text, provides multilingual translation, distinguishes speakers, and generates summaries such as chapter overviews and action items, mainly for people who need to capture and review meetings efficiently. For project managers and similar knowledge workers, it can reduce manual note-taking and speed up turning long discussions into usable minutes and follow-up tasks.
+
+**Suitable roles:** Project Management Officer, Technical Writer, Software Development Manager, COO, Content Creator
+
+#### [集简云](https://www.aimyflow.com/en/ai/jijyun-cn)
+
+集简云 is a no-code software integration and workflow automation platform that helps businesses connect hundreds of applications, sync data, and build automated processes with AI support, mainly for enterprise teams such as marketing, sales, customer service, data analysis, and customer success. In AI-enabled operations, it can help these functions reduce manual system handoffs and standardize complex cross-system workflows without coding.
+
+**Suitable roles:** Project Management Officer, Digital Marketing Director, Field Sales Manager, Data Engineer, IT Infrastructure Manager
 
 
 </details>

@@ -63,7 +63,7 @@ const ROLE_ALIASES = {
 const LOCALE_COPY = {
   en: {
     nativeName: 'English',
-    docsTitle: 'AimyFlow Tool Directory',
+    docsTitle: 'Awesome AI Tools Directory',
     docsDescription:
       'A GitHub-friendly multilingual directory of AI tools from AimyFlow, showing each tool, what it does, and which job roles it fits.',
     generatedAt: 'Generated at',
@@ -85,15 +85,15 @@ const LOCALE_COPY = {
     notes: 'Notes',
     notesBody:
       'This GitHub page stays intentionally short and list-like. AimyFlow remains the main destination for deeper tool pages, role pages, and workflows.',
-    rootIndexTitle: 'AimyFlow Tool Directory Docs',
+    rootIndexTitle: 'Awesome AI Tools Docs',
     rootIndexIntro:
-      'A public multilingual GitHub directory of AI tools from AimyFlow, linking each tool back to its main AimyFlow page.',
+      'A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page.',
     localeIndexLabel: 'Localized directories',
     fullDirectory: 'Expand the full tool directory',
   },
   zh: {
     nativeName: '中文',
-    docsTitle: 'AimyFlow 工具目录',
+    docsTitle: 'Awesome AI 工具目录',
     docsDescription: '一个适合 GitHub 展示的多语言 AI 工具目录，列出 AimyFlow 上的工具、简介以及适合的职业。',
     generatedAt: '生成时间',
     toolsExported: '工具数量',
@@ -113,14 +113,14 @@ const LOCALE_COPY = {
     browseRoles: '浏览职业',
     notes: '说明',
     notesBody: '这里的 GitHub 页面保持简洁，以工具目录为主。更完整的工具详情、职业页和工作流内容仍以 AimyFlow 主站为准。',
-    rootIndexTitle: 'AimyFlow 工具目录文档',
-    rootIndexIntro: '这里汇总了多语言工具目录，并把每个工具链接回 AimyFlow 主站。',
+    rootIndexTitle: 'Awesome AI 工具文档',
+    rootIndexIntro: '这里汇总了多语言 AI 工具目录，并把每个工具链接回 AimyFlow 主站。',
     localeIndexLabel: '多语言目录',
     fullDirectory: '展开完整工具目录',
   },
   es: {
     nativeName: 'Español',
-    docsTitle: 'Directorio de Herramientas de AimyFlow',
+    docsTitle: 'Directorio Awesome de Herramientas IA',
     docsDescription:
       'Un directorio multilingüe y apto para GitHub de herramientas de IA de AimyFlow, con descripciones breves y roles adecuados.',
     generatedAt: 'Generado el',
@@ -142,7 +142,7 @@ const LOCALE_COPY = {
     notes: 'Notas',
     notesBody:
       'Esta página de GitHub es intencionalmente breve y orientada a directorio. AimyFlow sigue siendo el destino principal para páginas completas de herramientas, roles y workflows.',
-    rootIndexTitle: 'Documentación del Directorio de Herramientas de AimyFlow',
+    rootIndexTitle: 'Documentación Awesome de Herramientas IA',
     rootIndexIntro:
       'Un directorio público multilingüe en GitHub que enlaza cada herramienta de IA con su página principal en AimyFlow.',
     localeIndexLabel: 'Directorios localizados',
@@ -150,7 +150,7 @@ const LOCALE_COPY = {
   },
   ja: {
     nativeName: '日本語',
-    docsTitle: 'AimyFlow ツールディレクトリ',
+    docsTitle: 'Awesome AI ツールディレクトリ',
     docsDescription:
       'AimyFlow 上の AI ツールを、短い説明と適した職種つきで GitHub 向けにまとめた多言語ディレクトリです。',
     generatedAt: '生成日時',
@@ -172,7 +172,7 @@ const LOCALE_COPY = {
     notes: '補足',
     notesBody:
       'この GitHub ページは一覧性を重視して短く保っています。より詳しいツールページ、職種ページ、workflow は AimyFlow 本体にあります。',
-    rootIndexTitle: 'AimyFlow ツールディレクトリ文書',
+    rootIndexTitle: 'Awesome AI ツール文書',
     rootIndexIntro:
       '各 AI ツールを AimyFlow 本体へリンクする、多言語 GitHub ディレクトリです。',
     localeIndexLabel: '多言語ディレクトリ',
@@ -180,7 +180,7 @@ const LOCALE_COPY = {
   },
   de: {
     nativeName: 'Deutsch',
-    docsTitle: 'AimyFlow Tool-Verzeichnis',
+    docsTitle: 'Awesome KI-Tool-Verzeichnis',
     docsDescription:
       'Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen.',
     generatedAt: 'Erstellt am',
@@ -202,7 +202,7 @@ const LOCALE_COPY = {
     notes: 'Hinweise',
     notesBody:
       'Diese GitHub-Seite bleibt bewusst kurz und verzeichnisartig. AimyFlow ist weiterhin das Hauptziel für ausführliche Tool-Seiten, Rollen-Seiten und Workflows.',
-    rootIndexTitle: 'AimyFlow Tool-Verzeichnis Dokumentation',
+    rootIndexTitle: 'Awesome KI-Tool-Dokumentation',
     rootIndexIntro:
       'Ein öffentliches mehrsprachiges GitHub-Verzeichnis, das jedes KI-Tool mit seiner AimyFlow-Hauptseite verbindet.',
     localeIndexLabel: 'Lokalisierte Verzeichnisse',
@@ -210,7 +210,7 @@ const LOCALE_COPY = {
   },
   fr: {
     nativeName: 'Français',
-    docsTitle: 'Répertoire des Outils AimyFlow',
+    docsTitle: 'Répertoire Awesome des Outils IA',
     docsDescription:
       'Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés.',
     generatedAt: 'Généré le',
@@ -232,7 +232,7 @@ const LOCALE_COPY = {
     notes: 'Notes',
     notesBody:
       'Cette page GitHub reste volontairement concise et orientée annuaire. AimyFlow reste la destination principale pour les pages outils complètes, les rôles et les workflows.',
-    rootIndexTitle: 'Documentation du Répertoire des Outils AimyFlow',
+    rootIndexTitle: 'Documentation Awesome des Outils IA',
     rootIndexIntro:
       'Un répertoire GitHub multilingue qui relie chaque outil IA à sa page principale sur AimyFlow.',
     localeIndexLabel: 'Répertoires localisés',
@@ -975,8 +975,8 @@ function renderRootDocsIndex(stats) {
 
 function renderDocsSiteConfig() {
   return [
-    'title: AimyFlow Tool Directory',
-    'description: Public GitHub directory of AI tools from AimyFlow, with short descriptions and suitable roles.',
+    'title: Awesome AI Tools Directory',
+    'description: Public multilingual GitHub directory of AI tools from AimyFlow, with curated discovery and full directory links.',
     'theme: minima',
     'markdown: kramdown',
     '',
