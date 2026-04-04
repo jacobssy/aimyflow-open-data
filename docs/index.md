@@ -1,23 +1,91 @@
+---
+layout: default
+title: "Awesome AI Tools Docs"
+description: "A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page."
+lang: "en"
+---
+
 # Awesome AI Tools Docs
 
-A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page.
+<div class="landing-hero">
 
-Generated at: 2026-03-27T18:16:38.950Z
+<p class="landing-tag">GitHub Pages companion for AimyFlow</p>
 
-- Tools exported: 3027
-- Roles covered: 221
+<p class="landing-lead">A public multilingual GitHub directory of AI tools from AimyFlow, with curated GitHub discovery and links back to each main AimyFlow page.</p>
+
+<p class="landing-actions">
+  <a href="https://www.aimyflow.com">Visit AimyFlow</a>
+  <a href="https://www.aimyflow.com/en/explore">Explore AI Tools</a>
+  <a href="https://www.aimyflow.com/en/roles">Browse Roles</a>
+  <a href="https://github.com/jacobssy/awesome-aitools">View GitHub Repo</a>
+</p>
+
+</div>
+
+<div class="stats-grid">
+<div class="stat-card"><strong>3272</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
+<div class="stat-card"><strong>6</strong><span>Locales</span></div>
+</div>
+
+## Start Here
+
+- [Visit AimyFlow](https://www.aimyflow.com)
+- [Explore all AI tools on AimyFlow](https://www.aimyflow.com/en/explore)
+- [Browse roles on AimyFlow](https://www.aimyflow.com/en/roles)
+- [View the GitHub repository](https://github.com/jacobssy/awesome-aitools)
+
+## What You Can Do Here
+
+- Browse a multilingual AI tools directory without leaving GitHub Pages.
+- Jump from each listing to the full AimyFlow tool page when you want more detail.
+- Use the exported JSON files for indexing, scripting, or downstream analysis.
 
 ## Localized Directories
 
-- [English](./en/index.md)
-- [中文](./zh/index.md)
-- [Español](./es/index.md)
-- [日本語](./ja/index.md)
-- [Deutsch](./de/index.md)
-- [Français](./fr/index.md)
+<div class="locale-grid">
 
-## Data Files
+<div class="locale-card">
+<h3><a href="./en/">English</a></h3>
+<p>Awesome AI Tools Directory</p>
+</div>
 
-- [`data/tools.json`](../data/tools.json)
-- [`data/stats.json`](../data/stats.json)
+<div class="locale-card">
+<h3><a href="./zh/">中文</a></h3>
+<p>Awesome AI 工具目录</p>
+</div>
+
+<div class="locale-card">
+<h3><a href="./es/">Español</a></h3>
+<p>Directorio Awesome de Herramientas IA</p>
+</div>
+
+<div class="locale-card">
+<h3><a href="./ja/">日本語</a></h3>
+<p>Awesome AI ツールディレクトリ</p>
+</div>
+
+<div class="locale-card">
+<h3><a href="./de/">Deutsch</a></h3>
+<p>Awesome KI-Tool-Verzeichnis</p>
+</div>
+
+<div class="locale-card">
+<h3><a href="./fr/">Français</a></h3>
+<p>Répertoire Awesome des Outils IA</p>
+</div>
+
+</div>
+
+## Data and Repo
+
+- [Tools dataset](./data/tools.json)
+- [Snapshot stats](./data/stats.json)
+- [GitHub repository](https://github.com/jacobssy/awesome-aitools)
+
+## About This Site
+
+- Generated at: 2026-04-04T07:05:10.715Z
+- This GitHub Pages site is the lightweight discovery layer.
+- AimyFlow remains the full destination for complete tool pages, exploration, and multilingual browsing.
 

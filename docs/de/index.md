@@ -1,11 +1,38 @@
+---
+layout: default
+title: "Awesome KI-Tool-Verzeichnis"
+description: "Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen."
+lang: "de"
+---
+
 # Awesome KI-Tool-Verzeichnis
 
-Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen.
+<div class="landing-hero">
 
-Erstellt am: 2026-03-27T18:16:38.950Z
+<p class="landing-tag">Deutsch</p>
 
-- Exportierte Tools: 3027
-- Abgedeckte Rollen: 221
+<p class="landing-lead">Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen.</p>
+
+<p class="landing-actions">
+<a href="../">Zur Docs-Startseite</a>
+<a href="https://www.aimyflow.com/de/explore">Alle KI-Tools ansehen</a>
+<a href="../data/tools.json">Tool-Datensatz ansehen</a>
+</p>
+
+</div>
+
+<div class="stats-grid">
+<div class="stat-card"><strong>3272</strong><span>Exportierte Tools</span></div>
+<div class="stat-card"><strong>221</strong><span>Abgedeckte Rollen</span></div>
+<div class="stat-card"><strong>2026-04-04</strong><span>Erstellt am</span></div>
+</div>
+
+## Hier starten
+
+- [Zur Docs-Startseite](../)
+- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
+- [Rollen durchsuchen](https://www.aimyflow.com/de/roles)
+- [Tool-Datensatz ansehen](../data/tools.json)
 
 ## Warum es diese Seite gibt
 
@@ -13,166 +40,259 @@ Erstellt am: 2026-03-27T18:16:38.950Z
 - Kurzbeschreibung und passende Rollen pro Tool schnell prüfen.
 - Bei Bedarf direkt zur vollständigen Tool-Seite auf AimyFlow wechseln.
 
-## Hier starten
-
-- [Alle KI-Tools ansehen](https://www.aimyflow.com/de/explore)
-- [Tool-Datensatz ansehen](../../data/tools.json)
-
 ## Zuletzt hinzugefügte Tools
 
-#### [Bayesline](https://www.aimyflow.com/de/ai/bayesline-com)
+<p class="section-note">Neue Einträge mit Kurzbeschreibung und passenden Rollen.</p>
 
-Bayesline ist eine Analyseplattform für Vermögensverwalter, die Teams dabei unterstützt, benutzerdefinierte Aktienrisikomodelle zu erstellen, Backtests durchzuführen, die Faktorauswahl zu automatisieren und Portfolioberichte unter Verwendung von Anbieter- oder proprietären Daten zu generieren. Für Portfoliomanager, quantitative Forscher und Risikoteams kann der API-First-Workflow die Modelliteration beschleunigen und die Risikoanalysen an sich ändernde Marktbedingungen und interne Forschung anpassen.
+<div class="tool-card" markdown="1">
 
-**Passende Rollen:** Portfoliomanager/in, Risikoanalyst, Finanzanalyst, Data Scientist, Data Engineer
+### [Invicta AI](https://www.aimyflow.com/de/ai/invictai-io)
 
-#### [Benchify](https://www.aimyflow.com/de/ai/benchify-com)
+Invicta AI ist eine No-Code-Plattform zum Aufbau von Teams aus KI-Agenten, die komplexe Workflows über mehr als 70 Tools und führende LLMs hinweg automatisieren, vor allem für Operations-, Kundensupport-, Terminplanungs- und Entwicklerteams. In KI-gestützten Workflows kann sie diesen Fachkräften helfen, sich wiederholende mehrstufige Aufgaben mithilfe von Freigabekontrollen durch Menschen, Batch-Ausführung und konsistenteren Übergaben zwischen Systemen zu skalieren.
 
-Benchify ist eine Plattform zur Ausführung von Verträgen im Gesundheitswesen, die Vertragsbedingungen in deterministische Logik umwandelt, um Ansprüche, Zahlungen, Audits und die Vertragserfüllung für Kostenträger, Leistungserbringer, PBMs und Hersteller zu prüfen. Für Teams in den Bereichen Gesundheitsfinanzierung, Revenue Cycle, Leistungsabrechnung und Compliance kann sie den manuellen Abgleich und Zahlungsstreitigkeiten reduzieren, indem jede Transaktion in Echtzeit anhand auditierbarer Vertragsregeln geprüft wird.
+**Passende Rollen:** Projektmanagement-Beauftragter, Betriebschef, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Customer Success Manager
 
-**Passende Rollen:** Gesundheitsadministrator, Finanzanalyst, Fachkraft für medizinische Abrechnung, Risikoanalyst, Wirtschaftsprüfer
+</div>
 
-#### [BrowserOS](https://www.aimyflow.com/de/ai/browseros-com)
+<div class="tool-card" markdown="1">
 
-BrowserOS ist ein Open-Source-, datenschutzorientierter KI-Browser, der integrierte Agenten lokal ausführt, um Webaufgaben, App-Workflows und Browseraktionen anhand von Eingaben in natürlicher Sprache zu automatisieren, vor allem für Fachkräfte wie Entwickler, Forscher, Marketer, Vertriebsmitarbeiter und Assistenzen der Geschäftsleitung. In KI-gestützten Workflows kann er manuelle Klicks und die appübergreifende Koordination reduzieren, sodass diese Rollen mehr Zeit für Analyse, Kommunikation und Entscheidungsfindung aufwenden können.
+### [Kompas AI](https://www.aimyflow.com/de/ai/kompas-ai)
 
-**Passende Rollen:** Softwareentwickler, Leiter Digitales Marketing, Außendienstleiter, CEO, Grafikdesigner
+Kompas AI ist ein eingestellter B2C-KI-Forschungsdienst, der Nutzern dabei half, mithilfe von Multi-Agenten-Orchestrierung, Kontextfenster-Management und verwandten KI-Agententechniken fundierte Recherchen durchzuführen. Die geplante Ausrichtung auf Berechtigungskontrolle und Sicherheitsmanagement für KI-Agenten verdeutlicht, wie Forschende und KI-Betriebsteams neben fortschrittlichen Agenten-Workflows zunehmend auch Governance-Tools benötigen.
 
-#### [Overeasy.sh appears to be a category-based directory website that](https://www.aimyflow.com/de/ai/overeasy-sh)
+**Passende Rollen:** Data Scientist, Projektmanagement-Beauftragter, Softwareentwickler, Cybersicherheitsmanager, Technischer Redakteur
 
-Overeasy.sh scheint eine kategoriebasierte Verzeichnis-Website zu sein, die Nutzern dabei hilft, Themenseiten zu durchsuchen und Ressourcen in Bereichen wie Automobil, Finanzen, Gesundheit, Shopping und Reisen zu finden, hauptsächlich für allgemeine Webnutzer, die nach übersichtlich organisierten Links suchen. In einer KI-gesteuerten Suchumgebung können strukturierte Verzeichnisse wie dieses Marketern, Forschern und Content-Teams einen einfachen Ausgangspunkt bieten, um kategoriespezifische Quellen effizienter zu entdecken.
+</div>
 
-#### [Propaya](https://www.aimyflow.com/de/ai/propaya-com)
+<div class="tool-card" markdown="1">
 
-Propaya ist ein KI-Tool zur Mietvertragsprüfung und -abstraktion, das Fachleuten im gewerblichen Immobilienbereich dabei hilft, Mietvertragsinformationen aus hochgeladenen Dokumenten in wenigen Minuten zu extrahieren, zu analysieren und zu exportieren. Für Makler, Investoren, Immobilienverwalter und verwandte Teams kann es den manuellen Prüfaufwand und Fehler reduzieren, sodass sie sich stärker auf die Kundenarbeit, Verhandlungen und Portfolioentscheidungen konzentrieren können.
+### [Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/de/ai/contextqa-com)
 
-**Passende Rollen:** Immobilienmakler, Finanzanalyst, Projektmanagement-Beauftragter, Anwalt, Filialleiter
+Qualitätssicherung neuer Software 10-mal schneller mit der einzigen kontextbewussten KI-Testplattform. ContextQA nutzt agentische KI, um Tests vorherzusagen, zu generieren und jedes Release zu validieren.
 
-#### [LedgerUp](https://www.aimyflow.com/de/ai/ledgerup-ai)
+**Passende Rollen:** Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Cybersicherheitsanalyst
 
-LedgerUp ist eine KI-gestützte Revenue-Operations-Plattform, die Contract-to-Cash-Workflows automatisiert, darunter Abrechnung, Forderungseinzug, nutzungsbasierte Rechnungsstellung und Abstimmung, hauptsächlich für B2B-SaaS- und Enterprise-Vertriebsteams. Für Finanz-, Revenue-Operations- und Abrechnungsteams kann der KI-Assistent manuelle Nachverfolgung und systemübergreifende Arbeit reduzieren, indem er routinemäßige Debitorenaufgaben innerhalb bestehender Workflows übernimmt.
+</div>
 
-**Passende Rollen:** Finanzchef, Manager Finanzplanung & Analyse, Finanzanalyst, Betriebschef, Projektmanagement-Beauftragter
+<div class="tool-card" markdown="1">
 
-#### [ProhostAI](https://www.aimyflow.com/de/ai/prohost-ai)
+### [Cykel](https://www.aimyflow.com/de/ai/cykel-ai)
 
-ProhostAI ist ein All-in-One-KI-Assistent für Ferienwohnungsvermieter und Immobilienverwalter, der ihnen hilft, Gästekommunikation, Reinigungen, Aufgaben, digitale Reiseführer, Bewertungen und den täglichen Betrieb von Unterkünften über ein bis mehr als 300 Inserate hinweg zu automatisieren. Für Teams im Bereich der Kurzzeitvermietung kann die Zentralisierung von Kommunikation und Workflow-Automatisierung in einer KI-gestützten Plattform den manuellen Koordinationsaufwand reduzieren und die Konsistenz über alle Objekte hinweg verbessern.
+Cykel ist eine KI-Plattform für digitale Mitarbeiter, die Recruiting-, Vertriebs- und Research-Teams dabei unterstützt, Sourcing, Outreach, Follow-ups, Screening und Geschäftsanalysen mit spezialisierten Agenten wie Lucy, Eve und Samson zu automatisieren. Für Recruiter, SDRs und Analysten kann dies die routinemäßige Ausführung auf KI verlagern, sodass Teams mehr Zeit für die Beurteilung von Kandidaten, den Aufbau von Beziehungen und höherwertige Recherche haben.
 
-**Passende Rollen:** Filialleiter, Betriebschef, Projektmanagement-Beauftragter, Restaurantleiter
+**Passende Rollen:** Talent-Acquisition-Manager, Außendienstleiter, Finanzanalyst, Data Scientist, Projektmanagement-Beauftragter
 
-#### [RunLocal](https://www.aimyflow.com/de/ai/runlocal-ai)
+</div>
 
-RunLocal ist ein KI-Agent und eine Plattform zur Optimierung der Inferenz von Machine-Learning-Modellen auf Edge-Hardware und unterstützt Teams dabei, von trainierten PyTorch-Modellen zu validierten, produktionsreifen Bereitstellungen auf Geräten wie Nvidia Orin und Qualcomm-Zielplattformen zu gelangen. Für Edge-KI-Ingenieure und ML-Deployment-Teams kann es den manuellen Aufwand für Profiling, Debugging und Experiment-Tracking reduzieren, indem es iterative Optimierungs-Workflows mit gerätespezifischer Validierung und Kontext zu Hersteller-SDKs automatisiert.
+<div class="tool-card" markdown="1">
 
-**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer, Projektmanagement-Beauftragter
+### [Dosu](https://www.aimyflow.com/de/ai/dosu-dev)
 
-#### [Sharpe](https://www.aimyflow.com/de/ai/sharpe-sh)
+Dosu ist eine KI-Dokumentationsplattform, die automatisch Dokumentation aus Code, Tickets, Reviews und Gesprächen erstellt, pflegt und veröffentlicht, hauptsächlich für Engineering-Teams und Organisationen, die technisches Wissen verwalten. In KI-gestützter Softwarearbeit hilft sie Engineering-, Support- und Produktteams, genauen Kontext für Menschen und KI-Agenten verfügbar zu halten, wodurch veraltete Dokumentation und wiederholte Fragen reduziert werden.
 
-Sharpe ist ein Jupyter-nativer KI-Forschungsagent für quantitative Finanzanalyse, der Quants, Portfoliomanagern, Händlern und Forschern dabei hilft, mehrstufige Analysen auf großen Finanzdatensätzen durchzuführen und vollständig zitierte, reproduzierbare Notebooks zu erstellen. Für Teams in der quantitativen Forschung kann er den manuellen Analyseaufwand reduzieren und gleichzeitig die Konsistenz, Nachvollziehbarkeit und Wiederverwendung firmenspezifischer Methoden über Studien hinweg verbessern.
+**Passende Rollen:** Softwareentwicklungsleiter, Softwareentwickler, Technischer Redakteur, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
 
-**Passende Rollen:** Portfoliomanager/in, Data Scientist, Finanzanalyst, Data Engineer, Softwareentwickler
+</div>
 
-#### [Zettascale](https://www.aimyflow.com/de/ai/zscc-ai)
+<div class="tool-card" markdown="1">
 
-Zettascale ist ein Hardwareunternehmen aus dem Silicon Valley, das energieeffiziente, rekonfigurierbare XPU-Chips für KI-Training und -Inferenz entwickelt, vor allem für Teams, die fortschrittliche KI-Recheninfrastruktur aufbauen. Für KI-Hardware-, Compiler- und Systemingenieure können modelloptimierter Datenfluss und reduzierte Speicherbewegung den Durchsatz verbessern und gleichzeitig den Energieverbrauch bei Trainings- und Inferenz-Workloads senken.
+### [Dot](https://www.aimyflow.com/de/ai/getdot-ai)
 
-**Passende Rollen:** Elektroingenieur, Softwareentwickler, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, CEO
+Dot ist ein KI-Datenanalyst, der Teams dabei hilft, Datenfragen schnell zu beantworten und umsetzbare Erkenntnisse über Chat, tiefgehende Analysen und automatisierte Berichte zu gewinnen, vor allem für Organisationen, die einen breiteren Zugang zu Datenerkenntnissen über Slack, Microsoft Teams und E-Mail ermöglichen möchten. In KI-gestützten Arbeitsumgebungen kann es Daten- und Business-Teams helfen, routinemäßige Reporting-Arbeiten zu reduzieren und die Entscheidungsfindung für nichttechnische Kollegen zu beschleunigen.
 
-#### [NetworkOcean](https://www.aimyflow.com/de/ai/networkocean-io)
+**Passende Rollen:** Finanzanalyst, Projektmanagement-Beauftragter, CEO, Betriebschef
 
-NetworkOcean baut und betreibt schwimmende Rechenzentrumsbargen und Unterwasser-Rechenzentrumskapseln, die flüssigkeitsgekühlte GPU-Infrastruktur mit hoher Dichte, geringerem Energieverbrauch und ohne Wasserverbrauch bereitstellen, hauptsächlich für Organisationen mit Bedarf an KI-Rechenkapazität. Für Teams in den Bereichen KI-Infrastruktur, Rechenzentrum und HPC kann dieses Modell die Planung des GPU-Einsatzes und die Betriebseffizienz für dichte Workloads wie NVL72-, GB200- und H100/200-Systeme verbessern.
+</div>
 
-**Passende Rollen:** IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Betriebschef, Projektmanagement-Beauftragter, Data Engineer
+<div class="tool-card" markdown="1">
 
-#### [Pharos](https://www.aimyflow.com/de/ai/pharos-health)
+### [Gumloop](https://www.aimyflow.com/de/ai/gumloop-com)
 
-Pharos ist eine KI-gestützte Plattform für Krankenhausqualität und Patientensicherheit, die die Aktenabstraktion, Berichterstattung, Ursachenanalysen, Audits und die Nachverfolgung von Qualitätsverbesserungen für Qualitäts- und Risikoteams in Krankenhäusern automatisiert. Für klinische Gutachter, Führungskräfte im Bereich Patientensicherheit und Mitarbeitende der Qualitätsverbesserung kann sie den manuellen Aktenprüfungsaufwand reduzieren und die Gewinnung von Erkenntnissen beschleunigen, sodass Teams schneller auf Sicherheitsereignisse und Leistungslücken reagieren können.
+Gumloop ist ein No-Code-Framework für KI-Automatisierung zum Erstellen und Hosten von Geschäftsautomatisierungen und spezialisierten Agenten, vor allem für Teams in den Bereichen Operations, Vertrieb, Support und datenintensive Unternehmens-Workflows. In KI-gestützter Arbeit kann es Funktionen wie Analysten, Support-Leitern und Vertriebsteams dabei helfen, wiederkehrende Aufgaben zu automatisieren und gemeinsame Daten schneller zu nutzen, ohne so stark auf Engineering angewiesen zu sein.
 
-**Passende Rollen:** Gesundheitsadministrator, Spezialist für Arbeitsmedizin, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+**Passende Rollen:** Projektmanagement-Beauftragter, Außendienstleiter, Finanzanalyst, Softwareentwicklungsleiter, Data Engineer
 
-#### [Sage](https://www.aimyflow.com/de/ai/sagecare-ai)
+</div>
 
-Sage ist ein KI-natives CRM- und Intake-Workflow-Automatisierungstool für ambulante Pflegedienste, das Intake-Anrufe und Hausbesuche in Transkripte, Pflegepläne, Follow-ups und synchronisierte Datensätze umwandelt. Für Intake-Koordinatoren, Agenturverantwortliche und Pflegemanager kann es den manuellen Dokumentationsaufwand reduzieren und die Aufnahme neuer Klienten beschleunigen, während die Daten in Pflegemanagementsystemen aktuell bleiben.
+<div class="tool-card" markdown="1">
 
-**Passende Rollen:** Gesundheitsadministrator, Häusliche Pflegekraft, Betriebschef, Projektmanagement-Beauftragter
+### [Autopilot](https://www.aimyflow.com/de/ai/codeautopilot-com)
 
-#### [Saldor](https://www.aimyflow.com/de/ai/saldor-com)
+Autopilot ist ein KI-Programmierassistent für GitHub, der Softwareentwicklern und Engineering-Teams dabei hilft, Fehler zu beheben, Probleme in Pull Requests zu besprechen, Implementierungspläne zu erstellen und Codeänderungen innerhalb ihres bestehenden Workflows zusammenzufassen. Für Entwickler und Code-Reviewer kann dies Kontextwechsel verringern und die Problemlösung sowie die Analyse von Pull Requests beschleunigen, indem KI-Unterstützung direkt in GitHub-Threads eingebracht wird.
 
-Saldor ist ein Tool für die Praxisschulung, das HLK-, Solar- und andere Serviceteams im Handwerk dabei unterstützt, neue Mitarbeitende durch freihändige Unterstützung vor Ort schneller zu produktiven Technikerinnen und Technikern zu machen. In einem KI-gestützten Workflow kann es Ausbildern, Betriebsleitern und Außendienstmanagern helfen, die Einarbeitung zu standardisieren und Anweisungen direkt bei der Arbeit zu festigen.
+**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
 
-**Passende Rollen:** Produktionsleiter, Betriebschef, Talent-Acquisition-Manager, Projektmanagement-Beauftragter, Berufsschuldozent
+</div>
 
-#### [Voker](https://www.aimyflow.com/de/ai/voker-ai)
+<div class="tool-card" markdown="1">
 
-Voker ist ein Analysetool für Conversational-AI-Agenten, das Teams dabei hilft, Erkenntnisse aus Gesprächen in Optimierungen umzusetzen, ohne Protokolle durchsuchen zu müssen, und richtet sich vor allem an Personen, die KI-Agenten entwickeln und verbessern. Da KI-Agenten in Kunden- und Produkt-Workflows zunehmend zentral werden, kann es KI-Ingenieuren und Conversational Designern helfen, Probleme schneller zu erkennen und die Leistung von Agenten effizienter zu optimieren.
+### [BrainSoup](https://www.aimyflow.com/de/ai/nurgo-software-com-products-brainsoup)
 
-**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
+BrainSoup ist eine Windows-Desktop-KI-Plattform zum Erstellen benutzerdefinierter KI-Agenten, die Aufgaben automatisieren, Tools nutzen, in Multi-Agenten-Workflows zusammenarbeiten und auf Ihre eigenen Daten zugreifen – vor allem für Fachkräfte und Teams, die kontrollierte, private Workflow-Automatisierung wünschen. Für Entwickler, den IT-Betrieb und Wissensarbeiter kann sie die Produktivität steigern, indem sie Anweisungen in natürlicher Sprache in wiederverwendbare Automatisierungen umwandelt und dabei die Datenverarbeitung stärker lokal und kontrolliert hält.
 
-#### [Cloudglue](https://www.aimyflow.com/de/ai/cloudglue-dev)
+**Passende Rollen:** Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Softwareentwickler, Betriebschef
 
-Cloudglue ist eine entwicklerorientierte API, die Video und Audio in strukturierte, durchsuchbare, KI-fähige Daten umwandelt, um Teams beim Aufbau videofähiger Anwendungen wie Chatbots, Analysetools und Extraktions-Workflows zu unterstützen. Für KI-Ingenieure und Produktentwickler kann es die Informationsabfrage, die Beantwortung von Fragen und die automatisierte Analyse verbessern, indem Videoinhalte als Kontext für LLM-basierte Systeme nutzbar gemacht werden.
+</div>
 
-**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, Technischer Redakteur, Projektmanagement-Beauftragter
+<div class="tool-card" markdown="1">
 
-#### [CreativeMode](https://www.aimyflow.com/de/ai/creativemode-net)
+### [Butternut.ai](https://www.aimyflow.com/de/ai/butternut-ai)
 
-CreativeMode ist eine No-Code-Plattform zum Erstellen und Teilen von Minecraft-Mods und -Add-ons, die sich hauptsächlich an Minecraft-Spieler, Mod-Ersteller und Community-Maker richtet. In Workflows zur Spieleentwicklung im KI-Zeitalter kann sie Kreativen helfen, Gameplay-Ideen schneller zu prototypisieren und interaktive Inhalte zu veröffentlichen, ohne Programmierkenntnisse zu benötigen.
+Butternut.ai ist ein KI-Website-Builder, der kleinen Unternehmen, Freelancern und Gründern hilft, in Sekundenschnelle professionelle Unternehmens- oder Portfolio-Websites zu erstellen und zu veröffentlichen – mit integriertem Hosting, SSL, SEO, Blog-Generierung und Chatbot-Funktionen. Für Inhaber kleiner Unternehmen und Marketingverantwortliche kann dies den manuellen Aufwand für den Start und die Aktualisierung einer Webpräsenz reduzieren, während KI die Content-Erstellung und Lead-Generierung unterstützt.
 
-**Passende Rollen:** Content Creator, Softwareentwickler, Online-Programmierlehrer, Lehrkraft
+**Passende Rollen:** Leiter Digitales Marketing, CEO, E-Commerce-Verkäufer, Texter, Content Creator
 
-#### [Praxos](https://www.aimyflow.com/de/ai/mypraxos-com)
+</div>
 
-Praxos ist ein persönliches Assistenten-Tool, mit dem Nutzer per Textanweisung von ihrem Smartphone oder Computer aus Anweisungen senden können, damit es sich mit Apps verbindet, Aufgaben erledigt, Antworten verschickt und den Überblick über Aufgaben behält, vor allem für vielbeschäftigte Einzelpersonen und Inhaber kleiner Unternehmen. In KI-gestützten Arbeitsabläufen kann es Managern, operativen Teams und kundenorientierten Teams helfen, weniger Aufgaben zu übersehen und routinemäßige Nachverfolgung zu reduzieren, indem alltägliche Aktionen automatisiert werden.
+<div class="tool-card" markdown="1">
 
-**Passende Rollen:** Projektmanagement-Beauftragter, Restaurantleiter, Filialleiter, CEO
+### [Codegen](https://www.aimyflow.com/de/ai/codegen-com)
 
-#### [Vera Health](https://www.aimyflow.com/de/ai/vera-health-ai)
+Codegen ist ein Betriebssystem für Code-Agenten, das Entwicklungsteams dabei unterstützt, autonome Agenten bereitzustellen, um Aufgaben zu planen, Code zu schreiben, Tests und Dokumentationen zu erstellen und reviewfähige Pull Requests mit vollständigem Codebase-Kontext zu erzeugen. Für Softwareentwickler, Engineering-Leads und Produktteams kann es den manuellen Implementierungs- und Triage-Aufwand verringern, indem es KI-Agenten direkt mit Repositories, Issue-Trackern und Team-Workflows verbindet.
 
-Vera Health ist eine KI-gestützte Suchmaschine zur klinischen Entscheidungsunterstützung, die approbierten Klinikern und Auszubildenden hilft, prägnante, evidenzbasierte Antworten, Differentialdiagnosen, Behandlungspläne und klinische Berechnungen aus begutachteter medizinischer Fachliteratur und Leitlinien zu finden. Für Ärzte, PAs, Apotheker und andere direkt am Patienten tätige Kliniker kann sie die Klärung von Fragen beschleunigen und gleichzeitig Empfehlungen durch verlinkte Quellen und Evidenzbewertungen nachvollziehbar machen.
+**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, CEO
 
-**Passende Rollen:** Hausarzt, Kardiologe, Kinderarzt, Gesundheitsadministrator, Medizinische/r Labortechniker/in
+</div>
 
-#### [Winfunc](https://www.aimyflow.com/de/ai/winfunc-com)
+<div class="tool-card" markdown="1">
 
-Winfunc ist ein KI-gestütztes Sicherheitsprüfungs-Tool, das Codebasen und Systeme scannt, um echte Schwachstellen zu finden, Exploit-Proof-of-Concepts zu generieren und codepfadspezifische Patch-Anleitungen bereitzustellen, vor allem für Softwareentwicklungs- und Sicherheitsteams. In KI-gesteuerten AppSec-Workflows können seine durch Proofs gestützten Erkenntnisse Entwicklern, Security Engineers und technischen Führungskräften helfen, ausnutzbare Probleme schneller zu priorisieren und Korrekturen auszuliefern, wobei weniger Zeit für die Validierung von Scanner-Fehlalarmen aufgewendet werden muss.
+### [AgentScale AI](https://www.aimyflow.com/de/ai/agentscale-ai)
 
-**Passende Rollen:** Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in
+AgentScale AI ist eine Automatisierungsplattform und ein Dienstleistungsanbieter, der Unternehmen dabei hilft, Arbeitsabläufe mithilfe von robotergestützter Prozessautomatisierung, großen Sprachmodellen und KI-Agenten zu optimieren, hauptsächlich für Unternehmen, die operative Automatisierung anstreben. Für Teams in den Bereichen Betrieb, Prozesse und digitale Transformation können diese KI-gestützten Tools die manuelle Bearbeitung von Aufgaben reduzieren und eine besser skalierbare Ausführung von Workflows unterstützen.
 
-#### [Bluedoor](https://www.aimyflow.com/de/ai/bluedoor-sh)
+**Passende Rollen:** Betriebschef, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Berater für Bildungstechnologie
 
-Bluedoor ist ein terminalbasiertes Tool für die Aktienanalyse, das Investoren dabei hilft, Wertpapierrecherchen durchzuführen, Unternehmen zu vergleichen, Ideen zu backtesten und Trading-Workflows mithilfe von Hunderten von Datenquellen an einem Ort zu unterstützen. Für Investoren und forschungsorientierte Finanzexperten kann der Terminal-Workflow die Analyse beschleunigen, das Wechseln zwischen Tabs reduzieren und es erleichtern, quellenübergreifende Erkenntnisse umzusetzen.
+</div>
 
-**Passende Rollen:** Portfoliomanager/in, Finanzanalyst, Data Scientist, Softwareentwickler
+<div class="tool-card" markdown="1">
 
-#### [Ligo Biosciences](https://www.aimyflow.com/de/ai/ligo-bio)
+### [AskYourDatabase](https://www.aimyflow.com/de/ai/askyourdatabase-com)
 
-Ligo Biosciences ist eine KI-Plattform für Enzymdesign, die Deep-Learning- und generative Modelle einsetzt, um neue Proteine zu entwickeln und Enzyme für die Industrie zu optimieren, vor allem für Biochemiker, Chemiker und Teams im Protein-Engineering. In der KI-gestützten Forschung und Entwicklung kann sie wissenschaftlichen und chemischen Innovationsteams dabei helfen, Enzymkandidaten vor der experimentellen Validierung schneller zu iterieren.
+AskYourDatabase ist ein KI-Datenanalyst und SQL-Chatbot, mit dem Nutzer eine Verbindung zu unterstützten Datenbanken herstellen, Fragen in einfachem Englisch stellen und Abfragen, Visualisierungen und Dashboards erstellen können – hauptsächlich für nichttechnische Geschäftsanwender und Teams, die Daten untersuchen. In KI-gestützten Analyse-Workflows kann es Analysten, Support-, Vertriebs- und Managementteams dabei helfen, schneller Ad-hoc-Erkenntnisse zu gewinnen und gleichzeitig die routinemäßige SQL-Erstellung sowie den Abstimmungsaufwand mit BI- oder Engineering-Teams zu reduzieren.
 
-**Passende Rollen:** Molekularbiologe, Chemiker, Data Scientist, Angewandter Mathematiker, Softwareentwickler
+**Passende Rollen:** CEO, Außendienstleiter, Softwareentwickler, Projektmanagement-Beauftragter
 
-#### [Orca](https://www.aimyflow.com/de/ai/orcaengine-ai)
+</div>
 
-Orca ist ein KI-gestütztes Minecraft-Modding-Tool, das Nutzern hilft, Mods, 3D-Modelle, Gegenstände, Blöcke, Skins und benutzerdefinierte Verhaltensweisen aus natürlichsprachigen Eingaben zu erstellen, hauptsächlich für Minecraft-Ersteller und Modder. Durch die Generierung von Code, Texturen und Modellen sowie die Unterstützung beim Testen und Veröffentlichen kann es Mod-Entwicklern und Erstellern von Spielinhalten helfen, Ideen schneller und mit weniger manuellem Aufwand in spielbare Assets umzusetzen.
+<div class="tool-card" markdown="1">
 
-**Passende Rollen:** Softwareentwickler, Grafikdesigner, Content Creator, Industriedesigner/in, Technischer Redakteur
+### [Bardeen](https://www.aimyflow.com/de/ai/bardeen-ai)
 
-#### [Planbase](https://www.aimyflow.com/de/ai/joinplanbase-com)
+Bardeen ist eine KI-gestützte Automatisierungs- und Workflow-Plattform, die GTM-Teams dabei unterstützt, Leads durch Web Scraping, KI-Suche und Anreicherung von Kontaktdaten zu finden, zu qualifizieren, anzureichern und zu exportieren. Für Vertrieb, Recruiting, Revenue Operations und ähnliche, stark auf Akquise ausgerichtete Rollen kann sie manuelle Recherche und Dateneingabe reduzieren, sodass sich Teams stärker auf Priorisierung, Outreach und den Aufbau der Pipeline konzentrieren können.
 
-Planbase ist eine KI-gestützte Plattform für das Personalmanagement im Gesundheitswesen, die Gesundheitsorganisationen dabei hilft, das Onboarding von Leistungserbringern, die Dienstplanung, das Credentialing, die Lohnabrechnung, Prognosen und die Personalanalyse zu optimieren. Für Teams in den Bereichen Leistungserbringerbetrieb, Praxismanagement und Personalplanung können die KI-gesteuerten Workflows den manuellen Verwaltungsaufwand reduzieren und Entscheidungen zu Personalbesetzung, Compliance und Auslastung verbessern, wenn sich der Bedarf verändert.
+**Passende Rollen:** Außendienstleiter, Talent-Acquisition-Manager, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter
 
-**Passende Rollen:** Gesundheitsadministrator, Betriebschef, Projektmanagement-Beauftragter, Manager für Vergütung & Zusatzleistungen, Wirtschaftsprüfer
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Beam AI](https://www.aimyflow.com/de/ai/beam-ai)
+
+Beam AI ist eine agentenbasierte Automatisierungsplattform, die Unternehmen dabei unterstützt, dokumentierte Prozesse in selbstlernende KI-Agenten für Abläufe wie HR, Finanzen und Kundenservice umzuwandeln, insbesondere für Betriebsleiter und Unternehmensteams. Für HR-, Finanz- und Kundenservice-Funktionen kann sie die Bearbeitung repetitiver Workflows reduzieren, während bei kritischen Aufgaben die menschliche Freigabe erhalten bleibt und die Prozesskonsistenz im Laufe der Zeit verbessert wird.
+
+**Passende Rollen:** Betriebschef, Projektmanagement-Beauftragter, Manager Mitarbeiterbeziehungen, Manager Finanzplanung & Analyse, Gesundheitsadministrator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [BLACKBOX AI](https://www.aimyflow.com/de/ai/blackbox-ai)
+
+BLACKBOX AI ist eine KI-Coding-Plattform mit einer nativen IDE, CLI, Cloud-Agenten, mobilen App und API, die Softwareteams dabei hilft, Code schneller zu erstellen, zu testen, zu prüfen, bereitzustellen und auszuliefern, hauptsächlich für Entwickler und Engineering-Teams. In KI-gestützten Software-Workflows kann sie Ingenieuren und DevOps-Teams helfen, manuelle Übergaben zu reduzieren, indem sie parallele Coding-Agenten ausführt und die stärksten Ergebnisse in review-fertige Änderungen überführt.
+
+**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Ability.ai](https://www.aimyflow.com/de/ai/ability-ai)
+
+Ability.ai ist ein Anbieter von KI-Lösungen, der maßgeschneiderte Agentensysteme für die Geschäftsautomatisierung entwickelt und Unternehmen dabei hilft, Workflows in Support, Vertrieb, Recruiting, Marketing, Finanzen, IT und Entwicklung mithilfe ihrer bestehenden Tools und Regeln zu automatisieren. Für Operations-, Support- und Revenue-Teams kann dies die Einführung von KI verbessern, indem Geschäftslogik in eine kontrollierte, auditierbare Workflow-Ausführung überführt wird, anstatt sich auf eigenständige Chatbots zu verlassen.
+
+**Passende Rollen:** Betriebschef, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Leiter Digitales Marketing
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [SWE-agent](https://www.aimyflow.com/de/ai/swe-agent-com)
+
+SWE-agent ist ein Open-Source-Agenten-Framework mit einer Dokumentationssammlung, das Entwicklerinnen und Entwicklern sowie Forschenden dabei hilft, Sprachmodelle zu nutzen, um Probleme in GitHub-Repositories autonom zu beheben, Cybersicherheitslücken zu finden und benutzerdefinierte Software-Engineering-Aufgaben auszuführen. Für Softwareingenieurinnen und -ingenieure, Sicherheitsforschende und KI-Forschende kann diese Art von Werkzeug das Debugging und Experimentieren auf Repository-Ebene optimieren, indem Modelle über konfigurierbare Werkzeuge handeln, anstatt nur Code zu erzeugen.
+
+**Passende Rollen:** Softwareentwickler, Cybersicherheitsanalyst, Softwareentwicklungsleiter, Data Scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Vanna AI](https://www.aimyflow.com/de/ai/vanna-ai)
+
+Vanna AI ist ein Open-Source-SQL-Agenten-Framework, das Teams dabei hilft, produktionsreife KI-Agenten zu entwickeln, um Unternehmensdatenbanken und führende Systeme per natürlicher Sprache abzufragen, insbesondere für Entwickler, Datenteams und Organisationen, die Daten für Nicht-SQL-Nutzer zugänglich machen. In KI-gestützten Analytics-Workflows kann es den manuellen SQL-Aufwand reduzieren und gleichzeitig den kontrollierten Datenzugriff, die Beobachtbarkeit und die Unterstützung mehrerer Datenbanken für Produkt-, Daten- und Engineering-Funktionen verbessern.
+
+**Passende Rollen:** Data Engineer, Data Scientist, Softwareentwickler, IT-Infrastrukturmanager/in, Finanzanalyst
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Web3GPT](https://www.aimyflow.com/de/ai/w3gpt-ai)
+
+Web3GPT ist ein KI-Tool, das Nutzern hilft, Prompts für Smart Contracts zu erstellen, KI-Agenten zu entwickeln und direkt aus dem Chat onchain bereitzustellen – hauptsächlich für Web3-Entwickler und Smart-Contract-Builder. In KI-gestützten Blockchain-Workflows kann es Boilerplate reduzieren und die Ausarbeitung und Bereitstellung von Verträgen für Entwicklerteams, die an Onchain-Anwendungen arbeiten, beschleunigen.
+
+**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, CEO, Projektmanagement-Beauftragter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Wren AI](https://www.aimyflow.com/de/ai/getwren-ai)
+
+Wren AI ist eine generative Business-Intelligence- und Embedded-Analytics-Plattform, die Fragen in natürlicher Sprache für Datenteams, Produktteams, Führungskräfte und SaaS-Unternehmen in SQL, Diagramme und Erkenntnisse umwandelt. In KI-gestützten Analytics-Workflows kann sie Analysten und Produktteams dabei helfen, den manuellen SQL-Aufwand zu reduzieren und Business-Anwendern zugleich schnelleren Zugang zu kontrollierten, nachvollziehbaren Antworten zu geben.
+
+**Passende Rollen:** Softwareentwickler, CEO, Projektmanagement-Beauftragter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Cognee](https://www.aimyflow.com/de/ai/prometh-ai)
+
+Cognee ist eine Open-Source-KI-Memory-Engine, die Ingenieuren hilft, adaptive KI-Agenten zu entwickeln, indem sie Daten für Abruf, Schlussfolgerungen und feedbackbasiertes Lernen in einen Wissensgraphen umwandelt. Für KI-Ingenieure und Entwickler kann dies die Abhängigkeit von einfachen RAG-Pipelines verringern und die Antwortqualität, Personalisierung und die Ausführung mehrstufiger Aufgaben im Laufe der Zeit verbessern.
+
+**Passende Rollen:** Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [GPT-Migrate](https://www.aimyflow.com/de/ai/gpt-migrate-com)
+
+GPT-Migrate ist ein Code-Migrationsdienst, der Nutzern hilft, komplexe Codebasen von einer Sprache oder einem Framework in ein anderes zu überführen, vor allem für Teams und Entwickler, die die Modernisierung von Software verwalten. In einem KI-gestützten Entwicklungsworkflow kann er Softwareingenieuren und technischen Leitern helfen, den manuellen Refactoring-Aufwand bei der Planung groß angelegter Migrationen zu reduzieren.
+
+**Passende Rollen:** Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Data Engineer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Interpreter](https://www.aimyflow.com/de/ai/openinterpreter-com)
+
+Interpreter ist ein Desktop-KI-Agent, der Nutzern beim Lesen, Bearbeiten und Erstellen von Word-, Excel-, PDF- und Markdown-Dokumenten hilft, insbesondere Wissensarbeitern mit dokumentenintensiven Aufgaben. Für Teams in den Bereichen Betrieb, Finanzen und Verwaltung kann er den manuellen Dokumentenaufwand reduzieren, indem er Dateien, Formulare, Belege und Transkripte in strukturierte Ausgaben und bearbeitbare Berichte umwandelt.
+
+**Passende Rollen:** Finanzanalyst, Projektmanagement-Beauftragter, Wirtschaftsprüfer, Betriebschef, Fachkraft für medizinische Abrechnung
+
+</div>
 
 
 ## Alle Tools
 
-<details>
-<summary>Vollständiges Tool-Verzeichnis öffnen (3027)</summary>
+<details markdown="1">
+<summary>Vollständiges Tool-Verzeichnis öffnen (3272)</summary>
 
-_Kompakte Ansicht für schnelleres Durchsehen._
+<p class="section-note">_Kompakte Ansicht für schnelleres Durchsehen._</p>
 
-- **[10Web](https://www.aimyflow.com/de/ai/10web-io)**
-  - 10Web ist eine KI-gestützte Website-Erstellungs- und verwaltete WordPress-Plattform, die Unternehmen, Agenturen und Wiederverkäufern dabei hilft, Websites oder E-Commerce-Shops mit White-Label- und API-Optionen zu...
-  - *Passende Rollen:* Leiter Digitales Marketing, Softwareentwicklungsleiter, E-Commerce-Verkäufer, CEO +1 mehr
+<div class="directory-list" markdown="1">
 
 - **[10x Science](https://www.aimyflow.com/de/ai/10xscience-com)**
   - 10x Science ist KI-native Software für Wissenschaftler, die dabei hilft, Proteine zu charakterisieren und Omics-Daten im großen Maßstab zu analysieren, mit Funktionen für Peptid-Mapping, de-novo-Sequenzierung,...
@@ -185,6 +305,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[123RF](https://www.aimyflow.com/de/ai/123rf-com)**
   - 123RF ist eine Stock-Media-Plattform, die Marketing-, Design- und Content-Teams hilft, schnell Fotos, Vektoren, Illustrationen und lizenzfreie Bilder für Kampagnen und Kreativprojekte zu finden. Im KI-Zeitalter...
   - *Passende Rollen:* Content Creator, Kunst- und Designfachkräfte, Medien- und Kommunikationsfachkräfte, Schriftsteller und Autoren +2 mehr
+
+- **[14.ai](https://www.aimyflow.com/de/ai/14-ai)**
+  - 14.ai ist eine KI-native Kundenservice-Agentur, die B2C-Marken dabei unterstützt, End-to-End-Supportprozesse mit autonomen KI-Agenten und menschlicher Concierge-Überwachung über Kanäle wie E-Mail, Chat, Sprache und...
+  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Betriebschef, Projektmanagement-Beauftragter, Leiter Digitales Marketing +1 mehr
 
 - **[15Minutes](https://www.aimyflow.com/de/ai/15minutes-ai)**
   - 15Minutes ist eine Plattform für Buchzusammenfassungen und -analysen mit über 5.000 Titeln, die Leserinnen und Lesern hilft, Bücher durch 15-minütige Kurzfassungen, PDFs, Hörbücher und Kapitelübersichten schnell zu...
@@ -202,13 +326,16 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - 1of10 ist ein KI-gestütztes YouTube-Wachstumstool, das Creatorn hilft, Ausreißer-Videos zu finden, Thumbnail-Konzepte zu entwickeln und Titel sowie Ideen zu erarbeiten – vor allem für YouTuber und Channel-Teams. Für...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Grafikdesigner +1 mehr
 
+- **[1stCollab](https://www.aimyflow.com/de/ai/1stcollab-com)**
+  - 1stCollab ist ein KI-gestützter Influencer-Marktplatz, der Kreativen dabei hilft, passende Markenpartnerschaften zu finden, sich schnell zu bewerben, ein sich automatisch aktualisierendes Media Kit zu pflegen und...
+  - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Texter +1 mehr
+
+- **[222](https://www.aimyflow.com/de/ai/222-place)**
+  - 222 ist eine Social-Planning-App, die Menschen dabei hilft, neue Leute kennenzulernen, lokale Aktivitäten zu entdecken und Beziehungen zu vertiefen, indem sie Veranstaltungen wie Abendessen und Comedy mit gut passenden...
+
 - **[2pr](https://www.aimyflow.com/de/ai/2pr-io)**
   - 2pr ist ein KI-gestützter LinkedIn-Post-Generator und ein Tool für Content-Workflows, das Nutzern hilft, Post-Ideen zu finden, authentische LinkedIn-Posts zu schreiben, Karussells zu erstellen sowie Inhalte zu planen...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Texter, CEO +1 mehr
-
-- **[2PR LinkedIn Carousel Generator](https://www.aimyflow.com/de/ai/2pr-io-carousel)**
-  - 2PR LinkedIn Carousel Generator ist ein KI-gestütztes Tool, das Artikel, Notizen, Videos und andere Quellinhalte in bearbeitbare LinkedIn-Karussellfolien und PDFs umwandelt, hauptsächlich für Gründer, B2B-Vertriebs-...
-  - *Passende Rollen:* Leiter Digitales Marketing, Social-Media-Content-Creator, Texter, Content Creator +1 mehr
 
 - **[2short.ai](https://www.aimyflow.com/de/ai/2short-ai)**
   - 2short.ai ist ein KI-Generator für YouTube Shorts, der Creatorn hilft, lange YouTube-Videos in kurze Clips mit extrahierten Highlights, Untertiteln, Gesichtserkennung und flexiblen Seitenverhältnissen umzuwandeln, vor...
@@ -225,6 +352,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[a0.dev](https://www.aimyflow.com/de/ai/a0-dev)**
   - a0.dev ist ein KI-gestützter Mobile-App-Builder, der Nutzern dabei hilft, iOS- und Android-Apps von einer einzigen Plattform aus zu erstellen, zu veröffentlichen, zu monetarisieren und zu verfolgen, vor allem für...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, Content Creator +1 mehr
+
+- **[Ability.ai](https://www.aimyflow.com/de/ai/ability-ai)**
+  - Ability.ai ist ein Anbieter von KI-Lösungen, der maßgeschneiderte Agentensysteme für die Geschäftsautomatisierung entwickelt und Unternehmen dabei hilft, Workflows in Support, Vertrieb, Recruiting, Marketing, Finanzen,...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Abook.ai](https://www.aimyflow.com/de/ai/abook-ai)**
   - Abook.ai ist eine Plattform für Buchzusammenfassungen, die Nutzerinnen und Nutzern hilft, schnell aus Sachbüchern zu lernen – durch Zusammenfassungen, Podcasts sowie PDF- oder EPUB-Downloads, vor allem für Leserinnen...
@@ -294,6 +425,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AdsTurbo ist ein KI-Videoanzeigen-Generator, der E-Commerce-Marken, Growth-Teams und Performance-Marketing-Experten dabei hilft, Werbemittel aus Produktbildern, URLs oder Referenzvideos zu erstellen, zu analysieren, zu...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Social-Media-Content-Creator, Content Creator +1 mehr
 
+- **[Aether](https://www.aimyflow.com/de/ai/tryaether-co)**
+  - Aether ist ein Gebäudevermessungstool für Handwerksbetriebe im Bereich Hausservices, das Dach-, Außenbereichs- und vollständige Hausvermessungsberichte sowie 3D-Modelle anhand einer Adresse, von Luftbildern oder mit...
+  - *Passende Rollen:* Außendienstleiter, Bauingenieur, Projektmanagement-Beauftragter, Gewerbearchitekt +1 mehr
+
 - **[Affil.ai](https://www.aimyflow.com/de/ai/affil-ai)**
   - Affil.ai ist ein KI-gestütztes Compliance- und Monitoring-Tool für Affiliate-Marketing, das Unternehmen dabei unterstützt, Inhalte von Drittanbietern zu verfolgen, Marken- und Richtlinienverstöße zu erkennen und...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Außendienstleiter, Projektmanagement-Beauftragter +1 mehr
@@ -326,13 +461,33 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AgentDesk ist ein KI-Tool für Ticket-Management und Workflow-Automatisierung, das Code liest, Probleme untersucht, Fehlerbehebungen schreibt, Tests ausführt und Pull Requests für Softwareteams erstellt, die Jira und...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
 
+- **[AgentForge](https://www.aimyflow.com/de/ai/agentforge-net)**
+  - AgentForge ist ein Open-Source-Framework für KI-Agenten für Entwickler und technische Teams, mit dem sich kognitive Architekturen, Multi-Agenten-Systeme und domänenspezifische Agenten mit Tools, Personas, Speicher und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
+
+- **[AgentGPT](https://www.aimyflow.com/de/ai/agentgpt-reworkd-ai)**
+  - AgentGPT ist ein browserbasiertes Tool zum Zusammenstellen, Konfigurieren und Bereitstellen autonomer KI-Agenten, um zielorientierte Aufgaben wie Recherche, Reiseplanung, Lernplanung und Web-Datenextraktion zu...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter
+
+- **[Agentic Labs](https://www.aimyflow.com/de/ai/agenticlabs-com)**
+  - Agentic Labs ist eine KI-Kontext-Engine, die Teams dabei unterstützt, Code- und Kundendaten zu sammeln, zu bereinigen und zu organisieren, Wissensdatenbanken für Code aufzubauen, Erklärungen zu generieren und die...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Agentin](https://www.aimyflow.com/de/ai/agentin-ai)**
   - Agentin ist eine KI-Agentenplattform, die Quote-to-Cash- und Procure-to-Pay-Workflows über Unternehmenssysteme wie SAP, Salesforce, NetSuite, ServiceNow, Workday und Dynamics hinweg betreibt, hauptsächlich für Teams in...
   - *Passende Rollen:* Betriebschef, Finanzchef, Logistikplaner/in, Projektmanagement-Beauftragter +1 mehr
 
+- **[Agentive](https://www.aimyflow.com/de/ai/goagentive-com)**
+  - Agentive ist ein auf Audits ausgerichteter KI-Arbeitsbereich, der Wirtschaftsprüfungsgesellschaften und ihren Mandanten dabei hilft, Prüfungsnachweise auf einer zentralen Plattform anzufordern, zu validieren und zu...
+  - *Passende Rollen:* Wirtschaftsprüfer, Finanzanalyst, Finanzchef
+
 - **[Agentleader](https://www.aimyflow.com/de/ai/agentleader-io)**
   - Agentleader ist ein KI-gestütztes B2B-Tool zur Lead-Generierung, das Unternehmen dabei unterstützt, Interessentenlisten mithilfe von agentenbasiertem Browsing, signalbasierter Personalisierung und fortlaufender...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
+
+- **[AgentScale AI](https://www.aimyflow.com/de/ai/agentscale-ai)**
+  - AgentScale AI ist eine Automatisierungsplattform und ein Dienstleistungsanbieter, der Unternehmen dabei hilft, Arbeitsabläufe mithilfe von robotergestützter Prozessautomatisierung, großen Sprachmodellen und KI-Agenten...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter +1 mehr
 
 - **[AgentVoice](https://www.aimyflow.com/de/ai/agentvoice-com)**
   - AgentVoice ist eine KI-Sprachagentenplattform für Unternehmen und Betriebsteams, die eingehende und ausgehende Telefonanrufe bearbeitet, Termine plant, CRMs aktualisiert, Textnachrichten versendet und Workflows mit...
@@ -401,10 +556,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[AI Clothes Changer](https://www.aimyflow.com/de/ai/aiclothes-ai)**
   - AI Clothes Changer ist ein KI-gestütztes virtuelles Anprobe-Tool, mit dem Nutzer ein Foto hochladen, Outfits mithilfe von Kleidungsbildern oder Texteingaben austauschen und realistische Kleidungsänderungen erzeugen...
   - *Passende Rollen:* Modedesigner, E-Commerce-Verkäufer, Content Creator, Grafikdesigner +1 mehr
-
-- **[AI Color Analysis](https://www.aimyflow.com/de/ai/aicoloranalysis-ai)**
-  - AI Color Analysis ist ein Online-KI-Styling-Tool, das ein hochgeladenes Foto analysiert, um die Farbjahreszeit, den Unterton, den Kontrast und die personalisierte Palette einer Person zu bestimmen, vor allem für...
-  - *Passende Rollen:* Modedesigner, Content Creator, E-Commerce-Verkäufer, Grafikdesigner
 
 - **[AI Convert Hub](https://www.aimyflow.com/de/ai/aiconverthub-com)**
   - AI Convert Hub ist ein Online-Dateikonverter, der Nutzern hilft, Video-, Audio- und Bilddateien stapelweise zu konvertieren und zu komprimieren, mit codec-bewussten Steuerungen und Unterstützung für mehr als 200...
@@ -485,10 +636,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[AI Interview Copilot](https://www.aimyflow.com/de/ai/aiinterviewcopilot-com)**
   - AI Interview Copilot ist ein KI-gestützter Bewerbungsassistent für Kandidaten, insbesondere für technische Interviewteilnehmer, der Gespräche transkribiert, Screenshots analysiert und in Echtzeit Antworten,...
   - *Passende Rollen:* Softwareentwickler, Online-Programmierlehrer, Softwareentwicklungsleiter, Technischer Redakteur
-
-- **[AI Jewelry Model](https://www.aimyflow.com/de/ai/aijewelrymodel-app)**
-  - AI Jewelry Model ist ein KI-Tool für Schmuckfotografie und virtuelles Anprobieren, das Produktfotos in realistische Bilder mit Models für E-Commerce-Verkäufer auf Etsy, Shopify, TikTok Shop, Amazon Handmade und...
-  - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Content Creator, Grafikdesigner +1 mehr
 
 - **[AI Jingle Maker](https://www.aimyflow.com/de/ai/aijinglemaker-net)**
   - AI Jingle Maker ist ein KI-Audiotool, das kurze Texte in Radio-Jingles, Sender-IDs, Intros, Sponsor-Tags und Podcast-Opener mit KI-Stimme, Musik und sendefertigem MP3-Export umwandelt, vor allem für Radiosender,...
@@ -843,10 +990,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AiShort ist eine KI-Prompt-Bibliothek und Agentenplattform, die Nutzern hilft, Prompt-Vorlagen für Aufgaben wie Schreiben, Programmieren, Übersetzen und Bildgenerierung zu finden, zu kopieren, zu teilen und anzuwenden,...
   - *Passende Rollen:* Softwareentwickler, Texter, Leiter Digitales Marketing, Content Creator +1 mehr
 
-- **[Aiso](https://www.aimyflow.com/de/ai/getaiso-com)**
-  - Aiso ist eine Plattform zur Optimierung der KI-Suche, die Marken, Marketingfachleuten, SEOs und Demand-Teams dabei hilft, nachzuverfolgen, wie ChatGPT, Gemini und Claude ihre Marke über Prompts, Gespräche und...
-  - *Passende Rollen:* Leiter Digitales Marketing, CEO, Content Creator, Texter +1 mehr
-
 - **[AiTiger](https://www.aimyflow.com/de/ai/aitiger-ai)**
   - AiTiger ist eine KI-gestützte Plattform zur Videoerstellung, die einfache Handlungsentwürfe in sofort teilbare Videos mit Visuals, Charakteren, Sprechertext und Untertiteln verwandelt, vor allem für Kreative, Agenturen...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Texter, Social-Media-Content-Creator +1 mehr
@@ -859,13 +1002,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AITryOn Clothes Changer Video ist ein KI-Videogenerator, der Outfits in Videos ersetzt und Visuals im Modestil neu generiert, hauptsächlich für E-Commerce-Teams, Fashion-Marketer und Content Creator. In KI-gestützten...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Content Creator, Modedesigner +1 mehr
 
+- **[AITV.GG](https://www.aimyflow.com/de/ai/evo-ninja)**
+  - AITV.GG ist eine KI-Streamer-Plattform und ein Studio, die Creators, Marken und Communities dabei unterstützen, autonome Livestreaming-Avatare über Kanäle wie Twitch, YouTube, TikTok und X hinweg zu entwickeln,...
+  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, CEO +1 mehr
+
 - **[AIUpscaler](https://www.aimyflow.com/de/ai/aiupscaler-ai)**
   - AIUpscaler ist ein browserbasiertes KI-Tool zur Bild- und Videoverbesserung, das Nutzern hilft, Fotos hochzuskalieren, zu schärfen, zu entrauschen und wiederherzustellen oder Videos bis zu 4K zu optimieren,...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, E-Commerce-Verkäufer, Grafikdesigner +1 mehr
-
-- **[AIVA](https://www.aimyflow.com/de/ai/aiva-ai)**
-  - AIVA ist ein KI-Assistent für Musikgenerierung, der Komponisten, Creators und Medienteams hilft, originelle Musik für Videos, Spiele und andere Projekte zu erstellen. Im KI-Zeitalter beschleunigt er Ideenfindung und...
-  - *Passende Rollen:* Musikliebhaber
 
 - **[AIVocal](https://www.aimyflow.com/de/ai/aivocal-io)**
   - AIVocal ist eine KI-gestützte Sprach- und Audioplattform, die Kreativen, Podcastern, Sprechern und anderen audiobezogenen Fachkräften dabei hilft, Sprache zu erzeugen, Stimmen zu klonen, Hörbücher und Podcasts zu...
@@ -911,6 +1054,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Alethea AI ist ein Forschungs- und Entwicklungsstudio mit Schwerpunkt auf generativer KI und Blockchain und bietet EMOTE-1 an, um Organisationen bei der Erstellung maßgeschneiderter Video-Agenten für Bildung, Marketing...
   - *Passende Rollen:* Leiter Digitales Marketing, Content Creator, Berater für Bildungstechnologie, Social-Media-Content-Creator +1 mehr
 
+- **[Alex](https://www.aimyflow.com/de/ai/alex-com)**
+  - Alex ist eine KI-gestützte Recruiting-Plattform, die Sourcing, Lebenslauf-Screening, Kandidateninterviews, Terminplanung und Betrugsverifizierung automatisiert, um Recruiting-Teams und einstellenden Organisationen...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Projektmanagement-Beauftragter, CEO
+
 - **[Alibaba Cloud](https://www.aimyflow.com/de/ai/ai-aliyun-com-index)**
   - Alibaba Cloud ist eine Cloud-Plattform, die Rechenleistung, Speicher, Netzwerke, Datenbanken, Big Data, Sicherheits- und KI-Produkte bereitstellt, einschließlich KI-Entwicklung und Services für große Modelle,...
   - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Data Engineer, Cybersicherheitsmanager +1 mehr
@@ -941,6 +1088,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[AllMind AI](https://www.aimyflow.com/de/ai/allmindinvestments-com)**
   - AllMind AI ist eine Investment-Analyseplattform, die Tradern und Investoren Zugang zu Echtzeit-Aktien-Insights, Marktanalysen und KI-gestützter Strategieunterstützung bietet. Im KI-Zeitalter hilft sie Analysten,...
   - *Passende Rollen:* Finanzanalyst
+
+- **[Alloy](https://www.aimyflow.com/de/ai/alloy-app)**
+  - Alloy ist ein AI-Prototyping-Tool, das Seiten aus einer realen Webanwendung erfasst und Produktmanagern ermöglicht, interaktive, markenkonforme Prototypen mit Chat-Funktion hauptsächlich für professionelle Produktteams...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Grafikdesigner, Projektmanagement-Beauftragter, Softwareentwickler +1 mehr
 
 - **[allsearch.ai](https://www.aimyflow.com/de/ai/allsearch-ai)**
   - allsearch.ai ist ein zum Verkauf stehender Domainname, der über GoDaddy angeboten wird und Käufern dabei hilft, Angebote abzugeben und sichere Domainübertragungen abzuschließen, vor allem für Unternehmen oder...
@@ -1013,17 +1164,37 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Analogenie ist ein KI-Generator für Analogien und Metaphern, der Nutzern hilft, Aussagen in kontextbezogene Vergleiche umzuwandeln, um Ideen klarer zu erklären, vor allem für Autoren, Texter und andere Personen, die...
   - *Passende Rollen:* Texter, Content Creator, Technischer Redakteur, Leiter Digitales Marketing +1 mehr
 
-- **[Andi](https://www.aimyflow.com/de/ai/andisearch-com)**
-  - Andi ist ein KI-Suchassistent, der Nutzern hilft, Fragen zu stellen, Informationen zu finden und Inhalte mit konversationellen Antworten statt nur mit Links zu erstellen – vor allem für Menschen, die ein...
-  - *Passende Rollen:* Content Creator, Technischer Redakteur, Texter, Finanzanalyst +1 mehr
+- **[Anara](https://www.aimyflow.com/de/ai/anara-com)**
+  - Anara ist ein KI-Forschungsarbeitsbereich, der Wissenschaftlern, Studierenden und Forschungsteams dabei hilft, wissenschaftliche Literatur zu durchsuchen, hochgeladene Dateien zu analysieren, Quellen zu organisieren...
+  - *Passende Rollen:* Hochschulprofessor, Molekularbiologe, Mikrobiologe, Medizinische/r Labortechniker/in +1 mehr
+
+- **[Andon Labs](https://www.aimyflow.com/de/ai/andonlabs-com)**
+  - Andon Labs ist ein KI-Forschungsunternehmen, das maßgeschneiderte Evaluierungen und realitätsnahe Benchmarks für fortschrittliche KI-Modelle entwickelt und damit KI-Laboren, Forschern und Ingenieuren hilft, zu testen,...
+  - *Passende Rollen:* Data Scientist, Softwareentwickler, Cybersicherheitsanalyst, Softwareentwicklungsleiter +1 mehr
 
 - **[ANDRE](https://www.aimyflow.com/de/ai/andre-ai)**
   - ANDRE ist ein KI-gestützter Analyst für Umfragedaten, der die Bereinigung, Analyse und Berichterstellung für Kundenfeedback- und Evaluationsumfragen automatisiert, vor allem für Customer-Experience-Spezialisten,...
   - *Passende Rollen:* Data Scientist, Leiter Digitales Marketing, CEO, Projektmanagement-Beauftragter +1 mehr
 
+- **[Andromeda Surgical](https://www.aimyflow.com/de/ai/andromedasurgical-com)**
+  - Andromeda Surgical entwickelt eine KI-gestützte Plattform für chirurgische Navigation und Autonomie, die Chirurgen dabei unterstützt, sich in der Anatomie zu orientieren, Verfahren zu erlernen und endourologische...
+  - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, Spezialist für Arbeitsmedizin, CEO +1 mehr
+
+- **[Andy](https://www.aimyflow.com/de/ai/with-andy-com)**
+  - Andy ist ein KI-gestütztes, von Menschen geprüftes Dokumentationstool für die häusliche Gesundheitsversorgung, das Klinikern mit Ambient Scribing, integrierter Qualitätssicherung und PDGM-Codierung dabei hilft,...
+  - *Passende Rollen:* Gesundheitsadministrator, Hospizpflegekraft, Häusliche Pflegekraft, Fachkraft für medizinische Abrechnung +1 mehr
+
 - **[Angel AI](https://www.aimyflow.com/de/ai/angel-ai)**
   - Angel AI ist eine KI-Begleiterplattform, mit der Nutzer virtuelle Freundinnen, Freunde oder Agenten im Anime-Stil erstellen, mit ihnen chatten und Bilder generieren können, hauptsächlich für Menschen, die...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Grafikdesigner, Texter
+
+- **[Anglera](https://www.aimyflow.com/de/ai/anglera-com)**
+  - Anglera ist eine KI-gestützte Plattform zur Anreicherung von Produktdaten, die Einzelhändlern und Marktplätzen dabei hilft, Lieferantendaten zu bereinigen, fehlende Attribute zu ergänzen und Kataloge für eine bessere...
+  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Data Engineer, Softwareentwickler, Leiter Digitales Marketing +1 mehr
+
+- **[Ångström AI](https://www.aimyflow.com/de/ai/angstrom-ai-com)**
+  - Ångström AI ist eine generative KI-Plattform für molekulare Simulationen, die freie Energiedifferenzen, Bindungskonformationen und Hydratationsstellen mit einer Genauigkeit auf Ab-initio-Niveau deutlich schneller als...
+  - *Passende Rollen:* Data Scientist, Molekularbiologe, Chemiker, Softwareentwickler
 
 - **[AnimalGenerator.net](https://www.aimyflow.com/de/ai/animalgenerator-net)**
   - AnimalGenerator.net ist ein KI-Tiergenerator und -Mischer, der Nutzern dabei hilft, Tiere, Mechs und Fantasy-Helden zu konsistenten Hybridfiguren, Comics und druckbaren Malvorlagen zu kombinieren, vor allem für...
@@ -1049,13 +1220,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AnswerThis ist ein KI-Forschungsassistent, der Forschern, Akademikern, Studierenden und medizinischen Fachkräften dabei hilft, Evidenz zu finden, Literaturübersichten und Fallstudien mit Quellenangaben zu erstellen,...
   - *Passende Rollen:* Hochschulprofessor, Hausarzt, Technischer Redakteur, Medizinische/r Labortechniker/in +1 mehr
 
+- **[Anthrogen](https://www.aimyflow.com/de/ai/anthrogen-com)**
+  - Anthrogen ist ein KI-Forschungslabor, das Protein-Sprachmodelle und Systeme zur experimentellen Validierung entwickelt, um Biologika und molekulare Maschinen zu generieren und weiterzuentwickeln, vor allem für...
+  - *Passende Rollen:* Molekularbiologe, Data Scientist, Mikrobiologe, Softwareentwickler +1 mehr
+
 - **[Anthropic](https://www.aimyflow.com/de/ai/anthropic-com)**
   - Anthropic ist ein Unternehmen für KI-Sicherheit und Forschung, das Claude und verwandte Produkte entwickelt, um Menschen und Organisationen dabei zu helfen, zuverlässige, interpretierbare und steuerbare KI zu nutzen,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, Projektmanagement-Beauftragter +1 mehr
-
-- **[Anthropic Healthcare](https://www.aimyflow.com/de/ai/github-com-anthropics-healthcare)**
-  - Anthropic Healthcare ist ein GitHub-Marketplace-Repository für Claude-Code-Skills und MCP-Plugins, das Entwickler im Gesundheitswesen und Betriebsteams bei der Entwicklung von FHIR-APIs, der Prüfung von...
-  - *Passende Rollen:* Softwareentwickler, Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Antiverse](https://www.aimyflow.com/de/ai/antiverse-io)**
   - Antiverse ist eine durch maschinelles Lernen gestützte Plattform für das Antikörperdesign, die darauf ausgerichtet ist, Wirkstoffforschungsteams bei der Entwicklung von Antikörpern für anspruchsvolle Zielstrukturen in...
@@ -1124,6 +1295,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AppWizzy ist eine KI-gestützte Plattform zum Erstellen und Hosten skalierbarer Full-Stack-Web-Apps und Websites, die sich vor allem an Entwickler, technische Gründer und Teams richtet, die SaaS, interne Tools und...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, IT-Infrastrukturmanager/in +1 mehr
 
+- **[Aqua Voice](https://www.aimyflow.com/de/ai/aquavoice-com)**
+  - Aqua Voice ist eine Sprachdiktiersoftware für Mac und Windows, die gesprochene Sprache in Echtzeit in klaren, app-sensitiven Text umwandelt und Nutzerinnen und Nutzern dabei hilft, Prompts, Code, Nachrichten und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Technischer Redakteur +1 mehr
+
 - **[Aragon.ai](https://www.aimyflow.com/de/ai/aragon-ai)**
   - Aragon.ai ist ein KI-Headshot-Generator, der aus einigen Selfies professionelle Headshots in Studioqualität sowie verwandte Fotobearbeitungen erstellt, vor allem für Fachkräfte, Teams und Unternehmen, die eine...
   - *Passende Rollen:* Talent-Acquisition-Manager, Leiter Digitales Marketing, Grafikdesigner, Social-Media-Content-Creator +1 mehr
@@ -1148,9 +1323,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ArchyBase ist eine KI-Designplattform für Architekten und Hausbesitzer, die Fotos, Skizzen und CAD-Zeichnungen in Innen-, Außen- und Landschafts-Renderings für Renovierung, Visualisierung und Designexploration...
   - *Passende Rollen:* Innenarchitekt/in, Wohnarchitekt, Immobilienmakler, Gewerbearchitekt +1 mehr
 
+- **[Arcimus](https://www.aimyflow.com/de/ai/arcimus-com)**
+  - Arcimus ist ein Recruiting-Service, der Hiring-Teams dabei unterstützt, Engineers zu finden, die liefern können, indem er founder-geführtes technisches Sourcing und Screening auf Basis echter Engineering-Urteilskraft...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Softwareentwicklungsleiter, Softwareentwickler, CEO
+
 - **[Arcten](https://www.aimyflow.com/de/ai/arcten-com)**
   - Arcten ist ein von Y Combinator unterstütztes Team aus KI-Ingenieuren und Forschern, das offenbar KI-Tools oder -Dienste entwickelt, hauptsächlich für Organisationen, die technische KI-Expertise suchen. Im KI-Zeitalter...
   - *Passende Rollen:* Softwareentwicklungsleiter, Data Scientist, Softwareentwickler, CEO +1 mehr
+
+- **[Arini](https://www.aimyflow.com/de/ai/arini-ai)**
+  - Arini ist eine KI-Rezeptionistin für Zahnarztpraxen, die Anrufe beantwortet, Termine verwaltet und die Patientenkommunikation per Telefon und Textnachricht übernimmt, hauptsächlich für DSOs, Zahnarztgruppen und...
+  - *Passende Rollen:* Gesundheitsadministrator, Filialleiter, Betriebschef
 
 - **[Arka](https://www.aimyflow.com/de/ai/arka-so)**
   - Arka ist eine KI-gestützte Plattform für Umsatzanalysen, die Revenue-Teams dabei unterstützt, Umsätze zu prognostizieren, Abwanderungs- und Expansionssignale zu erkennen und das Reporting auf Basis verknüpfter Kunden-,...
@@ -1176,17 +1359,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Article Forge ist ein KI-Content-Generator, der automatisch recherchiert, plant und lange, SEO-optimierte Artikel anhand eines Keywords erstellt, vor allem für Marketer, Publisher und Unternehmen, die Website-Inhalte...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Technischer Redakteur +1 mehr
 
-- **[Articos](https://www.aimyflow.com/de/ai/articos-com)**
-  - Articos ist eine KI-gestützte User-Research-Plattform, die Agenturen, SaaS-Teams und Growth-Marketing-Teams dabei hilft, Botschaften, Landingpages, Konzepte und Nutzermotivationen durch simulierte Gespräche mit...
-  - *Passende Rollen:* Leiter Digitales Marketing, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Texter +1 mehr
-
 - **[Articulate](https://www.aimyflow.com/de/ai/usearticulate-com)**
   - Articulate ist eine KI-gestützte Plattform zur Analyse von Bauzeichnungen, die 2D-PDF-Pläne prüft, um Koordinationskonflikte, Probleme bei der Einhaltung von Vorschriften und Planungsfehler für Architekten, Ingenieure,...
   - *Passende Rollen:* Gewerbearchitekt, Bauingenieur, Elektroingenieur, Maschinenbauingenieur/in +1 mehr
 
-- **[Artlist AI Image Generator](https://www.aimyflow.com/de/ai/artlist-io-ai-image-generator)**
-  - Der Artlist AI Image Generator ist ein Online-Tool, das Text-Prompts oder Referenzbilder mithilfe mehrerer Bildmodelle in bearbeitbare, hochwertige Visuals umwandelt – vor allem für Kreative, die Videos,...
-  - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator +1 mehr
+- **[Artisan](https://www.aimyflow.com/de/ai/artisan-co)**
+  - Artisan ist eine KI‑first Outbound‑Sales‑Plattform, die Lead‑Daten, Intent‑Recherche, Personalisierung, Zustellbarkeitstools und ihren KI‑BDR Ava kombiniert, um Prospecting‑ und Outreach‑Workflows für...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
 
 - **[ArtPose](https://www.aimyflow.com/de/ai/posegenerator-net)**
   - ArtPose ist ein KI-Posengenerator und Referenzwerkzeug, das Künstlern, Illustratoren, Charakterdesignern und Animatoren hilft, anpassbare Posenbilder zu erstellen, indem Stil, Kamerawinkel, Beleuchtung, Anatomie,...
@@ -1199,6 +1378,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Artypa](https://www.aimyflow.com/de/ai/artypa-com)**
   - Artypa ist ein KI-Kreativtool, das Nutzern hilft, Bilder, Videos, Audio und Texte an einem Ort zu erstellen und zu bearbeiten, hauptsächlich für Kreative und andere Personen, die digitale Inhalte produzieren. Für...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Grafikdesigner, Texter +1 mehr
+
+- **[Arva AI](https://www.aimyflow.com/de/ai/arva-ai)**
+  - Arva AI ist eine Unternehmensplattform für KI-Agenten, die regulierten Finanzinstituten dabei hilft, Compliance-Prüfungen zur Finanzkriminalität über Screening-, AML-, KYC/KYB- und Transaktionsüberwachungs-Workflows...
+  - *Passende Rollen:* Risikoanalyst, Finanzanalyst, Finanzchef, CEO +1 mehr
 
 - **[Arvin AI](https://www.aimyflow.com/de/ai/arvin-chat)**
   - Arvin AI ist eine KI-Web-App und Browser-Erweiterung, die Nutzern hilft, zu chatten, Webseiten und PDFs zusammenzufassen, Texte zu übersetzen, E-Mails und Artikel zu schreiben sowie Design-Assets wie Logos und...
@@ -1249,6 +1432,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AskWeather.ai ist eine werbefreie Wetter-Website mit KI-Chat, die Menschen dabei hilft, aktuelle Bedingungen, 15-Tage-Vorhersagen, Live-Radar, Wetter entlang der Route, historische Wetterdaten und standortbasierte...
   - *Passende Rollen:* Logistikplaner/in, Restaurantleiter, Filialleiter, Programmmanager Non-Profit
 
+- **[AskYourDatabase](https://www.aimyflow.com/de/ai/askyourdatabase-com)**
+  - AskYourDatabase ist ein KI-Datenanalyst und SQL-Chatbot, mit dem Nutzer eine Verbindung zu unterstützten Datenbanken herstellen, Fragen in einfachem Englisch stellen und Abfragen, Visualisierungen und Dashboards...
+  - *Passende Rollen:* CEO, Außendienstleiter, Softwareentwickler, Projektmanagement-Beauftragter
+
 - **[ASMR.so](https://www.aimyflow.com/de/ai/asmr-so)**
   - ASMR.so ist ein KI-gestützter ASMR-Videogenerator, der VEO3-Technologie nutzt, um Kreativen bei der Erstellung entspannender ASMR-Videos mit Klängen wie Flüstern, Klopfen und Naturgeräuschen zu helfen, hauptsächlich...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Podcast-Produzent, Texter +1 mehr
@@ -1260,6 +1447,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Aspect](https://www.aimyflow.com/de/ai/aspect-inc)**
   - Aspect ist eine KI-Plattform für Enterprise-Medienteams, die sie dabei unterstützt, visuelle Inhalte und multimodale Datensätze über Produktions-Workflows hinweg zu ingestieren, zu durchsuchen, zu segmentieren, zu...
   - *Passende Rollen:* Podcast-Produzent, Unabhängige/r Filmemacher/in, Content Creator, Projektmanagement-Beauftragter +1 mehr
+
+- **[Assembly HOA Management](https://www.aimyflow.com/de/ai/assemblyhoa-com)**
+  - Assembly HOA Management ist ein kalifornisches HOA-Verwaltungsunternehmen, das Community Manager mit proprietärer Software kombiniert, um Wohnungseigentümergemeinschaften bei Finanzen, Instandhaltung, Sitzungen,...
+  - *Passende Rollen:* Filialleiter, Projektmanagement-Beauftragter, Finanzchef, Betriebschef +1 mehr
 
 - **[AssetAI](https://www.aimyflow.com/de/ai/myassetai-com)**
   - AssetAI ist eine KI-Plattform für Marketingkampagneninhalte, die Marketingteams dabei unterstützt, koordinierte Full-Funnel-Assets wie Blogs, Anzeigen, E-Mails, Landingpages und Vertriebsmaterialien aus einem einzigen...
@@ -1284,10 +1475,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Astro Energy](https://www.aimyflow.com/de/ai/astroenergy-ai)**
   - Astro Energy ist ein Entwickler von Solar- und Batteriespeicherprojekten im Versorgungsmaßstab, der Grundstückseigentümern in Texas hilft, Flächen für langfristige Energieprojekte zu bewerten und zu verpachten – durch...
   - *Passende Rollen:* Gewerbearchitekt, Bauingenieur, CEO, Projektmanagement-Beauftragter +1 mehr
-
-- **[Astrology Bot](https://www.aimyflow.com/de/ai/astrologybot-app-en)**
-  - Astrology Bot ist ein KI-gestütztes Tool zur Analyse von Geburtshoroskopen, das Nutzern hilft, Geburtsdaten einzugeben, Fragen zu stellen und chartbasierte Deutungen zu erkunden, vor allem für Menschen, die sich selbst...
-  - *Passende Rollen:* Wellness-Coach, Content Creator, Lehrkraft, Texter +1 mehr
 
 - **[Athena AI Agents](https://www.aimyflow.com/de/ai/athenachat-bot-agents)**
   - Athena AI Agents ist eine No-Code-Plattform zur Erstellung individueller KI-Agenten, die fokussierte Workflows, toolgestützte Aufgaben und Website-Interaktionen übernehmen, vor allem für Teams, Inhaber kleiner...
@@ -1329,9 +1516,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Atono ist eine Produktplattform für Produkt- und Engineering-Teams, die ihnen hilft, Arbeit über den gesamten Produktlebenszyklus hinweg mit verknüpften Storys, Feature-Flags und Nutzungseinblicken zu planen, zu...
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
-- **[Attensira](https://www.aimyflow.com/de/ai/attensira-com)**
-  - Attensira ist eine Plattform für KI-Suchsichtbarkeit, die wachsenden Unternehmen hilft, nachzuverfolgen, wie sie in Tools wie ChatGPT, Claude, Perplexity und Gemini erscheinen, und Rankings mit gezielten Inhalts- und...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Content Creator
+- **[Attunement AI](https://www.aimyflow.com/de/ai/attunement-ai)**
+  - Attunement AI ist eine klinische Gedächtnisebene, die Organisationen in der Spezialmedizin und der Verhaltensgesundheit dabei unterstützt, Beurteilungen, Überweisungsunterlagen und andere klinische Dokumente in...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Hausarzt, Kinderarzt +1 mehr
 
 - **[Audialab](https://www.aimyflow.com/de/ai/audialab-com)**
   - Audialab ist eine Suite ethischer KI-Audiotools, die Künstlern und Musikproduzenten dabei hilft, Sounds zu gestalten, lizenzfreie Samples zu generieren und Drum-Variationen oder neue Drum-Sounds zu erstellen. Zu den...
@@ -1360,6 +1547,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Audo Studio](https://www.aimyflow.com/de/ai/audo-ai)**
   - Audo Studio ist ein browserbasiertes Audiobereinigungstool, das Hintergrundgeräusche entfernt, Sprache verbessert und die Lautstärke mit einem Klick automatisch anpasst – vor allem für YouTuber, Podcaster und andere...
   - *Passende Rollen:* Podcast-Produzent, Social-Media-Content-Creator, Content Creator, Texter +1 mehr
+
+- **[Audos, which has acquired No Cap,](https://www.aimyflow.com/de/ai/nocap-so)**
+  - Audos, das No Cap übernommen hat, ist eine KI-Plattform und ein Publishing-Modell, das Gründerinnen und Gründern dabei hilft, KI-native Unternehmen aufzubauen, kundenorientierte Assets zu launchen und Zugang zu bis zu...
+  - *Passende Rollen:* CEO, Betriebschef, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
 - **[Audyo](https://www.aimyflow.com/de/ai/audyo-ai)**
   - Audyo ist ein KI-Text-zu-Sprache-Editor, der Nutzern hilft, gesprochene Audiodateien wie ein Dokument zu erstellen und zu bearbeiten – mit Bearbeitung auf Wortebene, mehreren Sprechern, phonetischer Aussprachekontrolle...
@@ -1401,6 +1592,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Autoenhance.ai ist eine KI-gestützte Fotobearbeitungsplattform, die Aufgaben zur Optimierung von Immobilienbildern wie HDR-Zusammenführung, Fensterfreistellung, Himmelsaustausch, Farbkorrektur und Perspektivkorrektur...
   - *Passende Rollen:* Grafikdesigner, Immobilienmakler, Content Creator, Softwareentwickler
 
+- **[Automat](https://www.aimyflow.com/de/ai/runautomat-com)**
+  - Automat ist eine KI-gestützte Plattform für Geschäftsprozessautomatisierung und RPA, die Teams dabei unterstützt, Workflows wie Dokumentenverarbeitung, Dateneingabe, Verifizierung und Backoffice-Abläufe zu...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Manager Finanzplanung & Analyse, Gesundheitsadministrator +1 mehr
+
 - **[AutomateClips](https://www.aimyflow.com/de/ai/automateclips-com)**
   - AutomateClips ist eine REST-API, mit der KI-Agenten und Entwickler TikTok-Slideshow-Inhalte aus Bild-Uploads oder URLs veröffentlichen können, hauptsächlich für Marketer, Creator und Teams, die das Veröffentlichen auf...
   - *Passende Rollen:* Leiter Digitales Marketing, Social-Media-Content-Creator, Softwareentwickler, Content Creator +1 mehr
@@ -1429,6 +1624,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - AutoNotes ist eine KI-gestützte Software für klinische Dokumentation, die Therapeutinnen und Therapeuten sowie Fachkräften im Bereich der Verhaltensgesundheit dabei hilft, konforme Verlaufsdokumentationen, SOAP- und...
   - *Passende Rollen:* Gesundheitsadministrator, Wellness-Coach, Projektmanagement-Beauftragter, Fachkraft für medizinische Abrechnung
 
+- **[Autopilot](https://www.aimyflow.com/de/ai/codeautopilot-com)**
+  - Autopilot ist ein KI-Programmierassistent für GitHub, der Softwareentwicklern und Engineering-Teams dabei hilft, Fehler zu beheben, Probleme in Pull Requests zu besprechen, Implementierungspläne zu erstellen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
+
 - **[AutoReach](https://www.aimyflow.com/de/ai/autoreach-work)**
   - AutoReach ist ein autonomer KI-Agent zur Leadgenerierung, der Vertriebsteams, Agenturen, Freiberuflern und Beratern dabei hilft, Unternehmen zu finden, Leads zu qualifizieren, Websites nach Kontaktdaten zu durchsuchen...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, CEO +1 mehr
@@ -1436,6 +1635,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[AutoResearch.pro](https://www.aimyflow.com/de/ai/autoresearch-pro)**
   - AutoResearch.pro ist eine KI-gestützte Forschungs- und Präsentationsplattform, die Nutzern dabei hilft, Recherchen zu automatisieren, professionelle Foliensätze mit Sprechernotizen zu erstellen und PPTX-Dateien...
   - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Technischer Redakteur, CEO +1 mehr
+
+- **[Autotab](https://www.aimyflow.com/de/ai/autotab-com)**
+  - Autotab ist ein allgemeiner KI-Agent, der Arbeitsabläufe aus Videos oder Dokumenten erlernt und browserbasierte Aufgaben wie das Sammeln von Daten, das Ausfüllen von Formularen und das Ausführen von Aktionen erledigt,...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Logistikplaner/in, Filialleiter +1 mehr
 
 - **[Avanty](https://www.aimyflow.com/de/ai/avanty-app)**
   - Avanty ist eine KI-gestützte Chrome-Erweiterung für Metabase, die Datenanalysten dabei hilft, SQL-Abfragen mithilfe natürlicher Sprache und von Schemametadaten schneller zu erstellen, zu bearbeiten, zu erklären, zu...
@@ -1456,6 +1659,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Averi](https://www.aimyflow.com/de/ai/averi-ai)**
   - Averi ist ein KI-gestützter Content-Marketing-Workflow für Startups, der Teams dabei hilft, Themen zu recherchieren, SEO- und GEO-optimierte Inhalte zu erstellen, in ihrem CMS zu veröffentlichen und die Performance in...
   - *Passende Rollen:* Leiter Digitales Marketing, CEO, Texter, Content Creator +1 mehr
+
+- **[AveryIQ](https://www.aimyflow.com/de/ai/callavery-com)**
+  - AveryIQ ist ein KI-gestütztes Immobilienverwaltungssystem mit einem eingebetteten KI-Agenten, Avery, der Leasing-Nachverfolgung, Besichtigungsterminplanung, Mieterkommunikation, Instandhaltungs-Workflows und...
+  - *Passende Rollen:* Filialleiter, Betriebschef, Logistikplaner/in, Immobilienmakler +1 mehr
 
 - **[Avturo](https://www.aimyflow.com/de/ai/avturo-com)**
   - Avturo ist ein KI-Assistent für den Autokauf, der Autokäufern hilft, Gebrauchtwagenanzeigen zu analysieren, den fairen Wert zu schätzen, häufige Probleme zu erkennen und Modell-Empfehlungen sowie Verhandlungspunkte zu...
@@ -1483,16 +1690,16 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - babyvideo.ai ist ein KI-gestütztes Foto-zu-Video-Tool für Babybilder, das Eltern und Kreativen dabei hilft, ein einzelnes Babyfoto in kurze Videos wie Lächeln, Krabbeln, Schlafen, erste Schritte, Sprechclips und...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Texter, Leiter Digitales Marketing
 
+- **[Backdrop](https://www.aimyflow.com/de/ai/joinbackdrop-com)**
+  - Backdrop ist eine Finanzautomatisierungsplattform mit einem KI-Agenten namens Bella, der Unternehmens- und projektbasierte Teams dabei unterstützt, ihre Abschlüsse schneller zu erstellen, indem Abstimmungen,...
+  - *Passende Rollen:* Wirtschaftsprüfer, Finanzchef, Manager Finanzplanung & Analyse, Finanzanalyst +1 mehr
+
 - **[BacklinkManagement.io](https://www.aimyflow.com/de/ai/backlinkmanagement-io)**
   - BacklinkManagement.io ist ein KI-gestütztes Tool für Backlink-Management und Linkbuilding, das Website-Betreibern und SEO-Teams dabei hilft, Gastbeiträge, Verzeichniseinträge und die monatliche Erstellung von...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Content Creator
 
 - **[Baidu Account](https://www.aimyflow.com/de/ai/yige-baidu-com)**
   - Das Baidu-Konto ist ein zentrales Anmeldesystem für Baidu-Produkte, das Nutzern hilft, sich anzumelden und persönliche Kontodaten wie Passwörter, Telefonnummernverknüpfung und Identitätsprüfung zu verwalten,...
-
-- **[Baidu AI Market](https://www.aimyflow.com/de/ai/aim-baidu-com)**
-  - Baidu AI Market ist ein kommerzieller Marktplatz für die KI-Wertschöpfungskette, der Unternehmen, Entwicklern und KI-Dienstleistern dabei hilft, KI-Software, Hardware, Datendienste und Branchenlösungen zu finden, zu...
-  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef, Leiter E-Commerce-Vertrieb +1 mehr
 
 - **[Baidu PaddlePaddle AI Studio](https://www.aimyflow.com/de/ai/aistudio-baidu-com)**
   - Baidu PaddlePaddle AI Studio ist eine Community zum Lernen und praktischen Anwenden von KI, die Nutzern mit Kursen, Datensätzen, Projekten, Cloud-Computing und Entwicklerwerkzeugen dabei hilft, KI-Modelle und...
@@ -1502,9 +1709,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Baloon.dev ist ein Jira-AI-Connector, mit dem Teams Jira-Tickets direkt KI-Agenten zuweisen können, um kleine Codeänderungen zu automatisieren, Produktfragen zu beantworten und Zusammenfassungen oder Pull Requests...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef
 
+- **[BAML](https://www.aimyflow.com/de/ai/boundaryml-com)**
+  - BAML ist ein Open-Source-Toolkit und eine Sprache für Entwickler, die KI-Anwendungen und -Agenten entwickeln. Es hilft ihnen, Prompts zu definieren, nativen Code zu generieren und strukturierte LLM-Ausgaben mit...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Banana Prompts](https://www.aimyflow.com/de/ai/bananaprompts-org)**
   - Banana Prompts ist eine Prompt-Bibliothek für die KI-Bildgenerierung, die Nutzern hilft, getestete Prompt-Vorlagen zu finden, zu kopieren und zu verwenden, vor allem für Kreative, die Nano Banana und ähnliche Bildtools...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Texter +1 mehr
+
+- **[Bardeen](https://www.aimyflow.com/de/ai/bardeen-ai)**
+  - Bardeen ist eine KI-gestützte Automatisierungs- und Workflow-Plattform, die GTM-Teams dabei unterstützt, Leads durch Web Scraping, KI-Suche und Anreicherung von Kontaktdaten zu finden, zu qualifizieren, anzureichern...
+  - *Passende Rollen:* Außendienstleiter, Talent-Acquisition-Manager, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb +1 mehr
 
 - **[Bardeen AI](https://www.aimyflow.com/de/ai/bardeen-ai-ai)**
   - Bardeen AI ist ein Automatisierungs- und Workflow-Tool, das LLMs nutzt, um GTM-Teams dabei zu helfen, Leads zu finden, zu qualifizieren und zu priorisieren und anschließend auf Grundlage gescrapter oder importierter...
@@ -1518,10 +1733,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Base44 ist ein No-Code-App- und Website-Builder, der Nutzern hilft, schriftlich formulierte Ideen mit integrierten Hosting-, Authentifizierungs- und Datenbankfunktionen in marktreife Produkte zu verwandeln, vor allem...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Betriebschef, Softwareentwicklungsleiter +1 mehr
 
-- **[Base44 Superagents](https://www.aimyflow.com/de/ai/base44-pxf-io-c-6992242-3820726-25619)**
-  - Base44 Superagents ist eine No-Code-Plattform für KI-Agenten, die Nutzern hilft, persönliche Agenten zu erstellen, um Tools zu verbinden, wiederkehrende Aufgaben zu automatisieren und appübergreifend Aktionen...
-  - *Passende Rollen:* Projektmanagement-Beauftragter, Außendienstleiter, Logistikplaner/in, Softwareentwicklungsleiter +1 mehr
-
 - **[BasedLabs](https://www.aimyflow.com/de/ai/basedlabs-ai)**
   - BasedLabs ist eine KI-Content-Erstellungsplattform, die Nutzern hilft, Bilder, Videos und Audio mit mehreren Modellen und Bearbeitungswerkzeugen zu erstellen, hauptsächlich für Kreative, Marketer, Filmemacher und...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Unabhängige/r Filmemacher/in +1 mehr
@@ -1529,6 +1740,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Baseline](https://www.aimyflow.com/de/ai/baselinetrials-com)**
   - Baseline ist eine KI-gestützte Lösung für klinische Studien, die Organisationen dabei unterstützt, die Forschung zu beschleunigen, indem sie KI-Agenten entwickelt, die auf ihre Studien-Workflows zugeschnitten sind, vor...
   - *Passende Rollen:* Gesundheitsadministrator, Projektmanagement-Beauftragter, Data Scientist, Programmmanager Non-Profit
+
+- **[Basepilot](https://www.aimyflow.com/de/ai/basepilot-com)**
+  - Basepilot ist eine KI-Plattform für Schadenoperations, die geschäftsspartenspezifische KI-Worker bereitstellt, um Versicherungs-Schadenprozesse von der Erstschadenmeldung (FNOL) und Dokumentenextraktion über...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Risikoanalyst, Cybersicherheitsmanager +1 mehr
 
 - **[Bayesline](https://www.aimyflow.com/de/ai/bayesline-com)**
   - Bayesline ist eine Analyseplattform für Vermögensverwalter, die Teams dabei unterstützt, benutzerdefinierte Aktienrisikomodelle zu erstellen, Backtests durchzuführen, die Faktorauswahl zu automatisieren und...
@@ -1546,6 +1761,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Beacons ist eine All-in-one-Plattform für Creators, die Influencern hilft, Link-in-Bio-Seiten, Media Kits, Shops und E-Mail-Marketing an einem Ort zu verwalten. Im KI-Zeitalter unterstützt sie Creators dabei,...
   - *Passende Rollen:* Content Creator, Marketing- und Vertriebsmanager, Top-Manager, Social-Media-Content-Creator +5 mehr
 
+- **[Beam AI](https://www.aimyflow.com/de/ai/beam-ai)**
+  - Beam AI ist eine agentenbasierte Automatisierungsplattform, die Unternehmen dabei unterstützt, dokumentierte Prozesse in selbstlernende KI-Agenten für Abläufe wie HR, Finanzen und Kundenservice umzuwandeln,...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Manager Mitarbeiterbeziehungen, Manager Finanzplanung & Analyse +1 mehr
+
 - **[Beancount.io](https://www.aimyflow.com/de/ai/beancount-io)**
   - Beancount.io ist eine Klartext-Buchhaltungsplattform, die Nutzern hilft, Finanzaufzeichnungen mit skriptbaren Workflows und KI-gestützten Erkenntnissen zu erstellen, zu automatisieren und zu prüfen, vor allem für...
   - *Passende Rollen:* Wirtschaftsprüfer, Finanzanalyst, Finanzchef, Softwareentwickler +1 mehr
@@ -1561,10 +1780,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[BeatViz](https://www.aimyflow.com/de/ai/beatviz-ai-ai-music-generator)**
   - BeatViz ist ein KI-Musikgenerator, der Textprompts oder Liedtexte in vollständige Songs verwandelt, mit Optionen für KI-Gesang, Liedtextanalyse, Bearbeitung und Musikvideoproduktion, und richtet sich vor allem an...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Leiter Digitales Marketing +1 mehr
-
-- **[Beautiful.ai](https://www.aimyflow.com/de/ai/beautiful-ai)**
-  - Beautiful.ai ist ein KI-Präsentationstool, das Nutzern hilft, schneller ausgefeilte, professionelle Foliensätze zu erstellen – mit geführten KI-Workflows, intelligenten Layouts, Markenkontrollen und...
-  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Projektmanagement-Beauftragter, Leadership-Coach für Unternehmen +1 mehr
 
 - **[BeeBee AI](https://www.aimyflow.com/de/ai/beebee-ai)**
   - BeeBee AI ist ein Tool für Earnings-Analyse, das US-Aktieninvestoren hilft, Earnings Calls, Berichte und Nachrichten mit KI-gestützten Insights auszuwerten. Im KI-Zeitalter hilft es Analysten und aktiven Investoren,...
@@ -1590,9 +1805,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Benchify ist eine Plattform zur Ausführung von Verträgen im Gesundheitswesen, die Vertragsbedingungen in deterministische Logik umwandelt, um Ansprüche, Zahlungen, Audits und die Vertragserfüllung für Kostenträger,...
   - *Passende Rollen:* Gesundheitsadministrator, Finanzanalyst, Fachkraft für medizinische Abrechnung, Risikoanalyst +1 mehr
 
+- **[Benchmark](https://www.aimyflow.com/de/ai/withbenchmark-com)**
+  - Benchmark ist ein KI-gestützter Workspace für Investmentfirmen, der Teams dabei unterstützt, die Due Diligence zu beschleunigen, repetitive Aufgaben zu automatisieren und Dateien wie Excel-Tabellen, PDFs und...
+  - *Passende Rollen:* Portfoliomanager/in, Finanzanalyst, Risikoanalyst, Manager Finanzplanung & Analyse +1 mehr
+
 - **[Berean.ai](https://www.aimyflow.com/de/ai/berean-ai)**
   - Berean.ai ist ein KI-gestütztes Werkzeug für biblische Theologie und christliche Orientierung, das Nutzern hilft, private Fragen zum Christentum, zur Theologie und zur biblischen Auslegung zu stellen, vor allem für...
   - *Passende Rollen:* Hochschulprofessor, Lehrkraft, Technischer Redakteur, Content Creator +1 mehr
+
+- **[Berry](https://www.aimyflow.com/de/ai/berryai-com)**
+  - Berry ist eine KI-Plattform für Customer Success, die Enterprise-SaaS-Teams dabei unterstützt, Post-Sales-Aufgaben wie Onboarding, Schulungen, Support, Verlängerungen, Upselling und die Ausführung von Workflows zu...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef, CEO +1 mehr
 
 - **[BerryViral](https://www.aimyflow.com/de/ai/berryviral-com)**
   - BerryViral ist ein KI-gestütztes Tool für Thumbnail-Intelligenz, das YouTube-Thumbnails und -Titel hinsichtlich ihrer Klickbarkeit bewertet, überprüft und bei der Optimierung unterstützt, hauptsächlich für...
@@ -1673,6 +1896,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Black Forest Labs ist ein führendes KI-Labor hinter der FLUX-Modellfamilie und bietet Tools zur Bildgenerierung und -bearbeitung über eine API, offene Gewichte und eine browserbasierte Playground-Umgebung für...
   - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Leiter Digitales Marketing, Softwareentwicklungsleiter +1 mehr
 
+- **[BLACKBOX AI](https://www.aimyflow.com/de/ai/blackbox-ai)**
+  - BLACKBOX AI ist eine KI-Coding-Plattform mit einer nativen IDE, CLI, Cloud-Agenten, mobilen App und API, die Softwareteams dabei hilft, Code schneller zu erstellen, zu testen, zu prüfen, bereitzustellen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+
 - **[BLACKBOX AI Agent](https://www.aimyflow.com/de/ai/agent-blackbox-ai-api)**
   - Der BLACKBOX AI Agent ist eine REST-API für Entwickler und Engineering-Teams, mit der Coding-Aufgaben über mehrere KI-Agenten hinweg ausgeführt, Implementierungen verglichen und Änderungen auf Code-Repositories...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Technischer Redakteur +1 mehr
@@ -1705,13 +1932,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - BlogSEO ist ein KI-gestütztes SEO-Tool zur Content-Automatisierung, das eine Website analysiert, Keyword-Chancen identifiziert, markenkonforme Blogartikel schreibt und diese automatisch veröffentlicht – für...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Leiter E-Commerce-Vertrieb +1 mehr
 
-- **[Bloom](https://www.aimyflow.com/de/ai/github-com-safety-research-bloom)**
-  - Bloom ist ein Open-Source-Tool für automatisierte verhaltensbezogene Evaluierungen großer Sprachmodelle und hilft Forschenden sowie KI-Sicherheitsteams dabei, Testszenarien zu generieren, Modellgespräche durchzuführen...
-  - *Passende Rollen:* Data Scientist, Cybersicherheitsanalyst, Softwareentwickler, Softwareentwicklungsleiter +1 mehr
-
 - **[Blue](https://www.aimyflow.com/de/ai/heyblue-com)**
   - Blue ist ein KI-Assistent für das iPhone, der Apps freihändig steuert, um Aufgaben auf dem Smartphone wie Nachrichten, Navigation, Nachverfolgungen und das Buchen von Fahrten zu erledigen – hauptsächlich für...
   - *Passende Rollen:* Social-Media-Content-Creator, Außendienstleiter, CEO, Restaurantleiter +1 mehr
+
+- **[Bluebirds](https://www.aimyflow.com/de/ai/bluebirds-ai)**
+  - Bluebirds ist ein KI-gestütztes Tool für Prospecting und Outbound-Vertrieb, das Accounts recherchiert, Leads anhand von Kaufsignalen priorisiert, Käuferkontakte anreichert und relevante Outreach-Nachrichten für...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, CEO +1 mehr
 
 - **[Bluebook](https://www.aimyflow.com/de/ai/getbluebook-com)**
   - Bluebook ist eine KI-gestützte Buchhaltungsplattform, die Arbeitsabläufe wie Abstimmungen, Abgrenzungen, Berichterstattung, Kreditorenbuchhaltung und den Monatsabschluss für Buchhalter und CFOs automatisiert. Für...
@@ -1751,6 +1978,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Bolt](https://www.aimyflow.com/de/ai/bolt-new)**
   - Bolt ist ein KI-App-Builder, der Prompts schnell in funktionierende Webanwendungen verwandelt, ideal für Gründer, Produktteams und Entwickler mit neuen Prototypen.
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +49 mehr
+
+- **[Bolto](https://www.aimyflow.com/de/ai/bolto-com)**
+  - Bolto ist eine KI-gestützte Plattform, die Recruiting, globale Lohnabrechnung und HR kombiniert, um Unternehmen dabei zu helfen, internationale Teams einzustellen, zu bezahlen und zu verwalten – vor allem für Start-ups...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Manager für Vergütung & Zusatzleistungen, Betriebschef +1 mehr
 
 - **[Bonkers by Merlin AI](https://www.aimyflow.com/de/ai/getmerlin-in-feature-bonkers)**
   - Bonkers von Merlin AI ist ein kostenloser Text-zu-Bild-Generator, der Nutzern hilft, aus schriftlichen Eingaben Bilder zu erstellen und zu bearbeiten sowie mit visuellen Stilen zu experimentieren – vor allem für...
@@ -1812,9 +2043,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Bracket ist ein Aufgabenmanagement-Tool für Slack und E-Mail, das Nachrichten und Besprechungsnotizen automatisch in Aufgaben umwandelt und Teams dabei hilft, Arbeit zu erstellen, nachzuverfolgen und abzuschließen,...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Filialleiter, Programmmanager Non-Profit +1 mehr
 
+- **[Brainbase Labs](https://www.aimyflow.com/de/ai/brainbaselabs-com)**
+  - Brainbase Labs ist ein angewandtes KI-Forschungslabor, das generalistische KI-Arbeitskräfte und dialogorientierte Agenten entwickelt, die Unternehmen dabei helfen, Wissensarbeit in hochrealistischen virtuellen...
+  - *Passende Rollen:* Softwareentwickler, Betriebschef, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[BrainGrid](https://www.aimyflow.com/de/ai/braingrid-ai)**
   - BrainGrid ist ein Tool zur KI-Produktplanung, das KI-Entwicklern und nichttechnischen Gründern hilft, Ideen zu formen, Funktionen zu planen und strukturierte Aufgaben sowie Spezifikationen für KI-Coding-Tools...
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, CEO +1 mehr
+
+- **[BrainSoup](https://www.aimyflow.com/de/ai/nurgo-software-com-products-brainsoup)**
+  - BrainSoup ist eine Windows-Desktop-KI-Plattform zum Erstellen benutzerdefinierter KI-Agenten, die Aufgaben automatisieren, Tools nutzen, in Multi-Agenten-Workflows zusammenarbeiten und auf Ihre eigenen Daten zugreifen...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Softwareentwickler +1 mehr
 
 - **[Braintrust AIR](https://www.aimyflow.com/de/ai/usebraintrust-com)**
   - Braintrust AIR ist eine KI-gestützte Plattform für Recruiting und Interview-Screening, die HR- und Recruiting-Teams dabei unterstützt, Terminplanung, Video-Erstgespräche und die Bewertung von Kandidaten zu...
@@ -1868,6 +2107,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Bright Data für KI ist eine Webdatenplattform, die KI-Teams dabei unterstützt, strukturierte Echtzeit- und Trainingsdaten aus dem Web über APIs, Remote-Browser, Datensätze und Automatisierungstools zu durchsuchen, zu...
   - *Passende Rollen:* Data Engineer, Data Scientist, Softwareentwickler, Softwareentwicklungsleiter +1 mehr
 
+- **[Brighterway](https://www.aimyflow.com/de/ai/brighterway-ai)**
+  - Brighterway ist eine KI-gestützte Plattform für medizinische Aktenintelligenz, die unübersichtliche PDFs in strukturierte Zeitachsen, Behandlungsfälle, Zusammenfassungen und verfahrensreife Unterlagen für Teams in den...
+  - *Passende Rollen:* Gesundheitsadministrator, Spezialist für Arbeitsmedizin, Hausarzt, Medizinische/r Labortechniker/in +1 mehr
+
 - **[BrightKeyword](https://www.aimyflow.com/de/ai/brightkeyword-com)**
   - BrightKeyword ist ein KI-gestütztes Keyword-Recherche-Tool, das SEO-Fachleuten, Content-Marketern, Gründern und Agenturen hilft, verborgene Suchbegriffe zu finden, sie nach Suchintention zu clustern und Themen anhand...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
@@ -1879,6 +2122,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Brizy AI Website Builder](https://www.aimyflow.com/de/ai/brizy-io-ai-website-builder)**
   - Brizy AI Website Builder ist ein KI-Website-Builder, der Nutzern hilft, schnell professionelle Websites und Landingpages zu erstellen, vor allem für Menschen, die eine schnelle, einfache Möglichkeit brauchen, eine...
   - *Passende Rollen:* Leiter Digitales Marketing, CEO, Texter, Content Creator +1 mehr
+
+- **[Bronco AI](https://www.aimyflow.com/de/ai/bronco-ai)**
+  - Bronco AI ist eine KI-Agentenplattform für Designverifikation, die Chipdesign-Teams bei der Verifikationsplanung, dem UVM-Testbench-Bootstrapping und dem Simulations-Debugging unterstützt, vor allem für DV-Ingenieure...
+  - *Passende Rollen:* Elektroingenieur, Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Browse AI](https://www.aimyflow.com/de/ai/browse-ai)**
   - Browse AI ist eine No-Code-KI-Plattform für Web-Scraping und Website-Monitoring, die Nutzern hilft, Daten zu extrahieren, Seitenänderungen zu erkennen und Websites in Tabellen oder APIs umzuwandeln, insbesondere für...
@@ -1940,9 +2187,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Bustem ist ein DMCA-Takedown- und Markenschutz-Service, der E-Commerce-Marken dabei hilft, Nachahmer, gefälschte Angebote, Fake-Anzeigen und rechtsverletzende Websites über Marktplätze, Suchmaschinen und soziale...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Anwalt, CEO +1 mehr
 
-- **[BusyOcto](https://www.aimyflow.com/de/ai/busyocto-ai)**
-  - BusyOcto ist eine KI-Marketingplattform, die Marketingfachleuten dabei hilft, Wettbewerbsstrategien zu analysieren, neue Anzeigen zu erstellen, über die Performance zu berichten und Werbeausgaben zu optimieren, vor...
-  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Texter, Content Creator +1 mehr
+- **[Butternut.ai](https://www.aimyflow.com/de/ai/butternut-ai)**
+  - Butternut.ai ist ein KI-Website-Builder, der kleinen Unternehmen, Freelancern und Gründern hilft, in Sekundenschnelle professionelle Unternehmens- oder Portfolio-Websites zu erstellen und zu veröffentlichen – mit...
+  - *Passende Rollen:* Leiter Digitales Marketing, CEO, E-Commerce-Verkäufer, Texter +1 mehr
 
 - **[Butterreader.blog](https://www.aimyflow.com/de/ai/butterreader-blog)**
   - Butterreader.blog ist eine WordPress-Website im „Demnächst verfügbar“-Status mit einer Aufforderung zur Anmeldung für Start-Updates, die sich an Besucher richtet, die wissen möchten, wann die Website online geht. Für...
@@ -1979,6 +2226,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Cactus ist eine KI-Inferenz-Engine auf dem Gerät und ein hybrides Cloud-Toolkit, das Entwicklern hilft, Sprach-, Bildverarbeitungs- und Textmodelle lokal auf Smartphones, Laptops und Edge-Geräten bereitzustellen, mit...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
+- **[Cair Health](https://www.aimyflow.com/de/ai/cairhealth-com)**
+  - Cair Health ist eine KI-Plattform für Revenue Cycle Management, die Abrechnungsteams im Gesundheitswesen dabei unterstützt, Codierung, Berechtigungsprüfungen, die Einreichung von Ansprüchen, die Nachverfolgung von...
+  - *Passende Rollen:* Fachkraft für medizinische Abrechnung, Gesundheitsadministrator, Finanzanalyst, Betriebschef
+
 - **[Caktus AI](https://www.aimyflow.com/de/ai/caktus-ai)**
   - Caktus AI ist eine KI-Lernplattform für Studierende, die ihnen hilft, zu recherchieren, Aufsätze mit verifizierbaren Zitaten zu schreiben, Mathematik- und Naturwissenschaftsaufgaben Schritt für Schritt zu lösen, Texte...
   - *Passende Rollen:* Lehrkraft, Hochschulprofessor, Nachhilfelehrer für Testvorbereitung, Online-Programmierlehrer +1 mehr
@@ -1999,10 +2250,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - CallGPT 6X ist ein KI-Arbeitsbereich, der Fachkräften und entwicklerorientierten Nutzern hilft, an einem Ort auf sechs große KI-Anbieter zuzugreifen, Modelle innerhalb derselben Konversation zu wechseln, die Kosten pro...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Finanzanalyst +1 mehr
 
-- **[CallMe](https://www.aimyflow.com/de/ai/github-com-ZeframLou-call-me)**
-  - CallMe ist ein minimalistisches Claude-Code-Plugin, mit dem der Assistent Ihr Telefon anrufen kann, um abgeschlossene Arbeiten, Blocker oder Entscheidungen zu besprechen, vor allem für Entwickler, die Claude Code...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
-
 - **[Calltree AI](https://www.aimyflow.com/de/ai/calltree-ai)**
   - Calltree AI ist eine agentische KI-Kundensupport-Plattform, die Unternehmen dabei unterstützt, ihren 24/7-Service zu skalieren, Anfragen schneller zu lösen und Nachfragespitzen zu bewältigen, während die Markenstimme...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Filialleiter, CEO +1 mehr
@@ -2018,9 +2265,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - CamClo3D ist eine KI-Plattform für Modefotografie und virtuelles Anprobieren, die Modemarken und E-Commerce-Teams dabei unterstützt, einzelne Kleidungs- oder Produktbilder ohne traditionelle Fotoshootings in...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Grafikdesigner, Content Creator +1 mehr
 
+- **[CAMEL-AI](https://www.aimyflow.com/de/ai/camel-ai-org)**
+  - CAMEL-AI ist ein Open-Source-Framework und eine Forschungsgemeinschaft für den Aufbau von Multi-Agenten-Systemen zur Aufgabenautomatisierung, Datengenerierung und Weltsimulation, das sich hauptsächlich an...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, Data Engineer +1 mehr
+
+- **[camelAI](https://www.aimyflow.com/de/ai/camelai-com)**
+  - camelAI ist ein KI-Coding-Agent mit einem persistenten Arbeitsbereich, der Teams dabei unterstützt, eine App oder einen Workflow im Gespräch zu beschreiben und ihn dann mit verbundenen Tools autonom zu erstellen,...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
+
 - **[Camfer](https://www.aimyflow.com/de/ai/camfer-dev)**
   - Camfer ist ein KI-CAD-Tool für SolidWorks, das Benutzern hilft, CAD-Entwürfe aus Text oder Bildern zu erstellen und zu verstehen sowie Informationen aus dem Feature-Baum abzurufen, hauptsächlich für...
   - *Passende Rollen:* Maschinenbauingenieur/in, Industriedesigner/in, Softwareentwickler
+
+- **[Campfire](https://www.aimyflow.com/de/ai/meetcampfire-com)**
+  - Campfire ist ein KI-natives ERP, das wachstumsstarken Finanz- und Buchhaltungsteams hilft, zentrale Buchhaltungsprozesse, die Umsatzautomatisierung, das Reporting und das Abschlussmanagement bei der Skalierung zu...
+  - *Passende Rollen:* Manager Finanzplanung & Analyse, Wirtschaftsprüfer, Finanzchef, Finanzanalyst +1 mehr
 
 - **[Camtasia](https://www.aimyflow.com/de/ai/techsmith-com-camtasia)**
   - Camtasia ist ein KI-gestützter Bildschirmrekorder und Videoeditor, der Nutzern hilft, Tutorials, Schulungsvideos, Software-Demos und andere screenbasierte Videos zu erstellen – hauptsächlich für Kreative, Lehrkräfte,...
@@ -2085,12 +2344,20 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Cardamon AI ist eine Plattform für regulatorische Compliance mit auditierbaren KI-Agenten, die regulierten Unternehmen – insbesondere Compliance-, Rechts- und Risikoteams bei Banken, Fintechs und Kryptounternehmen –...
   - *Passende Rollen:* Risikoanalyst, Anwalt, Cybersicherheitsanalyst, Projektmanagement-Beauftragter +1 mehr
 
+- **[Cardinal Gray](https://www.aimyflow.com/de/ai/cardinalgray-com)**
+  - Cardinal Gray ist ein KI-Tool, das die Titelbearbeitung für Autofinanzierer automatisiert und Origination- sowie Servicing-Teams dabei unterstützt, DMV-Dokumente vorzubereiten, digitale Unterschriften einzuholen,...
+  - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Betriebschef
+
 - **[CareBridge Copilot](https://www.aimyflow.com/de/ai/sunderlinbcba-com-carebridge-copilot-tool)**
   - CareBridge Copilot ist ein pädagogisches KI-Tool, das Eltern und Betreuungspersonen von Kindern und Jugendlichen im Alter von 2 bis 21 Jahren dabei unterstützt, Verhalten zu verstehen, ruhig zu reagieren und zu Hause...
 
 - **[CareSwift](https://www.aimyflow.com/de/ai/careswift-com)**
   - CareSwift ist ein KI-gestütztes Dokumentations- und Compliance-Tool für EMS-Teams, das Sanitätern und Rettungsdienstanbietern hilft, ePCR-Rettungsdienstberichte schneller zu erstellen – mit Echtzeit-Anleitung,...
   - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Pflegeassistent, Häusliche Pflegekraft
+
+- **[Carma](https://www.aimyflow.com/de/ai/joincarma-com)**
+  - Carma ist ein KI-Betriebssystem für moderne Flotten, das Enterprise-Flottenteams dabei unterstützt, Wartung, Lieferantenkoordination, Serviceverifizierung und Kostentransparenz über große Fahrzeugflotten hinweg zu...
+  - *Passende Rollen:* Logistikplaner/in, Betriebschef, Finanzchef, Produktionsleiter +1 mehr
 
 - **[Carrot Labs](https://www.aimyflow.com/de/ai/carrotlabs-ai)**
   - Carrot Labs ist eine Plattform für die Zuverlässigkeit und Optimierung von KI-Agenten, die Teams dabei unterstützt, produktive Agenten über reale Workflows hinweg zu messen, zu überwachen und zu verbessern,...
@@ -2099,6 +2366,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Cartoonize AI](https://www.aimyflow.com/de/ai/cartoonize-ai)**
   - Cartoonize AI ist ein onlinebasierter KI-Foto-zu-Cartoon-Generator, der Nutzern dabei hilft, Fotos, Haustiere und Landschaften in stilisierte Cartoonbilder in Formaten wie Anime, Pixar-Stil, Comics und Aquarell zu...
   - *Passende Rollen:* Social-Media-Content-Creator, Grafikdesigner, Leiter Digitales Marketing, Content Creator +1 mehr
+
+- **[Casca](https://www.aimyflow.com/de/ai/cascading-ai)**
+  - Casca ist eine KI-native Kreditvergabeplattform für Unternehmensfinanzierungen, die FDIC-versicherten Banken und Nichtbank-Kreditgebern hilft, die Antragsaufnahme, Kreditanalyse, Dokumentenverarbeitung und...
+  - *Passende Rollen:* Finanzanalyst, Finanzchef, Risikoanalyst, Betriebschef +1 mehr
 
 - **[Cascadeur](https://www.aimyflow.com/de/ai/cascadeur-com)**
   - Cascadeur ist eine eigenständige 3D-Keyframe-Animationssoftware, die Nutzern dabei hilft, humanoide oder Charakteranimationen mit KI-gestützten und physikbasierten Werkzeugen zu erstellen, zu bearbeiten und zu...
@@ -2151,6 +2422,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - CC ist ein experimenteller KI-Produktivitätsagent von Google Labs, der Gmail, Kalender und Drive verbindet, um ein personalisiertes tägliches E-Mail-Briefing bereitzustellen und per E-Mail eingehende Anfragen zu...
   - *Passende Rollen:* CEO, Betriebschef, Projektmanagement-Beauftragter, Filialleiter +1 mehr
 
+- **[Cedalio](https://www.aimyflow.com/de/ai/cedalio-com)**
+  - Cedalio ist eine KI-Plattform für die Automatisierung von Dokumenten und Daten, die Finanzteams, insbesondere Mitarbeitenden in der Kreditorenbuchhaltung, dabei hilft, Rechnungen, Versorgerrechnungen, Bestellungen und...
+  - *Passende Rollen:* Manager Finanzplanung & Analyse, Finanzchef, Finanzanalyst, Wirtschaftsprüfer +1 mehr
+
+- **[Cedana](https://www.aimyflow.com/de/ai/cedana-ai)**
+  - Cedana ist eine Compute-Orchestrierungsplattform, die Infrastruktur-, ML- und HPC-Teams dabei unterstützt, GPU- und CPU-Workloads über Kubernetes, SLURM, On-Premise- und Multi-Cloud-Umgebungen hinweg zu migrieren und...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Data Engineer, Softwareentwickler +1 mehr
+
 - **[CelebrityAI](https://www.aimyflow.com/de/ai/celebrityai-club)**
   - CelebrityAI ist ein KI-Tool für Video- und Stimmenklonen, mit dem Nutzer aus Text oder hochgeladenen Medien Videos im Stil von Prominenten, personalisierte Nachrichten und übersetzte Sprache erstellen können,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Texter +1 mehr
@@ -2158,6 +2437,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Cenote](https://www.aimyflow.com/de/ai/joincenote-com)**
   - Cenote ist eine HIPAA-konforme KI-Vertriebsplattform, die Sprach-, Text-, E-Mail- und WhatsApp-Agenten einsetzt, um abgebrochene Warenkörbe zurückzugewinnen, abgesprungene Patienten zu reaktivieren und Leads für...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Gesundheitsadministrator, Wellness-Coach +1 mehr
+
+- **[Central](https://www.aimyflow.com/de/ai/centralhq-com)**
+  - Central ist eine KI-native Plattform für Gehaltsabrechnung, HR, Benefits und Compliance, die Start-ups dabei unterstützt, Zahlungen an Mitarbeitende und Auftragnehmer zu verwalten, länderübergreifende Compliance...
+  - *Passende Rollen:* CEO, Finanzchef, Talent-Acquisition-Manager, Manager für Vergütung & Zusatzleistungen +1 mehr
 
 - **[Cerebras](https://www.aimyflow.com/de/ai/cerebrascoder-com)**
   - Cerebras ist eine KI-Coding-Plattform, die Hochgeschwindigkeits-Inferenz mit GLM 4.6 bereitstellt, damit Entwickler in ihren bevorzugten KI-gestützten Editoren und Agenten schneller Code generieren können. Für...
@@ -2219,6 +2502,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Chat360 ist eine agentische KI-Omnichannel-Plattform für Kundenerlebnisse, die Unternehmen dabei hilft, Lead-Qualifizierung, Vertrieb, Buchungen und Kundensupport über WhatsApp, Sprache, Web- und Social-Media-Kanäle...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Leiter E-Commerce-Vertrieb, Restaurantleiter +1 mehr
 
+- **[Chatarena.org](https://www.aimyflow.com/de/ai/chatarena-org)**
+  - Chatarena.org ist eine Domain-zum-Verkauf-Landingpage von GoDaddy, die Käufern dabei hilft, die Domain chatarena.org zu kaufen, per Mietkauf zu erwerben oder ein Angebot abzugeben, und richtet sich in erster Linie an...
+  - *Passende Rollen:* CEO, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter
+
 - **[Chatbase](https://www.aimyflow.com/de/ai/chatbase-co)**
   - Chatbase ist eine Plattform für KI-gestützte Kundensupport-Agenten, die Unternehmen dabei unterstützt, dialogorientierte Agenten zu erstellen, bereitzustellen und zu verwalten, um Supportfragen zu beantworten,...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Leiter Digitales Marketing
@@ -2238,10 +2525,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[ChatExcel](https://www.aimyflow.com/de/ai/chatexcel-com)**
   - ChatExcel ist ein KI-Tool für Tabellenkalkulationen und Präsentationen, mit dem Nutzer Excel-Dateien verarbeiten, Datenbankdaten analysieren, Diagramme erstellen und PPTs per natürlicher Sprache generieren können, vor...
   - *Passende Rollen:* Finanzanalyst, Manager Finanzplanung & Analyse, Projektmanagement-Beauftragter, Manager für Vergütung & Zusatzleistungen +1 mehr
-
-- **[ChatFeatured](https://www.aimyflow.com/de/ai/chatfeatured-com)**
-  - ChatFeatured ist eine Plattform zur Optimierung der KI-Suche, die Marken und Agenturen dabei unterstützt, zu überwachen, zu analysieren und zu verbessern, wie KI-Engines wie ChatGPT, Google AI, Gemini, Perplexity und...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
 
 - **[ChatGiraffe](https://www.aimyflow.com/de/ai/chatgiraffe-ai)**
   - ChatGiraffe ist ein KI-gestützter Ausgabentracker und Finanzassistent, der Nutzern hilft, Ausgaben per Chat, Belegfotos und Analyse von Kontoauszügen zu erfassen, vor allem für Privatpersonen, die ihre Finanzen selbst...
@@ -2303,6 +2586,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Cheerlink ist ein KI-gestütztes Inbox- und Sales-Widget, das Website-Besucher anspricht, Fragen sofort beantwortet und Conversion-Raten verbessert, besonders im E-Commerce.
   - *Passende Rollen:* E-Commerce-Verkäufer
 
+- **[Cheers](https://www.aimyflow.com/de/ai/cheers-tech)**
+  - Cheers ist eine lokale Suchplattform für Unternehmen mit mehreren Standorten, die Dienstleistungsunternehmen, Gastronomiemarken und Einzelhändlern hilft, ihre KI-Sichtbarkeit durch Bewertungsmanagement, Einträge,...
+  - *Passende Rollen:* Leiter Digitales Marketing, Restaurantleiter, Filialleiter, Außendienstleiter +1 mehr
+
 - **[ChefGPT](https://www.aimyflow.com/de/ai/chefgpt-xyz)**
   - ChefGPT ist ein KI-Rezeptgenerator und eine App zur Essensplanung, die Hobbyköchen dabei hilft, aus verfügbaren Zutaten Rezepte zu erstellen, Kalorien zu verfolgen, Vorräte zu organisieren und Mahlzeiten anhand von...
   - *Passende Rollen:* Food-Enthusiast, Wellness-Coach, Content Creator
@@ -2330,10 +2617,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Cisco AI Canvas ist ein gemeinsamer generativer Arbeitsbereich für AgenticOps, der domänenübergreifende IT-Telemetrie, Teams und Agenten zusammenführt, damit IT-Betriebsteams zusammenarbeiten und aus einer...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Cybersicherheitsmanager, Softwareentwickler, Projektmanagement-Beauftragter +1 mehr
 
-- **[Citable](https://www.aimyflow.com/de/ai/getcitable-com)**
-  - Citable ist eine Plattform für KI-Marken-Sichtbarkeit und Analysen, die Teams dabei hilft, nachzuverfolgen und zu verbessern, wie Tools wie ChatGPT, Claude, Perplexity, Gemini und Grok ihre Marke erwähnen, vor allem...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
-
 - **[Civitai](https://www.aimyflow.com/de/ai/civitai-com)**
   - Civitai ist eine Community-Plattform zum Entdecken von Stable-Diffusion- und Flux-Modellen, zum Erstellen und Teilen von KI-generierter Kunst sowie zum Erkunden von Bildern, Videos und Inhalten von Creatorn,...
   - *Passende Rollen:* Grafikdesigner, Social-Media-Content-Creator, Content Creator, Unabhängige/r Filmemacher/in +1 mehr
@@ -2353,6 +2636,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Clara](https://www.aimyflow.com/de/ai/askclara-com)**
   - Clara ist ein KI-gestütztes Primärversorgungstool, das Patientinnen und Patienten dabei unterstützt, Symptome zu überprüfen, Laborwerte zu analysieren, Verschreibungen zu verwalten und die Krankengeschichte zu...
   - *Passende Rollen:* Hausarzt, Gesundheitsadministrator, Wellness-Coach, Fachkraft für medizinische Abrechnung
+
+- **[Clarion](https://www.aimyflow.com/de/ai/clarionhealth-com)**
+  - Clarion ist eine KI-Plattform für konversationelle Kommunikation, die die telefonbasierte Patientenkommunikation und Front-Office-Workflows wie Terminplanung, Überweisungen, Abrechnung und Support außerhalb der...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Kardiologe, Hausarzt +1 mehr
+
+- **[Clarum](https://www.aimyflow.com/de/ai/clarum-ai)**
+  - Clarum ist eine KI-Agentenplattform für Investoren in privaten Märkten, die Due-Diligence-, Monitoring- und Reporting-Workflows für Teams aus den Bereichen Private Equity, Venture Capital, Family Offices und Dachfonds...
+  - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Finanzchef, Projektmanagement-Beauftragter +1 mehr
 
 - **[Claude](https://www.aimyflow.com/de/ai/claude-com-solutions-healthcare)**
   - Claude ist ein HIPAA-fähiges KI-Tool für Gesundheitsorganisationen, das Gesundheitssystemen und Start-ups dabei hilft, Vorabgenehmigungen, Widersprüche gegen Leistungsansprüche, die Triage von Patientennachrichten und...
@@ -2414,9 +2705,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Claybird ist eine KI-gestützte Outbound-Plattform für Gebäudereinigungs- und andere gewerbliche Dienstleistungsunternehmen, die Teams dabei hilft, lokale Geschäftskontakte zu finden, personalisierte Ansprache zu...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Filialleiter +1 mehr
 
+- **[Cleancard](https://www.aimyflow.com/de/ai/cleancard-bio)**
+  - Cleancard ist ein Unternehmen, das einen Ansatz aus synthetischer Biologie und KI entwickelt, um die Krebsfrüherkennung so einfach anwendbar zu machen wie einen Schwangerschaftstest, vor allem für den Einsatz im...
+  - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, Molekularbiologe, Mikrobiologe +1 mehr
+
 - **[Cleanup.pictures](https://www.aimyflow.com/de/ai/cleanup-pictures)**
   - Cleanup.pictures ist eine KI-gestützte Web-App zur Fotoretusche, die unerwünschte Objekte, Personen, Texte, Logos, Wasserzeichen und Bildfehler aus Bildern entfernt, vor allem für Fotografen, Kreativteams,...
   - *Passende Rollen:* Grafikdesigner, Immobilienmakler, E-Commerce-Verkäufer, Content Creator +1 mehr
+
+- **[Clearest Health](https://www.aimyflow.com/de/ai/clearesthealth-com)**
+  - Clearest Health ist eine KI-gestützte Plattform zur Umsatzrückgewinnung, die unabhängigen Gesundheitspraxen dabei hilft, Erstattungen außerhalb des Netzwerks durch IDR-Einsprüche gemäß dem No Surprises Act mithilfe...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Finanzanalyst, CEO
+
+- **[Clearly AI](https://www.aimyflow.com/de/ai/clearly-ai-com)**
+  - Clearly AI ist eine KI-Plattform für Sicherheits- und Datenschutzprüfungen, die Bedrohungsmodellierung, Design-Reviews und Risikotriage automatisiert, um Sicherheits-, Datenschutz- und Produktteams dabei zu helfen,...
+  - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[CleeAI](https://www.aimyflow.com/de/ai/cleeai-com)**
   - CleeAI ist ein KI-Betriebssystem und eine Orchestrierungs-Engine für Unternehmen, die Organisationen dabei unterstützt, produktionsreife KI-Tools mit integrierter Compliance, Sicherheit und Skalierbarkeit zu...
@@ -2518,10 +2821,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Die CloudTalk AI Voice Agent Platform ist ein Cloud-Telefonie-Tool, das eingehende und ausgehende Anrufe wie Nachfassanrufe, Erinnerungen und Feedback-Anrufe automatisiert, hauptsächlich für Vertriebs-, Support-,...
   - *Passende Rollen:* Außendienstleiter, Talent-Acquisition-Manager, Logistikplaner/in, Projektmanagement-Beauftragter +1 mehr
 
-- **[CloudX](https://www.aimyflow.com/de/ai/cloudx-ai)**
-  - CloudX ist eine programmatische Werbeinfrastrukturplattform und Supply-Side-Plattform für Mobile- und KI-Publisher. Sie hilft ihnen, Inventar zu verwalten, transparente Auktionen durchzuführen und die Monetarisierung...
-  - *Passende Rollen:* Leiter Digitales Marketing, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, CEO
-
 - **[Clriti](https://www.aimyflow.com/de/ai/clriti-ai)**
   - Clriti ist ein KI-Roadmap-Tool, das Strategienotizen, Dokumente oder Website-Inhalte in präsentationsreife Roadmaps für Stakeholder umwandelt – mit Priorisierungsbewertung, mehreren Ansichten und Exportformaten, vor...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, CEO, Betriebschef +1 mehr
@@ -2529,6 +2828,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Cluely AI](https://www.aimyflow.com/de/ai/cluelyai-com)**
   - Cluely AI ist ein KI-Vertriebs-Copilot, der Vertriebsmitarbeitern während Live-Anrufen Echtzeit-Hinweise, Einwandbehandlung, Dokumentenabruf und Unterstützung bei der Nachverfolgung bietet, hauptsächlich für...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter, Leiter Digitales Marketing +1 mehr
+
+- **[cmux](https://www.aimyflow.com/de/ai/cmux-dev)**
+  - cmux ist ein natives macOS-Terminal, das auf Ghostty basiert und Entwicklerinnen und Entwicklern hilft, Coding-Agenten und andere CLI-Tools mit vertikalen Tabs, geteilten Bereichen, Benachrichtigungen, einem...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Technischer Redakteur
 
 - **[Cntent](https://www.aimyflow.com/de/ai/scout-cntent-ai)**
   - Cntent ist eine KI-gestützte Plattform für Content Operations, die finanzierten Technologieunternehmen dabei hilft, Ideenfindung, Recherche, Entwurf, Verifizierung, Review, Distribution und Analytik zu automatisieren...
@@ -2558,6 +2861,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - CodeFlying ist ein KI-App-Builder, der Nutzern dabei hilft, Full-Stack-Apps per Chat zu erstellen, vor allem für Creator und nicht-technische Nutzer, die Ideen schnell in funktionierende Anwendungen umsetzen möchten....
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Grafikdesigner, CEO +1 mehr
 
+- **[Codegen](https://www.aimyflow.com/de/ai/codegen-com)**
+  - Codegen ist ein Betriebssystem für Code-Agenten, das Entwicklungsteams dabei unterstützt, autonome Agenten bereitzustellen, um Aufgaben zu planen, Code zu schreiben, Tests und Dokumentationen zu erstellen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Codenull.ai](https://www.aimyflow.com/de/ai/codenullai-versoly-page)**
   - Codenull.ai ist eine No-Code-KI-Plattform, die Nutzern hilft, benutzerdefinierte KI-Modelle aus ihren eigenen Daten zu erstellen und zu trainieren – für Aufgaben wie Empfehlungssysteme, Betrugserkennung, Prognosen,...
   - *Passende Rollen:* Data Scientist, Finanzanalyst, Logistikplaner/in, Projektmanagement-Beauftragter +1 mehr
@@ -2570,9 +2877,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - CodeRabbit ist ein KI-gestütztes Code-Review-Tool, das Softwareentwicklungsteams dabei unterstützt, Pull Requests mit kontextbezogenem Feedback, zeilenweisen Vorschlägen, Chat und Prüfungen vor dem Merge über PRs, IDEs...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
 
-- **[Codev](https://www.aimyflow.com/de/ai/co-dev)**
-  - Codev ist ein KI-App-Builder, der Textbeschreibungen in produktionsreife Full-Stack-Next.js-Anwendungen umsetzt, ideal für Gründer, Produktteams und Entwickler.
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, Cybersicherheitsmanager +21 mehr
+- **[Codes Health for Lawyers](https://www.aimyflow.com/de/ai/getcodeshealth-com)**
+  - Codes Health für Juristen ist eine KI-gestützte Plattform zur Beschaffung und Prüfung medizinischer Unterlagen, die Anwaltskanzleien dabei unterstützt, Unterlagen zusammenzustellen, Chronologien zu erstellen und...
+  - *Passende Rollen:* Anwalt, Gesundheitsadministrator, Fachkraft für medizinische Abrechnung
 
 - **[CodeViz](https://www.aimyflow.com/de/ai/codeviz-ai)**
   - CodeViz ist ein kollaboratives Tool zur Codevisualisierung und Erstellung von Architekturdiagrammen, das Softwareteams dabei hilft, Codebasen zu verstehen, Änderungen zu überprüfen und die Dokumentation mit dem...
@@ -2594,6 +2901,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Codyco ist eine Telefon-KI für Hotelgruppen, die Anrufe entgegennimmt, häufige Gästefragen beantwortet und Zimmer durchgängig inklusive Zahlung und PMS-Eintrag bucht, vor allem für Hotelbetreiber, die die Verfügbarkeit...
   - *Passende Rollen:* Restaurantleiter, Filialleiter, Betriebschef, CEO +1 mehr
 
+- **[Cognee](https://www.aimyflow.com/de/ai/prometh-ai)**
+  - Cognee ist eine Open-Source-KI-Memory-Engine, die Ingenieuren hilft, adaptive KI-Agenten zu entwickeln, indem sie Daten für Abruf, Schlussfolgerungen und feedbackbasiertes Lernen in einen Wissensgraphen umwandelt. Für...
+  - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Cogniflow](https://www.aimyflow.com/de/ai/cogniflow-ai)**
   - Cogniflow ist eine No-Code-KI-Plattform für vielbeschäftigte Fachkräfte und Teams, mit der sich Chatbots erstellen, Informationen aus Dokumenten extrahieren sowie Texte, Bilder, Audio- oder Videoinhalte analysieren...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Leiter Digitales Marketing +1 mehr
@@ -2613,6 +2924,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Cohere](https://www.aimyflow.com/de/ai/cohere-ai)**
   - Cohere ist eine KI-Plattform für Unternehmen mit anpassbaren Sprach-, Retrieval-, Such- und Transkriptionsmodellen, die Organisationen dabei helfen, Arbeitsabläufe zu automatisieren, Erkenntnisse zu gewinnen und...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Data Engineer, Softwareentwicklungsleiter, Betriebschef +1 mehr
+
+- **[Coldreach](https://www.aimyflow.com/de/ai/coldreach-ai)**
+  - Coldreach ist eine KI-SDR-Plattform, die Vertriebs- und Go-to-Market-Teams dabei unterstützt, B2B-Leads mit hoher Kaufabsicht zu finden, Kaufsignale über mehrere Datenquellen hinweg zu überwachen und personalisierte...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
 - **[Collov.ai](https://www.aimyflow.com/de/ai/collov-ai-ai-video-generator)**
   - Collov.ai bietet KI für virtuelles Home Staging, die Immobilienmaklern und Maklerbüros dabei hilft, inszenierte Immobilienvisualisierungen für das Immobilienmarketing und die Präsentation von Exposés zu erstellen. Für...
@@ -2646,9 +2961,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Columns Flow ist ein Daten-Workflow-Tool, das Tabellenkalkulationsnutzern, Analysten, Ingenieuren und Managern hilft, verbundene Datenquellen mithilfe von Transformationen in natürlicher Sprache in visuelle Berichte,...
   - *Passende Rollen:* Data Engineer, Softwareentwickler, Projektmanagement-Beauftragter, Finanzanalyst
 
+- **[CombineHealth](https://www.aimyflow.com/de/ai/combinehealth-ai)**
+  - CombineHealth ist eine KI-gestützte Plattform für medizinische Kodierung und Abrechnung, die Aufgaben im Revenue Cycle des Gesundheitswesens wie Kodierung, Forderungsmanagement, Bearbeitung von Ablehnungen,...
+  - *Passende Rollen:* Fachkraft für medizinische Abrechnung, Gesundheitsadministrator, Hausarzt, Wirtschaftsprüfer +1 mehr
+
 - **[ComfyOnline](https://www.aimyflow.com/de/ai/comfyonline-app)**
   - ComfyOnline ist eine Online-Plattform zum Ausführen von ComfyUI-Workflows und zum Erstellen bereitstellbarer APIs ohne lokale GPU-Hardware oder komplexe Einrichtung, hauptsächlich für KI-Entwickler und ComfyUI-Nutzer,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, Content Creator +1 mehr
+
+- **[CommodityAI](https://www.aimyflow.com/de/ai/commodityai-io)**
+  - CommodityAI ist ein KI-Workspace für Rohstoffunternehmen, der kommerzielle, Logistik- und Finanz-Workflows automatisiert, indem E-Mails, PDFs, Chats und andere unstrukturierte Daten mit Ausnahmebehandlung, Audit-Trails...
+  - *Passende Rollen:* Logistikplaner/in, Finanzanalyst, Betriebschef, Projektmanagement-Beauftragter +1 mehr
 
 - **[CommunityOne](https://www.aimyflow.com/de/ai/communityone-io)**
   - CommunityOne ist ein Discord-KI-Bot und eine Analyseplattform, die Serverinhabern, Gründern und Community-Managern dabei hilft, den Mitgliedersupport zu automatisieren, gamifizierte Quests durchzuführen und Engagement...
@@ -2685,9 +3008,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Concierge.ai ist eine gebrandete KI-Antwortmaschine für B2B-SaaS-Websites, die Käufern hilft, direkt auf der Website Fragen zu stellen und spezifische Antworten zu erhalten, die auf der Stimme und den Inhalten eines...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Leiter E-Commerce-Vertrieb, CEO +1 mehr
 
+- **[Concourse](https://www.aimyflow.com/de/ai/concourse-co)**
+  - Concourse ist eine KI-Agentenplattform für Corporate-Finance- und Buchhaltungsteams, die sich mit Finanzsystemen verbindet, um Analysen, Reporting, Forecasting und Workflow-Aufgaben per natürlicher Sprache zu...
+  - *Passende Rollen:* Manager Finanzplanung & Analyse, Finanzchef, Finanzanalyst, Wirtschaftsprüfer +1 mehr
+
 - **[Conductor](https://www.aimyflow.com/de/ai/conductor-build)**
   - Conductor ist eine Mac-App für Entwickler, die parallele Codex- und Claude-Code-Agenten in isolierten, auf Git-Worktrees basierenden Arbeitsbereichen ausführt und Nutzern dabei hilft, den Fortschritt zu überwachen...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+
+- **[Conductor Quantum](https://www.aimyflow.com/de/ai/conductorquantum-com)**
+  - Conductor Quantum ist ein Unternehmen, das KI-gestützte Software entwickelt, um Quantencomputer zu betreiben und zu skalieren, vor allem für Teams, die Quantenhardwaresysteme entwickeln und betreiben. Durch die...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Elektroingenieur +1 mehr
+
+- **[Conduit](https://www.aimyflow.com/de/ai/helloconduit-com)**
+  - Conduit ist eine Software für die Terminplanung an Laderampen und das Yard-Management, die Lagerhäusern hilft, Versand und Wareneingang mit Online-Buchung, Fahrer-Check-in, Yard-Transparenz, Dokumenten und Berichten zu...
+  - *Passende Rollen:* Logistikplaner/in, Produktionsleiter, Filialleiter, Betriebschef
 
 - **[Confident AI](https://www.aimyflow.com/de/ai/confident-ai-com)**
   - Confident AI ist eine KI-Qualitätsplattform für Ingenieure, QA-Teams und Produktverantwortliche, mit der sich LLM-Anwendungen von der Entwicklung bis zur Produktion evaluieren, beobachten, testen und überwachen lassen....
@@ -2721,6 +3056,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Constella ist ein KI-gestütztes Recherche- und Gedächtniswerkzeug, das Nutzern hilft, Informationen über verbundene Quellen hinweg zu finden und sie auf einer einzigen Arbeitsfläche zusammenzuführen, vor allem für...
   - *Passende Rollen:* Data Scientist, Finanzanalyst, Technischer Redakteur, CEO +1 mehr
 
+- **[Constructable](https://www.aimyflow.com/de/ai/constructable-ai)**
+  - Constructable ist eine KI-gestützte Projektmanagement-Software für das Bauwesen, die gewerblichen Bauteams dabei hilft, Vorbauplanung, RFIs, Einreichungen, Arbeitsabläufe auf der Baustelle, Mängellisten, Pläne und...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Gewerbearchitekt, Bauingenieur, Filialleiter +1 mehr
+
 - **[Content at Scale AI Detector](https://www.aimyflow.com/de/ai/contentatscale-ai-ai-content-detector)**
   - Content at Scale AI Detector ist ein englischsprachiger KI-Textprüfer in Echtzeit, der eingefügten Text, URLs oder Dateien analysiert, um einzuschätzen, ob Inhalte von Menschen oder von Modellen wie ChatGPT, Gemini und...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Social-Media-Content-Creator, Technischer Redakteur +1 mehr
@@ -2737,9 +3076,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ContentPod Article Writer ist ein KI-Generator für Blogbeiträge, der Content-Teams, Agenturen, Freelancern und anderen Marketingfachleuten dabei hilft, SEO-optimierte Longform-Artikel, Leitfäden und Entwürfe für...
   - *Passende Rollen:* Texter, Leiter Digitales Marketing, Content Creator, Technischer Redakteur +1 mehr
 
+- **[Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/de/ai/contextqa-com)**
+  - Qualitätssicherung neuer Software 10-mal schneller mit der einzigen kontextbewussten KI-Testplattform. ContextQA nutzt agentische KI, um Tests vorherzusagen, zu generieren und jedes Release zu validieren.
+  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[ContextFort](https://www.aimyflow.com/de/ai/contextfort-ai)**
   - ContextFort ist ein Endpunktsicherheits- und Transparenz-Tool, das KI-Coding-Agenten wie Cursor und Claude Code auf Betriebssystemebene überwacht und Engineering- sowie Sicherheitsteams dabei unterstützt,...
   - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter +1 mehr
+
+- **[Continue](https://www.aimyflow.com/de/ai/continue-dev)**
+  - Continue ist ein Software-Tool zur Qualitätskontrolle, das bei jedem Pull Request quellcodeverwaltete KI-Prüfungen ausführt und so Engineering-Teams und Softwareentwicklern hilft, menschengedefinierte...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
 
 - **[Contrario](https://www.aimyflow.com/de/ai/contrario-ai)**
   - Contrario ist eine KI-gestützte Recruiting-Plattform und ein Netzwerk erfahrener Recruiter, das Unternehmen dabei unterstützt, kritische Positionen schneller zu besetzen – vor allem für Hiring-Teams und Führungskräfte...
@@ -2805,13 +3152,29 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Copysmith ist eine Suite von KI-Plattformen – Frase, Describely und Rytr –, die Marken dabei hilft, ihre Sichtbarkeit in der Suche zu verbessern, Zitate von generativen Suchmaschinen zu erhalten und die...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Texter, Content Creator +1 mehr
 
-- **[Cora Intelligence](https://www.aimyflow.com/de/ai/cora-intelligence-com)**
-  - Cora Intelligence ist eine KI-Plattform für Vertriebsentwicklung, die spezialisierte Agenten aufbaut und koordiniert, um potenzielle Kunden zu recherchieren, Outreach zu verfassen, Antworten zu bearbeiten, Anrufe zu...
-  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, CEO, Betriebschef
+- **[Cora](https://www.aimyflow.com/de/ai/corahealth-app-download)**
+  - Cora ist eine KI-Fitnesscoach-App für iPhone und Apple Watch, die Wearable- und Apple-Health-Daten in personalisierte Empfehlungen zu Schlaf, Erholung, Training, Workouts und Ernährung für Menschen umsetzt, die ihre...
+  - *Passende Rollen:* Wellness-Coach, Yogastudio-Lehrer, Profisportler, Content Creator
+
+- **[Core](https://www.aimyflow.com/de/ai/getcore-me)**
+  - Core ist eine Open-Source-, selbst hostbare KI-Gedächtnisschicht, die Kontext und Aktionen über Apps und KI-Tools hinweg vereinheitlicht und Nutzern, insbesondere Entwicklern, hilft, gemeinsamen Speicher beizubehalten,...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
 
 - **[CoreWise](https://www.aimyflow.com/de/ai/corewise-video)**
   - CoreWise ist ein kostenloses KI-Tool zur Inhaltsanalyse, das aus Videos, Podcasts, Artikeln, PDFs und Sammel-URLs für Inhalte zusammengefasste Erkenntnisse, zentrale Schlussfolgerungen und Fragen & Antworten...
   - *Passende Rollen:* Data Scientist, Finanzanalyst, Hochschulprofessor, Technischer Redakteur +1 mehr
+
+- **[Corgea](https://www.aimyflow.com/de/ai/corgea-com)**
+  - Corgea ist eine Plattform für Anwendungssicherheit, die Entwicklungs- und Sicherheitsteams dabei unterstützt, Schwachstellen in Code, Abhängigkeiten, Infrastructure as Code, Containern und Geheimnissen in einem...
+  - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwickler, Softwareentwicklungsleiter +1 mehr
+
+- **[Corgi](https://www.aimyflow.com/de/ai/corgi-insure)**
+  - Corgi ist eine Startup-Versicherungsplattform, die Gründer:innen sofortige Angebote und modulare Unternehmensversicherungen wie D&O, Tech E&O, Cyber, CGL, Media, EPLI und Treuhandhaftpflicht über alle...
+  - *Passende Rollen:* CEO, Finanzchef, Betriebschef, Manager Finanzplanung & Analyse +1 mehr
+
+- **[Corgi Labs](https://www.aimyflow.com/de/ai/corgilabs-ai)**
+  - Corgi Labs ist eine KI-gestützte Plattform zur Zahlungsoptimierung und Umsatzrückgewinnung, die E-Commerce-, SaaS- und abonnementbasierte Unternehmen dabei unterstützt, Autorisierungsraten zu verbessern, wiederkehrende...
+  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Risikoanalyst, Finanzanalyst, Data Scientist +1 mehr
 
 - **[Corippl](https://www.aimyflow.com/de/ai/corippl-com)**
   - Corippl ist eine Plattform zur gegenseitigen Bewerbung von Inhalten, die Kreativen hilft, ihre Reichweite zu vergrößern, indem sie die Inhalte anderer Kreativer teilen und im Gegenzug ihre eigenen Inhalte teilen...
@@ -2828,6 +3191,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Coschool](https://www.aimyflow.com/de/ai/coschool-ai)**
   - Coschool ist ein KI-Assistent für Lehrkräfte, der bei Unterrichtsplanung, Schüleraktivierung und didaktischen Methoden unterstützt.
   - *Passende Rollen:* Lehrkraft
+
+- **[Cosine AI](https://www.aimyflow.com/de/ai/cosine-sh)**
+  - Cosine AI ist ein On-Premise-Agenten-Tool für die Softwareentwicklung, das Ingenieuren bei Fehlerbehebungen, Feature-Entwicklung, Refactorings, der Analyse von Legacy-Code und der Ausarbeitung von Pull Requests in...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsmanager, IT-Infrastrukturmanager/in +1 mehr
 
 - **[CosmicGuide AI](https://www.aimyflow.com/de/ai/cosmicguideai-com)**
   - CosmicGuide AI ist eine KI-Astrologieplattform, die personalisierte Geburtshoroskop-Deutungen, Analysen der Beziehungskompatibilität, Liebes- und Wohlstandsprognosen sowie Timing-Berichte für Menschen erstellt, die...
@@ -2860,9 +3227,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Coursebox AI](https://www.aimyflow.com/de/ai/coursebox-ai)**
   - Coursebox AI ist eine KI-Plattform zur Kurserstellung, mit der Nutzer Online-Kurse erstellen, Dateien in E-Learning umwandeln und Tutor-Chatbots einsetzen können.
   - *Passende Rollen:* Content Creator
-
-- **[CoverPilot](https://www.aimyflow.com/de/ai/coverpilot-ai)**
-  - CoverPilot ist ein KI-gestützter Generator für Anschreiben und Assistent für Bewerbungen, der Stellenanzeigen analysiert, sie mit dem Profil oder Lebenslauf eines Nutzers abgleicht und ATS-optimierte Anschreiben für...
 
 - **[CoverSentry](https://www.aimyflow.com/de/ai/coversentry-com)**
   - CoverSentry ist ein kostenloser KI-Prüfer und Generator für Anschreiben, der Arbeitssuchenden hilft, hochgeladene oder eingefügte Anschreiben auf Anzeichen von KI-generiertem Text zu prüfen, Empfehlungen zu erhalten...
@@ -2903,10 +3267,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Create Music AI ist ein KI-Musikgenerator und Bearbeitungs-Toolkit, das Kreativen hilft, Text oder Liedtexte in lizenzfreie Songs umzuwandeln, Gesang zu entfernen, Stems zu trennen, MIDI zu bearbeiten und Musik zu...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Podcast-Produzent, Texter +1 mehr
 
-- **[CreateMusicVideo.ai](https://www.aimyflow.com/de/ai/createmusicvideo-ai)**
-  - CreateMusicVideo.ai ist ein KI-Musikvideo-Generator, der ein Foto und eine Audiospur in performancebasierte Videos mit filmischen Kamerabewegungen, Lippensynchronisation, Ganzkörpertanz und mehreren Seitenverhältnissen...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Texter +1 mehr
-
 - **[Creatify](https://www.aimyflow.com/de/ai/creatify-ai)**
   - Creatify ist eine KI-Plattform zur Anzeigenerstellung, die Produkt-URLs in Bild- und Videoanzeigen umwandelt, Teams beim Erstellen, Starten, Testen und Optimieren von Anzeigenvarianten unterstützt und sich...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Content Creator, Grafikdesigner +1 mehr
@@ -2926,6 +3286,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[CreatOK](https://www.aimyflow.com/de/ai/creatok-ai)**
   - CreatOK ist eine KI-Videogenerierungsplattform für TikTok-E-Commerce-Verkäufer, die ihnen hilft, originelle Verkaufsvideos zu erstellen, Produktbilder in Videos umzuwandeln und virale Inhalte mit direkter...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Content Creator, Leiter E-Commerce-Vertrieb +1 mehr
+
+- **[Credal](https://www.aimyflow.com/de/ai/credal-ai)**
+  - Credal ist eine sichere KI-Agenten- und RAG-Plattform für Unternehmen, die Organisationen dabei unterstützt, KI mit internen Daten, Tools und Berechtigungen zu verbinden, um Such-, Chat- und Workflow-Agenten zu...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwickler, Cybersicherheitsmanager, Softwareentwicklungsleiter +1 mehr
 
 - **[Creen AI](https://www.aimyflow.com/de/ai/creen-ai)**
   - Creen AI ist eine KI-Plattform zur Bild- und Videoerstellung, die Kreativen, Designern, Studierenden und Content-Teams hilft, Bilder zu generieren, Kunstwerke zu animieren und Videos aus Texteingaben oder bestehenden...
@@ -2998,6 +3362,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Cyberdesk ist ein Windows-Computer-Nutzungsagent, der Entwicklern hilft, EHRs, ERPs und andere ältere Desktop-Anwendungen durch Workflows in einfachem Englisch und API-Trigger zu automatisieren, insbesondere im...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Gesundheitsadministrator +1 mehr
 
+- **[Cykel](https://www.aimyflow.com/de/ai/cykel-ai)**
+  - Cykel ist eine KI-Plattform für digitale Mitarbeiter, die Recruiting-, Vertriebs- und Research-Teams dabei unterstützt, Sourcing, Outreach, Follow-ups, Screening und Geschäftsanalysen mit spezialisierten Agenten wie...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Außendienstleiter, Finanzanalyst, Data Scientist +1 mehr
+
 - **[d33ply](https://www.aimyflow.com/de/ai/d33ply-xyz)**
   - d33ply ist eine KI-gestützte Podcast-Nachrichtenplattform, die komplexe Geschichten mithilfe von Analysen aus 50–200 Quellen in investigative Audioepisoden von 20–25 Minuten verwandelt, vor allem für Hörer, die ein...
   - *Passende Rollen:* TV-Nachrichtenreporter, Podcast-Produzent, Finanzanalyst, CEO +1 mehr
@@ -3005,6 +3373,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[DaemonGenie](https://www.aimyflow.com/de/ai/daemongenie-com)**
   - DaemonGenie ist ein KI-autonomer Agent in Industriequalität, der technischen Teams hilft, Entwicklung, Webrecherche, Unternehmensdatenarbeit, Serverbetrieb und Desktop-Aufgaben über Root-Shell-, Browser- und...
   - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Data Engineer, Softwareentwicklungsleiter +1 mehr
+
+- **[Dagworks](https://www.aimyflow.com/de/ai/dagworks-io)**
+  - Dagworks ist eine auf Apache Hamilton und Apache Burr ausgerichtete Plattform, die Teams dabei unterstützt, zuverlässige KI-, RAG-, ML- und agentische Python-Pipelines zu entwickeln, zu iterieren, zu hosten und zu...
+  - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[daily.dev Recruiter](https://www.aimyflow.com/de/ai/recruiter-daily-dev)**
   - daily.dev Recruiter ist eine entwicklerorientierte Recruiting-Plattform, die Tech-Recruitern, Engineering-Managern und Recruiting-Verantwortlichen dabei hilft, Stellen auszuschreiben, passende Engineers auf Grundlage...
@@ -3049,9 +3421,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Datafruit ist ein Tool für KI-gestützte Implementierungsplanung und Pre-Delivery-Workflows, das Systemintegratoren und Serviceteams dabei unterstützt, Discovery, Umfangsdefinition, Aufwandsschätzung und Übergabe in...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Betriebschef, IT-Infrastrukturmanager/in +1 mehr
 
+- **[Dataglade](https://www.aimyflow.com/de/ai/dataglade-com)**
+  - Dataglade bietet umfassende Finanzdaten, Markteinblicke und KI, auf die Hedgefonds, Vermögensverwalter und Fintechs vertrauen, um täglich mehr als 1 Milliarde US-Dollar zu handeln.
+  - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Data Scientist, Softwareentwickler
+
 - **[DataLane](https://www.aimyflow.com/de/ai/datalane-com)**
   - DataLane ist eine Go-to-Market-Datenplattform, die Vertriebs- und Revenue-Teams in Unternehmen dabei unterstützt, lokale Geschäftskonten mithilfe von TAM-Intelligenz, Kontaktdaten und Account-Enrichment zu finden, zu...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
+
+- **[Dataleap](https://www.aimyflow.com/de/ai/dataleap-ai)**
+  - Dataleap ist eine KI-Plattform zur Arbeitsautomatisierung, die Geschäftsanwendern hilft, natürlichsprachige Aufgabenanweisungen in synchrone Workflows und Hintergrundagenten für Funktionen wie Vertrieb, Marketing, HR,...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Leiter Digitales Marketing, Talent-Acquisition-Manager, Manager Finanzplanung & Analyse +1 mehr
 
 - **[DatingShoot](https://www.aimyflow.com/de/ai/datingshoot-com)**
   - DatingShoot ist ein KI-Generator für Dating-Fotos, der vorhandene Selfies von Nutzern in realistische, profilfertige Bilder für Tinder, Hinge und Bumble verwandelt, vor allem für Menschen, die stärkere...
@@ -3077,6 +3457,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Deal Navigator AI ist eine algorithmische M&A-Intelligence- und Due-Diligence-Plattform, die Private-Equity-Firmen und anderen Investmentteams dabei hilft, Übernahmeziele zu bewerten, Berichte zu erstellen und Risiken...
   - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Risikoanalyst, Finanzchef +1 mehr
 
+- **[Deasy Labs](https://www.aimyflow.com/de/ai/deasylabs-com)**
+  - Deasy Labs ist eine Kontext-Engine für unstrukturierte Daten, die die Inhaltserkennung, Verschlagwortung, Filterung, Anreicherung und Pflege automatisiert, um KI-fähige Wissensdatenbanken zu erstellen – vor allem für...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter +1 mehr
+
+- **[Decipher AI](https://www.aimyflow.com/de/ai/getdecipher-com)**
+  - Decipher AI ist eine KI-gestützte QA- und automatisierte Testplattform, die End-to-End-Tests erstellt und pflegt, die Produktion auf Live-Fehler überwacht und Engineering- sowie QA-Teams dabei unterstützt, schneller...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Decision Forcing Studio](https://www.aimyflow.com/de/ai/chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio)**
   - Decision Forcing Studio ist ein benutzerdefinierter ChatGPT-Stratege, der Nutzern hilft, Anfragen und Antworten mit visuellen Dringlichkeitshinweisen wie Grün, Gelb oder Rot zu formulieren, insbesondere für Personen,...
   - *Passende Rollen:* Technischer Redakteur, Projektmanagement-Beauftragter, Gesundheitsadministrator, Schulberater +1 mehr
@@ -3084,6 +3472,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Decisional](https://www.aimyflow.com/de/ai/decisional-com)**
   - Decisional ist eine KI-Agentenplattform, mit der Nutzer Workflows in einfachem Englisch beschreiben, ihre Apps verbinden und laufende Aufgaben mit sich selbst erstellenden, sich selbst testenden Agenten automatisieren...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Manager Finanzplanung & Analyse, Betriebschef, Softwareentwicklungsleiter +1 mehr
+
+- **[Decohere](https://www.aimyflow.com/de/ai/decohere-ai)**
+  - Decohere ist ein KI-gestütztes Werkzeug zur Erstellung von Inhalten, das Benutzern hilft, schnell Bilder, Videos, Charakterkunst und hochaufgelöste Visuals zu erstellen, hauptsächlich für Kreative, Designer und...
+  - *Passende Rollen:* Grafikdesigner, Content Creator, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
 
 - **[Decohere](https://www.aimyflow.com/de/ai/decoherence-co)**
   - Decohere ist ein KI-Tool zur Content-Erstellung, das Nutzern hilft, schnell Bilder, Videos, Charaktere und hochskalierte Visuals zu erstellen, vor allem für Kreative, Designer und Künstler. Die schnelle...
@@ -3101,10 +3493,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Deep Nude AI Generator ist ein browserbasiertes KI-Bildbearbeitungstool, das aus hochgeladenen Fotos veränderte Nackt- oder NSFW-Bilder erstellt, hauptsächlich für erwachsene Nutzer, die synthetische Bilder für...
   - *Passende Rollen:* Cybersicherheitsanalyst, Cybersicherheitsmanager, Anwalt, Softwareentwickler +1 mehr
 
-- **[Deep Sequencer](https://www.aimyflow.com/de/ai/deepsequencer-netlify-app)**
-  - Deep Sequencer ist ein KI-Workflow-Tool, das Nutzern hilft, Inhalte durch mehrstufige Prompt-Sequenzen und wiederholte Aktionen zu generieren oder zu transformieren, hauptsächlich für Personen, die strukturierte...
-  - *Passende Rollen:* Content Creator, Texter, Leiter Digitales Marketing, Technischer Redakteur +1 mehr
-
 - **[DeepAI](https://www.aimyflow.com/de/ai/deepai-org)**
   - DeepAI ist eine All-in-One-KI-Plattform zur Erstellung von Bildern, Videos, Musik, Chats, Sprachinteraktionen und Fotobearbeitungen im Browser oder über APIs, vor allem für Kreative, Künstler und Entwickler. In...
   - *Passende Rollen:* Content Creator, Grafikdesigner, Softwareentwickler, Texter +1 mehr
@@ -3112,10 +3500,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[DeepAny.AI](https://www.aimyflow.com/de/ai/deepany-ai)**
   - DeepAny.AI ist eine kostenlose Online-Plattform für KI-Tools, die Nutzern dabei hilft, Bilder und Videos mit Funktionen wie Gesichtstausch, Videogenerierung und -erweiterung, Inpainting, Kunstgenerierung, Upscaling und...
   - *Passende Rollen:* Content Creator, Grafikdesigner, Social-Media-Content-Creator, Texter +1 mehr
-
-- **[DeepAware AI](https://www.aimyflow.com/de/ai/deepawareai-com)**
-  - DeepAware AI ist eine Automatisierungsplattform für KI-Rechenzentren der nächsten Generation, die Betreibern hilft, Sicherheit und Stabilität zu überwachen, die GPU-Planung und den Energieeinsatz zu optimieren und...
-  - *Passende Rollen:* IT-Infrastrukturmanager/in, Cybersicherheitsmanager, Produktionsleiter, Betriebschef +1 mehr
 
 - **[DeepL](https://www.aimyflow.com/de/ai/deepl-com)**
   - DeepL ist eine KI-Sprachplattform, die Unternehmen dabei hilft, Texte, Dateien und Sprache zu übersetzen, Texte zu verbessern und Routineaufgaben zu automatisieren – vor allem für Teams, die mehrsprachige Kommunikation...
@@ -3132,6 +3516,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[DeepMotion](https://www.aimyflow.com/de/ai/deepmotion-com)**
   - DeepMotion ist eine KI-gestützte Plattform für Motion Capture und Körper-Tracking, die Nutzern hilft, Text oder Video im Webbrowser in 3D-Charakteranimationen umzuwandeln, vor allem für Animator:innen,...
   - *Passende Rollen:* Unabhängige/r Filmemacher/in, Softwareentwickler, Grafikdesigner, Content Creator +1 mehr
+
+- **[Deepnight](https://www.aimyflow.com/de/ai/deepnight-ai)**
+  - Deepnight ist ein KI-Nachtsichtsystem, das Schwachlichtsensoren mit Bildverarbeitung kombiniert, um sehr dunkle Szenen in lebendige Farben und ein breiteres Sichtfeld zu verwandeln, vor allem für Organisationen, die in...
+  - *Passende Rollen:* Elektroingenieur, Maschinenbauingenieur/in, Softwareentwickler, Data Scientist +1 mehr
 
 - **[DeepRead](https://www.aimyflow.com/de/ai/deepread-tech)**
   - DeepRead ist eine OCR-API für Entwickler, die Scans, PDFs und Bilder in strukturiertes, typsicheres JSON mit Konfidenzkennzeichen umwandelt und Teams dabei hilft, Dokumentdaten zu extrahieren, ohne eine eigene...
@@ -3172,6 +3560,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Demodesk ist eine KI-Vertriebsplattform, die Kundengespräche aufzeichnet, transkribiert und analysiert, um Notizen, Follow-ups, CRM-Aktualisierungen, Coaching und Pipeline-Einblicke für Vertriebsteams, Vertriebsleiter,...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Projektmanagement-Beauftragter, CEO +1 mehr
 
+- **[Dench Cloud](https://www.aimyflow.com/de/ai/dench-com)**
+  - Dench Cloud ist ein verwalteter Workspace für DenchClaw, ein auf OpenClaw basierendes, local-first KI-CRM, das Teams dabei unterstützt, Daten zu importieren, prompt-gesteuerte CRM-Operationen auszuführen und...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
+
 - **[Denki](https://www.aimyflow.com/de/ai/denki-ai)**
   - Denki ist eine KI-gestützte Audit-Plattform, die internen Prüfern dabei hilft, SOX-404- und BSA/AML-Arbeiten durch Belegsammlung, finanzielle Abstimmung, Kontrollzuordnung, kontinuierliche Tests und...
   - *Passende Rollen:* Wirtschaftsprüfer, Finanzanalyst, Risikoanalyst, Finanzchef +1 mehr
@@ -3204,6 +3596,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der KI-Logo-Generator von Design.com ist ein Online-Tool, das Unternehmen, Gründern und Personen ohne Designkenntnisse hilft, Logos mithilfe von KI-Prompts, Bearbeitungstools und markenfertigen Dateiformaten zu...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, CEO, Texter +1 mehr
 
+- **[Designbase](https://www.aimyflow.com/de/ai/designbase-com)**
+  - Designbase ist eine Design-Runtime, die Produktteams dabei unterstützt, Produkte auf einem gemeinsamen System über Design, Engineering und KI hinweg zu entwerfen, zu entwickeln und weiterzuentwickeln, vor allem für...
+  - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
+
 - **[Designs.ai](https://www.aimyflow.com/de/ai/designs-ai)**
   - Designs.ai ist eine KI-gestützte Designplattform, die Unternehmen und Marketingteams dabei unterstützt, Kommunikationsmaterialien wie Bilder, Videos, Texte, Audio, Präsentationen und Branding-Inhalte in einem sicheren...
   - *Passende Rollen:* Leiter Digitales Marketing, Grafikdesigner, Texter, Social-Media-Content-Creator +1 mehr
@@ -3224,16 +3620,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Dex ist eine KI-gestützte Chrome-Erweiterung, die den Browser in einen gemeinsamen Arbeitsbereich verwandelt, um Aufgaben, Kontext und Aktionen über verschiedene Apps hinweg zu bearbeiten – vor allem für Operatoren,...
   - *Passende Rollen:* Betriebschef, Außendienstleiter, Talent-Acquisition-Manager, Projektmanagement-Beauftragter +1 mehr
 
-- **[Dexter](https://www.aimyflow.com/de/ai/github-com-virattt-dexter)**
-  - Dexter ist ein autonomer Open-Source-Agent für Finanzrecherche, der Nutzern hilft, komplexe Finanzfragen mithilfe von Marktdaten in Echtzeit in eine schrittweise Analyse zu überführen, vor allem für Finanzforscher,...
-  - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Data Scientist, Softwareentwickler
-
-- **[DIAGLO](https://www.aimyflow.com/de/ai/diaglo-ai)**
-  - DIAGLO ist ein KI-Tool zur Fahrzeugdiagnose, das Nutzern dabei hilft, Fahrzeugsymptome zu beschreiben sowie technische Berichte und Reparaturanleitungen zu erstellen, vor allem für Autobesitzer, die vor dem Besuch...
-
 - **[Diagram-Generator](https://www.aimyflow.com/de/ai/diagram-generator-com)**
   - Diagram-Generator ist ein KI-Diagrammersteller, der Textaufforderungen, Dokumente und Skizzen in Flussdiagramme, ER-Diagramme, Mindmaps, Sequenzdiagramme und andere visuelle Formate umwandelt, hauptsächlich für...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Data Engineer +1 mehr
+
+- **[DianaHR](https://www.aimyflow.com/de/ai/dianahr-ai)**
+  - DianaHR ist ein KI-gestützter, menschlich geführter Fractional-HR-Service, der US-Startups und KMU dabei unterstützt, Gehaltsabrechnung, Compliance, Benefits, Onboarding, Offboarding und HR-Backoffice-Aufgaben zu...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Manager für Vergütung & Zusatzleistungen, Finanzchef +1 mehr
 
 - **[Diary Tarot](https://www.aimyflow.com/de/ai/diarytarot-com)**
   - Diary Tarot ist ein Online-Tool für Tarot-Legungen und Mondphasen-Journaling, das Nutzerinnen und Nutzern hilft, Karten zu ziehen, KI-gestützte Deutungen zu erhalten und wiederkehrende Themen im Zeitverlauf zu...
@@ -3263,9 +3656,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Digipals ist eine KI-fokussierte Social-App, die Menschen dabei hilft, ihre aktuelle Verfügbarkeit und Aktivitätspläne in Echtzeit zu teilen, um sich leichter zu vernetzen, und richtet sich hauptsächlich an Personen,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Programmmanager Non-Profit, Schulberater
 
+- **[Dili](https://www.aimyflow.com/de/ai/dili-ai)**
+  - Dili ist eine KI-gestützte Plattform zur Automatisierung von Compliance für staatlich geförderte Projekte. Sie unterstützt EPC-Auftragnehmer, Projektentwickler und Compliance-Teams bei der Verwaltung der Verfolgung von...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Finanzchef, Steuermanager +1 mehr
+
 - **[DiligenceSquared](https://www.aimyflow.com/de/ai/diligencesquared-com)**
   - DiligenceSquared ist eine KI-gestützte Plattform für Marktforschung und Commercial Due Diligence, die Investoren und Unternehmen dabei unterstützt, schneller prüfbare Markterkenntnisse, Erkenntnisse aus...
   - *Passende Rollen:* Finanzanalyst, CEO, Risikoanalyst, Finanzchef +1 mehr
+
+- **[Diligent](https://www.aimyflow.com/de/ai/godiligent-ai)**
+  - Diligent ist eine KI-Agentenplattform für KYC/AML-Prozesse, die Banken und Fintechs dabei hilft, Risikoüberprüfungen, die Bearbeitung von AML-Alerts und die Dokumentenverifizierung zu automatisieren, während...
+  - *Passende Rollen:* Risikoanalyst, Cybersicherheitsanalyst, Finanzchef, Finanzanalyst +1 mehr
 
 - **[Disclaimr AI](https://www.aimyflow.com/de/ai/disclaimr-ai)**
   - Disclaimr AI ist ein Prognosetool für Entwicklungsprojekte, das nicht-technischen Gründern hilft, ausgelagerte Softwareangebote zu bewerten, realistische Zeitpläne und Budgets zu schätzen, Risiken zu erkennen und den...
@@ -3283,13 +3684,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - DishGen ist ein KI-Rezeptgenerator, mit dem Hobbyköche und Food-Fans Rezeptideen erstellen, speichern, entdecken und teilen können.
   - *Passende Rollen:* Food-Enthusiast
 
+- **[DisputeNinja](https://www.aimyflow.com/de/ai/disputeninja-ai)**
+  - DisputeNinja ist eine KI-Plattform für Chargeback-Teams, die Analysten dabei unterstützt, die Rückgewinnung von Einnahmen zu skalieren, indem sie die Beweiserfassung automatisiert, Einspruchsbegründungen erstellt und...
+  - *Passende Rollen:* Finanzanalyst, Leiter E-Commerce-Vertrieb, Betriebschef, Projektmanagement-Beauftragter
+
 - **[Dive into Deep Learning](https://www.aimyflow.com/de/ai/zh-d2l-ai)**
   - „Dive into Deep Learning“ ist ein ausführbares Lehrbuch und eine Dokumentation zum Deep Learning für chinesischsprachige Leser. Es unterstützt Studierende, Lehrkräfte und Fachleute im Bereich maschinelles Lernen dabei,...
   - *Passende Rollen:* Data Scientist, Softwareentwickler, Hochschulprofessor, Online-Programmierlehrer +1 mehr
-
-- **[DJ.Studio](https://www.aimyflow.com/de/ai/dj-studio)**
-  - DJ.Studio ist eine timeline-basierte DJ-Software für Mac und Windows, die Nutzern hilft, Mashups, DJ-Mixe, Radiosendungen, Video-Mixe und Live-Set-Vorbereitungen schneller zu erstellen, vor allem für Bedroom-DJs,...
-  - *Passende Rollen:* Podcast-Produzent, Musikliebhaber, Content Creator, Social-Media-Content-Creator +1 mehr
 
 - **[DL.Translator](https://www.aimyflow.com/de/ai/dltranslator-com)**
   - DL.Translator ist ein KI-gestütztes Dokumentenübersetzungstool, das Nutzern hilft, PDF-, Word-, PPTX-, gescannte und andere Dateien zu übersetzen und dabei das ursprüngliche Layout und die Formatierung beizubehalten,...
@@ -3310,6 +3711,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Doclingo](https://www.aimyflow.com/de/ai/doclingo-ai-en)**
   - Doclingo ist eine KI-gestützte Plattform für die Dokumentübersetzung, die PDFs, Word-Dateien, wissenschaftliche Arbeiten und andere Formate unter Beibehaltung von Layout und Struktur übersetzt, hauptsächlich für...
   - *Passende Rollen:* Technischer Redakteur, Data Engineer, Softwareentwickler, Hochschulprofessor +1 mehr
+
+- **[Docsum](https://www.aimyflow.com/de/ai/docsum-ai)**
+  - Docsum ist eine KI-Plattform für Vertragsprüfung, Verhandlungen und Vertragsablage, die Rechts-, Vertriebs- und Finanzteams dabei unterstützt, Vereinbarungen zu prüfen, Änderungen in Microsoft Word nachzuverfolgen und...
+  - *Passende Rollen:* Anwalt, Außendienstleiter, Finanzanalyst, Projektmanagement-Beauftragter
 
 - **[DocuGov.ai](https://www.aimyflow.com/de/ai/docugov-ai-en)**
   - DocuGov.ai ist ein KI-Tool, das professionell strukturierte Verwaltungsschreiben wie Widersprüche, Beschwerden, Überprüfungsanträge und amtliche Stellungnahmen für Menschen erstellt, die sich mit Behörden,...
@@ -3343,6 +3748,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - DomoAI ist eine KI-Video- und Animationsplattform, die Nutzern dabei hilft, Texte, Bilder und Aufnahmen in stilisierte Videos, sprechende Avatare, Charakteranimationen und bearbeitete visuelle Inhalte umzuwandeln,...
   - *Passende Rollen:* Content Creator, Unabhängige/r Filmemacher/in, Social-Media-Content-Creator, Leiter Digitales Marketing +1 mehr
 
+- **[Domu AI](https://www.aimyflow.com/de/ai/domu-ai)**
+  - Domu AI ist eine Plattform für Verhaltensintelligenz mit KI-Agenten für intelligente Serviceprozesse und Kontenklärung. Sie unterstützt Finanzinstitute dabei, regelkonforme Sprach-, E-Mail- und SMS-Konversationen über...
+  - *Passende Rollen:* Finanzanalyst, Risikoanalyst, Betriebschef, Finanzchef +1 mehr
+
 - **[DoNotPay](https://www.aimyflow.com/de/ai/donotpay-com)**
   - DoNotPay ist eine KI-gestützte Selbsthilfeplattform für Verbraucher, die Menschen dabei hilft, Rückerstattungen, Rückbuchungen, Kündigungen von kostenlosen Testabos, Datenschutz, die Suche nach verborgenem Geld und...
   - *Passende Rollen:* Finanzanalyst, Fachkraft für medizinische Abrechnung, Projektmanagement-Beauftragter, Anwalt
@@ -3363,6 +3772,22 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - DoraScribe ist ein KI-gestütztes medizinisches Schreib- und Transkriptionstool, das Patientenkonsultationen in SOAP-Notizen und andere Dokumentationsunterlagen für Ärzte und andere Kliniker umwandelt, mit mobilem...
   - *Passende Rollen:* Hausarzt, Kinderarzt, Kardiologe, Gesundheitsadministrator +1 mehr
 
+- **[Dosu](https://www.aimyflow.com/de/ai/dosu-dev)**
+  - Dosu ist eine KI-Dokumentationsplattform, die automatisch Dokumentation aus Code, Tickets, Reviews und Gesprächen erstellt, pflegt und veröffentlicht, hauptsächlich für Engineering-Teams und Organisationen, die...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Technischer Redakteur, Projektmanagement-Beauftragter +1 mehr
+
+- **[Dot](https://www.aimyflow.com/de/ai/getdot-ai)**
+  - Dot ist ein KI-Datenanalyst, der Teams dabei hilft, Datenfragen schnell zu beantworten und umsetzbare Erkenntnisse über Chat, tiefgehende Analysen und automatisierte Berichte zu gewinnen, vor allem für Organisationen,...
+  - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, CEO, Betriebschef
+
+- **[Double](https://www.aimyflow.com/de/ai/double-bot)**
+  - Double ist ein KI-Coding-Copilot für VS Code, der Entwickler:innen dabei unterstützt, mit KI-Modellen zu chatten, Code automatisch zu vervollständigen sowie Codeänderungen direkt im Editor zu generieren, zu prüfen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, Cybersicherheitsanalyst
+
+- **[Downlink](https://www.aimyflow.com/de/ai/downlink-dev)**
+  - Downlink ist eine API-Plattform für KI-Ingenieure, die dazu beiträgt, die Leistung von KI-Anwendungen zu verbessern, indem sie Ratenlimits erhöht, Latenz und Kosten senkt sowie Modelle für spezifische Anwendungsfälle...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
+
 - **[Draft & Goal AI Detector](https://www.aimyflow.com/de/ai/detector-dng-ai)**
   - Draft & Goal AI Detector ist ein Tool zur Erkennung von KI-Inhalten, das Texte analysiert, um wahrscheinlich KI-generierte Schreibinhalte zu identifizieren, mit Berichten, die verdächtige Abschnitte erläutern, und...
   - *Passende Rollen:* Technischer Redakteur, Hochschulprofessor, Texter, Lehrkraft +1 mehr
@@ -3370,6 +3795,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Draft Dash](https://www.aimyflow.com/de/ai/draftdash-net)**
   - Draft Dash ist ein KI-Artikelgenerator, der Nutzern dabei hilft, ein Thema in recherchierte, faktengeprüfte, SEO-optimierte Longform-Artikel mit Quellenangaben zu verwandeln, vor allem für Content-Marketer,...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Technischer Redakteur, Content Creator +1 mehr
+
+- **[Dragoneye](https://www.aimyflow.com/de/ai/dragoneye-ai)**
+  - Dragoneye ist eine Vision-AI-Plattform, mit der Entwickler und technische Teams benutzerdefinierte Bild- und Videoerkennungsmodelle aus einfachen englischsprachigen Prompts erstellen und bereitstellen können – mit...
+  - *Passende Rollen:* Softwareentwickler, Data Scientist, Softwareentwicklungsleiter, Data Engineer +1 mehr
 
 - **[Dream Companion](https://www.aimyflow.com/de/ai/mydreamcompanion-com)**
   - Dream Companion ist eine ausschließlich für Erwachsene bestimmte NSFW-KI-Rollenspielplattform, mit der Nutzer KI-Begleiter erstellen, anpassen und mit ihnen chatten sowie konsistente Begleiterbilder generieren können –...
@@ -3382,6 +3811,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Dream Studio](https://www.aimyflow.com/de/ai/beta-dreamstudio-ai-generate)**
   - Dream Studio ist die Anmeldeseite von Stability AI und hilft bestehenden Nutzern, sich anzumelden oder ein Konto zu erstellen, um die Plattform weiter zu nutzen – hauptsächlich für Personen, die Dream Studio bereits...
 
+- **[Dream3D](https://www.aimyflow.com/de/ai/dream3d-com)**
+  - Dream3D ist ein Software-Startup, das KI-Basismodelle für visuelle Software entwickelt und Forschenden, Designer:innen und Ingenieur:innen dabei hilft, neue KI-gestützte visuelle Werkzeuge und Anwendungen zu...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Grafikdesigner, Industriedesigner/in +1 mehr
+
 - **[Dreamega AI Image Templates Gallery](https://www.aimyflow.com/de/ai/dreamega-ai-image-template)**
   - Die Dreamega AI Image Templates Gallery ist ein Tool für KI-Bildeffekte und -vorlagen, das Nutzern hilft, Fotos mit über 100 Stilen wie Anime, Cartoon, Vintage, Porträtverbesserung und Erstellung von Ausweisfotos zu...
   - *Passende Rollen:* Grafikdesigner, Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator +1 mehr
@@ -3389,10 +3822,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[DreamGen](https://www.aimyflow.com/de/ai/dreamgen-com)**
   - DreamGen ist ein KI-Rollenspiel-Chat- und Story-Generator, der Nutzern dabei hilft, interaktive Spiele, Fanfiction und individuelle Erzählwelten zu erstellen, vor allem für kreative Autoren und...
   - *Passende Rollen:* Romanautor, Content Creator, Texter, Unabhängige/r Filmemacher/in
-
-- **[Dreamle](https://www.aimyflow.com/de/ai/dreamle-ai)**
-  - Dreamle ist eine 18+ NSFW-Charakter-KI-Chatbot-Plattform, die Erwachsenen dabei hilft, explizite Rollenspiel-Chats zu führen, benutzerdefinierte Charaktere zu erstellen und Bilder für Erwachsene zu generieren – vor...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Dozent am Community College
 
 - **[DreamPages](https://www.aimyflow.com/de/ai/dreampages-ai)**
   - DreamPages ist ein KI-Story-Generator, der Eltern dabei hilft, personalisierte, altersgerechte Gutenachtgeschichten für Kinder mit individuellen Illustrationen und optionaler Mehrfiguren-Erzählung zu erstellen. In...
@@ -3405,24 +3834,28 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[DreamStories](https://www.aimyflow.com/de/ai/dreamstories-app)**
   - DreamStories ist ein KI-Story-Generator, der Eltern dabei hilft, personalisierte mehrsprachige Gute-Nacht-Geschichten für Kinder zu erstellen, indem sie den Namen des Kindes, die Altersgruppe, die Sprache und das Thema...
 
-- **[Dressika Color Analysis](https://www.aimyflow.com/de/ai/coloranalysis-app)**
-  - Dressika Color Analysis ist eine KI-gestützte, fotobasierte Farbanalyse-App, die Menschen dabei hilft, ihre persönliche Farbjahreszeit, den Unterton ihrer Haut sowie passende Farben für Kleidung, Make-up und Haare zu...
-  - *Passende Rollen:* Modedesigner, Content Creator, E-Commerce-Verkäufer
-
 - **[Dressplay AI](https://www.aimyflow.com/de/ai/dressplay-ai)**
   - Dressplay AI ist ein KI-Modeatelier, das Nutzern hilft, Kleidungsdesigns aus Text zu erstellen, Kleidung virtuell an Modellen anzuprobieren, Stile neu zu kombinieren, Bilder zu bearbeiten sowie Szenen oder Posen zu...
   - *Passende Rollen:* Modedesigner, Grafikdesigner, E-Commerce-Verkäufer, Content Creator +1 mehr
 
-- **[Dribbble](https://www.aimyflow.com/de/ai/dribbble-com)**
-  - Dribbble ist eine Design-Community und Hiring-Plattform, auf der Designer Arbeiten präsentieren, Inspiration finden, Feedback erhalten und Kunden oder Arbeitgeber finden können.
-  - *Passende Rollen:* Modedesigner, Content Creator, Kunst- und Designfachkräfte, Schriftsteller und Autoren +2 mehr
+- **[Drillbit](https://www.aimyflow.com/de/ai/drillbit-com)**
+  - Drillbit ist eine KI-Operationsplattform für Hausservice- und Handwerksbetriebe, die Lead-Qualifizierung, Kundenkommunikation, Terminplanung, Nachverfolgung und Zahlungseinzug innerhalb bestehender CRM-Systeme...
+  - *Passende Rollen:* Außendienstleiter, Filialleiter, Betriebschef, Restaurantleiter +1 mehr
 
 - **[DrugCard](https://www.aimyflow.com/de/ai/app-drug-card-io-simple-search)**
   - DrugCard ist ein elektronisches Pharmakovigilanzsystem, das Nutzern dabei hilft, Arzneimittelsicherheitsinformationen zu recherchieren, lokale und globale Literatur zu sichten, Websites von Gesundheitsbehörden zu...
 
+- **[DryMerge](https://www.aimyflow.com/de/ai/drymerge-com)**
+  - DryMerge ist ein KI-gestütztes CRM-Automatisierungstool, das E-Mails, Kalender, Anrufe und andere geschäftliche Kommunikation überwacht, um Beziehungs- und Geschäftsdaten für Vertriebs-, Operations- und Investmentteams...
+  - *Passende Rollen:* Außendienstleiter, Betriebschef, Portfoliomanager/in, Leiter E-Commerce-Vertrieb +1 mehr
+
 - **[Dubverse](https://www.aimyflow.com/de/ai/dubverse-ai)**
   - Dubverse ist eine KI-gestützte Plattform zur Medienlokalisierung, die Nutzern hilft, Videosynchronisation, Text-to-Speech, Untertitel, Transkripte und Videoübersetzungen zu erstellen, hauptsächlich für Teams, die...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Social-Media-Content-Creator, Podcast-Produzent +1 mehr
+
+- **[Duckie](https://www.aimyflow.com/de/ai/duckie-ai)**
+  - Duckie ist eine KI-Support-Agentenplattform, die Kundendienst-Tickets durchgängig autonom löst, indem sie Anfragen versteht, Details überprüft und Maßnahmen wie Rückerstattungen, Passwortzurücksetzungen und...
+  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter, Betriebschef
 
 - **[Durable](https://www.aimyflow.com/de/ai/durable-ai)**
   - Durable ist eine KI-Softwareautomatisierungsplattform, die in einfachem Englisch beschriebene Unternehmensprobleme in produktionsreife, gewartete Automatisierungen umwandelt, vor allem für Enterprise-Operations- und...
@@ -3463,10 +3896,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - EasyListing ist ein KI-Generator für Immobilienbeschreibungen, mit dem Immobilienprofis schnell SEO-optimierte Listing-Texte für Wohnimmobilien erstellen können.
   - *Passende Rollen:* Immobilienmakler
 
-- **[easyPDP with daisy](https://www.aimyflow.com/de/ai/easypdp-daisy-so)**
-  - easyPDP mit daisy ist ein KI-Tool für Produktfotografie, das Nutzern hilft, ein klares Produktfoto in Sekundenschnelle in professionelle Produktbilder zu verwandeln, vor allem für E-Commerce-Händler und...
-  - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Grafikdesigner, Content Creator
-
 - **[EasyPic](https://www.aimyflow.com/de/ai/easypic-app)**
   - EasyPic ist eine KI-gestützte Toolbox für Fototagging und Bildbearbeitung, die Fotografen, Content-Erstellern und Unternehmen dabei hilft, Titel und Keywords zu generieren sowie Aufgaben wie Größenänderung,...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, E-Commerce-Verkäufer, Grafikdesigner +1 mehr
@@ -3499,6 +3928,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Eden ist eine Plattform für synthetische Daten, die produktionsnahe Daten für hochwertige Produktdemos, die Bewertung von KI-Agenten und das Modelltraining generiert, vor allem für Teams, die KI-Produkte entwickeln und...
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
 
+- **[EdgeTrace](https://www.aimyflow.com/de/ai/edgetrace-ai)**
+  - EdgeTrace ist eine KI-gestützte Plattform für Videomanagement und Kameraintelligenz, die Teams der öffentlichen Sicherheit dabei unterstützt, stadtweite Kamerafeeds anhand von Beschreibungen, Bildern, Audio,...
+  - *Passende Rollen:* Cybersicherheitsanalyst, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef
+
 - **[Editaimg](https://www.aimyflow.com/de/ai/editaimg-com)**
   - Editaimg ist ein KI-Bildeditor, der Nutzern hilft, Hintergründe zu entfernen, Bilder zu bereinigen, Text zu bearbeiten oder zu ersetzen, die Auflösung hochzuskalieren, Gesichter zu retuschieren und stilisierte Produkt-...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Social-Media-Content-Creator +1 mehr
@@ -3523,13 +3956,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Education Copilot ist ein KI-Tool für die Unterrichtsplanung, das Lehrkräften hilft, schnell Unterrichtspläne, Arbeitsblätter, Schreibanregungen, Schülerberichte, Projektübersichten und andere Unterrichtsmaterialien...
   - *Passende Rollen:* Lehrkraft, Berater für Bildungstechnologie, Hochschulprofessor, Dozent am Community College +1 mehr
 
-- **[Egaki.ai](https://www.aimyflow.com/de/ai/egaki-ai)**
-  - Egaki.ai ist eine Plattform zur Optimierung der KI-Sichtbarkeit, die DTC-Marken, E-Commerce-Teams und Marketingagenturen dabei unterstützt, nachzuverfolgen, zu analysieren und zu verbessern, wie ihre Marken in LLMs wie...
-  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, E-Commerce-Verkäufer, Content Creator +1 mehr
+- **[Educato](https://www.aimyflow.com/de/ai/educato-com)**
+  - Educato ist eine KI-gestützte Plattform zur Prüfungsvorbereitung, die Studierenden bei der Vorbereitung auf Zertifizierungs-, Hochschul-, staatliche, juristische und medizinische Prüfungen mit Lernplänen, Probetests,...
+  - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Lehrkraft, Berater für Bildungstechnologie, Hochschulprofessor
 
 - **[Egg3](https://www.aimyflow.com/de/ai/egg3-io)**
   - Egg3 ist ein KI-Tool zur Verwaltung von Bild-Workflows, das Teams dabei unterstützt, KI-generierte Bilder mit automatisierten Workflows, Echtzeit-Tracking, automatischer Verschlagwortung, Slack-basierter Kommunikation...
   - *Passende Rollen:* Grafikdesigner, Projektmanagement-Beauftragter, Social-Media-Content-Creator, Leiter Digitales Marketing +1 mehr
+
+- **[Eggnog](https://www.aimyflow.com/de/ai/eggnog-ai)**
+  - Eggnog ist ein KI-App-Studio, das Video- und Bilderlebnisse für Verbraucher entwickelt, darunter kollaborative Animationen, die Generierung historischer Szenen und Tools zur Altersumwandlung von Haustieren, vor allem...
+  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Grafikdesigner, Texter +1 mehr
+
+- **[ego AI](https://www.aimyflow.com/de/ai/egoai-com)**
+  - ego AI entwickelt intelligente, verkörperte KI-Charaktere und Echtzeit-Agenten, die helfen, menschenähnliches Verhalten für Spiele, Simulationen und interaktive Erlebnisse zu schaffen – vor allem für Entwickler und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Content Creator, Unabhängige/r Filmemacher/in +1 mehr
+
+- **[Eidolon](https://www.aimyflow.com/de/ai/eidolonai-com)**
+  - Eidolon ist ein Open-Source-KI-Agentenserver und SDK, das Entwicklern hilft, GenAI- und agentische Anwendungen auf Enterprise-Niveau zu erstellen, bereitzustellen und zu nutzen – insbesondere Teams, die mit Python,...
+  - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Projektmanagement-Beauftragter
 
 - **[Eilla AI](https://www.aimyflow.com/de/ai/eilla-ai)**
   - Eilla AI ist eine KI-Plattform für M&A-, Venture-Capital- und Private-Equity-Workflows, die Investment-Teams bei Deal-Analyse und Research-Prozessen unterstützt.
@@ -3543,13 +3988,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Elements of AI ist eine kostenlose Online-Kursreihe von MinnaLearn und der Universität Helsinki, die Nichtfachleuten hilft zu verstehen, was KI ist, was sie kann und nicht kann und wie KI-Methoden entwickelt werden,...
   - *Passende Rollen:* Berater für Bildungstechnologie, Projektmanagement-Beauftragter, Softwareentwickler, CEO +1 mehr
 
-- **[Eler](https://www.aimyflow.com/de/ai/eler-ai)**
-  - Eler ist ein KI-Rendering-Tool, das SketchUp- oder GLB-Modelle in Sekundenschnelle in fotorealistische Bilder verwandelt und Architekten sowie Designern hilft, konsistente Visualisierungen aus mehreren Blickwinkeln zu...
-  - *Passende Rollen:* Wohnarchitekt, Innenarchitekt/in, Gewerbearchitekt, Grafikdesigner +1 mehr
-
 - **[EleutherAI](https://www.aimyflow.com/de/ai/eleuther-ai)**
   - EleutherAI ist eine KI-Forschungsorganisation und ein Open-Source-Labor, das große Sprachmodelle, Datensätze und Forschung zu Sprachmodellierung, Interpretierbarkeit, Alignment und verwandten Modalitäten entwickelt und...
   - *Passende Rollen:* Data Scientist, Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst +1 mehr
+
+- **[Elevate](https://www.aimyflow.com/de/ai/useelevate-dev)**
+  - Elevate ist eine KI-gestützte Datenmanagementplattform für Rollup-Plattformen, die Teams dabei unterstützt, den gesamten Datenlebenszyklus zu vereinheitlichen und zu transformieren, einschließlich...
+  - *Passende Rollen:* Betriebschef, Finanzchef, Data Engineer, Finanzanalyst +1 mehr
 
 - **[Eleven Music, now Enliven Music,](https://www.aimyflow.com/de/ai/elevenmusic-ai)**
   - Eleven Music, jetzt Enliven Music, ist ein KI-Musikgenerator, der Nutzern dabei hilft, lizenzfreie Songs, Instrumentals und Gesang aus Textanweisungen zu erstellen und zu bearbeiten, hauptsächlich für...
@@ -3579,6 +4024,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Elicit ist eine KI-Forschungsplattform, die Forschenden dabei hilft, akademische Fachartikel und klinische Studien zu durchsuchen, zitierte Forschungsberichte zu erstellen und Teile systematischer Literaturübersichten...
   - *Passende Rollen:* Hochschulprofessor, Data Scientist, Finanzanalyst, Molekularbiologe +1 mehr
 
+- **[Ellipsis.dev](https://www.aimyflow.com/de/ai/ellipsis-dev)**
+  - Ellipsis.dev ist ein KI-Entwicklertool, das Code-Reviews, Bugfixes, Codegenerierung und GitHub-Fragen & Antworten automatisiert, um Softwareentwicklern und Engineering-Teams dabei zu helfen, Probleme zu erkennen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+
 - **[Eloovor](https://www.aimyflow.com/de/ai/eloovor-com)**
   - Eloovor ist ein KI-Karrierecoach für Arbeitssuchende, der dabei hilft, Bewerbungen zu verwalten, Lebensläufe und Anschreiben anzupassen, die Passung zu Stellen und Arbeitgebern zu analysieren und sich auf...
   - *Passende Rollen:* Talent-Acquisition-Manager, Schulberater, Hochschulprofessor, Projektmanagement-Beauftragter
@@ -3590,6 +4039,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Elser AI](https://www.aimyflow.com/de/ai/elser-ai)**
   - Elser AI ist eine KI-Anime-Erstellungsplattform, die Nutzern hilft, aus Prompts oder Bildern Anime-Bilder, Videos, Charaktere, Storyboards, Stimmen und Fanart zu generieren, hauptsächlich für Anime-Kreative,...
   - *Passende Rollen:* Content Creator, Unabhängige/r Filmemacher/in, Grafikdesigner, Social-Media-Content-Creator +1 mehr
+
+- **[Elyos AI](https://www.aimyflow.com/de/ai/elyos-ai)**
+  - Elyos AI bietet KI-Agenten für Handwerks- und Außendienstunternehmen, die Kundenservice, Vertrieb, Terminplanung, Terminerinnerungen und administrative Aufgaben für Servicetechniker übernehmen. Für Betriebsleiter,...
+  - *Passende Rollen:* Produktionsleiter, Filialleiter, Außendienstleiter, Betriebschef +1 mehr
+
+- **[Elythea](https://www.aimyflow.com/de/ai/elythea-org)**
+  - Elythea ist eine HIPAA- und SOC 2-konforme Voice-AI-Plattform für Medicare-Advantage-Pläne, staatliche Medicaid-Behörden, Medicaid-MCOs und BPOs, die die groß angelegte wechselseitige Mitgliederansprache automatisiert,...
+  - *Passende Rollen:* Gesundheitsadministrator, Betriebschef, Programmmanager Non-Profit, Projektmanagement-Beauftragter
 
 - **[Embedder](https://www.aimyflow.com/de/ai/embedder-com)**
   - Embedder ist ein KI-Tool für Firmware-Engineering, das verifizierte C++- und Rust-Firmware aus Datenblättern und Hardwaredokumenten für Embedded- und Firmware-Ingenieure erstellt, testet und debuggt, die mit MCUs und...
@@ -3603,6 +4060,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - EMOXIA AI AGENT ist ein Windows-Desktop-Agentensystem, das ursprünglich auf OpenClaw neu entwickelt wurde und Nutzern hilft, mehrstufige Desktop-Workflows, Systemaktionen, Browseraufgaben und werkzeugbasierte...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
 
+- **[Empirical Health](https://www.aimyflow.com/de/ai/empirical-health)**
+  - Empirical Health ist eine Plattform für Herzgesundheitstests und -versorgung, die Erwachsenen hilft, das kardiovaskuläre Risiko anhand von über 100 Biomarkern, Risikoprognosen sowie personalisierten, ärztlich...
+  - *Passende Rollen:* Kardiologe, Wellness-Coach, Hausarzt, Gesundheitsadministrator
+
 - **[Empirio](https://www.aimyflow.com/de/ai/empirio-ai)**
   - Empirio ist ein KI-gestützter Umfrage-Builder, der Unternehmen, Schulen, Universitäten und Studierenden dabei hilft, Online-Umfragen schnell zu erstellen, anzupassen, zu veröffentlichen und auszuwerten – mit Vorlagen,...
   - *Passende Rollen:* Manager Mitarbeiterbeziehungen, Data Scientist, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
@@ -3615,6 +4076,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Engain ist eine KI-gestützte Software für organisches Reddit-Marketing, die Unternehmen und Growth-Teams dabei hilft, rankende Reddit-Threads zu finden, Marken- und Wettbewerbererwähnungen zu verfolgen und Kommentare...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
 
+- **[Entangl](https://www.aimyflow.com/de/ai/entangl-com)**
+  - Entangl ist eine KI-Plattform für den Betrieb kritischer Infrastrukturen, zunächst mit Schwerpunkt auf Rechenzentren. Sie hilft Teams, Fehler zu vermeiden, die zu Ausfällen führen, und unterstützt...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Produktionsleiter, Betriebschef, Softwareentwickler +1 mehr
+
 - **[Entireweb](https://www.aimyflow.com/de/ai/entireweb-com)**
   - Entireweb ist eine private Suchmaschine, die Nutzern Websuche ohne Tracking und personalisierte Filterung ermöglicht.
   - *Passende Rollen:* Leiter Digitales Marketing, Marketing- und Vertriebsmanager, IT-Manager, E-Commerce-Verkäufer +1 mehr
@@ -3622,6 +4087,18 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Envariant](https://www.aimyflow.com/de/ai/envariant-ai)**
   - Envariant ist ein SDK für KI-Interpretierbarkeit, das Entwicklern von Basismodellen dabei hilft, das Modellverhalten zu untersuchen, zu steuern und zu kontrollieren, indem es Probleme wie Halluzinationen nachverfolgt,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, Cybersicherheitsanalyst +1 mehr
+
+- **[Envelope](https://www.aimyflow.com/de/ai/envelopebudgeting-com)**
+  - Envelope ist eine Fintech-Banking-App mit integrierter Umschlagbudgetierung, die Menschen und Haushalten hilft, Gehaltseingänge zuzuweisen, Ausgaben nachzuverfolgen und gemeinsame Finanzen zu verwalten – mit Funktionen...
+  - *Passende Rollen:* Finanzanalyst, Finanzchef, Wellness-Coach, Content Creator
+
+- **[Epsilla](https://www.aimyflow.com/de/ai/epsilla-com)**
+  - Epsilla ist eine Enterprise-KI-Agent-as-a-Service-Plattform, die Teams dabei unterstützt, vertikale No-Code-KI-Agenten und Chatbots mit RAG zu erstellen, bereitzustellen und zu verwalten – hauptsächlich für...
+  - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, CEO +1 mehr
+
+- **[Epsilon](https://www.aimyflow.com/de/ai/epsilon-ai-com)**
+  - Epsilon ist eine KI-Suchmaschine für wissenschaftliche Forschung, die Forschenden dabei hilft, Publikationen und Patente zu finden, durch Zitate gestützte Antworten zu erhalten, Evidenz aus verschiedenen Artikeln zu...
+  - *Passende Rollen:* Hochschulprofessor, Data Scientist, Molekularbiologe, Mikrobiologe +1 mehr
 
 - **[Ergo](https://www.aimyflow.com/de/ai/joinergo-com)**
   - Ergo ist eine Infrastruktur zur Umsatzautomatisierung, die ein bestehendes CRM autonomer macht, indem sie Vertriebserkenntnisse erfasst, Datensätze aktualisiert, Follow-up-E-Mails entwirft und die nächsten Schritte für...
@@ -3678,6 +4155,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - EVE ist ein KI-Posteingangsassistent, der E-Mail-Konversationen analysiert, um Leads zu erkennen, Deal-Phasen zu verfolgen, ins Stocken geratene Chancen zu markieren und Follow-ups zu entwerfen – vor allem für kleine...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, CEO, Betriebschef +1 mehr
 
+- **[Event Horizon Labs](https://www.aimyflow.com/de/ai/ehl-markets)**
+  - Event Horizon Labs ist eine agentische Plattform für quantitative Forschung, die autonome KI-Agenten einsetzt, um Hypothesen zu generieren, Handelsstrategien zu backtesten und Ergebnisse in großem Maßstab zu...
+  - *Passende Rollen:* Portfoliomanager/in, Finanzanalyst, Data Scientist, CEO +1 mehr
+
 - **[everfind](https://www.aimyflow.com/de/ai/everfind-ai)**
   - everfind ist ein sicherer KI-Arbeitsbereich, der Unternehmensdokumente und E-Mails über Tools wie Gmail, Outlook, Google Drive, Jira und SharePoint hinweg verbindet, sodass KMU und mittelgroße Teams Dateien an einem...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Finanzanalyst, Betriebschef, Wirtschaftsprüfer +1 mehr
@@ -3702,10 +4183,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Examino ist ein KI-gestütztes Tool zur Bewertung von Aufsätzen, das Lehrkräften und Pädagoginnen und Pädagogen hilft, Aufsätze, handschriftliche Arbeiten und andere Prüfungsformate in Sekundenschnelle zu scannen, zu...
   - *Passende Rollen:* Lehrkraft, Hochschulprofessor, Dozent am Community College, Grundschullehrer Mathematik +1 mehr
 
-- **[Exanimo.ai](https://www.aimyflow.com/de/ai/exanimo-ai)**
-  - Exanimo.ai ist eine Plattform zur Optimierung von KI-Engines, die Unternehmen dabei unterstützt, ihre Markensichtbarkeit in Antworten von LLMs wie ChatGPT, Claude, Gemini und Perplexity zu überwachen, zu analysieren...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
-
 - **[Exla](https://www.aimyflow.com/de/ai/exla-ai)**
   - Exla ist eine Edge-AI-Optimierungsplattform, die Entwicklern und ML-Ingenieuren hilft, LLMs, Vision-Language-, Vision- und Action-Modelle auf Geräten wie Jetson, Raspberry Pi, CPUs, GPUs und mobiler Hardware schneller...
   - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, Elektroingenieur +1 mehr
@@ -3729,6 +4206,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Explee](https://www.aimyflow.com/de/ai/explee-com)**
   - Explee ist eine KI-Suchplattform und B2B-Unternehmensdatenbank, die Nutzern hilft, mithilfe von semantischer Suche, Webquellen und Deep-Research-Agenten Unternehmen, Entscheidungsträger und Kontaktdaten zu finden,...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, CEO +1 mehr
+
+- **[Extend](https://www.aimyflow.com/de/ai/extend-ai)**
+  - Extend ist eine Plattform zur Dokumentenverarbeitung, die Teams dabei unterstützt, komplexe Dokumente über APIs und Workflow-Tools zu parsen, zu extrahieren, aufzuteilen, zu klassifizieren und zu bearbeiten, um sie in...
+  - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
 
 - **[Extruct AI](https://www.aimyflow.com/de/ai/extruct-ai)**
   - Extruct AI ist eine KI-gestützte Plattform für Unternehmensinformationen, die Nutzern dabei hilft, spezialisierte Unternehmenslisten zu erstellen, CRM-Daten in natürlicher Sprache zu durchsuchen, Datensätze...
@@ -3782,9 +4263,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Face Finder ist eine KI-gestützte umgekehrte Gesichtssuchmaschine, die Nutzern dabei hilft, Online-Profile zu finden, Identitäten zu verifizieren und Catfishing oder die unbefugte Nutzung von Bildern anhand eines Fotos...
   - *Passende Rollen:* Cybersicherheitsanalyst, Content Creator, Social-Media-Content-Creator, Anwalt
 
-- **[Face Symmetry Test](https://www.aimyflow.com/de/ai/facesymmetrytest-ai)**
-  - Der Face Symmetry Test ist ein KI-gestützter Online-Analysator für Gesichtssymmetrie, mit dem Nutzer ein Selfie hochladen können, um die allgemeine Gesichtsbalance und Symmetriewerte einzelner Merkmale zu messen – vor...
-
 - **[Face++](https://www.aimyflow.com/de/ai/faceplusplus-com-cn)**
   - Face++ ist eine offene KI-Plattform, die APIs und SDKs für Gesichtserkennung, OCR sowie Bild- und Körperanalyse bereitstellt und Entwicklern und Unternehmen dabei hilft, Anwendungen für Identitätsprüfung,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsanalyst +1 mehr
@@ -3816,6 +4294,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Facetune ist eine KI-gestützte Foto- und Videobearbeitungs-App, die Nutzern dabei hilft, Selfies, Porträts, Social-Media-Posts und andere visuelle Inhalte mit Retusche-, Styling-, Hintergrund- und Erstellungstools zu...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Grafikdesigner +1 mehr
 
+- **[Fairway Healthcare](https://www.aimyflow.com/de/ai/fairwayhealth-co)**
+  - Fairway Healthcare ist eine KI-Lösung für Vorabgenehmigungen, die inzwischen von TurningPoint Healthcare Solutions übernommen wurde und dabei hilft, Vorabgenehmigungsprozesse für Gesundheitsdienstleister und...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Spezialist für Arbeitsmedizin
+
 - **[FakeYou](https://www.aimyflow.com/de/ai/fakeyou-com)**
   - FakeYou ist eine KI-Plattform zur Sprach- und Videogenerierung, die Nutzerinnen und Nutzern hilft, Text-to-Speech, Voice-to-Voice, Stimmenklonen sowie Audio- oder Videoausgaben im Stil bestimmter Figuren zu erstellen,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Podcast-Produzent, Texter +1 mehr
@@ -3831,6 +4313,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Farol](https://www.aimyflow.com/de/ai/usefarol-io)**
   - Farol ist ein KI-Trend-Intelligenz-Tool, das Content-Erstellern, Gründern, Newsletter-Autoren und Marketing-Profis hilft, aufkommende Themen 24–48 Stunden im Voraus zu erkennen und sie in bereit-zu-posten-Sozialinhalte...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Texter, CEO +1 mehr
+
+- **[FastAgency](https://www.aimyflow.com/de/ai/fastagency-ai-latest)**
+  - FastAgency ist ein Open-Source-Framework, das Multi-Agenten-KI-Workflows schnell in die Produktion bringt und Nutzer dabei unterstützt, modulare Agenten zu integrieren und komplexe KI-Lösungen zu skalieren,...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
 
 - **[FastBots.ai](https://www.aimyflow.com/de/ai/fastbots-ai)**
   - FastBots.ai ist ein No-Code-Builder für KI-Chatbots, der Unternehmen dabei unterstützt, Website-Chatbots mit ihren eigenen Inhalten zu erstellen und zu trainieren, um Fragen zu beantworten, Leads zu erfassen und Nutzer...
@@ -3864,6 +4350,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Faysell ist ein KI-Generator für Videoanzeigen, der Nutzern hilft, Produktbilder oder importierte E-Commerce-Listings in kurze Werbevideos mit KI-generierten Skripten und Figuren umzuwandeln, insbesondere für...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, E-Commerce-Verkäufer, Content Creator +1 mehr
 
+- **[Fazeshift](https://www.aimyflow.com/de/ai/fazeshift-com)**
+  - Fazeshift ist eine KI-Plattform für Debitorenbuchhaltung, die die Rechnungsstellung, den Zahlungsausgleich, das Forderungsmanagement, die Vertragsprüfung und Zahlungsabläufe für Finanz-, Buchhaltungs- und...
+  - *Passende Rollen:* Finanzchef, Manager Finanzplanung & Analyse, Wirtschaftsprüfer, Finanzanalyst +1 mehr
+
 - **[Fefi](https://www.aimyflow.com/de/ai/fefi-ai)**
   - Fefi ist ein KI-gestütztes Finanz-Dashboard, das Nutzern hilft, Aktien zu analysieren, Märkte zu beobachten, Handelsstrategien zu backtesten, vertrauenswürdige Finanzquellen zu durchsuchen und Dateien zu erstellen –...
   - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Finanzchef, Data Scientist
@@ -3883,6 +4373,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[ferranfigueredo.com](https://www.aimyflow.com/de/ai/f13o-com)**
   - ferranfigueredo.com ist die Portfolio-Website von Ferran Figueredo, einem Produktentwickler, der digitale Produkte, Web- und Mobilanwendungen, Technologiedienstleistungen und KI-Lösungen entwickelt, hauptsächlich für...
   - *Passende Rollen:* Softwareentwickler, CEO, Softwareentwicklungsleiter, Content Creator
+
+- **[Fetchr](https://www.aimyflow.com/de/ai/fetchr-so)**
+  - Fetchr ist eine KI-gestützte Personal-Shopping-App für Kleidung, die Nutzern hilft, ihren Stil und ihre Bedürfnisse zu beschreiben. Anschließend wählt der Service passende Artikel aus, liefert sie zum Anprobieren und...
+  - *Passende Rollen:* Modedesigner, E-Commerce-Verkäufer, Content Creator
 
 - **[Ficra A.I.](https://www.aimyflow.com/de/ai/ficra-ai)**
   - Ficra A.I. ist ein KI-Produktexperte und eine visuelle Single Source of Truth, die jeden Ablauf und jeden Bildschirm in einer App erfasst, um Produkt-, Support-, QA-, Compliance- und Rechtsteams dabei zu helfen zu...
@@ -3932,9 +4426,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Finto automatisiert Ihren Rechnungs-Zahlungsprozess mit KI-Agenten. Von der Rechnungseingang bis zur Journalbuchung - ohne Klicken erforderlich. Integriert mit SAP, DATEV und Business Central.
   - *Passende Rollen:* Finanzanalyst, Wirtschaftsprüfer, Steuermanager, Manager Finanzplanung & Analyse
 
+- **[Fintool](https://www.aimyflow.com/de/ai/fintool-com)**
+  - Fintool ist ein KI-Agent für Aktienresearch, der Nutzern hilft, Anlageideen zu finden, Modelle zu erstellen, Konsensschätzungen zu verfolgen sowie sich aktualisierende Tabellen und Berichte zu erstellen, hauptsächlich...
+  - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in
+
 - **[Firebase Studio](https://www.aimyflow.com/de/ai/firebase-studio)**
   - Firebase Studio ist ein webbasiertes Full-Stack-Entwicklungs-Workspace mit Gemini-gestützten KI-Agenten, das Entwicklerinnen und Entwicklern dabei hilft, Web- und Mobil-Apps an einem Ort zu erstellen, zu...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, Projektmanagement-Beauftragter
+
+- **[Firebender](https://www.aimyflow.com/de/ai/firebender-com)**
+  - Firebender ist ein Android-nativer KI-Coding-Agent für Android Studio, der Android-Entwicklern hilft, Features zu entwickeln, Jetpack-Compose-UI aus Figma zu generieren, im Emulator zu testen und Probleme automatisch...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Technischer Redakteur
 
 - **[Fireflies.ai](https://www.aimyflow.com/de/ai/fireflies-ai)**
   - Fireflies.ai ist ein KI-Meeting-Assistent, der Teams hilft, Gespräche über gängige Videokonferenz-Plattformen zu transkribieren, zusammenzufassen und zu analysieren. Er macht Meetings durchsuchbar und liefert...
@@ -3948,6 +4450,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - FirstResume ist ein KI-Karrieretool und Lebenslauf-Builder, das Gen-Z-Arbeitssuchenden hilft, Lebensläufe, Anschreiben, Job-Matches, Bewerbungsverfolgung und Interviewvorbereitung auf bestimmte Stellen zuzuschneiden....
   - *Passende Rollen:* Talent-Acquisition-Manager, Schulberater, Dozent am Community College, Hochschulprofessor +1 mehr
 
+- **[Firstwork](https://www.aimyflow.com/de/ai/firstwork-com)**
+  - Firstwork ist eine KI-Plattform für Workforce Operations, die Unternehmen dabei unterstützt, Frontline-Mitarbeitende einzustellen, einzuarbeiten, zu verifizieren und die Compliance zu verwalten – vor allem für...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Logistikplaner/in, Gesundheitsadministrator +1 mehr
+
 - **[Fitz HR](https://www.aimyflow.com/de/ai/fitzhr-com)**
   - Fitz HR ist eine KI-gestützte HR-Software für australische Gastgewerbebetriebe, die Pubs, Restaurants, Cafés und Hotels dabei unterstützt, Tariflöhne, Arbeitsverträge, Abmahnungen und die Einhaltung der...
   - *Passende Rollen:* Manager Mitarbeiterbeziehungen, Restaurantleiter, Talent-Acquisition-Manager, Filialleiter +1 mehr
@@ -3959,6 +4465,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Fizzly AI](https://www.aimyflow.com/de/ai/fizzly-ai)**
   - Fizzly AI ist eine Plattform für kreative KI-Generierung, mit der Creator und Marketer KI-Bilder, Videos und individuelle Charaktere für Markeninhalte erstellen können. Sie verkürzt Produktionszyklen und erleichtert...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Marketing- und Vertriebsmanager, Berater für Bildungstechnologie +3 mehr
+
+- **[Flair Technology Services Inc.](https://www.aimyflow.com/de/ai/flairhealth-com)**
+  - Flair Technology Services Inc. ist ein in Kürze verfügbarer Technologiedienst mit Kontozugang und Update-Abonnements, der sich an frühe Nutzer richtet, die exklusiven Zugang und Informationen wünschen, während sich die...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef, CEO
 
 - **[Flashback](https://www.aimyflow.com/de/ai/flashbackstudy-com)**
   - Flashback ist ein KI-Lernpartner, der Studierenden dabei hilft, Kursmaterialien wie PDFs, YouTube-Videos, Notion-Seiten und eingefügten Text in Lernkarten, Quizze und Lernsitzungen mit aktivem Abruf umzuwandeln. Für...
@@ -3976,17 +4486,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Flawless ist eine unterstützende KI-Plattform für Film und Fernsehen, die Filmemachern und Postproduktionsteams hilft, Dialoge zu lokalisieren, zu ändern oder zu ersetzen und Darstellungen zu verfeinern, während...
   - *Passende Rollen:* Unabhängige/r Filmemacher/in, Podcast-Produzent, Synchronsprecher, Content Creator +1 mehr
 
+- **[FleetWorks](https://www.aimyflow.com/de/ai/fleetworks-ai)**
+  - FleetWorks ist eine KI-gestützte Plattform zur Frachtautomatisierung, die Frachtführern und Brokern hilft, Ladungen zu finden und zu buchen, indem sie Broker anruft, Raten verhandelt und passende Ladungsangebote...
+  - *Passende Rollen:* Logistikplaner/in, Betriebschef, Filialleiter, Außendienstleiter
+
 - **[FlexClip](https://www.aimyflow.com/de/ai/flexclip-com-cn)**
   - FlexClip ist ein Online-Tool für Videobearbeitung und -erstellung, das Nutzern hilft, Bilder, Clips, Text und Vorlagen mithilfe von KI-Funktionen, Stock-Medien und Bearbeitungswerkzeugen in fertige Videos zu...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Social-Media-Content-Creator, Texter +1 mehr
 
-- **[FliFlik Voice Changer](https://www.aimyflow.com/de/ai/fliflik-com-voice-changer)**
-  - FliFlik Voice Changer ist ein Desktop-Tool zur Stimmveränderung für Windows und Mac, mit dem Nutzer Stimmen in Echtzeit anpassen, Soundboard-Effekte anwenden sowie Audiodateien ändern oder aufnehmen können – vor allem...
-  - *Passende Rollen:* Content Creator, Podcast-Produzent, Social-Media-Content-Creator, Online-Programmierlehrer +1 mehr
-
 - **[Fliki](https://www.aimyflow.com/de/ai/fliki-ai)**
   - Fliki ist ein KI-Tool zur Erstellung von Videos und Voiceovers, das Text, Ideen oder Folien in Videos mit lebensechten Stimmen, Clips und Vorschaubildern verwandelt, vor allem für Content-Ersteller, Marketingfachleute,...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Schulberater, Berater für Bildungstechnologie +1 mehr
+
+- **[Flint](https://www.aimyflow.com/de/ai/flintk12-com)**
+  - Flint ist eine KI-Plattform für Schulen, die Lehrkräfte dabei unterstützt, Lernen zu personalisieren – mit Unterrichtsplanung, Klassenraumanalysen, sofortigem Feedback und KI-gestützten Aktivitäten für Schüler sowie...
+  - *Passende Rollen:* Berater für Bildungstechnologie, Schulberater, Lehrkraft, Hochschulprofessor +1 mehr
 
 - **[Flipped.Chat](https://www.aimyflow.com/de/ai/flipped-chat)**
   - Flipped.Chat ist eine KI-Charakter-Chatbot-Plattform, auf der Nutzer text-, bild- und sprachbasierte Charaktere entdecken, mit ihnen chatten und sie erstellen können, vor allem für Menschen, die interaktives...
@@ -4016,6 +4530,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - FlowGPT ist ein Marktplatz für KI-Charakter-Rollenspiele und Prompts, der Nutzern hilft, KI-Charaktere und ChatGPT-Prompts zu finden, zu nutzen und mit ihnen zu chatten – vor allem für Menschen, die kreative,...
   - *Passende Rollen:* Texter, Social-Media-Content-Creator, Softwareentwickler, Lehrkraft
 
+- **[Flowise](https://www.aimyflow.com/de/ai/flowiseai-com)**
+  - Flowise ist eine Open-Source-Plattform für visuelle Entwicklung zum Erstellen von KI-Agenten, Chatbots und Multi-Agenten-Workflows mit LLM-Orchestrierung, RAG, APIs und Bereitstellungsoptionen, hauptsächlich für...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
+
+- **[Floworks AI](https://www.aimyflow.com/de/ai/floworks-ai)**
+  - Floworks AI ist eine Plattform autonomer KI-Agenten für die B2B-Vertriebsansprache, die Vertriebs- und Go-to-Market-Teams dabei unterstützt, Leads zu identifizieren, E-Mail- und LinkedIn-Ansprache zu personalisieren,...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
+
 - **[FlowPost](https://www.aimyflow.com/de/ai/flowpost-ai)**
   - FlowPost ist ein KI-Tool für Social-Media-Posting, das Kreativen, Unternehmen und Agenturen hilft, Inhalte plattformübergreifend zu erstellen, zu planen, zu veröffentlichen und zu verwalten – und dabei den Ton jeder...
   - *Passende Rollen:* Leiter Digitales Marketing, Social-Media-Content-Creator, Texter, CEO +1 mehr
@@ -4032,6 +4554,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Floyo ist eine browserbasierte Plattform zum Entdecken, Ausführen und Erstellen von ComfyUI-AI-Workflows ohne Einrichtung, hauptsächlich für Kreative, Teams und Unternehmen, die an Bild-, Video-, VFX- und...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Leiter Digitales Marketing, Softwareentwickler +1 mehr
 
+- **[Fluently](https://www.aimyflow.com/de/ai/getfluently-app)**
+  - Fluently ist ein persönlicher KI-Englischlehrer, der Lernenden hilft, ihre Sprechfähigkeiten durch Echtzeitübungen, Niveaubewertung und Feedback zu Aussprache, Grammatik, Wortschatz und Sprachflüssigkeit zu verbessern,...
+  - *Passende Rollen:* Online-Programmierlehrer, Nachhilfelehrer für Testvorbereitung, Leadership-Coach für Unternehmen, Außendienstleiter +1 mehr
+
 - **[Fluidize](https://www.aimyflow.com/de/ai/fluidize-ai)**
   - Fluidize ist eine KI-Plattform für wissenschaftliches Rechnen, die Wissenschaftlern und Ingenieuren hilft, Forschung und Entwicklung zu beschleunigen, indem sie Simulationen und Experimente ausführt und Einrichtung,...
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Maschinenbauingenieur/in, Elektroingenieur +1 mehr
@@ -4039,10 +4565,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Fluidwave](https://www.aimyflow.com/de/ai/onetask-me)**
   - Fluidwave ist ein KI-gestütztes Aufgabenmanagement-Tool, das Nutzern hilft, Arbeit zu erstellen, zu organisieren, zu priorisieren und in kleinere Schritte zu unterteilen, vor allem für vielbeschäftigte Fachkräfte und...
   - *Passende Rollen:* Projektmanagement-Beauftragter, CEO, Leiter Digitales Marketing, Softwareentwicklungsleiter +1 mehr
-
-- **[Flux 1 AI](https://www.aimyflow.com/de/ai/flux-1-ai)**
-  - Flux 1 AI ist ein kostenloser Online-Bildgenerator zur Erstellung hochwertiger Bilder aus Text-Prompts, vor allem für Designer, Künstler und Entwickler, die das FLUX.1-Modell von Black Forest Labs erkunden. Für...
-  - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Leiter Digitales Marketing, Content Creator +1 mehr
 
 - **[Flux AI](https://www.aimyflow.com/de/ai/flux-ai-io)**
   - Flux AI ist eine Online-Plattform zur Bildgenerierung, mit der Nutzer aus Prompts mithilfe verschiedener Flux-Modellvarianten Visuals erstellen können. Sie richtet sich an Designer, Künstler und Content Creator und...
@@ -4100,6 +4622,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ForA.Chat ist eine Chatbot-Plattform, mit der Nutzer mit auf GPT-3 basierenden Persönlichkeits-Bots chatten oder auf einer benutzerdefinierten ForA.Chat-Subdomain kostenlos einen persönlichen Chatbot erstellen können –...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Texter, Leiter Digitales Marketing +1 mehr
 
+- **[Forge](https://www.aimyflow.com/de/ai/forgehq-com)**
+  - Forge ist ein Dienst und eine Plattform für Zollrückvergütung, die US-Importeuren, Exporteuren, DTC-Marken, Großhändlern und Herstellern dabei hilft, Tarif- und Zollerstattungen zurückzuerhalten, indem Handelsdokumente...
+  - *Passende Rollen:* Logistikplaner/in, Finanzanalyst, Finanzchef, Betriebschef +1 mehr
+
 - **[Formably](https://www.aimyflow.com/de/ai/formably-io)**
   - Formably ist ein KI-gestütztes Formular-Backend, das modernen Teams dabei hilft, unübersichtliche Formularübermittlungen von Websites in strukturierte Daten umzuwandeln, Spam zu filtern und angereicherte Leads oder...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Projektmanagement-Beauftragter, Betriebschef +1 mehr
@@ -4144,10 +4670,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Frase ist eine agentische SEO- und GEO-Plattform, die Wettbewerber analysiert, bei der Erstellung und Optimierung von Inhalten hilft und die Sichtbarkeit in Google und KI-Suchtools verfolgt, vor allem für...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Technischer Redakteur +1 mehr
 
-- **[Free AI Video & Image Upscaler](https://www.aimyflow.com/de/ai/free-upscaler-video)**
-  - Der kostenlose KI-Video- und Bild-Upscaler ist ein browserbasiertes Open-Source-Tool, das Nutzern hilft, Videos und Bilder privat hochzuskalieren, ohne Anmeldung oder Installation, und richtet sich vor allem an...
-  - *Passende Rollen:* Content Creator, Grafikdesigner, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
-
 - **[Free Image Generator](https://www.aimyflow.com/de/ai/freeimagegenerator-app)**
   - Free Image Generator ist ein KI-Bilderstellungstool, das Textanweisungen in mehrere hochauflösende Bilder mit anpassbaren Seitenverhältnissen und einfachen Bild-zu-Bild-Optionen umwandelt, vor allem für Kreative,...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Texter +1 mehr
@@ -4183,6 +4705,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Fridge Leftovers AI](https://www.aimyflow.com/de/ai/fridgeleftoversai-com)**
   - Fridge Leftovers AI ist ein Rezeptideen-Generator, der Hobbyköchen hilft, vorhandene Zutaten in Rezeptvorschläge umzuwandeln und Lebensmittelverschwendung zu reduzieren. Das Tool vereinfacht die Alltagsplanung mit...
   - *Passende Rollen:* Food-Enthusiast
+
+- **[Frigade](https://www.aimyflow.com/de/ai/frigade-com)**
+  - Frigade ist eine KI-gestützte Plattform für Produktadoption, die lernt, wie ein Softwareprodukt funktioniert, und Produktteams dabei hilft, Nutzer einzuarbeiten, die Entdeckung von Funktionen zu steuern, In-App-Support...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Leiter Digitales Marketing, Projektmanagement-Beauftragter, Content Creator +1 mehr
 
 - **[Frizzle](https://www.aimyflow.com/de/ai/frizzle-com)**
   - Frizzle ist ein KI-gestütztes Tool zur Bewertung von Mathematikaufgaben, das Lehrkräften hilft, handschriftliche oder getippte Aufgaben schneller zu benoten und schrittweises Feedback auf Grundlage der Denkwege der...
@@ -4392,6 +4918,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Ghostwall ist eine Software zur Erkennung von Anzeigenbetrug und zum Schutz vor Klickbetrug, die Werbetreibenden und Performance-Marketing-Teams dabei hilft, Bot-Traffic zu erkennen, gefälschte Conversions zu...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Finanzanalyst, Softwareentwickler +1 mehr
 
+- **[Giga](https://www.aimyflow.com/de/ai/giga-ai)**
+  - Giga ist eine KI-Agentenplattform für Unternehmen, die Support-Teams dabei unterstützt, komplexe Kundendienst-Workflows über Chat-, Sprach- und Browser-Interaktionen hinweg zu automatisieren, vor allem für große...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter
+
 - **[Giiso Writing Robot](https://www.aimyflow.com/de/ai/giiso-com)**
   - Giiso Writing Robot ist ein KI-gestütztes Tool zur Inhaltserstellung, das Nutzern beim Schreiben und Überarbeiten von Nachrichtenartikeln, Texten für Xiaohongshu und Douyin, Marketinginhalten, PPTs und Bildern hilft...
   - *Passende Rollen:* Texter, Social-Media-Content-Creator, Leiter Digitales Marketing, Technischer Redakteur +1 mehr
@@ -4414,10 +4944,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Gitfluence.com](https://www.aimyflow.com/de/ai/gitfluence-com)**
   - Gitfluence.com ist derzeit nicht zugänglich, da sein Ursprungsserver über ein ungültiges SSL-Zertifikat verfügt; daher können das Tool der Website und die vorgesehenen Nutzer anhand des verfügbaren Seiteninhalts nicht...
 
-- **[GitHub Copilot SDK](https://www.aimyflow.com/de/ai/github-com-github-copilot-sdk)**
-  - Das GitHub Copilot SDK ist ein plattformübergreifendes Software Development Kit zur Integration des GitHub Copilot Agent in Apps und Dienste. Es hilft Entwicklern dabei, agentische Workflows, Planung, Tool-Nutzung und...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
-
 - **[GitHub Spark](https://www.aimyflow.com/de/ai/githubnext-com-projects-github-spark)**
   - GitHub Spark ist ein KI-gestütztes Tool von GitHub Next zum Erstellen, Anpassen und Teilen personalisierter Mikro-Apps per natürlicher Sprache mit einer vollständig verwalteten Laufzeitumgebung, hauptsächlich für...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Berater für Bildungstechnologie
@@ -4438,6 +4964,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Giz AI für Nachrichtenzusammenfassungen ist ein kostenloser KI-Nachrichtenaggregator ohne Anmeldung, mit dem Nutzer Schlüsselwörter eingeben, Quellen wie Google News, YouTube und Reddit auswählen und zusammengefasste...
   - *Passende Rollen:* Finanzanalyst, Texter, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
+- **[Glade](https://www.aimyflow.com/de/ai/gladestudio-ai)**
+  - Glade ist eine KI-Plattform für die Spieleentwicklung mit GladeKit, einem KI-Agenten, der Ideen innerhalb einer Game-Engine in spielbare Welten verwandelt, und GladeCore, einem kleinen On-Device-Sprachmodell für...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, Content Creator
+
 - **[Glambase](https://www.aimyflow.com/de/ai/glambase-app)**
   - Glambase ist eine Plattform zur Erstellung von KI-Influencern und ein Generator für virtuelle Personas, der Nutzern dabei hilft, KI-gesteuerte Charaktere mit chatbasierten Interaktionen zu erstellen, anzupassen und zu...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator, Texter +1 mehr
@@ -4454,6 +4984,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Glaze von Raycast ist ein KI-gestützter, lokal ausgerichteter App-Builder für den Mac, mit dem Nutzer Desktop-Apps in natürlicher Sprache erstellen können, vor allem für Teams, die interne Tools entwickeln, sowie für...
   - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Softwareentwickler +1 mehr
 
+- **[Gleam](https://www.aimyflow.com/de/ai/joingleam-com)**
+  - Gleam ist eine Browser-Erweiterung, die Teams an klinischen Prüfzentren dabei unterstützt, Daten aus beliebigen Quellen oder eSource schneller in EDC-Fallberichtsformulare zu übertragen – mit validierter Erfassung und...
+  - *Passende Rollen:* Gesundheitsadministrator, Projektmanagement-Beauftragter, Medizinische/r Labortechniker/in
+
 - **[Glean](https://www.aimyflow.com/de/ai/glean-com-about)**
   - Glean ist eine KI-gestützte Plattform für Enterprise Search und Work AI, die Mitarbeitenden hilft, Antworten zu finden, Inhalte zu erstellen und Workflows über Arbeitsplatz-Apps hinweg zu automatisieren, vor allem für...
   - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Leiter Digitales Marketing, Außendienstleiter +1 mehr
@@ -4469,10 +5003,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Glm Image on VFast AI](https://www.aimyflow.com/de/ai/vfast-ai-ai-image-generation)**
   - Glm Image auf VFast AI ist ein KI-Tool zur Bildgenerierung, das Nutzern hilft, Bilder aus Texteingaben mit wählbaren Seitenverhältnissen und Ausgabemengen zu erstellen, vor allem für Personen, die schnell visuelle...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator +1 mehr
-
-- **[GLM-Image](https://www.aimyflow.com/de/ai/github-com-zai-org-GLM-Image)**
-  - GLM-Image ist ein Open-Source-Bildgenerierungsmodell und GitHub-Repository, das Entwicklern und KI-Forschern hilft, hochqualitative Text-zu-Bild- und Bild-zu-Bild-Ausgaben zu erstellen, insbesondere für Textrendering,...
-  - *Passende Rollen:* Softwareentwickler, Data Scientist, Grafikdesigner, Softwareentwicklungsleiter +1 mehr
 
 - **[GLM-Image](https://www.aimyflow.com/de/ai/glmimage-pro)**
   - GLM-Image ist ein KI-Bildgenerator, mit dem Nutzer hochauflösende Grafiken aus Text- oder Bild-Prompts für Poster, Anime und Produktdesign erstellen können. Er beschleunigt die Ideenfindung für Designer und Marketer...
@@ -4544,13 +5074,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Google NotebookLM ist ein KI-gestütztes Recherche- und Notiztool, das Nutzern hilft, vertrauenswürdige Quellen hochzuladen, Zusammenfassungen zu erhalten, Fragen mit Quellenangaben zu stellen und Audio-Überblicke zu...
   - *Passende Rollen:* Hochschulprofessor, Data Scientist, Finanzanalyst, Technischer Redakteur +1 mehr
 
-- **[Google Production Toolkit](https://www.aimyflow.com/de/ai/productokit-com)**
-  - Google Production Toolkit ist eine datenschutzorientierte Suite von Google Ads- und Workspace-Tools, die Marketingfachleuten, Content-Teams, Analysten und Compliance-Verantwortlichen dabei hilft, Bilder zu optimieren,...
-  - *Passende Rollen:* Leiter Digitales Marketing, Finanzanalyst, Cybersicherheitsanalyst, Content Creator +1 mehr
-
 - **[google-research/frame-interpolation](https://www.aimyflow.com/de/ai/replicate-com-google-research-frame-interpolation)**
   - google-research/frame-interpolation ist ein Replicate-API-Modell zur Erzeugung von Zwischenbildern zwischen zwei Eingabebildern. Es hilft Nutzern, flüssigere Bewegungssequenzen und Interpolationsvideos zu erstellen,...
   - *Passende Rollen:* Softwareentwickler, Unabhängige/r Filmemacher/in, Grafikdesigner, Content Creator +1 mehr
+
+- **[Gooseworks](https://www.aimyflow.com/de/ai/gooseworks-ai)**
+  - Gooseworks ist ein KI-GTM-Workspace, der Teams dabei hilft, wiederholbare Go-to-Market-Workflows wie SEO, Outbound-Kampagnen, Wettbewerbsrecherche und CRM-Anreicherung aufzubauen und zu orchestrieren, vor allem für...
+  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter +1 mehr
 
 - **[Gordon](https://www.aimyflow.com/de/ai/meetgordon-com)**
   - Gordon ist ein KI-Fundraising-Agent für Pre-Seed-Startup-Gründer, der ihnen hilft, Venture-Fundraising zu verstehen, ein personalisiertes Fundraising-Playbook zu erstellen, Investoren gezielt anzusprechen und Timing...
@@ -4559,6 +5089,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[GPT Proto](https://www.aimyflow.com/de/ai/gptproto-com)**
   - GPT Proto ist eine einheitliche API-Plattform, die Entwicklern und Unternehmen Zugang zu mehreren KI-Modellen und kreativen Tools bietet und ihnen hilft, Text-, Bild- und Videogenerierung zu integrieren, ohne separate...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Betriebschef
+
+- **[GPT-Migrate](https://www.aimyflow.com/de/ai/gpt-migrate-com)**
+  - GPT-Migrate ist ein Code-Migrationsdienst, der Nutzern hilft, komplexe Codebasen von einer Sprache oder einem Framework in ein anderes zu überführen, vor allem für Teams und Entwickler, die die Modernisierung von...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[GPT-trainer](https://www.aimyflow.com/de/ai/gpt-trainer-com)**
   - GPT-trainer ist eine KI-Agentenplattform für Unternehmen, die Unternehmen dabei unterstützt, Sprach- und Textagenten für Kundensupport, Lead-Qualifizierung, interne Unterstützung und Workflow-Automatisierung über...
@@ -4620,6 +5154,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Graspeo ist ein KI-Quizgenerator, der Notizen, PDFs, Bilder und Text in bearbeitbare Übungsquizze und Tests umwandelt, hauptsächlich für Lehrkräfte, Schüler und Studierende, Trainer sowie Kursersteller. In...
   - *Passende Rollen:* Berater für Bildungstechnologie, Hochschulprofessor, Dozent am Community College, Berufsschuldozent +1 mehr
 
+- **[Greenboard](https://www.aimyflow.com/de/ai/greenboard-com)**
+  - Greenboard ist ein Compliance-Betriebssystem für SEC- und FINRA-regulierte Finanzinstitute, das Teams dabei unterstützt, die Archivierung von Kommunikation sowie die Compliance von Mitarbeitern, Marketing, Unternehmen...
+  - *Passende Rollen:* Risikoanalyst, Finanzanalyst, CEO, Finanzchef
+
 - **[Greenbot’s Free Rizz AI Generator](https://www.aimyflow.com/de/ai/greenbot-com-rizz-ai-generator)**
   - Greenbots kostenloser Rizz-AI-Generator ist ein KI-Schreibtool, das Nutzern hilft, aus dem Chatkontext flirtende, clevere oder im Ton passende Antworten und Anmachsprüche zu erstellen, vor allem für Menschen, die...
   - *Passende Rollen:* Content Creator, Texter, Social-Media-Content-Creator
@@ -4627,6 +5165,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[GreenPT](https://www.aimyflow.com/de/ai/greenpt-ai)**
   - GreenPT ist eine in Europa gehostete, datenschutzfreundliche GPT-Chat-Plattform und API, die Regierungen, Unternehmen, datenschutzorientierten Organisationen und Entwicklern dabei hilft, KI-Antworten zu erhalten,...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwickler, Cybersicherheitsmanager, Softwareentwicklungsleiter +1 mehr
+
+- **[Greptile](https://www.aimyflow.com/de/ai/greptile-com)**
+  - Greptile ist ein KI-Tool für Code-Reviews, das Pull Requests in GitHub und GitLab automatisch mit vollständigem Codebase-Kontext prüft, Inline-Kommentare hinzufügt und PR-Zusammenfassungen erstellt – hauptsächlich für...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Grizzly AI](https://www.aimyflow.com/de/ai/grizzly-ai)**
   - Grizzly AI ist ein KI-Tool zur Berichtserstellung, das Fachkräften hilft, aus Quelldateien Berichte im bevorzugten Schreibstil zu erstellen. Es spart Analysten und Wissensarbeitern Zeit, indem Dokumente mit weniger...
@@ -4648,6 +5190,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Guidde ist eine KI-Plattform für Video-Dokumentation, die Arbeitsabläufe erfasst und in Schritt-für-Schritt-Anleitungen mit Skripten, Voiceovers, Untertiteln und In-App-Freigabe umwandelt, hauptsächlich für...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Berater für Bildungstechnologie +1 mehr
 
+- **[Gumloop](https://www.aimyflow.com/de/ai/gumloop-com)**
+  - Gumloop ist ein No-Code-Framework für KI-Automatisierung zum Erstellen und Hosten von Geschäftsautomatisierungen und spezialisierten Agenten, vor allem für Teams in den Bereichen Operations, Vertrieb, Support und...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Außendienstleiter, Finanzanalyst, Softwareentwicklungsleiter +1 mehr
+
 - **[GuruTrans](https://www.aimyflow.com/de/ai/gurutrans-app)**
   - GuruTrans ist ein kostenloses KI-Übersetzungstool für über 100 Sprachen und spezielle Sprachformate. Es hilft Nutzern, Standard-, historische, umgangssprachliche, Code- und fiktionale Texte online zu übersetzen, vor...
   - *Passende Rollen:* Texter, Social-Media-Content-Creator, Lehrkraft, Technischer Redakteur +1 mehr
@@ -4655,6 +5201,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[H3LLO](https://www.aimyflow.com/de/ai/h3llo-app)**
   - H3LLO ist ein KI-Kommunikationsassistent, der Nutzern hilft, geistreiche, kluge oder selbstbewusste Antworten aus Chat- oder E-Mail-Screenshots zu erstellen, vor allem für Menschen, die schnelle Hilfe beim Formulieren...
   - *Passende Rollen:* Texter, Content Creator, Außendienstleiter, CEO +1 mehr
+
+- **[Hadrius](https://www.aimyflow.com/de/ai/hadrius-com)**
+  - Hadrius ist eine KI-native Compliance-Plattform, die Finanzunternehmen dabei unterstützt, SEC- und FINRA-Compliance-Abläufe wie Marketingprüfung, Kommunikationsüberwachung, Mitarbeiteraufsicht, Unternehmensaufsicht und...
+  - *Passende Rollen:* Finanzanalyst, CEO, Risikoanalyst, Texter
 
 - **[Haimeta Agent](https://www.aimyflow.com/de/ai/haimeta-com-agent)**
   - Haimeta Agent ist eine KI-Plattform zur Inhaltserstellung, die Nutzern hilft, kreative Ideen mithilfe geführter Design-Tools und automatisierter Generierung in Bilder, Videos und 3D-Assets umzuwandeln, hauptsächlich...
@@ -4681,6 +5231,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Handit.ai](https://www.aimyflow.com/de/ai/handit-ai)**
   - Handit.ai ist eine Open-Source-Optimierungsengine für KI-Agenten, die Entscheidungen auswertet, bessere Prompts und Datensätze erstellt und Änderungen per A/B-Tests prüft. So verbessern KI- und Produktteams die...
   - *Passende Rollen:* Softwareentwickler, Data Engineer, Cybersicherheitsanalyst, Data Scientist +10 mehr
+
+- **[Handled](https://www.aimyflow.com/de/ai/itshandled-ai)**
+  - Handled ist eine KI-gestützte Operations-Automatisierungsplattform für Handelsmarken und 3PLs, die Team-Workflows erlernt, um Auftragsabwicklung, Sendungsverfolgung, Retourenbearbeitung, Rechnungsabgleich und...
+  - *Passende Rollen:* Logistikplaner/in, Leiter E-Commerce-Vertrieb, Produktionsleiter, Finanzanalyst +1 mehr
+
+- **[Happenstance](https://www.aimyflow.com/de/ai/happenstance-ai)**
+  - Happenstance ist ein KI-gestütztes Netzwerksuchtool, das Nutzern hilft, warme Intro­duktionen, gemeinsame Kontakte und relevante Personen in ihren Kontakten und Online-Netzwerken zu finden, vor allem für Vertrieb,...
+  - *Passende Rollen:* Außendienstleiter, Talent-Acquisition-Manager, CEO, Projektmanagement-Beauftragter +1 mehr
 
 - **[HAPPYBET188](https://www.aimyflow.com/de/ai/magician-design)**
   - HAPPYBET188 ist eine Online-Glücksspielplattform, auf der Nutzer Slots, Live-Casino, Sportwetten, Togel, Poker und andere Spiele spielen können, hauptsächlich für indonesische Spieler, die eine Wettseite mit mehreren...
@@ -4721,6 +5279,18 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Hathr.ai ist ein HIPAA-konformes KI-Tool für das Gesundheitswesen, das Fachkräften dabei hilft, Informationen zusammenzufassen, große Dokumente zu analysieren, Schreiben zu verfassen und klinische sowie administrative...
   - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Hausarzt, Anwalt +1 mehr
 
+- **[Haven AI](https://www.aimyflow.com/de/ai/usehaven-ai)**
+  - Haven AI ist eine KI-Plattform für Hausverwaltungsteams, mit der sie benutzerdefinierte KI-Mitarbeiter trainieren und verwalten können, um wiederkehrende Aufgaben wie Wartungsanfragen, Leasinganfragen, Arbeitsaufträge...
+  - *Passende Rollen:* Filialleiter, Betriebschef, Projektmanagement-Beauftragter, Restaurantleiter +1 mehr
+
+- **[Haystack](https://www.aimyflow.com/de/ai/haystackeditor-com)**
+  - Haystack ist ein KI-gestütztes Code-Review-Tool, das Benutzern hilft, Pull Requests schnell zu verstehen – durch geführte Zusammenfassungen, logische Änderungsreihenfolge und chatbasierte Erkundung, hauptsächlich für...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
+
+- **[Hazel AI](https://www.aimyflow.com/de/ai/hazelai-com)**
+  - Hazel AI ist eine Software für die öffentliche Beschaffung, die KI einsetzt, um öffentlichen Stellen bei der Erstellung von RFx-Ausschreibungen, der Identifizierung zertifizierter Anbieter und der Bewertung von...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Filialleiter, Programmmanager Non-Profit
+
 - **[HeadshotBook](https://www.aimyflow.com/de/ai/headshotbook-com)**
   - HeadshotBook ist ein KI-Headshot-Generator, der einige hochgeladene Selfies in professionelle Headshots im Studio-Stil für LinkedIn, Lebensläufe, Präsentationen, Teamfotos und Executive-Profile verwandelt – vor allem...
   - *Passende Rollen:* Talent-Acquisition-Manager, CEO, Leiter Digitales Marketing, Außendienstleiter +1 mehr
@@ -4733,6 +5303,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Healing Journey ist eine KI-Therapieplattform, die Menschen dabei hilft, über ihre Gefühle zu sprechen und Unterstützung für ihre psychische Gesundheit durch urteilsfreie, Ende-zu-Ende-verschlüsselte Chats zu erhalten,...
   - *Passende Rollen:* Schulberater, Wellness-Coach, Gesundheitsadministrator
 
+- **[Health Harbor](https://www.aimyflow.com/de/ai/healthharbor-co)**
+  - Health Harbor ist ein KI-Tool, das Anrufe zur Krankenversicherung für Leistungsprüfungen, Vorabgenehmigungen und die Nachverfolgung des Schadensstatus bearbeitet, vor allem für Teams von Gesundheitsdienstleistern und...
+  - *Passende Rollen:* Fachkraft für medizinische Abrechnung, Gesundheitsadministrator, Spezialist für Arbeitsmedizin, Betriebschef +1 mehr
+
 - **[Hedy AI](https://www.aimyflow.com/de/ai/hedy-bot)**
   - Hedy AI ist ein Echtzeit-Gesprächscoach, der während Meetings, Interviews, Unterrichtsstunden und Pitches zuhört, um Geschäftsleuten, Recruitern, Journalisten, Studierenden und internationalen Teams Live-Einblicke,...
   - *Passende Rollen:* Talent-Acquisition-Manager, TV-Nachrichtenreporter, CEO, Projektmanagement-Beauftragter +1 mehr
@@ -4741,9 +5315,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Heliopolis Biotech ist ein Unternehmen für Protein- und Antikörperdesign, das computergestützte Algorithmen und experimentelle Charakterisierung einsetzt, um Biotechnologie- und Arzneimittelforschungsteams bei der...
   - *Passende Rollen:* Molekularbiologe, Mikrobiologe, Data Scientist, Projektmanagement-Beauftragter +1 mehr
 
+- **[Helios](https://www.aimyflow.com/de/ai/usehelios-ai)**
+  - Helios ist eine KI-Sprachagentenplattform, die Unternehmen dabei unterstützt, Vertriebs- und operative Gespräche in großem Maßstab zu automatisieren, vor allem für Teams in Finanzinstituten, die Kundensupport,...
+  - *Passende Rollen:* Betriebschef, Außendienstleiter, Logistikplaner/in, Filialleiter +1 mehr
+
+- **[Henry](https://www.aimyflow.com/de/ai/henry-ai)**
+  - Henry ist eine KI-gestützte Plattform, die Underwriting-Daten, Vergleichswerte und Notizen aus dem Bereich gewerblicher Immobilien in Minuten in professionelle, markenkonforme Pitch-Decks und Marketingmaterialien...
+  - *Passende Rollen:* Immobilienmakler, Content Creator, E-Commerce-Verkäufer
+
 - **[HeraHaven](https://www.aimyflow.com/de/ai/herahaven-com)**
   - HeraHaven ist eine KI-Freundinnen-App nur für Erwachsene, mit der Nutzer anpassbare virtuelle Begleiterinnen für Chats und KI-generierte Bilder erstellen können, vor allem für Menschen, die personalisierte romantische...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator
+
+- **[HeroUI v3, previously NextUI,](https://www.aimyflow.com/de/ai/heroui-com)**
+  - HeroUI v3, zuvor NextUI, ist eine Open-Source-UI-Bibliothek für Web und Mobile, die anpassbare Komponenten und Themes bereitstellt, um Entwickler:innen und Produktteams dabei zu helfen, konsistente Benutzeroberflächen...
+  - *Passende Rollen:* Softwareentwickler, Grafikdesigner, Softwareentwicklungsleiter, Technischer Redakteur
 
 - **[HeyFish.ai](https://www.aimyflow.com/de/ai/heyfish-ai)**
   - HeyFish.ai ist ein KI-gestützter UGC-Videoanzeigen-Generator, der E-Commerce-Marken, Marketern und Agenturen dabei hilft, kurze Produktvideos mit digitalen Darstellern, produktpräsentierenden Avataren und...
@@ -4788,9 +5374,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - hilm.ai ist ein KI-gestützter persönlicher Finanzassistent, der Menschen dabei hilft, Ausgaben zu verfolgen, Ausgaben zu analysieren und ihre Finanzen per Text, Sprachnachrichten oder Belegfotos zu verwalten –...
   - *Passende Rollen:* Finanzanalyst, Manager Finanzplanung & Analyse, Wellness-Coach, Content Creator
 
+- **[Hindsight](https://www.aimyflow.com/de/ai/usehindsight-com)**
+  - Hindsight ist eine Win-Loss-Intelligence-Plattform, die Käufer nach abgeschlossenen Deals automatisch interviewt, die tatsächlichen Gründe für gewonnene oder verlorene Deals verifiziert und Go-to-Market-Teams dabei...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter +1 mehr
+
 - **[HintGo](https://www.aimyflow.com/de/ai/hintgo-ai)**
   - HintGo ist eine KI-gestützte Plattform für Kundenfeedback, die adaptive Umfragegespräche führt, um die Gründe hinter Antworten zu NPS, CSAT und Product-Market-Fit aufzudecken, hauptsächlich für Produktteams. Durch das...
   - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, CEO, Softwareentwickler +1 mehr
+
+- **[Hippo Scribe](https://www.aimyflow.com/de/ai/gethipposcribe-com)**
+  - Hippo Scribe ist ein KI-gestütztes klinisches Dokumentationstool, das Patientenbesuche oder Diktate aufzeichnet, in etwa 30 Sekunden Notizen erstellt und die Synchronisierung mit webbasierten EMR-Systemen unterstützt,...
+  - *Passende Rollen:* Physiotherapie-Assistent, Gesundheitsadministrator, Häusliche Pflegekraft, Spezialist für Arbeitsmedizin +1 mehr
 
 - **[Hireable Headshots](https://www.aimyflow.com/de/ai/hireableheadshots-com)**
   - Hireable Headshots ist ein KI-Headshot-Generator, der aus einigen alltäglichen Fotos saubere, realistische, LinkedIn-taugliche professionelle Porträts für Jobsuchende und Berufstätige erstellt. Für Recruiter, Hiring...
@@ -4819,10 +5413,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Homebuyersmath](https://www.aimyflow.com/de/ai/homebuyersmath-com)**
   - Homebuyersmath ist ein KI-gestütztes Tool zur Analyse von Hausinspektionen, das Erstkäufern von Immobilien hilft, Reparaturkosten, Warnsignale in Offenlegungen, den Zustand von Systemen und die Höhe der vor dem Kauf...
   - *Passende Rollen:* Immobilienmakler, Finanzanalyst
-
-- **[Homepage](https://www.aimyflow.com/de/ai/kubit-ai)**
-  - Lager-native Analytics, die Snowflake, Databricks, BigQuery und ClickHouse direkt abfragen. Echtzeit-Einblicke mit regulierten, erklärbarer KI.
-  - *Passende Rollen:* Data Engineer, Data Scientist, Leiter Digitales Marketing, Finanzanalyst +1 mehr
 
 - **[Honen](https://www.aimyflow.com/de/ai/honen-com)**
   - Honen ist eine KI-gestützte Lernplattform, die Lernenden und Organisationen dabei hilft, mehrformatige Kurse zu jedem Thema zu erstellen oder zu absolvieren, mit einem persönlichen KI-Tutor, der Unterricht, Tempo und...
@@ -4966,6 +5556,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[iGPT](https://www.aimyflow.com/de/ai/igpt-ai)**
   - iGPT ist eine KI-Kontext-Engine und Entwickler-API, die E-Mail-Threads, Anhänge und Wissen eines Unternehmens in schlussfolgerungsfähigen Kontext für Agenten, Workflows und Teams umwandelt, vor allem für Entwickler und...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
+
+- **[Iliad](https://www.aimyflow.com/de/ai/iliad-ai)**
+  - Iliad ist eine nodebasierte prozedurale Material-Engine mit einem KI-Assistenten, der Nutzern hilft, editierbare nahtlose Texturen und PBR-Materialmaps aus Referenzen zu erstellen, vor allem für Materialkünstler und...
+  - *Passende Rollen:* Grafikdesigner, Industriedesigner/in, Unabhängige/r Filmemacher/in, Content Creator +1 mehr
 
 - **[illumi](https://www.aimyflow.com/de/ai/illumi-one)**
   - illumi ist ein kollaboratives KI-Canvas und Whiteboard für mehrere Nutzer, das Teams dabei unterstützt, Kontext zu sammeln, Ideen zu entwickeln, Entscheidungen abzustimmen und gemeinsam Ergebnisse mit mehreren...
@@ -5111,13 +5705,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - in3D ist eine Avatar-Erstellungsplattform und ein SDK, das Menschen mithilfe einer Smartphone-Kamera in etwa einer Minute in realistische, anpassbare 3D-Ganzkörper-Avatare verwandelt, vor allem für Entwickler, die...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Grafikdesigner, Industriedesigner/in +1 mehr
 
+- **[Inari](https://www.aimyflow.com/de/ai/useinari-com)**
+  - Inari ist eine KI-native Plattform für Kundenfeedback-Analysen und Produkt-Backlogs, die Produktteams, Forschenden und kundenorientierten Teams dabei hilft, Feedback, Verkaufsgespräche, CRM-Daten und Backlogs in...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Außendienstleiter, CEO +1 mehr
+
 - **[IncidentFox](https://www.aimyflow.com/de/ai/incidentfox-ai)**
   - IncidentFox ist ein KI-SRE-Tool, das Produktionsvorfälle in Slack untersucht, Codebasen und frühere Vorfälle analysiert und genehmigte Fehlerbehebungen für Engineering-, SRE- und Plattformteams vorschlägt oder...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Cybersicherheitsanalyst, Softwareentwickler +1 mehr
 
-- **[Incredible](https://www.aimyflow.com/de/ai/incredible-one)**
-  - Incredible ist ein ständig aktiver KI-Desktop-Assistent für Mac und Windows, mit dem Menschen per Sprache schreiben, bearbeiten, übersetzen und Inhalte direkt in jeder App ausfüllen können, hauptsächlich für...
-  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter +1 mehr
+- **[Inconvo](https://www.aimyflow.com/de/ai/inconvo-com)**
+  - Inconvo ist eine Open-Source-Entwicklerplattform zum Aufbau kundenorientierter Chat-with-Data-Agenten, die SQL-Produktionsdatenbanken sicher über eine semantische Schicht, Berechtigungen und strukturierte Ausgaben...
+  - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[IndieGTM](https://www.aimyflow.com/de/ai/indiegtm-com)**
   - IndieGTM ist ein KI-gestütztes GTM- und Content-Kampagnen-Tool für Videos, das Gründern und schlanken Teams hilft, aus einer Textidee, URL oder einem Thema mehrtägige Kurzvideo- und Social-Post-Pläne zu erstellen – mit...
@@ -5134,14 +5732,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[InfiniteTalk AI](https://www.aimyflow.com/de/ai/infinitetalk-co)**
   - InfiniteTalk AI ist ein KI-Videogenerator, der ein einzelnes Bild oder ein vorhandenes Video plus Audio in lippensynchrone Sprechvideos und synchronisierte Inhalte umwandelt, vor allem für Kreative, Lehrkräfte,...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Social-Media-Content-Creator, Lehrkraft +1 mehr
-
-- **[InfiniteTalk AI](https://www.aimyflow.com/de/ai/infinitetalkai-com)**
-  - InfiniteTalk AI ist ein audiobasiertes Lip-Sync- und Video-Dubbing-Tool, das aus einem Eingabevideo oder -bild plus Audio sprechende Videos erzeugt und Content-Erstellern, Videoproduzenten und Lehrkräften dabei hilft,...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Podcast-Produzent, Texter +1 mehr
-
-- **[Inflection AI](https://www.aimyflow.com/de/ai/inflection-ai)**
-  - Inflection AI entwickelt Pi, eine persönliche KI, die darauf ausgelegt ist, menschenzentrierte, emotional intelligente Interaktionen für Einzelpersonen zu ermöglichen, und positioniert zugleich emotional intelligente...
-  - *Passende Rollen:* Wellness-Coach, Leadership-Coach für Unternehmen, Manager Mitarbeiterbeziehungen, Schulberater +1 mehr
 
 - **[Infographic.Ninja](https://www.aimyflow.com/de/ai/outline-ninja)**
   - Infographic.Ninja ist ein KI-Infografik-Generator, der ein Keyword oder einen Artikel in eine markengerechte Infografik mit Vorlagen und grundlegender Anpassung umwandelt, hauptsächlich für Lehrkräfte, Blogger und...
@@ -5175,6 +5765,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Inkr ist ein Audio- und Video-Transkriptionstool, das Nutzern hilft, genaue, durchsuchbare Transkripte und Notizen aus Aufnahmen zu erstellen, vor allem für Studierende, Support-Teams, Journalisten, Mitarbeitende in...
   - *Passende Rollen:* TV-Nachrichtenreporter, Anwalt, Technischer Redakteur, Schulberater +1 mehr
 
+- **[Inlet](https://www.aimyflow.com/de/ai/inletai-com)**
+  - Inlet ist ein KI-gestütztes Zeiterfassungstool für Anwaltskanzleien, das die Arbeit in Desktop-Anwendungen erfasst und abrechenbare Zeiteinträge erstellt, vor allem für Anwälte und Rechtsteams, die den manuellen...
+  - *Passende Rollen:* Anwalt, CEO, Betriebschef, IT-Infrastrukturmanager/in +1 mehr
+
+- **[InQuery](https://www.aimyflow.com/de/ai/inquery-ai)**
+  - InQuery ist eine KI-gestützte Plattform zur Prüfung medizinischer Unterlagen, die Teams dabei unterstützt, große, unübersichtliche Datensätze in strukturierte Zusammenfassungen, Chronologien und Schlüsselfakten für...
+  - *Passende Rollen:* Anwalt, Gesundheitsadministrator, Risikoanalyst
+
 - **[insMind](https://www.aimyflow.com/de/ai/insmind-com)**
   - insMind ist eine KI-Plattform zur Erstellung und Bearbeitung von Bildern und Videos, die Nutzern hilft, visuelle Inhalte aus Texten oder Fotos zu generieren, Hintergründe und Objekte zu entfernen oder zu ersetzen,...
   - *Passende Rollen:* Grafikdesigner, Social-Media-Content-Creator, Leiter Digitales Marketing, E-Commerce-Verkäufer +1 mehr
@@ -5182,6 +5780,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[insMind AI Image Generator](https://www.aimyflow.com/de/ai/insmind-com-ai-image-generator)**
   - insMind AI Image Generator ist ein Online-Tool, mit dem Nutzer Bilder aus Text oder Referenzbildern mit mehreren KI-Bildmodellen und Stilen generieren, bearbeiten und verbessern können, hauptsächlich für Designer,...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator +1 mehr
+
+- **[InspectMind](https://www.aimyflow.com/de/ai/inspectmind-ai)**
+  - InspectMind ist eine KI-gestützte Plattform für Bau-QS/QK und Planprüfung, die Projekt-PDFs (Zeichnungen, Spezifikationen, Vorschriften und QS-Standards) automatisch prüft, um Koordinationskonflikte, Regelwerksprobleme...
+  - *Passende Rollen:* Bauingenieur, Gewerbearchitekt, Wohnarchitekt, Maschinenbauingenieur/in +1 mehr
 
 - **[Inspector](https://www.aimyflow.com/de/ai/tryinspector-com)**
   - Inspector ist ein lokaler visueller Frontend-Editor, der Claude Code, Cursor oder Codex mit einem Browser verbindet, sodass Benutzer Elemente verschieben, Text bearbeiten und Änderungen direkt in einer Codebasis...
@@ -5219,6 +5821,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Intedat ist eine KI-gestützte Unternehmensdatenbank und Suchplattform, die Vertriebs-, Beschaffungs- und Go-to-Market-Teams dabei unterstützt, weltweit Kunden, Lieferanten und Kontakte von Entscheidungsträgern zu...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, CEO +1 mehr
 
+- **[Integuru](https://www.aimyflow.com/de/ai/integuru-ai)**
+  - Integuru ist eine API-Generierungsplattform, die Teams dabei unterstützt, Websites und Websysteme mithilfe direkter HTTP-Anfragen in produktionsreife APIs zu verwandeln, vor allem für Engineering- und Produktteams, die...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
+
 - **[Intellectia AI](https://www.aimyflow.com/de/ai/intellectia-ai)**
   - Intellectia AI ist eine KI-gestützte Investment- und Handelsplattform, die Investoren und aktiven Händlern dabei hilft, Märkte zu analysieren, Aktien zu screenen, Signale zu generieren, Strategien zu backtesten sowie...
   - *Passende Rollen:* Portfoliomanager/in, Finanzanalyst, Risikoanalyst, Finanzchef
@@ -5241,6 +5847,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Interior AI](https://www.aimyflow.com/de/ai/interiorai-com)**
   - Interior AI ist eine KI-App für Innenarchitektur und virtuelles Staging, mit der Nutzer Fotos, Skizzen oder SketchUp-Screenshots hochladen können, um Räume neu zu gestalten, fotorealistische Renderings zu erzeugen und...
   - *Passende Rollen:* Innenarchitekt/in, Immobilienmakler, Grafikdesigner, Content Creator
+
+- **[Interpreter](https://www.aimyflow.com/de/ai/openinterpreter-com)**
+  - Interpreter ist ein Desktop-KI-Agent, der Nutzern beim Lesen, Bearbeiten und Erstellen von Word-, Excel-, PDF- und Markdown-Dokumenten hilft, insbesondere Wissensarbeitern mit dokumentenintensiven Aufgaben. Für Teams...
+  - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Wirtschaftsprüfer, Betriebschef +1 mehr
 
 - **[Interview Coder](https://www.aimyflow.com/de/ai/interviewcoder-net)**
   - Interview Coder ist ein KI-Interviewassistent für technische und LeetCode-ähnliche Coding-Interviews, der Kandidaten in Live-Interviews Echtzeit-Unterstützung beim Coden und Audiotranskription bietet. Für Bewerberinnen...
@@ -5274,6 +5884,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Invent ist eine Plattform zum Erstellen und Verwalten von KI-Assistenten, Agenten und Chatbots, die kanalübergreifend Kundendienst- und Verkaufsgespräche führen, hauptsächlich für Unternehmen und Support-Teams. In...
   - *Passende Rollen:* Betriebschef, Außendienstleiter, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
+- **[Inventive AI](https://www.aimyflow.com/de/ai/inventive-ai)**
+  - Inventive AI ist eine KI-gestützte RFP-Software und eine Plattform zur Beantwortung von Fragebögen, die Teams dabei unterstützt, Antworten auf RFPs, RFIs, Sicherheitsfragebögen und DDQs zu erstellen, zu verwalten und...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Cybersicherheitsmanager, Projektmanagement-Beauftragter +1 mehr
+
+- **[Invicta AI](https://www.aimyflow.com/de/ai/invictai-io)**
+  - Invicta AI ist eine No-Code-Plattform zum Aufbau von Teams aus KI-Agenten, die komplexe Workflows über mehr als 70 Tools und führende LLMs hinweg automatisieren, vor allem für Operations-, Kundensupport-,...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[InVideo](https://www.aimyflow.com/de/ai/invideo-io)**
   - InVideo ist eine KI-Videoplattform zum Erstellen und Bearbeiten von Videos, Avatar-Content und Produktanzeigen für Marketer, Creator und kleine Unternehmen. Sie verkürzt die Produktionszeit bei häufigem und...
   - *Passende Rollen:* Content Creator, Marketing- und Vertriebsmanager, Medien- und Kommunikationsfachkräfte, Schriftsteller und Autoren +7 mehr
@@ -5285,6 +5903,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[InYourDreams](https://www.aimyflow.com/de/ai/inyourdreams-cloud)**
   - InYourDreams ist ein KI-Traumtagebuch, das Nutzern hilft, Träume festzuhalten, Traumdeutungen zu erhalten und Traumerlebnisse in KI-generierte Videos zu verwandeln, vor allem für Menschen, die ihr Unterbewusstsein...
   - *Passende Rollen:* Romanautor, Content Creator, Wellness-Coach, Texter
+
+- **[ION](https://www.aimyflow.com/de/ai/ion-design)**
+  - ION ist eine KI-Landingpage-Plattform, die Unternehmen dabei unterstützt, große Mengen markenkonformer Seiten für Werbekampagnen, Personas, Anwendungsfälle, Wettbewerbsvergleiche und Fallstudien zu entwerfen, zu...
+  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Content Creator, Texter +1 mehr
 
 - **[Iris.ai](https://www.aimyflow.com/de/ai/iris-ai)**
   - Iris.ai ist eine KI-Wissensgrundlage und Entwicklungsplattform, die regulierten Unternehmen hilft, komplexe interne und externe Daten zu vereinheitlichen, um agentische RAG-Systeme und KI-Anwendungen zu entwickeln, zu...
@@ -5392,17 +6014,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Jungle ist ein KI-Lerntool, das aus Materialien wie Vorlesungsfolien, PDFs, Webseiten, YouTube-Videos, Lehrbüchern und Notizen Karteikarten, Multiple-Choice-Fragen und andere Übungsfragen erstellt, hauptsächlich für...
   - *Passende Rollen:* Lehrkraft, Hochschulprofessor, Nachhilfelehrer für Testvorbereitung, Online-Programmierlehrer +1 mehr
 
-- **[Jupid](https://www.aimyflow.com/de/ai/jupid-com)**
-  - Jupid ist eine KI-native Buchhaltungsplattform, die Kleinunternehmern und Finanzinstituten dabei hilft, Buchhaltung, LLC-Gründung, Steuererklärung und geschäftliche Einblicke über Messaging, eingebettete...
-  - *Passende Rollen:* Wirtschaftsprüfer, Finanzchef, Finanzanalyst, CEO +1 mehr
-
 - **[JURA Bio](https://www.aimyflow.com/de/ai/jura-bio)**
   - JURA Bio ist ein Biotechnologieunternehmen, das Grundlagenmodelle für das therapeutische Design entwickelt und Teams dabei unterstützt, Kandidaten zu entdecken und zu entwickeln, indem es KI-gestützte Nasslabor-Zyklen...
   - *Passende Rollen:* Molekularbiologe, Mikrobiologe, Data Scientist, Medizinische/r Labortechniker/in +1 mehr
 
+- **[Just Words](https://www.aimyflow.com/de/ai/getjust-ai)**
+  - Just Words ist eine KI-orientierte Enterprise-Plattform für Lifecycle-Marketing, die dauerhaft aktive Agenten für Strategie, Kreation, Entscheidungsfindung und Daten nutzt, um hochgradig personalisierte...
+  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Data Scientist, Texter +1 mehr
+
 - **[JustCopy.ai](https://www.aimyflow.com/de/ai/justcopy-ai)**
   - JustCopy.ai ist ein KI-Website-Builder, der eine bestehende Website anhand einer URL klont oder aus einem Prompt erstellt und Nutzern anschließend ermöglicht, sie schnell und ohne Programmierung anzupassen und zu...
   - *Passende Rollen:* Leiter Digitales Marketing, CEO, Texter, Content Creator +1 mehr
+
+- **[K-Scale Labs](https://www.aimyflow.com/de/ai/kscale-dev)**
+  - K-Scale Labs ist ein Open-Source-Projekt für KI und Robotik, das sich auf den Aufbau allgemeiner KI sowie zugehöriger Hardware und Software konzentriert, hauptsächlich für Ingenieure, Wissenschaftler und technische...
+  - *Passende Rollen:* Maschinenbauingenieur/in, Elektroingenieur, Softwareentwickler, Data Scientist +1 mehr
+
+- **[Kabilah](https://www.aimyflow.com/de/ai/kabilah-com)**
+  - Kabilah ist eine KI-Plattform auf Enterprise-Niveau, die HIPAA-konform ist und Pflegekräfte sowie Krankenhäuser unterstützt, indem sie Pflegeabläufe durch mündliche Übergaben, digitale Übergabebögen, angeleitete...
+  - *Passende Rollen:* Gesundheitsadministrator, Pflegeassistent, Häusliche Pflegekraft, IT-Infrastrukturmanager/in
 
 - **[Kaedim](https://www.aimyflow.com/de/ai/kaedim3d-com)**
   - Kaedim ist ein KI-gestützter Service für die Erstellung von 3D-Assets, der Studios und Marken dabei unterstützt, schneller produktionsreife 3D-Assets zu erstellen und 3D-Pipelines zu skalieren – vor allem für...
@@ -5432,6 +6062,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - KaomojiHub ist eine japanische Kaomoji-Such- und Kopierdatenbank, die Nutzern hilft, textbasierte Emoticons schnell nach Stichwort, Kategorie, Szene oder Kana-Index zu finden, insbesondere für Menschen, die auf LINE,...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Texter, Technischer Redakteur +1 mehr
 
+- **[Kapa.ai](https://www.aimyflow.com/de/ai/kapa-ai)**
+  - Kapa.ai ist eine Plattform, die KI-Assistenten aus technischer Dokumentation und anderen Wissensquellen erstellt, um Support-, Produkt- und interne Fragen präzise zu beantworten, vor allem für Teams mit komplexen...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Technischer Redakteur, Softwareentwickler, Projektmanagement-Beauftragter +1 mehr
+
+- **[Kater.ai](https://www.aimyflow.com/de/ai/kater-ai)**
+  - Kater.ai ist ein Builder für Daten-Workflows, der ein einheitliches semantisches Modell, SQL und strukturierte Entscheidungsbäume nutzt, um Unternehmensdaten in personalisierte Berichte, klare Erkenntnisse und...
+  - *Passende Rollen:* CEO, Finanzanalyst, Leiter Digitales Marketing, Projektmanagement-Beauftragter
+
 - **[Katteb](https://www.aimyflow.com/de/ai/katteb-com-en)**
   - Katteb ist eine KI-Schreib- und SEO-Plattform, die Content-Erstellern, Marketern und Agenturen dabei hilft, arabische und mehrsprachige Artikel zu erstellen, die für Google AI Overviews, die ChatGPT-Suche und...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Technischer Redakteur +1 mehr
@@ -5443,6 +6081,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Keevx](https://www.aimyflow.com/de/ai/keevx-com-main-home)**
   - Keevx ist eine All-in-One-KI-Videoplattform, die Unternehmen, Marketingfachleuten und Kreativen dabei hilft, Texte, URLs und Bilder mithilfe von Avataren, Stimmen und Produktvideo-Vorlagen in übersetzte,...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Social-Media-Content-Creator, Content Creator +1 mehr
+
+- **[Kenley](https://www.aimyflow.com/de/ai/kenley-ai)**
+  - Kenley ist eine KI-Plattform für Beratungs- und Professional-Services-Unternehmen, die Teams dabei unterstützt, benutzerdefinierte Agenten für Recherche, wiederkehrende Workflows und die Erstellung kundenfertiger...
+  - *Passende Rollen:* Finanzanalyst, CEO, Betriebschef, Projektmanagement-Beauftragter +1 mehr
 
 - **[Keragon](https://www.aimyflow.com/de/ai/keragon-com)**
   - Keragon ist eine HIPAA-konforme Plattform für die Automatisierung im Gesundheitswesen, die Gesundheitsunternehmen dabei unterstützt, über 300 Integrationen zu verbinden und Arbeitsabläufe ohne Programmierung zu...
@@ -5531,10 +6173,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Klariqo ist eine KI-Sprachagentenplattform für Enterprise-Callcenter und Outbound-Vertriebsteams, die Leads qualifiziert, Voicemails erkennt und warme Anrufe über Direktwahl- und SIP-Integrationen weiterleitet. Für...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Betriebschef, Projektmanagement-Beauftragter +1 mehr
 
-- **[Klavis AI](https://www.aimyflow.com/de/ai/klavis-ai)**
-  - Klavis AI bietet Open-Source-MCP-Integrationsschichten, mit denen KI-Agenten Tools zuverlässig nutzen und Workflows appübergreifend automatisieren können. Das reduziert Integrationsaufwand für Entwickler- und...
-  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Data Engineer, Data Scientist +11 mehr
-
 - **[Kling 3.0 Motion Control](https://www.aimyflow.com/de/ai/kling3-io-motion-control)**
   - Kling 3.0 Motion Control ist ein KI-gestütztes Motion-Transfer-Tool, das Bewegungen aus 3–30 Sekunden langen Videos extrahiert und auf statische Charakterbilder anwendet. So unterstützt es Kreative, Animator:innen und...
   - *Passende Rollen:* Content Creator, Grafikdesigner, Leiter Digitales Marketing, Unabhängige/r Filmemacher/in +1 mehr
@@ -5554,10 +6192,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Knobi](https://www.aimyflow.com/de/ai/knobi-io)**
   - Knobi ist ein KI-gestütztes Community-Management-Tool, das Community-Daten nutzt, um Wissensschnittstellen, personalisierte Onboarding-Empfehlungen, die Weiterleitung unbeantworteter Fragen und eine chatbasierte Suche...
   - *Passende Rollen:* Programmmanager Non-Profit, Projektmanagement-Beauftragter, Social-Media-Content-Creator, CEO
-
-- **[Know what your competitors](https://www.aimyflow.com/de/ai/prowlai-app-en)**
-  - Wissen Sie, was Ihre Wettbewerber tun, bevor Ihre Kunden es tun. KI-gestütztes Monitoring für Preis-, Funktions-, Inhalts- und Strategieänderungen.
-  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Leiter E-Commerce-Vertrieb
 
 - **[Knowledge Plane](https://www.aimyflow.com/de/ai/knowledgeplane-io)**
   - Knowledge Plane ist eine gemeinsame Wissensplattform für Entwicklungsteams, die Code, Dokumentation und Chats in eine aktuelle, strukturierte und auditierbare Single Source of Truth über bestehende KI-Tools und...
@@ -5586,6 +6220,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Komos](https://www.aimyflow.com/de/ai/komos-ai)**
   - Komos ist eine KI-Automatisierungsplattform, die wiederkehrende Browser- und SaaS-Aufgaben erlernt, indem sie Nutzern bei der Arbeit zusieht, und anschließend bearbeitbare Workflows und APIs für Teams in...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Gesundheitsadministrator, Finanzanalyst, Logistikplaner/in +1 mehr
+
+- **[Kompas AI](https://www.aimyflow.com/de/ai/kompas-ai)**
+  - Kompas AI ist ein eingestellter B2C-KI-Forschungsdienst, der Nutzern dabei half, mithilfe von Multi-Agenten-Orchestrierung, Kontextfenster-Management und verwandten KI-Agententechniken fundierte Recherchen...
+  - *Passende Rollen:* Data Scientist, Projektmanagement-Beauftragter, Softwareentwickler, Cybersicherheitsmanager +1 mehr
 
 - **[Kontentino’s Social Media Planner for ChatGPT](https://www.aimyflow.com/de/ai/kontentino-com-chatgpt)**
   - Kontentinos Social Media Planner für ChatGPT ist ein Social-Media-Planungstool, das Nutzern hilft, Ideen in einen Monat veröffentlichungsfertiger Beiträge und einen visuellen Content-Kalender zu verwandeln, vor allem...
@@ -5623,10 +6261,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - KreadoAI ist ein KI-Videogenerator, der Nutzern hilft, Text, Bilder, PowerPoint-Dateien, URLs und andere Medien in avatargeführte Videos mit KI-Stimmen in mehreren Sprachen umzuwandeln, hauptsächlich für Marketing-,...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Berater für Bildungstechnologie +1 mehr
 
-- **[KreadoAI](https://www.aimyflow.com/de/ai/kreadoai-com-ai-login)**
-  - KreadoAI ist eine KI-Plattform zur Videoerstellung und ein Login-Portal, das Nutzern hilft, Text, Bilder oder PowerPoint-Folien mit KI-Avataren, Sprachoptionen und digitalen Zwillingsfunktionen in Videos umzuwandeln,...
-  - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Leadership-Coach für Unternehmen, Berater für Bildungstechnologie +1 mehr
-
 - **[Krikey](https://www.aimyflow.com/de/ai/krikey-ai)**
   - Krikey ist ein KI-Animations- und Cartoon-Video-Generator, der Nutzern hilft, sprechende 3D-Avatar-Videos, GIFs und mehrsprachige animierte Inhalte mit Vorlagen, Voiceovers und einem browserbasierten Editor zu...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Lehrkraft, Texter +1 mehr
@@ -5651,10 +6285,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Kura ist eine KI-Plattform für Browser-Automatisierung, die Unternehmen dabei unterstützt, produktionsreife Browser-Agenten aus natürlicher Sprache ohne Programmierung zu erstellen, vor allem für Enterprise-Teams, die...
   - *Passende Rollen:* Logistikplaner/in, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef +1 mehr
 
-- **[KwaKwa Course Creator](https://www.aimyflow.com/de/ai/create-kwakwa-com)**
-  - KwaKwa Course Creator ist eine KI-Plattform, mit der Coaches, Creator und Experten schnell mobile-first Social-Kurse erstellen und verkaufen können.
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +12 mehr
-
 - **[LabLab](https://www.aimyflow.com/de/ai/lablab-ai)**
   - LabLab ist ein Ökosystem für KI-Builder, das Entwicklern, Gründern und anderen Machern dabei hilft, an Hackathons teilzunehmen, KI-Prototypen zu entwickeln, durch Tutorials zu lernen und in einer Community...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, Projektmanagement-Beauftragter +1 mehr
@@ -5671,13 +6301,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Lalaland, jetzt Teil von Browzwear, bietet individuelle KI-Modelle, die B2B- und E-Commerce-Teams dabei unterstützen, realistische, markenspezifische Produktvisualisierungen für Freigaben, den Großhandel, Marketing und...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Grafikdesigner, Content Creator +1 mehr
 
-- **[lambdal/text-to-pokemon](https://www.aimyflow.com/de/ai/replicate-com-lambdal-text-to-pokemon)**
-  - lambdal/text-to-pokemon ist ein Replicate-Modell, das über eine API Pokémon-artige Bilder aus Textbeschreibungen generiert, hauptsächlich für Entwickler und technische Teams, die Funktionen zur Bildgenerierung...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Grafikdesigner, Content Creator
-
 - **[Lami AI](https://www.aimyflow.com/de/ai/lami-ai)**
   - Lami AI ist ein KI-Musikgenerator, der Nutzern hilft, Texte oder Songtexte in originelle Songs zu verwandeln, mit zusätzlichen Tools zur Stimmentfernung, Stem-Separation, KI-Covern, Songtexten und Soundeffekten, vor...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Podcast-Produzent, Social-Media-Content-Creator +1 mehr
+
+- **[Laminar](https://www.aimyflow.com/de/ai/laminar-sh)**
+  - Laminar ist eine Open-Source-Observability-Plattform für KI-Agenten, die Teams dabei unterstützt, Ausführungen nachzuverfolgen, LLM-Aufrufe und Tool-Nutzung zu debuggen, Fehler zu analysieren, Daten mit SQL abzufragen...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
 - **[Landing-page.io](https://www.aimyflow.com/de/ai/landing-page-io)**
   - Landing-page.io ist ein KI-gestützter Landingpage- und Website-Builder, der Nutzern hilft, SEO-freundliche, mobil optimierte Seiten anhand eines Prompts zu erstellen, anzupassen und zu veröffentlichen, vor allem für...
@@ -5690,6 +6320,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Langboat Technology](https://www.aimyflow.com/de/ai/langboat-com)**
   - Langboat Technology ist eine Plattform für kognitive Intelligenz für Unternehmen, die NLP und große Sprachmodelle nutzt, um Wissensdatenbanken, den Aufbau von Agenten, Meeting-Analysen, Übersetzungen, Suche,...
   - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Technischer Redakteur, Softwareentwicklungsleiter +1 mehr
+
+- **[Langdock](https://www.aimyflow.com/de/ai/langdock-com)**
+  - Langdock ist eine KI-Einführungsplattform, die Organisationen dabei unterstützt, unternehmensweite KI-Chats, Workflows, Agenten, Integrationen und API-basierte Anwendungen auf sichere und flexible Weise einzuführen,...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef, Softwareentwicklungsleiter +1 mehr
+
+- **[Langfuse](https://www.aimyflow.com/de/ai/langfuse-com)**
+  - Langfuse ist eine Open-Source-LLM-Engineering-Plattform, die Teams beim Aufbau von LLM-Anwendungen und -Agenten dabei unterstützt, Anfragen nachzuverfolgen, Prompts zu verwalten, Evaluierungen durchzuführen und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Langotalk](https://www.aimyflow.com/de/ai/langotalk-org)**
   - Langotalk ist ein KI-Sprachtrainer, der Lernenden hilft, Sprechen, Hören und Lesen durch personalisierte Gespräche zu üben, mit adaptivem Feedback zu Grammatik, Aussprache und Sprachflüssigkeit für Menschen, die neue...
@@ -5719,6 +6357,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Lark ist ein KI-Testtool, mit dem Engineering-Teams Softwaretests in einfachem Englisch schreiben und sie bei jedem Pull Request oder Deployment über UIs, APIs, SDKs und asynchrone Workflows hinweg ausführen können....
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
+- **[Latent Health](https://www.aimyflow.com/de/ai/latenthealth-com)**
+  - Latent Health ist eine KI-Plattform, die klinische Argumentation nutzt, um EHR-Daten zu verarbeiten, Vorabgenehmigungen zu rationalisieren und den Zugang zu Medikamenten für Gesundheitssysteme und Apotheken zu...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Hausarzt
+
 - **[Latitude](https://www.aimyflow.com/de/ai/latitude-io)**
   - Latitude ist ein Unternehmen, das KI-gestützte Rollenspielprodukte und -plattformen entwickelt, darunter AI Dungeon und Voyage, um Spielern, Kreativen und Entwicklern dabei zu helfen, personalisierte Abenteuer und...
   - *Passende Rollen:* Romanautor, Softwareentwickler, Content Creator, Unabhängige/r Filmemacher/in +1 mehr
@@ -5726,6 +6368,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Latte Social](https://www.aimyflow.com/de/ai/latte-social)**
   - Latte Social ist ein KI-gestützter Videoeditor und ein Kreativstudio, das Content-Creators, Marketingteams und Unternehmen dabei hilft, Rohmaterial, Skripte und lange Videos in kurze Social-Media-Inhalte, animierte...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator, Texter +1 mehr
+
+- **[Latted](https://www.aimyflow.com/de/ai/latted-com)**
+  - Latted ist ein KI‑Videogenerator und ‑Editor, der Nutzern hilft, Videos aus Prompts in einer einheitlichen Timeline zu erstellen, zu bearbeiten und zu veröffentlichen – mit szenenweiser Kontrolle, Referenz-Assets und...
+  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Texter +1 mehr
 
 - **[LaunchLemonade](https://www.aimyflow.com/de/ai/launchlemonade-app)**
   - LaunchLemonade ist eine No-Code-Plattform für KI-Agenten, die Agenturen und Beratern dabei hilft, ihr Fachwissen in einsatzbereite Agenten für Marketing, Vertrieb, Recherche, Support und andere Geschäftsabläufe zu...
@@ -5758,10 +6404,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[LeadsFind](https://www.aimyflow.com/de/ai/leadsfind-co)**
   - LeadsFind ist eine KI-gestützte Plattform zur Lead-Generierung, die Unternehmen und vertriebsorientierten Teams dabei hilft, gezielte, verifizierte potenzielle Kunden mit angereicherten Daten und personalisierten...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
-
-- **[Leania.ai](https://www.aimyflow.com/de/ai/leania-ai)**
-  - Leania.ai ist ein KI-Tool, das Teams dabei hilft, Ineffizienzen in Arbeitsabläufen, redundante Tools und Automatisierungsmöglichkeiten schnell zu identifizieren – durch KI-gestütztes Mapping sowie Empfehlungen zum...
-  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Berater für Bildungstechnologie, Softwareentwicklungsleiter +1 mehr
 
 - **[Leaping AI](https://www.aimyflow.com/de/ai/leapingai-com)**
   - Leaping AI ist eine Voice-AI-Plattform, die Unternehmen dabei unterstützt, Kundenserviceanrufe, Terminbuchungen, Lead-Qualifizierung und repetitive Callcenter-Workflows zu automatisieren, vor allem für Unternehmen und...
@@ -5807,6 +6449,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - LEGO Education Informatik & KI ist eine lehrplanorientierte Lernlösung für die Klassen 1–9, die Schülerinnen und Schülern hilft, Informatik- und KI-Kompetenzen durch praktisches Programmieren, Robotik und...
   - *Passende Rollen:* Berater für Bildungstechnologie, Online-Programmierlehrer, Lehrkraft
 
+- **[Legora](https://www.aimyflow.com/de/ai/legora-com)**
+  - Legora ist ein kollaborativer KI-Workspace für Juristen, der Rechtsteams dabei unterstützt, große Dokumentensätze zu prüfen, juristische Texte zu erstellen und zu überarbeiten sowie juristische Recherchen über...
+  - *Passende Rollen:* Anwalt, Technischer Redakteur, Projektmanagement-Beauftragter, CEO +1 mehr
+
 - **[Lemma](https://www.aimyflow.com/de/ai/uselemma-ai)**
   - Lemma ist eine Observability- und Evaluierungsplattform für KI-Agenten, die Teams dabei hilft, Ausführungen nachzuverfolgen, Regressionen zu erkennen, Fehler zu analysieren und Nutzerfeedback in Verbesserungen...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Data Scientist +1 mehr
@@ -5822,6 +6468,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[LemonSlice](https://www.aimyflow.com/de/ai/infinity-ai)**
   - LemonSlice ist eine KI-Videoplattform, die ein einzelnes Foto in einen interaktiven Echtzeit-Avatar für Websites oder Produkte verwandelt, vor allem für Softwareentwickler und Unternehmen, die konversationelle...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
+
+- **[LemonSlice](https://www.aimyflow.com/de/ai/lemonslice-com)**
+  - LemonSlice ist eine KI-Videoplattform, die ein einzelnes Foto in einen interaktiven Echtzeit-Avatar für Websites und Apps verwandelt, vor allem für Softwareentwickler und Unternehmen, die dialogorientierte...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
 - **[Lenormand Life](https://www.aimyflow.com/de/ai/lenormand-life)**
   - Lenormand Life ist ein kostenloses, KI-gestütztes Online-Tool für Lenormand-Kartenlegungen, das Menschen mithilfe mehrerer Legesysteme, Kartenziehungen und Deutungswerkzeuge Orientierung bei Fragen zu Liebe, Karriere...
@@ -5842,6 +6492,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[LessonPlans.ai](https://www.aimyflow.com/de/ai/lessonplans-ai)**
   - LessonPlans.ai ist ein KI-gestützter Generator für Unterrichtspläne, der Lehrkräften hilft, schneller individuell angepasste, hochwertige Unterrichtspläne mit Aktivitäten und Schritt-für-Schritt-Anleitungen zu...
   - *Passende Rollen:* Lehrkraft, Grundschullehrer Mathematik, Geschichtslehrer Sekundarstufe I, Physiklehrer/in an der Oberstufe +1 mehr
+
+- **[Letterbook](https://www.aimyflow.com/de/ai/letterbook-ai)**
+  - Letterbook ist eine KI-native Kundensupport-Plattform, die Gründer:innen und Support-Teams dabei unterstützt, die Ticketbearbeitung zu automatisieren, indem sie Postfächer, Datenbanken und Stripe verbindet,...
+  - *Passende Rollen:* Betriebschef, CEO, Projektmanagement-Beauftragter, Softwareentwicklungsleiter +1 mehr
 
 - **[Levity](https://www.aimyflow.com/de/ai/levity-ai)**
   - Levity ist eine KI-Automatisierungsplattform für Logistikabläufe, die Teams dabei unterstützt, E-Mail-lastige Workflows zu analysieren, Automatisierungen zu erstellen und auszuführen sowie diese skalierbar zu steuern –...
@@ -5893,10 +6547,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[LightOn](https://www.aimyflow.com/de/ai/lighton-ai)**
   - LightOn ist eine On-Premise-KI-Plattform für Suche und Reasoning, die Unternehmen dabei unterstützt, unstrukturierte interne Daten über eine sofort einsatzbereite Oberfläche oder eine multimodale RAG-API abzufragen, zu...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwickler, Cybersicherheitsmanager, Projektmanagement-Beauftragter +1 mehr
-
-- **[LightSite AI](https://www.aimyflow.com/de/ai/lightsite-ai)**
-  - LightSite AI ist eine Plattform für generative Engine-Optimierung und Sichtbarkeit in der KI-Suche, die Unternehmen dabei unterstützt, zu verbessern, wie ihre Websites von Tools wie ChatGPT, Gemini, Claude und...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Softwareentwickler +1 mehr
 
 - **[Ligo Biosciences](https://www.aimyflow.com/de/ai/ligo-bio)**
   - Ligo Biosciences ist eine KI-Plattform für Enzymdesign, die Deep-Learning- und generative Modelle einsetzt, um neue Proteine zu entwickeln und Enzyme für die Industrie zu optimieren, vor allem für Biochemiker, Chemiker...
@@ -5954,9 +6604,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Linktree ist ein Link-in-Bio-Tool, das Kreativen, Influencern und kleinen Unternehmen dabei hilft, alles, was sie online veröffentlichen, über einen anpassbaren Link zu organisieren, zu teilen, zu verkaufen und...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, E-Commerce-Verkäufer, Leiter Digitales Marketing +1 mehr
 
-- **[LipSync](https://www.aimyflow.com/de/ai/lipsync-video)**
-  - LipSync ist ein Online-KI-Tool für lippensynchrone Videos, das Nutzern hilft, Sprache oder Audio mit einem Video oder Avatar mit einem einzelnen Gesicht zu synchronisieren, vor allem für Kreative, die sprechende Fotos,...
-  - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Texter, Social-Media-Content-Creator +1 mehr
+- **[Linum](https://www.aimyflow.com/de/ai/linum-ai)**
+  - Linum ist ein aus zwei Personen bestehendes Forschungslabor, das offene Text-zu-Video-Modelle unter der Apache-2.0-Lizenz von Grund auf entwickelt und Entwicklern sowie KI-Forschern hilft, Videos aus Text zu erzeugen...
+  - *Passende Rollen:* Softwareentwickler, Data Scientist, Unabhängige/r Filmemacher/in, Content Creator +1 mehr
 
 - **[Lipsync AI Video](https://www.aimyflow.com/de/ai/lipsyncai-net-lipsync-ai)**
   - Lipsync AI Video ist ein onlinebasierter, audiogesteuerter Lip-Sync-Generator, der Nutzern hilft, Bilder oder Videos in sprechende Videos zu verwandeln, indem hochgeladene, aufgenommene oder synthetisierte Sprache mit...
@@ -6002,13 +6652,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - LLM Council ist eine Multi-LLM-KI-Plattform, die Modelle wie GPT, Claude, Gemini und Grok in einem dreistufigen Beratungsprozess kombiniert, um Fachkräften wie Beratern, Autoren, Forschern, Gründern und Prüfern dabei...
   - *Passende Rollen:* CEO, Finanzanalyst, Technischer Redakteur, Gesundheitsadministrator +1 mehr
 
+- **[LLMStack](https://www.aimyflow.com/de/ai/llmstack-ai)**
+  - LLMStack ist eine Open-Source-No-Code-Plattform zum Erstellen von KI-Agenten, Workflows, Chatbots und generativen KI-Anwendungen mit angebundenen Daten, vor allem für Teams und Entwickler, die Anwendungen ohne...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Softwareentwickler +1 mehr
+
 - **[LLMWise](https://www.aimyflow.com/de/ai/llmwise-ai)**
   - LLMWise ist eine Plattform zum Vergleichen und Kombinieren von KI-Modellen, mit der Nutzer denselben Prompt parallel über GPT, Claude, Gemini und andere Modelle ausführen und anschließend die stärksten Teile zu einer...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, IT-Infrastrukturmanager/in +1 mehr
-
-- **[Loamly](https://www.aimyflow.com/de/ai/loamly-ai)**
-  - Loamly ist eine KI-Plattform für Empfehlungsintelligenz und Monitoring, die Unternehmen dabei unterstützt zu prüfen, wie oft und warum sie in Tools wie ChatGPT, Claude, Gemini und Perplexity empfohlen werden – vor...
-  - *Passende Rollen:* Leiter Digitales Marketing, CEO, Leiter E-Commerce-Vertrieb, Content Creator
 
 - **[Lobe](https://www.aimyflow.com/de/ai/lobe-ai)**
   - Lobe ist ein auf GitHub gehostetes Machine-Learning-Tool und Code-Repository-Set, das Benutzern hilft, Modelle zu trainieren, Bilddatensätze zu erstellen und Bereitstellungsprojekte für Web, iOS, Python und .NET zu...
@@ -6038,6 +6688,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Logical ist ein KI-Copilot für macOS, der den Bildschirmkontext versteht, To-dos aus E-Mails und Chats extrahiert, Meetings zusammenfasst und das Schreiben verbessert, vor allem für Wissensarbeiter, die Kommunikation...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Technischer Redakteur, CEO +1 mehr
 
+- **[Logital AI](https://www.aimyflow.com/de/ai/logital-ai)**
+  - Logital AI ist eine deterministische Inferenz-API, die bei derselben Eingabeaufforderung und demselben Seed dieselbe KI-Ausgabe zurückgibt und Teams dabei hilft, reproduzierbare Modellvergleiche, Tests, Audits und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst, Data Scientist +1 mehr
+
 - **[Logo Animation](https://www.aimyflow.com/de/ai/logoanimation-app)**
   - Logo Animation ist ein KI-gestütztes Studio für Logoanimationen, das statische Logos in Motion Graphics mit transparenten Hintergründen und Soundeffekten für Websites, Videos und soziale Medien verwandelt,...
   - *Passende Rollen:* Leiter Digitales Marketing, Grafikdesigner, Social-Media-Content-Creator, Texter +1 mehr
@@ -6061,10 +6715,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Lolachats](https://www.aimyflow.com/de/ai/lolachats-com)**
   - Lolachats ist ein privater KI-Begleiter und ein Journaling-Tool, das Menschen dabei hilft, zu reflektieren, Gedanken zu verarbeiten und durch natürliche Gespräche Selbsterkenntnis zu gewinnen – vor allem für Personen,...
   - *Passende Rollen:* Wellness-Coach, Schulberater, Leadership-Coach für Unternehmen
-
-- **[LongCat-Video](https://www.aimyflow.com/de/ai/github-com-meituan-longcat-LongCat-Video)**
-  - LongCat-Video ist ein Open-Source-Videogenerierungsmodell mit 13,6B auf GitHub, das Entwicklern und KI-Forschern dabei hilft, Text-zu-Video-, Bild-zu-Video-, Videofortsetzung-, Langvideo- und audiogetriebene...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, Content Creator +1 mehr
 
 - **[Looka](https://www.aimyflow.com/de/ai/looka-com)**
   - Looka ist eine KI-gestützte Plattform für Logos und Markenidentität, die Unternehmern dabei hilft, Logos, gebrandete Marketingmaterialien, Social-Media-Assets, Visitenkarten und Websites ohne Designkenntnisse zu...
@@ -6094,6 +6744,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - LoraTag ist ein webbasiertes KI-Tool zur Bildbeschreibung, das GPT-4 Vision verwendet, um stapelweise trainingsbereite .txt-Beschreibungen für LoRA-Datensätze zu erzeugen, hauptsächlich für KI-Künstler, LoRA-Ersteller...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Softwareentwickler, Data Scientist +1 mehr
 
+- **[Lore](https://www.aimyflow.com/de/ai/joinlore-app)**
+  - Lore ist eine Mac-App, die den iMessage-Verlauf in durchsuchbaren Zeitachsen, Highlights und Analysen wie Top-Emojis, Ghosting-Scores und offene Threads visualisiert – hauptsächlich für iMessage-Nutzer, die ihren...
+  - *Passende Rollen:* Social-Media-Content-Creator, Talent-Acquisition-Manager, Content Creator
+
 - **[Lorka](https://www.aimyflow.com/de/ai/lorka-ai)**
   - Lorka ist eine All-in-One-KI-Plattform, die mehrere Chat-Modelle und Tools in einem einzigen Arbeitsbereich für Schreiben, Recherche, Bildbearbeitung, Websuche, Übersetzung und PDF-Analyse vereint, hauptsächlich für...
   - *Passende Rollen:* Softwareentwickler, Leiter Digitales Marketing, Content Creator, Technischer Redakteur
@@ -6105,6 +6759,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Loula](https://www.aimyflow.com/de/ai/joinonu-com)**
   - Loula ist eine Plattform für Doulas in Kalifornien, die ihnen dabei hilft, Versicherungen zu akzeptieren, indem sie über ein Doula-Portal die Akkreditierung, Anspruchsprüfungen, Abrechnung und Zahlungen übernimmt, vor...
   - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Betriebschef, Häusliche Pflegekraft
+
+- **[Lovable](https://www.aimyflow.com/de/ai/gptengineer-app)**
+  - Lovable ist ein KI-App-Builder, der Nutzern hilft, Apps, Websites und digitale Produkte zu erstellen, indem sie Ideen im Chat beschreiben, Prototypen verfeinern und diese schnell bereitstellen – hauptsächlich für...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Grafikdesigner, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
 - **[Lovable](https://www.aimyflow.com/de/ai/lovable-dev)**
   - Lovable ist eine chatbasierte Plattform zur Softwareentwicklung, mit der Gründer, Produktteams und Nicht-Techniker per natürlicher Sprache Softwareprodukte erstellen können. Sie verwandelt Ideen schneller in...
@@ -6150,10 +6808,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Das LTX-Modell ist ein multimodales Videogenerierungsmodell, das Entwicklern, Produktteams, Studios und Unternehmen dabei hilft, produktionsreife Videos aus Text-, Bild-, Audio- und Videoeingaben über API, offene...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Unabhängige/r Filmemacher/in, Content Creator +1 mehr
 
-- **[Lucid](https://www.aimyflow.com/de/ai/lucidengine-tech-en-checker)**
-  - Lucid ist ein Tool für KI-Discovery-Monitoring und GEO-Analytik, das Marken dabei hilft zu prüfen, wie oft KI-Assistenten ihre Website erwähnen, wo Wettbewerber sie übertreffen und welche Käufer-Prompts ihnen fehlen –...
-  - *Passende Rollen:* Leiter Digitales Marketing, CEO, Content Creator
-
 - **[Lucidic AI](https://www.aimyflow.com/de/ai/lucidic-ai)**
   - Lucidic AI ist eine Trainings- und Optimierungsplattform für Unternehmensteams, die KI-Agenten entwickeln. Sie hilft ihnen dabei, Agentenkomponenten zu parametrisieren, Simulationen durchzuführen und Zuverlässigkeit,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Scientist, Projektmanagement-Beauftragter +1 mehr
@@ -6181,9 +6835,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der Luma AI Video Generator ist ein kostenloses Online-KI-Videotool, das von Dream Machine angetrieben wird und Nutzern hilft, realistische Videos aus Texteingaben zu erstellen, vor allem für Kreative und Fachleute,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Podcast-Produzent +1 mehr
 
+- **[Lume](https://www.aimyflow.com/de/ai/lume-ai)**
+  - Lume ist eine KI-gestützte Plattform für Kundenintegrationen, die Software- und Datenteams dabei unterstützt, sich mit ERPs, Datenbanken, APIs und Dateien von Kunden zu verbinden, Schemas automatisch zuzuordnen, Daten...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, Projektmanagement-Beauftragter, Softwareentwicklungsleiter +1 mehr
+
+- **[Lumen Payments](https://www.aimyflow.com/de/ai/getlumen-dev)**
+  - Lumen Payments ist eine auf Entwickler ausgerichtete Abrechnungsplattform, die SaaS-Teams dabei hilft, Preistabellen, Zahlungsabwicklung, Nutzungsverfolgung, Guthaben und Funktionsberechtigungen schnell in Apps zu...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, Finanzchef +1 mehr
+
 - **[Lumen5](https://www.aimyflow.com/de/ai/lumen5-com)**
   - Lumen5 ist eine KI-Plattform zur Videoerstellung, die Blogs, Artikel, Dokumente und Ideen mithilfe von Drag-and-Drop-Bearbeitung in markengerechte Videos umwandelt, vor allem für Marketingfachleute,...
   - *Passende Rollen:* Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator, Berater für Bildungstechnologie +1 mehr
+
+- **[Lumetric](https://www.aimyflow.com/de/ai/lumetric-ai)**
+  - Lumetric ist ein KI-Coworker für Geschäftsfachleute, der bei der Erstellung von Modellen, Präsentationen, Berichten und Data-Analytics-Ergebnissen wie Vergleichsgruppen, Sensitivitätstabellen und kreditgeberfähigen...
+  - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Data Scientist, CEO
 
 - **[Lumiduna](https://www.aimyflow.com/de/ai/lumiduna-app)**
   - Lumiduna ist ein KI-Chatbegleiter für Reflexion, der Jugendlichen und jungen Erwachsenen hilft, alltägliche Gedanken und Gefühle in einem ruhigen, urteilsfreien Raum mit Datenschutzvorkehrungen und Krisenressourcen zu...
@@ -6208,10 +6874,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Lunacal](https://www.aimyflow.com/de/ai/lunacal-ai)**
   - Lunacal ist eine Plattform für Terminplanung und Buchungen, die Beratern, Dienstleistern und Teams bei Kalendersynchronisierung, Erinnerungen und personalisierten Buchungsseiten hilft. Sie verbessert die Conversion...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +16 mehr
-
-- **[Lunit](https://www.aimyflow.com/de/ai/lunit-io)**
-  - Lunit ist ein Unternehmen für medizinische KI-Software mit Fokus auf die frühe Krebserkennung, Präzisionsonkologie und KI-gestützte Radiologie-Tools für Gesundheitsdienstleister, die an Screening, Diagnose und...
-  - *Passende Rollen:* Gesundheitsadministrator, Radiologietechnologe, Kardiologe, Medizinische/r Labortechniker/in +1 mehr
 
 - **[LustGF](https://www.aimyflow.com/de/ai/lustgf-com)**
   - LustGF ist ein KI-Freundinnen-Simulator, mit dem Erwachsene anpassbare virtuelle Begleiterinnen für private, unzensierte erotische Chats, Audio-Sexting und NSFW-Inhalte erstellen können. Für Produktteams im Bereich...
@@ -6297,6 +6959,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Mage ist ein browserbasierter KI-Bild- und Videogenerator, der Nutzern hilft, visuelle Inhalte mit Modellen wie Stable Diffusion, Flux, Wan und ControlNet zu erstellen, zu bearbeiten und zu optimieren, vor allem für...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
 
+- **[Mage](https://www.aimyflow.com/de/ai/magelegal-com)**
+  - Mage ist eine KI-gestützte Plattform für Legal Due Diligence im M&A-Bereich, die Anwaltskanzleien, Private-Equity-Teams und Unternehmensjuristen dabei unterstützt, Datenräume zu prüfen, Risiken zu identifizieren,...
+  - *Passende Rollen:* Anwalt, CEO, Finanzanalyst, Projektmanagement-Beauftragter
+
 - **[Magia Trade](https://www.aimyflow.com/de/ai/magiatrade-com)**
   - Magia Trade ist eine KI-gestützte Plattform für Handelsanalysen, die Tradern hilft, Aktien und Kryptowährungen mit Echtzeit-Chartinterpretation, Nachrichtenstimmungsanalyse und anpassbaren KI-Agenten zu analysieren,...
   - *Passende Rollen:* Finanzanalyst, Portfoliomanager/in, Risikoanalyst, CEO
@@ -6304,6 +6970,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Magic AI Avatars](https://www.aimyflow.com/de/ai/magicaiavatars-com)**
   - Magic AI Avatars ist ein kostenloser KI-Avatar-Generator, der hochgeladene Nahaufnahmen in über 200 benutzerdefinierte Profilbilder und digitale Avatare verwandelt – vor allem für Menschen, die personalisierte...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Grafikdesigner, Content Creator
+
+- **[Magic Hour](https://www.aimyflow.com/de/ai/magichour-ai)**
+  - Magic Hour ist eine KI-Content-Plattform für Web, Mobile und API mit über 100 Tools zur Generierung und Bearbeitung von Videos, Bildern und Audio – darunter Text-zu-Video, Bild-zu-Video, Face Swap, Lip Sync, sprechende...
+  - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Softwareentwickler, Leiter E-Commerce-Vertrieb +1 mehr
 
 - **[Magic Hour AI Face Swap](https://www.aimyflow.com/de/ai/magichour-ai-products-face-swap)**
   - Magic Hour AI Face Swap ist ein Online-Tool für KI-gestützten Gesichtstausch, mit dem Nutzer Gesichter in Fotos, Videos und GIFs schnell austauschen können, vor allem für Kreative, Marketer und Teams, die visuelle...
@@ -6349,17 +7019,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Magnitude ist ein Open-Source-, Subagenten-nativer Coding-Agent, der Entwicklern dabei hilft, spezialisierte Agenten für Code-Recherche, Planung, Implementierung, Review, Debugging und browserbasierte UI-Verifizierung...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
 
-- **[Mailmodo](https://www.aimyflow.com/de/ai/mailmodo-com)**
-  - Mailmodo ist eine KI-gestützte E-Mail-Marketing-Plattform, die Nutzern hilft, E-Mails zu erstellen, Zielgruppensegmente aufzubauen, Customer Journeys zu automatisieren, Kampagnen zu analysieren und interaktive...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, E-Commerce-Verkäufer +1 mehr
+- **[Maihem](https://www.aimyflow.com/de/ai/maihem-com)**
+  - Maihem ist eine KI-Evaluierungs- und Monitoring-Plattform, die Teams dabei unterstützt, KI-Anwendungen in den Bereichen Leistung, Sicherheit und Compliance zu testen, mit Red-Teaming zu prüfen und zu verbessern –...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Cybersicherheitsmanager, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Mailteorite](https://www.aimyflow.com/de/ai/mailteorite-com-chat)**
   - Mailteorite ist ein KI-Generator für E-Mail-Vorlagen, der Nutzern hilft, maßgeschneiderte Vorlagen wie SaaS-Werbe-E-Mails, Flash-Sale-Ankündigungen, Newsletter, Willkommens-E-Mails und Veranstaltungseinladungen zu...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Content Creator +1 mehr
 
-- **[Maive](https://www.aimyflow.com/de/ai/maive-ai)**
-  - Maive ist eine KI-Personalplattform für Dachdeckerunternehmen, die Kostenvoranschläge prüft, verkaufte Leistungen mit den zugesagten Leistungen vergleicht und Umsatzverluste sowie Probleme bei der Kundenerfahrung...
-  - *Passende Rollen:* Filialleiter, Außendienstleiter, Produktionsleiter, Betriebschef +1 mehr
+- **[Maitai](https://www.aimyflow.com/de/ai/trymaitai-com)**
+  - Maitai ist eine Enterprise-KI-Inferenzplattform, die Teams dabei unterstützt, anwendungsspezifische LLMs mit Lastverteilung, automatischer Ausgabekorrektur, Guardrails und einer latenzarmen Infrastruktur...
+  - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Softwareentwickler, Projektmanagement-Beauftragter +1 mehr
 
 - **[MakeBestMusic](https://www.aimyflow.com/de/ai/makebestmusic-com)**
   - MakeBestMusic ist ein KI-Musikgenerator, der Nutzern dabei hilft, lizenzfreie Songs, Gesang, Liedtexte, Remixe, Stem-Splits und Voice-Cover aus Texteingaben oder hochgeladenem Audio zu erstellen, vor allem für Creator,...
@@ -6429,10 +7099,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Marketeze ist eine KI-Content-Plattform, die Kreativen dabei hilft, Hooks zu analysieren, einleitende E-Mail-Absätze zu generieren und Intros für lange YouTube-Videos zu optimieren – hauptsächlich für Content Creators,...
   - *Passende Rollen:* Social-Media-Content-Creator, Texter, Leiter Digitales Marketing, Content Creator +1 mehr
 
-- **[MarketFoundry](https://www.aimyflow.com/de/ai/marketfoundry-io-workspace-html)**
-  - MarketFoundry ist ein KI-Website-Builder, der Arbeitssuchenden, Freiberuflern und Kleinunternehmern hilft, ohne Programmierkenntnisse aus Prompts oder hochgeladenen Dateien live Lebenslauf-Websites, Portfolios,...
-  - *Passende Rollen:* Content Creator, Immobilienmakler, E-Commerce-Verkäufer, Leiter Digitales Marketing +1 mehr
-
 - **[MarkInMinutes](https://www.aimyflow.com/de/ai/markinminutes-com)**
   - MarkInMinutes ist eine KI-gestützte Bewertungsplattform, die Lehrkräfte an weiterführenden Schulen und Hochschulen dabei unterstützt, Schüler- und Studierendeneinreichungen schneller zu bewerten – mit rubrikbasierter...
   - *Passende Rollen:* Hochschulprofessor, Lehrkraft, Dozent am Community College, Berater für Bildungstechnologie +1 mehr
@@ -6469,6 +7135,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - MathAI GPT ist ein KI-gestützter Mathematiklöser, der Nutzern hilft, Mathematikfragen Schritt für Schritt aus eingegebenen Aufgaben oder hochgeladenen Fotos zu beantworten, hauptsächlich für Schüler und andere...
   - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Online-Programmierlehrer, Berater für Bildungstechnologie, Lehrkraft
 
+- **[Mathos](https://www.aimyflow.com/de/ai/info-mathos-ai)**
+  - Mathos ist eine personalisierte, interaktive Lernplattform mit einem KI-Mathe-Tutor im Zentrum, der Schülern bei Bedarf Hinweise, Unterstützung beim Üben und Fortschrittsverfolgung bietet und Lehrkräften zugleich...
+  - *Passende Rollen:* Berater für Bildungstechnologie, Nachhilfelehrer für Testvorbereitung, Lehrkraft, Hochschulprofessor +1 mehr
+
 - **[MaxClaw](https://www.aimyflow.com/de/ai/agent-minimax-io-max-claw)**
   - MaxClaw ist ein KI-Agenten-Builder von MiniMax OpenClaw, der Nutzern hilft, personalisierte Assistenten mit Fähigkeiten und Subagenten zu erstellen, um komplexe Aufgaben zu automatisieren – insbesondere für Menschen,...
   - *Passende Rollen:* Softwareentwickler, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
@@ -6500,6 +7170,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Media.io AI Generator](https://www.aimyflow.com/de/ai/media-io-apps-ai-video-generator-explore)**
   - Media.io AI Generator ist eine Online-Kreativplattform mit KI-Tools zur Erstellung und Bearbeitung von Videos, Bildern und Audioinhalten. Sie richtet sich vor allem an Kreative, Marketer und designorientierte Nutzer,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Grafikdesigner +1 mehr
+
+- **[MediSearch](https://www.aimyflow.com/de/ai/medisearch-io)**
+  - MediSearch ist ein wissenschaftsbasiertes medizinisches Suchtool, das Nutzern hilft, direkte Antworten auf Gesundheitsfragen aus vertrauenswürdigen Informationen zu erhalten, vor allem für Personen, die zu...
+  - *Passende Rollen:* Gesundheitsadministrator, Technischer Redakteur, Wellness-Coach, Fachkraft für medizinische Abrechnung
 
 - **[MeeBoss](https://www.aimyflow.com/de/ai/meeboss-com-job-seeker-home)**
   - MeeBoss ist eine Jobsuchplattform und mobile App, die Arbeitssuchenden hilft, passende Stellenangebote zu entdecken und direkt mit Personalverantwortlichen zu chatten – insbesondere für Menschen, die einen schnelleren,...
@@ -6535,6 +7209,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Mem](https://www.aimyflow.com/de/ai/get-mem-ai)**
   - Mem ist eine KI-gestützte Notiz-App, die Nutzern hilft, ihre Notizen, Meetings, Recherchen und Webinhalte zu erfassen, zu organisieren, wiederzufinden und per Chat damit zu arbeiten – vor allem für Wissensarbeiter, die...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Technischer Redakteur, Softwareentwickler +1 mehr
+
+- **[Mem0](https://www.aimyflow.com/de/ai/mem0-ai)**
+  - Mem0 ist eine KI-Gedächtnisschicht für LLM-Anwendungen, die Entwicklern und Unternehmen hilft, KI-Agenten mit persistentem, sich selbst verbesserndem Gedächtnis auszustatten, um personalisiertere, kontextbewusste...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +1 mehr
 
 - **[Memdex](https://www.aimyflow.com/de/ai/memdex-ai)**
   - Memdex ist eine Browser-Erweiterung, die KI-Unterhaltungen speichert und in wiederverwendbares Gedächtnis umwandelt. Sie hilft Menschen, die mit Tools wie ChatGPT, Claude, Gemini, Perplexity und Grok arbeiten, den...
@@ -6604,6 +7282,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Merlin ist ein KI-Chat-Assistent und eine Browsererweiterung, die Nutzerinnen und Nutzern an einem Ort Zugriff auf mehrere führende KI-Modelle bietet, um zu recherchieren, zu schreiben, zu programmieren, Inhalte...
   - *Passende Rollen:* Softwareentwickler, Leiter Digitales Marketing, Finanzanalyst, Texter +1 mehr
 
+- **[Merlin AI](https://www.aimyflow.com/de/ai/merlinai-co)**
+  - Merlin AI ist eine Plattform für operative Intelligenz und eine Echtzeit-Ausführungsebene für das Bauwesen, die Fachunternehmern und Herstellern dabei hilft, Materialien, Arbeitskräfte und Entscheidungen bei komplexen...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Bauingenieur, Betriebschef, Produktionsleiter
+
 - **[Merlin Project](https://www.aimyflow.com/de/ai/projectwizards-net-en-merlin-project)**
   - Merlin Project ist eine professionelle Projektmanagement-Software für Mac, iPad und iPhone, die Anwendern hilft, Projekte mit Gantt-Diagrammen, Kanban, Mindmaps, Ressourcenansichten und Berichten zu planen, zu...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Gewerbearchitekt, Hochschulprofessor +1 mehr
@@ -6624,6 +7306,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Meta AI Studio ist ein Tool zum Erstellen benutzerdefinierter konversationeller KI-Charaktere und Creator-KIs, die auf Messenger, Instagram und WhatsApp chatten, hauptsächlich für Verbraucher und Creator, die...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Texter +1 mehr
 
+- **[Metal](https://www.aimyflow.com/de/ai/metal-ai)**
+  - Metal ist eine KI-Plattform für die Due Diligence im Private Equity, die Unternehmen dabei unterstützt, Deal-Historien zu bündeln, individuelle Investment-Workflows anzuwenden und institutionelles Wissen in umsetzbare...
+  - *Passende Rollen:* Finanzanalyst, Finanzchef, CEO, Data Scientist
+
 - **[Metal](https://www.aimyflow.com/de/ai/metal-so)**
   - Metal ist eine Plattform für Fundraising-Intelligence, die Startup-Gründern hilft, passende Investoren zu finden, Wege für warme Introductions aufzudecken, Investoren-Pipelines zu verwalten und KI-gestützte...
   - *Passende Rollen:* CEO, Finanzchef, Manager Finanzplanung & Analyse, Projektmanagement-Beauftragter
@@ -6635,6 +7321,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Meteor](https://www.aimyflow.com/de/ai/browse-dev)**
   - Meteor ist ein KI-Browser für Mac, der Nutzern hilft, zu browsen, in jedem Tab zu chatten, Werbung zu blockieren und Apps mit einem integrierten Browser-Agenten zu verbinden, hauptsächlich für Vertriebsteams. Für...
   - *Passende Rollen:* Außendienstleiter, Talent-Acquisition-Manager, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
+
+- **[Metoro](https://www.aimyflow.com/de/ai/metoro-io)**
+  - Metoro ist eine KI-gestützte SRE- und Observability-Plattform für Kubernetes, die Teams dabei unterstützt, Deployments zu verifizieren, Vorfälle zu erkennen, Warnmeldungen zu untersuchen, Ursachen zu finden und...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwickler, Cybersicherheitsmanager, Softwareentwicklungsleiter +1 mehr
 
 - **[MIAPI](https://www.aimyflow.com/de/ai/miapi-uk)**
   - MIAPI ist eine API für fundierte KI-Antworten, die Entwicklern hilft, ihren Anwendungen websuchbasierte Antworten in Echtzeit mit Inline-Zitaten, Quellen, Streaming und OpenAI-kompatiblen Chat-Endpunkten hinzuzufügen....
@@ -6654,6 +7344,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 
 - **[Middle Name Generator](https://www.aimyflow.com/de/ai/middlenamegenerator-net)**
   - Middle Name Generator ist ein KI-gestütztes Tool zur Vergabe von Zweitnamen für Babys, das Eltern dabei hilft, Optionen für Zweitnamen zu erstellen, indem es Vor- und Nachnamen mit Präferenzen wie Silbenfluss,...
+
+- **[Middleware](https://www.aimyflow.com/de/ai/middleware-io)**
+  - Middleware ist eine Full-Stack-Cloud-Observability-Plattform, die Engineering- und DevOps-Teams dabei unterstützt, Infrastruktur, Anwendungen, Logs, Traces, Datenbanken und die Nutzererfahrung in Echtzeit zu überwachen...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst +1 mehr
 
 - **[Midjourney](https://www.aimyflow.com/de/ai/midjourney-com)**
   - Midjourney ist ein von der Community finanziertes Forschungslabor, das KI-Bild- und Videomodelle entwickelt und Menschen dabei hilft, kreative Ideen und neue visuelle Medien zu erkunden, vor allem Künstlern, Designern...
@@ -6678,6 +7372,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Mind Map Wizard](https://www.aimyflow.com/de/ai/mindmapwizard-com)**
   - Mind Map Wizard ist ein KI-Tool für Mindmaps, das Nutzern hilft, visuelle Mindmaps aus einem Thema, einer URL oder einer PDF zu erstellen, zu bearbeiten und zu exportieren, insbesondere für Studierende, Lehrkräfte,...
   - *Passende Rollen:* Lehrkraft, Hochschulprofessor, Technischer Redakteur, Content Creator +1 mehr
+
+- **[Minded](https://www.aimyflow.com/de/ai/minded-com)**
+  - Minded ist eine Plattform zum Aufbau von KI-Agenten, indem aufgezeichnet wird, wie Menschen Arbeit ausführen, und das Verhalten anschließend mit natürlicher Sprache und optionalem Code verfeinert wird – vor allem für...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Logistikplaner/in, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Mindgrasp](https://www.aimyflow.com/de/ai/mindgrasp-ai)**
   - Mindgrasp ist ein KI-Lernassistent, der Vorlesungen, Lesematerialien, Links und hochgeladene Dateien in Notizen, Zusammenfassungen, Lernkarten, Quizze und bedarfsgerechte Nachhilfe umwandelt, hauptsächlich für...
@@ -6714,6 +7412,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Mintly](https://www.aimyflow.com/de/ai/usemintly-com)**
   - Mintly ist ein KI-gestütztes Studio für Werbemittel für E-Commerce-Marken, Marketer und Agenturen, das Produktfotos oder URLs in produktgetreue Lifestyle-Bilder, statische Anzeigen und UGC-ähnliche Videoanzeigen...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Social-Media-Content-Creator, Grafikdesigner +1 mehr
+
+- **[MinusX](https://www.aimyflow.com/de/ai/minusx-ai)**
+  - MinusX ist eine agentische Datenplattform, die Unternehmensdaten organisiert, verwaltete Datenmodelle erstellt und testet und Dashboard-Fragen und -Antworten, Ad-hoc-Analysen sowie proaktives Monitoring für Datenteams...
+  - *Passende Rollen:* Data Engineer, Data Scientist, Finanzanalyst, Softwareentwickler +1 mehr
 
 - **[Mio](https://www.aimyflow.com/de/ai/mio-gg)**
   - Mio ist ein KI-Telefonassistent, der auf Basis einer Textanfrage Anrufe tätigt und entgegennimmt und dabei Menüs, Warteschleifen, Live-Gespräche und Zusammenfassungen übernimmt – für Menschen, die routinemäßige...
@@ -6779,16 +7481,16 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Mocko ist eine KI-gestützte Prüfungsvorbereitungsplattform, die französischen Lernenden hilft, realistische Probeprüfungen für TEF und TCF zu absolvieren, detailliertes Feedback zu erhalten und personalisierte...
   - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Lehrkraft, Schulberater, Berater für Bildungstechnologie
 
-- **[MockWise](https://www.aimyflow.com/de/ai/mockwise-io)**
-  - MockWise ist eine KI-Plattform für das Training von Probevorstellungsgesprächen, die Bewerberinnen und Bewerbern hilft, sprachbasierte Interviews zu üben, maßgeschneidertes Feedback zu erhalten und sich mit...
-  - *Passende Rollen:* Softwareentwickler, Außendienstleiter, Talent-Acquisition-Manager, Schulberater +1 mehr
-
 - **[MockXP](https://www.aimyflow.com/de/ai/apps-apple-com-us-app-interview-prep-ai-mockxp-id6751194160)**
   - MockXP ist eine KI-App für Probevorstellungsgespräche für iPhone, iPad und Mac, die Arbeitssuchenden hilft, Screening-, technische, verhaltensorientierte und Gehaltsverhandlungsgespräche mit maßgeschneiderten Fragen,...
 
 - **[Mod AI](https://www.aimyflow.com/de/ai/usemod-ai)**
   - Mod AI ist ein autonomes Tool zur Automatisierung der Kreditorenbuchhaltung, das die Rechnungsverarbeitung, Kontierung im Hauptbuch, Freigaben, Zahlungen und Berichterstattung für Finanzteams und...
   - *Passende Rollen:* Finanzchef, Wirtschaftsprüfer, Finanzanalyst, Betriebschef
+
+- **[Model ML](https://www.aimyflow.com/de/ai/modelml-com)**
+  - Model ML ist eine KI-Plattform, die digitale Teammitglieder für den Finanzbereich entwickelt und großen Finanzinstituten dabei hilft, zeitaufwändige Workflows rund um Transaktionen, Modelle, Pitch-Decks, Due Diligence...
+  - *Passende Rollen:* Portfoliomanager/in, Finanzanalyst, Finanzchef, CEO
 
 - **[modelAIz](https://www.aimyflow.com/de/ai/modelaiz-com-en)**
   - modelAIz ist eine KI-gestützte Innovationssoftware, die Gründern, Acceleratoren und Corporate-Innovation-Teams dabei hilft, Geschäftsideen zu validieren, Märkte zu analysieren, Geschäftsmodelle zu entwickeln und MVPs...
@@ -6842,6 +7544,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Moozix ist eine KI-Software für Musik- und Videoproduktion, die Songwritern und Musikern hilft, Songs zu erstellen, Stems mit Referenzabgleich zu mischen und zu mastern, Workflow-Anleitungen zu erhalten und Musik- oder...
   - *Passende Rollen:* Content Creator, Musikliebhaber, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
 
+- **[Morph](https://www.aimyflow.com/de/ai/morphllm-com)**
+  - Morph ist eine Plattform aus KI-Subagenten, Modellen und einem SDK, die Teams dabei unterstützt, schnellere und zuverlässigere Coding-Agenten mit Codebearbeitung, Codesuche, Kontextkomprimierung, PR-Tests und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, CEO
+
 - **[Moss](https://www.aimyflow.com/de/ai/moss-dev)**
   - Moss ist ein semantisches Suchinfrastruktur-Tool für Echtzeit, das Entwicklern hilft, konversationelle KI, Sprachagenten, Copiloten und andere KI-Anwendungen mit schneller lokaler oder cloudbasierter Abfrage zu...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
@@ -6857,10 +7563,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Mottle](https://www.aimyflow.com/de/ai/mottle-com)**
   - Mottle ist eine No-Code-Plattform zum Erstellen und Einbetten eines benutzerdefinierten Chatbots im ChatGPT-Stil auf einer Website, der mit Unternehmensinformationen trainiert wird, um Kundenfragen zu beantworten –...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter, Softwareentwicklungsleiter +1 mehr
-
-- **[MovArt.ai](https://www.aimyflow.com/de/ai/movart-ai)**
-  - MovArt.ai ist eine KI-Plattform für Videogenerierung und Bearbeitung, mit der Creator und Marketer aus Text oder vorhandenem Material virale Videos und konversionsstarke Bilder erstellen können. Sie erhöht Output und...
-  - *Passende Rollen:* Leiter Digitales Marketing, Marketing- und Vertriebsmanager, Berater für Bildungstechnologie, Softwareentwicklungsleiter +6 mehr
 
 - **[MOVE.](https://www.aimyflow.com/de/ai/movedot-ai)**
   - MOVE. ist eine KI-Agentenplattform für Hardware-Engineering-Teams, die Hardware-Testdaten analysiert, Anomalien und Korrelationen aufdeckt und rohe Telemetriedaten, Sensorprotokolle und verwandte Eingaben schneller in...
@@ -6925,14 +7627,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Music Muse](https://www.aimyflow.com/de/ai/musicmuse-ai)**
   - Music Muse ist ein KI-Musikgenerator und Online-Song-Generator, der Nutzern hilft, Textvorgaben oder Liedtexte in vollständige Tracks zu verwandeln, vor allem für Kreative, Musiker und andere Menschen, die Musik ohne...
   - *Passende Rollen:* Content Creator, Musikliebhaber, Social-Media-Content-Creator, Podcast-Produzent +1 mehr
-
-- **[Music Tomorrow](https://www.aimyflow.com/de/ai/music-tomorrow-com)**
-  - Music Tomorrow ist eine SEO-Plattform, die Künstlern und Labels hilft, ihre Online-Sichtbarkeit zu steigern und ihre Musik mit größeren Zielgruppen zu verbinden. Sie macht Suchintention und Discoverability für...
-  - *Passende Rollen:* Musikliebhaber
-
-- **[Music Video Generator](https://www.aimyflow.com/de/ai/musicvideogenerator-app)**
-  - Music Video Generator ist ein KI-Tool, das unabhängigen Musikerinnen und Musikern dabei hilft, hochgeladene Songs in filmische, textgetriebene Musikvideos zu verwandeln, indem es den Track analysiert, ein Storyboard...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Musikliebhaber +1 mehr
 
 - **[MusicGeneratorAI](https://www.aimyflow.com/de/ai/musicgeneratorai-com)**
   - MusicGeneratorAI ist ein KI-Musik- und Songgenerator, der Nutzern hilft, online originelle Songs, Instrumentalstücke, textbasierte Kompositionen, Coverversionen und bearbeitete Musik zu erstellen, vor allem für...
@@ -7058,9 +7752,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Narrative ist eine KI-gestützte Plattform für Sport-Highlights, die Live-Übertragungen von Spielen in personalisierte, sofort veröffentlichungsfähige Social-Media-Clips für Sportteams und Content-Teams verwandelt. In...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Podcast-Produzent +1 mehr
 
+- **[Narrative](https://www.aimyflow.com/de/ai/trynarrative-com)**
+  - Narrative ist ein KI-gestütztes Qualitätssicherungstool, das Teams dabei hilft, End-to-End-Produkttests ohne Code zu erstellen, auszuführen und zu pflegen, hauptsächlich für Softwareteams, die Webprodukte...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Projektmanagement-Beauftragter, Data Engineer
+
 - **[NaturalReader](https://www.aimyflow.com/de/ai/naturalreaders-com)**
   - NaturalReader ist eine KI-Text-zu-Sprache-Plattform, die Texte für Privatpersonen, Lehrkräfte und Unternehmen im Web, auf Mobilgeräten und für kommerzielle Anwendungen in natürlich klingende Audiodateien umwandelt.
   - *Passende Rollen:* Berater für Bildungstechnologie, Hochschullehrkräfte, Schullehrkräfte, Sonstige Bildungsrollen +9 mehr
+
+- **[Navier AI](https://www.aimyflow.com/de/ai/navier-ai)**
+  - Navier AI ist eine agentengesteuerte Engineering-Plattform, die CAD-, CFD-, FEA-, Meshing-, Simulations- und GNC-Workflows vom Konzept bis zum validierten Design automatisiert, vor allem für Ingenieure und technische...
+  - *Passende Rollen:* Maschinenbauingenieur/in
 
 - **[nayld.ai](https://www.aimyflow.com/de/ai/nayld-ai)**
   - nayld.ai ist ein KI-gestütztes Tool zur Vorbereitung auf Vorstellungsgespräche, mit dem Arbeitssuchende einen Lebenslauf und eine Stellenanzeige hochladen, einen Rollen-Fit-Score erhalten und adaptive Probeinterviews...
@@ -7069,6 +7771,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[nbot.ai](https://www.aimyflow.com/de/ai/nbot-ai)**
   - nbot.ai ist ein KI-Tracking-Tool, mit dem Nutzer benutzerdefinierte Tracker erstellen können, um Websites, RSS-Feeds, YouTube, Reddit und soziale Plattformen zu überwachen. So unterstützt es Forschende, Analysten und...
   - *Passende Rollen:* Finanzanalyst, Data Scientist, Technischer Redakteur, Leiter Digitales Marketing +1 mehr
+
+- **[nCompass](https://www.aimyflow.com/de/ai/ncompass-tech)**
+  - nCompass ist eine KI-gestützte IDE für Performance-Profiling und Debugging für VSCode, Cursor und Claude Code, die Ingenieurinnen und Ingenieuren dabei hilft, Code zu profilieren, Traces zu untersuchen und Engpässe an...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Elektroingenieur, Data Engineer
 
 - **[Nebius Token Factory Inference Service](https://www.aimyflow.com/de/ai/nebius-com-services-studio-inference-service)**
   - Der Nebius Token Factory Inference Service ist eine Inferenzplattform für Unternehmen zum Betrieb gehosteter Open-Source-KI-Modelle mit Latenzen unter einer Sekunde, automatischer Skalierung, vorhersehbarer...
@@ -7125,10 +7831,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[NetworkOcean](https://www.aimyflow.com/de/ai/networkocean-io)**
   - NetworkOcean baut und betreibt schwimmende Rechenzentrumsbargen und Unterwasser-Rechenzentrumskapseln, die flüssigkeitsgekühlte GPU-Infrastruktur mit hoher Dichte, geringerem Energieverbrauch und ohne Wasserverbrauch...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Betriebschef, Projektmanagement-Beauftragter +1 mehr
-
-- **[NEUROFIT](https://www.aimyflow.com/de/ai/neurofit-app)**
-  - NEUROFIT ist eine forschungsbasierte App zur Regulation des Nervensystems, die somatische Übungen, Stress-Tracking und Praktiken zum Zurücksetzen des Vagusnervs nutzt, um Nutzerinnen und Nutzern zu helfen, Stress zu...
-  - *Passende Rollen:* Wellness-Coach, Gesundheitsadministrator, Hausarzt, Spezialist für Arbeitsmedizin +1 mehr
 
 - **[neuroflash](https://www.aimyflow.com/de/ai/neuroflash-com)**
   - neuroflash ist eine KI-Content-Plattform für Marketing- und Vertriebsteams, die Nutzern hilft, markenkonforme Texte und urheberrechtsfreie Bilder zu erstellen, zu bearbeiten, zu optimieren und zu verwalten – mit...
@@ -7214,10 +7916,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Norby ist ein No-Code-KI-Agent, der die Produkt-, Service-, Dokumentations- und FAQ-Inhalte eines Unternehmens in chatbasierte Antworten für den Kundensupport und Vertrieb umwandelt, hauptsächlich für Unternehmen, die...
   - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Projektmanagement-Beauftragter +1 mehr
 
-- **[Nori](https://www.aimyflow.com/de/ai/nori-ai)**
-  - Nori ist ein persönlicher Gesundheitsberater, der Wearable- und Labordaten verbindet, um klare tägliche Gesundheitspläne und Erklärungen zu erstellen, vor allem für Menschen, die ihr Wohlbefinden und ihre Fitness...
-  - *Passende Rollen:* Wellness-Coach, Gesundheitsadministrator, Content Creator, Food-Enthusiast
-
 - **[Normal Factory](https://www.aimyflow.com/de/ai/normalfactory-com)**
   - Normal Factory ist eine Plattform für Hardwaretests und Zertifizierungen, die Unternehmen dabei unterstützt, die Konformität mit Standards wie FCC, ISED, CE und ASTM vorzubereiten und zu verwalten – durch...
   - *Passende Rollen:* Elektroingenieur, Maschinenbauingenieur/in, Projektmanagement-Beauftragter, Produktionsleiter +1 mehr
@@ -7282,9 +7980,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - NovelAI ist ein KI-Generator für Anime-Bilder und eine Storytelling-Plattform, die Kreativen hilft, Anime-Kunst zu erstellen, Geschichten zu schreiben und Bilder zu bearbeiten, vor allem für Autorinnen, Autoren und...
   - *Passende Rollen:* Romanautor, Grafikdesigner, Content Creator, Unabhängige/r Filmemacher/in +1 mehr
 
+- **[Novelcare](https://www.aimyflow.com/de/ai/novel-care)**
+  - Novelcare ist eine Plattform für Gesundheitsdienstleister, die lokal verfügbare, medizinisch relevante klinische Studien für Patientinnen und Patienten identifiziert und Praxen dabei unterstützt, klinische Forschung...
+  - *Passende Rollen:* Gesundheitsadministrator, Hausarzt, Kinderarzt, Kardiologe +1 mehr
+
 - **[NovelCraft](https://www.aimyflow.com/de/ai/novelcraft-ai)**
   - NovelCraft ist ein KI-Schreibassistent für Autorinnen und Autoren, der ihnen hilft, Romane zu entwerfen, zu überarbeiten und zu veröffentlichen – mit Vorschlägen auf Abruf, Story-Gedächtnis, Figurenbibliotheken und...
   - *Passende Rollen:* Romanautor, Texter, Content Creator, Grafikdesigner
+
+- **[Nowadays](https://www.aimyflow.com/de/ai/nowadays-ai)**
+  - Nowadays ist eine KI-gestützte Plattform für die Veranstaltungsplanung von Unternehmensteams, die Nutzern hilft, die Suche nach Veranstaltungsorten, die Budgetierung, die Koordination von Dienstleistern, die...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Programmmanager Non-Profit, Filialleiter +1 mehr
 
 - **[NSFW AI Chat](https://www.aimyflow.com/de/ai/nsfw-ai-chat-com)**
   - NSFW AI Chat ist ein Verzeichnis für KI-Chat-Apps für Erwachsene ab 19 Jahren und Character-Chatbot-Tools, das Nutzern hilft, NSFW-KI-Freundin-, Freund-, Rollenspiel-, Charaktererstellungs- und ungefilterte...
@@ -7310,6 +8016,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - NSFWLover AI ist eine auf Erwachsene ausgerichtete KI-Plattform für unzensierten NSFW-Chat, Rollenspiele sowie Sprach- und Bildgenerierung mit virtuellen Begleitern, hauptsächlich für Nutzer, die explizite...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Grafikdesigner +1 mehr
 
+- **[Nuanced.dev](https://www.aimyflow.com/de/ai/nuanced-dev)**
+  - Nuanced.dev bietet einen containerisierten LSP-Server und eine Code-Intelligence-Plattform, die KI-Coding-Agenten statischen Analysekontext auf Compiler-Niveau bereitstellt und Teams dabei hilft, intelligentere...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Berater für Bildungstechnologie
+
 - **[Nubix](https://www.aimyflow.com/de/ai/social-nubix-ai)**
   - Nubix ist ein KI-gestütztes soziales Netzwerk und eine Newsfeed-Plattform, die Menschen dabei hilft, Communities beizutreten, Beiträge zu teilen und mit KI-Personas wie Nexus AI zu chatten, vor allem für Nutzer, die...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Technischer Redakteur +1 mehr
@@ -7317,9 +8027,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Nude AI Generator](https://www.aimyflow.com/de/ai/nude-ai-ai)**
   - Nude AI Generator ist ein KI-Bildtool, das Nutzern hilft, individuelle erotische Nacktillustrationen aus Text-Prompts und Stilauswahlen zu erstellen, hauptsächlich für Personen, die eine einfache Bilderzeugung ohne...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
-
-- **[Nudify.Online](https://www.aimyflow.com/de/ai/nudify-online-undress-ai)**
-  - Nudify.Online ist ein KI-Bildgenerator für Erwachsene, der aus hochgeladenen Fotos simulierte Nackt- oder explizite Varianten erstellt, für Nutzer über 18, die unterhaltungsorientierte Bildgenerierung suchen. Im...
 
 - **[Nume](https://www.aimyflow.com/de/ai/nume-finance)**
   - Nume ist ein KI-gestütztes CFO-Tool, das mit proaktiven Erkenntnissen und Echtzeit-Transparenz aus Live-Daten beim Finanzmanagement unterstützt, vor allem für Start-ups, KMU und Finanzteams. Für Finanzverantwortliche...
@@ -7353,12 +8060,24 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Octofy ist eine KI-Plattform, die Fachleuten und Alltagsnutzern über 60 Modelle in einer einzigen Oberfläche zugänglich macht und ihnen hilft, Texte, Bilder, Tabellen und Diagramme zu erstellen, wobei automatisch das...
   - *Passende Rollen:* Leiter Digitales Marketing, Finanzanalyst, Softwareentwickler, Content Creator +1 mehr
 
+- **[Ocular AI](https://www.aimyflow.com/de/ai/useocular-com)**
+  - Ocular AI ist eine multimodale Data-Lakehouse- und KI-Entwicklungsplattform, die Teams dabei unterstützt, unstrukturierte Daten zu erfassen, zu kuratieren, zu durchsuchen, zu annotieren und zu versionieren und...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, Data Scientist, Softwareentwicklungsleiter +1 mehr
+
 - **[Oddsmyth](https://www.aimyflow.com/de/ai/oddsmyth-ai)**
   - Oddsmyth ist ein KI-Co-Manager für Fantasy-Baseball, der sich mit Yahoo-Fantasy-Ligen verbindet, um Managern mithilfe von Kader-, Gegner- und Bewertungsdaten bei der Bewertung von Aufstellungen, Waivers, Trades und...
+
+- **[Odo](https://www.aimyflow.com/de/ai/useodo-com)**
+  - Odo ist ein KI-E-Mail-Assistent, der Posteingänge liest, Antworten im Schreibstil der Nutzer formuliert, wichtige Nachrichten kennzeichnet und geplante Briefings bereitstellt – vor allem für vielbeschäftigte Fachkräfte...
+  - *Passende Rollen:* CEO, Außendienstleiter, Betriebschef, Projektmanagement-Beauftragter +1 mehr
 
 - **[OdysseyGPT](https://www.aimyflow.com/de/ai/odysseygpt-ai)**
   - OdysseyGPT ist eine Plattform für Dokumentenintelligenz in Unternehmen, die strukturierte, zitiergestützte Daten und Antworten aus Dokumenten extrahiert und anschließend an Geschäftssysteme übermittelt, vor allem für...
   - *Passende Rollen:* Risikoanalyst, Finanzanalyst, Talent-Acquisition-Manager, Gesundheitsadministrator +1 mehr
+
+- **[OffDeal](https://www.aimyflow.com/de/ai/offdeal-io)**
+  - OffDeal ist eine M&A-Beratungs- und Investmentbanking-Plattform für kleine Unternehmen mit einem Umsatz von 5 Mio. bis 100 Mio. US-Dollar, die Eigentümern beim Verkauf ihrer Unternehmen durch Unterstützung bei der...
+  - *Passende Rollen:* CEO, Finanzchef, Finanzanalyst
 
 - **[OfferScope](https://www.aimyflow.com/de/ai/offerscope-app)**
   - OfferScope ist ein KI-Tool zur Analyse von Arbeitsverträgen, das Arbeitnehmern hilft, Vertragsrisiken zu verstehen, Erläuterungen in einfacher Sprache zu erhalten und vor der Unterzeichnung Verhandlungsfragen zu...
@@ -7367,6 +8086,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Office Translator](https://www.aimyflow.com/de/ai/officetranslator-com)**
   - Office Translator ist eine KI-gestützte Plattform für die Dokumentenübersetzung, die PDFs, Word-Dateien, EPUBs und viele weitere Formate übersetzt und dabei das ursprüngliche Layout und die Formatierung beibehält, vor...
   - *Passende Rollen:* Technischer Redakteur, Texter, Projektmanagement-Beauftragter, Hochschulprofessor
+
+- **[Ohm](https://www.aimyflow.com/de/ai/ohm-ai)**
+  - Ohm ist ein KI-Tool für Ingenieurlabors, das Hardware-Wissenschaftlern und -Ingenieuren einen schnelleren Zugang zu Erkenntnissen aus Laboraten ermöglicht, insbesondere für Teams in den Bereichen Batterien,...
+  - *Passende Rollen:* Maschinenbauingenieur/in, Elektroingenieur, Data Scientist, Molekularbiologe +1 mehr
 
 - **[Okara](https://www.aimyflow.com/de/ai/okara-ai)**
   - Okara ist eine private KI-Chat-Plattform, mit der Fachkräfte, Gründer, Autoren, Forschende und Teams über 20+ Open-Source-Modelle hinweg arbeiten, Dateien hochladen und Suchwerkzeuge nutzen können, ohne den Kontext zu...
@@ -7391,6 +8114,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Omni One](https://www.aimyflow.com/de/ai/app-omni1-ai)**
   - Omni One ist eine KI-Plattform, die Nutzern Zugriff auf über 350 Modelle bietet, darunter OpenAI, Claude und Gemini, um Chats zu starten und mit Text, Bildern, Video und Audio zu arbeiten – vor allem für Menschen, die...
   - *Passende Rollen:* Content Creator, Texter, Leiter Digitales Marketing, Softwareentwickler +1 mehr
+
+- **[OmniAI](https://www.aimyflow.com/de/ai/getomni-ai)**
+  - OmniAI ist eine KI-Agentenplattform für die Kreditvergabe, die die Aufnahme von Kreditnehmern, die Kommunikation, die Dokumentenerfassung und Nachverfolgungen automatisiert, vor allem für Kreditgeber und Kreditteams....
+  - *Passende Rollen:* Finanzanalyst, Risikoanalyst, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[OmniDetect](https://www.aimyflow.com/de/ai/omnidetect-ai)**
   - OmniDetect ist ein KI-Inhaltsdetektor, der Texte mit GPTZero, Winston AI und ZeroGPT prüft, um eine übereinstimmende Bewertung darüber zu liefern, ob Inhalte KI-generiert sind, insbesondere für Studierende, Autorinnen...
@@ -7420,10 +8147,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - OnSpace.AI ist ein No-Code-Builder für KI-Apps, der Nutzern hilft, iOS-, Android- und Web-Apps mit verwalteten Backend-Funktionen zu erstellen und zu veröffentlichen, vor allem für nichttechnische Gründer, Freelancer...
   - *Passende Rollen:* Softwareentwicklungsleiter, CEO, Projektmanagement-Beauftragter, Grafikdesigner +1 mehr
 
-- **[OnSpace.AI](https://www.aimyflow.com/de/ai/onspace-ai-agentic-app-builder)**
-  - OnSpace.AI ist ein No-Code-Builder für agentische Apps, der Nutzern hilft, Ideen und Prompts in teilbare, KI-gestützte Apps für iOS, Android und das Web zu verwandeln, vor allem für Unternehmer, Designer, Lehrkräfte...
-  - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Berater für Bildungstechnologie, Grafikdesigner +1 mehr
-
 - **[OnSpace.AI](https://www.aimyflow.com/de/ai/onspace-ai-ai-app-builder)**
   - OnSpace.AI ist ein KI-gestützter No-Code-App-Builder, der Nutzern dabei hilft, iOS-, Android-, Web- und Full-Stack-Apps mit integrierten Backend-Funktionen zu erstellen und zu veröffentlichen, hauptsächlich für...
   - *Passende Rollen:* CEO, Softwareentwicklungsleiter, Grafikdesigner, Content Creator +1 mehr
@@ -7435,6 +8158,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Ontora](https://www.aimyflow.com/de/ai/ontora-com)**
   - Ontora ist ein KI-Tool für Process Mining und operative Analyse, das Unternehmenssysteme, Dokumente und Besprechungen verbindet, um aufzudecken, wie Arbeit tatsächlich abläuft – vor allem für Führungskräfte sowie...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, CEO
+
+- **[Ontra Mobility](https://www.aimyflow.com/de/ai/ontramobility-com)**
+  - Ontra Mobility ist eine Plattform für Verkehrsunternehmen und städtische Mobilitätsteams, mit der sie multimodale Verkehrssysteme mithilfe KI-gestützter Nachfragemodellierung, Szenarioanalyse, algorithmischer...
+  - *Passende Rollen:* Logistikplaner/in, Projektmanagement-Beauftragter, Betriebschef, Data Scientist +1 mehr
+
+- **[Onyx AI](https://www.aimyflow.com/de/ai/onyx-app)**
+  - Onyx AI ist eine Open-Source-Plattform für Enterprise-Suche und KI-Assistenten, die sich mit Unternehmensdokumenten, Apps und Personen verbindet, um Teams dabei zu helfen, Informationen zu finden und fundierte...
+  - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef +1 mehr
 
 - **[Open eLMS AI](https://www.aimyflow.com/de/ai/openelms-com-landing-page-ai)**
   - Open eLMS AI ist ein KI-gestütztes Autorentool für E-Learning, das Dokumente oder Texteingaben in bearbeitbare Kurse mit Skripten, Quizzen, Bildern, Sprachaufnahmen, Videopräsentatoren und SCORM-Exporten umwandelt,...
@@ -7464,9 +8195,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - OpenArt Photobooth ist ein KI-Bildtool, mit dem Nutzer mehr als 100 feinabgestimmte Modelle für die Bildgenerierung und -bearbeitung durchsuchen und verwenden können. Es richtet sich vor allem an Kreative, die...
   - *Passende Rollen:* Grafikdesigner, Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator +1 mehr
 
+- **[OpenBuilder](https://www.aimyflow.com/de/ai/theopenbuilder-com)**
+  - OpenBuilder ist eine KI-Plattform zur App-Entwicklung, die Nutzern hilft, zu beschreiben, was sie erstellen möchten, und Webprojekte mit Backend-Unterstützung, Debugging-Tools und Vorlagen zu generieren, vor allem für...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, CEO, Projektmanagement-Beauftragter +1 mehr
+
 - **[OpenClaw](https://www.aimyflow.com/de/ai/molt-bot)**
   - OpenClaw ist ein persönlicher KI-Assistent, der Nutzern hilft, Posteingang, E-Mails, Kalender, Flug-Check-ins und andere computergestützte Aufgaben über Chat-Apps wie WhatsApp und Telegram zu erledigen, vor allem für...
   - *Passende Rollen:* CEO, Betriebschef, Projektmanagement-Beauftragter, Softwareentwickler +1 mehr
+
+- **[OpenFoundry.ai](https://www.aimyflow.com/de/ai/openfoundry-ai)**
+  - OpenFoundry.ai ist eine Open-Source-KI-Entwicklungsplattform, die Entwicklern hilft, Modelle zu finden, Prototypen zu erstellen, fein abzustimmen und KI-gestützte Produkte schneller in ihrer eigenen Cloud...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
 
 - **[OpenGPT](https://www.aimyflow.com/de/ai/open-gpt-app)**
   - OpenGPT ist eine Webplattform zur Nutzung einer Reihe vorgefertigter ChatGPT-Anwendungen oder zum Erstellen benutzerdefinierter ChatGPT-Apps in Sekundenschnelle und richtet sich hauptsächlich an Menschen, die schnelle...
@@ -7480,6 +8219,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - OpenMusic AI ist eine KI-Musikproduktionsplattform, die Nutzern hilft, aus Text vollständige Songs und Liedtexte zu erstellen sowie Tracks zu bearbeiten, zu teilen und zu mastern, hauptsächlich für Kreative, Künstler...
   - *Passende Rollen:* Content Creator, Musikliebhaber, Social-Media-Content-Creator, Podcast-Produzent +1 mehr
 
+- **[OpenPipe](https://www.aimyflow.com/de/ai/openpipe-ai)**
+  - OpenPipe ist eine Unternehmensplattform für die post-trainingsphasenbezogene Entwicklung, Bewertung, Feinabstimmung und Bereitstellung von KI-Agents und benutzerdefinierten Modellen mit überwachter Feinabstimmung und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +1 mehr
+
 - **[Openroll](https://www.aimyflow.com/de/ai/openroll-com)**
   - Openroll ist eine KI-gestützte Vergütungsplattform, die Teams dabei unterstützt, Stellen zu benchmarken, Gehaltspositionen zu simulieren und Vergütungs-, Leistungs- und Marktdaten an einem Ort zu analysieren, vor allem...
   - *Passende Rollen:* Manager für Vergütung & Zusatzleistungen, Manager Mitarbeiterbeziehungen, Betriebschef, Manager Finanzplanung & Analyse +1 mehr
@@ -7488,8 +8231,16 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - OpenRouter ist eine einheitliche API- und Routing-Plattform für große Sprachmodelle, mit der Entwickler mehrere Modelle über eine einzige Schnittstelle nutzen, vergleichen und verwalten können.
   - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +82 mehr
 
+- **[OpenTools](https://www.aimyflow.com/de/ai/opentools-com)**
+  - OpenTools ist eine API für Entwickler, die LLM-Anwendungen erstellen, und hilft ihnen, jedes unterstützte LLM über eine OpenAI-kompatible Schnittstelle mit MCP-Tools wie Websuche, Standortdaten und Web-Scraping zu...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
+
 - **[Oppy](https://www.aimyflow.com/de/ai/oppy-work)**
   - Oppy ist ein KI-gestütztes Tool für Jobsuche und Lebensläufe, das Arbeitssuchenden hilft, Lebensläufe per Spracheingabe umzuschreiben, passende Stellenangebote zu finden, sich mit einem vorab zertifizierten Lebenslauf...
+
+- **[Opslane](https://www.aimyflow.com/de/ai/opslane-com)**
+  - Opslane ist ein Open-Source-, lokal ausgerichtetes Tool, das Entwicklerinnen und Entwicklern dabei hilft, mehrere Claude-Code-Sitzungen in isolierten Docker-Containern auszuführen, Änderungen mit einem lokalen...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
 - **[Optimo](https://www.aimyflow.com/de/ai/askoptimo-com)**
   - Optimo ist eine KI-gestützte Suite von Marketing-Tools von FATJOE, die Marketingfachleuten hilft, Inhalte zu erstellen und alltägliche Aufgaben in den Bereichen SEO, Anzeigen, Social Media, Copywriting, E-Mail, Video...
@@ -7507,6 +8258,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Opus ist eine KI-gestützte Text-zu-Video- und computergestützte Produktionsplattform, die schriftliche Story-Ideen in Szenen, Figuren, Dialoge und visuelle Effekte umwandelt und sich vor allem an Geschichtenerzähler,...
   - *Passende Rollen:* Content Creator, Unabhängige/r Filmemacher/in, Social-Media-Content-Creator, Grafikdesigner +1 mehr
 
+- **[Ora AI](https://www.aimyflow.com/de/ai/oraai-com)**
+  - Ora AI ist eine evidenzbasierte Lernplattform für Medizinstudierende, die sich auf vorklinische Lehrinhalte, USMLE-Step-Prüfungen, Shelf-Prüfungen und COMLEX vorbereiten. Sie bietet eine große QBank, Flashcards mit...
+  - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Schulberater, Lehrkraft
+
 - **[Orbofi](https://www.aimyflow.com/de/ai/orbofi-com)**
   - Orbofi ist eine Plattform zur Erstellung personalisierter KI-Agenten, KI-Charaktere und tokenisierter agentischer Coins, die chatten, Aufgaben ausführen und in Sandbox-Umgebungen laufen können, hauptsächlich für...
   - *Passende Rollen:* Softwareentwickler, Content Creator, Social-Media-Content-Creator, CEO
@@ -7518,6 +8273,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[OrchestrAI](https://www.aimyflow.com/de/ai/orchestrai-dev)**
   - OrchestrAI ist eine KI-gestützte Plattform für Codequalität, Sicherheit und Compliance, die Softwareteams dabei unterstützt, Code vom Prototyp bis zur Produktion zu bringen, indem sie Analyse, Tests, Dokumentation,...
   - *Passende Rollen:* Softwareentwickler, Cybersicherheitsmanager, Softwareentwicklungsleiter, Cybersicherheitsanalyst +1 mehr
+
+- **[Orchid](https://www.aimyflow.com/de/ai/orchid-health)**
+  - Orchid ist eine All-in-One-Therapieplattform für Fachkräfte im Bereich psychische Gesundheit und Wellness. Sie unterstützt Privatpraxen bei der Verwaltung von EHR, Terminplanung, Überweisungen, Zahlungen,...
+  - *Passende Rollen:* Gesundheitsadministrator, Wellness-Coach, Schulberater, Fachkraft für medizinische Abrechnung +1 mehr
 
 - **[Oreate AI](https://www.aimyflow.com/de/ai/oreateai-com)**
   - Oreate AI ist ein KI-Tool zum Paraphrasieren und Umschreiben, mit dem Nutzer Dokumente online schnell überarbeiten können, besonders für Autoren, Studierende und Content-Profis.
@@ -7534,10 +8293,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Orion Arm](https://www.aimyflow.com/de/ai/stackie-ai)**
   - Orion Arm ist ein Produktunternehmen, das KI-Tools entwickelt, darunter einen KI-Kalender und einen KI-nativen News-Agenten, die sich an Alltagsnutzer richten, die Unterstützung bei der Verwaltung von Terminen und...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, TV-Nachrichtenreporter, Content Creator
-
-- **[Ormind](https://www.aimyflow.com/de/ai/chat-noagi-ai-login)**
-  - Ormind ist eine KI-Mitarbeiterplattform in privater Beta, die Solopreneuren hilft, Recherche, Schreiben, Analyse, Outreach-Vorbereitung und andere wiederholbare Geschäftsaufgaben an persistente KI-Mitarbeiter mit...
-  - *Passende Rollen:* CEO, Texter, Leiter Digitales Marketing, Finanzanalyst +1 mehr
 
 - **[Orphiq](https://www.aimyflow.com/de/ai/orphiq-com)**
   - Orphiq ist eine KI-Plattform für die Planung von Musikveröffentlichungen und Karrierestrategien, die Künstlern und ihren Teams hilft, Rollouts zu organisieren, Werbeinhalte zu planen und Veröffentlichungsaufgaben in...
@@ -7571,6 +8326,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - OutBid ist ein Telegram-basiertes Tool, das Upwork-Stellenanzeigen überwacht, innerhalb von etwa 60 Sekunden Benachrichtigungen sendet und KI-gestützte Angebote erstellt – hauptsächlich für Freelancer, die sich...
   - *Passende Rollen:* Softwareentwickler, Grafikdesigner, Technischer Redakteur, Texter
 
+- **[Outerbase](https://www.aimyflow.com/de/ai/outerbase-com)**
+  - Outerbase ist eine KI-gestützte Datenbankschnittstelle, die Ingenieuren, Forschern und Analysten dabei hilft, Daten in SQL- und NoSQL-Datenbanken zu erkunden, abzufragen, zu bearbeiten, zu katalogisieren und zu...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, IT-Infrastrukturmanager/in, Cybersicherheitsanalyst
+
 - **[Outfit.fm](https://www.aimyflow.com/de/ai/outfit-fm)**
   - Outfit.fm ist eine KI-virtuelle Umkleidekabine, mit der Nutzer Outfit-Ideen sofort digital anprobieren können, ideal für Shopper, Fashion-Creator und stilbewusste Verbraucher.
   - *Passende Rollen:* Modedesigner
@@ -7595,6 +8354,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Outrove ist eine KI-Plattform für Recruiting-Workflows, die Hiring-Teams und Recruiter dabei unterstützt, Kandidaten zu finden, zu prüfen, zu interviewen, zu bewerten und mit weniger manuellem Aufwand durch den...
   - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Projektmanagement-Beauftragter, CEO
 
+- **[Outset](https://www.aimyflow.com/de/ai/outset-ai)**
+  - Outset ist eine KI-moderierte Forschungsplattform, die Forschungsteams dabei unterstützt, qualitative Interviews in quantitativer Geschwindigkeit durchzuführen, Teilnehmende zu rekrutieren, Erkenntnisse zu...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Leiter Digitales Marketing, CEO, Content Creator
+
 - **[Outship](https://www.aimyflow.com/de/ai/outship-ai)**
   - Outship ist eine Recruiting-Plattform für technische Einstellungsteams, die aufzeichnet und analysiert, wie Softwareentwicklungs-Kandidaten KI-Coding-Agenten bei Take-Home-Aufgaben, Interviews und Arbeitsproben in...
   - *Passende Rollen:* Talent-Acquisition-Manager, Softwareentwicklungsleiter, Softwareentwickler, CEO
@@ -7606,6 +8369,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Overeasy.sh appears to be a category-based directory website that](https://www.aimyflow.com/de/ai/overeasy-sh)**
   - Overeasy.sh scheint eine kategoriebasierte Verzeichnis-Website zu sein, die Nutzern dabei hilft, Themenseiten zu durchsuchen und Ressourcen in Bereichen wie Automobil, Finanzen, Gesundheit, Shopping und Reisen zu...
 
+- **[Overlap](https://www.aimyflow.com/de/ai/overlap-ai)**
+  - Overlap ist eine KI-gestützte Plattform für Video-Clipping und Social-Video-Workflows, die die Umwandlung von Langform-Inhalten in Kurzclips und Veröffentlichungs-Workflows automatisiert, insbesondere für Creator,...
+  - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator, Texter +1 mehr
+
 - **[Overlead](https://www.aimyflow.com/de/ai/overlead-co-en)**
   - Overlead ist ein Tool zur Lead-Generierung, das eine Produkt-URL analysiert, um aktuelle, hochrelevante Diskussionen auf Reddit und in sozialen Medien zu finden, in denen Menschen nach Lösungen fragen, Optionen...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, CEO, Texter +1 mehr
@@ -7614,13 +8381,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Overstand Labs ist eine Plattform für Kundeneinblicke und Evidenz, die First-Party-Daten aus E-Mails, Slack, Anrufen, Dokumenten und Datenbanken zusammenführt, damit Teams Geschäftsfragen stellen,...
   - *Passende Rollen:* Betriebschef, Manager Mitarbeiterbeziehungen, Projektmanagement-Beauftragter, Data Scientist +1 mehr
 
-- **[OVR IT](https://www.aimyflow.com/de/ai/ovrit-app)**
-  - OVR IT ist ein KI-gestützter Lernplaner für Studierende, insbesondere für solche mit ADHS, der Lehrpläne scannt, Fristen und Notengewichtungen erfasst und eine klar abgegrenzte nächste Aufgabe vorgibt, um Überforderung...
-  - *Passende Rollen:* Schulberater, Hochschulprofessor, Berater für Bildungstechnologie, Lehrkraft
-
-- **[PACT](https://www.aimyflow.com/de/ai/ai-pact-com)**
-  - PACT ist ein kostenloses, KI-gestütztes Website-Compliance-Audit-Tool, das Websites auf ADA-Barrierefreiheit, GDPR-Datenschutzanforderungen und WCAG-2.1-AA-Probleme prüft, hauptsächlich für Unternehmen und...
-  - *Passende Rollen:* Berater für Bildungstechnologie, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Cybersicherheitsmanager +1 mehr
+- **[Oway](https://www.aimyflow.com/de/ai/shipoway-com)**
+  - Oway ist eine Plattform für industrielle Intelligenz und automatisierte Distribution, die Unternehmen dabei hilft, 1 bis 12+ Paletten Stückgut im Teilladungsverkehr zu versenden, und Frachtführern ermöglicht,...
+  - *Passende Rollen:* Logistikplaner/in, Betriebschef, Filialleiter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[PageAI](https://www.aimyflow.com/de/ai/pageai-pro)**
   - PageAI ist ein KI-Website-Builder für Fachleute, insbesondere Entwickler, der eine Eingabeaufforderung in eine produktionsreife Website mit Design, Code, SEO, Blog-Funktionen und Drag-and-drop-Anpassung verwandelt. Für...
@@ -7646,6 +8409,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Paintit.ai ist ein KI-Tool für Innendesign, mit dem Nutzer Raumbilder oder Prompts hochladen können, um Innenräume, Außenbereiche und gewerbliche Flächen neu zu gestalten, neu zu streichen, virtuell einzurichten und zu...
   - *Passende Rollen:* Innenarchitekt/in, Immobilienmakler, Gewerbearchitekt, Grafikdesigner +1 mehr
 
+- **[Pair AI](https://www.aimyflow.com/de/ai/pairai-com)**
+  - Pair AI ist eine KI-gestützte Plattform für die technische Personalbeschaffung, die Unternehmen dabei unterstützt, Softwareentwicklungs-Kandidaten durch praktische, zeitlich begrenzte Coding-Wettbewerbe statt durch...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Softwareentwicklungsleiter, Softwareentwickler, CEO
+
 - **[Palace](https://www.aimyflow.com/de/ai/palace-so)**
   - Palace ist eine KI-native Planungs- und Dispositionsplattform, die Spediteuren dabei hilft, Frachtauswahl, Routenplanung, Terminierung und Echtzeitanpassungen der Flotte zu optimieren, um die Auslastung der Fahrzeuge...
   - *Passende Rollen:* Logistikplaner/in, Betriebschef, Filialleiter, Projektmanagement-Beauftragter +1 mehr
@@ -7666,13 +8433,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Paloma ist ein KI-Analysetool für Supply-Chain-Teams, das Mitarbeitenden hilft, fragmentierte interne Daten schnell in verlässliche Antworten und Berichte umzuwandeln. In der KI-gestützten Supply-Chain-Arbeit kann es...
   - *Passende Rollen:* Logistikplaner/in, Projektmanagement-Beauftragter, Betriebschef, Finanzanalyst
 
+- **[Palomma](https://www.aimyflow.com/de/ai/palomma-com)**
+  - Palomma ist eine Technologie- und Finanzplattform für den Immobiliensektor, die KI-Assistenten und maßgeschneiderte Zahlungs-APIs bereitstellt, um Agenturen und Immobilienunternehmen dabei zu unterstützen, zu...
+  - *Passende Rollen:* Immobilienmakler, Außendienstleiter, Fachkraft für medizinische Abrechnung, Finanzanalyst +1 mehr
+
 - **[Pamela](https://www.aimyflow.com/de/ai/thisispamela-com)**
   - Pamela ist ein KI-gestützter Telefonassistent, der geschäftliche Anrufe, Wartezeiten, Terminbuchungen und Nachfassaktionen für vielbeschäftigte Fachkräfte, Assistenzen, Gründer und Teams übernimmt, die zeitaufwendige...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Filialleiter, CEO +1 mehr
 
+- **[PandasAI](https://www.aimyflow.com/de/ai/pandas-ai-com)**
+  - PandasAI ist ein KI-gestütztes Business-Intelligence-Dashboard, das Nutzern hilft, Fragen zu Daten in natürlicher Sprache zu stellen und sofort Diagramme, Dashboards und Analysen zu erhalten – vor allem für Datenteams,...
+  - *Passende Rollen:* Finanzanalyst, CEO, Projektmanagement-Beauftragter, Softwareentwickler
+
 - **[Panels](https://www.aimyflow.com/de/ai/usepanels-com)**
   - Panels ist ein Anbieter hochwertiger Audiodatensätze für das Training und die Evaluierung von Sprach- und Audiomodellen und hilft Voice-AI-Teams, führenden Voice-Labs und Start-ups dabei, mehrsprachige,...
   - *Passende Rollen:* Data Scientist, Data Engineer, Softwareentwickler, Softwareentwicklungsleiter +1 mehr
+
+- **[Panora](https://www.aimyflow.com/de/ai/getpanora-com)**
+  - Panora ist eine KI-Plattform zur Automatisierung von Bestellungen, die Bestellungen und Angebote validiert, bereinigt und in ERP-Systeme überträgt. So unterstützt sie Distributoren, Hersteller und Großhändler dabei,...
+  - *Passende Rollen:* Logistikplaner/in, Außendienstleiter, Produktionsleiter, Leiter E-Commerce-Vertrieb +1 mehr
 
 - **[Paper Animator Art](https://www.aimyflow.com/de/ai/paperanimator-art)**
   - Paper Animator Art ist ein KI-gestütztes Bild-zu-Animations-Tool, das statische Bilder in Visuals mit entfaltendem Papier und gerissenen Kanten verwandelt, inklusive Hintergrundentfernung und Exportoptionen wie PNG,...
@@ -7697,6 +8476,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ParakeetAI ist eine KI-gestützte Interview-Assistenzsoftware, die während Interviews Antworten in Echtzeit, Transkription, Programmierunterstützung und Notizen bereitstellt, vor allem für Bewerberinnen und Bewerber in...
   - *Passende Rollen:* Softwareentwickler, Online-Programmierlehrer, Talent-Acquisition-Manager
 
+- **[Parallel](https://www.aimyflow.com/de/ai/beparallel-com)**
+  - Parallel ist eine KI-Plattform, die Agenten entwickelt, um administrative Arbeitsabläufe im Gesundheitswesen – insbesondere die medizinische Kodierung – zu optimieren, indem sie innerhalb bestehender...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
+
 - **[Parallel Monitor API](https://www.aimyflow.com/de/ai/docs-parallel-ai-monitor-api-monitor-quickstart)**
   - Die Parallel Monitor API ist eine Web-Monitoring-API, die Entwicklern und technischen Teams hilft, Webänderungen mit geplanten Abfragen in natürlicher Sprache, Ereignisverlauf und Webhook-Benachrichtigungen...
   - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
@@ -7711,6 +8494,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 
 - **[Parker](https://www.aimyflow.com/de/ai/birthdayplannerai-com)**
   - Parker ist ein KI-gestützter Geburtstagsplaner, der Eltern bei der Planung von Kindergeburtstagen unterstützt, indem er per Chat thematische Konzepte, Checklisten, Budgets, Dienstleistervorschläge, RSVP-Verfolgung und...
+
+- **[Parley](https://www.aimyflow.com/de/ai/parley-so)**
+  - Parley ist eine KI-Plattform für Einwanderungsanwälte und Rechtsteams, die die durchgängige Bearbeitung von Visafällen unterstützt, einschließlich der Erstellung von Schriftsätzen und Schreiben, Recherche, Extraktion...
+  - *Passende Rollen:* Anwalt, Technischer Redakteur, Projektmanagement-Beauftragter
 
 - **[Parliant.AI](https://www.aimyflow.com/de/ai/parliant-ai)**
   - Parliant.AI ist eine KI-Umfrageplattform, die dialogorientierte, offene Kundenfeedback-Interviews durchführt und Teams dabei hilft, tiefere qualitative Erkenntnisse zu gewinnen und Antworten zu analysieren, vor allem...
@@ -7731,10 +8518,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Pathmaker](https://www.aimyflow.com/de/ai/pathmaker-app)**
   - Pathmaker ist eine personalisierte Lernplattform, die Menschen dabei hilft, Woche für Woche Lehrpläne mit kuratierten Ressourcen, Fortschrittsverfolgung, Kursnotizen und einem KI-Coach zu erstellen, vor allem für...
   - *Passende Rollen:* Berater für Bildungstechnologie, Hochschulprofessor, Online-Programmierlehrer, Lehrkraft +1 mehr
-
-- **[PathPilot](https://www.aimyflow.com/de/ai/getpathpilot-com)**
-  - PathPilot ist eine KI-Plattform für Kreditprozesse, die BNPL-Anbietern, Embedded-Lending-Teams, Kreditkarten-Fintechs und Inkassobüros dabei hilft, Onboarding, Kundensupport, Inkasso- und Compliance-Workflows zu...
-  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Finanzanalyst, Risikoanalyst +1 mehr
 
 - **[Patternaly](https://www.aimyflow.com/de/ai/patternaly-com)**
   - Patternaly ist ein KI-Mustergenerator, der Nutzern dabei hilft, nahtlose, kachelbare Muster aus Text-Prompts für Print-on-Demand-Produkte, Textilien, Verpackungen und Tapeten zu erstellen, hauptsächlich für Designer...
@@ -7780,10 +8563,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Pencil ist ein Design-to-Code-Tool, das Interface-Design-Workflows direkt in die IDE bringt und Entwicklern sowie Produktteams den schnelleren Weg von der Idee zur Umsetzung ermöglicht.
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Manager, Leiter Digitales Marketing +3 mehr
 
-- **[PencilArt.app](https://www.aimyflow.com/de/ai/pencilart-app)**
-  - PencilArt.app ist ein KI-Generator für Bleistiftzeichnungen, der Fotos in saubere, druckbare Bleistiftzeichnungen mit anpassbaren Stilen und Detaileinstellungen umwandelt, hauptsächlich für Kreative, die Porträts,...
-  - *Passende Rollen:* Grafikdesigner, Content Creator, Social-Media-Content-Creator, Texter +1 mehr
-
 - **[PeopleAlsoAsk.ai](https://www.aimyflow.com/de/ai/peoplealsoask-ai)**
   - PeopleAlsoAsk.ai ist ein KI-gestütztes SEO-Recherche-Tool, das „People Also Ask“-Fragen und dazugehörige Antworten generiert, um Content-Erstellern, Marketingfachleuten und SEO-Profis dabei zu helfen, herauszufinden,...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Technischer Redakteur +1 mehr
@@ -7795,6 +8574,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Peppertype.ai](https://www.aimyflow.com/de/ai/peppertype-ai)**
   - Peppertype.ai ist eine KI-gestützte Content- und Suchplattform, die Marketing- und Content-Teams dabei unterstützt, markenkonforme Inhalte mit Human-in-the-Loop-Workflows zu erstellen, zu optimieren, zu prüfen und zu...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Technischer Redakteur, Content Creator +1 mehr
+
+- **[Persana AI](https://www.aimyflow.com/de/ai/persana-ai)**
+  - Persana AI ist eine Plattform für Vertriebsprospektion und Go-to-Market-Automatisierung, die Teams dabei unterstützt, Leads zu finden und anzureichern, Signale zur Kaufabsicht zu verfolgen, die Ansprache zu...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
 
 - **[Perso AI](https://www.aimyflow.com/de/ai/perso-ai)**
   - Perso AI ist eine KI-Plattform für Synchronisation und Videolokalisierung, die Creators, Marketingfachleuten, Lehrkräften und Unternehmen dabei hilft, Videos und Audioinhalte mit Stimmenklonung, Lippensynchronisation,...
@@ -7836,9 +8619,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Phonk Maker ist ein KI-Musikgenerator, der Nutzern hilft, lizenzfreie Phonk-Tracks und Songtexte aus Text-Prompts zu erstellen, hauptsächlich für Content Creator, Videoeditoren, Streamer und Produzenten, die im...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Podcast-Produzent, Unabhängige/r Filmemacher/in +1 mehr
 
-- **[PhotoCat AI Image Extender](https://www.aimyflow.com/de/ai/photocat-com-image-extender)**
-  - PhotoCat AI Image Extender ist ein Online-Tool zum Entschneiden von Bildern, das generative KI nutzt, um Fotohintergründe zu erweitern, fehlende Ränder wiederherzustellen und Bilder auf natürliche Weise für Fotografen,...
-  - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, E-Commerce-Verkäufer, Content Creator
+- **[Phospho](https://www.aimyflow.com/de/ai/phospho-ai)**
+  - Phospho ist ein KI-Robotikunternehmen, das ein Open-Source-Toolkit, Hardware-Entwicklungskits und Cloud-Trainingstools bereitstellt, um Entwicklern und Robotikteams dabei zu helfen, intelligente Roboter zu bauen, zu...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Elektroingenieur, Maschinenbauingenieur/in +1 mehr
 
 - **[PhotodotAI](https://www.aimyflow.com/de/ai/photodot-ai)**
   - PhotodotAI ist ein webbasiertes KI-Fotobearbeitungstool, das Nutzern bei der Bearbeitung von Autofotos, Porträts und anderen Bildern hilft – mit Werkzeugen zum Entfernen von Hintergründen, zur Optimierung, zum...
@@ -7879,10 +8662,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[picAId](https://www.aimyflow.com/de/ai/picaid-app)**
   - picAId ist eine KI-Immobilienkamera-App und ein Fotoeditor, der Maklern dabei hilft, Immobilienfotos mit Funktionen wie virtuellem Homestaging, Dämmerungsumwandlung und Raumleerung professionell aussehen zu lassen. Für...
   - *Passende Rollen:* Immobilienmakler, Content Creator, Grafikdesigner
-
-- **[PicFixer AI Headshot Generator](https://www.aimyflow.com/de/ai/picfixer-ai-tools-ai-headshot-generator)**
-  - Der PicFixer AI Headshot Generator ist ein KI-Fototool, das lässige Selfies in professionelle Business-Porträts mit verbesserter Beleuchtung, Kleidung und Hintergründen verwandelt, vor allem für Fachkräfte, die Fotos...
-  - *Passende Rollen:* Talent-Acquisition-Manager, Außendienstleiter, Immobilienmakler, Content Creator +1 mehr
 
 - **[Pickle](https://www.aimyflow.com/de/ai/getpickle-ai)**
   - Pickle ist ein persönliches KI- und Erinnerungssystem, das alltägliche Momente, Handlungen und Lernprozesse in eine strukturierte Erinnerungsschicht verwandelt, damit KI Einzelpersonen im Alltag besser verstehen und...
@@ -7943,6 +8722,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - PicWish ist ein KI-Fotobearbeitungstool, mit dem Nutzer Hintergründe entfernen, Bilder schärfen und schnelle visuelle Bearbeitungen online durchführen können, besonders für Verkäufer und Marketer.
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Online-Programmierlehrer +11 mehr
 
+- **[Pier Finance](https://www.aimyflow.com/de/ai/pier-finance-com)**
+  - Pier Finance ist eine SaaS-Plattform mit entwicklerfreundlichen APIs und Low-Code-Tools, die Unternehmen dabei unterstützt, Kreditprodukte wie BNPL, Credit Builder, Merchant Advance und Privatkredite einzuführen oder...
+  - *Passende Rollen:* Softwareentwickler, Finanzanalyst, Projektmanagement-Beauftragter, CEO +1 mehr
+
 - **[Pika](https://www.aimyflow.com/de/ai/pika-art)**
   - Pika ist eine KI-Idee-zu-Video-Plattform, mit der Creator Konzepte in animierte Videos umsetzen können, ideal für Marketer, Storyteller und Social-Media-Teams.
   - *Passende Rollen:* Content Creator, Kunst- und Designfachkräfte, IT-Berufe, IT-Manager +1 mehr
@@ -7963,6 +8746,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Pinch ist eine Plattform für Sprachübersetzung in Echtzeit und KI-Video-Synchronisation, die Nutzern hilft, Videos, Podcasts, Audioinhalte und Live-Gespräche in 10 Sprachen zu übersetzen, vor allem für Content-Teams,...
   - *Passende Rollen:* Podcast-Produzent, Social-Media-Content-Creator, Softwareentwickler, Technischer Redakteur +1 mehr
 
+- **[Pincites](https://www.aimyflow.com/de/ai/pincites-com)**
+  - Pincites ist eine KI-gestützte Vertragsprüfungssuite für Microsoft Word, die Rechtsteams dabei unterstützt, Verträge mithilfe von Playbooks, Risikobewertungen und zitierten Vorschlägen zu prüfen, zu redigieren, zu...
+  - *Passende Rollen:* Anwalt, Projektmanagement-Beauftragter, Betriebschef
+
 - **[Ping](https://www.aimyflow.com/de/ai/ping-tm)**
   - Ping ist ein KI-gestützter Aufgabenmanager, der kleinen Teams und Einzelanwendern hilft, private und gemeinsame To-dos per Sprache, Fotos, E-Mail, Kalendern, Slack und Kanban-Boards zu erfassen, zu planen und...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Filialleiter, Softwareentwicklungsleiter +1 mehr
@@ -7975,6 +8762,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der Piooy AI Image Generator ist ein Online-Text-zu-Bild-Tool, das Kreativen und Teams dabei hilft, aus Prompts und Referenzbildern Bilder, Werbeplakate, Charakterdesigns, Produkt-Mock-ups, Infografiken und UI-Demos zu...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Content Creator, E-Commerce-Verkäufer +1 mehr
 
+- **[Pipeshift](https://www.aimyflow.com/de/ai/pipeshift-com)**
+  - Pipeshift ist eine Inferenzplattform, die Teams dabei unterstützt, Open-Source-, benutzerdefinierte und feinabgestimmte KI-Modelle in der Produktion mit Single-Tenant-Infrastruktur, Observability und SLA-basierter...
+  - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
+
 - **[Pipiads AI SaaS Ad Creative Center](https://www.aimyflow.com/de/ai/pipiads-com-ai-saas-business)**
   - Das Pipiads AI SaaS Ad Creative Center ist eine Werbeintelligenz-Bibliothek und ein Suchtool, das Nutzern hilft, Anzeigen für AI-SaaS, Websites und Apps auf TikTok, Facebook und Meta zu durchsuchen, zu verfolgen und zu...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, E-Commerce-Verkäufer +1 mehr
@@ -7986,6 +8777,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[PitchMeAI](https://www.aimyflow.com/de/ai/pitchmeai-com)**
   - PitchMeAI ist eine KI-gestützte Plattform für die Jobsuche und eine Chrome-Erweiterung, die Arbeitssuchenden dabei hilft, Lebensläufe anzupassen, E-Mails zur Ansprache von Recruitern zu erstellen, Kontakte von...
   - *Passende Rollen:* Talent-Acquisition-Manager, Texter, Projektmanagement-Beauftragter
+
+- **[Pivot Robotics](https://www.aimyflow.com/de/ai/pivotrobotics-com)**
+  - Pivot Robotics bietet autonome Fabrikautomatisierung für die Teilebearbeitung und -prüfung und nutzt Computer Vision, um Herstellern, Gießereien und Luft- und Raumfahrtteams dabei zu helfen, variable Teile mit...
+  - *Passende Rollen:* Produktionsleiter, Maschinenbauingenieur/in, Industriedesigner/in, Elektroingenieur +1 mehr
 
 - **[Pixalytica](https://www.aimyflow.com/de/ai/pixalytica-com)**
   - Pixalytica ist ein KI-basiertes KYC- und Identitätsprüfungstool, das Gesichtserkennung und öffentliche Webdaten nutzt, um Berichte über echte Namen, PEP-Status, Sanktionen, kriminelle Verbindungen und Risikosignale zu...
@@ -8115,6 +8910,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Podsuite ist ein KI-Tool für Podcast-Inhalte, das eine hochgeladene Episode in Transkripte, Shownotes, Kapitel, Clips, Blogbeiträge und Social-Media-Texte verwandelt, hauptsächlich für Podcaster, Marketer, Agenturen...
   - *Passende Rollen:* Podcast-Produzent, Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator +1 mehr
 
+- **[PointOne](https://www.aimyflow.com/de/ai/pointone-com)**
+  - PointOne ist eine KI-Plattform für Zeiterfassung, Abrechnungskonformität und Analysen, die juristische Arbeit passiv erfasst, abrechnungsregelkonforme Zeiteinträge erstellt und die Pre-Bill-Prüfung unterstützt, vor...
+  - *Passende Rollen:* Anwalt, Finanzanalyst, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
+- **[Poka Labs](https://www.aimyflow.com/de/ai/pokalabs-com)**
+  - Poka Labs ist eine KI-Plattform für kommerzielle Abläufe für industrielle B2B-Unternehmen, die Preis- und Vertriebsteams dabei unterstützt, belastbare Preise festzulegen, die Angebotserstellung aus unstrukturierten...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Betriebschef, Produktionsleiter +1 mehr
+
 - **[PokaMind](https://www.aimyflow.com/de/ai/app-pokamind-com)**
   - PokaMind ist eine KI-basierte Plattform für psychische Unterstützung, die Wissenschaft und künstliche Intelligenz nutzt, um psychische Unterstützung zugänglicher zu machen – vor allem für Menschen, die Hilfe suchen,...
   - *Passende Rollen:* Wellness-Coach, Manager Mitarbeiterbeziehungen, Gesundheitsadministrator, Schulberater
@@ -8139,13 +8942,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - PolyAI ist eine Conversational-AI-Plattform für Unternehmen zur Erstellung lebensechter Sprachagenten über Sprache, Chat und SMS hinweg. Sie unterstützt Kundenservice- und Contact-Center-Teams dabei, Kontoverwaltung,...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Gesundheitsadministrator, IT-Infrastrukturmanager/in +1 mehr
 
-- **[Polybuzz](https://www.aimyflow.com/de/ai/polybuzz-ai)**
-  - Polybuzz ist eine KI-Charakter-Chat- und Rollenspielplattform, mit der Nutzer mit KI-Charakteren sprechen, sie erstellen und anpassen können – hauptsächlich für Menschen, die Unterhaltung, fiktionale Gespräche und...
-  - *Passende Rollen:* Content Creator, Romanautor, Social-Media-Content-Creator, Texter
-
 - **[Polymer](https://www.aimyflow.com/de/ai/polymerhq-io)**
   - Polymer ist eine Laufzeit-Plattform für Datensicherheit, die Unternehmen dabei hilft, Sicherheitsrisiken in Echtzeit in KI- und SaaS-Workflows zu identifizieren, zu analysieren und zu minimieren, vor allem für...
   - *Passende Rollen:* Cybersicherheitsmanager, IT-Infrastrukturmanager/in, Cybersicherheitsanalyst, Gesundheitsadministrator +1 mehr
+
+- **[Polymet](https://www.aimyflow.com/de/ai/polymet-ai)**
+  - Polymet ist ein KI-gestütztes Produktdesign-Tool, das Produktteams dabei hilft, Seiten, Komponenten und Prototypen zu entwerfen und produktionsreifen Frontend-Code zu generieren, mit Unterstützung für die Einbindung...
+  - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
 
 - **[Ponzu.gg appears to be a category-based resource directory that](https://www.aimyflow.com/de/ai/ponzu-gg)**
   - Ponzu.gg scheint ein kategoriebasiertes Ressourcenverzeichnis zu sein, das Nutzern hilft, Themenlisten in Bereichen wie Automobil, Finanzen, Gesundheit, Shopping und Reisen zu durchsuchen, hauptsächlich für Personen,...
@@ -8185,10 +8988,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Posture AI: Reminder & Scale](https://www.aimyflow.com/de/ai/apps-apple-com-th-app-ai-posture-exercise-neckfit-id6670690205)**
   - Posture AI: Erinnerung & Skala ist eine Gesundheits- und Fitness-App, die KI-Haltungsscans, Erinnerungen und angeleitete Übungen für Nacken, Rücken und Schultern nutzt, um Menschen dabei zu helfen, ihre Haltung,...
   - *Passende Rollen:* Wellness-Coach, Spezialist für Arbeitsmedizin, Physiotherapie-Assistent, Gesundheitsadministrator
-
-- **[PostVisit.ai](https://www.aimyflow.com/de/ai/postvisit-ai)**
-  - PostVisit.ai ist ein KI-gestützter Begleiter nach dem Arztbesuch, der Patientinnen und Patienten dabei hilft, die Empfehlungen ihrer Ärztin oder ihres Arztes nach einem Termin zu verstehen, sich daran zu erinnern und...
-  - *Passende Rollen:* Gesundheitsadministrator, Hausarzt, Fachkraft für medizinische Abrechnung, Wellness-Coach
 
 - **[Potis.AI](https://www.aimyflow.com/de/ai/potis-ai)**
   - Potis.AI ist eine KI-Recruiting-Plattform, die wachsenden Teams dabei hilft, Kandidaten durch KI-gestütztes Video-Screening, Interview-Unterstützung und Verhaltensanalysen zu sichten, zu bewerten und zu beurteilen –...
@@ -8234,13 +9033,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - PreCheck ist eine KI-gestützte Plattform für Gesichtserkennung und Gesichtssuche, die Privatpersonen, Unternehmen, Ermittlern und Entwicklern dabei hilft, herauszufinden, wo ein Gesicht online erscheint, um den Schutz...
   - *Passende Rollen:* Cybersicherheitsanalyst, Anwalt, Softwareentwickler, Content Creator +1 mehr
 
+- **[Precip](https://www.aimyflow.com/de/ai/precip-ai)**
+  - Precip ist eine hyperlokale Plattform zur Niederschlagsverfolgung mit einer Regenmesser-App und einer historischen Wetter-API, die Nutzern hilft, Niederschlagsmengen und Standortbedingungen an bestimmten Orten ohne...
+  - *Passende Rollen:* Logistikplaner/in, Softwareentwickler, Data Engineer, Projektmanagement-Beauftragter +1 mehr
+
 - **[Predis.ai](https://www.aimyflow.com/de/ai/predis-ai)**
   - Predis.ai ist ein KI-Tool für Social-Media-Marketing, mit dem Nutzer Video- und Bildinhalte erstellen und die Performance analysieren können – ideal für Marketer, Agenturen und wachsende Marken. Es verkürzt Planung und...
   - *Passende Rollen:* Content Creator
-
-- **[Preflight Plus by Alison](https://www.aimyflow.com/de/ai/alison-ai-preflight-plus)**
-  - Preflight Plus von Alison ist ein KI-gestütztes Creative-Audit-Tool, das Kreativ- und Medienteams dabei unterstützt, Videoanzeigen vor dem Launch anhand der Best-Practice-Frameworks von Google, Meta und LinkedIn zu...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Grafikdesigner, Content Creator +1 mehr
 
 - **[PrepAI](https://www.aimyflow.com/de/ai/prepai-in-us)**
   - PrepAI ist eine KI-gestützte Bewertungsplattform, die Lehrkräften und Bildungseinrichtungen dabei hilft, Quizze und Tests zu erstellen, Arbeiten zu benoten und die Leistungen von Studierenden effizienter zu verfolgen,...
@@ -8253,10 +9052,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Pretty Scale Test](https://www.aimyflow.com/de/ai/testdebelleza-com-en)**
   - Pretty Scale Test ist ein Online-Tool zur KI-gestützten Schönheitsanalyse, mit dem Nutzer ein Foto hochladen können, um sofort eine Gesichtsbewertung und eine Aufschlüsselung der Gesichtsmerkmale zu erhalten. Es...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Grafikdesigner
-
-- **[Preuve AI](https://www.aimyflow.com/de/ai/testyouridea-app)**
-  - Preuve AI ist ein Tool zur Validierung von KI-Startup-Ideen, das über 40 Live-Quellen scannt, um Wettbewerber, Nachfragesignale, blinde Flecken und Tragfähigkeitsbewertungen zu analysieren – vor allem für Gründer, die...
-  - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Leiter Digitales Marketing, Softwareentwicklungsleiter +1 mehr
 
 - **[Prezi](https://www.aimyflow.com/de/ai/prezi-com)**
   - Prezi ist eine Präsentationsplattform mit KI-Funktionen, mit der Nutzer schnell ansprechende und interaktive Präsentationen erstellen können – ideal für Business-Profis, Lehrkräfte und Vertriebsteams. Sie hilft, Ideen...
@@ -8304,18 +9099,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Procys](https://www.aimyflow.com/de/ai/procys-com)**
   - Procys ist eine KI-gestützte Plattform zur Dokumentenverarbeitung, die Daten aus Rechnungen, Bestellungen, Belegen, Ausweisen und anderen Geschäftsdokumenten extrahiert, hauptsächlich für Buchhaltungsteams,...
   - *Passende Rollen:* Wirtschaftsprüfer, Finanzanalyst, Logistikplaner/in, Fachkraft für medizinische Abrechnung +1 mehr
-
-- **[Producer.ai](https://www.aimyflow.com/de/ai/riffusion-com)**
-  - Producer.ai ist eine KI-Musikproduktionsplattform, die Musikerinnen und Musikern, Produzentinnen und Produzenten sowie Kreativen dabei hilft, aus einfachen Eingaben Songs in Studioqualität, Musikvideos und Audiotools...
-  - *Passende Rollen:* Content Creator, Musikliebhaber, Social-Media-Content-Creator, Texter +1 mehr
-
-- **[Product Hunt](https://www.aimyflow.com/de/ai/producthunt-com)**
-  - Product Hunt ist eine Plattform zur Produktentdeckung, mit der Nutzer neue Technologieprodukte finden, teilen und diskutieren können – ideal für Gründer, Maker, Investoren und Early Adopters. Sie bietet Produktteams...
-  - *Passende Rollen:* Leiter Digitales Marketing, Marketing- und Vertriebsmanager, Spezialisten für Geschäftsabläufe, Softwareentwicklungsleiter +5 mehr
-
-- **[ProductAI](https://www.aimyflow.com/de/ai/productai-photo)**
-  - ProductAI ist ein KI-Tool für Produktfotografie, mit dem Nutzer aus Uploads und Vorlagen professionelle Produktbilder generieren können – ideal für E-Commerce-Marken, Marktplätze und Online-Händler. Es senkt Zeit- und...
-  - *Passende Rollen:* E-Commerce-Verkäufer
 
 - **[ProductDescriber](https://www.aimyflow.com/de/ai/productdescriber-com)**
   - ProductDescriber ist ein KI-Schreibtool, mit dem Nutzer schnell Produktbeschreibungen erstellen können – ideal für E-Commerce-Händler, Katalogmanager und Digital-Marketer. Es vereinfacht repetitive Texterstellung,...
@@ -8377,6 +9160,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Prompt Engine ist ein KI-Tool zur Generierung und Optimierung von Prompts, das Nutzern hilft, Ideen in Alltagssprache in wirkungsvollere Prompts zu verwandeln, bestehende Prompts zu verbessern und die Prompt-Historie...
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Technischer Redakteur, Content Creator +1 mehr
 
+- **[PromptArmor](https://www.aimyflow.com/de/ai/promptarmor-com)**
+  - PromptArmor ist eine KI-Plattform für Drittparteirisiken, die Unternehmen dabei unterstützt, die KI-Nutzung von Anbietern sowie damit verbundene Sicherheits-, Datenschutz- und Compliance-Risiken zu identifizieren, zu...
+  - *Passende Rollen:* Cybersicherheitsmanager, Risikoanalyst, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Promptchan](https://www.aimyflow.com/de/ai/promptchan-com)**
   - Promptchan ist eine KI-Plattform zum Erstellen und Chatten mit anpassbaren virtuellen Begleitern sowie zum Generieren von KI-Bildern und -Videos, hauptsächlich für Erwachsene, die ungefilterte Charaktererstellung und...
   - *Passende Rollen:* Content Creator, Grafikdesigner, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
@@ -8421,9 +9208,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Prosetta ist ein KI-Workspace zum Schreiben, Bearbeiten, Organisieren und Veröffentlichen von Dokumenten, Bildern und Videos in einem kollaborativen Wissenssystem, das sich vor allem an Teams, Kreative und Entwickler...
   - *Passende Rollen:* Technischer Redakteur, Softwareentwicklungsleiter, Softwareentwickler, Content Creator +1 mehr
 
+- **[Prosights](https://www.aimyflow.com/de/ai/prosights-co)**
+  - Prosights ist eine KI-Plattform zur Finanzautomatisierung, die unstrukturierte Daten extrahiert und in strukturierte Ausgaben wie Excel, JSON und Datenbanken organisiert, hauptsächlich für Finanzteams, Buchhalter,...
+  - *Passende Rollen:* Finanzanalyst, Wirtschaftsprüfer, Data Scientist, Immobilienmakler +1 mehr
+
 - **[ProspectFlow](https://www.aimyflow.com/de/ai/prospectflow-dev)**
   - ProspectFlow ist eine KI-Plattform zur Leadgenerierung und Website-Erstellung, die Freelancern, Agenturen und anderen Teams für die Outbound-Akquise dabei hilft, lokale Unternehmensnamen und Städte in...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Content Creator +1 mehr
+
+- **[Prosper AI](https://www.aimyflow.com/de/ai/getprosper-ai)**
+  - Prosper AI ist eine auf das Gesundheitswesen ausgerichtete KI-Sprachagentenplattform, die telefonische Workflows für Patientenzugang und Revenue Cycle automatisiert, wie Terminvereinbarung, Leistungsprüfung,...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Betriebschef, Projektmanagement-Beauftragter
 
 - **[ProteinQure](https://www.aimyflow.com/de/ai/proteinqure-com)**
   - ProteinQure ist ein Biotechnologieunternehmen im klinischen Stadium, das mit seiner KI-gestützten ProteinStudio-Plattform neuartige peptidbasierte Therapeutika und gewebespezifische Verabreichungssysteme entwickelt,...
@@ -8457,6 +9252,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Pylar ist eine Plattform für kontrollierten Datenzugriff, mit der Nutzer KI-Agenten sicheren Zugriff auf strukturierte Daten über gesteuerte SQL-Views und MCP-Tools geben können – ideal für Daten- und...
   - *Passende Rollen:* Softwareentwicklungsleiter, Cybersicherheitsmanager, IT-Infrastrukturmanager/in, Data Engineer +4 mehr
 
+- **[Pylon](https://www.aimyflow.com/de/ai/usepylon-com)**
+  - KI-native Support-Plattform für B2B-Unternehmen. Ein Tool für Ihr Ticketing, Ihren Chat, Ihre Wissensdatenbank, KI-Support, Account Intelligence und mehr.
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Betriebschef, CEO
+
+- **[Pythagora](https://www.aimyflow.com/de/ai/pythagora-ai)**
+  - Pythagora ist eine KI-Entwicklungsplattform und ein Coding-Teamkollege für VS Code/Cursor, der Entwickler und technische Teams dabei unterstützt, Full-Stack-Web-Apps und interne Tools zu entwickeln, zu debuggen,...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
+
 - **[Qoder](https://www.aimyflow.com/de/ai/qoder-com)**
   - Qoder ist eine agentische Coding-Plattform, mit der Entwickler Codebasen verstehen und Softwareaufgaben mit KI-Agenten ausführen können – ideal für professionelle Softwareentwickler und Entwicklungsteams. Sie steigert...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, Cybersicherheitsmanager +14 mehr
@@ -8489,6 +9292,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Question AI ist ein kostenloser Online-KI-Hausaufgabenhelfer, mit dem Schüler Fotos hochladen oder Fragen eingeben können, um schrittweise Lösungen in Mathematik, Naturwissenschaften, Literatur, Geschichte,...
   - *Passende Rollen:* Online-Programmierlehrer, Nachhilfelehrer für Testvorbereitung, Berater für Bildungstechnologie, Lehrkraft
 
+- **[Quetzal](https://www.aimyflow.com/de/ai/getquetzal-com)**
+  - Quetzal ist eine Internationalisierungsplattform, die Entwicklern und Produktteams hilft, Webprodukte mit KI-gestützter Übersetzung, String-Erkennung zur Build-Zeit und einem Dashboard zur Verwaltung von...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, Projektmanagement-Beauftragter +1 mehr
+
 - **[QuickCEP](https://www.aimyflow.com/de/ai/quickcep-com)**
   - QuickCEP ist eine KI-Chatbot-Plattform für Shopify-Shops, mit der Händler Kundensupport automatisieren und Verkäufe steigern können – ideal für E-Commerce-Unternehmen und Support-Teams. Sie ermöglicht sofortige...
   - *Passende Rollen:* E-Commerce-Verkäufer
@@ -8508,6 +9315,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Quicklogo](https://www.aimyflow.com/de/ai/quicklogo-design)**
   - Quicklogo ist ein KI-Logo-Generator, der Nutzern hilft, in Sekundenschnelle professionelle Logo-Optionen aus einer einfachen Eingabe zu erstellen, vor allem für Marken, Start-ups, Unternehmen und Personen ohne...
   - *Passende Rollen:* Grafikdesigner, CEO, Leiter Digitales Marketing, Content Creator +1 mehr
+
+- **[Quill Bills](https://www.aimyflow.com/de/ai/quillbills-com)**
+  - Quill Bills ist ein KI-natives Praxismanagement- und Revenue-Cycle-Management-System, das medizinische Abrechnungsaufgaben wie Kodierung, Berechtigungsprüfungen, die Einreichung von Leistungsanträgen,...
+  - *Passende Rollen:* Fachkraft für medizinische Abrechnung, Gesundheitsadministrator
 
 - **[Quillz](https://www.aimyflow.com/de/ai/quillz-co)**
   - Quillz ist ein KI-Schreibassistent für Studierende, der ihnen hilft, Aufgabenstellungen und grobe Ideen Abschnitt für Abschnitt in strukturierte, kontextbezogene Entwürfe zu verwandeln und dabei ihre eigene...
@@ -8533,14 +9344,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Qwen ist ein multimodaler KI-Assistent und eine API-Plattform, die Nutzern dabei hilft, zu chatten, im Web zu suchen, Dokumente zu verarbeiten, Bilder und Videos zu verstehen, Bilder und Videos zu generieren und die...
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Technischer Redakteur, Content Creator +1 mehr
 
-- **[Qwen Code](https://www.aimyflow.com/de/ai/github-com-QwenLM-qwen-code)**
-  - Qwen Code ist ein Open-Source-KI-Agent für das Terminal, der Entwicklern hilft, große Codebasen zu verstehen, sich wiederholende Programmieraufgaben zu automatisieren und Code zu refaktorieren oder zu testen, mit...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, IT-Infrastrukturmanager/in
-
-- **[Qwen3-Coder](https://www.aimyflow.com/de/ai/github-com-QwenLM-Qwen3-Coder)**
-  - Qwen3-Coder ist eine Open-Weight-Serie von Coding-Sprachmodellen des Qwen-Teams, die Entwickler dabei unterstützt, Code in vielen Programmiersprachen zu erzeugen, zu verstehen und damit zu arbeiten, mit Versionen, die...
-  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer
-
 - **[Rabbithole](https://www.aimyflow.com/de/ai/rabbithole-chat)**
   - Rabbithole ist ein chatbasiertes Frage- und Konversationstool, das Nutzern hilft, ihre eigenen Fragen zu stellen, einen Verlauf von Diskussionen zu speichern und später darauf zurückzukommen – vor allem für neugierige...
   - *Passende Rollen:* Lehrkraft, Technischer Redakteur, Hochschulprofessor, Content Creator +1 mehr
@@ -8556,10 +9359,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[RADiCAL](https://www.aimyflow.com/de/ai/radicalmotion-com)**
   - RADiCAL ist eine browserbasierte KI-3D-Erstellungsplattform, die Nutzern hilft, Bewegungen zu erfassen, Charaktere zu animieren, Szenen zu erstellen und in Echtzeit zusammenzuarbeiten, hauptsächlich für Storyteller,...
   - *Passende Rollen:* Unabhängige/r Filmemacher/in, Grafikdesigner, Content Creator, Hochschulprofessor +1 mehr
-
-- **[Radily](https://www.aimyflow.com/de/ai/radily-ai)**
-  - Radily ist ein HIPAA-konformes KI-Tool, das CT-, MRT- und Röntgenbefunde in einfacher Sprache erklärt – mit optionalen Videozusammenfassungen und vorgeschlagenen Rückfragen – und sich hauptsächlich an Patienten...
-  - *Passende Rollen:* Gesundheitsadministrator, Hausarzt, Kinderarzt, Kardiologe +1 mehr
 
 - **[Raghim AI](https://www.aimyflow.com/de/ai/raghim-com)**
   - Raghim AI ist eine KI-Chatbot-Plattform für Unternehmen, die Organisationen dabei unterstützt, selbst gehostete oder verwaltete Chatbots für Dokumenten-Q&A, Datenbankabfragen in natürlicher Sprache und Kundensupport...
@@ -8585,6 +9384,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Rank++ ist eine Plattform zur Optimierung der KI-Sichtbarkeit mit neun AEO-Tools, die Gründern, Indie Hackern und Solopreneuren helfen, Websites zu prüfen, Schema-Markup und Zitate hinzuzufügen, Inhalte zu optimieren...
   - *Passende Rollen:* Leiter Digitales Marketing, CEO, Texter, Content Creator +1 mehr
 
+- **[RankAI](https://www.aimyflow.com/de/ai/rankai-ai)**
+  - RankAI ist eine KI-native SEO/GEO-Agenturplattform, die Keyword-Recherche, Content-Erstellung, technische Optimierung, AI-Search-Optimierung und Überarbeitungen autonom übernimmt, um Unternehmen – insbesondere...
+  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Content Creator, Texter +1 mehr
+
 - **[RankBot](https://www.aimyflow.com/de/ai/rankbot-ai)**
   - RankBot ist ein KI-SEO-Tool, das den Aufbau von Backlinks und On-Page-SEO-Aufgaben automatisiert, um Websites dabei zu helfen, ihre Sichtbarkeit in Suchmaschinen zu verbessern, hauptsächlich für Marketer, SEO-Teams und...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO
@@ -8605,9 +9408,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - RapidNative ist ein KI-nativer Builder für mobile Apps, der Prompts, Skizzen, Bilder und PRDs in teilbare Apps und exportierbaren React-Native-Code umwandelt, hauptsächlich für Produktteams wie Gründer, Produktmanager,...
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Grafikdesigner, CEO +1 mehr
 
+- **[Rastro](https://www.aimyflow.com/de/ai/rastro-ai)**
+  - Rastro ist eine KI-Plattform für Katalogprozesse, die Distributoren dabei unterstützt, Produktdaten anzureichern, Inhaltslücken zu schließen, Preise zu vergleichen und Produkte schneller auf den Markt zu bringen,...
+  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, E-Commerce-Verkäufer, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
 - **[rct AI](https://www.aimyflow.com/de/ai/rct-ai)**
   - Bereitstellung von KI-Lösungen für die Spieleindustrie
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, Unabhängige/r Filmemacher/in, Content Creator +1 mehr
+
+- **[Re.fit](https://www.aimyflow.com/de/ai/rex-fit)**
+  - Re.fit bietet The DROP, ein KI-gestütztes Wearable zur Ernährungsprotokollierung und einen WhatsApp-basierten Coach, der Patient:innen, Athlet:innen und gesundheitsbewussten Nutzer:innen dabei hilft, Mahlzeiten,...
+  - *Passende Rollen:* Wellness-Coach, Gesundheitsadministrator, Profisportler, Food-Enthusiast +1 mehr
 
 - **[Reacher](https://www.aimyflow.com/de/ai/reacherapp-com)**
   - Reacher ist eine KI-Plattform für TikTok-Shop-Marken und -Agenturen, die Teams dabei unterstützt, Nischen-Creator zu entdecken, Affiliate-Outreach zu automatisieren, Creator-Beziehungen zu verwalten und die...
@@ -8628,6 +9439,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Readdy](https://www.aimyflow.com/de/ai/readdy-ai)**
   - Readdy ist ein No-Code-KI-Website-Builder, der Nutzern hilft, responsive Websites aus Prompts, Vorlagen, Bildern oder Referenz-URLs zu generieren, zu bearbeiten und zu veröffentlichen, vor allem für kleine Unternehmen,...
   - *Passende Rollen:* Leiter Digitales Marketing, Grafikdesigner, CEO, Content Creator +1 mehr
+
+- **[Readily](https://www.aimyflow.com/de/ai/readily-co)**
+  - Readily ist eine KI-gestützte Plattform für Healthcare-Compliance, die regulatorische Recherche, Gap-Analysen, Dokumentenprüfung und Audit-Vorbereitung für Compliance-Beauftragte, Regulatory-Affairs-Teams und andere...
+  - *Passende Rollen:* Gesundheitsadministrator, Spezialist für Arbeitsmedizin, Projektmanagement-Beauftragter
 
 - **[Readkidz](https://www.aimyflow.com/de/ai/readkidz-com)**
   - Readkidz ist eine KI-gestützte Plattform zur Erstellung von Kinderinhalten, die Nutzern dabei hilft, E-Bilderbücher, Story-Videos, Buchreihen und Inhalte für die Gute-Nacht-Zeit zu erstellen und anzupassen, vor allem...
@@ -8697,10 +9512,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Recruit CRM ist ein KI-gestütztes Bewerbermanagementsystem und CRM, das Personalvermittlungsagenturen dabei unterstützt, Kandidaten, Kunden, Sourcing, Ansprache und Einstellungsprozesse auf einer einzigen Plattform zu...
   - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, CEO, Betriebschef
 
-- **[Redapto](https://www.aimyflow.com/de/ai/redapto-com)**
-  - Redapto ist eine wegweisende Intelligence-Plattform für GTM-Teams, die dabei hilft, Kundendaten, Ereignisse und Kennzahlen zu vereinheitlichen, Workflows über verschiedene Anbieter hinweg zu orchestrieren und...
-  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Betriebschef, Projektmanagement-Beauftragter +1 mehr
-
 - **[Redesignr.ai](https://www.aimyflow.com/de/ai/redesignr-ai)**
   - Redesignr.ai ist ein KI-Tool zur Neugestaltung von Websites, das Nutzern hilft, veraltete Websites in moderne, mobil-responsive Designs mit bearbeitbaren Varianten und exportierbarem Code umzuwandeln, vor allem für...
   - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Leiter Digitales Marketing, Texter +1 mehr
@@ -8719,6 +9530,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Redreach](https://www.aimyflow.com/de/ai/redreach-ai)**
   - Redreach ist ein KI-gestütztes Reddit-Tool für Lead-Generierung und Marketing, das Unternehmen, insbesondere SaaS-Gründern und Marketern, dabei hilft, relevante Reddit-Konversationen mit hoher Kaufabsicht zu finden,...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, CEO, Content Creator
+
+- **[Reducto](https://www.aimyflow.com/de/ai/reducto-ai)**
+  - Reducto ist eine KI-Plattform zur Dokumentenverarbeitung und -extraktion, die Teams dabei hilft, unstrukturierte Dateien wie PDFs, Tabellenkalkulationen, Präsentationsfolien, Bilder und Formulare über APIs in...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter
 
 - **[Reedle](https://www.aimyflow.com/de/ai/reedle-iopho-com)**
   - Reedle ist eine KI-Lese-App zum Speichern, Lesen und Verstehen von Artikeln, PDFs und Videos mit Chat, Zusammenfassungen, Übersetzungen und FSRS-Karteikartenwiederholung, vor allem für Forschende, Studierende und...
@@ -8744,6 +9559,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Reflect Webchat ist eine Chrome-Erweiterung, die Webseiten eine KI-Chat-Oberfläche hinzufügt und Nutzerinnen und Nutzern dabei hilft, lange Artikel und YouTube-Videos anhand des Seitenkontexts und von Transkripten zu...
   - *Passende Rollen:* Technischer Redakteur, Data Scientist, Finanzanalyst, Texter +1 mehr
 
+- **[Reflex](https://www.aimyflow.com/de/ai/reflex-dev)**
+  - Reflex ist eine einheitliche Plattform zum Erstellen und Skalieren von Enterprise-Web-Apps und internen Tools mit KI-gestützter Codegenerierung, reiner Python-Entwicklung und flexibler Cloud- oder...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Refly.ai](https://www.aimyflow.com/de/ai/refly-ai)**
   - Refly.ai ist eine No-Code-KI-Workflow-Plattform, die nicht-technischen Creators dabei hilft, Aufgaben-Workflows mit natürlicher Sprache, einer visuellen Arbeitsfläche und Vorlagen zu erstellen, zu automatisieren, zu...
   - *Passende Rollen:* Content Creator, Projektmanagement-Beauftragter, Leiter Digitales Marketing, Finanzanalyst +1 mehr
@@ -8751,10 +9570,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Refont](https://www.aimyflow.com/de/ai/refont-ai)**
   - Refont ist ein KI-Schrift- und Designgenerator, der Nutzern hilft, bildbasierte Kalligrafie, Signaturen, Handschriftstile, Logos, Tattoo-Schriftzüge und Poster zu erstellen, vor allem für Kreative, Studierende,...
   - *Passende Rollen:* Grafikdesigner, Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator +1 mehr
-
-- **[Regie.ai](https://www.aimyflow.com/de/ai/regie-ai)**
-  - Regie.ai ist eine KI-gestützte Sales-Engagement-Plattform, die modernen Go-to-Market-Teams hilft, Outbound-Prospecting, personalisierte Ansprache, Telefonie, Sequenzierung und Reporting in einem Workflow zu...
-  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Betriebschef +1 mehr
 
 - **[Regression Games](https://www.aimyflow.com/de/ai/regression-gg)**
   - Regression Games ist eine KI-Agenten-Testplattform für Unity, die Teams dabei unterstützt, automatisierte End-to-End-Spiel-QA-Tests mit Werkzeugen wie intelligenter Aufzeichnung, OCR, Bot-Sequenzen und explorativen...
@@ -8775,6 +9590,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[relayed.ai](https://www.aimyflow.com/de/ai/relayed-ai)**
   - relayed.ai ist eine Landingpage für einen Domain-Marktplatz, die Menschen dabei unterstützt, den Kauf oder das Leasing der Domain relayed.ai anzufragen, vor allem für potenzielle Domain-Käufer und Unternehmen, die eine...
   - *Passende Rollen:* CEO, Leiter Digitales Marketing, Immobilienmakler, Betriebschef +1 mehr
+
+- **[Remade](https://www.aimyflow.com/de/ai/remade-ai)**
+  - Remade ist eine KI-native Leinwand für kreative Workflows, die Kreativteams dabei unterstützt, visuelle Inhalte in einem Arbeitsbereich zu erstellen und zu bearbeiten – mithilfe von Bild-, Video- und Sprachmodellen...
+  - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Grafikdesigner, Texter +1 mehr
 
 - **[Remake Face AI](https://www.aimyflow.com/de/ai/remakeface-ai)**
   - Remake Face AI ist ein Online-Tool für KI-Gesichtstausch und Bildbearbeitung, das Nutzern hilft, Gesichter in Fotos und Videos zu ersetzen, Porträts anzupassen und Bilder anhand von Textanweisungen zu transformieren,...
@@ -8908,6 +9727,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ResolveAI ist eine No-Code-Plattform zum Erstellen benutzerdefinierter KI-Chatbots, die auf Ihren Website-Seiten, Dokumenten und anderen Datenquellen trainiert werden, hauptsächlich für Unternehmen, die Kundensupport,...
   - *Passende Rollen:* Softwareentwicklungsleiter, Leiter Digitales Marketing, Außendienstleiter, Projektmanagement-Beauftragter +1 mehr
 
+- **[Resonance](https://www.aimyflow.com/de/ai/useresonance-com)**
+  - Resonance ist ein No-Code-Add-on für Marketing-Kommunikationstools, das KI nutzt, um Inhalte mit nutzerspezifischem, momentbasiertem Messaging und Kampagnenvarianten in großem Maßstab zu personalisieren, vor allem für...
+  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Social-Media-Content-Creator, Content Creator +1 mehr
+
+- **[Respaid](https://www.aimyflow.com/de/ai/respaid-com)**
+  - Respaid ist ein KI-gestütztes Tool für das Forderungsmanagement, das Finanzteams dabei unterstützt, überfällige Rechnungen durch respektvolle Ansprache über mehrere Kanäle hinweg einzutreiben, vor allem für CFOs,...
+  - *Passende Rollen:* Finanzchef, Finanzanalyst, Wirtschaftsprüfer, Betriebschef
+
 - **[Respan](https://www.aimyflow.com/de/ai/respan-ai)**
   - Respan ist eine LLM-Engineering-Plattform, die KI-Teams dabei unterstützt, Agentenverhalten und KI-Anwendungen nachzuverfolgen, zu evaluieren, zu optimieren, bereitzustellen und zu überwachen, insbesondere für...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Data Engineer +1 mehr
@@ -8935,13 +9762,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Retail Media IQ ist eine KI-gestützte Werbeplattform für Retail Media, die Marken, Verkäufer:innen, Agenturen und Walmart-Werbetreibenden dabei hilft, Kampagnen über Retail-Media-Netzwerke hinweg an einem Ort zu...
   - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, E-Commerce-Verkäufer, Außendienstleiter +1 mehr
 
+- **[RetailReady](https://www.aimyflow.com/de/ai/retailreadyai-com)**
+  - RetailReady ist eine Plattform für Supply-Chain-Compliance, die Marken und 3PL-Lagerteams dabei unterstützt, Versandanforderungen von Einzelhändlern zu verwalten, Workflows wie EDI und ASN zu automatisieren und...
+  - *Passende Rollen:* Logistikplaner/in, Produktionsleiter, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
 - **[Retainr](https://www.aimyflow.com/de/ai/retainr-io)**
   - Retainr ist eine All-in-one-Plattform für Kundenmanagement, mit der Freelancer und Agenturen Services, Anfragen und Delivery-Workflows verwalten können – ideal für Dienstleistungsunternehmen mit mehreren Kunden. Sie...
   - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Leadership-Coach für Unternehmen, Berater für Bildungstechnologie +18 mehr
 
-- **[Revenowl](https://www.aimyflow.com/de/ai/revenowl-com)**
-  - Revenowl ist ein KI-gestütztes Tool für Umsatzanalysen und Business Intelligence, das Stripe-, GitHub- und Analysedaten verbindet, um wachsenden Unternehmen dabei zu helfen, die Umsatzentwicklung zu verfolgen, Muster...
-  - *Passende Rollen:* Finanzchef, Manager Finanzplanung & Analyse, Finanzanalyst, CEO +1 mehr
+- **[RetroFix](https://www.aimyflow.com/de/ai/retrofix-ai)**
+  - RetroFix ist eine KI-Plattform zur Workflow-Automatisierung, mit der Nutzer Geschäfts- und Browser-Automatisierungsaufgaben in einfachem Englisch beschreiben können. Anschließend schreibt, testet und überwacht sie...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in, Betriebschef, Leiter Digitales Marketing +1 mehr
 
 - **[Revenue Scaler](https://www.aimyflow.com/de/ai/revenuescaler-com)**
   - Revenue Scaler ist eine KI-gestützte E-Commerce-Analyse- und Intelligence-Plattform, die Marken und Verkäufern dabei hilft, Marktanteile, Preise, Anzeigen, Lagerbestände und Wettbewerbsaktivitäten auf den wichtigsten...
@@ -8962,6 +9793,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Rewebly](https://www.aimyflow.com/de/ai/rewebly-com)**
   - Rewebly ist ein KI-Tool für die Neugestaltung von Websites, das Unternehmern hilft, schnell eine moderne neue Version einer bestehenden Website zu erstellen, anzupassen und herunterzuladen – ganz ohne Programmier- oder...
   - *Passende Rollen:* Leiter Digitales Marketing, Grafikdesigner, CEO, Content Creator +1 mehr
+
+- **[Reworkd](https://www.aimyflow.com/de/ai/reworkd-ai)**
+  - Reworkd ist eine End-to-End-Web-Scraping-Plattform, die Teams dabei unterstützt, Website-Daten in großem Umfang zu extrahieren und zu überwachen, ohne programmieren oder eine Extraktionsinfrastruktur warten zu müssen,...
+  - *Passende Rollen:* Data Engineer, Data Scientist, Logistikplaner/in, Softwareentwickler +1 mehr
 
 - **[Rezi](https://www.aimyflow.com/de/ai/rezi-ai)**
   - Rezi ist ein KI-Lebenslauf-Builder, der Arbeitssuchenden hilft, ATS-freundliche Lebensläufe, Anschreiben und maßgeschneiderte Bewerbungsunterlagen zu erstellen – mit Tools für Keyword-Targeting, Texterstellung,...
@@ -8986,6 +9821,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Rippling](https://www.aimyflow.com/de/ai/rippling-com)**
   - Rippling ist eine Workforce-Management-Plattform, die HR-, IT- und Finanzprozesse in einem System vereint, damit Unternehmen Mitarbeiter, Geräte, Gehaltsabrechnung und Compliance zentral verwalten können – besonders...
   - *Passende Rollen:* Personalmanager, IT-Infrastrukturmanager/in, Finanzmanager, Beschaffungsspezialist +6 mehr
+
+- **[Risotto](https://www.aimyflow.com/de/ai/tryrisotto-com)**
+  - Risotto ist eine KI-gestützte Helpdesk- und Ticketing-Automatisierungsplattform, die IT-Teams dabei hilft, internen Support, Zugriffsanfragen und abteilungsübergreifende Workflows in Tools wie Slack zu automatisieren....
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Cybersicherheitsmanager, Manager Mitarbeiterbeziehungen, Manager Finanzplanung & Analyse +1 mehr
 
 - **[Riverflow](https://www.aimyflow.com/de/ai/riverflow-ai)**
   - Riverflow ist ein KI-Kreativtool, das Teams dabei unterstützt, markenkonforme Visuals und Kampagnen-Assets für Social Ads, E-Commerce-Bilder und redaktionelle Inhalte zu erstellen, vor allem für Konsumgütermarken in...
@@ -9015,6 +9854,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - RNWY ist eine On-Chain-Vertrauens- und Identitätsplattform, die Krypto-Wallets und KI-Agenten bewertet und Nutzern hilft, Eigentumshistorie, Reputationssignale, Betrugsmuster und soulbound Identität zu verifizieren,...
   - *Passende Rollen:* Risikoanalyst, Cybersicherheitsanalyst, CEO, Betriebschef +1 mehr
 
+- **[Roame](https://www.aimyflow.com/de/ai/roame-travel)**
+  - Roame ist ein kostenloses Tool für die Suche nach Prämienflügen und Benachrichtigungen, das Nutzern hilft, mit Kreditkartenpunkten buchbare Flüge über Airline-Treueprogramme hinweg zu finden und zu verfolgen, vor allem...
+
 - **[Roark](https://www.aimyflow.com/de/ai/roark-ai)**
   - Roark ist eine Voice-AI-Test- und QA-Plattform, die Teams dabei unterstützt, Live-Anrufe zu überwachen, Simulationen durchzuführen, die Leistung zu bewerten und Fehler in wiederholbare Tests zu überführen –...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
@@ -9035,9 +9877,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Rocket.new ist ein KI-gestützter No-Code-App-Builder, der Eingaben in natürlicher Sprache in produktionsreife Web- und Mobile-Apps mit Backend-Einrichtung, Integrationen, Vorlagen und Deployment-Tools umwandelt, vor...
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, CEO, Projektmanagement-Beauftragter +1 mehr
 
+- **[Rocketeer](https://www.aimyflow.com/de/ai/rocketeer-build)**
+  - Rocketeer ist ein KI-Orchestrator für GTM-Engineering, der Ansichten, Workflows und integrierte Fähigkeiten auf Claude Code und Codex aufsetzt, um GTM-Ingenieuren, RevOps-Teams, Growth Operators und Gründern dabei zu...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, CEO, Projektmanagement-Beauftragter +1 mehr
+
+- **[Rohan Mehta](https://www.aimyflow.com/de/ai/rohanmehta-com)**
+  - Rohan Mehta ist eine persönliche Website eines in New York ansässigen Softwareingenieurs bei OpenAI, die seinen Hintergrund bei Meta und als von YC unterstützter Startup-Gründer darstellt und seine Rolle als Entwickler...
+  - *Passende Rollen:* Softwareentwickler, CEO, Content Creator
+
 - **[Rolemantic AI](https://www.aimyflow.com/de/ai/rolemantic-ai)**
   - Rolemantic AI ist eine KI-Chatbot-Plattform für erwachsene Nutzer, auf der sie mit NSFW-KI-Charakteren chatten, eigene Charaktere erstellen, KI-Kunst generieren und unzensiertes Rollenspiel sowie Sexting betreiben...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Grafikdesigner, Texter
+
+- **[Rollstack](https://www.aimyflow.com/de/ai/rollstack-com)**
+  - Rollstack ist ein Tool zur Automatisierung von Berichten, das BI- und Analysedaten mit Foliensätzen, Dokumenten und E-Mails verbindet und so Daten-, Finanz-, Operations-, Customer-Success- und Marketing-Teams dabei...
+  - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Leiter Digitales Marketing, Softwareentwickler +1 mehr
 
 - **[Rolly](https://www.aimyflow.com/de/ai/rollyapp-site)**
   - Rolly ist eine KI-gestützte App für Budgetierung und Ausgabenverfolgung, die Einzelpersonen und gemeinschaftlichen Haushalten dabei hilft, Ausgaben per Text, Sprache oder Belegfoto zu erfassen, Transaktionen zu...
@@ -9059,6 +9913,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Roshi ist ein KI-Tool zur Unterrichtserstellung, das Lehrkräften hilft, schnell interaktive Lernmaterialien wie Dialoge, Visualisierungen und gezielte Aktivitäten zu erstellen und diese anschließend auf Lernplattformen...
   - *Passende Rollen:* Lehrkraft, Berater für Bildungstechnologie, Hochschulprofessor, Dozent am Community College +1 mehr
 
+- **[Rove](https://www.aimyflow.com/de/ai/rovecard-com)**
+  - Rove ist eine Reiseprämien- und Buchungsplattform, die auf einer universellen Flugmeile basiert und Verbrauchern hilft, über Flüge, Hotels und Einkäufe Meilen zu sammeln und sie über Fluggesellschaften, Hotels und...
+  - *Passende Rollen:* E-Commerce-Verkäufer
+
 - **[Rovr](https://www.aimyflow.com/de/ai/withrovr-com)**
   - Rovr ist eine KI-Orchestrierungsplattform, die Teams aus FDE, IT-Beratung und professionellen Dienstleistungen dabei unterstützt, Anforderungen zu erfassen, Implementierungsarbeit zu strukturieren, Artefakte wie...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Betriebschef +1 mehr
@@ -9073,6 +9931,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 
 - **[RR88](https://www.aimyflow.com/de/ai/paperlist-io)**
   - RR88 ist eine Online-Wettplattform, die Spielern den Zugang zu Sportwetten, Casinospielen, Slots, Kartenspielen und lotterieähnlichem Glücksspiel ermöglicht, vor allem für Menschen in Vietnam, die nach digitalen Wett-...
+
+- **[Rubbrband](https://www.aimyflow.com/de/ai/rubbrband-com)**
+  - Rubbrband ist eine KI-gestützte Kreativagentur und ein Content-Studio, das Unternehmen dabei hilft, Trailer, Werbespots sowie Launch- oder Marken-Storytelling-Filme zu produzieren, vor allem für Unternehmen, die...
+  - *Passende Rollen:* Leiter Digitales Marketing, Content Creator, Texter, Podcast-Produzent +1 mehr
 
 - **[Rumora](https://www.aimyflow.com/de/ai/rumora-ai)**
   - Rumora ist eine KI-gestützte Plattform für Kommentar-Marketing, die Marken dabei unterstützt, ihr Geschäft zu fördern, indem sie virale YouTube- und TikTok-Videos findet und authentische Kommentare über dedizierte...
@@ -9098,10 +9960,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Runway ist eine KI-Unternehmensplattform mit Produkten, APIs, Forschung und Unternehmensressourcen, die Teams dabei helfen, generative Medien- und World-Model-Tools zu entwickeln und zu nutzen, vor allem für kreative,...
   - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Softwareentwicklungsleiter, CEO +1 mehr
 
-- **[Rushchat.AI](https://www.aimyflow.com/de/ai/rushchat-ai)**
-  - Rushchat.AI ist eine NSFW-KI-Chatplattform, auf der Nutzer mit ungefilterten KI-Charakteren chatten, eigene Charaktere und Bilder erstellen und von der Community erstellte Personas durchsuchen können – hauptsächlich...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Dozent am Community College
-
 - **[Rybbit Analytics](https://www.aimyflow.com/de/ai/rybbit-io)**
   - Rybbit Analytics ist eine Open-Source-Web- und Produktanalyse-Plattform ohne Cookies, die Teams hilft, Nutzerverhalten datenschutzkonform zu messen – ideal für Startups, Produktteams und Marketer.
   - *Passende Rollen:* Softwareentwickler, Data Engineer, Cybersicherheitsanalyst, Data Scientist +19 mehr
@@ -9126,9 +9984,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SafeWrite ist ein KI-Humanizer, der anhand des Schreibstils eines Nutzers ein personalisiertes Umschreibungsmodell erstellt, um KI-generierte Entwürfe in natürlichere, menschlicher wirkende Texte zu verwandeln, vor...
   - *Passende Rollen:* Texter, Content Creator, Leiter Digitales Marketing, Technischer Redakteur +1 mehr
 
-- **[Sage](https://www.aimyflow.com/de/ai/sagecare-ai)**
-  - Sage ist ein KI-natives CRM- und Intake-Workflow-Automatisierungstool für ambulante Pflegedienste, das Intake-Anrufe und Hausbesuche in Transkripte, Pflegepläne, Follow-ups und synchronisierte Datensätze umwandelt. Für...
-  - *Passende Rollen:* Gesundheitsadministrator, Häusliche Pflegekraft, Betriebschef, Projektmanagement-Beauftragter
+- **[Sagaland](https://www.aimyflow.com/de/ai/sagaland-ai)**
+  - Sagaland ist ein kreativer Schreibbegleiter, der Nutzern hilft, mit einer Saga zu beginnen und ihre eigene Geschichte zu schreiben, vor allem für Autorinnen und Autoren sowie Storytelling-Enthusiasten. In KI-gestützten...
+  - *Passende Rollen:* Romanautor, Content Creator, Technischer Redakteur, Texter +1 mehr
 
 - **[Saldor](https://www.aimyflow.com/de/ai/saldor-com)**
   - Saldor ist ein Tool für die Praxisschulung, das HLK-, Solar- und andere Serviceteams im Handwerk dabei unterstützt, neue Mitarbeitende durch freihändige Unterstützung vor Ort schneller zu produktiven Technikerinnen und...
@@ -9138,9 +9996,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SalesPatriot ist eine Plattform, die Vertriebspartnern und Herstellern in der Verteidigungs-Lieferkette dabei hilft, Chancen zu identifizieren, Arbeitsabläufe zu verwalten und Regierungsaufträge in einem einzigen...
   - *Passende Rollen:* Außendienstleiter, Logistikplaner/in, Projektmanagement-Beauftragter, Betriebschef +1 mehr
 
+- **[Salient](https://www.aimyflow.com/de/ai/trysalient-com)**
+  - Salient ist eine KI-Sprachagentenplattform für US-Verbraucherkreditgeber, die Inkasso, Kundenservice, Streitfälle, Rückbuchungen und die Schadensminderung bei Totalschäden automatisiert, vor allem für Banken,...
+  - *Passende Rollen:* Finanzanalyst, Risikoanalyst, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
 - **[Salus](https://www.aimyflow.com/de/ai/usesalus-ai)**
   - Salus ist ein Sicherheitswerkzeug für KI-Agenten, das Tool-Aufrufe vor der Ausführung validiert, fehlerhafte oder nicht fundierte Aktionen zur Laufzeit blockiert und Teams, die KI-Agenten entwickeln, dabei unterstützt,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
+
+- **[Salvy](https://www.aimyflow.com/de/ai/salvy-com-br)**
+  - Salvy ist eine Mobilfunkplattform für Unternehmen, die geschäftliche Handytarife ohne Vertragsbindung, eSIM- oder physische SIM-Leitungen sowie virtuelle Nummern bietet, um Leitungen schnell in einem einzigen Dashboard...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Logistikplaner/in, Außendienstleiter, Betriebschef +1 mehr
+
+- **[Sameday](https://www.aimyflow.com/de/ai/gosameday-com)**
+  - Sameday ist ein KI-gestütztes Telefonannahmesystem für Handwerks- und Servicebetriebe, das Anrufe und Textnachrichten beantwortet, Aufträge bucht und Disposition, Kundenservice, Vertrieb sowie Empfangsabläufe...
+  - *Passende Rollen:* Filialleiter, Außendienstleiter, Restaurantleiter, Betriebschef +1 mehr
 
 - **[Samsung Food](https://www.aimyflow.com/de/ai/samsungfood-com)**
   - Samsung Food ist eine Koch- und Essensplanungs-App, mit der Nutzer Rezepte speichern, Mahlzeiten planen, Einkaufslisten erstellen und ihre Küchenorganisation verbessern können.
@@ -9154,6 +10024,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Sanctum ist ein privater KI-Assistent für den Desktop, der Nutzern hilft, Open-Source-Sprachmodelle lokal auszuführen, sicher zu chatten und PDFs auf ihrem eigenen Gerät zu analysieren, vor allem für...
   - *Passende Rollen:* Softwareentwickler, Cybersicherheitsanalyst, Finanzanalyst, Anwalt +1 mehr
 
+- **[Saphira AI](https://www.aimyflow.com/de/ai/saphira-ai)**
+  - Saphira AI ist eine KI-gestützte Plattform für Produkt-Compliance, die HARAs, TARAs, FMEAs sowie Sicherheits- oder Cybersicherheitsdokumentation aus Systemdesigndaten erstellt, um Engineering- und Unternehmensteams...
+  - *Passende Rollen:* Cybersicherheitsmanager, Softwareentwicklungsleiter, Maschinenbauingenieur/in, Elektroingenieur +1 mehr
+
 - **[Scale AI](https://www.aimyflow.com/de/ai/scale-com)**
   - Scale AI ist eine KI-Plattform für Unternehmen und den öffentlichen Sektor, die Daten-Engines, Modellevaluierungen, Fine-Tuning, RLHF und agentische Lösungen bereitstellt, um KI-Laboren, Regierungsbehörden und großen...
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Softwareentwicklungsleiter, Cybersicherheitsanalyst +1 mehr
@@ -9165,6 +10039,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[scalerX.ai](https://www.aimyflow.com/de/ai/scalerx-ai)**
   - scalerX.ai ist eine RAG-Plattform zur Erstellung personalisierter KI-Agenten in Telegram und hilft Nutzern, Bots mit ihren eigenen Dateien und Inhalten zu trainieren, um Support, Vertrieb, Lernen, Recherche und...
   - *Passende Rollen:* Softwareentwicklungsleiter, Customer Success Manager, Außendienstleiter, Berater für Bildungstechnologie
+
+- **[Scanbase](https://www.aimyflow.com/de/ai/scanbase-com)**
+  - Scanbase ist ein Unternehmen für digitale Gesundheitsdiagnostik, das Computer Vision einsetzt, um Fotos von Schnelltests in positive oder negative Ergebnisse umzuwandeln, vor allem für Gesundheitsorganisationen und...
+  - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
 - **[ScanRelief](https://www.aimyflow.com/de/ai/scanrelief-com)**
   - ScanRelief ist ein Desktop-Tool für Windows und Mac, das OpenAI nutzt, um Belege und Rechnungen zu verarbeiten, Dateien anhand ihres Inhalts umzubenennen und Excel-Berichte zu erstellen, vor allem für Personen, die...
@@ -9222,10 +10100,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Scraib.app ist ein Schreibassistent für die Mac-Menüleiste, der ausgewählten Text in jeder App umschreibt, um Grammatik, Ton und Stil zu verbessern, vor allem für Mac-Nutzer, die in Tools wie Slack, VS Code und Figma...
   - *Passende Rollen:* Technischer Redakteur, Texter, Softwareentwickler, Content Creator +1 mehr
 
-- **[ScreenJournal](https://www.aimyflow.com/de/ai/screenjournal-ai)**
-  - ScreenJournal ist ein KI-gestütztes Tool zur Mitarbeiterüberwachung und Gewinnung von Produktivitätserkenntnissen, das Bildschirm- und Sprachaufzeichnungen, Anwesenheit, Stimmung und Ablenkungen analysiert, um Managern...
-  - *Passende Rollen:* Manager Mitarbeiterbeziehungen, Produktionsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
-
 - **[Scribbr](https://www.aimyflow.com/de/ai/scribbr-com)**
   - Scribbr ist eine Plattform für akademische Unterstützung mit Korrektorat, Plagiatsprüfung, Zitationstools und Lernressourcen, die Studierenden beim Verbessern wissenschaftlicher Arbeiten hilft.
   - *Passende Rollen:* Hochschullehrkräfte, Schullehrkräfte, Sonstige Ausbilder, Bibliothekare und Archivare +5 mehr
@@ -9233,6 +10107,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Script Doctor](https://www.aimyflow.com/de/ai/film-ai-io)**
   - Script Doctor ist ein KI-Tool zur Analyse und Überarbeitung von Drehbüchern, das Filmschaffenden hilft, 1–5-minütige Kurzfilmdrehbücher vor der Produktion durch Feedback zu Struktur, Tempo, Einsatz und Dialogen zu...
   - *Passende Rollen:* Unabhängige/r Filmemacher/in, Content Creator, Romanautor, Lehrkraft
+
+- **[Scritch](https://www.aimyflow.com/de/ai/scritchai-com)**
+  - Scritch ist eine KI-gestützte veterinärmedizinische Rezeption für Tierarztpraxen, die rund um die Uhr Anrufe von Kunden, Terminplanung, Rezept- und Aktenanfragen, Triage und die Kommunikation der Praxis verwaltet. Für...
+  - *Passende Rollen:* Gesundheitsadministrator, Filialleiter, Projektmanagement-Beauftragter, Pflegeassistent +1 mehr
 
 - **[Scrollsequence](https://www.aimyflow.com/de/ai/v2-scrollsequence-com)**
   - Scrollsequence ist ein WordPress-Plugin in der Beta-Phase, das Nutzern hilft, immersive, scroll-synchronisierte digitale Erlebnisse und KI-generierte Animationen direkt im Gutenberg-Editor zu erstellen – vor allem für...
@@ -9322,10 +10200,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Semble AI ist eine KI-gestützte Plattform für die Planung von Gebäudesystemen, die Ingenieur- und Bauteams dabei unterstützt, Grundrisse hochzuladen, Geräte zu platzieren, die Einhaltung von Bauvorschriften zu prüfen...
   - *Passende Rollen:* Elektroingenieur, Bauingenieur, Gewerbearchitekt, Projektmanagement-Beauftragter +1 mehr
 
-- **[Semiotic](https://www.aimyflow.com/de/ai/semiotic-com)**
-  - Semiotic ist ein KI-natives Website-Designtool und Designstudio, das Startup-Gründern hilft, schnell Landingpages, Branding-Assets und Produktvisualisierungen mithilfe von Vorlagen, einem visuellen Editor und...
-  - *Passende Rollen:* CEO, Leiter Digitales Marketing, Grafikdesigner, Softwareentwicklungsleiter +1 mehr
-
 - **[Semrush](https://www.aimyflow.com/de/ai/semrush-com-lp-semrush-one-en)**
   - Semrush scheint eine Website zu sein, die derzeit vor dem Zugriff eine reCAPTCHA-Browserprüfung anzeigt, wahrscheinlich um Besucher zu verifizieren, bevor sie den Hauptinhalt erreichen. Für Marketer, SEO-Spezialisten...
 
@@ -9369,25 +10243,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SEObot ist ein KI-gestützter SEO-Agent, der Keyword-Recherche, die Erstellung von Blog-Inhalten, interne Verlinkung, Backlinks und programmatisches SEO für vielbeschäftigte Gründer automatisiert, die Websites oder...
   - *Passende Rollen:* Leiter Digitales Marketing, CEO, Texter, Content Creator +1 mehr
 
-- **[SEOcluster.ai](https://www.aimyflow.com/de/ai/seocluster-ai)**
-  - SEOcluster.ai ist ein Tool für SEO-Keyword-Clustering und Seitenstrategie, das Google-Search-Console-Daten nutzt, um SEO-Beratern, Agenturen und internen Content-Teams dabei zu helfen, Zielseiten zu identifizieren,...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Technischer Redakteur +1 mehr
-
 - **[SEOForge.ai](https://www.aimyflow.com/de/ai/seoforge-ai)**
   - SEOForge.ai ist eine SEO-Plattform für Such- und KI-Sichtbarkeit, die Marketern, Gründern und Growth-Teams dabei hilft, Keywords zu recherchieren, optimierte Inhalte zu erstellen und zu veröffentlichen, Erwähnungen in...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Content Creator
-
-- **[SEOJuice](https://www.aimyflow.com/de/ai/seojuice-io)**
-  - SEOJuice ist eine SEO-Automatisierungsplattform, die Website-Betreibern, Marketern und Agenturen dabei hilft, die Sichtbarkeit in Google und KI-Suchtools zu verfolgen und gleichzeitig interne Verlinkung, On-Page-SEO,...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
 
 - **[SEOmatic](https://www.aimyflow.com/de/ai/seomatic-ai)**
   - SEOmatic ist eine programmatische SEO-Plattform, die Agenturen, SaaS-, E-Commerce- und lokalen Serviceteams dabei hilft, Vorlagen, Daten und KI-gestützte Inhalte in Hunderte von SEO-Seiten für die massenhafte...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Leiter E-Commerce-Vertrieb, Content Creator +1 mehr
 
+- **[Sepal AI](https://www.aimyflow.com/de/ai/sepalai-com)**
+  - Sepal AI ist ein Datenforschungsunternehmen, das Frontier-AI-Labore und Unternehmen dabei unterstützt, durch RL-Umgebungen, ergebnisverifizierbare Aufgaben und groß angelegte, von Expert:innen geleitete menschliche...
+  - *Passende Rollen:* Data Scientist, Softwareentwickler, Cybersicherheitsanalyst, Berater für Bildungstechnologie +1 mehr
+
 - **[Serafis AI](https://www.aimyflow.com/de/ai/serafis-ai)**
   - Serafis AI ist eine Forschungsplattform, die lange Inhalte von Experten analysiert, um professionellen Investoren, Vermögensberatern sowie Produkt- oder Strategieverantwortlichen dabei zu helfen, mittels Suche,...
   - *Passende Rollen:* Portfoliomanager/in, Finanzanalyst, CEO
+
+- **[Serra](https://www.aimyflow.com/de/ai/serra-io)**
+  - Serra ist ein KI-gestützter Sourcing-Agent, der Recruiter und Talent-Teams dabei unterstützt, eine Rolle in einfachem Englisch zu beschreiben und anschließend Kandidaten zu finden, zu bewerten, zu priorisieren und...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, CEO, Softwareentwicklungsleiter
 
 - **[Serviceaide](https://www.aimyflow.com/de/ai/serviceaide-com)**
   - Serviceaide ist eine digitale Managementplattform für Unternehmen mit KI-gestütztem Service-Management, Änderungsmanagement, Wissensmanagement und Ticket-Deflection-Tools, die Organisationen dabei helfen, den Support...
@@ -9413,6 +10287,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Sharpe ist ein Jupyter-nativer KI-Forschungsagent für quantitative Finanzanalyse, der Quants, Portfoliomanagern, Händlern und Forschern dabei hilft, mehrstufige Analysen auf großen Finanzdatensätzen durchzuführen und...
   - *Passende Rollen:* Portfoliomanager/in, Data Scientist, Finanzanalyst, Data Engineer +1 mehr
 
+- **[Shasta Health](https://www.aimyflow.com/de/ai/shasta-health)**
+  - Shasta Health ist eine KI-gestützte Plattform zur Workflow-Automatisierung für Kliniken, die Patientenanrufe, Versicherungsprüfungen, Überweisungen, Faxeingänge und damit verbundene administrative Aufgaben unter...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Häusliche Pflegekraft
+
 - **[SheetAI](https://www.aimyflow.com/de/ai/sheetai-app)**
   - SheetAI ist ein KI-Add-on für Google Sheets, das Nutzern hilft, Inhalte zu erstellen, Daten zu analysieren, Tabellenaufgaben zu automatisieren und KI-Funktionen mit Gedächtnis und externen APIs zu nutzen, vor allem für...
   - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, Logistikplaner/in, Softwareentwickler +1 mehr
@@ -9421,13 +10299,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Sheets Resume ist ein KI-Lebenslauf-Generator, der Arbeitssuchenden hilft, Lebensläufe schnell zu erstellen, anzupassen und herunterzuladen, insbesondere für Personen, die sich während der Jobsuche auf mehrere Stellen...
   - *Passende Rollen:* Talent-Acquisition-Manager, Texter, Technischer Redakteur
 
+- **[Sherloq](https://www.aimyflow.com/de/ai/sherloqdata-io)**
+  - Sherloq ist ein KI-SQL-Assistent und ein Plugin für Abfragerepositorien, das Datenanalysten und anderen SQL-Nutzern hilft, SQL direkt in ihrem Editor anhand ihres eigenen Abfragekontexts zu generieren, zu korrigieren,...
+  - *Passende Rollen:* Data Engineer, Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter
+
 - **[Short AI](https://www.aimyflow.com/de/ai/short-ai)**
   - Short AI ist ein KI-gestützter Generator und Planer für Kurzvideos, der Kreativen hilft, gesichtslose Videos zu erstellen, lange Videos in kurze Clips umzuwandeln, Untertitel hinzuzufügen, Skripte zu generieren und auf...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Texter +1 mehr
 
+- **[Shortbread](https://www.aimyflow.com/de/ai/shortbread-ai)**
+  - Shortbread ist eine Lese-App und Webplattform für spicy Liebescomics und illustrierte Graphic-Novel-Serien, die sich hauptsächlich an Romance-Leserinnen und -Leser richtet, die nach düsteren, paranormalen und...
+  - *Passende Rollen:* Content Creator, Romanautor, Texter, Social-Media-Content-Creator +1 mehr
+
 - **[ShortFast](https://www.aimyflow.com/de/ai/shortfast-com)**
   - ShortFast ist ein KI-gestütztes Videoautomatisierungstool, das gesichtslose Kurzvideos mit Skripten, Voiceovers, echtem Stock-Footage, Untertiteln und automatischer Veröffentlichung erstellt – hauptsächlich für Creator...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Content Creator, Texter +1 mehr
+
+- **[ShortLoop](https://www.aimyflow.com/de/ai/shortloop-dev)**
+  - ShortLoop ist eine KI-Telefonagentenplattform für Autohäuser, die eingehende und ausgehende Anrufe bearbeitet, Service- und Verkaufstermine vereinbart, Empfangsanrufe weiterleitet und Teams dabei unterstützt,...
+  - *Passende Rollen:* Außendienstleiter, Restaurantleiter, Filialleiter, Betriebschef +1 mehr
 
 - **[ShortPix AI’s WhatsApp AI Gen](https://www.aimyflow.com/de/ai/app-shortpix-ai-en)**
   - ShortPix AIs WhatsApp AI Gen ist ein WhatsApp-basierter KI-Fotogenerator, der Menschen dabei hilft, aus hochgeladenen Fotos studioähnliche Porträts von sich selbst zu erstellen, ohne eine App zu installieren, und...
@@ -9448,6 +10338,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Shutterstock](https://www.aimyflow.com/de/ai/shutterstock-com)**
   - Shutterstock ist ein Stock-Media-Marktplatz mit lizenzierten Bildern, Videos, Musik und Kreativ-Assets, der Unternehmen und Creatorn eine effiziente Content-Produktion ermöglicht.
   - *Passende Rollen:* Content Creator, Marketing- und Vertriebsmanager, Medien- und Kommunikationsfachkräfte, Kunst- und Designfachkräfte +3 mehr
+
+- **[SID AI](https://www.aimyflow.com/de/ai/sid-ai)**
+  - SID AI ist ein KI-Forschungsunternehmen, das Retrieval- und agentische Suchmodelle entwickelt, die dabei helfen, für komplexe Suchaufgaben präzisere Kontexte zu finden – hauptsächlich für KI-Forscher und Ingenieure,...
+  - *Passende Rollen:* Softwareentwickler, Data Scientist, Data Engineer, Softwareentwicklungsleiter +1 mehr
 
 - **[Sider AI](https://www.aimyflow.com/de/ai/sider-ai-ad-land-redirect)**
   - Sider AI ist eine KI-Seitenleiste und App-Suite, die Nutzern hilft, über Chrome, Edge, Mac, Windows, iOS und Android auf Tools wie ChatGPT, Claude, Gemini und Grok zuzugreifen, vor allem für Menschen, die ein einziges...
@@ -9513,6 +10407,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Size the Market ist eine Pricing-Intelligence-Plattform für E-Commerce-Händler, Marken und Marktplätze, die Wettbewerberpreise verfolgt, Produkte mit Machine Learning abgleicht und Preisentscheidungen in Echtzeit...
   - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, Finanzanalyst, Data Scientist +1 mehr
 
+- **[sizeless](https://www.aimyflow.com/de/ai/sizeless-co)**
+  - sizeless ist eine KI-gestützte Plattform für digitale Zwillinge und Vermessung, die Smartphone-Videos von Gebäuden, Gräben und Hausanschlüssen in präzise 3D-Modelle, CAD-Pläne und GIS-fähige Ausgaben für Fachleute aus...
+  - *Passende Rollen:* Bauingenieur, Gewerbearchitekt, Wohnarchitekt, Elektroingenieur +1 mehr
+
 - **[Sketch To](https://www.aimyflow.com/de/ai/sketchto-com)**
   - Sketch To ist ein KI-Bildkonvertierungstool, das Fotos in Skizzenstile und Skizzen in Bilder umwandelt, vor allem für Künstler, Designer und andere Kreative, die schnelle visuelle Transformationen benötigen. In...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Social-Media-Content-Creator, Industriedesigner/in +1 mehr
@@ -9520,14 +10418,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Sketchflow.ai](https://www.aimyflow.com/de/ai/sketchflow-ai)**
   - Sketchflow.ai ist ein KI-Web-App-Generator und visueller App-Builder, der Nutzern hilft, Workflows, UI-Designs, Simulationen und native Code-Exporte aus Prompts oder Bildern zu erstellen, vor allem für Produktteams,...
   - *Passende Rollen:* Softwareentwickler, Grafikdesigner, CEO, Softwareentwicklungsleiter +1 mehr
-
-- **[Skillaeo](https://www.aimyflow.com/de/ai/skillaeo-com)**
-  - Skillaeo ist eine AI-Engine-Optimization-Plattform, die prüft, wie eine Website in ChatGPT, Claude, Gemini und Perplexity erscheint, und Marken sowie Marketing- oder SEO-Teams dabei hilft, AI-Sichtbarkeit zu messen,...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
-
-- **[SkillCoach.io](https://www.aimyflow.com/de/ai/skillcoach-io)**
-  - SkillCoach.io ist eine KI-gestützte Plattform für Karriereberatung, die den Lebenslauf eines Nutzers analysiert, Kompetenzlücken identifiziert und Kurse sowie Karrierewege empfiehlt, vor allem für Fachkräfte und...
-  - *Passende Rollen:* Talent-Acquisition-Manager, Berater für Bildungstechnologie, Schulberater, Manager Mitarbeiterbeziehungen +1 mehr
 
 - **[SkillRaptor](https://www.aimyflow.com/de/ai/skillraptor-ai)**
   - SkillRaptor ist ein Tool, das Prozessdokumente von Fachkräften in strukturierte, KI-fähige Skill-Dateien umwandelt und so Wissensarbeiterinnen und Wissensarbeitern wie Marketingfachleuten, Beraterinnen und Beratern,...
@@ -9557,6 +10447,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SkyReels ist eine KI-Videoplattform, die Skripte in fertige Videos mit Voiceover, Lippensynchronisation, Soundeffekten, Musik und Schnitttools verwandelt – für Creator und Marketingteams.
   - *Passende Rollen:* Content Creator
 
+- **[Skyvern](https://www.aimyflow.com/de/ai/skyvern-com)**
+  - Skyvern ist eine KI-gestützte Plattform für Browser-Automatisierung, die Teams und Entwicklern dabei hilft, Website-Workflows wie Anmeldungen, das Ausfüllen von Formularen, die Dokumentenverarbeitung und die...
+  - *Passende Rollen:* Softwareentwickler, Projektmanagement-Beauftragter, Finanzanalyst, Gesundheitsadministrator +1 mehr
+
 - **[Skywork](https://www.aimyflow.com/de/ai/skywork-ai)**
   - Skywork ist ein All-in-One-KI-Agent, der einfache Eingaben in multimodale Ausgaben wie Dokumente, Präsentationen, Tabellen, Websites, Videos und Chat-Antworten mit umfassender Recherche verwandelt, vor allem für...
   - *Passende Rollen:* Finanzanalyst, Hochschulprofessor, Projektmanagement-Beauftragter, Leiter Digitales Marketing +1 mehr
@@ -9568,6 +10462,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Sleekio](https://www.aimyflow.com/de/ai/sleekio-io)**
   - Sleekio ist ein Chrome-basierter KI-Schreibassistent, der Fachkräften dabei hilft, Sprachnotizen in ausformulierte E-Mails und Dokumente umzuwandeln, markierten Text umzuschreiben und Inhalte direkt in Textfeldern in...
   - *Passende Rollen:* CEO, Betriebschef, Projektmanagement-Beauftragter, Außendienstleiter +1 mehr
+
+- **[Slicker](https://www.aimyflow.com/de/ai/slickerhq-com)**
+  - Slicker ist eine KI-gestützte Plattform zur Wiedergewinnung von Zahlungen, die Abo- und Unternehmen mit wiederkehrenden Umsätzen dabei unterstützt, fehlgeschlagene Zahlungen durch intelligente Wiederholungsversuche,...
+  - *Passende Rollen:* Finanzchef, Manager Finanzplanung & Analyse, Finanzanalyst, Leiter E-Commerce-Vertrieb +1 mehr
 
 - **[SlideBuild AI](https://www.aimyflow.com/de/ai/geniusaddons-com-products-slidebuild)**
   - SlideBuild AI ist ein KI-Präsentationsgenerator für Google Slides, der Textanweisungen in bearbeitbare Foliensätze mit benutzerdefinierten Layouts, Farbpaletten und KI-generierten Bildern umwandelt, hauptsächlich für...
@@ -9596,10 +10494,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Smart Clerk](https://www.aimyflow.com/de/ai/smartclerk-ai)**
   - Smart Clerk ist ein KI-Tool für die Automatisierung von Buchhaltung und Rechnungswesen, das Bank- und Kreditkartenauszüge in kategorisierte Transaktionen und für Buchhalter aufbereitete Finanzberichte umwandelt,...
   - *Passende Rollen:* Wirtschaftsprüfer, Finanzchef, Finanzanalyst, Steuermanager +1 mehr
-
-- **[Smartivity](https://www.aimyflow.com/de/ai/smartivity-in)**
-  - Smartivity ist ein Online-Shop für DIY-Spielzeugsets aus den Bereichen MINT, Wissenschaft, Technik, Konstruktion sowie Kunst und Basteln, die Kindern im Alter von 3 bis 14 Jahren helfen, durch praktisches Spielen zu...
-  - *Passende Rollen:* E-Commerce-Verkäufer, Lehrkraft, Grundschullehrer Mathematik, Berater für Bildungstechnologie +1 mehr
 
 - **[SmartLearn](https://www.aimyflow.com/de/ai/smartlearnapp-com)**
   - SmartLearn ist eine KI-gestützte Lernplattform, die jedes Thema in eine visuelle, schrittweise Roadmap mit Lektionen, Infografiken, Videos und Quizzen verwandelt, vor allem für selbstgesteuerte Lernende, die...
@@ -9688,6 +10582,22 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Socratic Lab ist eine KI-gestützte Lern- und Diskussionsgemeinschaft, in der Menschen Fragen stellen, Wissen teilen und sich mit anderen zu Themen vernetzen können, die sie interessieren. Für Lernende, Lehrkräfte und...
   - *Passende Rollen:* Lehrkraft, Hochschulprofessor, Dozent am Community College, Schulberater +1 mehr
 
+- **[Soff](https://www.aimyflow.com/de/ai/soff-ai)**
+  - Soff ist eine KI-gestützte Angebotsplattform für US-Hersteller und -Distributoren, die die Erfassung von Angebotsanfragen, Preisgestaltung, Nachverfolgung und Angebotsverfolgung automatisiert, um Vertriebs- und...
+  - *Passende Rollen:* Außendienstleiter, Logistikplaner/in, Leiter E-Commerce-Vertrieb, Betriebschef +1 mehr
+
+- **[Sohar](https://www.aimyflow.com/de/ai/soharhealth-com)**
+  - Sohar ist eine Versicherungsprüfungsplattform für Gesundheitsdienstleister, die automatische Echtzeitprüfungen der Anspruchsberechtigung, Leistungsermittlung, Überprüfung des Netzwerkstatus und Kostenschätzungen...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Betriebschef, IT-Infrastrukturmanager/in
+
+- **[Sola](https://www.aimyflow.com/de/ai/sola-solutions-com)**
+  - Sola ist eine agentische Plattform für Prozessautomatisierung, die Unternehmen dabei unterstützt, Dateneingabe, Dokumentenverarbeitung, Scraping und UI-basierte Workflows mit LLMs, Computer Vision und No-Code-Tools zu...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Gesundheitsadministrator, Finanzanalyst +1 mehr
+
+- **[Solari AI](https://www.aimyflow.com/de/ai/usesolari-ai)**
+  - Solari AI ist eine No-Code-Plattform, die vorkonfigurierte und anpassbare KI-Agenten bereitstellt, um nicht-technischen Teams bei der Automatisierung von Arbeit zu helfen. Derzeit wird ein Chat-Agent unterstützt,...
+  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Talent-Acquisition-Manager, Projektmanagement-Beauftragter +1 mehr
+
 - **[Solido](https://www.aimyflow.com/de/ai/solido-ai)**
   - Solido ist ein automatisiertes Tool für Zahlungserinnerungen zu Rechnungen, das sich mit Xero synchronisiert, personalisierte Follow-up-E-Mails aus Ihrem eigenen Postfach versendet und professionellen...
   - *Passende Rollen:* Finanzchef, Manager Finanzplanung & Analyse, Finanzanalyst, Betriebschef +1 mehr
@@ -9724,6 +10634,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Songtell ist eine KI-gestützte Website, die Musikfans dabei hilft, die Bedeutung und die Geschichten hinter Songtexten zu entdecken – vor allem für Hörer, die ihre Lieblingssongs besser und tiefer verstehen möchten....
   - *Passende Rollen:* Musikliebhaber, Content Creator, Texter, Technischer Redakteur +1 mehr
 
+- **[Sonia](https://www.aimyflow.com/de/ai/soniahealth-com)**
+  - Sonia ist eine KI-gestützte Begleiterin für emotionale Unterstützung, die Sprach- und Text-Sitzungen zum Wohlbefinden, Meditationen, Journaling, Empfehlungen und Übungen anbietet und auf den Frameworks der kognitiven...
+  - *Passende Rollen:* Wellness-Coach, Gesundheitsadministrator, Programmmanager Non-Profit, Schulberater +1 mehr
+
 - **[SonicCaption](https://www.aimyflow.com/de/ai/soniccaption-com)**
   - SonicCaption ist eine Chrome- und Edge-Erweiterung, die Audio- und Videoinhalten in Browser-Tabs wie YouTube, Netflix, Zoom und Meet zweisprachige Echtzeit-Untertitel und Übersetzungen hinzufügt, hauptsächlich für...
   - *Passende Rollen:* Lehrkraft, Online-Programmierlehrer, Schulberater, Berater für Bildungstechnologie +1 mehr
@@ -9747,6 +10661,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Sorce](https://www.aimyflow.com/de/ai/sorce-jobs)**
   - Sorce ist eine KI-gestützte Plattform für Bewerbungen, auf der Jobsuchende einen Lebenslauf hochladen, per Wischen gewünschte Stellen auswählen und einen KI-Agenten in ihrem Namen über eine große Jobdatenbank hinweg...
   - *Passende Rollen:* Talent-Acquisition-Manager, Softwareentwickler, Leiter Digitales Marketing, Außendienstleiter
+
+- **[Sorcerer](https://www.aimyflow.com/de/ai/sorcerer-earth)**
+  - Sorcerer ist ein Unternehmen für Atmosphärendaten und Wettervorhersagen, das Wetterballons in großen Höhen und luftgestützte Sensoren einsetzt, um detailliertere Beobachtungen zu erfassen und hochauflösende...
+  - *Passende Rollen:* Logistikplaner/in, Betriebschef, Data Scientist, Risikoanalyst
 
 - **[SoulmateSketch](https://www.aimyflow.com/de/ai/soulmatesketch-org)**
   - SoulmateSketch ist ein KI-gestütztes digitales Porträt-Tool, das auf Grundlage der Geburtsdaten und Vorlieben der Nutzer eine personalisierte Illustration des Seelenverwandten erstellt, vor allem für Personen, die ein...
@@ -9784,6 +10702,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SpacePrompts ist ein KI-Prompt-Manager, der Nutzern hilft, Prompts zu erstellen, zu verbessern, zu organisieren, zu versionieren und geräte- sowie KI-plattformübergreifend zu synchronisieren, vor allem für Menschen,...
   - *Passende Rollen:* Softwareentwickler, Leiter Digitales Marketing, Texter, Content Creator +1 mehr
 
+- **[Spark](https://www.aimyflow.com/de/ai/sparkhq-ai)**
+  - Spark ist eine KI-gestützte Plattform für Genehmigungsprozesse, die Entwicklern von Solarprojekten, Batteriespeichern und Rechenzentren hilft, Standortauswahl, Flächennutzung, Genehmigungsanforderungen und die Stimmung...
+  - *Passende Rollen:* Bauingenieur, Gewerbearchitekt, Projektmanagement-Beauftragter, CEO +1 mehr
+
 - **[SparkIconAI](https://www.aimyflow.com/de/ai/sparkiconai-com)**
   - SparkIconAI ist eine KI-Plattform zur Generierung und Verwaltung von Icons, die Designerinnen, Designern, Entwicklerinnen und Entwicklern dabei hilft, Icons für Apps, Websites und digitale Produkte zu erstellen, zu...
   - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Softwareentwicklungsleiter, Industriedesigner/in +1 mehr
@@ -9816,6 +10738,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Specifys.ai ist ein KI-Tool, das umfassende App-Spezifikationen und PRDs erstellt, um Menschen bei der Definition von Produktanforderungen und Entwicklungsplänen zu unterstützen, insbesondere App-Entwickler,...
   - *Passende Rollen:* Softwareentwicklungsleiter, Softwareentwickler, CEO, Projektmanagement-Beauftragter +1 mehr
 
+- **[Speck](https://www.aimyflow.com/de/ai/speck-sh)**
+  - Speck ist ein KI-Meeting-Assistent für Menschen mit dicht aufeinanderfolgenden Meetings und hilft Vertriebs- und kundennahen Teams bei der Vorbereitung mit automatisierter Recherche vor dem Anruf, Antworten während des...
+  - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Projektmanagement-Beauftragter +1 mehr
+
 - **[Speech Illustrator](https://www.aimyflow.com/de/ai/speechillustrator-com)**
   - Speech Illustrator ist ein KI-Tool zur Umwandlung von Sprache in Bilder, das gesprochene Audiodaten aus Hörbüchern, Podcasts, Liedern und Vorträgen in Echtzeit in visuelle Darstellungen umsetzt, vor allem für Zuhörer,...
   - *Passende Rollen:* Lehrkraft, Content Creator, Online-Programmierlehrer, Dozent am Community College +1 mehr
@@ -9835,10 +10761,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Speechmatics](https://www.aimyflow.com/de/ai/speechmatics-com-use-cases-ai-voice-agents)**
   - Speechmatics bietet Sprachtechnologie für KI-Sprachagenten und unterstützt Entwickler- sowie Produktteams dabei, sprachbewusstes Speech-to-Text mit Reaktionszeiten unter einer Sekunde in über 55 Sprachen zu integrieren...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, CEO +1 mehr
-
-- **[Speechmatics Python SDK](https://www.aimyflow.com/de/ai/github-com-speechmatics-speechmatics-python-sdk)**
-  - Das Speechmatics Python SDK ist eine Sammlung von Python-Bibliotheken für den Zugriff auf die Speech-APIs von Speechmatics und unterstützt Entwickler beim Erstellen von Anwendungen für Batch- und...
-  - *Passende Rollen:* Softwareentwickler, Data Engineer, Softwareentwicklungsleiter, Technischer Redakteur +1 mehr
 
 - **[SpeechReader](https://www.aimyflow.com/de/ai/speechreader-io-en)**
   - SpeechReader ist ein KI-Text-zu-Sprache-Tool, das Text, PDFs, Bilder und Notizen mit über 1000 Stimmen in mehr als 60 Sprachen in natürlich klingende Audiodateien umwandelt, vor allem für Lernende, Menschen mit...
@@ -9915,6 +10837,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Stable Diffusion Models ist ein Download-Verzeichnis für Stable-Diffusion-Checkpoints, DreamBooth-Modelle, Textual-Inversion-Ressourcen, Upscaler und Gesichtsrestaurierungsmodelle und hilft Nutzern der Bildgenerierung...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Softwareentwickler, Data Scientist +1 mehr
 
+- **[StackAI](https://www.aimyflow.com/de/ai/stack-ai-com)**
+  - StackAI ist eine KI-Agentenplattform für Unternehmen, die Organisationen dabei unterstützt, sichere, regelkonforme agentische Workflows und KI-Anwendungen zu entwickeln, bereitzustellen und zu verwalten – vor allem für...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef, Manager Finanzplanung & Analyse +1 mehr
+
 - **[Stackify](https://www.aimyflow.com/de/ai/stackify-lovable-app)**
   - Stackify ist ein KI-Copilot für Berater und Fractional COOs, der ihnen hilft, SaaS-Stacks zu rationalisieren, indem er Fähigkeiten abbildet, Überschneidungen und Lücken identifiziert und Entscheidungen zum Beibehalten,...
   - *Passende Rollen:* Betriebschef, Finanzchef, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter +1 mehr
@@ -9930,6 +10856,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Standout](https://www.aimyflow.com/de/ai/standout-work)**
   - Standout ist ein Karriererepräsentationsservice, der Spitzenkräfte im Tech-Bereich dabei unterstützt, Chancen zu finden und Angebote mit VC-finanzierten Start-ups zu verhandeln, vor allem für qualifizierte Fachkräfte,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Data Engineer, Data Scientist +1 mehr
+
+- **[Starcloud](https://www.aimyflow.com/de/ai/starcloud-com)**
+  - Starcloud ist ein Unternehmen für Weltrauminfrastruktur, das Rechenzentren im Orbit entwickelt, um skalierbare KI-Rechenleistung mittels kontinuierlicher Solarenergie und Strahlungskühlung bereitzustellen,...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Data Engineer, Softwareentwicklungsleiter, CEO +1 mehr
+
+- **[Stardrift](https://www.aimyflow.com/de/ai/stardrift-ai)**
+  - Stardrift ist ein KI-Reiseassistent, der Nutzern hilft, personalisierte Reisen zu planen, indem er Flüge, Bahnverbindungen, Hotels und Erlebnisse findet und teilbare Reisepläne erstellt, hauptsächlich für Reisende und...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Filialleiter, CEO
 
 - **[Starnus](https://www.aimyflow.com/de/ai/starnus-com)**
   - Starnus ist eine KI-Vertriebsplattform, die wie ein autonomer Mitarbeiter agiert und Gründern sowie wachsenden Vertriebsteams dabei hilft, Outbound-Aktivitäten wie ICP-Definition, Lead-Recherche, personalisierte...
@@ -10011,6 +10945,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - STORYD ist ein KI-Präsentationstool, das Fachleuten im Geschäftsleben hilft, in Sekundenschnelle klare, strukturierte Storytelling-Präsentationen zu erstellen, insbesondere für Personen, die Präsentationen für...
   - *Passende Rollen:* CEO, Finanzanalyst, Außendienstleiter, Projektmanagement-Beauftragter +1 mehr
 
+- **[Strada](https://www.aimyflow.com/de/ai/getstrada-com)**
+  - Strada ist eine KI-Plattform für Versicherungsgesellschaften, MGAs und Makler, die die Policenverwaltung, Schadenaufnahme, Verlängerungen und Verkaufsgespräche über Telefon, E-Mail, SMS und Chat automatisiert. Für...
+  - *Passende Rollen:* Betriebschef, Filialleiter, Projektmanagement-Beauftragter, Außendienstleiter
+
 - **[Streamlabs Podcast Editor](https://www.aimyflow.com/de/ai/typestudio-co)**
   - Der Streamlabs Podcast Editor ist ein textbasierter Videoeditor, der Audio- und Videoinhalte transkribiert, sodass Podcaster, Interview-Ersteller und Streamer Inhalte durch das Bearbeiten von Text anpassen und lange...
   - *Passende Rollen:* Podcast-Produzent, Social-Media-Content-Creator, Content Creator, Texter +1 mehr
@@ -10027,6 +10965,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Strut ist ein KI-gestützter Schreib-Workspace, der Notizen, Dokumente und kollaborative Schreibprojekte in einer Umgebung vereint – für Autoren, Creator und Teams.
   - *Passende Rollen:* Content Creator
 
+- **[Studdy AI](https://www.aimyflow.com/de/ai/studdy-ai)**
+  - Studdy AI ist eine KI-Nachhilfe-App, die Schülern personalisierten 1:1-Unterricht in Fächern wie Mathematik, Naturwissenschaften, Biologie und Wirtschaft mit einem interaktiven Whiteboard bietet, das visuelle, auditive...
+  - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Berater für Bildungstechnologie, Hochschulprofessor, Lehrkraft
+
 - **[Studioify](https://www.aimyflow.com/de/ai/getstudioify-com)**
   - Studioify ist ein KI-Fotoeditor, der Verkäufern auf Depop, Vinted, Poshmark und anderen Wiederverkaufsplattformen für Kleidung dabei hilft, Handyfotos in saubere, konsistente, marktplatzgerechte Listing-Bilder zu...
   - *Passende Rollen:* E-Commerce-Verkäufer, Modedesigner, Grafikdesigner, Content Creator +1 mehr
@@ -10038,10 +10980,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Study Fetch](https://www.aimyflow.com/de/ai/studyfetch-com)**
   - Study Fetch ist eine KI-Lernplattform, die Vorlesungen, Notizen und Folien in Karteikarten, Quizze, Tests und Tutor-Unterstützung umwandelt – speziell für Studierende.
   - *Passende Rollen:* Lehrkraft
-
-- **[Study Space](https://www.aimyflow.com/de/ai/study-space)**
-  - Study Space ist ein KI-Lernwerkzeug, das Dokumente in personalisierte Vorlesungen und Lernmaterialien umwandelt und Studierenden, Berufstätigen und lebenslang Lernenden hilft, in ihrem eigenen Tempo anhand...
-  - *Passende Rollen:* Lehrkraft, Leadership-Coach für Unternehmen, Online-Programmierlehrer, Nachhilfelehrer für Testvorbereitung +1 mehr
 
 - **[Stunning](https://www.aimyflow.com/de/ai/stunning-so)**
   - Stunning ist eine KI-gestützte Plattform, die Nutzern hilft, Full-Stack-Web-Apps und Websites schneller zu beschreiben und zu erstellen, insbesondere für Builder, Gründer und Entwickler, die Projekte mit weniger...
@@ -10059,6 +10997,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - StylePal ist eine KI-Modeassistenten-App, die Menschen dabei hilft, zwischen zwei Outfits zu wählen, indem sie Fotos hochladen und sofortige Stilbewertungen erhalten, vor allem für Personen, die auf iOS und Android...
   - *Passende Rollen:* Modedesigner, Content Creator, Immobilienmakler
 
+- **[Subsets](https://www.aimyflow.com/de/ai/subsets-com)**
+  - Subsets ist eine KI-gestützte Automatisierungsplattform für Kundenbindung für verbraucherorientierte Abonnementunternehmen. Sie hilft kommerziellen Teams, Zielgruppen mit Abwanderungsrisiko vorherzusagen, A/B-Tests...
+  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Data Scientist, Finanzanalyst +1 mehr
+
 - **[Subtxt with Muse](https://www.aimyflow.com/de/ai/subtxt-app)**
   - Subtxt mit Muse ist eine KI-gestützte Plattform für Erzählanalyse und Gliederung, die Autorinnen und Autoren dabei hilft, Storystruktur, Kohärenz, Konflikt und Thema zu bewerten, insbesondere für Drehbuchautorinnen und...
   - *Passende Rollen:* Romanautor, Content Creator, Texter, Unabhängige/r Filmemacher/in +1 mehr
@@ -10066,6 +11008,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Subversive Leader](https://www.aimyflow.com/de/ai/subversiveleader-com)**
   - Subversive Leader ist eine KI-gestützte Plattform für Führungscoaching, die Berufstätigen am Anfang und in der Mitte ihrer Karriere hilft, reale Herausforderungen am Arbeitsplatz mit personalisierter Begleitung,...
   - *Passende Rollen:* Leadership-Coach für Unternehmen, CEO, Betriebschef, Programmmanager Non-Profit +1 mehr
+
+- **[Sudocode](https://www.aimyflow.com/de/ai/sudocode-ai)**
+  - Sudocode ist ein Open-Source-, Git-natives Kontextmanagementsystem für Coding-Agenten, das in einem Repository lebt und Entwickler:innen sowie Teams dabei unterstützt, Benutzerabsichten als dauerhafte Spezifikationen...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in +1 mehr
 
 - **[Suenagringo](https://www.aimyflow.com/de/ai/suenagringo-com)**
   - Suenagringo ist ein kategoriebasiertes Webverzeichnis, das Nutzern hilft, Ressourcen zu Themen wie Automobil, Finanzen, Gesundheit, Shopping und Reisen zu durchsuchen, vor allem für Menschen, die nach allgemeinen...
@@ -10110,6 +11056,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der Supawork AI Professional Headshot Generator ist ein kostenloses Web-Tool, das ein Selfie in Sekundenschnelle in professionelle Headshots in Studioqualität verwandelt – vor allem für Jobsuchende, Fachkräfte und...
   - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Social-Media-Content-Creator, Immobilienmakler +1 mehr
 
+- **[Superagent](https://www.aimyflow.com/de/ai/superagent-sh)**
+  - Superagent ist eine Red-Team-Testplattform für KI-Agenten, die Produktionssysteme angreift, um Datenlecks, schädliche Ausgaben und unbefugte Aktionen zu finden, vor allem für Teams, die kundenorientierte KI-Systeme...
+  - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Superapp](https://www.aimyflow.com/de/ai/superappp-com)**
   - Superapp ist eine native Mac-App, die KI nutzt, um App-Ideen in einfachem Englisch in native Apps für iPhone, iPad, Apple Watch und Mac zu verwandeln, hauptsächlich für Gründer und nicht-technische Entwickler, die ohne...
   - *Passende Rollen:* Softwareentwickler, CEO, Softwareentwicklungsleiter, Projektmanagement-Beauftragter +1 mehr
@@ -10134,6 +11084,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SuperHumanizer ist ein kostenloser KI-Text-Humanizer, der KI-generierte Texte so umschreibt, dass sie natürlicher klingen, den Kontext bewahren und dabei helfen, KI-Erkennung zu vermeiden, vor allem für...
   - *Passende Rollen:* Content Creator, Texter, Leiter Digitales Marketing, Technischer Redakteur +1 mehr
 
+- **[SuperKalam](https://www.aimyflow.com/de/ai/superkalam-com)**
+  - SuperKalam ist eine künstlicher Intelligenz-basierte Plattform zur Vorbereitung auf die UPSC, die Aspiranten beim Studium des GS-Lehrplans, bei der Übung von MCQs und Fragen aus dem Vorjahr, bei der Verfolgung von...
+  - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Lehrkraft, Berater für Bildungstechnologie, Hochschulprofessor
+
 - **[Supernormal Desktop App](https://www.aimyflow.com/de/ai/supernormal-com-desktop-app)**
   - Die Supernormal-Desktop-App ist ein KI-Meeting-Assistent, der Computeraudio ohne Bot erfasst, Gespräche transkribiert und den Meeting-Kontext in Zusammenfassungen, Follow-up-E-Mails, Dokumente, Präsentationen und...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Außendienstleiter, Betriebschef +1 mehr
@@ -10153,6 +11107,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[SuperTravel](https://www.aimyflow.com/de/ai/suptravel-ai)**
   - SuperTravel ist ein KI-Reiseplaner und Reiseplanprüfer, der Reisenden hilft, personalisierte Reisepläne zu erstellen, Terminkonflikte zu erkennen, Routen zu optimieren und Budgets zu verwalten, vor allem für Personen,...
 
+- **[Superunit](https://www.aimyflow.com/de/ai/superunit-ai)**
+  - Superunit ist eine KI-gestützte Verifizierungsplattform, die Beschäftigungs- und Einkommensprüfungen per Telefon, E-Mail und Fax automatisiert, vor allem für CRAs und Background-Screening-Teams, die aufwändige...
+  - *Passende Rollen:* Talent-Acquisition-Manager, Manager Mitarbeiterbeziehungen, Projektmanagement-Beauftragter, Betriebschef
+
 - **[Superway](https://www.aimyflow.com/de/ai/superway-ai)**
   - Superway ist ein KI-gestütztes Tool zur Nischenfindung und Nachfrageforschung, das Solo-Gründern und unabhängigen Produktentwicklern hilft, aufstrebende Märkte zu finden, Produktideen zu validieren und Trendsignale zu...
   - *Passende Rollen:* CEO, Softwareentwicklungsleiter, Leiter Digitales Marketing, Projektmanagement-Beauftragter
@@ -10165,13 +11123,13 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Support Flow TAAFT ist ein KI-Copilot von PixieBrix, der B2B-Kundensupport- und Technical-Support-Teams dabei hilft, Fälle schneller zu lösen, indem er kontextbezogene Inhalte, Live-Daten und Aktionen in ihren...
   - *Passende Rollen:* Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Projektmanagement-Beauftragter, Betriebschef +1 mehr
 
-- **[SureThing](https://www.aimyflow.com/de/ai/app-surething-io-login)**
-  - SureThing ist ein autonomer KI-Agent, der sich den Nutzerkontext merkt und dabei hilft, komplette Workflows über mehr als 1.000 Apps hinweg zu automatisieren. Er richtet sich an Nutzer, die einen persistenten Agenten...
-  - *Passende Rollen:* Projektmanagement-Beauftragter, Betriebschef, Filialleiter, Softwareentwicklungsleiter +1 mehr
-
 - **[Surf](https://www.aimyflow.com/de/ai/asksurf-ai)**
   - Surf ist eine KI-gestützte Krypto-Rechercheplattform, die Tradern und Investoren hilft, Kryptowährungsmärkte, Trends und Handelschancen zu analysieren. Im KI-Zeitalter hilft sie Krypto-Researchern, schnelllebige...
   - *Passende Rollen:* Data Scientist, Softwareentwickler, Cybersicherheitsanalyst, Data Engineer +10 mehr
+
+- **[Surface Labs](https://www.aimyflow.com/de/ai/withsurface-com)**
+  - Surface Labs ist eine KI-gestützte Plattform für Marketing Operations, die wachstumsstarken B2B-Teams dabei hilft, mehr Website-Traffic in qualifizierte Demos umzuwandeln, indem sie veraltete Formulare,...
+  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Außendienstleiter, Projektmanagement-Beauftragter +1 mehr
 
 - **[Surfer](https://www.aimyflow.com/de/ai/surferseo-com)**
   - Surfer ist eine SEO-Content-Optimierungsplattform, die Nutzern dabei hilft, Inhalte für die Sichtbarkeit in Google und KI-Suchtools zu recherchieren, zu prüfen, zu schreiben, zu optimieren und zu überwachen,...
@@ -10189,13 +11147,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SVG AI ist ein KI-SVG-Generator, der Text-Prompts, Bilder oder beides in bearbeitbare Vektorgrafiken wie Logos, Icons und Illustrationen umwandelt, hauptsächlich für Designer, Entwickler und Kreativteams, die...
   - *Passende Rollen:* Grafikdesigner, Softwareentwickler, Content Creator, Texter +1 mehr
 
-- **[Swapface](https://www.aimyflow.com/de/ai/swapface-org)**
-  - Swapface ist ein kostenloses KI-Gesichtstausch-Tool, das Nutzern hilft, Gesichter in Echtzeit bei Livestreams, Bildern, Videos und GIFs auszutauschen, insbesondere für Content-Ersteller und Social-Media-Nutzer. In...
-  - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Podcast-Produzent, Unabhängige/r Filmemacher/in +1 mehr
-
 - **[SWAPP](https://www.aimyflow.com/de/ai/swapp-ai)**
   - SWAPP ist eine KI-Plattform für Architekturbüros, die die Erstellung von Architekturdokumentation und BIM-Modellierungs-Workflows mithilfe bürospezifischer Standards und Qualitätssicherung automatisiert. So unterstützt...
   - *Passende Rollen:* Gewerbearchitekt, Wohnarchitekt, Projektmanagement-Beauftragter, Betriebschef
+
+- **[SWE-agent](https://www.aimyflow.com/de/ai/swe-agent-com)**
+  - SWE-agent ist ein Open-Source-Agenten-Framework mit einer Dokumentationssammlung, das Entwicklerinnen und Entwicklern sowie Forschenden dabei hilft, Sprachmodelle zu nutzen, um Probleme in GitHub-Repositories autonom...
+  - *Passende Rollen:* Softwareentwickler, Cybersicherheitsanalyst, Softwareentwicklungsleiter, Data Scientist
+
+- **[Sweep](https://www.aimyflow.com/de/ai/sweep-dev)**
+  - Sweep ist ein KI-Coding-Assistent für JetBrains-IDEs, der professionellen Entwicklern hilft, Code mit Autovervollständigung, einem KI-Agenten und codebase-bewussten Vorschlägen in Tools wie IntelliJ IDEA, PyCharm und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager
 
 - **[Swerve](https://www.aimyflow.com/de/ai/getswerve-com)**
   - Swerve ist eine KI-Charakter-Chat-App, die Nutzern hilft, Personas auszuwählen und Einzel- oder Gruppengespräche mit KI-Begleitern zu führen, vor allem für Menschen, die interaktive soziale oder rollenspielartige Chats...
@@ -10213,10 +11175,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - SWITCH ist eine agentische KI-Plattform für urbane Mobilität und Logistik, die Organisationen dabei unterstützt, Szenarien zu simulieren, die Nachfrage vorherzusagen und Echtzeitabläufe zu optimieren – insbesondere für...
   - *Passende Rollen:* Logistikplaner/in, Produktionsleiter, Projektmanagement-Beauftragter, Betriebschef +1 mehr
 
-- **[Sydium](https://www.aimyflow.com/de/ai/sydium-com)**
-  - Sydium ist ein KI-Tool zur Automatisierung von Social Media, das aus Ihren bestehenden Beiträgen lernt, um in Ihrem Tonfall zu schreiben, zu planen, zu veröffentlichen und zu antworten – über mehrere Plattformen...
-  - *Passende Rollen:* Leiter Digitales Marketing, Social-Media-Content-Creator, CEO, Texter +1 mehr
-
 - **[Syft](https://www.aimyflow.com/de/ai/syft-ai)**
   - Syft ist eine KI-gestützte Nachrichten-App, mit der Nutzer hyperpersonalisierte Nachrichtenkanäle erstellen, vertrauenswürdigen Quellen folgen und tägliche Zusammenfassungen in ihrer eigenen Sprache erhalten können,...
   - *Passende Rollen:* Finanzanalyst, Projektmanagement-Beauftragter, CEO, Texter +1 mehr
@@ -10232,10 +11190,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Symbolfy Username Generator](https://www.aimyflow.com/de/ai/symbolfy-com-username-generator)**
   - Der Symbolfy-Benutzernamengenerator ist ein KI-gestütztes, schnelles Tool für Benutzernamen, das Social-Media-Nutzern hilft, ästhetische, niedliche und plattformgerechte Handles für Instagram, TikTok und andere Profile...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Leiter Digitales Marketing, Texter
-
-- **[Synapse](https://www.aimyflow.com/de/ai/synapse-cloudnerve-com)**
-  - Synapse ist ein SEO-Tool zur Inhaltsoptimierung, das Ihre Seiten mit Inhalten vergleicht, die in den Google AI Overviews erfolgreich sind, fehlende Themen und Fakten identifiziert und überarbeitete Inhalte sowie...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, Softwareentwickler
 
 - **[Syndie](https://www.aimyflow.com/de/ai/syndie-io)**
   - Syndie ist eine KI-gestützte Vertriebsautomatisierungsplattform, die B2B-Vertriebsteams, Agenturen und Gründerinnen und Gründern dabei hilft, potenzielle Kunden zu finden, die Ansprache über LinkedIn und E-Mail zu...
@@ -10277,6 +11231,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Tabl ist ein Multiplayer-Webbrowser, mit dem Teams live auf jeder Webseite zusammenarbeiten können – ideal für Remote-Teams, Produktteams und kundennahe Profis.
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +9 mehr
 
+- **[TableFlow: AI-Powered Document Extraction & Automation](https://www.aimyflow.com/de/ai/tableflow-com)**
+  - Verwandeln Sie unübersichtliche Dokumente mit KI-gestützter Extraktion in strukturierte Daten. Eine Vorlage verarbeitet jedes Format — PDFs, Excel, CSV, Bilder. Erstklassige Genauigkeit mit integrierter Validierung.
+  - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Data Engineer, Projektmanagement-Beauftragter +1 mehr
+
 - **[Tabletop Scribe](https://www.aimyflow.com/de/ai/tabletopscribe-com)**
   - Tabletop Scribe ist ein KI-gestütztes mobiles Tool, das aufgezeichnete Tabletop-Rollenspielsitzungen in Transkriptionen, Zusammenfassungen und ein durchsuchbares Kampagnen-Wiki umwandelt, vor allem für Spielleiter und...
   - *Passende Rollen:* Content Creator, Romanautor, Social-Media-Content-Creator
@@ -10287,6 +11245,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 
 - **[TailorResumes](https://www.aimyflow.com/de/ai/tailorresumes-com)**
   - TailorResumes ist ein KI-Tool zur Anpassung von Lebensläufen, das Arbeitssuchenden dabei hilft, einen bestehenden Lebenslauf und eine Stellenbeschreibung in einen ATS-optimierten, natürlich klingenden Lebenslauf und...
+
+- **[Talc AI](https://www.aimyflow.com/de/ai/talc-ai)**
+  - Talc AI ist ein medizinisches Abstraktionstool, das große Sprachmodelle verwendet, um Ereignisse, Kennzahlen und andere strukturierte Erkenntnisse aus narrativen Patientennotizen zu extrahieren, vor allem für...
+  - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, Data Scientist, Fachkraft für medizinische Abrechnung +1 mehr
 
 - **[TalentSprout](https://www.aimyflow.com/de/ai/talentsprout-ai)**
   - TalentSprout ist eine KI-gestützte Recruiting-Plattform, die Sprach- und Video-Screening-Interviews automatisiert, Kandidaten bewertet und Zusammenfassungen sowie Erkenntnisse für Recruiter und Hiring-Teams...
@@ -10332,6 +11294,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Talo ist ein Echtzeit-KI-Übersetzer für Videoanrufe, der Nutzern sofortige Kommunikation über Sprachgrenzen hinweg ermöglicht – ideal für internationale Teams, Vertrieb und Kundensupport.
   - *Passende Rollen:* Softwareentwickler, Data Scientist, Cybersicherheitsanalyst, IT-Manager +5 mehr
 
+- **[Tamarind Bio](https://www.aimyflow.com/de/ai/tamarind-bio)**
+  - Tamarind Bio ist eine KI-Infrastrukturplattform für Biotech-F&E, die eine zentrale Oberfläche und API bereitstellt, um computergestützte Biologie-Tools für das Design und die Optimierung von Antikörpern, Peptiden,...
+  - *Passende Rollen:* Molekularbiologe, Mikrobiologe, Data Scientist, Softwareentwickler +1 mehr
+
 - **[Tame My Inbox](https://www.aimyflow.com/de/ai/tamemyinbox-com)**
   - Tame My Inbox ist ein KI-E-Mail-Assistent für Gmail, der Berufstätigen hilft, die E-Mail-Flut zu reduzieren, indem er Nachrichten organisiert, Antworten in ihrem Stil formuliert, Zusagen nachverfolgt und Abonnements...
   - *Passende Rollen:* CEO, Außendienstleiter, Talent-Acquisition-Manager, Projektmanagement-Beauftragter +1 mehr
@@ -10368,10 +11334,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - taskmelt ist eine KI-gestützte Aufgabenmanager- und Brain-Dump-App, die Nutzern hilft, verstreute Gedanken in organisierte, zeitlich geblockte Zeitpläne zu verwandeln, vor allem für Menschen, die eine einfachere...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Softwareentwicklungsleiter, Hochschulprofessor +1 mehr
 
-- **[TasteRay](https://www.aimyflow.com/de/ai/tasteray-com)**
-  - TasteRay ist ein KI-gestütztes Empfehlungswerkzeug für Filme und Serien, das Zuschauerinnen und Zuschauern hilft, Titel zu finden, die zu ihrem Geschmack, ihrer Stimmung und ihrem emotionalen Profil passen, vor allem...
-  - *Passende Rollen:* Content Creator, Food-Enthusiast, Social-Media-Content-Creator, Podcast-Produzent +1 mehr
-
 - **[Tasty](https://www.aimyflow.com/de/ai/tasty-co)**
   - Tasty ist eine Plattform für Rezepte und Food-Videos, mit der Nutzer Gerichte entdecken, nachkochen und zu Hause zubereiten können – ideal für Hobbyköche und Food-Fans.
   - *Passende Rollen:* Food-Enthusiast
@@ -10383,6 +11345,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[TattooMakerPro](https://www.aimyflow.com/de/ai/tattoomakerpro-com)**
   - TattooMakerPro ist ein KI-Generator für Tattoo-Ideen, der Nutzern hilft, personalisierte und zufällige Tattoo-Konzepte zu erstellen, insbesondere für Menschen, die nach Inspiration und Gestaltungsmöglichkeiten für...
   - *Passende Rollen:* Grafikdesigner, Industriedesigner/in, Content Creator
+
+- **[Tavily](https://www.aimyflow.com/de/ai/tavily-com)**
+  - Tavily ist eine Echtzeit-API für Websuche, Extraktion, Recherche und Crawling, die Entwicklern und Unternehmen dabei hilft, KI-Agenten und RAG-Workflows über eine sichere einheitliche Schnittstelle mit aktuellen...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
 - **[Tavus](https://www.aimyflow.com/de/ai/tavus-io)**
   - Tavus ist eine KI-Plattform zum Erstellen und Bereitstellen von menschenähnlichen Videoagenten in Echtzeit, digitalen Zwillingen und KI-Begleitern, die sehen, hören und von Angesicht zu Angesicht sprechen können,...
@@ -10448,6 +11414,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - TeleportHQ ist ein KI-gestützter Low-Code-Website-Builder, der Teams dabei unterstützt, benutzerdefinierte statische Websites, UI-Komponenten und Prototypen zu entwerfen, zu erstellen, zu veröffentlichen und zu...
   - *Passende Rollen:* Softwareentwickler, Leiter Digitales Marketing, Grafikdesigner, Softwareentwicklungsleiter +1 mehr
 
+- **[Tempo](https://www.aimyflow.com/de/ai/tempo-new)**
+  - Tempo ist eine KI-gestützte Plattform zum Entwerfen und Entwickeln von React-Apps, die Designer:innen und Entwickler:innen dabei unterstützt, Frontend-Code mithilfe eines visuellen Editors und der Unterstützung...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Grafikdesigner, Projektmanagement-Beauftragter
+
 - **[TemPolor](https://www.aimyflow.com/de/ai/tempolor-com)**
   - TemPolor ist ein KI-Musikgenerator, der Nutzern hilft, lizenzfreie Songs, Instrumentalstücke, Liedtexte und auf Videos abgestimmte Soundtracks zu erstellen, vor allem für Content-Ersteller, die Videos, Werbung,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Podcast-Produzent +1 mehr
@@ -10492,6 +11462,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Termzy AI ist eine Chrome-Browsererweiterung, die KI nutzt, um Datenschutzrichtlinien sowie allgemeine Geschäftsbedingungen zu analysieren und Menschen dabei zu helfen, juristisches Kleingedrucktes beim Surfen im...
   - *Passende Rollen:* Anwalt, Cybersicherheitsanalyst, Risikoanalyst, Technischer Redakteur
 
+- **[Terracotta AI](https://www.aimyflow.com/de/ai/tryterracotta-com)**
+  - Terracotta AI ist ein Tool für die Governance von Infrastrukturänderungen, das Pull Requests für Terraform, Kubernetes und Terragrunt vor dem Merge auf Sicherheit, Compliance, Drift und Kosten prüft, insbesondere für...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwickler +1 mehr
+
 - **[TestDriver](https://www.aimyflow.com/de/ai/testdriver-ai)**
   - TestDriver ist ein KI-gestütztes End-to-End-Testtool, das robuste, nutzerähnliche Tests für Web-, Desktop-, Browser-Erweiterungs- und VS-Code-Oberflächen generiert und ausführt, hauptsächlich für QA-Ingenieure und...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Technischer Redakteur
@@ -10530,10 +11504,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[The AI Voice Generator](https://www.aimyflow.com/de/ai/theaivoicegenerator-com)**
   - Der KI-Stimmgenerator ist ein kostenloses Tool für Text-zu-Sprache und Stimmenklonung, das Kreativen hilft, realistische Voiceovers, Stimmen im Stil von Prominenten, Transkripte, Untertitel und Soundeffekte zu...
   - *Passende Rollen:* Social-Media-Content-Creator, Podcast-Produzent, Texter, Content Creator +1 mehr
-
-- **[The Checker AI](https://www.aimyflow.com/de/ai/aicheatcheck-com)**
-  - Der Checker AI ist eine Bildungsdemo zur Erkennung von KI-Inhalten, die Nutzerinnen und Nutzern dabei hilft, KI-generierte Texte von authentischen studentischen Arbeiten zu unterscheiden, insbesondere Lehrkräften,...
-  - *Passende Rollen:* Hochschulprofessor, Schulberater, Berater für Bildungstechnologie, Lehrkraft
 
 - **[The Context Company](https://www.aimyflow.com/de/ai/thecontext-company)**
   - The Context Company ist ein Tool für Observability und die Analyse des Nutzerverhaltens von KI-Agenten, das Teams dabei hilft, Produktionsgespräche zu überwachen, Frustration und stille Fehler zu erkennen, Themen zu...
@@ -10640,6 +11610,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - thomas.io ist die persönliche Website eines in Melbourne ansässigen Webentwicklers mit einem Blog und Projekten, die zeigen, was er entwickelt und worüber er für Leser schreibt, die sich für seine Entwicklungsarbeit...
   - *Passende Rollen:* Softwareentwickler, Technischer Redakteur, Content Creator
 
+- **[Thorntale](https://www.aimyflow.com/de/ai/thorntale-com)**
+  - Thorntale ist ein KI-nativer Präsentationsersteller, der Nutzern hilft, Ideen in kundenfertige Foliensätze umzuwandeln – mit automatischen Layouts, Designs, Korrekturlesen, Diagrammen und vorlagenbasierter Bearbeitung,...
+  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, CEO, Texter +1 mehr
+
+- **[Thread](https://www.aimyflow.com/de/ai/usethread-io)**
+  - Thread ist Unternehmenssoftware für Betrieb, Automatisierung und Zahlungen, die Teams dabei unterstützt, Vorfälle weiterzuleiten, einen Servicekatalog zu verwalten und die Kommunikation rund um Produktionsumgebungen zu...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
 - **[ThreadSignals](https://www.aimyflow.com/de/ai/threadsignals-com)**
   - ThreadSignals ist ein Lead-Generierungs-Tool, das Online-Gespräche nach gespeicherten Keywords durchsucht, um Gründern, Marketingfachleuten und Outreach-Teams dabei zu helfen, warme Leads zu finden, die bereits über...
   - *Passende Rollen:* Außendienstleiter, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO +1 mehr
@@ -10672,6 +11650,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ThunDroid AI ist eine iPhone-Wellness-App, die Nutzern hilft, Stress, Angstzustände, Tagebuchführung, Atemübungen, Stimmungsverfolgung und ernährungsbezogene Erkenntnisse auf Basis von Lebensmitteln zu bewältigen,...
   - *Passende Rollen:* Wellness-Coach, Schulberater, Gesundheitsadministrator
 
+- **[Thyme, now transitioned to Hazel through a partnership with Altruist,](https://www.aimyflow.com/de/ai/meetthyme-com)**
+  - Thyme, das nun durch eine Partnerschaft mit Altruist zu Hazel geworden ist, ist eine KI-Plattform für Vermögensverwalter und Finanzberater, die Meeting-Workflows, das Onboarding von Kunden und die Dokumentenanalyse...
+  - *Passende Rollen:* Finanzanalyst, Finanzchef, Portfoliomanager/in, Manager Finanzplanung & Analyse +1 mehr
+
 - **[Ticketify](https://www.aimyflow.com/de/ai/ticketify-io)**
   - Ticketify ist ein KI-Ticket-Generator, der Ideen oder Fehlerberichte in strukturierte Tickets für Jira, Linear und andere Projektmanagement-Plattformen umwandelt, hauptsächlich für Entwickler. In KI-gestützten...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef
@@ -10683,10 +11665,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Tidio](https://www.aimyflow.com/de/ai/tidio-com)**
   - Tidio ist eine KI-Kundendienstplattform, mit der Unternehmen Support verwalten, Leads ansprechen und Gespräche automatisieren können – ideal für E-Commerce-Teams und Support-Abteilungen.
   - *Passende Rollen:* E-Commerce-Verkäufer
-
-- **[Tidio Copilot](https://www.aimyflow.com/de/ai/copilot-tidio-com)**
-  - Tidio Copilot ist ein kostenloser KI-Assistent für Helpdesks, der mit bestehenden Supportsystemen zusammenarbeitet, um Teams dabei zu helfen, Kundendienstaufgaben effizienter zu bewältigen, insbesondere für...
-  - *Passende Rollen:* E-Commerce-Verkäufer, Restaurantleiter, Filialleiter, Betriebschef +1 mehr
 
 - **[TikTok for Business](https://www.aimyflow.com/de/ai/ads-tiktok-com)**
   - TikTok for Business ist eine Werbeplattform, die Marken, Agenturen und Creators beim Erstellen, Verwalten und Optimieren von Kampagnen für TikTok-Formate und Zielgruppen unterstützt. Im KI-Zeitalter hilft sie...
@@ -10715,6 +11693,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Titles.video ist ein KI-Tool zur YouTube-Optimierung, das veröffentlichte, nicht gelistete oder unveröffentlichte Videos analysiert, um Titeloptionen mit CTR-Werten sowie Beschreibungen, Tags und Wettbewerbsvergleiche...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Texter +1 mehr
 
+- **[Tivara](https://www.aimyflow.com/de/ai/tivara-com)**
+  - Tivara ist eine KI-gestützte Plattform für die Patientenkommunikation, die telefonische Arbeitsabläufe im Gesundheitswesen wie Terminvereinbarung, Rezeptnachfüllungen, Aufnahmeprozesse, Erinnerungen und Triage...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Hausarzt, Häusliche Pflegekraft +1 mehr
+
 - **[TLDRly](https://www.aimyflow.com/de/ai/tldrly-ai)**
   - TLDRly ist eine Chrome-Erweiterung, die KI nutzt, um YouTube-Videos, Webseiten und ausgewählten Text zusammenzufassen und zu übersetzen. So können Studierende, Forschende, Journalistinnen und Journalisten sowie andere...
   - *Passende Rollen:* TV-Nachrichtenreporter, Technischer Redakteur, Hochschulprofessor, Content Creator +1 mehr
@@ -10723,9 +11705,17 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - To-Teach ist ein KI-Tool für Unterrichtsplanung und Inhaltserstellung, das Lehrkräften hilft, Unterrichtspläne, Übungen, Arbeitsblätter und fachspezifische Materialien zu erstellen, die auf ihre Schülerinnen und...
   - *Passende Rollen:* Lehrkraft, Berater für Bildungstechnologie, Hochschulprofessor, Dozent am Community College +1 mehr
 
+- **[TokenOwl](https://www.aimyflow.com/de/ai/tokenowl-ai)**
+  - TokenOwl ist ein KI-gestütztes Portfolio- und Steuerreporting-Tool, das sich mit Wallets und Börsen verbindet, um Krypto-Nutzern dabei zu helfen, Transaktionen zu kategorisieren, Aktivitäten abzugleichen und...
+  - *Passende Rollen:* Wirtschaftsprüfer, Finanzanalyst, Steuermanager, Risikoanalyst +1 mehr
+
 - **[Toki](https://www.aimyflow.com/de/ai/yestoki-com)**
   - Toki ist ein KI-Kalenderassistent, der Menschen dabei hilft, Zeitpläne, Erinnerungen und Termine per Text, Sprache oder Bilder zu verwalten, und dabei Google Kalender, Apple Kalender und Outlook synchronisiert, was ihn...
   - *Passende Rollen:* CEO, Projektmanagement-Beauftragter, Betriebschef, Filialleiter +1 mehr
+
+- **[Toma](https://www.aimyflow.com/de/ai/toma-com)**
+  - Toma ist ein KI-Betriebssystem für Autohäuser, das Sprachagenten einsetzt, um eingehende Anrufe zu bearbeiten, Service-Termine zu vereinbaren, Leads zu qualifizieren, Erinnerungen zu versenden sowie Kundengespräche mit...
+  - *Passende Rollen:* Außendienstleiter, Restaurantleiter, Projektmanagement-Beauftragter, Betriebschef
 
 - **[Tome App AI](https://www.aimyflow.com/de/ai/tomeapp-ai)**
   - Tome App AI ist ein KI-Präsentationstool, das Nutzern hilft, PowerPoint-Präsentationen aus Texten, PDFs, Word-Dateien, Webseiten, YouTube-Videos und vorhandenen Folien zu erstellen, zu verschönern, zu bearbeiten und zu...
@@ -10771,6 +11761,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der TopMediai AI Music Generator ist ein Online-Tool, das lizenzfreie Songs aus Texteingaben, Liedtexten oder Bildern erstellt, hauptsächlich für Kreative und Marken, die originelle Musik in verschiedenen Genres,...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Podcast-Produzent +1 mehr
 
+- **[Topo](https://www.aimyflow.com/de/ai/topo-io)**
+  - Topo ist eine KI-Vertriebsplattform, die Vertriebsteams bei der Outbound-Akquise unterstützt, indem sie ICP-Leads findet, Intent-Signale identifiziert, Prospects qualifiziert, Daten anreichert und kanalübergreifende...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, CEO, Betriebschef +1 mehr
+
 - **[Topological](https://www.aimyflow.com/de/ai/topological-com)**
   - Topological ist eine physikbasierte KI-Plattform für die CAD-Optimierung, die Hardware- und Maschinenbauteams dabei unterstützt, Entwürfe für komplexe physikalische Probleme unter Berücksichtigung von Geometrie,...
   - *Passende Rollen:* Maschinenbauingenieur/in, Softwareentwickler, Elektroingenieur, Bauingenieur +1 mehr
@@ -10783,17 +11777,25 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Touchpoint ist ein KI-gestützter E-Mail-Template-Builder, der Nutzern hilft, responsive, markenkonforme HTML-E-Mails und Kampagnen ohne Programmier- oder Designkenntnisse zu erstellen, vor allem für Marketer, kleine...
   - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Texter, Social-Media-Content-Creator +1 mehr
 
+- **[Tower AI](https://www.aimyflow.com/de/ai/withtower-com)**
+  - Tower AI ist eine KI-gestützte Due-Diligence-Management-Plattform, die M&A- und Rechtsteams dabei unterstützt, Informationen aus Datenräumen und anderen unstrukturierten Dokumenten in einem sicheren, kollaborativen...
+  - *Passende Rollen:* Anwalt, Finanzanalyst, Projektmanagement-Beauftragter, CEO
+
 - **[Trace](https://www.aimyflow.com/de/ai/trace-so)**
   - Trace ist ein Software-Tool für digitale Workflows, das Teams dabei unterstützt, Arbeit besser zu organisieren, zu überwachen oder zu analysieren.
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +16 mehr
 
-- **[TrackMyBusiness](https://www.aimyflow.com/de/ai/trackmybusiness-ai)**
-  - TrackMyBusiness ist ein KI-Tool zur Markenüberwachung, das verfolgt, wie ChatGPT, Gemini, Perplexity und Claude ein Unternehmen erwähnen, und SaaS-Unternehmen, E-Commerce-Marken, Beratern und Agenturen dabei hilft,...
-  - *Passende Rollen:* Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, CEO, Betriebschef +1 mehr
+- **[Tracecat](https://www.aimyflow.com/de/ai/tracecat-com)**
+  - Tracecat ist eine Open-Source-Plattform für KI-Sicherheitsautomatisierung, die Sicherheitsteams dabei unterstützt, Agenten, Workflows und Fälle zu erstellen und auszuführen, um Incident Response, Untersuchungen sowie...
+  - *Passende Rollen:* Cybersicherheitsanalyst, Cybersicherheitsmanager, IT-Infrastrukturmanager/in, Softwareentwickler +1 mehr
 
 - **[TractorBeam](https://www.aimyflow.com/de/ai/tractorbe-am)**
   - TractorBeam ist ein KI-gestützter Accountability-Partner, der Nutzer täglich anruft, Ziele und Gewohnheiten in einem Live-Dashboard verfolgt und Text-Support bietet – vor allem für Menschen, die konsequente Routinen...
   - *Passende Rollen:* Wellness-Coach, Projektmanagement-Beauftragter, Leadership-Coach für Unternehmen, Content Creator +1 mehr
+
+- **[TradeFlow](https://www.aimyflow.com/de/ai/tradeflowai-com)**
+  - TradeFlow ist eine KI-gestützte Plattform für Post-Trade-Operations, die Finanzunternehmen dabei unterstützt, Trade-Settlement-Workflows zu automatisieren, indem sie unstrukturierte Daten verarbeitet, zwischen internen...
+  - *Passende Rollen:* Finanzanalyst, Risikoanalyst, Projektmanagement-Beauftragter, Finanzchef +1 mehr
 
 - **[Tradepost.ai](https://www.aimyflow.com/de/ai/tradepost-ai)**
   - Tradepost.ai ist eine KI-Plattform für Finanzanalyse, die aus Newslettern, SEC-Filings und Marktsignalen Trading-Insights ableitet – ideal für Investoren und Trader.
@@ -10859,6 +11861,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - TreeMind ist ein Online-Tool für KI-gestützte Mindmaps, das Nutzern hilft, Mindmaps aus Prompts, Bildern und Dokumenten zu erstellen, zu bearbeiten und zu teilen, vor allem für Teams, Studierende und Wissensarbeiter...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Berater für Bildungstechnologie, Finanzanalyst, Hochschulprofessor +1 mehr
 
+- **[Trellis](https://www.aimyflow.com/de/ai/runtrellis-com)**
+  - Trellis ist eine KI-Plattform für vorgelagerte Betriebsabläufe, die Gesundheitsdienstleistern und Diagnostiklaboren hilft, Aufnahmeprozesse, Anspruchsprüfungen, Vorabgenehmigungen und Einsprüche zu automatisieren, um...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Spezialist für Arbeitsmedizin, IT-Infrastrukturmanager/in
+
 - **[TrendHopper](https://www.aimyflow.com/de/ai/trendhopper-ai)**
   - TrendHopper ist eine KI-Plattform für Content-Automatisierung und Blog-Hosting, die Nutzern hilft, SEO-fokussierte Artikel zu planen, zu erstellen, zu optimieren und zu veröffentlichen – vor allem für Blogger, Marketer...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Social-Media-Content-Creator, CEO +1 mehr
@@ -10875,6 +11881,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Trickle ist ein KI-gestützter App- und Website-Builder, der natürliche Sprache nutzt, um Nutzern dabei zu helfen, Ideen in live geschaltete Web-Apps, Websites und interne Tools zu verwandeln, vor allem für Maker,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Leiter Digitales Marketing +1 mehr
 
+- **[Trigger.dev](https://www.aimyflow.com/de/ai/trigger-dev)**
+  - Trigger.dev ist eine Open-Source-Plattform für Entwickler, mit der sich KI-Agenten und langlaufende TypeScript-Workflows mit Wiederholungen, Warteschlangen, Zeitplanung, Beobachtbarkeit und elastischer Skalierung...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
+
 - **[Trim](https://www.aimyflow.com/de/ai/trimresearch-com)**
   - Trim ist ein KI-Basismodell für die Physik, das reale physikalische Systeme im Zeitverlauf simuliert und Nutzern hilft, das zukünftige Systemverhalten effizienter als mit herkömmlichen Simulationen zu erzeugen,...
   - *Passende Rollen:* Theoretischer Physiker, Angewandter Mathematiker, Data Scientist, Softwareentwickler +1 mehr
@@ -10890,6 +11900,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - TriviaPixel ist ein KI-Quizgenerator, der Menschen dabei hilft, benutzerdefinierte Quizze zu jedem Thema zu erstellen, zu bearbeiten und zu spielen, vor allem für Gelegenheitsspieler, Freundesgruppen und alle, die...
   - *Passende Rollen:* Lehrkraft, Schulberater, Leadership-Coach für Unternehmen, Programmmanager Non-Profit +1 mehr
 
+- **[truemetrics](https://www.aimyflow.com/de/ai/truemetrics-io)**
+  - truemetrics ist ein Tool und SDK zur Optimierung der Zustellung auf der letzten Meile, das über die Mobilgeräte von Kurieren präzise Gebäudeeingänge und Parkpositionen erfasst und Lieferunternehmen sowie Logistikteams...
+  - *Passende Rollen:* Logistikplaner/in, Außendienstleiter, Betriebschef, Softwareentwicklungsleiter
+
 - **[Truffle AI](https://www.aimyflow.com/de/ai/trytruffle-ai)**
   - Truffle AI ist eine Plattform und ein SDK zum Erstellen, Bereitstellen und Skalieren serverloser KI-Agenten, die Workflows automatisieren, sich in bestehende Software integrieren und Geschäftsdaten abfragen,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef
@@ -10902,6 +11916,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Truth Systems ist eine programmatische KI-Governance- und einheitliche Compliance-Lösung, die Organisationen, insbesondere Rechtsteams und Innovationsverantwortlichen, dabei hilft, nicht konforme KI-Nutzung über...
   - *Passende Rollen:* Cybersicherheitsmanager, Risikoanalyst, IT-Infrastrukturmanager/in, Betriebschef +1 mehr
 
+- **[TruthSuite](https://www.aimyflow.com/de/ai/truthsuite-com)**
+  - TruthSuite ist ein KI-gestützter juristischer Assistent und ein Tool zur Dokumentenzusammenfassung, das Anwälten und juristischen Teams dabei hilft, medizinische Unterlagen zu organisieren, Schlüsselfakten aus EBTs und...
+  - *Passende Rollen:* Anwalt, Fachkraft für medizinische Abrechnung, Technischer Redakteur, Gesundheitsadministrator
+
 - **[TruVerifAI](https://www.aimyflow.com/de/ai/truverif-ai)**
   - TruVerifAI ist eine KI-Plattform, die eine Anfrage gleichzeitig durch GPT, Claude, Gemini und Grok ausführt, um konsensbasierte, faktengeprüfte Antworten für Nutzer in Bereichen wie Marktforschung, Content-Erstellung,...
   - *Passende Rollen:* Finanzanalyst, Leiter Digitales Marketing, Texter, E-Commerce-Verkäufer +1 mehr
@@ -10909,10 +11927,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Try Again AI](https://www.aimyflow.com/de/ai/tryagain-ai)**
   - Try Again AI ist ein Selbsthilfe-Tool, das seinen Keymaker-Algorithmus nutzt, um Kombinationen von Methoden für reale Probleme wie Prokrastination, Fokus, Routinen, Fitness, Arbeit und Beziehungen zusammenzustellen,...
   - *Passende Rollen:* Wellness-Coach, Schulberater, Leadership-Coach für Unternehmen, Gesundheitsadministrator
-
-- **[TryRankSense](https://www.aimyflow.com/de/ai/tryranksense-com)**
-  - TryRankSense ist ein KI-gestütztes SEO-Tool, das eine Website scannt, technische, On-Page- und Content-Probleme nach ihrer Auswirkung priorisiert und Website-Besitzern sowie SEO-Fachleuten dabei hilft zu erkennen, was...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Softwareentwickler, CEO
 
 - **[TTSynth.com](https://www.aimyflow.com/de/ai/ttsynth-com)**
   - TTSynth.com ist ein kostenloser Online-Text-zu-Sprache-Generator, der geschriebenen Text in herunterladbare MP3-Audiodateien mit mehreren Sprachen und natürlich klingenden Stimmen umwandelt, insbesondere für...
@@ -10928,6 +11942,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 
 - **[TuckMeIn](https://www.aimyflow.com/de/ai/tuckmein-app)**
   - TuckMeIn ist ein KI-Generator für Gutenachtgeschichten, der personalisierte Kindergeschichten mit optionaler Audioerzählung erstellt und dabei den Namen des Kindes, seine Interessen und die Werte der Familie...
+
+- **[Tuesday Lab](https://www.aimyflow.com/de/ai/tuesdaylab-com)**
+  - Tuesday Lab ist ein Engineering-Studio, das sich auf die Entwicklung „begeisternder Roboter“ konzentriert und sich hauptsächlich an Teams und Organisationen richtet, die maßgeschneiderte Expertise im Bereich...
+  - *Passende Rollen:* Maschinenbauingenieur/in, Elektroingenieur, Softwareentwickler, Projektmanagement-Beauftragter +1 mehr
 
 - **[Tufa](https://www.aimyflow.com/de/ai/tufa-io)**
   - Tufa ist ein KI-gestütztes Social-Media-Management-Tool, das Unternehmen, Marketingfachleuten und Teams dabei hilft, markenkonforme Inhalte zu erstellen, Beiträge zu gestalten sowie diese über mehrere soziale...
@@ -10949,6 +11967,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - TurboScribe ist ein KI-Transkriptionsdienst, mit dem Nutzer Audio und Video schnell in Text und Untertitel umwandeln können – für Creator, Forscher und Business-Teams.
   - *Passende Rollen:* Lehrkraft
 
+- **[Tusk](https://www.aimyflow.com/de/ai/usetusk-ai)**
+  - Tusk ist eine KI-gestützte Testplattform, die Produktions-Traffic in Unit- und API-Tests umwandelt, um Entwicklungsteams dabei zu helfen, Regressionen zu verhindern, die Testabdeckung zu erhöhen und sichereres...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, IT-Infrastrukturmanager/in
+
 - **[Tutor AI](https://www.aimyflow.com/de/ai/tutorai-me)**
   - Tutor AI ist eine KI-Nachhilfeplattform, die Nutzerinnen und Nutzern dabei hilft, personalisierte Kurse zu erstellen, Erklärungen und schrittweise Hausaufgabenhilfe zu erhalten und Fortschritte zu verfolgen – vor allem...
   - *Passende Rollen:* Berater für Bildungstechnologie, Online-Programmierlehrer, Nachhilfelehrer für Testvorbereitung, Leadership-Coach für Unternehmen +1 mehr
@@ -10969,6 +11991,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Twistly ist ein KI-Präsentationstool für Microsoft PowerPoint, das Nutzern hilft, bearbeitbare Foliensätze aus Prompts, PDFs, Word-Dokumenten, Texten und Videos zu erstellen, vor allem für Studierende, Lehrkräfte,...
   - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Talent-Acquisition-Manager, Lehrkraft +1 mehr
 
+- **[Typa](https://www.aimyflow.com/de/ai/typa-ai)**
+  - Typa ist eine KI-Content-Engine, die Nutzer dabei unterstützt, narrativ getriebene Inhalte zu entwickeln und zu skalieren, indem sie die Markenstimme wahrt, eine Wissensdatenbank aktualisiert und einen stets aktiven...
+  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Social-Media-Content-Creator, Content Creator +1 mehr
+
 - **[Typewise](https://www.aimyflow.com/de/ai/typewise-app)**
   - Typewise ist eine KI-Plattform für den Kundenservice in Unternehmen, die Geschäftsteams dabei unterstützt, KI-Agenten für Support-, Vertriebs- und Commerce-Workflows kanalübergreifend einzuführen und zu verwalten – mit...
   - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Softwareentwicklungsleiter
@@ -10984,6 +12010,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[uBest](https://www.aimyflow.com/de/ai/ubest-ae)**
   - uBest ist eine KI-gestützte Recruiting-Plattform und ein Managed-Hiring-Service, der Sourcing, Ansprache, Vorauswahl, Shortlisting, Terminplanung und Kandidatenverfolgung für Hiring-Teams in den VAE und der MENA-Region...
   - *Passende Rollen:* Talent-Acquisition-Manager, CEO, Betriebschef, Projektmanagement-Beauftragter
+
+- **[Ubicloud](https://www.aimyflow.com/de/ai/ubicloud-com)**
+  - Ubicloud ist eine Open-Source-Cloud-Plattform und AWS-Alternative, die Teams dabei unterstützt, elastische Rechenleistung, Blockspeicher, Netzwerke, verwaltetes PostgreSQL und GitHub-Actions-Runner auf...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Data Engineer, Softwareentwickler +1 mehr
 
 - **[udioai.ai](https://www.aimyflow.com/de/ai/udioai-ai)**
   - udioai.ai ist eine Seite mit einer Sperrmitteilung, die erklärt, dass die Website eine Nachahmung von Udio war, dass dort abgeschlossene Abonnements bei Udio ungültig sind und dass betroffene Nutzer diese kündigen und...
@@ -11013,6 +12043,18 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Unblur Image ist ein KI-gestütztes Online-Tool zur Bildentrauschung, das Nutzern hilft, Bewegungsunschärfe zu korrigieren, unscharfe Bilder zu schärfen, alte Fotos wiederherzustellen und die Lesbarkeit von Text zu...
   - *Passende Rollen:* Grafikdesigner, Content Creator, E-Commerce-Verkäufer, Social-Media-Content-Creator +1 mehr
 
+- **[Unbound AI](https://www.aimyflow.com/de/ai/getunbound-ai)**
+  - Unbound AI ist ein Security Broker für den Zugriff durch Agenten, der Entwicklungs- und Sicherheitsteams dabei unterstützt, KI-Coding-Agenten zu erkennen, Risiken zu bewerten und Richtlinien für Terminalbefehle,...
+  - *Passende Rollen:* Cybersicherheitsmanager, Softwareentwicklungsleiter, Cybersicherheitsanalyst, IT-Infrastrukturmanager/in +1 mehr
+
+- **[Undermind](https://www.aimyflow.com/de/ai/undermind-ai)**
+  - Undermind ist ein KI-gestützter Assistent für die Recherche wissenschaftlicher Literatur, der Publikationen und Zitationsnetzwerke durchsucht, um Forschenden und F&E-Teams dabei zu helfen, schnell relevante Evidenz zu...
+  - *Passende Rollen:* Molekularbiologe, Mikrobiologe, Chemiker, Data Scientist +1 mehr
+
+- **[Understood Care](https://www.aimyflow.com/de/ai/understoodcare-com)**
+  - Understood Care ist ein virtueller Medicare-Unterstützungs- und Patientenfürsprachedienst, der Menschen in den gesamten USA dabei hilft, die Koordination der Versorgung, Ansprüche, Formalitäten, Termine, Medikamente,...
+  - *Passende Rollen:* Gesundheitsadministrator, Häusliche Pflegekraft, Pflegeassistent, Fachkraft für medizinische Abrechnung +1 mehr
+
 - **[Undetectable AI](https://www.aimyflow.com/de/ai/undetectable-ai)**
   - Undetectable AI ist ein kostenloses KI-Erkennungstool, das prüft, ob Text von großen Detektoren möglicherweise als KI-generiert gekennzeichnet wird, mit optionalen Humanisierungsfunktionen für Autoren, Marketer,...
   - *Passende Rollen:* Texter, Leiter Digitales Marketing, Technischer Redakteur, Hochschulprofessor +1 mehr
@@ -11041,6 +12083,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Unify ist ein All-in-one-KI-Workspace für Video, Bild, Musik und Chat, der Kreativen, Marketingteams und kleinen Teams hilft, Kurzvideos, Produktvisualisierungen, Voiceovers und kreative Assets auf einer einzigen...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Social-Media-Content-Creator, Texter +1 mehr
 
+- **[Unify AI](https://www.aimyflow.com/de/ai/unify-ai)**
+  - Unify AI ist eine Plattform für die Einstellung, Anpassung und Verwaltung von KI-Assistenten, die Arbeitsabläufe über Anrufe, E-Mails oder Bildschirmfreigabe erlernen, um Aufgaben wie Due Diligence, Marktforschung,...
+  - *Passende Rollen:* Projektmanagement-Beauftragter, Finanzanalyst, Betriebschef, Steuermanager +1 mehr
+
 - **[UNIKBET](https://www.aimyflow.com/de/ai/coqui-ai)**
   - UNIKBET scheint eine Online-Glücksspielplattform für Toto 4D und Spielautomaten zu sein, die Spielern Zugang zu Wettmärkten, Spiellisten sowie Optionen für die Kontoanmeldung oder -registrierung bietet. In einer...
 
@@ -11059,10 +12105,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Unschooler](https://www.aimyflow.com/de/ai/unschooler-me)**
   - Unschooler ist eine KI-gestützte Lern- und Entwicklungsplattform, die Unternehmen, Lehrkräften, Universitäten und Schulen dabei hilft, aus ihrem vorhandenen Wissen und ihren Dateien personalisierte Videokurse mit...
   - *Passende Rollen:* Berater für Bildungstechnologie, Talent-Acquisition-Manager, Leadership-Coach für Unternehmen, Projektmanagement-Beauftragter +1 mehr
-
-- **[Unscreen](https://www.aimyflow.com/de/ai/unscreen-com)**
-  - Unscreen war ein Tool zur Entfernung von Videohintergründen für Kreative und Videoeditoren, wurde jedoch dauerhaft eingestellt und verweist Nutzer nun auf den Videoeditor von Canva als empfohlene Alternative. Für Teams...
-  - *Passende Rollen:* Content Creator, Grafikdesigner, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
 
 - **[Unsiloed AI](https://www.aimyflow.com/de/ai/unsiloed-ai)**
   - Unsiloed AI ist eine Dokumentenverarbeitungsplattform, die multimodale unstrukturierte Daten wie PDFs, Tabellen, Präsentationsfolien und Bilder in strukturiertes JSON oder Markdown für LLMs, KI-Agenten und...
@@ -11088,6 +12130,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - UseResume AI ist ein KI-gestützter Lebenslauf-Generator, der Arbeitssuchenden hilft, ATS-optimierte Lebensläufe und Anschreiben zu erstellen, die auf spezifische Stellenbeschreibungen zugeschnitten sind – entweder auf...
   - *Passende Rollen:* Talent-Acquisition-Manager, Texter, Technischer Redakteur
 
+- **[Usul](https://www.aimyflow.com/de/ai/usul-com)**
+  - Usul ist eine KI-Plattform für Verteidigungsauftragnehmer, die Teams dabei unterstützt, relevante Vertragsmöglichkeiten zu finden, Finanzierungsquellen und Entscheidungsträger zu identifizieren, Wettbewerber zu...
+  - *Passende Rollen:* Außendienstleiter, CEO, Projektmanagement-Beauftragter, Betriebschef
+
 - **[Uthana](https://www.aimyflow.com/de/ai/uthana-com)**
   - Uthana ist eine KI-Plattform für menschliche Bewegung, die Nutzern hilft, Charakteranimationen aus Text-, Video- und Echtzeiteingaben zu generieren, zu retargeten, zu riggen und zu steuern, vor allem für Animatoren,...
   - *Passende Rollen:* Softwareentwicklungsleiter, Unabhängige/r Filmemacher/in, Grafikdesigner, Softwareentwickler +1 mehr
@@ -11104,6 +12150,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Der faceless Video-Generator von Vadoo AI ist ein browserbasiertes KI-Videotool, das Text-Prompts oder Skripte in faceless Kurzvideos mit Visuals, Voiceovers, Bildunterschriften, Untertiteln, Musik und B-Roll...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Texter, Grafikdesigner +1 mehr
 
+- **[Vaero](https://www.aimyflow.com/de/ai/vaero-ai)**
+  - Vaero ist ein KI-Schreibtool, das Nutzern dabei hilft, Texte zu erstellen und zu vermenschlichen, damit sie ihrem persönlichen Schreibstil entsprechen, insbesondere für Schüler und Studierende, die an Schul- und...
+  - *Passende Rollen:* Hochschulprofessor, Dozent am Community College, Technischer Redakteur, Texter +1 mehr
+
 - **[Vaethat](https://www.aimyflow.com/de/ai/vaethat-com)**
   - Vaethat ist ein KI-Render-Enhancer für Profis der Architekturdarstellung, der ihnen hilft, 3D-Renderings mit Presets, Batch-Projektverarbeitung und KI zu vergrößern und zu verbessern, die speziell auf Archviz-Workflows...
   - *Passende Rollen:* Gewerbearchitekt, Wohnarchitekt, Grafikdesigner, Innenarchitekt/in +1 mehr
@@ -11111,6 +12161,14 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Valerie Health](https://www.aimyflow.com/de/ai/valeriehealth-com)**
   - Valerie Health ist eine KI-Plattform für Gesundheitsbetriebsabläufe, die unabhängigen Leistungserbringergruppen dabei hilft, Front-Office-Workflows wie Überweisungsmanagement, Terminplanung, Fax- und...
   - *Passende Rollen:* Gesundheitsadministrator, Betriebschef, Projektmanagement-Beauftragter, Fachkraft für medizinische Abrechnung
+
+- **[Vanna AI](https://www.aimyflow.com/de/ai/vanna-ai)**
+  - Vanna AI ist ein Open-Source-SQL-Agenten-Framework, das Teams dabei hilft, produktionsreife KI-Agenten zu entwickeln, um Unternehmensdatenbanken und führende Systeme per natürlicher Sprache abzufragen, insbesondere für...
+  - *Passende Rollen:* Data Engineer, Data Scientist, Softwareentwickler, IT-Infrastrukturmanager/in +1 mehr
+
+- **[Variance](https://www.aimyflow.com/de/ai/variance-co)**
+  - Variance ist eine KI-gestützte Plattform für Risikointelligenz, die Unternehmen dabei unterstützt, Betrug, Verstöße bei nutzergenerierten Inhalten, Missbrauch auf Marktplätzen und andere Trust-and-Safety-Risiken zu...
+  - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, Risikoanalyst, Betriebschef +1 mehr
 
 - **[Variant](https://www.aimyflow.com/de/ai/variant-ai)**
   - Variant ist ein KI-gestütztes Tool zur Designexploration, das durch Scrollen aus einer Idee unendlich viele Designoptionen für Apps oder Websites zeigt, hauptsächlich für Menschen, die Konzepte und Interfaces für...
@@ -11123,6 +12181,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[VDraw AI Flowchart Generator](https://www.aimyflow.com/de/ai/vdraw-ai-ai-flowchart-generator)**
   - VDraw AI Flowchart Generator ist ein KI-Tool, das Text, Blog-Inhalte und Videozusammenfassungen in anpassbare Flussdiagramme im handgezeichneten Stil umwandelt, vor allem für Personen, die Blogbeiträge, Präsentationen,...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Projektmanagement-Beauftragter, Lehrkraft +1 mehr
+
+- **[VectorShift](https://www.aimyflow.com/de/ai/vectorshift-ai)**
+  - VectorShift ist eine End-to-End-KI-Automatisierungsplattform, die Teams dabei unterstützt, KI-Apps, Chatbots, Suchwerkzeuge und Workflow-Automatisierungen mit No-Code-Tools oder einem Python-SDK zu erstellen,...
+  - *Passende Rollen:* Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Betriebschef, Softwareentwickler +1 mehr
 
 - **[VectorUbi](https://www.aimyflow.com/de/ai/vectorubi-com)**
   - VectorUbi ist ein KI-Generator für Vektorillustrationen, der Content-Erstellern, Entwicklern und Marketern hilft, anpassbare SVG- und PNG-Illustrationen in Sekundenschnelle zu erstellen, zu bearbeiten und...
@@ -11156,9 +12218,29 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - VeeVi ist ein gesichtsloser KI-Video-Generator, der Text oder Themenideen in anpassbare Kurzvideos mit Stimmen, Untertiteln, Musik, Stilen und Exportoptionen für YouTube Shorts und TikTok umwandelt, vor allem für...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Texter, Content Creator
 
+- **[Veles](https://www.aimyflow.com/de/ai/getveles-com)**
+  - Veles ist eine Plattform zur Preisgestaltung, die Vertriebsmitarbeitern, Sales Ops und RevOps hilft, flexible Angebote zu erstellen, Margen zu analysieren und komplexe Preisgestaltung zu verwalten, ohne ihr bestehendes...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Manager Finanzplanung & Analyse, Projektmanagement-Beauftragter +1 mehr
+
+- **[Vellum](https://www.aimyflow.com/de/ai/vellum-ai)**
+  - Vellum ist ein persönlicher Desktop-KI-Assistent für macOS und iOS, der sich mit Ihren Apps verbindet, Ihren Kontext versteht und Einzelpersonen dabei hilft, E-Mails, Terminplanung, Webaufgaben, Programmierung und...
+  - *Passende Rollen:* CEO, Softwareentwickler, Projektmanagement-Beauftragter, Betriebschef +1 mehr
+
+- **[Velos](https://www.aimyflow.com/de/ai/tryvelos-com)**
+  - Velos ist eine KI-gestützte Backoffice-Automatisierungsplattform, die Versicherungs- und Finanzteams, insbesondere Versicherer, MGAs, MGUs und TPAs, dabei unterstützt, manuelle Arbeitsabläufe wie die Erfassung von...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Finanzanalyst, IT-Infrastrukturmanager/in
+
+- **[Vendora](https://www.aimyflow.com/de/ai/vendora-io)**
+  - Vendora ist eine All-in-One-Software für das Lebensmittelmanagement, die Supermärkten und anderen Lebensmitteleinzelhändlern dabei hilft, Kassensystem, Bestand, E-Commerce, Liefer-App-Management, Kundenbindung und...
+  - *Passende Rollen:* Restaurantleiter, Leiter E-Commerce-Vertrieb, Filialleiter, Leiter Digitales Marketing +1 mehr
+
 - **[Venngage AI Infographic Generator](https://www.aimyflow.com/de/ai/venngage-com-ai-tools-infographic-generator)**
   - Der Venngage AI Infografik-Generator ist ein Text-zu-Infografik-Tool, das Nutzern hilft, Eingabeaufforderungen, Zusammenfassungen und Daten in anpassbare visuelle Infografiken umzuwandeln, vor allem für Fachleute,...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Content Creator, Manager Mitarbeiterbeziehungen +1 mehr
+
+- **[Venta AI](https://www.aimyflow.com/de/ai/getventa-ai)**
+  - Venta AI ist ein KI-gestütztes Tool für Vertriebsrecherche und Outreach für europäische Vertriebsteams, das Nutzern hilft, qualifizierte Unternehmen und Kontakte zu finden, Kaufsignale zu recherchieren und...
+  - *Passende Rollen:* Außendienstleiter, Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, CEO +1 mehr
 
 - **[VentureVault](https://www.aimyflow.com/de/ai/venturevault-space)**
   - VentureVault ist eine kostenlose Plattform zur Recherche von Startup-Ideen, die Gründern und Unternehmern dabei hilft, validierte Geschäftsideen zu durchsuchen und Märkte mithilfe KI-gestützter Analysen von...
@@ -11204,6 +12286,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Veritus bietet KI-gestützte Sprach-, SMS-, E-Mail- und Chat-Agenten für die Konsumentenkreditbranche und unterstützt Kreditgeber, Servicer und Inkassoagenturen bei der Steuerung von Kundenakquise, Bestandsverwaltung...
   - *Passende Rollen:* Finanzanalyst, Betriebschef, Projektmanagement-Beauftragter, Filialleiter
 
+- **[Versive](https://www.aimyflow.com/de/ai/getversive-com)**
+  - Versive ist eine KI-gestützte Plattform für Nutzerforschung und Tests, die Produktteams dabei unterstützt, Usability-Studien mit realen und simulierten Nutzern zu konzipieren, durchzuführen und auszuwerten,...
+  - *Passende Rollen:* Grafikdesigner, Softwareentwicklungsleiter, Projektmanagement-Beauftragter, Softwareentwickler +1 mehr
+
 - **[Vertech Academy](https://www.aimyflow.com/de/ai/vertechacademy-ca)**
   - Die Vertech Academy ist eine Bibliothek mit KI-Lernprompts, die Studierenden hilft, Unterrichtsmaterialien mithilfe von Tools wie ChatGPT, Claude und Gemini in klarere Erklärungen, Lernleitfäden und...
   - *Passende Rollen:* Nachhilfelehrer für Testvorbereitung, Lehrkraft, Hochschulprofessor, Schulberater
@@ -11211,6 +12297,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Vetnio](https://www.aimyflow.com/de/ai/vetnio-com)**
   - Vetnio ist ein KI-Copilot für Tierärztinnen und Tierärzte, der Konsultationen und Telefonate aufzeichnet, klinische Notizen erstellt, die Diagnostik unterstützt und bei der Verwaltung von Anrufen und Nachrichten hilft...
   - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, Wellness-Coach
+
+- **[VetRec](https://www.aimyflow.com/de/ai/vetrec-io)**
+  - VetRec ist ein KI-gestützter veterinärmedizinischer Dokumentationsassistent, der SOAP-Notizen, Krankenakten, Patientenzusammenfassungen und klinische Dokumentation für tierärztliche Fachkräfte und Praxen automatisiert....
+  - *Passende Rollen:* Gesundheitsadministrator, Medizinische/r Labortechniker/in, Betriebschef, Projektmanagement-Beauftragter
 
 - **[VFast AI’s Wan 2.6 text-to-video tool](https://www.aimyflow.com/de/ai/vfast-ai-ai-text-to-video)**
   - Das Text-zu-Video-Tool Wan 2.6 von VFast AI ist ein KI-Videogenerator, der Nutzern hilft, kurze Videos aus schriftlichen Eingabeaufforderungen zu erstellen, mit Steuerungsmöglichkeiten für Seitenverhältnis, Auflösung,...
@@ -11243,6 +12333,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[VibeSell Creative Studio](https://www.aimyflow.com/de/ai/vibesell-dev-creative-studio)**
   - VibeSell Creative Studio ist eine KI-gestützte Kreativsuite, die Kreativen dabei hilft, 4K-Bilder, HD-Videos, 3D-Modelle, Audioinhalte, Logos, Mockups und benutzerdefinierte LoRA-Modelle zu erstellen, hauptsächlich für...
   - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, E-Commerce-Verkäufer, Content Creator +1 mehr
+
+- **[Vibrant Labs](https://www.aimyflow.com/de/ai/vibrantlabs-com)**
+  - Vibrant Labs bietet Simulationsumgebungen für Reinforcement Learning, die KI-Teams dabei helfen, Agenten für Langzeithorizont-Aufgaben zu benchmarken, zu diagnostizieren, zu trainieren und auszurichten, insbesondere in...
+  - *Passende Rollen:* Softwareentwickler, Data Scientist, Softwareentwicklungsleiter, Cybersicherheitsanalyst +1 mehr
 
 - **[Vibrantsnap](https://www.aimyflow.com/de/ai/vibrantsnap-com)**
   - Vibrantsnap ist ein KI-gestützter Bildschirmrekorder und Demo-Video-Generator, der Nutzern hilft, Bildschirmaufnahmen mit automatischer Bearbeitung, Voiceovers, Untertiteln, Layouts und Analysen in professionelle...
@@ -11376,10 +12470,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - VidFlux AI Photo to Video Generator ist ein KI-Tool, das statische Fotos in kurze MP4-Videos mit realistischer Bewegung, cineastischen Effekten, Prompts und Seitenverhältnis-Optionen umwandelt, hauptsächlich für...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Grafikdesigner, E-Commerce-Verkäufer +1 mehr
 
-- **[VidFlux Text to Image](https://www.aimyflow.com/de/ai/vidflux-ai-text-to-image)**
-  - VidFlux Text to Image ist ein KI-Bildgenerierungstool, das Text-Prompts mit sechs Modellen in Bilder umwandelt, vor allem für Kreative, Marketer, Designer und Unternehmen, die visuelle Inhalte erstellen. In...
-  - *Passende Rollen:* Grafikdesigner, Leiter Digitales Marketing, Social-Media-Content-Creator, Content Creator +1 mehr
-
 - **[Vidful.ai](https://www.aimyflow.com/de/ai/vidful-ai)**
   - Vidful.ai ist ein browserbasierter AI-Video-Generator, der Texte und Bilder mithilfe von Kling AI und Luma Dream Machine in Videos umwandelt, hauptsächlich für Marketer, Pädagogen, Social-Media-Ersteller und...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Leiter E-Commerce-Vertrieb, Berater für Bildungstechnologie +1 mehr
@@ -11427,10 +12517,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Viggle AI](https://www.aimyflow.com/de/ai/viggle-ai)**
   - Viggle AI ist ein KI-Tool zur Erstellung von Memes und Videos, das Motion Capture nutzt, um Figurenbilder in animierte Videos umzuwandeln, hauptsächlich für Creator, die Social Content im Remix-Stil erstellen. Für...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Grafikdesigner, Leiter Digitales Marketing +1 mehr
-
-- **[Viggle AI Dance](https://www.aimyflow.com/de/ai/viggleai-io)**
-  - Viggle AI Dance ist ein KI-Animations- und Bild-zu-Video-Tool, das Nutzern hilft, Charakterbilder oder Fotos in animierte Tanz- und Bewegungsvideos zu verwandeln, vor allem für Creator, die ohne Vorkenntnisse einfache...
-  - *Passende Rollen:* Content Creator, Grafikdesigner, Social-Media-Content-Creator, Unabhängige/r Filmemacher/in +1 mehr
 
 - **[Viktor](https://www.aimyflow.com/de/ai/getviktor-com)**
   - Viktor ist ein KI-Kollege für Slack, der sich mit Tausenden von Business-Tools verbindet und Teams dabei unterstützt, Arbeiten wie Berichte, Dashboards, Code, Kampagnen und Automatisierungen umzusetzen – vor allem für...
@@ -11487,10 +12573,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Vizard.ai](https://www.aimyflow.com/de/ai/vizard-ai)**
   - Vizard.ai ist ein KI-Tool für Videobearbeitung und Clip-Erstellung, das lange Videos in social-media-taugliche Kurzclips, Untertitel und angepasste Formate für Creator, Podcaster, Marketer, Coaches, Agenturen und Teams...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Podcast-Produzent +1 mehr
-
-- **[Vizcom](https://www.aimyflow.com/de/ai/vizcom-ai)**
-  - Vizcom ist eine KI-Designplattform, die Produktdesigner:innen und Designteams dabei unterstützt, Skizzen und 3D-Modelle in detailgetreue Renderings zu verwandeln, Konzepte zu iterieren und Ideen für reale Produkte zu...
-  - *Passende Rollen:* Industriedesigner/in, Grafikdesigner, Projektmanagement-Beauftragter, Gewerbearchitekt +1 mehr
 
 - **[VMEG AI Video Translator](https://www.aimyflow.com/de/ai/vmeg-ai-tools-video-translator)**
   - VMEG AI Video Translator ist ein Online-Tool für Videoübersetzung und Synchronisation, das Nutzern hilft, Videos mit KI-Stimmen, Stimmenklonung, Lippensynchronisation und Untertiteln in mehr als 170 Sprachen zu...
@@ -11620,6 +12702,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Waifu Labs ist ein KI-Porträtgenerator, der Nutzern hilft, benutzerdefinierte Anime-Charakterillustrationen in einem vierstufigen Prozess zu erstellen, der das erste Porträt, die Farbpalette, Details und die Pose...
   - *Passende Rollen:* Grafikdesigner, Unabhängige/r Filmemacher/in, Content Creator, Romanautor
 
+- **[Waldium](https://www.aimyflow.com/de/ai/waldium-com)**
+  - Waldium ist ein KI-natives CMS, das B2B-Unternehmen, Marketingteams und Growth-Verantwortlichen dabei hilft, internes Wissen, Experteninterviews und Research in veröffentlichte Inhalte zu verwandeln, die für die...
+  - *Passende Rollen:* Leiter Digitales Marketing, Texter, CEO, Content Creator +1 mehr
+
 - **[Wallnora](https://www.aimyflow.com/de/ai/wallnora-com)**
   - Wallnora ist ein KI-Studio für Wandkunst, das Kreativen, Dekorateuren und Etsy-Verkäufern hilft, Kunstwerke in mehreren Stilen zu erstellen, sie in Raum-Mockups mit Rahmen und Beleuchtung vorzuschauen und druckfertige...
   - *Passende Rollen:* Innenarchitekt/in, E-Commerce-Verkäufer, Grafikdesigner, Content Creator +1 mehr
@@ -11640,9 +12726,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Warp ist eine agentische Entwicklungsumgebung und ein Terminal, das Softwareentwicklern hilft, Funktionen zu entwickeln, Fehler zu beheben, Produktionsprobleme zu debuggen und Bereitstellungs-Workflows mit KI-Agenten...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Cybersicherheitsmanager +1 mehr
 
-- **[WarrenAI appears to be an Investing.com tool or service that](https://www.aimyflow.com/de/ai/investing-com-warrenai-login)**
-  - WarrenAI scheint ein Tool oder Dienst von Investing.com zu sein, das bzw. der derzeit aufgrund von Wartungsarbeiten nicht verfügbar ist und sich wahrscheinlich an Investoren oder Nutzer richtet, die die Ressourcen von...
-
 - **[Watashi Colorizer](https://www.aimyflow.com/de/ai/watashicolorizer-com)**
   - Watashi Colorizer ist ein KI-Kolorierungstool, das Kreativen dabei hilft, schwarz-weiße Manga-, Manhwa-, Manhua- und Webtoon-Inhalte in vollfarbige Kapitel zu verwandeln – mit panelübergreifender Konsistenz, Kontrolle...
   - *Passende Rollen:* Grafikdesigner, Content Creator, Unabhängige/r Filmemacher/in, Texter
@@ -11658,9 +12741,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Wave.video ist eine All-in-One-Onlinevideoplattform, die Kreativen hilft, Videos zu bearbeiten, aufzuzeichnen, multizustreamen, zu hosten und zu veröffentlichen, insbesondere für Content Creator, Marketer und Teams,...
   - *Passende Rollen:* Social-Media-Content-Creator, Leiter Digitales Marketing, Texter, Content Creator +1 mehr
 
-- **[Waveloom](https://www.aimyflow.com/de/ai/waveloom-dev)**
-  - Waveloom ist ein Hintergrund-KI-Agent, der Ihre Tools beobachtet, nächste Schritte entwirft und wichtige Updates in einem einzigen Prüf-Feed hervorhebt, hauptsächlich für Personen, die Posteingänge, Outreach und...
-  - *Passende Rollen:* Außendienstleiter, Logistikplaner/in, Betriebschef, CEO +1 mehr
+- **[WaveGrid by Wattson Health](https://www.aimyflow.com/de/ai/wattsonhealth-com)**
+  - WaveGrid von Wattson Health ist eine KI-Plattform zur Orchestrierung der Patientenreise, die den Patientenzugang, die Terminplanung, Umplanung, Bestätigungen, Aufnahme und Nachverfolgung über Sprache, SMS, E-Mail und...
+  - *Passende Rollen:* Gesundheitsadministrator, Fachkraft für medizinische Abrechnung, Häusliche Pflegekraft, Hospizpflegekraft
 
 - **[WaveSpeedAI](https://www.aimyflow.com/de/ai/wavespeed-ai)**
   - WaveSpeedAI ist eine KI-Plattform zur Mediengenerierung, die Entwicklern und Kreativen dabei hilft, Bild-, Video-, Audio- und Bearbeitungs-Workflows über eine einheitliche API und ein No-Code-Desktop-Studio zu...
@@ -11690,9 +12773,21 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Web Gremlin ist ein KI-gestütztes Tool zur Website-Analyse und -Überwachung, das Digitalagenturen dabei hilft, Kundenseiten zu prüfen, Regressionen zu verfolgen und Berichte zu Leistung, SEO, Barrierefreiheit,...
   - *Passende Rollen:* Leiter Digitales Marketing, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Technischer Redakteur +1 mehr
 
+- **[Web3GPT](https://www.aimyflow.com/de/ai/w3gpt-ai)**
+  - Web3GPT ist ein KI-Tool, das Nutzern hilft, Prompts für Smart Contracts zu erstellen, KI-Agenten zu entwickeln und direkt aus dem Chat onchain bereitzustellen – hauptsächlich für Web3-Entwickler und...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, Technischer Redakteur, CEO +1 mehr
+
+- **[Webex AI](https://www.aimyflow.com/de/ai/ezdubs-ai)**
+  - Webex AI ist eine KI-gestützte Kommunikations- und Kollaborationsplattform, die Unternehmen dabei unterstützt, den Kundenservice und die Mitarbeitererfahrung mit KI-Agenten, Unterstützung für Meetings und Messaging,...
+  - *Passende Rollen:* IT-Infrastrukturmanager/in, Betriebschef, Projektmanagement-Beauftragter, Customer Success Manager
+
 - **[Webflow Optimize](https://www.aimyflow.com/de/ai/intellimize-com)**
   - Webflow Optimize ist ein Tool zur Website-Optimierung und Personalisierung, das Teams dabei unterstützt, A/B-Tests durchzuführen, Zielgruppen zu segmentieren und KI zu nutzen, um auf Webflow-Websites oder in jedem CMS...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO
+
+- **[Webhound](https://www.aimyflow.com/de/ai/webhound-ai)**
+  - Webhound ist ein autonomes Tool für Webrecherche und Datenextraktion, das Forschern und Entscheidungsteams dabei hilft, umfangreiche Hintergrundrecherchen durchzuführen, Quellen zu verifizieren und zitierte Berichte...
+  - *Passende Rollen:* Finanzanalyst, Talent-Acquisition-Manager, Leiter Digitales Marketing, Data Scientist +1 mehr
 
 - **[Website Planet Image Compressor](https://www.aimyflow.com/de/ai/websiteplanet-com-webtools-imagecompressor)**
   - Website Planet Image Compressor ist ein kostenloses Online-Tool zum Komprimieren von PNG- und JPG-Bildern, um Dateigrößen zu reduzieren, die Ladegeschwindigkeit zu verbessern und Bandbreite zu sparen. Ideal für...
@@ -11743,9 +12838,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - WhyBounce ist ein KI-Tool zur Prüfung von Landingpages, das eine Seiten-URL analysiert, um zu zeigen, warum Besucher abspringen, und sofort umsetzbare Korrekturen für Botschaften, Klarheit, CTA-Stärke, Layout,...
   - *Passende Rollen:* Leiter Digitales Marketing, Texter, Grafikdesigner, CEO +1 mehr
 
-- **[Wildcard](https://www.aimyflow.com/de/ai/wild-card-ai)**
-  - Wildcard ist eine KI-SEO-Plattform für Retail- und E-Commerce-Teams, die Marken dabei hilft, die Produktsichtbarkeit in ChatGPT Shopping zu verfolgen, Rankings und Erwähnungen von Wettbewerbern zu überwachen und...
-  - *Passende Rollen:* Leiter E-Commerce-Vertrieb, Leiter Digitales Marketing, E-Commerce-Verkäufer, Texter +1 mehr
+- **[Wilson](https://www.aimyflow.com/de/ai/cartage-ai)**
+  - Wilson ist ein KI-Logistikkoordinator von Cartage, der Herstellern und Distributoren dabei hilft, Frachtsendungen durchgängig zu verwalten, einschließlich Laderstellung, Buchung, Sendungsverfolgung, Dokumentation und...
+  - *Passende Rollen:* Logistikplaner/in, Produktionsleiter, Betriebschef, Außendienstleiter
 
 - **[Windsurf](https://www.aimyflow.com/de/ai/codeium-com)**
   - Windsurf ist ein KI-Programmierassistent und eine KI-native IDE, die Entwickler und Unternehmensteams dabei unterstützt, Codebasen zu schreiben, zu korrigieren und zu navigieren – mit Funktionen wie agentischer...
@@ -11837,6 +12932,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Wordtune ist ein KI-Schreib- und Leseassistent, der Nutzern hilft, Texte zu paraphrasieren, umzuschreiben, zusammenzufassen, zu erstellen und Grammatik zu korrigieren, vor allem für Autoren, Studierende und...
   - *Passende Rollen:* Texter, Technischer Redakteur, Content Creator, Finanzanalyst +1 mehr
 
+- **[Wordware](https://www.aimyflow.com/de/ai/wordware-ai)**
+  - Wordware ist ein KI-Kontextlabor, dessen Hauptprodukt, Sauna, ein intelligenter Workspace und KI-Assistent ist, der Nutzern hilft, konzentrierte Arbeitsphasen zurückzugewinnen, indem er Routineaufgaben übernimmt, ihre...
+  - *Passende Rollen:* CEO, Betriebschef, Softwareentwicklungsleiter, Grafikdesigner +1 mehr
+
 - **[Workmate](https://www.aimyflow.com/de/ai/workmate-com)**
   - Workmate ist ein KI-Terminplanungsassistent, der Nutzern hilft, Meetings zu koordinieren, Verfügbarkeiten zu verwalten, Nachfassaktionen zu senden und Konflikte zu handhaben – vor allem für vielbeschäftigte Fachkräfte...
   - *Passende Rollen:* CEO, Betriebschef, Projektmanagement-Beauftragter, Talent-Acquisition-Manager +1 mehr
@@ -11865,6 +12964,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - Woz ist eine KI-gestützte Plattform zum Erstellen, Testen und Veröffentlichen produktionsreifer mobiler Apps und hilft Unternehmern, Nebenberuflern und Entwicklern, App-Ideen mit Datenbank, Zahlungen, Analysen und...
   - *Passende Rollen:* Softwareentwickler, CEO, Softwareentwicklungsleiter, Content Creator +1 mehr
 
+- **[Wren AI](https://www.aimyflow.com/de/ai/getwren-ai)**
+  - Wren AI ist eine generative Business-Intelligence- und Embedded-Analytics-Plattform, die Fragen in natürlicher Sprache für Datenteams, Produktteams, Führungskräfte und SaaS-Unternehmen in SQL, Diagramme und...
+  - *Passende Rollen:* Softwareentwickler, CEO, Projektmanagement-Beauftragter
+
 - **[Write Better Articles](https://www.aimyflow.com/de/ai/writebetterarticles-com)**
   - Write Better Articles ist ein KI-gestütztes Schreibtool, das X-Creator*innen dabei hilft, ein Thema, eine Zielgruppe und ein Argument in algorithmusinformierte Artikel umzuwandeln, indem es die...
   - *Passende Rollen:* Social-Media-Content-Creator, Content Creator, Texter, Leiter Digitales Marketing +1 mehr
@@ -11884,10 +12987,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[WRITER](https://www.aimyflow.com/de/ai/writer-com)**
   - WRITER ist eine KI-Plattform für agentische Arbeit auf Unternehmensebene, die Global-2000-Unternehmen dabei unterstützt, KI-Agenten für Aufgaben wie Kampagnen, Ausschreibungen, personalisierte Kommunikation und...
   - *Passende Rollen:* IT-Infrastrukturmanager/in, Leiter Digitales Marketing, Außendienstleiter, Softwareentwicklungsleiter +1 mehr
-
-- **[Writesonic](https://www.aimyflow.com/de/ai/writesonic-com)**
-  - Writesonic ist eine Plattform zur Verfolgung und Optimierung der Sichtbarkeit in der KI-Suche, die Marken dabei unterstützt, Rankings, Erwähnungen, Stimmung und Content-Chancen über ChatGPT, Gemini, Perplexity, Google...
-  - *Passende Rollen:* Leiter Digitales Marketing, Texter, Content Creator, CEO +1 mehr
 
 - **[writey.ai](https://www.aimyflow.com/de/ai/writey-ai)**
   - writey.ai ist ein zum Verkauf stehender Domainname, der über GoDaddy angeboten wird und Käufern beim Kauf oder Leasing der Webadresse writey.ai mit sicherer Zahlungs- und Transferabwicklung unterstützt. Für Marken-,...
@@ -11916,6 +13015,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - xeditai ist ein generativer KI-Arbeitsbereich mit mehreren Modellen, der Nutzer dabei unterstützt, strukturierte Dokumente wie Spezifikationen, Forschungszusammenfassungen, Skripte und Berichte zu erstellen, zu...
   - *Passende Rollen:* CEO, Softwareentwicklungsleiter, Technischer Redakteur, Hochschulprofessor +1 mehr
 
+- **[XEOL, a HeroDevs division,](https://www.aimyflow.com/de/ai/xeol-io)**
+  - XEOL, ein Geschäftsbereich von HeroDevs, ist ein Tool zur Erkennung von End-of-Life-Software, das Unternehmen dabei unterstützt, nicht mehr unterstützte oder aufgegebene Pakete in ihrem Open-Source-Stack zu...
+  - *Passende Rollen:* Cybersicherheitsmanager, Cybersicherheitsanalyst, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in +1 mehr
+
 - **[Xiangji Translation](https://www.aimyflow.com/de/ai/xiangjifanyi-com)**
   - Xiangji Translation ist ein KI-gestütztes Übersetzungs- und Bildbearbeitungstool, das Nutzern hilft, Bilder und kurze Videos zu übersetzen, Wasserzeichen zu entfernen, Hintergründe freizustellen und Inhalte zu...
   - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Content Creator, Grafikdesigner +1 mehr
@@ -11936,6 +13039,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - YardStyling ist ein KI-gestütztes Landschaftsplanungstool, das Hausbesitzern hilft, Gartenfotos in Konzepte für Vorder- und Hintergärten, Pflanz- und Materialpläne sowie schrittweise Projektpläne zu verwandeln. Für...
   - *Passende Rollen:* Innenarchitekt/in, Wohnarchitekt, Immobilienmakler, Gewerbearchitekt
 
+- **[Yarn](https://www.aimyflow.com/de/ai/yarn-so)**
+  - Yarn ist eine KI-Plattform zur Videoerstellung, die Go-to-Market-Teams in Startups dabei unterstützt, Talking-Head-Videos, Produktdemos und gebrandete Overlays schneller zu produzieren, wiederzuverwenden und zu...
+  - *Passende Rollen:* Leiter Digitales Marketing, Außendienstleiter, Social-Media-Content-Creator, Texter +1 mehr
+
 - **[YesChat.ai](https://www.aimyflow.com/de/ai/yeschat-ai)**
   - YesChat.ai ist eine All-in-One-KI-Plattform für Chat, Bildgenerierung, Videogenerierung und Musikerstellung, die vor allem für Kreative, Marketer, Entwickler und andere Fachkräfte entwickelt wurde, die browserbasierte...
   - *Passende Rollen:* Content Creator, Leiter Digitales Marketing, Softwareentwickler, Grafikdesigner +1 mehr
@@ -11943,6 +13050,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Yippity](https://www.aimyflow.com/de/ai/yippity-io)**
   - Yippity ist ein KI-Lerntool, das Texte in Quizze, Lernkarten, Lernleitfäden und Fragensammlungen wie Multiple-Choice- und offene Aufgaben umwandelt, hauptsächlich für Schülerinnen und Schüler sowie Lehrkräfte. Für...
   - *Passende Rollen:* Lehrkraft, Nachhilfelehrer für Testvorbereitung, Berater für Bildungstechnologie, Online-Programmierlehrer +1 mehr
+
+- **[Yondu](https://www.aimyflow.com/de/ai/yondu-ai)**
+  - Yondu ist eine verkörperte KI-Plattform zur Lagerautomatisierung, die sofort einsetzbare Allzweckroboter bereitstellt, um Logistikaufgaben wie das Greifen von Behältern in bestehenden Lagern zu automatisieren,...
+  - *Passende Rollen:* Logistikplaner/in, Produktionsleiter, Betriebschef, Filialleiter +1 mehr
 
 - **[Yooz AI](https://www.aimyflow.com/de/ai/yooz-ai)**
   - Yooz AI ist ein KI-gestützter LinkedIn-Post-Generator, der Nutzern dabei hilft, Beiträge und Visuals zu erstellen, zu planen, zu veröffentlichen und wiederzuverwenden – hauptsächlich für Creators und Fachleute, die...
@@ -11984,10 +13095,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - YouTube to Doc ist ein KI-Tool, das YouTube-Videos in strukturierte Dokumente umwandelt, darunter Zusammenfassungen, Quizze und Notizen, vor allem für Menschen, die mit Bildungs-Videoinhalten arbeiten. Beim...
   - *Passende Rollen:* Berater für Bildungstechnologie, Lehrkraft, Online-Programmierlehrer, Leadership-Coach für Unternehmen +1 mehr
 
-- **[YouWear.ai](https://www.aimyflow.com/de/ai/youwear-ai)**
-  - YouWear.ai ist ein KI-Tool für Bekleidungsdesign und Print-on-Demand, das Menschen dabei hilft, Texteingaben oder hochgeladene Bilder in druckfertige Designs für individuelle Kleidung und Tassen umzuwandeln, vor allem...
-  - *Passende Rollen:* Grafikdesigner, E-Commerce-Verkäufer, Content Creator, Social-Media-Content-Creator +1 mehr
-
 - **[YTSearch](https://www.aimyflow.com/de/ai/ytsearch-mkmushtaq-me)**
   - YTSearch ist ein Chrome-Tool für YouTube, das Nutzern hilft, Fragen zu einem Video zu stellen, präzise Antworten zu erhalten und direkt zu dem genauen Zeitstempel zu springen, an dem die Antwort erscheint – vor allem...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Technischer Redakteur, Leiter Digitales Marketing +1 mehr
@@ -12003,6 +13110,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[Yuanbao](https://www.aimyflow.com/de/ai/ai-qq-com)**
   - Yuanbao ist Tencents KI-Assistent, der Nutzerinnen und Nutzern dabei hilft, verbundene Tencent-Inhaltsquellen zu durchsuchen, Bilder zu analysieren und Lern- oder Alltagsfragen zu beantworten, vor allem für Menschen,...
   - *Passende Rollen:* Lehrkraft, Content Creator, Technischer Redakteur, Social-Media-Content-Creator +1 mehr
+
+- **[Yuma AI](https://www.aimyflow.com/de/ai/yuma-ai)**
+  - Yuma AI ist eine E-Commerce-KI-Plattform, die den Kundensupport, den Vertrieb, Social-Media-Antworten und den Website-Chat für Online-Marken automatisiert, insbesondere für Shopify-Händler und...
+  - *Passende Rollen:* E-Commerce-Verkäufer, Leiter Digitales Marketing, Restaurantleiter, Projektmanagement-Beauftragter +1 mehr
 
 - **[Z.ai](https://www.aimyflow.com/de/ai/chat-z-ai)**
   - Z.ai ist ein kostenloser KI-Chatbot und -Agent, der von GLM-5 und GLM-4.7 angetrieben wird und Nutzern hilft, interaktiv zu chatten, Websites und andere Inhalte zu erstellen sowie promptbasierte Aufgaben zu erkunden,...
@@ -12044,9 +13155,9 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ZenMux ist eine LLM-Plattform für Unternehmen, die Entwicklern und KI-Produktteams eine einheitliche API und Oberfläche bietet, um auf mehrere führende Modelle zuzugreifen – mit automatischem Routing, Failover,...
   - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
-- **[ZeroClaw](https://www.aimyflow.com/de/ai/github-com-theonlyhennygod-zeroclaw)**
-  - ZeroClaw ist ein Open-Source-Infrastrukturprojekt für KI-Assistenten, das in Rust entwickelt wurde und Entwicklern hilft, autonome Assistenten überall bereitzustellen und Komponenten bei Bedarf auszutauschen. Es...
-  - *Passende Rollen:* Softwareentwickler, IT-Infrastrukturmanager/in, Softwareentwicklungsleiter, Cybersicherheitsmanager +1 mehr
+- **[Zep](https://www.aimyflow.com/de/ai/getzep-com)**
+  - Zep ist eine Plattform für Context Engineering und Agentenspeicher, die Entwicklern und Engineering-Teams dabei hilft, KI-Agenten mit einheitlichem Kontext aus Chatverlauf, Geschäftsdaten und Nutzerinteraktionen...
+  - *Passende Rollen:* Softwareentwickler, Softwareentwicklungsleiter, IT-Infrastrukturmanager/in, Data Engineer +1 mehr
 
 - **[ZeroEval](https://www.aimyflow.com/de/ai/zeroeval-com)**
   - ZeroEval ist eine sich selbst verbessernde Ebene für KI-Agenten, die Interaktionen erfasst, die Qualität mit integrierten oder benutzerdefinierten Bewertungsinstanzen bewertet und Produktionsfeedback in Verbesserungen...
@@ -12096,6 +13207,10 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - ZOYO ist ein KI-gestütztes Immobilien-Toolkit, das Maklern, Immobilienfirmen, Eigentümern, Designern und Bauunternehmen hilft, immobilienbezogene Visuals und Marketingmaterialien schneller zu erstellen und zu verbessern.
   - *Passende Rollen:* Immobilienmakler
 
+- **[Zudo](https://www.aimyflow.com/de/ai/zudo-work)**
+  - Zudo ist eine KI-Plattform zur Garantieautomatisierung, die digitale Agenten einsetzt, um Schadenmeldungsaufnahme, Deckungsfragen, Genehmigungen, Ersatzteilrecherche und Sprachsupport zu übernehmen, vor allem für...
+  - *Passende Rollen:* Betriebschef, Projektmanagement-Beauftragter, Filialleiter, Restaurantleiter +1 mehr
+
 - **[Zust](https://www.aimyflow.com/de/ai/zust-ai)**
   - Zust ist ein KI-Hintergrundgenerator für Produktfotos, mit dem E-Commerce-Marken, Fotografen und Marketer hochwertige Produktbilder ohne aufwendige Fotoshootings erstellen können.
   - *Passende Rollen:* E-Commerce-Verkäufer
@@ -12123,10 +13238,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
 - **[度加剪辑](https://www.aimyflow.com/de/ai/ducut-baidu-com)**
   - 度加剪辑 ist ein Video-Editing-Tool von Baidu, das für Wissensvermittler und Self-Media-Nutzer mit Talking-Head-Formaten entwickelt wurde. Es erleichtert die Videobearbeitung mit einfachen Schnittfunktionen, KI-gestützter...
   - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Texter, Lehrkraft
-
-- **[快剪辑](https://www.aimyflow.com/de/ai/kuaijianji-com)**
-  - 快剪辑 ist ein cloudbasiertes Videobearbeitungstool, das Nutzern hilft, Videos online mit KI-Funktionen wie Text-zu-Video-Bearbeitung, Untertitelentfernung, Wasserzeichenentfernung, Übersetzung, Zuschneiden,...
-  - *Passende Rollen:* Content Creator, Social-Media-Content-Creator, Leiter Digitales Marketing, Talent-Acquisition-Manager +1 mehr
 
 - **[成都潜在人工智能科技有限公司](https://www.aimyflow.com/de/ai/xingzheai-cn)**
   - Chengdu Potential Artificial Intelligence Technology Co., Ltd. entwickelt KI-Produkte für Bildung, Unterhaltung und spielbezogene Anwendungsfälle, darunter KI-Musik, KI-Kunstschaffung, Spiel-Bots, intelligente Agenten...
@@ -12172,10 +13283,6 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - 网易见外工作台 ist eine Youdao-Arbeitsplattform mit Fokus auf Funktionen zur Anzeige von Übersetzungen. Sie hilft Nutzern, übersetzte Inhalte in einem Arbeitsbereich anzuzeigen, und richtet sich hauptsächlich an...
   - *Passende Rollen:* Technischer Redakteur, Texter, Content Creator, Projektmanagement-Beauftragter
 
-- **[莫烦Python网](https://www.aimyflow.com/de/ai/mofanpy-com)**
-  - 莫烦Python网 ist eine chinesische Lernwebsite, die Python, Datenverarbeitung, maschinelles Lernen, Deep Learning, Web Scraping und Coding-Tools vermittelt, hauptsächlich für Anfänger und Lernende in der Anfangsphase. In...
-  - *Passende Rollen:* Online-Programmierlehrer, Softwareentwickler, Data Scientist, Data Engineer +1 mehr
-
 - **[识典古籍](https://www.aimyflow.com/de/ai/shidianguji-com)**
   - 识典古籍 ist eine Online-Plattform zum Suchen, Lesen und Forschen chinesischer klassischer Texte, hauptsächlich für Gelehrte, Studenten und Leser alter Literatur. Ihre OCR-, Satzzeichen-, Kollations-, Übersetzungs- und...
   - *Passende Rollen:* Hochschulprofessor, Technischer Redakteur, Berater für Bildungstechnologie, Lehrkraft +1 mehr
@@ -12188,6 +13295,7 @@ _Kompakte Ansicht für schnelleres Durchsehen._
   - 集简云 ist eine No-Code-Plattform für Softwareintegration und Workflow-Automatisierung, die Unternehmen dabei unterstützt, Hunderte von Anwendungen zu verbinden, Daten zu synchronisieren und mit KI-Unterstützung...
   - *Passende Rollen:* Projektmanagement-Beauftragter, Leiter Digitales Marketing, Außendienstleiter, Data Engineer +1 mehr
 
+</div>
 
 </details>
 

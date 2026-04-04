@@ -2,3 +2,10 @@ title: Awesome AI Tools Directory
 description: Public multilingual GitHub directory of AI tools from AimyFlow, with curated discovery and full directory links.
 theme: minima
 markdown: kramdown
+lang: en
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+url: "https://jacobssy.github.io"
+baseurl: "/awesome-aitools"
+repository: "jacobssy/awesome-aitools"

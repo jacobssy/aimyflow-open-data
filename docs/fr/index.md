@@ -1,11 +1,38 @@
+---
+layout: default
+title: "Répertoire Awesome des Outils IA"
+description: "Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés."
+lang: "fr"
+---
+
 # Répertoire Awesome des Outils IA
 
-Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés.
+<div class="landing-hero">
 
-Généré le: 2026-03-27T18:16:38.950Z
+<p class="landing-tag">Français</p>
 
-- Outils exportés: 3027
-- Rôles couverts: 221
+<p class="landing-lead">Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés.</p>
+
+<p class="landing-actions">
+<a href="../">Retour à l’accueil des docs</a>
+<a href="https://www.aimyflow.com/fr/explore">Explorer tous les outils IA</a>
+<a href="../data/tools.json">Inspecter le jeu de données des outils</a>
+</p>
+
+</div>
+
+<div class="stats-grid">
+<div class="stat-card"><strong>3272</strong><span>Outils exportés</span></div>
+<div class="stat-card"><strong>221</strong><span>Rôles couverts</span></div>
+<div class="stat-card"><strong>2026-04-04</strong><span>Généré le</span></div>
+</div>
+
+## Commencer ici
+
+- [Retour à l’accueil des docs](../)
+- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
+- [Parcourir les rôles](https://www.aimyflow.com/fr/roles)
+- [Inspecter le jeu de données des outils](../data/tools.json)
 
 ## Pourquoi cette page existe
 
@@ -13,166 +40,259 @@ Généré le: 2026-03-27T18:16:38.950Z
 - Consulter rapidement une courte description et les rôles adaptés pour chaque outil.
 - Ouvrir ensuite la page complète sur AimyFlow pour plus de détails.
 
-## Commencer ici
-
-- [Explorer tous les outils IA](https://www.aimyflow.com/fr/explore)
-- [Inspecter le jeu de données des outils](../../data/tools.json)
-
 ## Outils ajoutés récemment
 
-#### [Bayesline](https://www.aimyflow.com/fr/ai/bayesline-com)
+<p class="section-note">Nouveaux outils avec résumé rapide et rôles adaptés.</p>
 
-Bayesline est une plateforme d’analytique destinée aux gestionnaires d’actifs qui aide les équipes à créer des modèles de risque actions personnalisés, exécuter des backtests, automatiser la sélection des facteurs et générer des rapports de portefeuille à partir de données de fournisseurs ou de données propriétaires. Pour les gérants de portefeuille, les chercheurs quantitatifs et les équipes de gestion des risques, son flux de travail orienté API peut accélérer l’itération des modèles et maintenir les analyses de risque alignées sur l’évolution des conditions de marché et de la recherche interne.
+<div class="tool-card" markdown="1">
 
-**Rôles adaptés:** Gestionnaire de portefeuille, Analyste des risques, Analyste financier, Data scientist, Ingénieur data
+### [Invicta AI](https://www.aimyflow.com/fr/ai/invictai-io)
 
-#### [Benchify](https://www.aimyflow.com/fr/ai/benchify-com)
+Invicta AI est une plateforme no-code permettant de créer des équipes d’agents IA qui automatisent des workflows complexes à travers plus de 70 outils et les principaux LLM, principalement pour les équipes des opérations, du support client, de la planification et du développement. Dans les workflows assistés par l’IA, elle peut aider ces professionnels à faire évoluer des tâches répétitives en plusieurs étapes grâce à des contrôles d’approbation humaine, à l’exécution par lots et à des transferts plus cohérents entre les systèmes.
 
-Benchify est une plateforme d’exécution des contrats de santé qui transforme les termes contractuels en logique déterministe afin de vérifier les demandes de remboursement, les paiements, les audits et l’exécution des contrats pour les payeurs, les prestataires, les PBM et les fabricants. Pour les équipes de finance de la santé, de cycle de revenus, de gestion des demandes de remboursement et de conformité, elle peut réduire les rapprochements manuels et les litiges de paiement en contrôlant chaque transaction en temps réel au regard de règles contractuelles auditables.
+**Rôles adaptés:** Responsable PMO, Directeur des opérations, Responsable développement logiciel, Responsable infrastructure IT, Responsable succès client
 
-**Rôles adaptés:** Administrateur de santé, Analyste financier, Agent de facturation médicale, Analyste des risques, Expert-comptable certifié
+</div>
 
-#### [BrowserOS](https://www.aimyflow.com/fr/ai/browseros-com)
+<div class="tool-card" markdown="1">
 
-BrowserOS est un navigateur IA open source, axé sur la confidentialité, qui exécute localement des agents intégrés pour automatiser les tâches web, les flux de travail applicatifs et les actions du navigateur à partir d’instructions en langage naturel, principalement pour des professionnels tels que les développeurs, les chercheurs, les spécialistes du marketing, les commerciaux et les assistants de direction. Dans les flux de travail assistés par l’IA, il peut réduire les clics manuels et la coordination entre applications afin que ces profils puissent consacrer plus de temps à l’analyse, à la communication et à la prise de décision.
+### [Kompas AI](https://www.aimyflow.com/fr/ai/kompas-ai)
 
-**Rôles adaptés:** Ingénieur logiciel, Directeur marketing digital, Responsable commercial terrain, PDG, Graphiste
+Kompas AI est un service de recherche en IA B2C abandonné qui aidait les utilisateurs à mener des recherches approfondies grâce à l’orchestration multi-agents, à la gestion de la fenêtre de contexte et à des techniques connexes d’agents d’IA. Son évolution prévue vers le contrôle des autorisations des agents d’IA et la gestion de la sécurité souligne à quel point les chercheurs et les équipes d’exploitation de l’IA ont de plus en plus besoin d’outils de gouvernance en complément de flux de travail avancés basés sur des agents.
 
-#### [Overeasy.sh appears to be a category-based directory website that](https://www.aimyflow.com/fr/ai/overeasy-sh)
+**Rôles adaptés:** Data scientist, Responsable PMO, Ingénieur logiciel, Responsable cybersécurité, Rédacteur technique
 
-Overeasy.sh semble être un site d’annuaire basé sur des catégories qui aide les utilisateurs à parcourir des pages thématiques et à trouver des ressources dans des domaines comme l’automobile, la finance, la santé, les achats et les voyages, principalement pour les internautes à la recherche de liens organisés. Dans un environnement de recherche piloté par l’IA, des annuaires structurés comme celui-ci peuvent offrir aux spécialistes du marketing, aux chercheurs et aux équipes de contenu un point de départ simple pour découvrir plus efficacement des sources propres à chaque catégorie.
+</div>
 
-#### [Propaya](https://www.aimyflow.com/fr/ai/propaya-com)
+<div class="tool-card" markdown="1">
 
-Propaya est un outil d’IA d’examen et d’extraction de données de baux qui aide les professionnels de l’immobilier commercial à extraire, analyser et exporter des informations locatives en quelques minutes à partir de documents téléversés. Pour les courtiers, investisseurs, gestionnaires immobiliers et équipes associées, il permet de réduire le temps de revue manuelle et les erreurs afin qu’ils puissent se concentrer davantage sur le travail client, les négociations et les décisions de portefeuille.
+### [Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/fr/ai/contextqa-com)
 
-**Rôles adaptés:** Agent immobilier, Analyste financier, Responsable PMO, Avocat, Responsable d’agence
+Assurez la QA de votre nouveau code 10 fois plus vite avec la seule plateforme de test IA véritablement contextuelle. ContextQA utilise une IA agentique pour prédire, générer des tests et valider chaque livraison.
 
-#### [LedgerUp](https://www.aimyflow.com/fr/ai/ledgerup-ai)
+**Rôles adaptés:** Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, Responsable infrastructure IT, Analyste cybersécurité
 
-LedgerUp est une plateforme d’opérations de revenus alimentée par l’IA qui automatise les flux contract-to-cash, notamment la facturation, le recouvrement, la facturation à l’usage et le rapprochement, principalement pour les équipes commerciales B2B SaaS et les équipes de vente en entreprise. Pour les équipes finance, opérations de revenus et facturation, son assistant IA peut réduire les relances manuelles et le travail entre systèmes en prenant en charge les tâches courantes des comptes clients au sein des flux de travail existants.
+</div>
 
-**Rôles adaptés:** Directeur financier, Responsable FP&A, Analyste financier, Directeur des opérations, Responsable PMO
+<div class="tool-card" markdown="1">
 
-#### [ProhostAI](https://www.aimyflow.com/fr/ai/prohost-ai)
+### [Cykel](https://www.aimyflow.com/fr/ai/cykel-ai)
 
-ProhostAI est un assistant IA tout-en-un pour les hôtes de locations de vacances et les gestionnaires immobiliers, qui les aide à automatiser la messagerie avec les voyageurs, les ménages, les tâches, les livrets d’accueil, les avis et les opérations quotidiennes de gestion immobilière, pour un à plus de 300 logements. Pour les équipes opérationnelles de locations de courte durée, centraliser la communication et l’automatisation des flux de travail sur une plateforme pilotée par l’IA peut réduire la coordination manuelle et améliorer la cohérence entre les propriétés.
+Cykel est une plateforme de collaborateurs numériques IA qui aide les équipes de recrutement, de vente et de recherche à automatiser le sourcing, la prospection, les relances, la présélection et l’analyse métier grâce à des agents spécialisés comme Lucy, Eve et Samson. Pour les recruteurs, les SDR et les analystes, cela permet de confier l’exécution des tâches routinières à l’IA afin que les équipes consacrent plus de temps à l’évaluation des candidats, au développement des relations et à des recherches à plus forte valeur ajoutée.
 
-**Rôles adaptés:** Responsable d’agence, Directeur des opérations, Responsable PMO, Directeur de restaurant
+**Rôles adaptés:** Responsable acquisition de talents, Responsable commercial terrain, Analyste financier, Data scientist, Responsable PMO
 
-#### [RunLocal](https://www.aimyflow.com/fr/ai/runlocal-ai)
+</div>
 
-RunLocal est un agent d’IA et une plateforme d’optimisation de l’inférence des modèles de machine learning sur du matériel edge, aidant les équipes à passer de modèles PyTorch entraînés à des déploiements validés et prêts pour la production sur des appareils tels que Nvidia Orin et des cibles Qualcomm. Pour les ingénieurs en IA embarquée et les équipes de déploiement ML, il peut réduire le profilage manuel, le débogage et le suivi des expérimentations en automatisant des workflows d’optimisation itératifs avec une validation adaptée aux appareils et un contexte lié aux SDK des fournisseurs.
+<div class="tool-card" markdown="1">
 
-**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data, Responsable PMO
+### [Dosu](https://www.aimyflow.com/fr/ai/dosu-dev)
 
-#### [Sharpe](https://www.aimyflow.com/fr/ai/sharpe-sh)
+Dosu est une plateforme de documentation basée sur l’IA qui génère, maintient et publie automatiquement de la documentation à partir du code, des tickets, des revues et des conversations, principalement pour les équipes d’ingénierie et les organisations qui gèrent des connaissances techniques. Dans le travail logiciel piloté par l’IA, elle aide les équipes d’ingénierie, de support et produit à conserver un contexte précis à la disposition des personnes et des agents IA, réduisant ainsi l’obsolescence de la documentation et les questions répétées.
 
-Sharpe est un agent de recherche en IA natif de Jupyter pour la finance quantitative, qui aide les quants, les gérants de portefeuille, les traders et les chercheurs à mener des analyses en plusieurs étapes sur de vastes ensembles de données financières et à générer des notebooks entièrement sourcés et reproductibles. Pour les équipes de recherche quantitative, il peut réduire le temps d’analyse manuelle tout en améliorant la cohérence, la traçabilité et la réutilisation des méthodes propres à l’entreprise d’une étude à l’autre.
+**Rôles adaptés:** Responsable développement logiciel, Ingénieur logiciel, Rédacteur technique, Responsable PMO, Responsable infrastructure IT
 
-**Rôles adaptés:** Gestionnaire de portefeuille, Data scientist, Analyste financier, Ingénieur data, Ingénieur logiciel
+</div>
 
-#### [Zettascale](https://www.aimyflow.com/fr/ai/zscc-ai)
+<div class="tool-card" markdown="1">
 
-Zettascale est une entreprise de matériel informatique de la Silicon Valley qui développe des puces XPU reconfigurables et économes en énergie pour l’entraînement et l’inférence en IA, principalement destinées aux équipes qui conçoivent des infrastructures de calcul avancées pour l’IA. Pour les ingénieurs en matériel IA, en compilateurs et en systèmes, un flux de données optimisé pour les modèles et une réduction des mouvements de mémoire peuvent améliorer le débit tout en diminuant la consommation d’énergie dans les charges de travail d’entraînement et d’inférence.
+### [Dot](https://www.aimyflow.com/fr/ai/getdot-ai)
 
-**Rôles adaptés:** Ingénieur électricien, Ingénieur logiciel, Responsable infrastructure IT, Responsable développement logiciel, PDG
+Dot est un analyste de données IA qui aide les équipes à répondre rapidement aux questions liées aux données et à obtenir des insights exploitables via le chat, des analyses approfondies et des rapports automatisés, principalement pour les organisations qui souhaitent élargir l’accès aux insights tirés des données dans Slack, Microsoft Teams et les e-mails. Dans les environnements de travail assistés par l’IA, il peut aider les équipes data et métier à réduire le travail de reporting de routine et à accélérer la prise de décision des collègues non techniques.
 
-#### [NetworkOcean](https://www.aimyflow.com/fr/ai/networkocean-io)
+**Rôles adaptés:** Analyste financier, Responsable PMO, PDG, Directeur des opérations
 
-NetworkOcean construit et exploite des barges de centres de données flottantes et des capsules de centres de données sous-marines qui fournissent une infrastructure GPU à haute densité refroidie par liquide, avec une consommation électrique réduite et sans consommation d’eau, principalement pour les organisations ayant besoin de capacités de calcul pour l’IA. Pour les équipes en charge des infrastructures d’IA, des centres de données et du HPC, ce modèle peut améliorer la planification du déploiement des GPU et l’efficacité opérationnelle pour des charges de travail denses telles que les systèmes NVL72, GB200 et H100/200.
+</div>
 
-**Rôles adaptés:** Responsable infrastructure IT, Responsable développement logiciel, Directeur des opérations, Responsable PMO, Ingénieur data
+<div class="tool-card" markdown="1">
 
-#### [Pharos](https://www.aimyflow.com/fr/ai/pharos-health)
+### [Gumloop](https://www.aimyflow.com/fr/ai/gumloop-com)
 
-Pharos est une plateforme de qualité hospitalière et de sécurité des patients alimentée par l’IA qui automatise l’extraction de données des dossiers, le reporting, les analyses des causes profondes, les audits et le suivi des actions d’amélioration de la qualité pour les équipes hospitalières chargées de la qualité et des risques. Pour les évaluateurs cliniques, les responsables de la sécurité des patients et les équipes d’amélioration de la qualité, elle peut réduire la revue manuelle des dossiers et accélérer la production d’insights afin que les équipes puissent agir plus rapidement sur les événements de sécurité et les écarts de performance.
+Gumloop est un framework d’automatisation IA no-code permettant de créer et d’héberger des automatisations métier et des agents spécialisés, principalement pour les équipes des opérations, des ventes, du support et des flux de travail d’entreprise riches en données. Dans le cadre du travail assisté par l’IA, il peut aider des fonctions telles que les analystes, les responsables du support et les équipes commerciales à automatiser les tâches récurrentes et à exploiter plus rapidement des données partagées sans dépendre autant de l’ingénierie.
 
-**Rôles adaptés:** Administrateur de santé, Spécialiste en santé au travail, Responsable infrastructure IT, Responsable PMO
+**Rôles adaptés:** Responsable PMO, Responsable commercial terrain, Analyste financier, Responsable développement logiciel, Ingénieur data
 
-#### [Sage](https://www.aimyflow.com/fr/ai/sagecare-ai)
+</div>
 
-Sage est un outil de CRM natif de l’IA et d’automatisation des workflows d’admission pour les agences de soins à domicile, qui transforme les appels d’admission et les visites à domicile en transcriptions, plans de soins, suivis et dossiers synchronisés. Pour les coordinateurs d’admission, les responsables d’agence et les gestionnaires de soins, il permet de réduire la documentation manuelle et d’accélérer l’intégration des clients tout en maintenant les données à jour dans les systèmes de gestion des soins.
+<div class="tool-card" markdown="1">
 
-**Rôles adaptés:** Administrateur de santé, Aide à domicile, Directeur des opérations, Responsable PMO
+### [Autopilot](https://www.aimyflow.com/fr/ai/codeautopilot-com)
 
-#### [Saldor](https://www.aimyflow.com/fr/ai/saldor-com)
+Autopilot est un assistant de codage IA pour GitHub qui aide les développeurs logiciels et les équipes d’ingénierie à corriger des bugs, à discuter des problèmes dans les pull requests, à générer des plans d’implémentation et à résumer les modifications de code au sein de leur flux de travail existant. Pour les développeurs et les réviseurs de code, cela peut réduire les changements de contexte et accélérer la résolution des problèmes ainsi que l’analyse des pull requests en apportant directement des conseils IA dans les fils de discussion GitHub.
 
-Saldor est un outil de formation sur le terrain qui aide les équipes de CVC, de solaire et d’autres métiers de service à rendre les nouvelles recrues opérationnelles plus rapidement grâce à une assistance mains libres sur le terrain. Dans un flux de travail alimenté par l’IA, il peut aider les formateurs, les responsables des opérations et les responsables terrain à standardiser l’intégration et à renforcer les consignes directement sur le lieu de travail.
+**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT
 
-**Rôles adaptés:** Superviseur des opérations d’usine, Directeur des opérations, Responsable acquisition de talents, Responsable PMO, Formateur en lycée professionnel
+</div>
 
-#### [Voker](https://www.aimyflow.com/fr/ai/voker-ai)
+<div class="tool-card" markdown="1">
 
-Voker est un outil d’analyse pour les agents d’IA conversationnelle qui aide les équipes à transformer les enseignements tirés des conversations en optimisations sans avoir à fouiller dans les journaux, principalement pour les personnes qui conçoivent et améliorent des agents d’IA. À mesure que les agents d’IA prennent une place plus centrale dans les workflows client et produit, il peut aider les ingénieurs IA et les concepteurs conversationnels à identifier les problèmes plus rapidement et à affiner plus efficacement les performances des agents.
+### [BrainSoup](https://www.aimyflow.com/fr/ai/nurgo-software-com-products-brainsoup)
 
-**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Data scientist, Responsable PMO, Responsable infrastructure IT
+BrainSoup est une plateforme d’IA de bureau pour Windows permettant de créer des agents d’IA personnalisés qui automatisent des tâches, utilisent des outils, collaborent dans des flux de travail multi-agents et s’appuient sur vos propres données, principalement destinée aux professionnels et aux équipes souhaitant une automatisation des workflows contrôlée et privée. Pour les développeurs, les équipes opérationnelles et les travailleurs du savoir, elle peut améliorer la productivité en transformant des instructions en langage naturel en automatisations réutilisables, tout en gardant la gestion des données plus localisée et mieux encadrée.
 
-#### [Cloudglue](https://www.aimyflow.com/fr/ai/cloudglue-dev)
+**Rôles adaptés:** Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT, Ingénieur logiciel, Directeur des opérations
 
-Cloudglue est une API axée sur les développeurs qui transforme la vidéo et l’audio en données structurées, interrogeables et prêtes pour l’IA, afin d’aider les équipes à créer des applications sensibles à la vidéo telles que des chatbots, des outils d’analyse et des workflows d’extraction. Pour les ingénieurs IA et les développeurs produit, elle peut améliorer la recherche d’informations, la réponse aux questions et l’analyse automatisée en rendant le contenu vidéo exploitable comme contexte pour les systèmes basés sur les LLM.
+</div>
 
-**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Rédacteur technique, Responsable PMO
+<div class="tool-card" markdown="1">
 
-#### [CreativeMode](https://www.aimyflow.com/fr/ai/creativemode-net)
+### [Butternut.ai](https://www.aimyflow.com/fr/ai/butternut-ai)
 
-CreativeMode est une plateforme no-code permettant de créer et de partager des mods et addons Minecraft, principalement destinée aux joueurs de Minecraft, aux créateurs de mods et aux membres des communautés de création. Dans les flux de création de jeux à l’ère de l’IA, elle peut aider les créateurs à prototyper plus rapidement des idées de gameplay et à publier du contenu interactif sans avoir besoin de compétences en programmation.
+Butternut.ai est un créateur de sites web alimenté par l’IA qui aide les petites entreprises, les freelances et les fondateurs à créer et publier en quelques secondes des sites web professionnels d’entreprise ou de portfolio, avec hébergement intégré, SSL, SEO, génération de blog et fonctionnalités de chatbot. Pour les propriétaires de petites entreprises et les responsables marketing, cela peut réduire le travail manuel nécessaire au lancement et à la mise à jour d’une présence en ligne, tout en utilisant l’IA pour soutenir la création de contenu et la capture de prospects.
 
-**Rôles adaptés:** Créateur de contenu, Ingénieur logiciel, Tuteur en programmation en ligne, Enseignant
+**Rôles adaptés:** Directeur marketing digital, PDG, Vendeur e-commerce, Rédacteur publicitaire, Créateur de contenu
 
-#### [Praxos](https://www.aimyflow.com/fr/ai/mypraxos-com)
+</div>
 
-Praxos est un outil d’assistant personnel qui permet aux utilisateurs d’envoyer des instructions par message depuis leur téléphone ou leur ordinateur afin de se connecter à des applications, gérer des tâches, envoyer des réponses et suivre l’avancement des activités, principalement pour les personnes très occupées et les propriétaires de petites entreprises. Dans les flux de travail assistés par l’IA, il peut aider les responsables, les opérateurs et les équipes en contact avec la clientèle à réduire les tâches oubliées et le travail de suivi de routine en automatisant les actions du quotidien.
+<div class="tool-card" markdown="1">
 
-**Rôles adaptés:** Responsable PMO, Directeur de restaurant, Responsable d’agence, PDG
+### [Codegen](https://www.aimyflow.com/fr/ai/codegen-com)
 
-#### [Vera Health](https://www.aimyflow.com/fr/ai/vera-health-ai)
+Codegen est un système d’exploitation pour agents de code qui aide les équipes d’ingénierie à déployer des agents autonomes pour planifier des tâches, écrire du code, générer des tests et de la documentation, et créer des pull requests prêtes à être relues avec l’intégralité du contexte de la base de code. Pour les ingénieurs logiciels, les responsables d’ingénierie et les équipes produit, il peut réduire le travail manuel de mise en œuvre et de triage en connectant directement des agents d’IA aux dépôts, aux outils de suivi des tickets et aux workflows d’équipe.
 
-Vera Health est un moteur de recherche d’aide à la décision clinique basé sur l’IA qui aide les cliniciens agréés et les stagiaires à trouver des réponses concises fondées sur des preuves, des diagnostics différentiels, des plans de traitement et des calculs cliniques à partir de la littérature médicale évaluée par les pairs et des recommandations cliniques. Pour les médecins, assistants médicaux, pharmaciens et autres cliniciens au chevet du patient, il peut accélérer la résolution des questions tout en maintenant la traçabilité des recommandations grâce à des sources liées et à une gradation du niveau de preuve.
+**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT, PDG
 
-**Rôles adaptés:** Médecin généraliste, Cardiologue, Pédiatre, Administrateur de santé, Technicien de laboratoire médical
+</div>
 
-#### [Winfunc](https://www.aimyflow.com/fr/ai/winfunc-com)
+<div class="tool-card" markdown="1">
 
-Winfunc est un outil d’audit de sécurité par IA qui analyse les bases de code et les systèmes afin d’identifier de véritables vulnérabilités, de générer des preuves de concept d’exploitation et de fournir des recommandations de correction spécifiques aux chemins de code, principalement pour les équipes d’ingénierie logicielle et de sécurité. Dans les flux de travail AppSec pilotés par l’IA, ses constats étayés par des preuves peuvent aider les développeurs, les ingénieurs sécurité et les responsables de l’ingénierie à prioriser plus rapidement les problèmes exploitables et à déployer des correctifs en consacrant moins de temps à valider le bruit des scanners.
+### [AgentScale AI](https://www.aimyflow.com/fr/ai/agentscale-ai)
 
-**Rôles adaptés:** Responsable cybersécurité, Analyste cybersécurité, Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT
+AgentScale AI est une plateforme d’automatisation et un prestataire de services qui aide les entreprises à rationaliser le travail grâce à l’automatisation robotisée des processus, aux grands modèles de langage et aux agents d’IA, principalement pour les entreprises recherchant une automatisation opérationnelle. Pour les équipes chargées des opérations, des processus et de la transformation numérique, ces outils pilotés par l’IA peuvent réduire la gestion manuelle des tâches et favoriser une exécution des flux de travail plus évolutive.
 
-#### [Bluedoor](https://www.aimyflow.com/fr/ai/bluedoor-sh)
+**Rôles adaptés:** Directeur des opérations, Responsable PMO, Responsable infrastructure IT, Responsable développement logiciel, Consultant en technologies éducatives
 
-Bluedoor est un outil de recherche boursière en terminal qui aide les investisseurs à effectuer des recherches sur les titres, comparer des entreprises, backtester des idées et soutenir les flux de travail de trading à l’aide de centaines de sources de données réunies en un seul endroit. Pour les investisseurs et les professionnels de la finance axés sur la recherche, son flux de travail en terminal peut accélérer l’analyse, réduire les changements d’onglets et faciliter l’exploitation d’informations issues de sources croisées.
+</div>
 
-**Rôles adaptés:** Gestionnaire de portefeuille, Analyste financier, Data scientist, Ingénieur logiciel
+<div class="tool-card" markdown="1">
 
-#### [Ligo Biosciences](https://www.aimyflow.com/fr/ai/ligo-bio)
+### [AskYourDatabase](https://www.aimyflow.com/fr/ai/askyourdatabase-com)
 
-Ligo Biosciences est une plateforme de conception d’enzymes par IA qui utilise l’apprentissage profond et des modèles génératifs pour créer de nouvelles protéines et optimiser des enzymes pour l’industrie, principalement à destination des biochimistes, des chimistes et des équipes d’ingénierie des protéines. Dans la R&D pilotée par l’IA, elle peut aider les équipes d’innovation scientifique et chimique à itérer plus rapidement sur des candidats enzymes avant la validation expérimentale.
+AskYourDatabase est un analyste de données IA et un chatbot SQL qui permet aux utilisateurs de se connecter à des bases de données prises en charge, de poser des questions en langage courant et de générer des requêtes, des visualisations et des tableaux de bord, principalement pour les utilisateurs métier non techniques et les équipes qui explorent les données. Dans les workflows d’analytique assistés par l’IA, il peut aider les analystes, le support, les équipes commerciales et les responsables à obtenir plus rapidement des insights ponctuels tout en réduisant la rédaction routinière de SQL et les allers-retours avec les équipes BI ou d’ingénierie.
 
-**Rôles adaptés:** Biologiste moléculaire, Chimiste, Data scientist, Mathématicien appliqué, Ingénieur logiciel
+**Rôles adaptés:** PDG, Responsable commercial terrain, Ingénieur logiciel, Responsable PMO
 
-#### [Orca](https://www.aimyflow.com/fr/ai/orcaengine-ai)
+</div>
 
-Orca est un outil de modding Minecraft alimenté par l’IA qui aide les utilisateurs à créer des mods, des modèles 3D, des objets, des blocs, des skins et des comportements personnalisés à partir d’instructions en langage naturel, principalement pour les créateurs et moddeurs Minecraft. En générant du code, des textures et des modèles, puis en prenant en charge les tests et la publication, il peut aider les développeurs de mods et les créateurs de contenu de jeu à transformer leurs idées en éléments jouables plus rapidement, avec moins de configuration manuelle.
+<div class="tool-card" markdown="1">
 
-**Rôles adaptés:** Ingénieur logiciel, Graphiste, Créateur de contenu, Designer industriel, Rédacteur technique
+### [Bardeen](https://www.aimyflow.com/fr/ai/bardeen-ai)
 
-#### [Planbase](https://www.aimyflow.com/fr/ai/joinplanbase-com)
+Bardeen est une plateforme d’automatisation et de workflows alimentée par l’IA qui aide les équipes GTM à sourcer, qualifier, enrichir et exporter des prospects grâce au scraping web, à la recherche par IA et à l’enrichissement des données de contact. Pour les équipes commerciales, le recrutement, les opérations de revenus et d’autres fonctions fortement axées sur la prospection, elle permet de réduire la recherche manuelle et la saisie de données afin que les équipes puissent se concentrer davantage sur la priorisation, la prospection et la création de pipeline.
 
-Planbase est une plateforme de gestion du personnel de santé alimentée par l’IA qui aide les organisations de santé à rationaliser l’intégration des prestataires, la planification, la gestion des accréditations, la paie, les prévisions et l’analyse des effectifs. Pour les équipes des opérations des prestataires, de gestion des cabinets et de recrutement, ses flux de travail pilotés par l’IA peuvent réduire le travail administratif manuel et améliorer les décisions en matière de dotation, de conformité et d’utilisation à mesure que la demande évolue.
+**Rôles adaptés:** Responsable commercial terrain, Responsable acquisition de talents, Directeur marketing digital, Responsable des ventes e-commerce, Responsable PMO
 
-**Rôles adaptés:** Administrateur de santé, Directeur des opérations, Responsable PMO, Responsable rémunération et avantages, Expert-comptable certifié
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Beam AI](https://www.aimyflow.com/fr/ai/beam-ai)
+
+Beam AI est une plateforme d’automatisation agentique qui aide les entreprises à transformer des processus documentés en agents d’IA auto-apprenants pour des opérations telles que les RH, la finance et le service client, principalement à destination des responsables des opérations et des équipes d’entreprise. Pour les fonctions RH, finance et service client, elle peut réduire la gestion des workflows répétitifs tout en maintenant une validation humaine sur les tâches critiques et en améliorant la cohérence des processus au fil du temps.
+
+**Rôles adaptés:** Directeur des opérations, Responsable PMO, Responsable des relations sociales, Responsable FP&A, Administrateur de santé
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [BLACKBOX AI](https://www.aimyflow.com/fr/ai/blackbox-ai)
+
+BLACKBOX AI est une plateforme de codage par IA avec un IDE natif, une CLI, des agents cloud, une application mobile et une API qui aide les équipes logicielles à concevoir, tester, réviser, déployer et livrer du code plus rapidement, principalement pour les développeurs et les équipes d’ingénierie. Dans les flux de travail logiciels assistés par IA, elle peut aider les ingénieurs et les fonctions DevOps à réduire les transferts manuels en exécutant des agents de codage en parallèle et en orientant la sortie la plus performante vers des modifications prêtes à être révisées.
+
+**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Ability.ai](https://www.aimyflow.com/fr/ai/ability-ai)
+
+Ability.ai est un fournisseur de solutions d’IA qui conçoit des systèmes d’agents sur mesure pour l’automatisation des processus métier, aidant les entreprises à automatiser les flux de travail dans le support, les ventes, le recrutement, le marketing, la finance, l’informatique et le développement en utilisant leurs outils et règles existants. Pour les équipes des opérations, du support et des revenus, cela peut améliorer l’adoption de l’IA en transformant la logique métier en une exécution contrôlée et vérifiable des flux de travail, plutôt qu’en s’appuyant sur des chatbots autonomes.
+
+**Rôles adaptés:** Directeur des opérations, Responsable PMO, Responsable développement logiciel, Responsable infrastructure IT, Directeur marketing digital
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [SWE-agent](https://www.aimyflow.com/fr/ai/swe-agent-com)
+
+SWE-agent est un cadre d’agents open source et un ensemble de documentation qui aident les développeurs et les chercheurs à utiliser des modèles de langage pour corriger de manière autonome des problèmes dans des dépôts GitHub, détecter des vulnérabilités de cybersécurité et exécuter des tâches personnalisées de génie logiciel. Pour les ingénieurs logiciels, les chercheurs en sécurité et les chercheurs en IA, ce type d’outil peut rationaliser le débogage et l’expérimentation à l’échelle des dépôts en permettant aux modèles d’agir au moyen d’outils configurables plutôt que de seulement générer du code.
+
+**Rôles adaptés:** Ingénieur logiciel, Analyste cybersécurité, Responsable développement logiciel, Data scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Vanna AI](https://www.aimyflow.com/fr/ai/vanna-ai)
+
+Vanna AI est un framework open source d’agents SQL qui aide les équipes à créer des agents d’IA prêts pour la production afin d’interroger, en langage naturel, les bases de données de l’entreprise et les systèmes de référence, principalement pour les développeurs, les équipes data et les organisations qui rendent les données accessibles aux utilisateurs ne maîtrisant pas SQL. Dans les workflows d’analytics enrichis par l’IA, il peut réduire la rédaction manuelle de SQL tout en améliorant l’accès gouverné aux données, l’observabilité et la prise en charge de plusieurs bases de données pour les fonctions produit, data et ingénierie.
+
+**Rôles adaptés:** Ingénieur data, Data scientist, Ingénieur logiciel, Responsable infrastructure IT, Analyste financier
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Web3GPT](https://www.aimyflow.com/fr/ai/w3gpt-ai)
+
+Web3GPT est un outil d’IA qui aide les utilisateurs à générer des prompts pour des smart contracts, à créer des agents d’IA et à déployer onchain directement depuis le chat, principalement pour les développeurs web3 et les créateurs de smart contracts. Dans les workflows blockchain assistés par l’IA, il peut réduire le code passe-partout et accélérer la rédaction et le déploiement de contrats pour les équipes de développeurs travaillant sur des applications onchain.
+
+**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, PDG, Responsable PMO
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Wren AI](https://www.aimyflow.com/fr/ai/getwren-ai)
+
+Wren AI est une plateforme de business intelligence générative et d’analytics embarqués qui transforme des questions en langage naturel en SQL, graphiques et insights pour les équipes data, les équipes produit, les dirigeants et les entreprises SaaS. Dans les workflows d’analytics assistés par l’IA, elle peut aider les analystes et les équipes produit à réduire le travail manuel sur le SQL tout en offrant aux utilisateurs métier un accès plus rapide à des réponses gouvernées et explicables.
+
+**Rôles adaptés:** Ingénieur logiciel, PDG, Responsable PMO
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Cognee](https://www.aimyflow.com/fr/ai/prometh-ai)
+
+Cognee est un moteur de mémoire IA open source qui aide les ingénieurs à créer des agents IA adaptatifs en transformant les données en graphe de connaissances pour la récupération, le raisonnement et l’apprentissage fondé sur le retour d’information. Pour les ingénieurs et développeurs IA, cela peut réduire la dépendance aux pipelines RAG de base et améliorer au fil du temps la qualité des réponses, la personnalisation et l’exécution de tâches en plusieurs étapes.
+
+**Rôles adaptés:** Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable infrastructure IT, Data scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [GPT-Migrate](https://www.aimyflow.com/fr/ai/gpt-migrate-com)
+
+GPT-Migrate est un service de migration de code qui aide les utilisateurs à déplacer des bases de code complexes d’un langage ou d’un framework à un autre, principalement pour les équipes et les développeurs chargés de la modernisation logicielle. Dans un flux de développement assisté par l’IA, il peut aider les ingénieurs logiciels et les responsables techniques à réduire l’effort de refactorisation manuelle lors de la planification de migrations à grande échelle.
+
+**Rôles adaptés:** Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT, Ingénieur data
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Interpreter](https://www.aimyflow.com/fr/ai/openinterpreter-com)
+
+Interpreter est un agent IA de bureau qui aide les utilisateurs à lire, modifier et créer des documents Word, Excel, PDF et Markdown, principalement pour les travailleurs du savoir traitant des tâches fortement axées sur les documents. Pour les équipes opérationnelles, financières et administratives, il peut réduire le travail manuel lié aux documents en transformant des fichiers, formulaires, reçus et transcriptions en résultats structurés et en rapports modifiables.
+
+**Rôles adaptés:** Analyste financier, Responsable PMO, Expert-comptable certifié, Directeur des opérations, Agent de facturation médicale
+
+</div>
 
 
 ## Tous les outils
 
-<details>
-<summary>Développer le répertoire complet des outils (3027)</summary>
+<details markdown="1">
+<summary>Développer le répertoire complet des outils (3272)</summary>
 
-_Vue compacte pour un balayage plus rapide._
+<p class="section-note">_Vue compacte pour un balayage plus rapide._</p>
 
-- **[10Web](https://www.aimyflow.com/fr/ai/10web-io)**
-  - 10Web est une plateforme de création de sites web par IA et de WordPress géré qui aide les entreprises, les agences et les revendeurs à créer, lancer, héberger, optimiser et gérer des sites web ou des boutiques...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable développement logiciel, Vendeur e-commerce, PDG +1 de plus
+<div class="directory-list" markdown="1">
 
 - **[10x Science](https://www.aimyflow.com/fr/ai/10xscience-com)**
   - 10x Science est un logiciel nativement conçu pour l’IA à destination des scientifiques, qui aide à caractériser les protéines et à analyser les données omiques à grande échelle, avec des fonctionnalités de cartographie...
@@ -185,6 +305,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[123RF](https://www.aimyflow.com/fr/ai/123rf-com)**
   - 123RF est une plateforme de médias stock qui aide les marketeurs, designers et équipes de contenu à trouver rapidement des photos, vecteurs, illustrations et images libres de droits pour leurs campagnes et créations. À...
   - *Rôles adaptés:* Créateur de contenu, Professionnels de l'art et du design, Communicants médias, Écrivains et auteurs +2 de plus
+
+- **[14.ai](https://www.aimyflow.com/fr/ai/14-ai)**
+  - 14.ai est une agence de service client native de l’IA qui aide les marques B2C à gérer des opérations de support de bout en bout grâce à des agents d’IA autonomes et à une supervision humaine de type conciergerie sur...
+  - *Rôles adaptés:* Responsable des ventes e-commerce, Directeur des opérations, Responsable PMO, Directeur marketing digital +1 de plus
 
 - **[15Minutes](https://www.aimyflow.com/fr/ai/15minutes-ai)**
   - 15Minutes est une plateforme de résumés et d’analyses de livres comptant plus de 5 000 titres, qui aide les lecteurs à comprendre rapidement des ouvrages grâce à des lectures de 15 minutes, des PDF, des livres audio et...
@@ -202,13 +326,16 @@ _Vue compacte pour un balayage plus rapide._
   - 1of10 est un outil de croissance YouTube alimenté par l’IA qui aide les créateurs à repérer des vidéos atypiques, à générer des concepts de miniatures et à concevoir des titres et des idées, principalement pour les...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Graphiste +1 de plus
 
+- **[1stCollab](https://www.aimyflow.com/fr/ai/1stcollab-com)**
+  - 1stCollab est une marketplace d’influenceurs alimentée par l’IA qui aide les créateurs à trouver des partenariats de marque pertinents, à postuler rapidement, à maintenir un media kit mis à jour automatiquement et à...
+  - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire +1 de plus
+
+- **[222](https://www.aimyflow.com/fr/ai/222-place)**
+  - 222 est une application de planification sociale qui aide les gens à rencontrer de nouvelles personnes, à découvrir des activités locales et à approfondir leurs relations en organisant des événements comme des dîners...
+
 - **[2pr](https://www.aimyflow.com/fr/ai/2pr-io)**
   - 2pr est un générateur de publications LinkedIn par IA et un outil de workflow de contenu qui aide les utilisateurs à trouver des idées de publications, rédiger des posts LinkedIn authentiques, créer des carrousels,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire, PDG +1 de plus
-
-- **[2PR LinkedIn Carousel Generator](https://www.aimyflow.com/fr/ai/2pr-io-carousel)**
-  - 2PR LinkedIn Carousel Generator est un outil alimenté par l’IA qui transforme des articles, des notes, des vidéos et d’autres contenus sources en diapositives de carrousel LinkedIn et en PDF modifiables, principalement...
-  - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
 - **[2short.ai](https://www.aimyflow.com/fr/ai/2short-ai)**
   - 2short.ai est un générateur de YouTube Shorts basé sur l’IA qui aide les créateurs à transformer de longues vidéos YouTube en clips courts avec extraction des moments forts, sous-titres, suivi du visage et formats...
@@ -225,6 +352,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[a0.dev](https://www.aimyflow.com/fr/ai/a0-dev)**
   - a0.dev est un créateur d’applications mobiles propulsé par l’IA qui aide les utilisateurs à créer, publier, monétiser et suivre des applications iOS et Android depuis une seule plateforme, principalement pour les...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Créateur de contenu +1 de plus
+
+- **[Ability.ai](https://www.aimyflow.com/fr/ai/ability-ai)**
+  - Ability.ai est un fournisseur de solutions d’IA qui conçoit des systèmes d’agents sur mesure pour l’automatisation des processus métier, aidant les entreprises à automatiser les flux de travail dans le support, les...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
 
 - **[Abook.ai](https://www.aimyflow.com/fr/ai/abook-ai)**
   - Abook.ai est une plateforme de résumés de livres qui aide les utilisateurs à apprendre rapidement à partir d’ouvrages de non-fiction grâce à des résumés, des podcasts et des téléchargements au format PDF ou EPUB,...
@@ -294,6 +425,10 @@ _Vue compacte pour un balayage plus rapide._
   - AdsTurbo est un générateur de publicités vidéo par IA qui aide les marques e-commerce, les équipes de croissance et les spécialistes du marketing à la performance à créer, analyser, cloner, traduire et améliorer des...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
 
+- **[Aether](https://www.aimyflow.com/fr/ai/tryaether-co)**
+  - Aether est un outil de métrage pour les entrepreneurs en services résidentiels qui génère des rapports de métrage de toiture, d’extérieur et de maison entière, ainsi que des modèles 3D, à partir d’une adresse, d’images...
+  - *Rôles adaptés:* Responsable commercial terrain, Ingénieur civil, Responsable PMO, Architecte commercial +1 de plus
+
 - **[Affil.ai](https://www.aimyflow.com/fr/ai/affil-ai)**
   - Affil.ai est un outil de conformité et de surveillance alimenté par l’IA pour le marketing d’affiliation, qui aide les entreprises à suivre les contenus tiers, à détecter les problèmes liés à la marque et aux...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Responsable commercial terrain, Responsable PMO +1 de plus
@@ -326,13 +461,33 @@ _Vue compacte pour un balayage plus rapide._
   - AgentDesk est un outil de gestion des tickets et d’automatisation des flux de travail par IA qui lit le code, analyse les problèmes, rédige des correctifs, exécute des tests et ouvre des pull requests pour les équipes...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
 
+- **[AgentForge](https://www.aimyflow.com/fr/ai/agentforge-net)**
+  - AgentForge est un framework open source d’agents d’IA destiné aux développeurs et aux équipes techniques pour créer, personnaliser et déployer des architectures cognitives, des systèmes multi-agents et des agents...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
+
+- **[AgentGPT](https://www.aimyflow.com/fr/ai/agentgpt-reworkd-ai)**
+  - AgentGPT est un outil basé sur un navigateur permettant d’assembler, de configurer et de déployer des agents d’IA autonomes afin d’accomplir des tâches orientées vers des objectifs, telles que la recherche, la...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO
+
+- **[Agentic Labs](https://www.aimyflow.com/fr/ai/agenticlabs-com)**
+  - Agentic Labs est un moteur de contexte IA qui aide les équipes à collecter, nettoyer et organiser le code et les données clients, à créer des bases de connaissances sur le code, à générer des explications et à...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
+
 - **[Agentin](https://www.aimyflow.com/fr/ai/agentin-ai)**
   - Agentin est une plateforme d’agents d’IA qui exécute des workflows Quote-to-Cash et Procure-to-Pay dans des systèmes d’entreprise comme SAP, Salesforce, NetSuite, ServiceNow, Workday et Dynamics, principalement pour...
   - *Rôles adaptés:* Directeur des opérations, Directeur financier, Planificateur logistique, Responsable PMO +1 de plus
 
+- **[Agentive](https://www.aimyflow.com/fr/ai/goagentive-com)**
+  - Agentive est un espace de travail IA axé sur l’audit qui aide les cabinets d’audit et leurs clients à demander, valider et tester les éléments probants d’audit au sein d’une plateforme centralisée, principalement...
+  - *Rôles adaptés:* Expert-comptable certifié, Analyste financier, Directeur financier
+
 - **[Agentleader](https://www.aimyflow.com/fr/ai/agentleader-io)**
   - Agentleader est un outil de génération de leads B2B alimenté par l’IA qui aide les entreprises à trouver, qualifier et enrichir des listes de prospects grâce à une navigation basée sur des agents, une personnalisation...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
+
+- **[AgentScale AI](https://www.aimyflow.com/fr/ai/agentscale-ai)**
+  - AgentScale AI est une plateforme d’automatisation et un prestataire de services qui aide les entreprises à rationaliser le travail grâce à l’automatisation robotisée des processus, aux grands modèles de langage et aux...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable infrastructure IT, Responsable développement logiciel +1 de plus
 
 - **[AgentVoice](https://www.aimyflow.com/fr/ai/agentvoice-com)**
   - AgentVoice est une plateforme d’agents vocaux IA pour les entreprises et les équipes opérationnelles, qui gère les appels téléphoniques entrants et sortants, planifie des rendez-vous, met à jour les CRM, envoie des SMS...
@@ -401,10 +556,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[AI Clothes Changer](https://www.aimyflow.com/fr/ai/aiclothes-ai)**
   - AI Clothes Changer est un outil d’essayage virtuel alimenté par l’IA qui permet aux utilisateurs de téléverser une photo, de remplacer des tenues à l’aide d’images de vêtements ou d’invites textuelles, et de générer...
   - *Rôles adaptés:* Styliste, Vendeur e-commerce, Créateur de contenu, Graphiste +1 de plus
-
-- **[AI Color Analysis](https://www.aimyflow.com/fr/ai/aicoloranalysis-ai)**
-  - AI Color Analysis est un outil de stylisme en ligne basé sur l’IA qui analyse une photo téléchargée afin d’identifier la saison colorimétrique d’un utilisateur, son sous-ton, son contraste et sa palette personnalisée,...
-  - *Rôles adaptés:* Styliste, Créateur de contenu, Vendeur e-commerce, Graphiste
 
 - **[AI Convert Hub](https://www.aimyflow.com/fr/ai/aiconverthub-com)**
   - AI Convert Hub est un convertisseur de fichiers en ligne qui aide les utilisateurs à convertir et compresser par lots des fichiers vidéo, audio et image grâce à des contrôles tenant compte des codecs et à la prise en...
@@ -485,10 +636,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[AI Interview Copilot](https://www.aimyflow.com/fr/ai/aiinterviewcopilot-com)**
   - AI Interview Copilot est un assistant d’entretien d’embauche alimenté par l’IA pour les candidats, en particulier ceux qui passent des entretiens techniques. Il transcrit les conversations, analyse les captures d’écran...
   - *Rôles adaptés:* Ingénieur logiciel, Tuteur en programmation en ligne, Responsable développement logiciel, Rédacteur technique
-
-- **[AI Jewelry Model](https://www.aimyflow.com/fr/ai/aijewelrymodel-app)**
-  - AI Jewelry Model est un outil de photographie de bijoux par IA et d’essayage virtuel qui transforme des photos de produits en images réalistes de bijoux portés par des mannequins pour les vendeurs e-commerce sur Etsy,...
-  - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Créateur de contenu, Graphiste +1 de plus
 
 - **[AI Jingle Maker](https://www.aimyflow.com/fr/ai/aijinglemaker-net)**
   - AI Jingle Maker est un outil audio d’IA qui transforme de courts textes en jingles radio, identifiants de station, intros, mentions sponsorisées et ouvertures de podcast avec voix IA, musique et export MP3 prêt pour la...
@@ -843,10 +990,6 @@ _Vue compacte pour un balayage plus rapide._
   - AiShort est une bibliothèque de prompts IA et une plateforme d’agents qui aide les utilisateurs à trouver, copier, partager et appliquer des modèles de prompts pour des tâches telles que la rédaction, le codage, la...
   - *Rôles adaptés:* Ingénieur logiciel, Rédacteur publicitaire, Directeur marketing digital, Créateur de contenu +1 de plus
 
-- **[Aiso](https://www.aimyflow.com/fr/ai/getaiso-com)**
-  - Aiso est une plateforme d’optimisation de la recherche par IA qui aide les marques, les marketeurs, les spécialistes SEO et les équipes de génération de demande à suivre la manière dont ChatGPT, Gemini et Claude...
-  - *Rôles adaptés:* Directeur marketing digital, PDG, Créateur de contenu, Rédacteur publicitaire +1 de plus
-
 - **[AiTiger](https://www.aimyflow.com/fr/ai/aitiger-ai)**
   - AiTiger est une plateforme de création vidéo alimentée par l’IA qui transforme de simples trames narratives en vidéos prêtes à être partagées, avec visuels, personnages, narration et sous-titres, principalement pour...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux +1 de plus
@@ -859,13 +1002,13 @@ _Vue compacte pour un balayage plus rapide._
   - AITryOn Clothes Changer Video est un générateur vidéo par IA qui remplace les tenues dans les vidéos et régénère des visuels de style mode, principalement destiné aux équipes e-commerce, aux spécialistes du marketing...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Créateur de contenu, Styliste +1 de plus
 
+- **[AITV.GG](https://www.aimyflow.com/fr/ai/evo-ninja)**
+  - AITV.GG est une plateforme et un studio de streamers IA qui aide les créateurs, les marques et les communautés à créer, personnaliser, lancer et monétiser des avatars de livestreaming autonomes sur des plateformes...
+  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, PDG +1 de plus
+
 - **[AIUpscaler](https://www.aimyflow.com/fr/ai/aiupscaler-ai)**
   - AIUpscaler est un outil d’amélioration d’images et de vidéos par IA accessible via navigateur qui aide les utilisateurs à agrandir, accentuer, déflouter et restaurer des photos, ou à améliorer des vidéos jusqu’en 4K,...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Vendeur e-commerce, Graphiste +1 de plus
-
-- **[AIVA](https://www.aimyflow.com/fr/ai/aiva-ai)**
-  - AIVA est un assistant de génération musicale par IA qui aide compositeurs, créateurs et équipes média à produire de la musique originale pour vidéos, jeux et autres projets. À l’ère de l’IA, il accélère l’idéation et...
-  - *Rôles adaptés:* Amateur de musique
 
 - **[AIVocal](https://www.aimyflow.com/fr/ai/aivocal-io)**
   - AIVocal est une plateforme vocale et audio basée sur l’IA qui aide les créateurs, podcasteurs, conférenciers et autres professionnels de l’audio à générer de la parole, cloner des voix, créer des livres audio et des...
@@ -911,6 +1054,10 @@ _Vue compacte pour un balayage plus rapide._
   - Alethea AI est un studio de recherche et développement axé sur l’IA générative et la blockchain, qui propose EMOTE-1 pour aider les organisations à créer des agents vidéo personnalisés pour l’éducation, le marketing et...
   - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu, Consultant en technologies éducatives, Créateur de contenu réseaux sociaux +1 de plus
 
+- **[Alex](https://www.aimyflow.com/fr/ai/alex-com)**
+  - Alex est une plateforme de recrutement par IA qui automatise le sourcing, le tri des CV, les entretiens candidats, la planification et la vérification des fraudes afin d’aider les équipes de recrutement et les...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Responsable PMO, PDG
+
 - **[Alibaba Cloud](https://www.aimyflow.com/fr/ai/ai-aliyun-com-index)**
   - Alibaba Cloud est une plateforme cloud qui fournit des services de calcul, de stockage, de mise en réseau, de bases de données, de big data, de sécurité et d’IA, y compris le développement d’IA et des services de...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Ingénieur data, Responsable cybersécurité +1 de plus
@@ -941,6 +1088,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[AllMind AI](https://www.aimyflow.com/fr/ai/allmindinvestments-com)**
   - AllMind AI est une plateforme d’analyse d’investissement qui aide traders et investisseurs à accéder à des insights boursiers en temps réel, à l’analyse de marché et à des conseils stratégiques assistés par IA. À l’ère...
   - *Rôles adaptés:* Analyste financier
+
+- **[Alloy](https://www.aimyflow.com/fr/ai/alloy-app)**
+  - Alloy est un outil de prototypage IA qui capture des pages d’une véritable application web et permet aux chefs de produit de créer, via le chat, des prototypes interactifs et conformes à la marque, principalement pour...
+  - *Rôles adaptés:* Responsable développement logiciel, Graphiste, Responsable PMO, Ingénieur logiciel +1 de plus
 
 - **[allsearch.ai](https://www.aimyflow.com/fr/ai/allsearch-ai)**
   - allsearch.ai est un nom de domaine mis en vente via GoDaddy, aidant les acheteurs à faire des offres et à effectuer des transferts de domaine sécurisés, principalement pour les entreprises ou les particuliers...
@@ -1013,17 +1164,37 @@ _Vue compacte pour un balayage plus rapide._
   - Analogenie est un générateur d’analogies et de métaphores par IA qui aide les utilisateurs à transformer des énoncés en comparaisons contextuelles afin d’expliquer des idées plus clairement, principalement pour les...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu, Rédacteur technique, Directeur marketing digital +1 de plus
 
-- **[Andi](https://www.aimyflow.com/fr/ai/andisearch-com)**
-  - Andi est un assistant de recherche IA qui aide les utilisateurs à poser des questions, trouver des informations et créer du contenu grâce à des réponses conversationnelles plutôt qu’à de simples liens, principalement...
-  - *Rôles adaptés:* Créateur de contenu, Rédacteur technique, Rédacteur publicitaire, Analyste financier +1 de plus
+- **[Anara](https://www.aimyflow.com/fr/ai/anara-com)**
+  - Anara est un espace de travail de recherche basé sur l’IA qui aide les scientifiques, les étudiants et les équipes de recherche à rechercher dans la littérature académique, à analyser des fichiers téléversés, à...
+  - *Rôles adaptés:* Professeur d’université, Biologiste moléculaire, Microbiologiste, Technicien de laboratoire médical +1 de plus
+
+- **[Andon Labs](https://www.aimyflow.com/fr/ai/andonlabs-com)**
+  - Andon Labs est une entreprise de recherche en IA qui conçoit des évaluations sur mesure et des benchmarks en conditions réelles pour les modèles d’IA de pointe, afin d’aider les laboratoires d’IA, les chercheurs et les...
+  - *Rôles adaptés:* Data scientist, Ingénieur logiciel, Analyste cybersécurité, Responsable développement logiciel +1 de plus
 
 - **[ANDRE](https://www.aimyflow.com/fr/ai/andre-ai)**
   - ANDRE est un analyste de données d’enquête basé sur l’IA qui automatise le nettoyage, l’analyse et la création de rapports pour les retours clients et les enquêtes d’évaluation, principalement pour les spécialistes de...
   - *Rôles adaptés:* Data scientist, Directeur marketing digital, PDG, Responsable PMO +1 de plus
 
+- **[Andromeda Surgical](https://www.aimyflow.com/fr/ai/andromedasurgical-com)**
+  - Andromeda Surgical développe une plateforme d’autonomie et de navigation chirurgicale guidée par l’IA qui aide les chirurgiens à naviguer dans l’anatomie, à apprendre des procédures et à réaliser des interventions...
+  - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Spécialiste en santé au travail, PDG +1 de plus
+
+- **[Andy](https://www.aimyflow.com/fr/ai/with-andy-com)**
+  - Andy est un outil de documentation pour les soins à domicile, alimenté par l’IA et relu par des humains, qui aide les cliniciens à compléter plus rapidement les dossiers OASIS grâce à la saisie ambiante, à l’assurance...
+  - *Rôles adaptés:* Administrateur de santé, Infirmier en soins palliatifs, Aide à domicile, Agent de facturation médicale +1 de plus
+
 - **[Angel AI](https://www.aimyflow.com/fr/ai/angel-ai)**
   - Angel AI est une plateforme de compagnons IA qui permet aux utilisateurs de créer des petites amies, petits amis ou agents virtuels de style anime, de discuter avec eux et de générer des images, principalement pour les...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Graphiste, Rédacteur publicitaire
+
+- **[Anglera](https://www.aimyflow.com/fr/ai/anglera-com)**
+  - Anglera est une plateforme d’enrichissement des données produits alimentée par l’IA, qui aide les détaillants et les places de marché à nettoyer les données fournisseurs, à compléter les attributs manquants et à...
+  - *Rôles adaptés:* Responsable des ventes e-commerce, Ingénieur data, Ingénieur logiciel, Directeur marketing digital +1 de plus
+
+- **[Ångström AI](https://www.aimyflow.com/fr/ai/angstrom-ai-com)**
+  - Ångström AI est une plateforme de simulation moléculaire d’IA générative qui calcule les différences d’énergie libre, les conformations de liaison et les sites d’hydratation avec une précision de niveau ab initio, bien...
+  - *Rôles adaptés:* Data scientist, Biologiste moléculaire, Chimiste, Ingénieur logiciel
 
 - **[AnimalGenerator.net](https://www.aimyflow.com/fr/ai/animalgenerator-net)**
   - AnimalGenerator.net est un créateur et mélangeur d’animaux par IA qui aide les utilisateurs à combiner des animaux, des mechas et des héros fantastiques en personnages hybrides cohérents, bandes dessinées et pages de...
@@ -1049,13 +1220,13 @@ _Vue compacte pour un balayage plus rapide._
   - AnswerThis est un assistant de recherche en IA qui aide les chercheurs, universitaires, étudiants et professionnels de santé à trouver des preuves, rédiger des revues de littérature et des études de cas étayées par des...
   - *Rôles adaptés:* Professeur d’université, Médecin généraliste, Rédacteur technique, Technicien de laboratoire médical +1 de plus
 
+- **[Anthrogen](https://www.aimyflow.com/fr/ai/anthrogen-com)**
+  - Anthrogen est un laboratoire de recherche en IA qui développe des modèles de langage pour les protéines et des systèmes de validation expérimentale afin de générer et de développer des produits biologiques et des...
+  - *Rôles adaptés:* Biologiste moléculaire, Data scientist, Microbiologiste, Ingénieur logiciel +1 de plus
+
 - **[Anthropic](https://www.aimyflow.com/fr/ai/anthropic-com)**
   - Anthropic est une entreprise de recherche et de sécurité en IA qui développe Claude et des produits connexes afin d’aider les particuliers et les organisations à utiliser une IA fiable, interprétable et pilotable,...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Responsable PMO +1 de plus
-
-- **[Anthropic Healthcare](https://www.aimyflow.com/fr/ai/github-com-anthropics-healthcare)**
-  - Anthropic Healthcare est un dépôt GitHub sur la marketplace de compétences Claude Code et de plugins MCP qui aide les développeurs du secteur de la santé et les équipes opérationnelles à travailler sur le développement...
-  - *Rôles adaptés:* Ingénieur logiciel, Administrateur de santé, Agent de facturation médicale, Responsable infrastructure IT +1 de plus
 
 - **[Antiverse](https://www.aimyflow.com/fr/ai/antiverse-io)**
   - Antiverse est une plateforme de conception d’anticorps pilotée par l’apprentissage automatique, axée sur l’aide aux équipes de découverte de médicaments pour concevoir des anticorps destinés à des cibles difficiles...
@@ -1124,6 +1295,10 @@ _Vue compacte pour un balayage plus rapide._
   - AppWizzy est une plateforme propulsée par l’IA permettant de créer et d’héberger des applications web full-stack et des sites web évolutifs, principalement destinée aux développeurs, aux fondateurs techniques et aux...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Responsable infrastructure IT +1 de plus
 
+- **[Aqua Voice](https://www.aimyflow.com/fr/ai/aquavoice-com)**
+  - Aqua Voice est une application de dictée vocale pour Mac et Windows qui transforme la parole en texte clair, adapté à l’application, en temps réel, aidant les utilisateurs à rédiger des prompts, du code, des messages...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Rédacteur technique +1 de plus
+
 - **[Aragon.ai](https://www.aimyflow.com/fr/ai/aragon-ai)**
   - Aragon.ai est un générateur de portraits professionnels par IA qui transforme quelques selfies en portraits de qualité studio et en retouches photo associées, principalement pour les professionnels, les équipes et les...
   - *Rôles adaptés:* Responsable acquisition de talents, Directeur marketing digital, Graphiste, Créateur de contenu réseaux sociaux +1 de plus
@@ -1148,9 +1323,17 @@ _Vue compacte pour un balayage plus rapide._
   - ArchyBase est une plateforme de conception par IA destinée aux architectes et aux propriétaires, qui transforme des photos, des croquis et des plans CAO en rendus d’intérieurs, d’extérieurs et d’aménagements paysagers...
   - *Rôles adaptés:* Architecte d'intérieur, Architecte résidentiel, Agent immobilier, Architecte commercial +1 de plus
 
+- **[Arcimus](https://www.aimyflow.com/fr/ai/arcimus-com)**
+  - Arcimus est un service de recrutement qui aide les équipes d’embauche à trouver des ingénieurs capables de livrer, grâce à un sourcing mené par des fondateurs techniques et à une présélection fondée sur un véritable...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable développement logiciel, Ingénieur logiciel, PDG
+
 - **[Arcten](https://www.aimyflow.com/fr/ai/arcten-com)**
   - Arcten est une équipe d’ingénieurs et de chercheurs en IA soutenue par Y Combinator, qui semble développer des outils ou des services d’IA, principalement pour les organisations à la recherche d’une expertise technique...
   - *Rôles adaptés:* Responsable développement logiciel, Data scientist, Ingénieur logiciel, PDG +1 de plus
+
+- **[Arini](https://www.aimyflow.com/fr/ai/arini-ai)**
+  - Arini est un standardiste IA pour les cabinets dentaires qui répond aux appels, gère les rendez-vous et prend en charge la communication avec les patients par téléphone et par SMS, principalement pour les DSO, les...
+  - *Rôles adaptés:* Administrateur de santé, Responsable d’agence, Directeur des opérations
 
 - **[Arka](https://www.aimyflow.com/fr/ai/arka-so)**
   - Arka est une plateforme d’insights sur les revenus basée sur l’IA qui aide les équipes revenu à prévoir le chiffre d’affaires, détecter les signaux de churn et d’expansion, et automatiser le reporting à partir de...
@@ -1176,17 +1359,13 @@ _Vue compacte pour un balayage plus rapide._
   - Article Forge est un générateur de contenu par IA qui recherche, planifie et rédige automatiquement des articles longs optimisés pour le SEO à partir d’un mot-clé, principalement pour les spécialistes du marketing, les...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Rédacteur technique +1 de plus
 
-- **[Articos](https://www.aimyflow.com/fr/ai/articos-com)**
-  - Articos est une plateforme de recherche utilisateur basée sur l’IA qui aide les agences, les équipes SaaS et les spécialistes du growth marketing à tester les messages, les pages d’atterrissage, les concepts et les...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable PMO, Responsable développement logiciel, Rédacteur publicitaire +1 de plus
-
 - **[Articulate](https://www.aimyflow.com/fr/ai/usearticulate-com)**
   - Articulate est une plateforme d’analyse de plans de construction alimentée par l’IA qui examine des plans PDF 2D afin d’identifier les conflits de coordination, les problèmes de conformité aux codes et les erreurs de...
   - *Rôles adaptés:* Architecte commercial, Ingénieur civil, Ingénieur électricien, Ingénieur mécanique +1 de plus
 
-- **[Artlist AI Image Generator](https://www.aimyflow.com/fr/ai/artlist-io-ai-image-generator)**
-  - Le générateur d’images IA d’Artlist est un outil en ligne qui transforme des invites textuelles ou des images de référence en visuels modifiables de haute qualité à l’aide de plusieurs modèles d’image, principalement...
-  - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
+- **[Artisan](https://www.aimyflow.com/fr/ai/artisan-co)**
+  - Artisan est une plateforme de prospection commerciale sortante orientée IA qui combine données sur les leads, recherche d’intention, personnalisation, outils de délivrabilité et son IA BDR Ava afin d’automatiser les...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
 
 - **[ArtPose](https://www.aimyflow.com/fr/ai/posegenerator-net)**
   - ArtPose est un générateur de poses par IA et un outil de référence qui aide les artistes, illustrateurs, concepteurs de personnages et animateurs à créer des images de poses personnalisables en ajustant le style,...
@@ -1199,6 +1378,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Artypa](https://www.aimyflow.com/fr/ai/artypa-com)**
   - Artypa est un outil créatif basé sur l’IA qui aide les utilisateurs à créer et à modifier des images, des vidéos, de l’audio et du texte au même endroit, principalement pour les créateurs et les autres personnes...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Graphiste, Rédacteur publicitaire +1 de plus
+
+- **[Arva AI](https://www.aimyflow.com/fr/ai/arva-ai)**
+  - Arva AI est une plateforme d’entreprise d’agents d’IA qui aide les institutions financières réglementées à automatiser les examens de conformité en matière de criminalité financière dans les workflows de filtrage, de...
+  - *Rôles adaptés:* Analyste des risques, Analyste financier, Directeur financier, PDG +1 de plus
 
 - **[Arvin AI](https://www.aimyflow.com/fr/ai/arvin-chat)**
   - Arvin AI est une application web et une extension de navigateur basées sur l’IA qui aident les utilisateurs à converser, résumer des pages web et des PDF, traduire du texte, rédiger des e-mails et des articles, et...
@@ -1249,6 +1432,10 @@ _Vue compacte pour un balayage plus rapide._
   - AskWeather.ai est un site météo sans publicité avec un chat IA qui aide les utilisateurs à consulter les conditions actuelles, les prévisions à 15 jours, le radar en direct, la météo sur itinéraire, l’historique météo...
   - *Rôles adaptés:* Planificateur logistique, Directeur de restaurant, Responsable d’agence, Responsable de programme associatif
 
+- **[AskYourDatabase](https://www.aimyflow.com/fr/ai/askyourdatabase-com)**
+  - AskYourDatabase est un analyste de données IA et un chatbot SQL qui permet aux utilisateurs de se connecter à des bases de données prises en charge, de poser des questions en langage courant et de générer des requêtes,...
+  - *Rôles adaptés:* PDG, Responsable commercial terrain, Ingénieur logiciel, Responsable PMO
+
 - **[ASMR.so](https://www.aimyflow.com/fr/ai/asmr-so)**
   - ASMR.so est un générateur de vidéos ASMR par IA qui utilise la technologie VEO3 pour aider les créateurs à produire des vidéos ASMR relaxantes avec des sons comme des chuchotements, des tapotements et des ambiances...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Producteur de podcast, Rédacteur publicitaire +1 de plus
@@ -1260,6 +1447,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Aspect](https://www.aimyflow.com/fr/ai/aspect-inc)**
   - Aspect est une plateforme d’IA destinée aux équipes médias en entreprise qui les aide à ingérer, rechercher, segmenter, extraire, assembler et réviser des contenus visuels et des jeux de données multimodaux tout au...
   - *Rôles adaptés:* Producteur de podcast, Réalisateur indépendant, Créateur de contenu, Responsable PMO +1 de plus
+
+- **[Assembly HOA Management](https://www.aimyflow.com/fr/ai/assemblyhoa-com)**
+  - Assembly HOA Management est une société californienne de gestion de copropriétés HOA qui associe des gestionnaires de communauté à un logiciel propriétaire afin d’aider les associations de propriétaires à gérer les...
+  - *Rôles adaptés:* Responsable d’agence, Responsable PMO, Directeur financier, Directeur des opérations +1 de plus
 
 - **[AssetAI](https://www.aimyflow.com/fr/ai/myassetai-com)**
   - AssetAI est une plateforme de contenu de campagne marketing alimentée par l’IA qui aide les équipes marketing à générer des ressources coordonnées couvrant l’ensemble du tunnel, telles que des articles de blog, des...
@@ -1284,10 +1475,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Astro Energy](https://www.aimyflow.com/fr/ai/astroenergy-ai)**
   - Astro Energy est un développeur de projets solaires et de stockage par batteries à l’échelle industrielle qui aide les propriétaires fonciers du Texas à évaluer et à louer des terrains pour des projets énergétiques à...
   - *Rôles adaptés:* Architecte commercial, Ingénieur civil, PDG, Responsable PMO +1 de plus
-
-- **[Astrology Bot](https://www.aimyflow.com/fr/ai/astrologybot-app-en)**
-  - Astrology Bot est un outil d’analyse de thème natal alimenté par l’IA qui aide les utilisateurs à ajouter leurs données de naissance, à poser des questions et à explorer des interprétations basées sur le thème,...
-  - *Rôles adaptés:* Coach bien-être, Créateur de contenu, Enseignant, Rédacteur publicitaire +1 de plus
 
 - **[Athena AI Agents](https://www.aimyflow.com/fr/ai/athenachat-bot-agents)**
   - Athena AI Agents est une plateforme sans code permettant de créer des agents IA personnalisés qui gèrent des flux de travail ciblés, des tâches connectées à des outils et des interactions sur des sites web,...
@@ -1329,9 +1516,9 @@ _Vue compacte pour un balayage plus rapide._
   - Atono est une plateforme produit destinée aux équipes produit et d’ingénierie qui les aide à planifier, concevoir, déployer et mesurer leur travail grâce à des récits connectés, des feature flags et des analyses...
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
 
-- **[Attensira](https://www.aimyflow.com/fr/ai/attensira-com)**
-  - Attensira est une plateforme de visibilité dans la recherche par IA qui aide les entreprises en croissance à suivre la manière dont elles apparaissent dans des outils comme ChatGPT, Claude, Perplexity et Gemini, et à...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Créateur de contenu
+- **[Attunement AI](https://www.aimyflow.com/fr/ai/attunement-ai)**
+  - Attunement AI est une couche de mémoire clinique qui aide les organisations de médecine spécialisée et de santé comportementale à transformer les évaluations, dossiers d’orientation et autres documents cliniques en...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Médecin généraliste, Pédiatre +1 de plus
 
 - **[Audialab](https://www.aimyflow.com/fr/ai/audialab-com)**
   - Audialab est une suite d’outils audio d’IA éthique qui aide les artistes et les producteurs de musique à concevoir des sons, à générer des samples libres de droits et à créer des variations de batterie ou de nouveaux...
@@ -1360,6 +1547,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Audo Studio](https://www.aimyflow.com/fr/ai/audo-ai)**
   - Audo Studio est un outil de nettoyage audio basé sur navigateur qui supprime les bruits de fond, améliore la voix et ajuste automatiquement le volume en un clic, principalement pour les YouTubeurs, les podcasteurs et...
   - *Rôles adaptés:* Producteur de podcast, Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire +1 de plus
+
+- **[Audos, which has acquired No Cap,](https://www.aimyflow.com/fr/ai/nocap-so)**
+  - Audos, qui a acquis No Cap, est une plateforme d’IA et un modèle de publication qui aide les fondateurs à créer des entreprises nativement axées sur l’IA, à lancer des actifs orientés client et à accéder à un...
+  - *Rôles adaptés:* PDG, Directeur des opérations, Directeur marketing digital, Responsable PMO +1 de plus
 
 - **[Audyo](https://www.aimyflow.com/fr/ai/audyo-ai)**
   - Audyo est un éditeur de synthèse vocale IA qui aide les utilisateurs à créer et modifier de l’audio parlé comme un document, avec une édition au niveau des mots, plusieurs voix, un contrôle de la prononciation...
@@ -1401,6 +1592,10 @@ _Vue compacte pour un balayage plus rapide._
   - Autoenhance.ai est une plateforme de retouche photo basée sur l’IA qui automatise les tâches d’amélioration d’images immobilières telles que la fusion HDR, l’équilibrage des fenêtres, le remplacement du ciel, la...
   - *Rôles adaptés:* Graphiste, Agent immobilier, Créateur de contenu, Ingénieur logiciel
 
+- **[Automat](https://www.aimyflow.com/fr/ai/runautomat-com)**
+  - Automat est une plateforme d’automatisation des processus métier et de RPA pilotée par l’IA qui aide les équipes à automatiser des flux de travail tels que le traitement des documents, la saisie de données, la...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable FP&A, Administrateur de santé +1 de plus
+
 - **[AutomateClips](https://www.aimyflow.com/fr/ai/automateclips-com)**
   - AutomateClips est une API REST qui permet aux agents IA et aux développeurs de publier du contenu de diaporama TikTok à partir de téléversements d’images ou d’URL, principalement pour les marketeurs, les créateurs et...
   - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu réseaux sociaux, Ingénieur logiciel, Créateur de contenu +1 de plus
@@ -1429,6 +1624,10 @@ _Vue compacte pour un balayage plus rapide._
   - AutoNotes est un logiciel de documentation clinique alimenté par l’IA qui aide les thérapeutes et les professionnels de la santé comportementale à générer des notes d’évolution conformes, des notes SOAP et DAP, des...
   - *Rôles adaptés:* Administrateur de santé, Coach bien-être, Responsable PMO, Agent de facturation médicale
 
+- **[Autopilot](https://www.aimyflow.com/fr/ai/codeautopilot-com)**
+  - Autopilot est un assistant de codage IA pour GitHub qui aide les développeurs logiciels et les équipes d’ingénierie à corriger des bugs, à discuter des problèmes dans les pull requests, à générer des plans...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT
+
 - **[AutoReach](https://www.aimyflow.com/fr/ai/autoreach-work)**
   - AutoReach est un agent autonome de génération de prospects par IA qui aide les équipes commerciales, les agences, les freelances et les consultants à trouver des entreprises, qualifier des prospects, analyser des sites...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, PDG +1 de plus
@@ -1436,6 +1635,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[AutoResearch.pro](https://www.aimyflow.com/fr/ai/autoresearch-pro)**
   - AutoResearch.pro est une plateforme de recherche et de présentation basée sur l’IA qui aide les utilisateurs à automatiser la recherche, à générer des présentations professionnelles avec des notes de présentation, et à...
   - *Rôles adaptés:* Analyste financier, Responsable PMO, Rédacteur technique, PDG +1 de plus
+
+- **[Autotab](https://www.aimyflow.com/fr/ai/autotab-com)**
+  - Autotab est un agent d’IA généraliste qui apprend des workflows à partir de vidéos ou de documents et exécute des tâches dans le navigateur, telles que la collecte de données, le remplissage de formulaires et...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Planificateur logistique, Responsable d’agence +1 de plus
 
 - **[Avanty](https://www.aimyflow.com/fr/ai/avanty-app)**
   - Avanty est une extension Chrome pour Metabase, alimentée par l’IA, qui aide les analystes de données à générer, modifier, expliquer, formater et commenter des requêtes SQL plus rapidement à l’aide du langage naturel et...
@@ -1456,6 +1659,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Averi](https://www.aimyflow.com/fr/ai/averi-ai)**
   - Averi est un workflow de marketing de contenu propulsé par l’IA pour les startups, qui aide les équipes à rechercher des sujets, rédiger des contenus optimisés pour le SEO et le GEO, publier dans leur CMS et suivre les...
   - *Rôles adaptés:* Directeur marketing digital, PDG, Rédacteur publicitaire, Créateur de contenu +1 de plus
+
+- **[AveryIQ](https://www.aimyflow.com/fr/ai/callavery-com)**
+  - AveryIQ est un système de gestion immobilière alimenté par l’IA, doté d’un agent IA intégré, Avery, qui automatise le suivi locatif, la planification des visites, la communication avec les locataires, les flux de...
+  - *Rôles adaptés:* Responsable d’agence, Directeur des opérations, Planificateur logistique, Agent immobilier +1 de plus
 
 - **[Avturo](https://www.aimyflow.com/fr/ai/avturo-com)**
   - Avturo est un assistant d’achat automobile basé sur l’IA qui aide les acheteurs à analyser les annonces de voitures d’occasion, à estimer leur juste valeur, à repérer les problèmes courants et à obtenir des...
@@ -1483,16 +1690,16 @@ _Vue compacte pour un balayage plus rapide._
   - babyvideo.ai est un outil IA de transformation de photos de bébé en vidéo qui aide les parents et les créateurs à convertir une seule image de bébé en courtes vidéos, comme des sourires, du quatre pattes, du sommeil,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital
 
+- **[Backdrop](https://www.aimyflow.com/fr/ai/joinbackdrop-com)**
+  - Backdrop est une plateforme d’automatisation financière avec un agent d’IA appelé Bella qui aide les équipes d’entreprise et les équipes orientées projet à clôturer leurs comptes plus rapidement en automatisant les...
+  - *Rôles adaptés:* Expert-comptable certifié, Directeur financier, Responsable FP&A, Analyste financier +1 de plus
+
 - **[BacklinkManagement.io](https://www.aimyflow.com/fr/ai/backlinkmanagement-io)**
   - BacklinkManagement.io est un outil de gestion des backlinks et de création de liens propulsé par l’IA, qui aide les propriétaires de sites web et les équipes SEO à automatiser les articles invités, les inscriptions...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Créateur de contenu
 
 - **[Baidu Account](https://www.aimyflow.com/fr/ai/yige-baidu-com)**
   - Le compte Baidu est un système de connexion centralisé pour les produits Baidu qui aide les utilisateurs à se connecter et à gérer les détails de leur compte personnel, tels que les mots de passe, l’association du...
-
-- **[Baidu AI Market](https://www.aimyflow.com/fr/ai/aim-baidu-com)**
-  - Baidu AI Market est une place de marché commerciale pour la chaîne de valeur de l’IA qui aide les entreprises, les développeurs et les fournisseurs de services d’IA à trouver, présenter, acheter et vendre des...
-  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Directeur des opérations, Responsable des ventes e-commerce +1 de plus
 
 - **[Baidu PaddlePaddle AI Studio](https://www.aimyflow.com/fr/ai/aistudio-baidu-com)**
   - Baidu PaddlePaddle AI Studio est une communauté d’apprentissage et de pratique de l’IA qui aide les utilisateurs à étudier, créer et déployer des modèles et des applications d’IA grâce à des cours, des jeux de données,...
@@ -1502,9 +1709,17 @@ _Vue compacte pour un balayage plus rapide._
   - Baloon.dev est un connecteur Jira-IA qui permet aux équipes d’assigner directement des tickets Jira à des agents IA pour automatiser de petites modifications de code, répondre à des questions produit, et renvoyer des...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Directeur des opérations
 
+- **[BAML](https://www.aimyflow.com/fr/ai/boundaryml-com)**
+  - BAML est une boîte à outils et un langage open source destinés aux développeurs qui créent des applications et des agents d’IA. Il les aide à définir des prompts, générer du code natif et valider des sorties...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
+
 - **[Banana Prompts](https://www.aimyflow.com/fr/ai/bananaprompts-org)**
   - Banana Prompts est une bibliothèque de prompts pour la génération d’images par IA qui aide les utilisateurs à trouver, copier et utiliser des modèles de prompts testés, principalement pour les créateurs utilisant Nano...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
+
+- **[Bardeen](https://www.aimyflow.com/fr/ai/bardeen-ai)**
+  - Bardeen est une plateforme d’automatisation et de workflows alimentée par l’IA qui aide les équipes GTM à sourcer, qualifier, enrichir et exporter des prospects grâce au scraping web, à la recherche par IA et à...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable acquisition de talents, Directeur marketing digital, Responsable des ventes e-commerce +1 de plus
 
 - **[Bardeen AI](https://www.aimyflow.com/fr/ai/bardeen-ai-ai)**
   - Bardeen AI est un outil d’automatisation et de workflow qui utilise des LLM pour aider les équipes GTM à trouver, qualifier et prioriser des leads, puis à générer des prises de contact personnalisées à partir de...
@@ -1518,10 +1733,6 @@ _Vue compacte pour un balayage plus rapide._
   - Base44 est un créateur d’applications et de sites web no-code qui aide les utilisateurs à transformer des idées écrites en produits prêts à être lancés, avec des fonctionnalités intégrées d’hébergement,...
   - *Rôles adaptés:* PDG, Responsable PMO, Directeur des opérations, Responsable développement logiciel +1 de plus
 
-- **[Base44 Superagents](https://www.aimyflow.com/fr/ai/base44-pxf-io-c-6992242-3820726-25619)**
-  - Base44 Superagents est une plateforme d’agents IA no-code qui aide les utilisateurs à créer des agents personnels pour connecter des outils, automatiser des tâches récurrentes et exécuter des actions entre différentes...
-  - *Rôles adaptés:* Responsable PMO, Responsable commercial terrain, Planificateur logistique, Responsable développement logiciel +1 de plus
-
 - **[BasedLabs](https://www.aimyflow.com/fr/ai/basedlabs-ai)**
   - BasedLabs est une plateforme de création de contenu par IA qui aide les utilisateurs à générer des images, des vidéos et de l’audio grâce à plusieurs modèles et outils d’édition, principalement pour les créateurs, les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Réalisateur indépendant +1 de plus
@@ -1529,6 +1740,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Baseline](https://www.aimyflow.com/fr/ai/baselinetrials-com)**
   - Baseline est une solution d’essais cliniques alimentée par l’IA qui aide les organisations à accélérer la recherche en développant des agents IA adaptés à leurs flux de travail d’essais, principalement pour les équipes...
   - *Rôles adaptés:* Administrateur de santé, Responsable PMO, Data scientist, Responsable de programme associatif
+
+- **[Basepilot](https://www.aimyflow.com/fr/ai/basepilot-com)**
+  - Basepilot est une plateforme d’opérations de sinistres basée sur l’IA qui fournit des agents IA spécifiques à chaque branche d’activité afin d’automatiser les workflows de gestion des sinistres, depuis la déclaration...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Analyste des risques, Responsable cybersécurité +1 de plus
 
 - **[Bayesline](https://www.aimyflow.com/fr/ai/bayesline-com)**
   - Bayesline est une plateforme d’analytique destinée aux gestionnaires d’actifs qui aide les équipes à créer des modèles de risque actions personnalisés, exécuter des backtests, automatiser la sélection des facteurs et...
@@ -1546,6 +1761,10 @@ _Vue compacte pour un balayage plus rapide._
   - Beacons est une plateforme tout-en-un pour créateurs qui aide les influenceurs à gérer pages link-in-bio, media kits, boutiques et email marketing depuis un seul endroit. À l’ère de l’IA, elle centralise la...
   - *Rôles adaptés:* Créateur de contenu, Responsables marketing et ventes, Dirigeants, Créateur de contenu réseaux sociaux +5 de plus
 
+- **[Beam AI](https://www.aimyflow.com/fr/ai/beam-ai)**
+  - Beam AI est une plateforme d’automatisation agentique qui aide les entreprises à transformer des processus documentés en agents d’IA auto-apprenants pour des opérations telles que les RH, la finance et le service...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable des relations sociales, Responsable FP&A +1 de plus
+
 - **[Beancount.io](https://www.aimyflow.com/fr/ai/beancount-io)**
   - Beancount.io est une plateforme de comptabilité en texte brut qui aide les utilisateurs à rédiger, automatiser et auditer des registres financiers grâce à des flux de travail scriptables et à des analyses assistées par...
   - *Rôles adaptés:* Expert-comptable certifié, Analyste financier, Directeur financier, Ingénieur logiciel +1 de plus
@@ -1561,10 +1780,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[BeatViz](https://www.aimyflow.com/fr/ai/beatviz-ai-ai-music-generator)**
   - BeatViz est un générateur de musique par IA qui transforme des invites textuelles ou des paroles en chansons complètes, avec des options de voix IA, d’analyse des paroles, de montage et de création de clips musicaux,...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Directeur marketing digital +1 de plus
-
-- **[Beautiful.ai](https://www.aimyflow.com/fr/ai/beautiful-ai)**
-  - Beautiful.ai est un outil de création de présentations par IA qui aide les utilisateurs à créer plus rapidement des diaporamas soignés et professionnels grâce à des flux de travail IA guidés, des mises en page...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable PMO, Coach en leadership d’entreprise +1 de plus
 
 - **[BeeBee AI](https://www.aimyflow.com/fr/ai/beebee-ai)**
   - BeeBee AI est un outil d’analyse des résultats financiers qui aide les investisseurs en actions américaines à examiner conférences de résultats, rapports et actualités avec des insights assistés par IA. À l’ère de...
@@ -1590,9 +1805,17 @@ _Vue compacte pour un balayage plus rapide._
   - Benchify est une plateforme d’exécution des contrats de santé qui transforme les termes contractuels en logique déterministe afin de vérifier les demandes de remboursement, les paiements, les audits et l’exécution des...
   - *Rôles adaptés:* Administrateur de santé, Analyste financier, Agent de facturation médicale, Analyste des risques +1 de plus
 
+- **[Benchmark](https://www.aimyflow.com/fr/ai/withbenchmark-com)**
+  - Benchmark est un espace de travail alimenté par l’IA pour les sociétés d’investissement, qui aide les équipes à accélérer la due diligence, à automatiser les tâches répétitives et à transformer des fichiers tels...
+  - *Rôles adaptés:* Gestionnaire de portefeuille, Analyste financier, Analyste des risques, Responsable FP&A +1 de plus
+
 - **[Berean.ai](https://www.aimyflow.com/fr/ai/berean-ai)**
   - Berean.ai est un outil de théologie biblique et d’accompagnement chrétien alimenté par l’IA, qui aide les utilisateurs à poser des questions privées sur le christianisme, la théologie et l’interprétation biblique,...
   - *Rôles adaptés:* Professeur d’université, Enseignant, Rédacteur technique, Créateur de contenu +1 de plus
+
+- **[Berry](https://www.aimyflow.com/fr/ai/berryai-com)**
+  - Berry est une plateforme d’IA dédiée à la réussite client qui aide les équipes SaaS d’entreprise à automatiser les activités après-vente telles que l’onboarding, la formation, le support, les renouvellements, les...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Directeur des opérations, PDG +1 de plus
 
 - **[BerryViral](https://www.aimyflow.com/fr/ai/berryviral-com)**
   - BerryViral est un outil d’intelligence artificielle dédié aux miniatures qui évalue, analyse et aide à affiner les miniatures et les titres YouTube afin d’en améliorer l’attractivité au clic, principalement pour les...
@@ -1673,6 +1896,10 @@ _Vue compacte pour un balayage plus rapide._
   - Black Forest Labs est un laboratoire d’IA de pointe à l’origine de la famille de modèles FLUX, proposant des outils de génération et d’édition d’images via une API, des poids ouverts et un playground dans le navigateur...
   - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Directeur marketing digital, Responsable développement logiciel +1 de plus
 
+- **[BLACKBOX AI](https://www.aimyflow.com/fr/ai/blackbox-ai)**
+  - BLACKBOX AI est une plateforme de codage par IA avec un IDE natif, une CLI, des agents cloud, une application mobile et une API qui aide les équipes logicielles à concevoir, tester, réviser, déployer et livrer du code...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
+
 - **[BLACKBOX AI Agent](https://www.aimyflow.com/fr/ai/agent-blackbox-ai-api)**
   - BLACKBOX AI Agent est une API REST destinée aux développeurs et aux équipes d’ingénierie pour exécuter des tâches de programmation via plusieurs agents d’IA, comparer les implémentations et appliquer des modifications...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Rédacteur technique +1 de plus
@@ -1705,13 +1932,13 @@ _Vue compacte pour un balayage plus rapide._
   - BlogSEO est un outil d’automatisation de contenu SEO basé sur l’IA qui analyse un site web, identifie des opportunités de mots-clés, rédige des articles de blog alignés sur la marque et les publie automatiquement pour...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Responsable des ventes e-commerce +1 de plus
 
-- **[Bloom](https://www.aimyflow.com/fr/ai/github-com-safety-research-bloom)**
-  - Bloom est un outil open source d’évaluation comportementale automatisée des grands modèles de langage. Il aide les chercheurs et les équipes de sécurité de l’IA à générer des scénarios de test, à exécuter des...
-  - *Rôles adaptés:* Data scientist, Analyste cybersécurité, Ingénieur logiciel, Responsable développement logiciel +1 de plus
-
 - **[Blue](https://www.aimyflow.com/fr/ai/heyblue-com)**
   - Blue est un assistant IA pour iPhone qui contrôle les applications en mode mains libres afin d’effectuer des tâches sur le téléphone comme la messagerie, la navigation, les relances et la réservation de trajets,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Responsable commercial terrain, PDG, Directeur de restaurant +1 de plus
+
+- **[Bluebirds](https://www.aimyflow.com/fr/ai/bluebirds-ai)**
+  - Bluebirds est un outil d’IA de prospection et de vente sortante qui analyse les comptes, classe les prospects selon des signaux d’achat, enrichit les contacts acheteurs et rédige des messages de prospection pertinents...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, PDG +1 de plus
 
 - **[Bluebook](https://www.aimyflow.com/fr/ai/getbluebook-com)**
   - Bluebook est une plateforme comptable d’IA qui automatise des flux de travail tels que les rapprochements, les écritures de régularisation, le reporting, les comptes fournisseurs et la clôture mensuelle pour les...
@@ -1751,6 +1978,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Bolt](https://www.aimyflow.com/fr/ai/bolt-new)**
   - Bolt est un créateur d’apps IA qui transforme des prompts en applications web fonctionnelles, idéal pour les fondateurs, équipes produit et développeurs en phase de prototypage.
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +49 de plus
+
+- **[Bolto](https://www.aimyflow.com/fr/ai/bolto-com)**
+  - Bolto est une plateforme alimentée par l’IA qui combine recrutement, paie mondiale et RH pour aider les entreprises à recruter, rémunérer et gérer des équipes internationales, principalement pour les startups et les...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Responsable rémunération et avantages, Directeur des opérations +1 de plus
 
 - **[Bonkers by Merlin AI](https://www.aimyflow.com/fr/ai/getmerlin-in-feature-bonkers)**
   - Bonkers de Merlin AI est un générateur gratuit de texte en image qui aide les utilisateurs à créer et modifier des images à partir d’instructions écrites et à expérimenter des styles visuels, principalement pour les...
@@ -1812,9 +2043,17 @@ _Vue compacte pour un balayage plus rapide._
   - Bracket est un outil de gestion des tâches pour Slack et les e-mails qui transforme automatiquement les messages et les notes de réunion en tâches, aidant les équipes à créer, suivre et accomplir le travail sans...
   - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable d’agence, Responsable de programme associatif +1 de plus
 
+- **[Brainbase Labs](https://www.aimyflow.com/fr/ai/brainbaselabs-com)**
+  - Brainbase Labs est un laboratoire de recherche en IA appliquée qui développe des agents IA généralistes et des agents conversationnels aidant les entreprises à automatiser le travail de la connaissance dans des...
+  - *Rôles adaptés:* Ingénieur logiciel, Directeur des opérations, Responsable PMO, Responsable infrastructure IT +1 de plus
+
 - **[BrainGrid](https://www.aimyflow.com/fr/ai/braingrid-ai)**
   - BrainGrid est un outil de planification produit pour l’IA qui aide les créateurs d’IA et les fondateurs non techniques à structurer leurs idées, planifier des fonctionnalités, et cadrer des tâches et spécifications...
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, PDG +1 de plus
+
+- **[BrainSoup](https://www.aimyflow.com/fr/ai/nurgo-software-com-products-brainsoup)**
+  - BrainSoup est une plateforme d’IA de bureau pour Windows permettant de créer des agents d’IA personnalisés qui automatisent des tâches, utilisent des outils, collaborent dans des flux de travail multi-agents et...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT, Ingénieur logiciel +1 de plus
 
 - **[Braintrust AIR](https://www.aimyflow.com/fr/ai/usebraintrust-com)**
   - Braintrust AIR est une plateforme de recrutement et de présélection d’entretiens par IA qui aide les équipes RH et de recrutement à automatiser la planification, les entretiens vidéo de premier tour et l’évaluation des...
@@ -1868,6 +2107,10 @@ _Vue compacte pour un balayage plus rapide._
   - Bright Data pour l’IA est une plateforme de données web qui aide les équipes IA à rechercher, explorer, extraire et collecter des données structurées en temps réel et des données d’entraînement depuis le web via des...
   - *Rôles adaptés:* Ingénieur data, Data scientist, Ingénieur logiciel, Responsable développement logiciel +1 de plus
 
+- **[Brighterway](https://www.aimyflow.com/fr/ai/brighterway-ai)**
+  - Brighterway est une plateforme d’intelligence des dossiers médicaux basée sur l’IA qui transforme des PDF désorganisés en chronologies structurées, consultations, résumés et dossiers prêts pour les cas, destinés aux...
+  - *Rôles adaptés:* Administrateur de santé, Spécialiste en santé au travail, Médecin généraliste, Technicien de laboratoire médical +1 de plus
+
 - **[BrightKeyword](https://www.aimyflow.com/fr/ai/brightkeyword-com)**
   - BrightKeyword est un outil de recherche de mots-clés alimenté par l’IA qui aide les professionnels du SEO, les spécialistes du marketing de contenu, les fondateurs et les agences à découvrir des termes de recherche...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
@@ -1879,6 +2122,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Brizy AI Website Builder](https://www.aimyflow.com/fr/ai/brizy-io-ai-website-builder)**
   - Brizy AI Website Builder est un créateur de sites web par IA qui aide les utilisateurs à créer rapidement des sites web professionnels et des pages d’atterrissage, principalement pour les personnes qui ont besoin d’un...
   - *Rôles adaptés:* Directeur marketing digital, PDG, Rédacteur publicitaire, Créateur de contenu +1 de plus
+
+- **[Bronco AI](https://www.aimyflow.com/fr/ai/bronco-ai)**
+  - Bronco AI est une plateforme d’agents IA pour la vérification de conception qui aide les équipes de conception de puces dans la planification de la vérification, la mise en place de bancs de test UVM et le débogage de...
+  - *Rôles adaptés:* Ingénieur électricien, Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
 
 - **[Browse AI](https://www.aimyflow.com/fr/ai/browse-ai)**
   - Browse AI est une plateforme d’IA sans code de web scraping et de surveillance de sites web qui aide les utilisateurs à extraire des données, détecter les modifications de pages et transformer des sites web en feuilles...
@@ -1940,9 +2187,9 @@ _Vue compacte pour un balayage plus rapide._
   - Bustem est un service de retrait DMCA et de protection de marque qui aide les marques e-commerce à détecter, vérifier et supprimer les imitateurs, les annonces de contrefaçon, les fausses publicités et les sites web...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Avocat, PDG +1 de plus
 
-- **[BusyOcto](https://www.aimyflow.com/fr/ai/busyocto-ai)**
-  - BusyOcto est une plateforme marketing basée sur l’IA qui aide les spécialistes du marketing à analyser les stratégies des concurrents, à générer de nouvelles publicités, à créer des rapports de performance et à...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Rédacteur publicitaire, Créateur de contenu +1 de plus
+- **[Butternut.ai](https://www.aimyflow.com/fr/ai/butternut-ai)**
+  - Butternut.ai est un créateur de sites web alimenté par l’IA qui aide les petites entreprises, les freelances et les fondateurs à créer et publier en quelques secondes des sites web professionnels d’entreprise ou de...
+  - *Rôles adaptés:* Directeur marketing digital, PDG, Vendeur e-commerce, Rédacteur publicitaire +1 de plus
 
 - **[Butterreader.blog](https://www.aimyflow.com/fr/ai/butterreader-blog)**
   - Butterreader.blog est un site WordPress bientôt disponible avec une invitation à s’inscrire pour recevoir des mises à jour sur le lancement, destiné aux visiteurs qui souhaitent savoir quand le site sera mis en ligne....
@@ -1979,6 +2226,10 @@ _Vue compacte pour un balayage plus rapide._
   - Cactus est un moteur d’inférence IA embarqué et une boîte à outils cloud hybride qui aide les développeurs à déployer localement des modèles de parole, de vision et de texte sur des smartphones, des ordinateurs...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
+- **[Cair Health](https://www.aimyflow.com/fr/ai/cairhealth-com)**
+  - Cair Health est une plateforme de gestion du cycle de revenus basée sur l’IA qui aide les équipes de facturation du secteur de la santé à automatiser le codage, les vérifications d’éligibilité, la soumission des...
+  - *Rôles adaptés:* Agent de facturation médicale, Administrateur de santé, Analyste financier, Directeur des opérations
+
 - **[Caktus AI](https://www.aimyflow.com/fr/ai/caktus-ai)**
   - Caktus AI est une plateforme d'étude basée sur l'IA pour les étudiants qui les aide à effectuer des recherches, à rédiger des essais avec des citations vérifiables, à résoudre des problèmes de mathématiques et de...
   - *Rôles adaptés:* Enseignant, Professeur d’université, Tuteur de préparation aux examens, Tuteur en programmation en ligne +1 de plus
@@ -1999,10 +2250,6 @@ _Vue compacte pour un balayage plus rapide._
   - CallGPT 6X est un espace de travail d’IA qui aide les professionnels et les utilisateurs orientés développement à accéder à six grands fournisseurs d’IA au même endroit, à changer de modèle au sein d’une même...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Analyste financier +1 de plus
 
-- **[CallMe](https://www.aimyflow.com/fr/ai/github-com-ZeframLou-call-me)**
-  - CallMe est un plugin minimal pour Claude Code qui permet à l’assistant de vous appeler sur votre téléphone pour discuter du travail terminé, des blocages ou des décisions, principalement pour les développeurs utilisant...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
-
 - **[Calltree AI](https://www.aimyflow.com/fr/ai/calltree-ai)**
   - Calltree AI est une plateforme de support client par IA agentique qui aide les entreprises à déployer un service 24 h/24 et 7 j/7, à résoudre les demandes plus rapidement et à gérer les pics de demande tout en...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable d’agence, PDG +1 de plus
@@ -2018,9 +2265,21 @@ _Vue compacte pour un balayage plus rapide._
   - CamClo3D est une plateforme de photographie de mode par IA et d’essayage virtuel qui aide les marques de mode et les équipes e-commerce à transformer des images uniques de vêtements ou de produits en photos portées par...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Graphiste, Créateur de contenu +1 de plus
 
+- **[CAMEL-AI](https://www.aimyflow.com/fr/ai/camel-ai-org)**
+  - CAMEL-AI est un framework open source et une communauté de recherche dédiés à la création de systèmes multi-agents pour l’automatisation des tâches, la génération de données et la simulation du monde, principalement...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Data scientist, Ingénieur data +1 de plus
+
+- **[camelAI](https://www.aimyflow.com/fr/ai/camelai-com)**
+  - camelAI est un agent de codage IA avec un espace de travail persistant qui aide les équipes à décrire une application ou un flux de travail en conversation, puis à le construire, le déployer et l’exécuter de manière...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
+
 - **[Camfer](https://www.aimyflow.com/fr/ai/camfer-dev)**
   - Camfer est un outil de CAO IA pour SolidWorks qui aide les utilisateurs à créer et à comprendre des conceptions CAO à partir de texte ou d’images, et à récupérer des informations sur l’arborescence des fonctions,...
   - *Rôles adaptés:* Ingénieur mécanique, Designer industriel, Ingénieur logiciel
+
+- **[Campfire](https://www.aimyflow.com/fr/ai/meetcampfire-com)**
+  - Campfire est un ERP nativement conçu pour l’IA qui aide les équipes finance et comptabilité à forte croissance à automatiser la comptabilité de base, l’automatisation des revenus, le reporting et la gestion de clôture...
+  - *Rôles adaptés:* Responsable FP&A, Expert-comptable certifié, Directeur financier, Analyste financier +1 de plus
 
 - **[Camtasia](https://www.aimyflow.com/fr/ai/techsmith-com-camtasia)**
   - Camtasia est un enregistreur d’écran et un éditeur vidéo alimentés par l’IA qui aident les utilisateurs à créer des tutoriels, des vidéos de formation, des démonstrations de logiciels et d’autres vidéos axées sur...
@@ -2085,12 +2344,20 @@ _Vue compacte pour un balayage plus rapide._
   - Cardamon AI est une plateforme de conformité réglementaire dotée d’agents d’IA auditables qui aident les entreprises réglementées, en particulier les équipes conformité, juridiques et risques des banques, fintechs et...
   - *Rôles adaptés:* Analyste des risques, Avocat, Analyste cybersécurité, Responsable PMO +1 de plus
 
+- **[Cardinal Gray](https://www.aimyflow.com/fr/ai/cardinalgray-com)**
+  - Cardinal Gray est un outil d’IA qui automatise le traitement des titres pour les prêteurs automobiles, en aidant les équipes d’octroi et de gestion à préparer les documents DMV, à recueillir des signatures...
+  - *Rôles adaptés:* Analyste financier, Responsable PMO, Directeur des opérations
+
 - **[CareBridge Copilot](https://www.aimyflow.com/fr/ai/sunderlinbcba-com-carebridge-copilot-tool)**
   - CareBridge Copilot est un outil d’IA éducatif qui aide les parents et les aidants d’enfants et d’adolescents de 2 à 21 ans à comprendre les comportements, à réagir calmement et à utiliser des stratégies...
 
 - **[CareSwift](https://www.aimyflow.com/fr/ai/careswift-com)**
   - CareSwift est un outil d’IA de documentation et de conformité pour les équipes de SMU qui aide les ambulanciers et les prestataires de transport sanitaire à compléter plus rapidement les rapports ambulanciers ePCR,...
   - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Aide-soignant certifié, Aide à domicile
+
+- **[Carma](https://www.aimyflow.com/fr/ai/joincarma-com)**
+  - Carma est un système d’exploitation IA pour les flottes modernes qui aide les équipes de flotte d’entreprise à gérer la maintenance, la coordination des fournisseurs, la vérification des services et la visibilité des...
+  - *Rôles adaptés:* Planificateur logistique, Directeur des opérations, Directeur financier, Superviseur des opérations d’usine +1 de plus
 
 - **[Carrot Labs](https://www.aimyflow.com/fr/ai/carrotlabs-ai)**
   - Carrot Labs est une plateforme de fiabilité et d’optimisation des agents IA qui aide les équipes à mesurer, surveiller et améliorer les agents en production dans le cadre de flux de travail réels, principalement pour...
@@ -2099,6 +2366,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Cartoonize AI](https://www.aimyflow.com/fr/ai/cartoonize-ai)**
   - Cartoonize AI est un générateur en ligne de photos en dessins animés par IA qui aide les utilisateurs à transformer des photos, des animaux de compagnie et des paysages en images de style cartoon dans des formats tels...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Graphiste, Directeur marketing digital, Créateur de contenu +1 de plus
+
+- **[Casca](https://www.aimyflow.com/fr/ai/cascading-ai)**
+  - Casca est une plateforme d’octroi de prêts native IA pour le financement des entreprises, qui aide les banques assurées par la FDIC et les prêteurs non bancaires à automatiser la collecte des demandes, l’analyse de...
+  - *Rôles adaptés:* Analyste financier, Directeur financier, Analyste des risques, Directeur des opérations +1 de plus
 
 - **[Cascadeur](https://www.aimyflow.com/fr/ai/cascadeur-com)**
   - Cascadeur est un logiciel autonome d’animation 3D par images clés qui aide les utilisateurs à créer, modifier et nettoyer des animations humanoïdes ou de personnages grâce à des outils assistés par IA et basés sur la...
@@ -2151,6 +2422,14 @@ _Vue compacte pour un balayage plus rapide._
   - CC est un agent de productivité IA expérimental de Google Labs qui connecte Gmail, Agenda et Drive afin de fournir un briefing quotidien personnalisé par e-mail et de répondre aux demandes envoyées par e-mail,...
   - *Rôles adaptés:* PDG, Directeur des opérations, Responsable PMO, Responsable d’agence +1 de plus
 
+- **[Cedalio](https://www.aimyflow.com/fr/ai/cedalio-com)**
+  - Cedalio est une plateforme d’automatisation des documents et des données par IA qui aide les équipes financières, en particulier les équipes de comptabilité fournisseurs, à capturer, valider, rapprocher et payer les...
+  - *Rôles adaptés:* Responsable FP&A, Directeur financier, Analyste financier, Expert-comptable certifié +1 de plus
+
+- **[Cedana](https://www.aimyflow.com/fr/ai/cedana-ai)**
+  - Cedana est une plateforme d’orchestration du calcul qui aide les équipes d’infrastructure, de ML et de HPC à migrer et à checkpoint des charges de travail GPU et CPU sur Kubernetes, SLURM, des environnements sur site...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable développement logiciel, Ingénieur data, Ingénieur logiciel +1 de plus
+
 - **[CelebrityAI](https://www.aimyflow.com/fr/ai/celebrityai-club)**
   - CelebrityAI est un outil d’IA de clonage vidéo et vocal qui permet aux utilisateurs de créer des vidéos dans le style de célébrités, des messages personnalisés et des discours traduits à partir de texte ou de médias...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire +1 de plus
@@ -2158,6 +2437,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Cenote](https://www.aimyflow.com/fr/ai/joincenote-com)**
   - Cenote est une plateforme d’IA commerciale conforme à la HIPAA qui utilise des agents vocaux, textuels, e-mail et WhatsApp pour récupérer les paniers abandonnés, réactiver les patients perdus et assurer le suivi des...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Administrateur de santé, Coach bien-être +1 de plus
+
+- **[Central](https://www.aimyflow.com/fr/ai/centralhq-com)**
+  - Central est une plateforme native IA de paie, RH, avantages sociaux et conformité qui aide les startups à gérer les paiements des employés et des prestataires, la conformité multi-États, les avantages sociaux et les...
+  - *Rôles adaptés:* PDG, Directeur financier, Responsable acquisition de talents, Responsable rémunération et avantages +1 de plus
 
 - **[Cerebras](https://www.aimyflow.com/fr/ai/cerebrascoder-com)**
   - Cerebras est une plateforme de codage IA qui fournit une inférence GLM 4.6 à haute vitesse afin d’aider les développeurs à générer du code plus rapidement dans leurs éditeurs et agents compatibles IA préférés. Pour les...
@@ -2219,6 +2502,10 @@ _Vue compacte pour un balayage plus rapide._
   - Chat360 est une plateforme d’expérience client omnicanale d’IA agentique qui aide les entreprises à automatiser la qualification des prospects, les ventes, les réservations et le support client sur WhatsApp, la voix,...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable des ventes e-commerce, Directeur de restaurant +1 de plus
 
+- **[Chatarena.org](https://www.aimyflow.com/fr/ai/chatarena-org)**
+  - Chatarena.org est une page de destination GoDaddy de vente de domaine qui aide les acheteurs à acheter, à louer avec option d’achat ou à faire une offre sur le domaine chatarena.org, principalement pour les...
+  - *Rôles adaptés:* PDG, Directeur marketing digital, Responsable des ventes e-commerce, Responsable PMO
+
 - **[Chatbase](https://www.aimyflow.com/fr/ai/chatbase-co)**
   - Chatbase est une plateforme d’agents de support client IA qui aide les entreprises à créer, déployer et gérer des agents conversationnels pour répondre aux questions d’assistance, automatiser les flux de travail et...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable développement logiciel, Directeur marketing digital
@@ -2238,10 +2525,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[ChatExcel](https://www.aimyflow.com/fr/ai/chatexcel-com)**
   - ChatExcel est un outil de tableur et de présentation basé sur l’IA qui permet aux utilisateurs de traiter des fichiers Excel, d’analyser des données de bases de données, de créer des graphiques et de générer des PPT...
   - *Rôles adaptés:* Analyste financier, Responsable FP&A, Responsable PMO, Responsable rémunération et avantages +1 de plus
-
-- **[ChatFeatured](https://www.aimyflow.com/fr/ai/chatfeatured-com)**
-  - ChatFeatured est une plateforme d’optimisation de recherche pour l’IA qui aide les marques et les agences à surveiller, analyser et améliorer la manière dont les moteurs d’IA comme ChatGPT, Google AI, Gemini,...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
 
 - **[ChatGiraffe](https://www.aimyflow.com/fr/ai/chatgiraffe-ai)**
   - ChatGiraffe est un outil de suivi des dépenses et un assistant financier basé sur l’IA qui aide les utilisateurs à enregistrer leurs dépenses via le chat, des photos de reçus et l’analyse des relevés bancaires,...
@@ -2303,6 +2586,10 @@ _Vue compacte pour un balayage plus rapide._
   - Cheerlink est un widget IA de messagerie et de vente qui aide les sites web à engager les visiteurs, répondre instantanément aux questions et améliorer les conversions.
   - *Rôles adaptés:* Vendeur e-commerce
 
+- **[Cheers](https://www.aimyflow.com/fr/ai/cheers-tech)**
+  - Cheers est une plateforme de recherche locale pour les opérateurs multi-sites qui aide les entreprises de services, les marques de l’hôtellerie-restauration et les enseignes de vente au détail à améliorer leur...
+  - *Rôles adaptés:* Directeur marketing digital, Directeur de restaurant, Responsable d’agence, Responsable commercial terrain +1 de plus
+
 - **[ChefGPT](https://www.aimyflow.com/fr/ai/chefgpt-xyz)**
   - ChefGPT est une application de génération de recettes par IA et de planification des repas qui aide les cuisiniers à domicile à créer des recettes à partir des ingrédients disponibles, à suivre les calories, à...
   - *Rôles adaptés:* Passionné de gastronomie, Coach bien-être, Créateur de contenu
@@ -2330,10 +2617,6 @@ _Vue compacte pour un balayage plus rapide._
   - Cisco AI Canvas est un espace de travail génératif partagé pour AgenticOps qui rassemble la télémétrie IT interdomaines, les équipes et les agents afin d’aider les équipes d’exploitation IT à collaborer et à travailler...
   - *Rôles adaptés:* Responsable infrastructure IT, Responsable cybersécurité, Ingénieur logiciel, Responsable PMO +1 de plus
 
-- **[Citable](https://www.aimyflow.com/fr/ai/getcitable-com)**
-  - Citable est une plateforme de visibilité de marque et d’analytique IA qui aide les équipes à suivre et à améliorer la manière dont des outils comme ChatGPT, Claude, Perplexity, Gemini et Grok mentionnent leur marque,...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
-
 - **[Civitai](https://www.aimyflow.com/fr/ai/civitai-com)**
   - Civitai est une plateforme communautaire permettant de découvrir des modèles Stable Diffusion et Flux, de créer et partager de l’art généré par l’IA, et d’explorer des images, des vidéos et des contenus de créateurs,...
   - *Rôles adaptés:* Graphiste, Créateur de contenu réseaux sociaux, Créateur de contenu, Réalisateur indépendant +1 de plus
@@ -2353,6 +2636,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Clara](https://www.aimyflow.com/fr/ai/askclara-com)**
   - Clara est un outil de soins primaires assisté par IA qui aide les patients à passer en revue leurs symptômes, analyser leurs résultats de laboratoire, gérer leurs ordonnances et importer leurs antécédents médicaux,...
   - *Rôles adaptés:* Médecin généraliste, Administrateur de santé, Coach bien-être, Agent de facturation médicale
+
+- **[Clarion](https://www.aimyflow.com/fr/ai/clarionhealth-com)**
+  - Clarion est une plateforme d’IA conversationnelle qui automatise la communication téléphonique avec les patients et les flux de travail du front office, comme la prise de rendez-vous, les orientations, la facturation...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Cardiologue, Médecin généraliste +1 de plus
+
+- **[Clarum](https://www.aimyflow.com/fr/ai/clarum-ai)**
+  - Clarum est une plateforme d’agents d’IA destinée aux investisseurs des marchés privés qui automatise les flux de travail de due diligence, de suivi et de reporting pour les équipes de capital-investissement, de...
+  - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Directeur financier, Responsable PMO +1 de plus
 
 - **[Claude](https://www.aimyflow.com/fr/ai/claude-com-solutions-healthcare)**
   - Claude est un outil d’IA prêt pour la conformité HIPAA destiné aux organisations de santé, qui aide les systèmes de santé et les startups à gérer les autorisations préalables, les recours de réclamations, le triage des...
@@ -2414,9 +2705,21 @@ _Vue compacte pour un balayage plus rapide._
   - Claybird est une plateforme d’outbound IA destinée aux entreprises de nettoyage et autres prestataires de services commerciaux. Elle aide les équipes à identifier des prospects locaux, à automatiser une prospection...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, Responsable d’agence +1 de plus
 
+- **[Cleancard](https://www.aimyflow.com/fr/ai/cleancard-bio)**
+  - Cleancard est une entreprise qui développe une approche de biologie synthétique et d’IA pour rendre la détection du cancer aussi simple à utiliser qu’un test de grossesse, principalement dans des contextes de soins de...
+  - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Biologiste moléculaire, Microbiologiste +1 de plus
+
 - **[Cleanup.pictures](https://www.aimyflow.com/fr/ai/cleanup-pictures)**
   - Cleanup.pictures est une application web de retouche photo par IA qui supprime des images les objets, personnes, textes, logos, filigranes et défauts indésirables, principalement pour les photographes, les équipes...
   - *Rôles adaptés:* Graphiste, Agent immobilier, Vendeur e-commerce, Créateur de contenu +1 de plus
+
+- **[Clearest Health](https://www.aimyflow.com/fr/ai/clearesthealth-com)**
+  - Clearest Health est une plateforme de recouvrement des revenus alimentée par l’IA qui aide les cabinets de santé indépendants à obtenir le remboursement hors réseau grâce à des recours IDR au titre de la loi No...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Analyste financier, PDG
+
+- **[Clearly AI](https://www.aimyflow.com/fr/ai/clearly-ai-com)**
+  - Clearly AI est une plateforme d’examen de la sécurité et de la confidentialité de l’IA qui automatise la modélisation des menaces, les revues de conception et le triage des risques afin d’aider les équipes sécurité,...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
 
 - **[CleeAI](https://www.aimyflow.com/fr/ai/cleeai-com)**
   - CleeAI est un système d’exploitation d’IA d’entreprise et un moteur d’orchestration qui aide les organisations à créer, déployer et optimiser des outils d’IA prêts pour la production, avec des fonctionnalités intégrées...
@@ -2518,10 +2821,6 @@ _Vue compacte pour un balayage plus rapide._
   - La plateforme d’agents vocaux IA CloudTalk est un outil d’appel cloud qui automatise les appels entrants et sortants, tels que les relances, les rappels et les appels de recueil de feedback, principalement pour les...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable acquisition de talents, Planificateur logistique, Responsable PMO +1 de plus
 
-- **[CloudX](https://www.aimyflow.com/fr/ai/cloudx-ai)**
-  - CloudX est une plateforme d’infrastructure publicitaire programmatique et une plateforme côté offre pour les éditeurs mobiles et IA, les aidant à gérer leur inventaire, à exécuter des enchères transparentes et à...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable développement logiciel, Responsable PMO, PDG
-
 - **[Clriti](https://www.aimyflow.com/fr/ai/clriti-ai)**
   - Clriti est un outil de feuille de route IA qui transforme des notes de stratégie, des documents ou le contenu d’un site web en feuilles de route prêtes à être présentées aux parties prenantes, avec notation de...
   - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, PDG, Directeur des opérations +1 de plus
@@ -2529,6 +2828,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Cluely AI](https://www.aimyflow.com/fr/ai/cluelyai-com)**
   - Cluely AI est un copilote commercial IA qui fournit aux commerciaux des suggestions en temps réel, la gestion des objections, la récupération de documents et une assistance au suivi pendant les appels en direct,...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Responsable PMO, Directeur marketing digital +1 de plus
+
+- **[cmux](https://www.aimyflow.com/fr/ai/cmux-dev)**
+  - cmux est un terminal macOS natif, conçu sur Ghostty, qui aide les développeurs à gérer des agents de codage et d’autres outils CLI grâce à des onglets verticaux, des volets divisés, des notifications, un navigateur...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Rédacteur technique
 
 - **[Cntent](https://www.aimyflow.com/fr/ai/scout-cntent-ai)**
   - Cntent est une plateforme d’opérations de contenu alimentée par l’IA qui aide les entreprises technologiques financées à automatiser l’idéation, la recherche, la rédaction, la vérification, la révision, la distribution...
@@ -2558,6 +2861,10 @@ _Vue compacte pour un balayage plus rapide._
   - CodeFlying est un générateur d’applications IA qui aide les utilisateurs à créer des applications full-stack via le chat, principalement pour les créateurs et les non-techniciens qui veulent transformer rapidement...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Graphiste, PDG +1 de plus
 
+- **[Codegen](https://www.aimyflow.com/fr/ai/codegen-com)**
+  - Codegen est un système d’exploitation pour agents de code qui aide les équipes d’ingénierie à déployer des agents autonomes pour planifier des tâches, écrire du code, générer des tests et de la documentation, et créer...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
+
 - **[Codenull.ai](https://www.aimyflow.com/fr/ai/codenullai-versoly-page)**
   - Codenull.ai est une plateforme d’IA no-code qui aide les utilisateurs à créer et entraîner des modèles d’IA personnalisés à partir de leurs propres données pour des tâches telles que les moteurs de recommandation, la...
   - *Rôles adaptés:* Data scientist, Analyste financier, Planificateur logistique, Responsable PMO +1 de plus
@@ -2570,9 +2877,9 @@ _Vue compacte pour un balayage plus rapide._
   - CodeRabbit est un outil de revue de code par IA qui aide les équipes d’ingénierie logicielle à examiner les pull requests plus rapidement grâce à des retours contextuels, des suggestions ligne par ligne, un chat et des...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
 
-- **[Codev](https://www.aimyflow.com/fr/ai/co-dev)**
-  - Codev est un créateur d’apps IA qui transforme des descriptions textuelles en applications full-stack Next.js prêtes pour la production, pour fondateurs, équipes produit et développeurs.
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable cybersécurité +21 de plus
+- **[Codes Health for Lawyers](https://www.aimyflow.com/fr/ai/getcodeshealth-com)**
+  - Codes Health for Lawyers est une plateforme de récupération et d’examen des dossiers médicaux alimentée par l’IA qui aide les cabinets d’avocats à rassembler des dossiers, établir des chronologies et extraire des...
+  - *Rôles adaptés:* Avocat, Administrateur de santé, Agent de facturation médicale
 
 - **[CodeViz](https://www.aimyflow.com/fr/ai/codeviz-ai)**
   - CodeViz est un outil collaboratif de visualisation de code et de création de schémas d’architecture qui aide les équipes logicielles à comprendre les bases de code, à examiner les modifications et à maintenir la...
@@ -2594,6 +2901,10 @@ _Vue compacte pour un balayage plus rapide._
   - Codyco est une IA téléphonique pour les groupes hôteliers qui répond aux appels, traite les questions courantes des clients et gère les réservations de bout en bout, avec paiement et saisie dans le PMS, principalement...
   - *Rôles adaptés:* Directeur de restaurant, Responsable d’agence, Directeur des opérations, PDG +1 de plus
 
+- **[Cognee](https://www.aimyflow.com/fr/ai/prometh-ai)**
+  - Cognee est un moteur de mémoire IA open source qui aide les ingénieurs à créer des agents IA adaptatifs en transformant les données en graphe de connaissances pour la récupération, le raisonnement et l’apprentissage...
+  - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
+
 - **[Cogniflow](https://www.aimyflow.com/fr/ai/cogniflow-ai)**
   - Cogniflow est une plateforme d’IA sans code destinée aux professionnels et aux équipes très occupés pour créer des chatbots, extraire des informations de documents et analyser du texte, des images, de l’audio ou de la...
   - *Rôles adaptés:* Responsable PMO, Responsable acquisition de talents, Responsable des relations sociales, Directeur marketing digital +1 de plus
@@ -2613,6 +2924,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Cohere](https://www.aimyflow.com/fr/ai/cohere-ai)**
   - Cohere est une plateforme d’IA d’entreprise proposant des modèles personnalisables de langage, de recherche documentaire, de recherche et de transcription, qui aident les organisations à automatiser les flux de...
   - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur data, Responsable développement logiciel, Directeur des opérations +1 de plus
+
+- **[Coldreach](https://www.aimyflow.com/fr/ai/coldreach-ai)**
+  - Coldreach est une plateforme SDR alimentée par l’IA qui aide les équipes commerciales et go-to-market à identifier des prospects B2B à forte intention, à surveiller les signaux d’achat à travers de multiples sources de...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, Responsable PMO +1 de plus
 
 - **[Collov.ai](https://www.aimyflow.com/fr/ai/collov-ai-ai-video-generator)**
   - Collov.ai propose une IA de home staging virtuel qui aide les agents immobiliers et les agences à créer des visuels de biens mis en scène pour le marketing immobilier et la présentation des annonces. Pour les...
@@ -2646,9 +2961,17 @@ _Vue compacte pour un balayage plus rapide._
   - Columns Flow est un outil de workflow de données qui aide les utilisateurs de feuilles de calcul, les analystes, les ingénieurs et les responsables à transformer des sources de données connectées en rapports visuels,...
   - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable PMO, Analyste financier
 
+- **[CombineHealth](https://www.aimyflow.com/fr/ai/combinehealth-ai)**
+  - CombineHealth est une plateforme d’IA de codage médical et de facturation qui automatise les tâches du cycle de revenus des soins de santé, telles que le codage, la gestion des réclamations, le traitement des refus, la...
+  - *Rôles adaptés:* Agent de facturation médicale, Administrateur de santé, Médecin généraliste, Expert-comptable certifié +1 de plus
+
 - **[ComfyOnline](https://www.aimyflow.com/fr/ai/comfyonline-app)**
   - ComfyOnline est une plateforme en ligne permettant d’exécuter des workflows ComfyUI et de générer des API déployables sans matériel GPU local ni configuration complexe, principalement destinée aux développeurs IA et...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, Créateur de contenu +1 de plus
+
+- **[CommodityAI](https://www.aimyflow.com/fr/ai/commodityai-io)**
+  - CommodityAI est un espace de travail IA pour les entreprises de matières premières qui automatise les workflows commerciaux, logistiques et financiers en transformant les e-mails, PDF, chats et autres données non...
+  - *Rôles adaptés:* Planificateur logistique, Analyste financier, Directeur des opérations, Responsable PMO +1 de plus
 
 - **[CommunityOne](https://www.aimyflow.com/fr/ai/communityone-io)**
   - CommunityOne est un bot IA Discord et une plateforme d’analytique qui aide les propriétaires de serveurs, les fondateurs et les community managers à automatiser l’assistance aux membres, à lancer des quêtes gamifiées...
@@ -2685,9 +3008,21 @@ _Vue compacte pour un balayage plus rapide._
   - Concierge.ai est un moteur de réponses IA de marque pour les sites web B2B SaaS qui aide les acheteurs à poser des questions sur le site et à obtenir des réponses précises, basées sur la voix et le contenu d’une...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable des ventes e-commerce, PDG +1 de plus
 
+- **[Concourse](https://www.aimyflow.com/fr/ai/concourse-co)**
+  - Concourse est une plateforme d’agents IA destinée aux équipes de finance d’entreprise et de comptabilité, qui se connecte aux systèmes financiers pour automatiser l’analyse, le reporting, les prévisions et les tâches...
+  - *Rôles adaptés:* Responsable FP&A, Directeur financier, Analyste financier, Expert-comptable certifié +1 de plus
+
 - **[Conductor](https://www.aimyflow.com/fr/ai/conductor-build)**
   - Conductor est une application Mac destinée aux développeurs qui exécute en parallèle des agents Codex et Claude Code dans des espaces de travail isolés basés sur des git worktrees, aidant les utilisateurs à suivre...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
+
+- **[Conductor Quantum](https://www.aimyflow.com/fr/ai/conductorquantum-com)**
+  - Conductor Quantum est une entreprise qui développe des logiciels alimentés par l’IA pour exploiter et faire évoluer des ordinateurs quantiques, principalement destinés aux équipes qui conçoivent et exploitent des...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur électricien +1 de plus
+
+- **[Conduit](https://www.aimyflow.com/fr/ai/helloconduit-com)**
+  - Conduit est un logiciel de planification des quais et de gestion de parc qui aide les entrepôts à maîtriser les expéditions et les réceptions grâce à la prise de rendez-vous en ligne, à l’enregistrement des chauffeurs,...
+  - *Rôles adaptés:* Planificateur logistique, Superviseur des opérations d’usine, Responsable d’agence, Directeur des opérations
 
 - **[Confident AI](https://www.aimyflow.com/fr/ai/confident-ai-com)**
   - Confident AI est une plateforme de qualité de l’IA destinée aux ingénieurs, aux équipes QA et aux responsables produit pour évaluer, observer, tester et surveiller les applications LLM, du développement à la...
@@ -2721,6 +3056,10 @@ _Vue compacte pour un balayage plus rapide._
   - Constella est un outil de recherche et de mémoire basé sur l’IA qui aide les utilisateurs à trouver des informations dans des sources connectées et à les synthétiser sur une seule toile, principalement pour les...
   - *Rôles adaptés:* Data scientist, Analyste financier, Rédacteur technique, PDG +1 de plus
 
+- **[Constructable](https://www.aimyflow.com/fr/ai/constructable-ai)**
+  - Constructable est un logiciel de gestion de projet IA pour la construction qui aide les équipes de construction commerciale à gérer la préconstruction, les demandes d’information (RFI), les soumissions, les flux de...
+  - *Rôles adaptés:* Responsable PMO, Architecte commercial, Ingénieur civil, Responsable d’agence +1 de plus
+
 - **[Content at Scale AI Detector](https://www.aimyflow.com/fr/ai/contentatscale-ai-ai-content-detector)**
   - Content at Scale AI Detector est un vérificateur de texte IA en temps réel en anglais qui analyse du texte collé, des URL ou des fichiers afin d’estimer si un contenu a été rédigé par des humains ou par des modèles...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Rédacteur technique +1 de plus
@@ -2737,9 +3076,17 @@ _Vue compacte pour un balayage plus rapide._
   - ContentPod Article Writer est un générateur d’articles de blog basé sur l’IA qui aide les équipes de contenu, les agences, les freelances et autres professionnels du marketing à créer des articles longs optimisés pour...
   - *Rôles adaptés:* Rédacteur publicitaire, Directeur marketing digital, Créateur de contenu, Rédacteur technique +1 de plus
 
+- **[Context-Aware AI Testing Platform for Faster, Smarter Release](https://www.aimyflow.com/fr/ai/contextqa-com)**
+  - Assurez la QA de votre nouveau code 10 fois plus vite avec la seule plateforme de test IA véritablement contextuelle. ContextQA utilise une IA agentique pour prédire, générer des tests et valider chaque livraison.
+  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
+
 - **[ContextFort](https://www.aimyflow.com/fr/ai/contextfort-ai)**
   - ContextFort est un outil de sécurité et de visibilité des terminaux qui surveille les agents de codage IA comme Cursor et Claude Code au niveau du système d’exploitation, aidant les équipes d’ingénierie et de sécurité...
   - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Responsable infrastructure IT, Responsable développement logiciel +1 de plus
+
+- **[Continue](https://www.aimyflow.com/fr/ai/continue-dev)**
+  - Continue est un outil de contrôle qualité logiciel qui exécute des vérifications d’IA versionnées sur chaque pull request, aidant les équipes d’ingénierie et les développeurs logiciels à appliquer des normes de codage...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT
 
 - **[Contrario](https://www.aimyflow.com/fr/ai/contrario-ai)**
   - Contrario est une plateforme de recrutement alimentée par l’IA et un réseau de recruteurs experts qui aide les entreprises à pourvoir plus rapidement des postes critiques, principalement pour les équipes de recrutement...
@@ -2805,13 +3152,29 @@ _Vue compacte pour un balayage plus rapide._
   - Copysmith est une suite de plateformes d’IA — Frase, Describely et Rytr — qui aide les marques à améliorer leur visibilité dans les moteurs de recherche, à obtenir des citations de la part des moteurs génératifs et à...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
-- **[Cora Intelligence](https://www.aimyflow.com/fr/ai/cora-intelligence-com)**
-  - Cora Intelligence est une plateforme de développement commercial pilotée par l’IA qui crée et coordonne des agents spécialisés pour rechercher des prospects, rédiger des messages de prospection, gérer les réponses,...
-  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, PDG, Directeur des opérations
+- **[Cora](https://www.aimyflow.com/fr/ai/corahealth-app-download)**
+  - Cora est une application de coach fitness IA pour iPhone et Apple Watch qui transforme les données des objets connectés et d’Apple Health en recommandations personnalisées sur le sommeil, la récupération,...
+  - *Rôles adaptés:* Coach bien-être, Professeur de yoga en studio, Athlète professionnel, Créateur de contenu
+
+- **[Core](https://www.aimyflow.com/fr/ai/getcore-me)**
+  - Core est une couche de mémoire IA open source, auto-hébergeable, qui unifie le contexte et les actions entre les applications et les outils d’IA, aidant les utilisateurs, et en particulier les développeurs, à conserver...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO +1 de plus
 
 - **[CoreWise](https://www.aimyflow.com/fr/ai/corewise-video)**
   - CoreWise est un outil gratuit d’analyse de contenu par IA qui extrait des synthèses, des points clés et des questions-réponses à partir de vidéos, podcasts, articles, PDF et listes d’URL de contenus, principalement...
   - *Rôles adaptés:* Data scientist, Analyste financier, Professeur d’université, Rédacteur technique +1 de plus
+
+- **[Corgea](https://www.aimyflow.com/fr/ai/corgea-com)**
+  - Corgea est une plateforme de sécurité applicative qui aide les équipes d’ingénierie et de sécurité à identifier, trier et corriger les vulnérabilités dans le code, les dépendances, l’infrastructure as code, les...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Ingénieur logiciel, Responsable développement logiciel +1 de plus
+
+- **[Corgi](https://www.aimyflow.com/fr/ai/corgi-insure)**
+  - Corgi est une plateforme d’assurance pour startups qui aide les fondateurs à obtenir des devis instantanés et une couverture d’entreprise modulaire, notamment D&O, Tech E&O, Cyber, CGL, Media, EPLI et assurance...
+  - *Rôles adaptés:* PDG, Directeur financier, Directeur des opérations, Responsable FP&A +1 de plus
+
+- **[Corgi Labs](https://www.aimyflow.com/fr/ai/corgilabs-ai)**
+  - Corgi Labs est une plateforme d’optimisation des paiements et de récupération des revenus propulsée par l’IA, qui aide les entreprises d’e-commerce, de SaaS et à abonnement à améliorer les taux d’autorisation, à...
+  - *Rôles adaptés:* Responsable des ventes e-commerce, Analyste des risques, Analyste financier, Data scientist +1 de plus
 
 - **[Corippl](https://www.aimyflow.com/fr/ai/corippl-com)**
   - Corippl est une plateforme de promotion croisée de contenu qui aide les créateurs à développer leur audience en partageant le contenu d’autres créateurs en échange du partage de leur propre contenu, principalement...
@@ -2828,6 +3191,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Coschool](https://www.aimyflow.com/fr/ai/coschool-ai)**
   - Coschool est un assistant IA pour enseignants qui aide à créer des plans de cours, améliorer l’engagement des élèves et proposer des techniques pédagogiques.
   - *Rôles adaptés:* Enseignant
+
+- **[Cosine AI](https://www.aimyflow.com/fr/ai/cosine-sh)**
+  - Cosine AI est un outil de codage agentique sur site qui aide les ingénieurs à gérer les corrections de bugs, le développement de fonctionnalités, les refactorisations, l’analyse de code hérité et la rédaction de pull...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable cybersécurité, Responsable infrastructure IT +1 de plus
 
 - **[CosmicGuide AI](https://www.aimyflow.com/fr/ai/cosmicguideai-com)**
   - CosmicGuide AI est une plateforme d’astrologie alimentée par l’IA qui génère des interprétations personnalisées du thème natal, des analyses de compatibilité relationnelle, des prévisions amoureuses et financières,...
@@ -2860,9 +3227,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Coursebox AI](https://www.aimyflow.com/fr/ai/coursebox-ai)**
   - Coursebox AI est une plateforme IA de création de cours qui aide à concevoir des formations en ligne, convertir des fichiers en e-learning et déployer des tuteurs conversationnels.
   - *Rôles adaptés:* Créateur de contenu
-
-- **[CoverPilot](https://www.aimyflow.com/fr/ai/coverpilot-ai)**
-  - CoverPilot est un générateur de lettres de motivation alimenté par l’IA et un assistant de candidature qui analyse les offres d’emploi, les met en correspondance avec le profil ou le CV d’un utilisateur, et crée des...
 
 - **[CoverSentry](https://www.aimyflow.com/fr/ai/coversentry-com)**
   - CoverSentry est un vérificateur et générateur gratuit de lettres de motivation par IA qui aide les chercheurs d’emploi à analyser des lettres de motivation importées ou collées afin d’y détecter des signes de texte...
@@ -2903,10 +3267,6 @@ _Vue compacte pour un balayage plus rapide._
   - Create Music AI est un générateur de musique par IA et une boîte à outils d’édition qui aide les créateurs à transformer du texte ou des paroles en chansons libres de droits, à supprimer les voix, à séparer les pistes,...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Producteur de podcast, Rédacteur publicitaire +1 de plus
 
-- **[CreateMusicVideo.ai](https://www.aimyflow.com/fr/ai/createmusicvideo-ai)**
-  - CreateMusicVideo.ai est un générateur de clips musicaux par IA qui transforme une photo et une piste audio en vidéos de type performance avec mouvements de caméra cinématographiques, synchronisation labiale, danse en...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire +1 de plus
-
 - **[Creatify](https://www.aimyflow.com/fr/ai/creatify-ai)**
   - Creatify est une plateforme de génération publicitaire par IA qui transforme les URL de produits en publicités image et vidéo, aide les équipes à créer, lancer, tester et optimiser des variantes publicitaires, et...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu, Graphiste +1 de plus
@@ -2926,6 +3286,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[CreatOK](https://www.aimyflow.com/fr/ai/creatok-ai)**
   - CreatOK est une plateforme de génération vidéo par IA pour les vendeurs e-commerce sur TikTok qui les aide à créer des vidéos de vente originales, à transformer des images de produits en vidéos et à reproduire des...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Créateur de contenu, Responsable des ventes e-commerce +1 de plus
+
+- **[Credal](https://www.aimyflow.com/fr/ai/credal-ai)**
+  - Credal est une plateforme sécurisée d’agents d’IA d’entreprise et de RAG qui aide les organisations à connecter l’IA aux données internes, aux outils et aux autorisations afin de créer des agents de recherche, de chat...
+  - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur logiciel, Responsable cybersécurité, Responsable développement logiciel +1 de plus
 
 - **[Creen AI](https://www.aimyflow.com/fr/ai/creen-ai)**
   - Creen AI est une plateforme de création d’images et de vidéos par IA qui aide les créateurs, les designers, les étudiants et les équipes de contenu à générer des images, animer des illustrations et créer des vidéos à...
@@ -2998,6 +3362,10 @@ _Vue compacte pour un balayage plus rapide._
   - Cyberdesk est un agent d’utilisation informatique pour Windows qui aide les développeurs à automatiser les DSE, les ERP et d’autres applications de bureau héritées au moyen de workflows en langage clair et de...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Administrateur de santé +1 de plus
 
+- **[Cykel](https://www.aimyflow.com/fr/ai/cykel-ai)**
+  - Cykel est une plateforme de collaborateurs numériques IA qui aide les équipes de recrutement, de vente et de recherche à automatiser le sourcing, la prospection, les relances, la présélection et l’analyse métier grâce...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable commercial terrain, Analyste financier, Data scientist +1 de plus
+
 - **[d33ply](https://www.aimyflow.com/fr/ai/d33ply-xyz)**
   - d33ply est une plateforme d’actualités de podcasts alimentée par l’IA qui transforme des sujets complexes en épisodes audio d’investigation de 20 à 25 minutes, à partir d’analyses de 50 à 200 sources, principalement...
   - *Rôles adaptés:* Reporter TV, Producteur de podcast, Analyste financier, PDG +1 de plus
@@ -3005,6 +3373,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[DaemonGenie](https://www.aimyflow.com/fr/ai/daemongenie-com)**
   - DaemonGenie est un agent autonome d’IA de niveau industriel qui aide les équipes techniques à automatiser le développement, la recherche web, le traitement des données d’entreprise, les opérations sur serveurs et les...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Ingénieur data, Responsable développement logiciel +1 de plus
+
+- **[Dagworks](https://www.aimyflow.com/fr/ai/dagworks-io)**
+  - Dagworks est une plateforme centrée sur Apache Hamilton et Apache Burr qui aide les équipes à créer, itérer, héberger et déboguer des pipelines Python fiables pour l’IA, la RAG, le ML et les agents, principalement...
+  - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
 
 - **[daily.dev Recruiter](https://www.aimyflow.com/fr/ai/recruiter-daily-dev)**
   - daily.dev Recruiter est une plateforme de recrutement axée sur les développeurs qui aide les recruteurs tech, les responsables d’ingénierie et les responsables du recrutement à publier des offres, à trouver des...
@@ -3049,9 +3421,17 @@ _Vue compacte pour un balayage plus rapide._
   - Datafruit est un outil de planification de mise en œuvre IA et de workflow pré-livraison qui aide les intégrateurs de systèmes et les équipes de services à organiser la découverte, le cadrage, l’estimation et le...
   - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, Directeur des opérations, Responsable infrastructure IT +1 de plus
 
+- **[Dataglade](https://www.aimyflow.com/fr/ai/dataglade-com)**
+  - Dataglade fournit des données financières complètes, des informations sur le marché et une intelligence artificielle de confiance utilisées par des hedge funds, des gestionnaires de patrimoine et des fintechs pour...
+  - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Data scientist, Ingénieur logiciel
+
 - **[DataLane](https://www.aimyflow.com/fr/ai/datalane-com)**
   - DataLane est une plateforme de données go-to-market qui aide les équipes commerciales et revenus des entreprises à identifier, dimensionner et atteindre des comptes d’entreprises locales grâce à l’intelligence TAM, aux...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, Responsable PMO +1 de plus
+
+- **[Dataleap](https://www.aimyflow.com/fr/ai/dataleap-ai)**
+  - Dataleap est une plateforme d’automatisation du travail par IA qui aide les utilisateurs métier à transformer des instructions de tâches en langage naturel en workflows synchrones et en agents d’arrière-plan pour des...
+  - *Rôles adaptés:* Responsable PMO, Directeur marketing digital, Responsable acquisition de talents, Responsable FP&A +1 de plus
 
 - **[DatingShoot](https://www.aimyflow.com/fr/ai/datingshoot-com)**
   - DatingShoot est un générateur de photos de rencontre par IA qui transforme les selfies existants des utilisateurs en images réalistes, prêtes pour un profil sur Tinder, Hinge et Bumble, principalement pour les...
@@ -3077,6 +3457,14 @@ _Vue compacte pour un balayage plus rapide._
   - Deal Navigator AI est une plateforme algorithmique d’intelligence M&A et de due diligence qui aide les sociétés de capital-investissement et autres équipes d’investissement à évaluer des cibles d’acquisition, à générer...
   - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Analyste des risques, Directeur financier +1 de plus
 
+- **[Deasy Labs](https://www.aimyflow.com/fr/ai/deasylabs-com)**
+  - Deasy Labs est un moteur de contexte pour les données non structurées qui automatise la découverte de contenu, le balisage, le filtrage, l’enrichissement et la maintenance afin de créer des bases de connaissances...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable infrastructure IT, Responsable développement logiciel +1 de plus
+
+- **[Decipher AI](https://www.aimyflow.com/fr/ai/getdecipher-com)**
+  - Decipher AI est une plateforme de QA et de tests automatisés propulsée par l’IA qui génère et maintient des tests de bout en bout, surveille la production pour détecter les bugs en direct et aide les équipes...
+  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
+
 - **[Decision Forcing Studio](https://www.aimyflow.com/fr/ai/chatgpt-com-g-g-6951775631e881919f94cb0a387625de-decision-forcing-studio)**
   - Decision Forcing Studio est un stratège ChatGPT personnalisé qui aide les utilisateurs à formuler des demandes et des réponses à l’aide d’indices visuels d’urgence, tels que le vert, le jaune ou le rouge,...
   - *Rôles adaptés:* Rédacteur technique, Responsable PMO, Administrateur de santé, Conseiller d’orientation scolaire +1 de plus
@@ -3084,6 +3472,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Decisional](https://www.aimyflow.com/fr/ai/decisional-com)**
   - Decisional est une plateforme d’agents IA qui permet aux utilisateurs de décrire des workflows en langage clair, de connecter leurs applications et d’automatiser des tâches récurrentes grâce à des agents...
   - *Rôles adaptés:* Responsable PMO, Responsable FP&A, Directeur des opérations, Responsable développement logiciel +1 de plus
+
+- **[Decohere](https://www.aimyflow.com/fr/ai/decohere-ai)**
+  - Decohere est un outil de génération de contenu par IA qui aide les utilisateurs à créer rapidement des images, des vidéos, des illustrations de personnages et des visuels améliorés, principalement pour les créateurs,...
+  - *Rôles adaptés:* Graphiste, Créateur de contenu, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
 
 - **[Decohere](https://www.aimyflow.com/fr/ai/decoherence-co)**
   - Decohere est un outil de génération de contenu par IA qui aide les utilisateurs à créer rapidement des images, des vidéos, des personnages et des visuels améliorés, principalement pour les créateurs, les designers et...
@@ -3101,10 +3493,6 @@ _Vue compacte pour un balayage plus rapide._
   - Deep Nude AI Generator est un outil de retouche d’images par IA accessible via navigateur, qui crée des images modifiées de nudité ou NSFW à partir de photos importées, principalement destiné aux utilisateurs adultes...
   - *Rôles adaptés:* Analyste cybersécurité, Responsable cybersécurité, Avocat, Ingénieur logiciel +1 de plus
 
-- **[Deep Sequencer](https://www.aimyflow.com/fr/ai/deepsequencer-netlify-app)**
-  - Deep Sequencer est un outil de flux de travail IA qui aide les utilisateurs à générer ou transformer du contenu grâce à des séquences d’invites en plusieurs étapes et à des actions répétées, principalement destiné aux...
-  - *Rôles adaptés:* Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital, Rédacteur technique +1 de plus
-
 - **[DeepAI](https://www.aimyflow.com/fr/ai/deepai-org)**
   - DeepAI est une plateforme d’IA tout-en-un permettant de générer des images, des vidéos, de la musique, des conversations, des interactions vocales et des retouches photo dans le navigateur ou via des API,...
   - *Rôles adaptés:* Créateur de contenu, Graphiste, Ingénieur logiciel, Rédacteur publicitaire +1 de plus
@@ -3112,10 +3500,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[DeepAny.AI](https://www.aimyflow.com/fr/ai/deepany-ai)**
   - DeepAny.AI est une plateforme gratuite d’outils d’IA en ligne qui aide les utilisateurs à créer et à modifier des images et des vidéos grâce à des fonctionnalités telles que l’échange de visages, la génération et...
   - *Rôles adaptés:* Créateur de contenu, Graphiste, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
-
-- **[DeepAware AI](https://www.aimyflow.com/fr/ai/deepawareai-com)**
-  - DeepAware AI est une plateforme d’automatisation pour les centres de données IA de nouvelle génération qui aide les opérateurs à surveiller la sécurité et la stabilité, à optimiser l’ordonnancement des GPU et...
-  - *Rôles adaptés:* Responsable infrastructure IT, Responsable cybersécurité, Superviseur des opérations d’usine, Directeur des opérations +1 de plus
 
 - **[DeepL](https://www.aimyflow.com/fr/ai/deepl-com)**
   - DeepL est une plateforme linguistique basée sur l’IA qui aide les entreprises à traduire des textes, des fichiers et de la parole, à améliorer la rédaction et à automatiser les tâches courantes, principalement pour les...
@@ -3132,6 +3516,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[DeepMotion](https://www.aimyflow.com/fr/ai/deepmotion-com)**
   - DeepMotion est une plateforme de capture de mouvement et de suivi corporel par IA qui aide les utilisateurs à transformer du texte ou de la vidéo en animation de personnages 3D dans un navigateur web, principalement...
   - *Rôles adaptés:* Réalisateur indépendant, Ingénieur logiciel, Graphiste, Créateur de contenu +1 de plus
+
+- **[Deepnight](https://www.aimyflow.com/fr/ai/deepnight-ai)**
+  - Deepnight est un système de vision nocturne par IA qui combine des capteurs de faible luminosité et le traitement d’image pour transformer des scènes très sombres en images couleur vives avec un champ de vision plus...
+  - *Rôles adaptés:* Ingénieur électricien, Ingénieur mécanique, Ingénieur logiciel, Data scientist +1 de plus
 
 - **[DeepRead](https://www.aimyflow.com/fr/ai/deepread-tech)**
   - DeepRead est une API OCR destinée aux développeurs qui convertit des numérisations, des PDF et des images en JSON structuré et fortement typé, avec des indicateurs de confiance, aidant les équipes à extraire des...
@@ -3172,6 +3560,10 @@ _Vue compacte pour un balayage plus rapide._
   - Demodesk est une plateforme de vente basée sur l’IA qui enregistre, transcrit et analyse les conversations clients afin d’automatiser la prise de notes, les suivis, les mises à jour du CRM, le coaching et les analyses...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable PMO, PDG +1 de plus
 
+- **[Dench Cloud](https://www.aimyflow.com/fr/ai/dench-com)**
+  - Dench Cloud est un espace de travail géré pour DenchClaw, un CRM IA local-first basé sur OpenClaw, qui aide les équipes à importer des données, exécuter des opérations CRM pilotées par des prompts et automatiser les...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, Responsable PMO +1 de plus
+
 - **[Denki](https://www.aimyflow.com/fr/ai/denki-ai)**
   - Denki est une plateforme d’audit basée sur l’IA qui aide les auditeurs internes à automatiser les travaux SOX 404 et BSA/AML grâce à la collecte de preuves, au rapprochement financier, à la cartographie des contrôles,...
   - *Rôles adaptés:* Expert-comptable certifié, Analyste financier, Analyste des risques, Directeur financier +1 de plus
@@ -3204,6 +3596,10 @@ _Vue compacte pour un balayage plus rapide._
   - Le générateur de logos IA de Design.com est un outil en ligne qui aide les entreprises, les fondateurs et les non-designers à créer, personnaliser et télécharger des logos à l’aide de prompts IA, d’outils d’édition et...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, PDG, Rédacteur publicitaire +1 de plus
 
+- **[Designbase](https://www.aimyflow.com/fr/ai/designbase-com)**
+  - Designbase est un environnement d’exécution de conception qui aide les équipes produit à concevoir, créer et faire évoluer des produits sur un système partagé entre le design, l’ingénierie et l’IA, principalement pour...
+  - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Responsable développement logiciel, Responsable PMO +1 de plus
+
 - **[Designs.ai](https://www.aimyflow.com/fr/ai/designs-ai)**
   - Designs.ai est une plateforme de conception alimentée par l’IA qui aide les entreprises et les équipes marketing à créer des supports de communication tels que des images, des vidéos, des textes, de l’audio, des...
   - *Rôles adaptés:* Directeur marketing digital, Graphiste, Rédacteur publicitaire, Créateur de contenu réseaux sociaux +1 de plus
@@ -3224,16 +3620,13 @@ _Vue compacte pour un balayage plus rapide._
   - Dex est une extension Chrome alimentée par l’IA qui transforme le navigateur en espace de travail partagé pour gérer les tâches, le contexte et les actions entre les applications, principalement pour les opérateurs,...
   - *Rôles adaptés:* Directeur des opérations, Responsable commercial terrain, Responsable acquisition de talents, Responsable PMO +1 de plus
 
-- **[Dexter](https://www.aimyflow.com/fr/ai/github-com-virattt-dexter)**
-  - Dexter est un agent autonome open source de recherche financière qui aide les utilisateurs à transformer des questions financières complexes en analyses étape par étape à l’aide de données de marché en temps réel,...
-  - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Data scientist, Ingénieur logiciel
-
-- **[DIAGLO](https://www.aimyflow.com/fr/ai/diaglo-ai)**
-  - DIAGLO est un outil de diagnostic automobile par IA qui aide les utilisateurs à décrire les symptômes d’un véhicule et à générer des rapports techniques ainsi que des conseils de réparation, principalement pour les...
-
 - **[Diagram-Generator](https://www.aimyflow.com/fr/ai/diagram-generator-com)**
   - Diagram-Generator est un générateur de diagrammes par IA qui transforme des invites textuelles, des documents et des croquis en organigrammes, diagrammes ER, cartes mentales, diagrammes de séquence et autres formats...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Ingénieur data +1 de plus
+
+- **[DianaHR](https://www.aimyflow.com/fr/ai/dianahr-ai)**
+  - DianaHR est un service RH fractionné, piloté par l’humain et propulsé par l’IA, qui aide les startups et PME américaines à gérer la paie, la conformité, les avantages sociaux, l’onboarding, l’offboarding et les...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Responsable rémunération et avantages, Directeur financier +1 de plus
 
 - **[Diary Tarot](https://www.aimyflow.com/fr/ai/diarytarot-com)**
   - Diary Tarot est un outil en ligne de tirage du tarot et de journalisation des phases lunaires qui aide les utilisateurs à tirer des cartes, à obtenir des interprétations assistées par l’IA et à suivre les thèmes...
@@ -3263,9 +3656,17 @@ _Vue compacte pour un balayage plus rapide._
   - Digipals est une application sociale axée sur l’IA qui aide les gens à partager leur disponibilité en temps réel et leurs projets d’activité afin de se connecter plus facilement, et elle s’adresse principalement aux...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Responsable de programme associatif, Conseiller d’orientation scolaire
 
+- **[Dili](https://www.aimyflow.com/fr/ai/dili-ai)**
+  - Dili est une plateforme d’automatisation de la conformité alimentée par l’IA pour les projets financés par le gouvernement fédéral. Elle aide les entrepreneurs EPC, les promoteurs et les équipes conformité à gérer le...
+  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Directeur financier, Responsable fiscal d’entreprise +1 de plus
+
 - **[DiligenceSquared](https://www.aimyflow.com/fr/ai/diligencesquared-com)**
   - DiligenceSquared est une plateforme d’étude de marché et de due diligence commerciale alimentée par l’IA qui aide les investisseurs et les entreprises à recueillir plus rapidement des informations de marché auditables,...
   - *Rôles adaptés:* Analyste financier, PDG, Analyste des risques, Directeur financier +1 de plus
+
+- **[Diligent](https://www.aimyflow.com/fr/ai/godiligent-ai)**
+  - Diligent est une plateforme d’agents IA pour les opérations KYC/AML qui aide les banques et les fintechs à automatiser les revues de risques, le traitement des alertes AML et la vérification documentaire, tout en...
+  - *Rôles adaptés:* Analyste des risques, Analyste cybersécurité, Directeur financier, Analyste financier +1 de plus
 
 - **[Disclaimr AI](https://www.aimyflow.com/fr/ai/disclaimr-ai)**
   - Disclaimr AI est un outil de prévision de projet de développement qui aide les fondateurs non techniques à évaluer des propositions de logiciels externalisés, à estimer des délais et budgets réalistes, à identifier les...
@@ -3283,13 +3684,13 @@ _Vue compacte pour un balayage plus rapide._
   - DishGen est un générateur de recettes IA qui aide les passionnés de cuisine à créer, enregistrer, parcourir et partager des idées de recettes. À l’ère de l’IA, il transforme plus vite l’inspiration culinaire en...
   - *Rôles adaptés:* Passionné de gastronomie
 
+- **[DisputeNinja](https://www.aimyflow.com/fr/ai/disputeninja-ai)**
+  - DisputeNinja est une plateforme d’IA destinée aux équipes de gestion des rétrofacturations qui aide les analystes à développer le recouvrement des revenus en automatisant la collecte de preuves, la rédaction des...
+  - *Rôles adaptés:* Analyste financier, Responsable des ventes e-commerce, Directeur des opérations, Responsable PMO
+
 - **[Dive into Deep Learning](https://www.aimyflow.com/fr/ai/zh-d2l-ai)**
   - « Plongée pratique dans l’apprentissage profond » est un manuel et une documentation exécutable d’apprentissage profond destinés aux lecteurs chinois, qui aident les étudiants, les enseignants et les praticiens du...
   - *Rôles adaptés:* Data scientist, Ingénieur logiciel, Professeur d’université, Tuteur en programmation en ligne +1 de plus
-
-- **[DJ.Studio](https://www.aimyflow.com/fr/ai/dj-studio)**
-  - DJ.Studio est un logiciel de DJ basé sur une timeline pour Mac et Windows qui aide les utilisateurs à créer plus rapidement des mashups, des mixes DJ, des émissions de radio, des mixes vidéo et des préparations de sets...
-  - *Rôles adaptés:* Producteur de podcast, Amateur de musique, Créateur de contenu, Créateur de contenu réseaux sociaux +1 de plus
 
 - **[DL.Translator](https://www.aimyflow.com/fr/ai/dltranslator-com)**
   - DL.Translator est un outil de traduction de documents par IA qui aide les utilisateurs à traduire des fichiers PDF, Word, PPTX, numérisés et autres, tout en préservant la mise en page et la mise en forme d’origine,...
@@ -3310,6 +3711,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Doclingo](https://www.aimyflow.com/fr/ai/doclingo-ai-en)**
   - Doclingo est une plateforme de traduction de documents par IA qui traduit des PDF, des fichiers Word, des articles de recherche et d’autres formats tout en préservant la mise en page et la structure, principalement...
   - *Rôles adaptés:* Rédacteur technique, Ingénieur data, Ingénieur logiciel, Professeur d’université +1 de plus
+
+- **[Docsum](https://www.aimyflow.com/fr/ai/docsum-ai)**
+  - Docsum est une plateforme d’IA de révision, de négociation et de gestion de contrats qui aide les équipes juridiques, commerciales et financières à examiner les accords, à effectuer le suivi des modifications dans...
+  - *Rôles adaptés:* Avocat, Responsable commercial terrain, Analyste financier, Responsable PMO
 
 - **[DocuGov.ai](https://www.aimyflow.com/fr/ai/docugov-ai-en)**
   - DocuGov.ai est un outil d’IA qui génère des lettres administratives structurées de manière professionnelle, telles que des recours, des réclamations, des demandes de réexamen et des réponses officielles, pour les...
@@ -3343,6 +3748,10 @@ _Vue compacte pour un balayage plus rapide._
   - DomoAI est une plateforme d’IA pour la vidéo et l’animation qui aide les utilisateurs à transformer du texte, des images et des séquences en vidéos stylisées, avatars parlants, animations de personnages et contenus...
   - *Rôles adaptés:* Créateur de contenu, Réalisateur indépendant, Créateur de contenu réseaux sociaux, Directeur marketing digital +1 de plus
 
+- **[Domu AI](https://www.aimyflow.com/fr/ai/domu-ai)**
+  - Domu AI est une plateforme d’intelligence comportementale dotée d’agents IA pour le service intelligent et la résolution des comptes, aidant les institutions financières à automatiser des conversations conformes par...
+  - *Rôles adaptés:* Analyste financier, Analyste des risques, Directeur des opérations, Directeur financier +1 de plus
+
 - **[DoNotPay](https://www.aimyflow.com/fr/ai/donotpay-com)**
   - DoNotPay est une plateforme d’auto-assistance pour les consommateurs alimentée par l’IA qui aide les particuliers à gérer les remboursements, les rétrofacturations, les annulations d’essais gratuits, la protection de...
   - *Rôles adaptés:* Analyste financier, Agent de facturation médicale, Responsable PMO, Avocat
@@ -3363,6 +3772,22 @@ _Vue compacte pour un balayage plus rapide._
   - DoraScribe est un outil de transcription et de scribe médical alimenté par l’IA qui transforme les consultations de patients en notes SOAP et autres documents de dossier pour les médecins et autres professionnels de...
   - *Rôles adaptés:* Médecin généraliste, Pédiatre, Cardiologue, Administrateur de santé +1 de plus
 
+- **[Dosu](https://www.aimyflow.com/fr/ai/dosu-dev)**
+  - Dosu est une plateforme de documentation basée sur l’IA qui génère, maintient et publie automatiquement de la documentation à partir du code, des tickets, des revues et des conversations, principalement pour les...
+  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Rédacteur technique, Responsable PMO +1 de plus
+
+- **[Dot](https://www.aimyflow.com/fr/ai/getdot-ai)**
+  - Dot est un analyste de données IA qui aide les équipes à répondre rapidement aux questions liées aux données et à obtenir des insights exploitables via le chat, des analyses approfondies et des rapports automatisés,...
+  - *Rôles adaptés:* Analyste financier, Responsable PMO, PDG, Directeur des opérations
+
+- **[Double](https://www.aimyflow.com/fr/ai/double-bot)**
+  - Double est un copilote de codage IA pour VS Code qui aide les développeurs à discuter avec des modèles d’IA, à autocompléter du code, et à générer, réviser et appliquer des modifications de code directement dans...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, Analyste cybersécurité
+
+- **[Downlink](https://www.aimyflow.com/fr/ai/downlink-dev)**
+  - Downlink est une plateforme d’API pour les ingénieurs en IA qui aide à améliorer les performances des applications d’IA en augmentant les limites de débit, en réduisant la latence et les coûts, et en sélectionnant et...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
+
 - **[Draft & Goal AI Detector](https://www.aimyflow.com/fr/ai/detector-dng-ai)**
   - Draft & Goal AI Detector est un outil de détection de contenu IA qui analyse les textes pour identifier les écrits probablement générés par l’IA, avec des rapports expliquant les passages suspects, et s’adresse...
   - *Rôles adaptés:* Rédacteur technique, Professeur d’université, Rédacteur publicitaire, Enseignant +1 de plus
@@ -3370,6 +3795,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Draft Dash](https://www.aimyflow.com/fr/ai/draftdash-net)**
   - Draft Dash est un rédacteur d’articles basé sur l’IA qui aide les utilisateurs à transformer un sujet en articles longs, documentés, vérifiés, optimisés pour le SEO et accompagnés de citations, principalement destinés...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Rédacteur technique, Créateur de contenu +1 de plus
+
+- **[Dragoneye](https://www.aimyflow.com/fr/ai/dragoneye-ai)**
+  - Dragoneye est une plateforme d’IA de vision qui permet aux développeurs et aux équipes techniques de créer et de déployer des modèles personnalisés de détection d’images et de vidéos à partir d’instructions en langage...
+  - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Responsable développement logiciel, Ingénieur data +1 de plus
 
 - **[Dream Companion](https://www.aimyflow.com/fr/ai/mydreamcompanion-com)**
   - Dream Companion est une plateforme de jeu de rôle IA NSFW réservée aux adultes qui permet aux utilisateurs de créer, personnaliser et discuter avec des compagnons IA, ainsi que de générer des images cohérentes de ces...
@@ -3382,6 +3811,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Dream Studio](https://www.aimyflow.com/fr/ai/beta-dreamstudio-ai-generate)**
   - Dream Studio est la page de connexion de Stability AI. Elle permet aux utilisateurs existants de se connecter ou de créer un compte pour continuer à utiliser la plateforme, principalement pour les personnes qui...
 
+- **[Dream3D](https://www.aimyflow.com/fr/ai/dream3d-com)**
+  - Dream3D est une startup logicielle qui développe des modèles fondamentaux d’IA pour les logiciels visuels, aidant les chercheurs, les designers et les ingénieurs à créer de nouveaux outils et applications visuels...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Graphiste, Designer industriel +1 de plus
+
 - **[Dreamega AI Image Templates Gallery](https://www.aimyflow.com/fr/ai/dreamega-ai-image-template)**
   - La galerie de modèles d’images IA de Dreamega est un outil d’effets et de modèles d’images par IA qui aide les utilisateurs à transformer leurs photos avec plus de 100 styles, tels que l’anime, le dessin animé, le...
   - *Rôles adaptés:* Graphiste, Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu +1 de plus
@@ -3389,10 +3822,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[DreamGen](https://www.aimyflow.com/fr/ai/dreamgen-com)**
   - DreamGen est un générateur de chat de jeu de rôle et d’histoires alimenté par l’IA qui aide les utilisateurs à créer des jeux interactifs, des fanfictions et des univers narratifs personnalisés, principalement pour les...
   - *Rôles adaptés:* Auteur de fiction, Créateur de contenu, Rédacteur publicitaire, Réalisateur indépendant
-
-- **[Dreamle](https://www.aimyflow.com/fr/ai/dreamle-ai)**
-  - Dreamle est une plateforme de chatbot IA de personnages NSFW 18+ qui aide les adultes à participer à des discussions de jeu de rôle explicites, à créer des personnages personnalisés et à générer des images pour...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Enseignant en collège communautaire
 
 - **[DreamPages](https://www.aimyflow.com/fr/ai/dreampages-ai)**
   - DreamPages est un générateur d’histoires par IA qui aide les parents à créer des histoires du soir personnalisées et adaptées à l’âge des enfants, avec des illustrations personnalisées et une narration facultative à...
@@ -3405,24 +3834,28 @@ _Vue compacte pour un balayage plus rapide._
 - **[DreamStories](https://www.aimyflow.com/fr/ai/dreamstories-app)**
   - DreamStories est un générateur d’histoires par IA qui aide les parents à créer des histoires du soir multilingues et personnalisées pour les enfants en choisissant le prénom de l’enfant, sa tranche d’âge, la langue et...
 
-- **[Dressika Color Analysis](https://www.aimyflow.com/fr/ai/coloranalysis-app)**
-  - Dressika Color Analysis est une application d’analyse des couleurs basée sur l’IA et sur photo, qui aide les personnes à identifier leur saison colorimétrique personnelle, le sous-ton de leur peau, ainsi que les...
-  - *Rôles adaptés:* Styliste, Créateur de contenu, Vendeur e-commerce
-
 - **[Dressplay AI](https://www.aimyflow.com/fr/ai/dressplay-ai)**
   - Dressplay AI est un studio de mode alimenté par l’IA qui aide les utilisateurs à créer des modèles de vêtements à partir de texte, à essayer virtuellement des vêtements sur des mannequins, à remixer des styles, à...
   - *Rôles adaptés:* Styliste, Graphiste, Vendeur e-commerce, Créateur de contenu +1 de plus
 
-- **[Dribbble](https://www.aimyflow.com/fr/ai/dribbble-com)**
-  - Dribbble est une communauté de design et marketplace de recrutement qui aide les designers à présenter leur travail, trouver de l’inspiration, recevoir des retours et se connecter avec clients ou employeurs. À l’ère de...
-  - *Rôles adaptés:* Styliste, Créateur de contenu, Professionnels de l'art et du design, Écrivains et auteurs +2 de plus
+- **[Drillbit](https://www.aimyflow.com/fr/ai/drillbit-com)**
+  - Drillbit est une plateforme d’opérations IA destinée aux entreprises de services à domicile et aux métiers techniques, qui automatise la qualification des prospects, la communication client, la planification, le suivi...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable d’agence, Directeur des opérations, Directeur de restaurant +1 de plus
 
 - **[DrugCard](https://www.aimyflow.com/fr/ai/app-drug-card-io-simple-search)**
   - DrugCard est un système électronique de pharmacovigilance qui aide les utilisateurs à rechercher des informations sur la sécurité des médicaments, à passer au crible la littérature locale et mondiale, à surveiller les...
 
+- **[DryMerge](https://www.aimyflow.com/fr/ai/drymerge-com)**
+  - DryMerge est un outil d’automatisation CRM par IA qui surveille les e-mails, le calendrier, les appels et d’autres communications professionnelles afin de capturer et synchroniser automatiquement les données relatives...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur des opérations, Gestionnaire de portefeuille, Responsable des ventes e-commerce +1 de plus
+
 - **[Dubverse](https://www.aimyflow.com/fr/ai/dubverse-ai)**
   - Dubverse est une plateforme de localisation de médias par IA qui aide les utilisateurs à créer du doublage vidéo, de la synthèse vocale, des sous-titres, des transcriptions et des traductions vidéo, principalement pour...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Créateur de contenu réseaux sociaux, Producteur de podcast +1 de plus
+
+- **[Duckie](https://www.aimyflow.com/fr/ai/duckie-ai)**
+  - Duckie est une plateforme d’agent d’assistance IA qui résout de manière autonome les tickets de service client de bout en bout en comprenant les demandes, en vérifiant les détails et en effectuant des actions comme les...
+  - *Rôles adaptés:* Responsable des ventes e-commerce, Responsable PMO, Directeur des opérations
 
 - **[Durable](https://www.aimyflow.com/fr/ai/durable-ai)**
   - Durable est une plateforme d’automatisation logicielle par IA qui transforme des problèmes d’entreprise décrits en langage courant en automatisations prêtes pour la production et maintenues dans le temps,...
@@ -3463,10 +3896,6 @@ _Vue compacte pour un balayage plus rapide._
   - EasyListing est un générateur IA de descriptions immobilières qui aide les professionnels de l’immobilier à créer rapidement des annonces optimisées SEO pour des biens résidentiels. À l’ère de l’IA, il permet de...
   - *Rôles adaptés:* Agent immobilier
 
-- **[easyPDP with daisy](https://www.aimyflow.com/fr/ai/easypdp-daisy-so)**
-  - easyPDP avec daisy est un outil de photographie de produits par IA qui aide les utilisateurs à transformer une photo nette d’un produit en images de produit soignées en quelques secondes, principalement pour les...
-  - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Graphiste, Créateur de contenu
-
 - **[EasyPic](https://www.aimyflow.com/fr/ai/easypic-app)**
   - EasyPic est une boîte à outils de marquage photo et de traitement d’images alimentée par l’IA, qui aide les photographes, les créateurs de contenu et les entreprises à générer des titres et des mots-clés, ainsi qu’à...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Vendeur e-commerce, Graphiste +1 de plus
@@ -3499,6 +3928,10 @@ _Vue compacte pour un balayage plus rapide._
   - Eden est une plateforme de données synthétiques qui génère des données proches de la production pour des démonstrations produit soignées, l’évaluation d’agents IA et l’entraînement de modèles, principalement pour les...
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Responsable développement logiciel, Responsable PMO +1 de plus
 
+- **[EdgeTrace](https://www.aimyflow.com/fr/ai/edgetrace-ai)**
+  - EdgeTrace est une plateforme de gestion vidéo et d’intelligence des caméras augmentée par l’IA qui aide les équipes de sécurité publique à rechercher dans les flux de caméras à l’échelle d’une ville à partir de...
+  - *Rôles adaptés:* Analyste cybersécurité, Responsable infrastructure IT, Responsable PMO, Directeur des opérations
+
 - **[Editaimg](https://www.aimyflow.com/fr/ai/editaimg-com)**
   - Editaimg est un éditeur d’images IA qui aide les utilisateurs à supprimer les arrière-plans, nettoyer les images, modifier ou remplacer du texte, augmenter la résolution, retoucher les visages et créer des retouches...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu réseaux sociaux +1 de plus
@@ -3523,13 +3956,25 @@ _Vue compacte pour un balayage plus rapide._
   - Education Copilot est un outil de planification de cours basé sur l’IA qui aide les enseignants à créer rapidement des plans de cours, des supports pédagogiques, des consignes de rédaction, des bulletins d’élèves, des...
   - *Rôles adaptés:* Enseignant, Consultant en technologies éducatives, Professeur d’université, Enseignant en collège communautaire +1 de plus
 
-- **[Egaki.ai](https://www.aimyflow.com/fr/ai/egaki-ai)**
-  - Egaki.ai est une plateforme d’optimisation de la visibilité IA qui aide les marques DTC, les équipes e-commerce et les agences marketing à suivre, analyser et améliorer la manière dont leurs marques sont classées,...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Vendeur e-commerce, Créateur de contenu +1 de plus
+- **[Educato](https://www.aimyflow.com/fr/ai/educato-com)**
+  - Educato est une plateforme de préparation aux examens pilotée par l’IA qui aide les étudiants à se préparer aux examens de certification, universitaires, gouvernementaux, juridiques et médicaux grâce à des plans...
+  - *Rôles adaptés:* Tuteur de préparation aux examens, Enseignant, Consultant en technologies éducatives, Professeur d’université
 
 - **[Egg3](https://www.aimyflow.com/fr/ai/egg3-io)**
   - Egg3 est un outil de gestion des flux de travail d’images IA qui aide les équipes à créer, organiser, suivre et examiner des images générées par IA grâce à des workflows automatisés, un suivi en temps réel, un...
   - *Rôles adaptés:* Graphiste, Responsable PMO, Créateur de contenu réseaux sociaux, Directeur marketing digital +1 de plus
+
+- **[Eggnog](https://www.aimyflow.com/fr/ai/eggnog-ai)**
+  - Eggnog est un studio d’applications d’IA qui crée des expériences vidéo et image grand public, notamment l’animation collaborative, la génération de scènes historiques et des outils de transformation de l’âge des...
+  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Graphiste, Rédacteur publicitaire +1 de plus
+
+- **[ego AI](https://www.aimyflow.com/fr/ai/egoai-com)**
+  - ego AI crée des personnages d’IA intelligents et incarnés ainsi que des agents en temps réel qui contribuent à produire des comportements de type humain pour les jeux, les simulations et les expériences interactives,...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Créateur de contenu, Réalisateur indépendant +1 de plus
+
+- **[Eidolon](https://www.aimyflow.com/fr/ai/eidolonai-com)**
+  - Eidolon est un serveur d’agents IA et un SDK open source qui aide les développeurs à créer, déployer et utiliser des applications GenAI et agentiques de niveau entreprise, en particulier les équipes travaillant avec...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Responsable développement logiciel, Responsable PMO
 
 - **[Eilla AI](https://www.aimyflow.com/fr/ai/eilla-ai)**
   - Eilla AI est une plateforme IA pour les workflows de M&A, venture capital et private equity, aidant les équipes d’investissement à analyser les deals et gérer la recherche. À l’ère de l’IA, elle permet aux...
@@ -3543,13 +3988,13 @@ _Vue compacte pour un balayage plus rapide._
   - Elements of AI est une série de cours en ligne gratuite proposée par MinnaLearn et l’Université d’Helsinki, qui aide les non-spécialistes à comprendre ce qu’est l’IA, ce qu’elle peut et ne peut pas faire, et comment...
   - *Rôles adaptés:* Consultant en technologies éducatives, Responsable PMO, Ingénieur logiciel, PDG +1 de plus
 
-- **[Eler](https://www.aimyflow.com/fr/ai/eler-ai)**
-  - Eler est un outil de rendu par IA qui transforme des modèles SketchUp ou GLB en images photoréalistes en quelques secondes, aidant les architectes et les designers à créer des visuels cohérents sous plusieurs angles...
-  - *Rôles adaptés:* Architecte résidentiel, Architecte d'intérieur, Architecte commercial, Graphiste +1 de plus
-
 - **[EleutherAI](https://www.aimyflow.com/fr/ai/eleuther-ai)**
   - EleutherAI est une organisation de recherche en IA et un laboratoire open source qui développe et publie de grands modèles de langage, des jeux de données et des travaux de recherche sur la modélisation du langage,...
   - *Rôles adaptés:* Data scientist, Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité +1 de plus
+
+- **[Elevate](https://www.aimyflow.com/fr/ai/useelevate-dev)**
+  - Elevate est une plateforme de gestion des données alimentée par l’IA pour les plateformes de consolidation, qui aide les équipes à unifier et à transformer l’ensemble du cycle de vie des données, y compris...
+  - *Rôles adaptés:* Directeur des opérations, Directeur financier, Ingénieur data, Analyste financier +1 de plus
 
 - **[Eleven Music, now Enliven Music,](https://www.aimyflow.com/fr/ai/elevenmusic-ai)**
   - Eleven Music, désormais Enliven Music, est un générateur de musique par IA qui aide les utilisateurs à créer et à modifier des chansons, des instrumentaux et des voix libres de droits à partir d’invites textuelles,...
@@ -3579,6 +4024,10 @@ _Vue compacte pour un balayage plus rapide._
   - Elicit est une plateforme de recherche en IA qui aide les chercheurs à rechercher des articles académiques et des essais cliniques, à générer des rapports de recherche avec citations et à automatiser certaines parties...
   - *Rôles adaptés:* Professeur d’université, Data scientist, Analyste financier, Biologiste moléculaire +1 de plus
 
+- **[Ellipsis.dev](https://www.aimyflow.com/fr/ai/ellipsis-dev)**
+  - Ellipsis.dev est un outil de développement IA qui automatise les revues de code, les corrections de bugs, la génération de code et les Q&R GitHub afin d’aider les ingénieurs logiciels et les équipes d’ingénierie à...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
+
 - **[Eloovor](https://www.aimyflow.com/fr/ai/eloovor-com)**
   - Eloovor est un coach de carrière IA pour les chercheurs d’emploi qui aide à gérer les candidatures, à adapter les CV et les lettres de motivation, à analyser l’adéquation avec les postes et les employeurs, et à...
   - *Rôles adaptés:* Responsable acquisition de talents, Conseiller d’orientation scolaire, Professeur d’université, Responsable PMO
@@ -3590,6 +4039,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Elser AI](https://www.aimyflow.com/fr/ai/elser-ai)**
   - Elser AI est une plateforme de création d’anime par IA qui aide les utilisateurs à générer des images d’anime, des vidéos, des personnages, des storyboards, des voix et du fanart à partir de prompts ou d’images,...
   - *Rôles adaptés:* Créateur de contenu, Réalisateur indépendant, Graphiste, Créateur de contenu réseaux sociaux +1 de plus
+
+- **[Elyos AI](https://www.aimyflow.com/fr/ai/elyos-ai)**
+  - Elyos AI fournit des agents IA aux entreprises du bâtiment, des métiers techniques et des services sur le terrain pour gérer le service client, les ventes, la planification, les rappels de rendez-vous et...
+  - *Rôles adaptés:* Superviseur des opérations d’usine, Responsable d’agence, Responsable commercial terrain, Directeur des opérations +1 de plus
+
+- **[Elythea](https://www.aimyflow.com/fr/ai/elythea-org)**
+  - Elythea est une plateforme d’IA vocale conforme à la HIPAA et à la norme SOC 2, destinée aux régimes Medicare Advantage, aux agences Medicaid des États, aux MCO Medicaid et aux BPO. Elle automatise à grande échelle les...
+  - *Rôles adaptés:* Administrateur de santé, Directeur des opérations, Responsable de programme associatif, Responsable PMO
 
 - **[Embedder](https://www.aimyflow.com/fr/ai/embedder-com)**
   - Embedder est un outil d’ingénierie du firmware par IA qui génère, teste et débogue du firmware C++ et Rust vérifié à partir de fiches techniques et de documents matériels pour les ingénieurs embarqués et firmware...
@@ -3603,6 +4060,10 @@ _Vue compacte pour un balayage plus rapide._
   - EMOXIA AI AGENT est un système d’agent de bureau Windows, initialement redéveloppé sur OpenClaw, qui aide les utilisateurs à exécuter des flux de travail de bureau en plusieurs étapes, des actions système, des tâches...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO +1 de plus
 
+- **[Empirical Health](https://www.aimyflow.com/fr/ai/empirical-health)**
+  - Empirical Health est une plateforme de dépistage et de prise en charge de la santé cardiaque qui aide les adultes à évaluer leur risque cardiovasculaire grâce à plus de 100 biomarqueurs, à la prédiction du risque et à...
+  - *Rôles adaptés:* Cardiologue, Coach bien-être, Médecin généraliste, Administrateur de santé
+
 - **[Empirio](https://www.aimyflow.com/fr/ai/empirio-ai)**
   - Empirio est un créateur de sondages alimenté par l’IA qui aide les entreprises, les écoles, les universités et les étudiants à créer, personnaliser, publier et analyser rapidement des sondages en ligne grâce à des...
   - *Rôles adaptés:* Responsable des relations sociales, Data scientist, Directeur marketing digital, Responsable PMO +1 de plus
@@ -3615,6 +4076,10 @@ _Vue compacte pour un balayage plus rapide._
   - Engain est un logiciel de marketing organique sur Reddit alimenté par l’IA, qui aide les entreprises et les équipes de croissance à trouver des discussions Reddit bien classées, à suivre les mentions de leur marque et...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
 
+- **[Entangl](https://www.aimyflow.com/fr/ai/entangl-com)**
+  - Entangl est une plateforme d’IA pour l’exploitation d’infrastructures critiques, en commençant par les centres de données, qui aide les équipes à éviter les erreurs provoquant des pannes et s’adresse aux opérateurs et...
+  - *Rôles adaptés:* Responsable infrastructure IT, Superviseur des opérations d’usine, Directeur des opérations, Ingénieur logiciel +1 de plus
+
 - **[Entireweb](https://www.aimyflow.com/fr/ai/entireweb-com)**
   - Entireweb est un moteur de recherche privé qui aide les utilisateurs à découvrir des résultats web sans suivi ni filtrage personnalisé. À l’ère de l’IA, la recherche axée sur la confidentialité offre un accès plus...
   - *Rôles adaptés:* Directeur marketing digital, Responsables marketing et ventes, Responsables informatiques, Vendeur e-commerce +1 de plus
@@ -3622,6 +4087,18 @@ _Vue compacte pour un balayage plus rapide._
 - **[Envariant](https://www.aimyflow.com/fr/ai/envariant-ai)**
   - Envariant est un SDK d’interprétabilité de l’IA qui aide les concepteurs de modèles fondamentaux à inspecter, orienter et contrôler le comportement des modèles en retraçant des problèmes comme les hallucinations, en...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Data scientist, Analyste cybersécurité +1 de plus
+
+- **[Envelope](https://www.aimyflow.com/fr/ai/envelopebudgeting-com)**
+  - Envelope est une application bancaire fintech avec une budgétisation par enveloppes intégrée, qui aide les particuliers et les foyers à répartir leurs salaires, suivre leurs dépenses et gérer des finances partagées...
+  - *Rôles adaptés:* Analyste financier, Directeur financier, Coach bien-être, Créateur de contenu
+
+- **[Epsilla](https://www.aimyflow.com/fr/ai/epsilla-com)**
+  - Epsilla est une plateforme d’agents IA en tant que service pour les entreprises, qui aide les équipes à créer, déployer et gérer des agents IA verticaux et des chatbots sans code avec RAG, principalement pour les...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO, PDG +1 de plus
+
+- **[Epsilon](https://www.aimyflow.com/fr/ai/epsilon-ai-com)**
+  - Epsilon est un moteur de recherche IA pour la recherche scientifique qui aide les chercheurs à trouver des publications et des brevets, à obtenir des réponses étayées par des citations, à extraire des preuves à travers...
+  - *Rôles adaptés:* Professeur d’université, Data scientist, Biologiste moléculaire, Microbiologiste +1 de plus
 
 - **[Ergo](https://www.aimyflow.com/fr/ai/joinergo-com)**
   - Ergo est une infrastructure d’automatisation des revenus qui rend un CRM existant plus autonome en capturant des insights commerciaux, en mettant à jour les enregistrements, en rédigeant des e-mails de suivi et en...
@@ -3678,6 +4155,10 @@ _Vue compacte pour un balayage plus rapide._
   - EVE est un assistant de boîte de réception IA qui analyse les conversations par e-mail pour détecter des prospects, suivre les étapes des opportunités, signaler les opportunités au point mort et rédiger des relances,...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, PDG, Directeur des opérations +1 de plus
 
+- **[Event Horizon Labs](https://www.aimyflow.com/fr/ai/ehl-markets)**
+  - Event Horizon Labs est une plateforme de recherche quantitative agentique qui utilise des agents d’IA autonomes pour générer des hypothèses, backtester des stratégies de trading et analyser les résultats à grande...
+  - *Rôles adaptés:* Gestionnaire de portefeuille, Analyste financier, Data scientist, PDG +1 de plus
+
 - **[everfind](https://www.aimyflow.com/fr/ai/everfind-ai)**
   - everfind est un espace de travail IA sécurisé qui connecte les documents et e-mails de l’entreprise à travers des outils comme Gmail, Outlook, Google Drive, Jira et SharePoint, afin que les PME et les équipes de taille...
   - *Rôles adaptés:* Responsable PMO, Analyste financier, Directeur des opérations, Expert-comptable certifié +1 de plus
@@ -3702,10 +4183,6 @@ _Vue compacte pour un balayage plus rapide._
   - Examino est un outil d’évaluation de dissertations par IA qui aide les enseignants et les professionnels de l’éducation à numériser, évaluer et fournir un retour basé sur des grilles d’évaluation pour des...
   - *Rôles adaptés:* Enseignant, Professeur d’université, Enseignant en collège communautaire, Professeur de maths en primaire +1 de plus
 
-- **[Exanimo.ai](https://www.aimyflow.com/fr/ai/exanimo-ai)**
-  - Exanimo.ai est une plateforme d’optimisation pour moteurs d’IA qui aide les entreprises à surveiller, analyser et améliorer la visibilité de leur marque dans les réponses fournies par des LLM comme ChatGPT, Claude,...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
-
 - **[Exla](https://www.aimyflow.com/fr/ai/exla-ai)**
   - Exla est une plateforme d’optimisation de l’IA en périphérie qui aide les développeurs et les ingénieurs ML à exécuter des LLM, des modèles vision-langage, de vision et d’action plus rapidement et avec une empreinte...
   - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Ingénieur électricien +1 de plus
@@ -3729,6 +4206,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Explee](https://www.aimyflow.com/fr/ai/explee-com)**
   - Explee est une plateforme de recherche par IA et une base de données d’entreprises B2B qui aide les utilisateurs à trouver des entreprises, des décideurs et des coordonnées grâce à la recherche sémantique, à des...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, PDG +1 de plus
+
+- **[Extend](https://www.aimyflow.com/fr/ai/extend-ai)**
+  - Extend est une plateforme de traitement de documents qui aide les équipes à analyser, extraire, scinder, classer et modifier des documents complexes pour les transformer en données structurées de haute qualité via des...
+  - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable PMO +1 de plus
 
 - **[Extruct AI](https://www.aimyflow.com/fr/ai/extruct-ai)**
   - Extruct AI est une plateforme d’intelligence sur les entreprises alimentée par l’IA qui aide les utilisateurs à constituer des listes d’entreprises de niche, à interroger les données CRM en langage naturel, à enrichir...
@@ -3782,9 +4263,6 @@ _Vue compacte pour un balayage plus rapide._
   - Face Finder est un moteur de recherche inversée de visages alimenté par l’IA qui aide les utilisateurs à trouver des profils en ligne, vérifier des identités et détecter les faux profils ou les utilisations non...
   - *Rôles adaptés:* Analyste cybersécurité, Créateur de contenu, Créateur de contenu réseaux sociaux, Avocat
 
-- **[Face Symmetry Test](https://www.aimyflow.com/fr/ai/facesymmetrytest-ai)**
-  - Face Symmetry Test est un analyseur en ligne de symétrie faciale alimenté par l’IA qui permet aux utilisateurs de téléverser un selfie afin de mesurer l’équilibre global du visage et les scores de symétrie par trait,...
-
 - **[Face++](https://www.aimyflow.com/fr/ai/faceplusplus-com-cn)**
   - Face++ est une plateforme ouverte d’IA qui fournit des API et des SDK pour la reconnaissance faciale, l’OCR, l’analyse d’images et du corps humain, aidant les développeurs et les entreprises à créer des applications de...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Analyste cybersécurité +1 de plus
@@ -3816,6 +4294,10 @@ _Vue compacte pour un balayage plus rapide._
   - Facetune est une application de retouche photo et vidéo par IA qui aide les utilisateurs à améliorer des selfies, des portraits, des publications sur les réseaux sociaux et d’autres contenus visuels grâce à des outils...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Graphiste +1 de plus
 
+- **[Fairway Healthcare](https://www.aimyflow.com/fr/ai/fairwayhealth-co)**
+  - Fairway Healthcare est une solution d’IA pour les autorisations préalables, désormais acquise par TurningPoint Healthcare Solutions, qui contribue à rationaliser les processus d’autorisation préalable pour les...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Spécialiste en santé au travail
+
 - **[FakeYou](https://www.aimyflow.com/fr/ai/fakeyou-com)**
   - FakeYou est une plateforme d’IA de génération de voix et de vidéo qui aide les utilisateurs à créer de la synthèse vocale, de la transformation vocale, du clonage de voix, ainsi que de l’audio ou de la vidéo dans le...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Producteur de podcast, Rédacteur publicitaire +1 de plus
@@ -3831,6 +4313,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Farol](https://www.aimyflow.com/fr/ai/usefarol-io)**
   - Farol est un outil d’intelligence des tendances basé sur l’IA qui aide les créateurs de contenu, les fondateurs, les rédacteurs de newsletters et les professionnels du marketing à repérer les sujets émergents 24 à 48...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire, PDG +1 de plus
+
+- **[FastAgency](https://www.aimyflow.com/fr/ai/fastagency-ai-latest)**
+  - FastAgency est un framework open source conçu pour mettre rapidement en production des workflows d’IA multi-agents, en aidant les utilisateurs à intégrer des agents modulaires et à faire évoluer des solutions d’IA...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
 
 - **[FastBots.ai](https://www.aimyflow.com/fr/ai/fastbots-ai)**
   - FastBots.ai est un créateur de chatbots IA sans code qui aide les entreprises à créer et entraîner des chatbots de site web sur leur propre contenu afin de répondre aux questions, capturer des prospects et assister les...
@@ -3864,6 +4350,10 @@ _Vue compacte pour un balayage plus rapide._
   - Faysell est un générateur de vidéos publicitaires par IA qui aide les utilisateurs à transformer des images de produits ou des fiches e-commerce importées en courtes vidéos publicitaires avec des scripts et des...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Vendeur e-commerce, Créateur de contenu +1 de plus
 
+- **[Fazeshift](https://www.aimyflow.com/fr/ai/fazeshift-com)**
+  - Fazeshift est une plateforme de comptes clients basée sur l’IA qui automatise la facturation, l’imputation des encaissements, le recouvrement, la revue des contrats et les workflows de paiement pour les équipes...
+  - *Rôles adaptés:* Directeur financier, Responsable FP&A, Expert-comptable certifié, Analyste financier +1 de plus
+
 - **[Fefi](https://www.aimyflow.com/fr/ai/fefi-ai)**
   - Fefi est un tableau de bord financier alimenté par l’IA qui aide les utilisateurs à analyser les actions, surveiller les marchés, backtester des stratégies de trading, rechercher des sources financières fiables et...
   - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Directeur financier, Data scientist
@@ -3883,6 +4373,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[ferranfigueredo.com](https://www.aimyflow.com/fr/ai/f13o-com)**
   - ferranfigueredo.com est le site portfolio de Ferran Figueredo, un développeur de produits qui crée des produits numériques, des applications web et mobiles, des services technologiques et des solutions d’IA,...
   - *Rôles adaptés:* Ingénieur logiciel, PDG, Responsable développement logiciel, Créateur de contenu
+
+- **[Fetchr](https://www.aimyflow.com/fr/ai/fetchr-so)**
+  - Fetchr est une application d’achat personnel de vêtements basée sur l’IA qui aide les utilisateurs à décrire leur style et leurs besoins, puis laisse le service sélectionner des articles, les livrer pour essayage et...
+  - *Rôles adaptés:* Styliste, Vendeur e-commerce, Créateur de contenu
 
 - **[Ficra A.I.](https://www.aimyflow.com/fr/ai/ficra-ai)**
   - Ficra A.I. est un expert produit en IA et une source visuelle de vérité qui capture chaque parcours et chaque écran d’une application afin d’aider les équipes produit, support, QA, conformité et juridique à comprendre...
@@ -3932,9 +4426,17 @@ _Vue compacte pour un balayage plus rapide._
   - Finto automatise votre processus de facture à paiement avec des agents IA. De la réception de la facture à l'écriture comptable - aucun clic requis. Intègre avec SAP, DATEV et Business Central.
   - *Rôles adaptés:* Analyste financier, Expert-comptable certifié, Responsable fiscal d’entreprise, Responsable FP&A
 
+- **[Fintool](https://www.aimyflow.com/fr/ai/fintool-com)**
+  - Fintool est un agent d’IA pour la recherche actions qui aide les utilisateurs à trouver des idées d’investissement, à construire des modèles, à suivre le consensus et à créer des feuilles de calcul et des rapports mis...
+  - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille
+
 - **[Firebase Studio](https://www.aimyflow.com/fr/ai/firebase-studio)**
   - Firebase Studio est un espace de travail de développement full stack basé sur le Web, doté d’agents IA propulsés par Gemini, qui aide les développeurs à créer, prototyper, tester, déboguer et déployer des applications...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable PMO
+
+- **[Firebender](https://www.aimyflow.com/fr/ai/firebender-com)**
+  - Firebender est un agent de codage IA natif Android pour Android Studio qui aide les développeurs Android à créer des fonctionnalités, à générer des interfaces Jetpack Compose à partir de Figma, à tester dans...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Rédacteur technique
 
 - **[Fireflies.ai](https://www.aimyflow.com/fr/ai/fireflies-ai)**
   - Fireflies.ai est un assistant de réunion IA qui aide les équipes à transcrire, résumer et analyser les conversations sur les principales plateformes de visioconférence.
@@ -3948,6 +4450,10 @@ _Vue compacte pour un balayage plus rapide._
   - FirstResume est un outil de carrière et créateur de CV basé sur l’IA qui aide les candidats de la génération Z à adapter leurs CV, lettres de motivation, correspondances d’offres, suivi des candidatures et préparation...
   - *Rôles adaptés:* Responsable acquisition de talents, Conseiller d’orientation scolaire, Enseignant en collège communautaire, Professeur d’université +1 de plus
 
+- **[Firstwork](https://www.aimyflow.com/fr/ai/firstwork-com)**
+  - Firstwork est une plateforme d’opérations des effectifs basée sur l’IA qui aide les entreprises à recruter, intégrer, vérifier et gérer la conformité des travailleurs de première ligne, principalement pour les équipes...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Planificateur logistique, Administrateur de santé +1 de plus
+
 - **[Fitz HR](https://www.aimyflow.com/fr/ai/fitzhr-com)**
   - Fitz HR est un logiciel RH basé sur l’IA pour les entreprises australiennes de l’hôtellerie-restauration, qui aide les pubs, restaurants, cafés et hôtels à gérer les taux de rémunération prévus par les conventions, les...
   - *Rôles adaptés:* Responsable des relations sociales, Directeur de restaurant, Responsable acquisition de talents, Responsable d’agence +1 de plus
@@ -3959,6 +4465,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Fizzly AI](https://www.aimyflow.com/fr/ai/fizzly-ai)**
   - Fizzly AI est une plateforme de génération créative qui aide créateurs et marketeurs à produire des images, vidéos et personnages IA pour du contenu de marque.
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Responsables marketing et ventes, Consultant en technologies éducatives +3 de plus
+
+- **[Flair Technology Services Inc.](https://www.aimyflow.com/fr/ai/flairhealth-com)**
+  - Flair Technology Services Inc. est un service technologique bientôt disponible, avec accès au compte et abonnements aux mises à jour, destiné aux premiers utilisateurs qui souhaitent bénéficier d’un accès exclusif et...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Directeur des opérations, PDG
 
 - **[Flashback](https://www.aimyflow.com/fr/ai/flashbackstudy-com)**
   - Flashback est un partenaire d’étude basé sur l’IA qui aide les étudiants à transformer des supports de cours tels que des PDF, des vidéos YouTube, des pages Notion et du texte collé en cartes mémoire, quiz et sessions...
@@ -3976,17 +4486,21 @@ _Vue compacte pour un balayage plus rapide._
   - Flawless est une plateforme d’IA d’assistance pour le cinéma et la télévision qui aide les cinéastes et les équipes de post-production à localiser les dialogues, à modifier ou remplacer les dialogues, et à affiner les...
   - *Rôles adaptés:* Réalisateur indépendant, Producteur de podcast, Comédien voix, Créateur de contenu +1 de plus
 
+- **[FleetWorks](https://www.aimyflow.com/fr/ai/fleetworks-ai)**
+  - FleetWorks est une plateforme d’automatisation du fret alimentée par l’IA qui aide les transporteurs et les courtiers à trouver et réserver des chargements en appelant les courtiers, en négociant les tarifs et en...
+  - *Rôles adaptés:* Planificateur logistique, Directeur des opérations, Responsable d’agence, Responsable commercial terrain
+
 - **[FlexClip](https://www.aimyflow.com/fr/ai/flexclip-com-cn)**
   - FlexClip est un outil en ligne de montage et de création vidéo qui aide les utilisateurs à transformer des images, des clips, du texte et des modèles en vidéos finalisées grâce à des fonctionnalités d’IA, des...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
 
-- **[FliFlik Voice Changer](https://www.aimyflow.com/fr/ai/fliflik-com-voice-changer)**
-  - FliFlik Voice Changer est un outil de modification vocale pour ordinateur de bureau, disponible sur Windows et Mac, qui aide les utilisateurs à modifier leur voix en temps réel, à appliquer des effets de soundboard,...
-  - *Rôles adaptés:* Créateur de contenu, Producteur de podcast, Créateur de contenu réseaux sociaux, Tuteur en programmation en ligne +1 de plus
-
 - **[Fliki](https://www.aimyflow.com/fr/ai/fliki-ai)**
   - Fliki est un outil de création vidéo et de voix off par IA qui transforme du texte, des idées ou des diapositives en vidéos avec des voix réalistes, des clips et des miniatures, principalement destiné aux créateurs de...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Conseiller d’orientation scolaire, Consultant en technologies éducatives +1 de plus
+
+- **[Flint](https://www.aimyflow.com/fr/ai/flintk12-com)**
+  - Flint est une plateforme d’IA conçue pour les établissements scolaires qui aide les enseignants à personnaliser l’apprentissage grâce à la planification des cours, à l’analyse de la classe, au feedback instantané et à...
+  - *Rôles adaptés:* Consultant en technologies éducatives, Conseiller d’orientation scolaire, Enseignant, Professeur d’université +1 de plus
 
 - **[Flipped.Chat](https://www.aimyflow.com/fr/ai/flipped-chat)**
   - Flipped.Chat est une plateforme de chatbot de personnages IA qui permet aux utilisateurs de discuter avec des personnages textuels, visuels et vocaux, d’en découvrir et d’en créer, principalement destinée aux personnes...
@@ -4016,6 +4530,14 @@ _Vue compacte pour un balayage plus rapide._
   - FlowGPT est une place de marché de jeux de rôle de personnages IA et de prompts qui aide les utilisateurs à trouver, utiliser et discuter avec des personnages IA et des prompts ChatGPT, principalement pour les...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Ingénieur logiciel, Enseignant
 
+- **[Flowise](https://www.aimyflow.com/fr/ai/flowiseai-com)**
+  - Flowise est une plateforme de développement visuel open source permettant de créer des agents IA, des chatbots et des workflows multi-agents avec orchestration de LLM, RAG, API et options de déploiement, principalement...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO +1 de plus
+
+- **[Floworks AI](https://www.aimyflow.com/fr/ai/floworks-ai)**
+  - Floworks AI est une plateforme d’agents IA autonomes pour la prospection commerciale B2B, qui aide les équipes commerciales et go-to-market à identifier des prospects, personnaliser les e-mails et la prospection sur...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
+
 - **[FlowPost](https://www.aimyflow.com/fr/ai/flowpost-ai)**
   - FlowPost est un outil de publication sur les réseaux sociaux alimenté par l’IA qui aide les créateurs, les entreprises et les agences à créer, planifier, publier et gérer du contenu sur plusieurs plateformes tout en...
   - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, PDG +1 de plus
@@ -4032,6 +4554,10 @@ _Vue compacte pour un balayage plus rapide._
   - Floyo est une plateforme basée sur navigateur permettant de découvrir, d’exécuter et de créer des workflows IA ComfyUI sans configuration, principalement destinée aux créateurs, aux équipes et aux entreprises...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Directeur marketing digital, Ingénieur logiciel +1 de plus
 
+- **[Fluently](https://www.aimyflow.com/fr/ai/getfluently-app)**
+  - Fluently est un tuteur personnel d’anglais basé sur l’IA qui aide les apprenants à améliorer leurs compétences orales grâce à une pratique en temps réel, une évaluation du niveau et des retours sur la prononciation, la...
+  - *Rôles adaptés:* Tuteur en programmation en ligne, Tuteur de préparation aux examens, Coach en leadership d’entreprise, Responsable commercial terrain +1 de plus
+
 - **[Fluidize](https://www.aimyflow.com/fr/ai/fluidize-ai)**
   - Fluidize est une plateforme d’IA pour le calcul scientifique qui aide les scientifiques et les ingénieurs à accélérer la R&D en exécutant des simulations et des expériences, et en automatisant la configuration,...
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Ingénieur mécanique, Ingénieur électricien +1 de plus
@@ -4039,10 +4565,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Fluidwave](https://www.aimyflow.com/fr/ai/onetask-me)**
   - Fluidwave est un outil de gestion des tâches alimenté par l’IA qui aide les utilisateurs à créer, organiser, prioriser et décomposer le travail, principalement pour les professionnels occupés et les équipes qui ont...
   - *Rôles adaptés:* Responsable PMO, PDG, Directeur marketing digital, Responsable développement logiciel +1 de plus
-
-- **[Flux 1 AI](https://www.aimyflow.com/fr/ai/flux-1-ai)**
-  - Flux 1 AI est un générateur d’images en ligne gratuit permettant de créer des images de haute qualité à partir d’invites textuelles, principalement destiné aux designers, artistes et développeurs explorant le modèle...
-  - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Directeur marketing digital, Créateur de contenu +1 de plus
 
 - **[Flux AI](https://www.aimyflow.com/fr/ai/flux-ai-io)**
   - Flux AI est une plateforme en ligne de génération d’images qui aide designers, artistes et créateurs de contenu à créer des visuels à partir de prompts avec plusieurs variantes de modèles Flux.
@@ -4100,6 +4622,10 @@ _Vue compacte pour un balayage plus rapide._
   - ForA.Chat est une plateforme de chatbot qui permet aux utilisateurs de discuter avec des bots de personnalité basés sur GPT-3 ou de créer gratuitement un chatbot personnel sur un sous-domaine ForA.Chat personnalisé,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital +1 de plus
 
+- **[Forge](https://www.aimyflow.com/fr/ai/forgehq-com)**
+  - Forge est un service et une plateforme de drawback de droits qui aide les importateurs et exportateurs américains, les marques DTC, les grossistes et les fabricants à récupérer des remboursements de tarifs et de droits...
+  - *Rôles adaptés:* Planificateur logistique, Analyste financier, Directeur financier, Directeur des opérations +1 de plus
+
 - **[Formably](https://www.aimyflow.com/fr/ai/formably-io)**
   - Formably est un backend de formulaires alimenté par l’IA qui aide les équipes modernes à transformer des soumissions de formulaires de site web désordonnées en données structurées, à filtrer le spam et à acheminer des...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable PMO, Directeur des opérations +1 de plus
@@ -4144,10 +4670,6 @@ _Vue compacte pour un balayage plus rapide._
   - Frase est une plateforme SEO et GEO agentique qui analyse les concurrents, aide à créer et à optimiser le contenu, et suit la visibilité sur Google et les outils de recherche par IA, principalement pour les...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Rédacteur technique +1 de plus
 
-- **[Free AI Video & Image Upscaler](https://www.aimyflow.com/fr/ai/free-upscaler-video)**
-  - L’outil gratuit d’amélioration de vidéos et d’images par IA est un outil open source basé sur le navigateur qui aide les utilisateurs à améliorer la résolution de vidéos et d’images en toute confidentialité, sans...
-  - *Rôles adaptés:* Créateur de contenu, Graphiste, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
-
 - **[Free Image Generator](https://www.aimyflow.com/fr/ai/freeimagegenerator-app)**
   - Free Image Generator est un outil de création d’images par IA qui transforme des invites textuelles en plusieurs images haute résolution avec des formats ajustables et des options simples d’image à image,...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
@@ -4183,6 +4705,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Fridge Leftovers AI](https://www.aimyflow.com/fr/ai/fridgeleftoversai-com)**
   - Fridge Leftovers AI est un générateur d’idées de repas qui aide les cuisiniers à domicile à transformer les ingrédients disponibles en suggestions de recettes et à réduire le gaspillage alimentaire.
   - *Rôles adaptés:* Passionné de gastronomie
+
+- **[Frigade](https://www.aimyflow.com/fr/ai/frigade-com)**
+  - Frigade est une plateforme d’adoption produit alimentée par l’IA qui apprend le fonctionnement d’un logiciel et aide les équipes produit à intégrer les utilisateurs, à guider la découverte des fonctionnalités, à...
+  - *Rôles adaptés:* Responsable développement logiciel, Directeur marketing digital, Responsable PMO, Créateur de contenu +1 de plus
 
 - **[Frizzle](https://www.aimyflow.com/fr/ai/frizzle-com)**
   - Frizzle est un outil de correction de mathématiques alimenté par l’IA qui aide les enseignants à corriger plus rapidement les devoirs manuscrits ou saisis au clavier et à fournir un retour étape par étape fondé sur le...
@@ -4392,6 +4918,10 @@ _Vue compacte pour un balayage plus rapide._
   - Ghostwall est un logiciel de détection de fraude publicitaire et de protection contre la fraude au clic qui aide les annonceurs et les équipes de marketing à la performance à détecter le trafic de bots, bloquer les...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Analyste financier, Ingénieur logiciel +1 de plus
 
+- **[Giga](https://www.aimyflow.com/fr/ai/giga-ai)**
+  - Giga est une plateforme d’agents IA pour les entreprises qui aide les équipes de support à automatiser des workflows complexes de service client sur le chat, la voix et les interactions navigateur, principalement pour...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO
+
 - **[Giiso Writing Robot](https://www.aimyflow.com/fr/ai/giiso-com)**
   - Giiso Writing Robot est un outil de création de contenu assisté par IA qui aide les utilisateurs à rédiger et à réviser des articles d’actualité, des textes pour Xiaohongshu et Douyin, du contenu marketing, des...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur technique +1 de plus
@@ -4414,10 +4944,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Gitfluence.com](https://www.aimyflow.com/fr/ai/gitfluence-com)**
   - Gitfluence.com est actuellement inaccessible parce que son serveur d’origine possède un certificat SSL invalide ; il est donc impossible de vérifier l’outil du site et ses utilisateurs visés à partir du contenu de la...
 
-- **[GitHub Copilot SDK](https://www.aimyflow.com/fr/ai/github-com-github-copilot-sdk)**
-  - Le SDK GitHub Copilot est un kit de développement logiciel multiplateforme permettant d’intégrer l’agent GitHub Copilot dans des applications et des services, aidant les développeurs à intégrer des workflows...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
-
 - **[GitHub Spark](https://www.aimyflow.com/fr/ai/githubnext-com-projects-github-spark)**
   - GitHub Spark est un outil alimenté par l’IA de GitHub Next permettant de créer, personnaliser et partager des micro-applications personnalisées via le langage naturel, avec un environnement d’exécution entièrement...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Consultant en technologies éducatives
@@ -4438,6 +4964,10 @@ _Vue compacte pour un balayage plus rapide._
   - Giz AI for News Summary est un agrégateur d’actualités IA gratuit, sans inscription, qui permet aux utilisateurs de saisir des mots-clés, de choisir des sources comme Google News, YouTube et Reddit, et de générer des...
   - *Rôles adaptés:* Analyste financier, Rédacteur publicitaire, Directeur marketing digital, Responsable PMO +1 de plus
 
+- **[Glade](https://www.aimyflow.com/fr/ai/gladestudio-ai)**
+  - Glade est une plateforme de développement de jeux basée sur l’IA, comprenant GladeKit, un agent d’IA qui transforme des idées en mondes jouables dans un moteur de jeu, et GladeCore, un petit modèle de langage embarqué...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, Créateur de contenu
+
 - **[Glambase](https://www.aimyflow.com/fr/ai/glambase-app)**
   - Glambase est une plateforme de création d’influenceurs IA et un générateur de personas virtuels qui aide les utilisateurs à créer, personnaliser et monétiser des personnages pilotés par l’IA avec des interactions...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu, Rédacteur publicitaire +1 de plus
@@ -4454,6 +4984,10 @@ _Vue compacte pour un balayage plus rapide._
   - Glaze de Raycast est un générateur d’applications Mac local-first alimenté par l’IA qui permet aux utilisateurs de créer des applications de bureau en langage naturel, principalement pour les équipes qui développent...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO, Ingénieur logiciel +1 de plus
 
+- **[Gleam](https://www.aimyflow.com/fr/ai/joingleam-com)**
+  - Gleam est une extension de navigateur qui aide les équipes des sites de recherche clinique à transférer plus rapidement les données depuis n’importe quelle source ou source électronique (eSource) vers les formulaires...
+  - *Rôles adaptés:* Administrateur de santé, Responsable PMO, Technicien de laboratoire médical
+
 - **[Glean](https://www.aimyflow.com/fr/ai/glean-com-about)**
   - Glean est une plateforme de recherche d’entreprise et d’IA pour le travail, propulsée par l’IA, qui aide les employés à trouver des réponses, générer du contenu et automatiser les flux de travail à travers les...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Directeur marketing digital, Responsable commercial terrain +1 de plus
@@ -4469,10 +5003,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Glm Image on VFast AI](https://www.aimyflow.com/fr/ai/vfast-ai-ai-image-generation)**
   - Glm Image sur VFast AI est un outil de génération d’images par IA qui aide les utilisateurs à créer des images à partir d’invites textuelles, avec des formats d’image et des quantités de sortie sélectionnables,...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
-
-- **[GLM-Image](https://www.aimyflow.com/fr/ai/github-com-zai-org-GLM-Image)**
-  - GLM-Image est un modèle de génération d’images open source et un dépôt GitHub qui aide les développeurs et les chercheurs en IA à créer des résultats texte-vers-image et image-vers-image de haute fidélité, en...
-  - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Graphiste, Responsable développement logiciel +1 de plus
 
 - **[GLM-Image](https://www.aimyflow.com/fr/ai/glmimage-pro)**
   - GLM-Image est un générateur d’images IA qui aide à créer des visuels haute résolution à partir de prompts texte ou image pour affiches, anime et design produit.
@@ -4544,13 +5074,13 @@ _Vue compacte pour un balayage plus rapide._
   - Google NotebookLM est un outil de recherche et de prise de notes basé sur l’IA qui permet aux utilisateurs de téléverser des sources fiables, d’obtenir des résumés, de poser des questions avec citations et de générer...
   - *Rôles adaptés:* Professeur d’université, Data scientist, Analyste financier, Rédacteur technique +1 de plus
 
-- **[Google Production Toolkit](https://www.aimyflow.com/fr/ai/productokit-com)**
-  - Google Production Toolkit est une suite d’outils Google Ads et Workspace axée sur la confidentialité, qui aide les spécialistes du marketing, les équipes de contenu, les analystes et les professionnels de la conformité...
-  - *Rôles adaptés:* Directeur marketing digital, Analyste financier, Analyste cybersécurité, Créateur de contenu +1 de plus
-
 - **[google-research/frame-interpolation](https://www.aimyflow.com/fr/ai/replicate-com-google-research-frame-interpolation)**
   - google-research/frame-interpolation est un modèle d’API Replicate permettant de générer des images intermédiaires entre deux images d’entrée, aidant les utilisateurs à créer des séquences de mouvement plus fluides et...
   - *Rôles adaptés:* Ingénieur logiciel, Réalisateur indépendant, Graphiste, Créateur de contenu +1 de plus
+
+- **[Gooseworks](https://www.aimyflow.com/fr/ai/gooseworks-ai)**
+  - Gooseworks est un espace de travail IA pour le go-to-market qui aide les équipes à créer et à orchestrer des workflows GTM reproductibles, tels que le SEO, les campagnes de prospection, la veille concurrentielle et...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable des ventes e-commerce, Responsable PMO +1 de plus
 
 - **[Gordon](https://www.aimyflow.com/fr/ai/meetgordon-com)**
   - Gordon est un agent de levée de fonds basé sur l’IA destiné aux fondateurs de startups en pré-amorçage, qui les aide à comprendre la levée de fonds en capital-risque, à élaborer un plan de levée de fonds personnalisé,...
@@ -4559,6 +5089,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[GPT Proto](https://www.aimyflow.com/fr/ai/gptproto-com)**
   - GPT Proto est une plateforme d’API unifiée qui permet aux développeurs et aux entreprises d’accéder à plusieurs modèles d’IA et outils créatifs, les aidant à intégrer la génération de texte, d’images et de vidéos sans...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Directeur des opérations
+
+- **[GPT-Migrate](https://www.aimyflow.com/fr/ai/gpt-migrate-com)**
+  - GPT-Migrate est un service de migration de code qui aide les utilisateurs à déplacer des bases de code complexes d’un langage ou d’un framework à un autre, principalement pour les équipes et les développeurs chargés de...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
 
 - **[GPT-trainer](https://www.aimyflow.com/fr/ai/gpt-trainer-com)**
   - GPT-trainer est une plateforme d’agents IA d’entreprise qui aide les entreprises à créer et déployer des agents vocaux et textuels pour le support client, la qualification des prospects, l’assistance interne et...
@@ -4620,6 +5154,10 @@ _Vue compacte pour un balayage plus rapide._
   - Graspeo est un générateur de quiz IA qui transforme des notes, des PDF, des images et du texte en quiz d’entraînement et tests modifiables, principalement destinés aux enseignants, aux étudiants, aux formateurs et aux...
   - *Rôles adaptés:* Consultant en technologies éducatives, Professeur d’université, Enseignant en collège communautaire, Formateur en lycée professionnel +1 de plus
 
+- **[Greenboard](https://www.aimyflow.com/fr/ai/greenboard-com)**
+  - Greenboard est un système d’exploitation de conformité destiné aux institutions financières réglementées par la SEC et la FINRA, qui aide les équipes à gérer l’archivage des communications ainsi que la conformité des...
+  - *Rôles adaptés:* Analyste des risques, Analyste financier, PDG, Directeur financier
+
 - **[Greenbot’s Free Rizz AI Generator](https://www.aimyflow.com/fr/ai/greenbot-com-rizz-ai-generator)**
   - Le générateur gratuit de rizz par IA de Greenbot est un outil de rédaction par IA qui aide les utilisateurs à créer des réponses et des phrases de drague flirtantes, ingénieuses ou adaptées au ton à partir du contexte...
   - *Rôles adaptés:* Créateur de contenu, Rédacteur publicitaire, Créateur de contenu réseaux sociaux
@@ -4627,6 +5165,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[GreenPT](https://www.aimyflow.com/fr/ai/greenpt-ai)**
   - GreenPT est une plateforme de chat GPT et une API hébergées en Europe, respectueuses de la vie privée, qui aident les gouvernements, les entreprises, les organisations soucieuses de la confidentialité et les...
   - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur logiciel, Responsable cybersécurité, Responsable développement logiciel +1 de plus
+
+- **[Greptile](https://www.aimyflow.com/fr/ai/greptile-com)**
+  - Greptile est un outil de revue de code par IA qui examine automatiquement les pull requests GitHub et GitLab avec le contexte complet du codebase, ajoute des commentaires en ligne et génère des résumés de PR,...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
 
 - **[Grizzly AI](https://www.aimyflow.com/fr/ai/grizzly-ai)**
   - Grizzly AI est un outil IA de rédaction de rapports qui aide les professionnels à générer des rapports à partir de fichiers source tout en respectant leur style d’écriture préféré.
@@ -4648,6 +5190,10 @@ _Vue compacte pour un balayage plus rapide._
   - Guidde est une plateforme de documentation vidéo basée sur l’IA qui capture les flux de travail et les transforme en tutoriels étape par étape avec scripts, voix off, sous-titres et partage intégré à l’application,...
   - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, Responsable infrastructure IT, Consultant en technologies éducatives +1 de plus
 
+- **[Gumloop](https://www.aimyflow.com/fr/ai/gumloop-com)**
+  - Gumloop est un framework d’automatisation IA no-code permettant de créer et d’héberger des automatisations métier et des agents spécialisés, principalement pour les équipes des opérations, des ventes, du support et des...
+  - *Rôles adaptés:* Responsable PMO, Responsable commercial terrain, Analyste financier, Responsable développement logiciel +1 de plus
+
 - **[GuruTrans](https://www.aimyflow.com/fr/ai/gurutrans-app)**
   - GuruTrans est un outil gratuit de traduction par IA pour plus de 100 langues et formats linguistiques spécialisés, aidant les utilisateurs à traduire en ligne des textes standards, historiques, argotiques, de code et...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Enseignant, Rédacteur technique +1 de plus
@@ -4655,6 +5201,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[H3LLO](https://www.aimyflow.com/fr/ai/h3llo-app)**
   - H3LLO est un assistant de communication basé sur l’IA qui aide les utilisateurs à générer des réponses spirituelles, intelligentes ou audacieuses à partir de captures d’écran de chats ou d’e-mails, principalement pour...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu, Responsable commercial terrain, PDG +1 de plus
+
+- **[Hadrius](https://www.aimyflow.com/fr/ai/hadrius-com)**
+  - Hadrius est une plateforme de conformité native de l’IA qui aide les sociétés financières à centraliser et automatiser les opérations de conformité SEC et FINRA, telles que la revue marketing, la surveillance des...
+  - *Rôles adaptés:* Analyste financier, PDG, Analyste des risques, Rédacteur publicitaire
 
 - **[Haimeta Agent](https://www.aimyflow.com/fr/ai/haimeta-com-agent)**
   - Haimeta Agent est une plateforme de création de contenu par IA qui aide les utilisateurs à transformer des idées créatives en images, vidéos et ressources 3D grâce à des outils de conception guidée et à la génération...
@@ -4681,6 +5231,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Handit.ai](https://www.aimyflow.com/fr/ai/handit-ai)**
   - Handit.ai est un moteur d’optimisation open source qui évalue les décisions des agents IA, génère de meilleurs prompts et jeux de données, et teste les changements en A/B pour les équipes qui créent et exploitent des...
   - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Analyste cybersécurité, Data scientist +10 de plus
+
+- **[Handled](https://www.aimyflow.com/fr/ai/itshandled-ai)**
+  - Handled est une plateforme d’automatisation des opérations par IA pour les marques e-commerce et les 3PL, qui apprend les flux de travail des équipes afin d’exécuter le traitement des commandes, le suivi des...
+  - *Rôles adaptés:* Planificateur logistique, Responsable des ventes e-commerce, Superviseur des opérations d’usine, Analyste financier +1 de plus
+
+- **[Happenstance](https://www.aimyflow.com/fr/ai/happenstance-ai)**
+  - Happenstance est un outil de recherche de réseau alimenté par l’IA qui aide les utilisateurs à trouver des mises en relation chaleureuses, des connexions mutuelles et des personnes pertinentes dans leurs contacts et...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable acquisition de talents, PDG, Responsable PMO +1 de plus
 
 - **[HAPPYBET188](https://www.aimyflow.com/fr/ai/magician-design)**
   - HAPPYBET188 est une plateforme de jeux d’argent en ligne qui permet aux utilisateurs de jouer aux machines à sous, au casino en direct, aux paris sportifs, au togel, au poker et à d’autres jeux, principalement destinée...
@@ -4721,6 +5279,18 @@ _Vue compacte pour un balayage plus rapide._
   - Hathr.ai est un outil d’IA conforme à la HIPAA pour le secteur de la santé qui aide les professionnels à résumer des informations, analyser de longs documents, générer des lettres et automatiser les flux de travail...
   - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Médecin généraliste, Avocat +1 de plus
 
+- **[Haven AI](https://www.aimyflow.com/fr/ai/usehaven-ai)**
+  - Haven AI est une plateforme d’IA pour les équipes de gestion immobilière qui leur permet d’entraîner et de gérer des agents d’IA personnalisés afin de prendre en charge des tâches répétitives telles que les demandes de...
+  - *Rôles adaptés:* Responsable d’agence, Directeur des opérations, Responsable PMO, Directeur de restaurant +1 de plus
+
+- **[Haystack](https://www.aimyflow.com/fr/ai/haystackeditor-com)**
+  - Haystack est un outil de revue de code alimenté par l’IA qui aide les utilisateurs à comprendre rapidement les pull requests grâce à des résumés guidés, un ordonnancement logique des changements et une exploration via...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
+
+- **[Hazel AI](https://www.aimyflow.com/fr/ai/hazelai-com)**
+  - Hazel AI est un logiciel de passation des marchés publics qui utilise l’IA pour aider les organismes publics à rédiger des appels d’offres RFx, identifier des fournisseurs certifiés et évaluer les réponses, tout en...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable d’agence, Responsable de programme associatif
+
 - **[HeadshotBook](https://www.aimyflow.com/fr/ai/headshotbook-com)**
   - HeadshotBook est un générateur de portraits professionnels par IA qui transforme quelques selfies téléchargés en portraits professionnels de style studio pour LinkedIn, les CV, les présentations, les photos d’équipe et...
   - *Rôles adaptés:* Responsable acquisition de talents, PDG, Directeur marketing digital, Responsable commercial terrain +1 de plus
@@ -4733,6 +5303,10 @@ _Vue compacte pour un balayage plus rapide._
   - Healing Journey est une plateforme de thérapie par IA qui aide les personnes à parler de leurs émotions et à obtenir un soutien en santé mentale grâce à des conversations chiffrées de bout en bout et sans jugement,...
   - *Rôles adaptés:* Conseiller d’orientation scolaire, Coach bien-être, Administrateur de santé
 
+- **[Health Harbor](https://www.aimyflow.com/fr/ai/healthharbor-co)**
+  - Health Harbor est un outil d’IA qui gère les appels liés à l’assurance santé pour les vérifications de prestations, les autorisations préalables et le suivi du statut des demandes de remboursement, principalement pour...
+  - *Rôles adaptés:* Agent de facturation médicale, Administrateur de santé, Spécialiste en santé au travail, Directeur des opérations +1 de plus
+
 - **[Hedy AI](https://www.aimyflow.com/fr/ai/hedy-bot)**
   - Hedy AI est un coach conversationnel en temps réel qui écoute pendant les réunions, les entretiens, les cours et les présentations afin de fournir en direct des analyses, des questions suggérées, des résumés et des...
   - *Rôles adaptés:* Responsable acquisition de talents, Reporter TV, PDG, Responsable PMO +1 de plus
@@ -4741,9 +5315,21 @@ _Vue compacte pour un balayage plus rapide._
   - Heliopolis Biotech est une entreprise de conception de protéines et d’anticorps qui utilise des algorithmes computationnels et une caractérisation expérimentale pour aider les équipes de biotechnologie et de découverte...
   - *Rôles adaptés:* Biologiste moléculaire, Microbiologiste, Data scientist, Responsable PMO +1 de plus
 
+- **[Helios](https://www.aimyflow.com/fr/ai/usehelios-ai)**
+  - Helios est une plateforme d’agents vocaux IA qui aide les organisations à automatiser à grande échelle les conversations commerciales et opérationnelles, principalement pour les équipes des institutions financières...
+  - *Rôles adaptés:* Directeur des opérations, Responsable commercial terrain, Planificateur logistique, Responsable d’agence +1 de plus
+
+- **[Henry](https://www.aimyflow.com/fr/ai/henry-ai)**
+  - Henry est une plateforme alimentée par l’IA qui transforme en quelques minutes les données d’underwriting immobilier commercial, les comparables et les notes en présentations d’opérations et supports marketing soignés...
+  - *Rôles adaptés:* Agent immobilier, Créateur de contenu, Vendeur e-commerce
+
 - **[HeraHaven](https://www.aimyflow.com/fr/ai/herahaven-com)**
   - HeraHaven est une application de petite amie IA réservée aux adultes qui permet aux utilisateurs de créer des compagnons virtuels personnalisables pour le chat et des images générées par IA, principalement destinée aux...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux
+
+- **[HeroUI v3, previously NextUI,](https://www.aimyflow.com/fr/ai/heroui-com)**
+  - HeroUI v3, anciennement NextUI, est une bibliothèque UI open source pour le web et le mobile qui fournit des composants et des thèmes personnalisables afin d’aider les développeurs et les équipes produit à créer plus...
+  - *Rôles adaptés:* Ingénieur logiciel, Graphiste, Responsable développement logiciel, Rédacteur technique
 
 - **[HeyFish.ai](https://www.aimyflow.com/fr/ai/heyfish-ai)**
   - HeyFish.ai est un générateur de vidéos publicitaires UGC par IA qui aide les marques e-commerce, les marketeurs et les agences à créer de courtes vidéos produit avec des acteurs numériques, des avatars tenant des...
@@ -4788,9 +5374,17 @@ _Vue compacte pour un balayage plus rapide._
   - hilm.ai est un assistant IA de finances personnelles qui aide les utilisateurs à suivre leurs dépenses, analyser leurs habitudes de consommation et gérer leur argent via du texte, des notes vocales ou des photos de...
   - *Rôles adaptés:* Analyste financier, Responsable FP&A, Coach bien-être, Créateur de contenu
 
+- **[Hindsight](https://www.aimyflow.com/fr/ai/usehindsight-com)**
+  - Hindsight est une plateforme d’intelligence win-loss qui interroge automatiquement les acheteurs après la conclusion des affaires, vérifie les véritables raisons pour lesquelles les affaires ont été gagnées ou perdues,...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, Responsable PMO +1 de plus
+
 - **[HintGo](https://www.aimyflow.com/fr/ai/hintgo-ai)**
   - HintGo est une plateforme de retour client alimentée par l’IA qui mène des conversations d’enquête adaptatives afin de révéler les raisons derrière les réponses de type NPS, CSAT et d’adéquation produit-marché,...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, PDG, Ingénieur logiciel +1 de plus
+
+- **[Hippo Scribe](https://www.aimyflow.com/fr/ai/gethipposcribe-com)**
+  - Hippo Scribe est un outil de documentation clinique assisté par IA qui enregistre les consultations des patients ou la dictée, génère des notes en environ 30 secondes et prend en charge la synchronisation avec des DME...
+  - *Rôles adaptés:* Assistant en kinésithérapie, Administrateur de santé, Aide à domicile, Spécialiste en santé au travail +1 de plus
 
 - **[Hireable Headshots](https://www.aimyflow.com/fr/ai/hireableheadshots-com)**
   - Hireable Headshots est un générateur de portraits professionnels par IA qui transforme quelques photos ordinaires en portraits propres, réalistes et adaptés à LinkedIn pour les chercheurs d’emploi et les professionnels...
@@ -4819,10 +5413,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Homebuyersmath](https://www.aimyflow.com/fr/ai/homebuyersmath-com)**
   - Homebuyersmath est un outil d’analyse des inspections immobilières alimenté par l’IA qui aide les primo-accédants à comprendre les coûts de réparation, les signaux d’alerte dans les déclarations, l’état des systèmes et...
   - *Rôles adaptés:* Agent immobilier, Analyste financier
-
-- **[Homepage](https://www.aimyflow.com/fr/ai/kubit-ai)**
-  - Analytiques natives d'entrepôt qui interrogent directement Snowflake, Databricks, BigQuery et ClickHouse. Aperçus en temps réel, gérés avec une intelligence artificielle explicative.
-  - *Rôles adaptés:* Ingénieur data, Data scientist, Directeur marketing digital, Analyste financier +1 de plus
 
 - **[Honen](https://www.aimyflow.com/fr/ai/honen-com)**
   - Honen est une plateforme d’apprentissage alimentée par l’IA qui aide les apprenants et les organisations à créer ou suivre des cours multiformats sur n’importe quel sujet, avec un tuteur IA personnel qui adapte les...
@@ -4966,6 +5556,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[iGPT](https://www.aimyflow.com/fr/ai/igpt-ai)**
   - iGPT est un moteur de contexte IA et une API pour développeurs qui transforment les fils d’e-mails d’entreprise, les pièces jointes et les connaissances en contexte exploitable pour le raisonnement par des agents, des...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
+
+- **[Iliad](https://www.aimyflow.com/fr/ai/iliad-ai)**
+  - Iliad est un moteur de matériaux procéduraux basé sur des nœuds, doté d’un assistant IA qui aide les utilisateurs à créer, à partir de références, des textures sans raccord modifiables et des cartes de matériaux PBR,...
+  - *Rôles adaptés:* Graphiste, Designer industriel, Réalisateur indépendant, Créateur de contenu +1 de plus
 
 - **[illumi](https://www.aimyflow.com/fr/ai/illumi-one)**
   - illumi est un canevas et tableau blanc IA multijoueur qui aide les équipes à rassembler le contexte, à brainstormer, à aligner les décisions et à co-créer des livrables avec plusieurs modèles d’IA dans un espace de...
@@ -5111,13 +5705,17 @@ _Vue compacte pour un balayage plus rapide._
   - in3D est une plateforme de création d’avatars et un SDK qui transforment des personnes en avatars 3D réalistes, personnalisables et en pied à partir d’une caméra de téléphone en environ une minute, principalement pour...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Graphiste, Designer industriel +1 de plus
 
+- **[Inari](https://www.aimyflow.com/fr/ai/useinari-com)**
+  - Inari est une plateforme d’analyse des retours clients et de gestion du backlog produit, conçue nativement pour l’IA, qui aide les équipes produit, les chercheurs et les équipes orientées client à transformer les...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Responsable commercial terrain, PDG +1 de plus
+
 - **[IncidentFox](https://www.aimyflow.com/fr/ai/incidentfox-ai)**
   - IncidentFox est un outil SRE basé sur l’IA qui enquête sur les incidents de production dans Slack, analyse les bases de code et les incidents passés, et propose ou exécute des correctifs approuvés pour les équipes...
   - *Rôles adaptés:* Responsable infrastructure IT, Responsable développement logiciel, Analyste cybersécurité, Ingénieur logiciel +1 de plus
 
-- **[Incredible](https://www.aimyflow.com/fr/ai/incredible-one)**
-  - Incredible est un assistant bureautique IA toujours actif pour Mac et Windows qui permet aux utilisateurs de dicter pour rédiger, modifier, traduire et remplir du contenu directement dans n’importe quelle application,...
-  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable infrastructure IT, Responsable développement logiciel +1 de plus
+- **[Inconvo](https://www.aimyflow.com/fr/ai/inconvo-com)**
+  - Inconvo est une plateforme développeur open source permettant de créer des agents conversationnels orientés client qui interrogent en toute sécurité des bases de données SQL de production via une couche sémantique, des...
+  - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
 
 - **[IndieGTM](https://www.aimyflow.com/fr/ai/indiegtm-com)**
   - IndieGTM est un outil d’IA de GTM vidéo et de campagnes de contenu qui aide les fondateurs et les équipes réduites à transformer une idée textuelle, une URL ou un sujet en plans de vidéos courtes et de publications...
@@ -5134,14 +5732,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[InfiniteTalk AI](https://www.aimyflow.com/fr/ai/infinitetalk-co)**
   - InfiniteTalk AI est un générateur vidéo par IA qui transforme une image unique ou une vidéo existante, accompagnée d’un audio, en vidéos parlantes avec synchronisation labiale et en contenus doublés, principalement...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Créateur de contenu réseaux sociaux, Enseignant +1 de plus
-
-- **[InfiniteTalk AI](https://www.aimyflow.com/fr/ai/infinitetalkai-com)**
-  - InfiniteTalk AI est un outil de synchronisation labiale et de doublage vidéo piloté par l’audio, qui génère des vidéos parlantes à partir d’une vidéo ou d’une image en entrée associée à un audio. Il aide les créateurs...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Producteur de podcast, Rédacteur publicitaire +1 de plus
-
-- **[Inflection AI](https://www.aimyflow.com/fr/ai/inflection-ai)**
-  - Inflection AI développe Pi, une IA personnelle conçue pour offrir aux particuliers des interactions centrées sur l’humain et dotées d’une intelligence émotionnelle, tout en positionnant une IA émotionnellement...
-  - *Rôles adaptés:* Coach bien-être, Coach en leadership d’entreprise, Responsable des relations sociales, Conseiller d’orientation scolaire +1 de plus
 
 - **[Infographic.Ninja](https://www.aimyflow.com/fr/ai/outline-ninja)**
   - Infographic.Ninja est un générateur d’infographies par IA qui transforme un mot-clé ou un article en une infographie de marque à l’aide de modèles et d’une personnalisation de base, principalement pour les enseignants,...
@@ -5175,6 +5765,14 @@ _Vue compacte pour un balayage plus rapide._
   - Inkr est un outil de transcription audio et vidéo qui aide les utilisateurs à créer des transcriptions et des notes précises et consultables à partir d’enregistrements, principalement pour les étudiants, les équipes...
   - *Rôles adaptés:* Reporter TV, Avocat, Rédacteur technique, Conseiller d’orientation scolaire +1 de plus
 
+- **[Inlet](https://www.aimyflow.com/fr/ai/inletai-com)**
+  - Inlet est un outil de suivi du temps basé sur l’IA pour les cabinets d’avocats, qui capture le travail effectué dans les applications de bureau et rédige des entrées de temps facturables, principalement pour les...
+  - *Rôles adaptés:* Avocat, PDG, Directeur des opérations, Responsable infrastructure IT +1 de plus
+
+- **[InQuery](https://www.aimyflow.com/fr/ai/inquery-ai)**
+  - InQuery est une plateforme d’examen de dossiers médicaux par IA qui aide les équipes à transformer de vastes ensembles de dossiers désordonnés en résumés structurés, chronologies et faits clés pour la préparation des...
+  - *Rôles adaptés:* Avocat, Administrateur de santé, Analyste des risques
+
 - **[insMind](https://www.aimyflow.com/fr/ai/insmind-com)**
   - insMind est une plateforme de création et de retouche d’images et de vidéos par IA qui aide les utilisateurs à générer des visuels à partir de texte ou de photos, à supprimer ou remplacer des arrière-plans et des...
   - *Rôles adaptés:* Graphiste, Créateur de contenu réseaux sociaux, Directeur marketing digital, Vendeur e-commerce +1 de plus
@@ -5182,6 +5780,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[insMind AI Image Generator](https://www.aimyflow.com/fr/ai/insmind-com-ai-image-generator)**
   - insMind AI Image Generator est un outil en ligne qui permet aux utilisateurs de générer, modifier et améliorer des images à partir de texte ou d’images de référence à l’aide de plusieurs modèles et styles d’IA pour...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
+
+- **[InspectMind](https://www.aimyflow.com/fr/ai/inspectmind-ai)**
+  - InspectMind est une plateforme d’assurance qualité/contrôle qualité de la construction et de vérification de plans basée sur l’IA, qui examine automatiquement les PDF de projet (plans, spécifications, codes et normes...
+  - *Rôles adaptés:* Ingénieur civil, Architecte commercial, Architecte résidentiel, Ingénieur mécanique +1 de plus
 
 - **[Inspector](https://www.aimyflow.com/fr/ai/tryinspector-com)**
   - Inspector est un éditeur visuel front-end local qui connecte Claude Code, Cursor ou Codex à un navigateur afin que les utilisateurs puissent déplacer des éléments, modifier du texte et appliquer directement des...
@@ -5219,6 +5821,10 @@ _Vue compacte pour un balayage plus rapide._
   - Intedat est une base de données d’entreprises et une plateforme de recherche propulsée par l’IA qui aide les équipes commerciales, d’approvisionnement et de mise sur le marché à trouver des clients, des fournisseurs et...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, PDG +1 de plus
 
+- **[Integuru](https://www.aimyflow.com/fr/ai/integuru-ai)**
+  - Integuru est une plateforme de génération d’API qui aide les équipes à transformer des sites web et des systèmes web en API prêtes pour la production à l’aide de requêtes HTTP directes, principalement pour les...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO +1 de plus
+
 - **[Intellectia AI](https://www.aimyflow.com/fr/ai/intellectia-ai)**
   - Intellectia AI est une plateforme d’investissement et de trading basée sur l’IA qui aide les investisseurs et les traders actifs à analyser les marchés, filtrer les actions, générer des signaux, tester des stratégies...
   - *Rôles adaptés:* Gestionnaire de portefeuille, Analyste financier, Analyste des risques, Directeur financier
@@ -5241,6 +5847,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Interior AI](https://www.aimyflow.com/fr/ai/interiorai-com)**
   - Interior AI est une application d’IA de design d’intérieur et de home staging virtuel qui permet aux utilisateurs de téléverser des photos, des croquis ou des captures d’écran SketchUp pour réaménager des pièces,...
   - *Rôles adaptés:* Architecte d'intérieur, Agent immobilier, Graphiste, Créateur de contenu
+
+- **[Interpreter](https://www.aimyflow.com/fr/ai/openinterpreter-com)**
+  - Interpreter est un agent IA de bureau qui aide les utilisateurs à lire, modifier et créer des documents Word, Excel, PDF et Markdown, principalement pour les travailleurs du savoir traitant des tâches fortement axées...
+  - *Rôles adaptés:* Analyste financier, Responsable PMO, Expert-comptable certifié, Directeur des opérations +1 de plus
 
 - **[Interview Coder](https://www.aimyflow.com/fr/ai/interviewcoder-net)**
   - Interview Coder est un assistant d’entretien basé sur l’IA pour les entretiens techniques et les entretiens de codage de type LeetCode, qui fournit une aide au codage en temps réel ainsi qu’une transcription audio aux...
@@ -5274,6 +5884,14 @@ _Vue compacte pour un balayage plus rapide._
   - Invent est une plateforme de création et de gestion d’assistants IA, d’agents et de chatbots qui prennent en charge les conversations de service client et de vente sur différents canaux, principalement pour les...
   - *Rôles adaptés:* Directeur des opérations, Responsable commercial terrain, Directeur marketing digital, Responsable PMO +1 de plus
 
+- **[Inventive AI](https://www.aimyflow.com/fr/ai/inventive-ai)**
+  - Inventive AI est un logiciel d’appel d’offres basé sur l’IA et une plateforme de réponse aux questionnaires qui aide les équipes à rédiger, gérer et améliorer les réponses aux appels d’offres, aux demandes...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Responsable cybersécurité, Responsable PMO +1 de plus
+
+- **[Invicta AI](https://www.aimyflow.com/fr/ai/invictai-io)**
+  - Invicta AI est une plateforme no-code permettant de créer des équipes d’agents IA qui automatisent des workflows complexes à travers plus de 70 outils et les principaux LLM, principalement pour les équipes des...
+  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
+
 - **[InVideo](https://www.aimyflow.com/fr/ai/invideo-io)**
   - InVideo est une plateforme de création vidéo IA qui aide à créer et éditer des vidéos, contenus avec avatars et publicités produit, surtout pour les marketeurs, créateurs et petites entreprises.
   - *Rôles adaptés:* Créateur de contenu, Responsables marketing et ventes, Communicants médias, Écrivains et auteurs +7 de plus
@@ -5285,6 +5903,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[InYourDreams](https://www.aimyflow.com/fr/ai/inyourdreams-cloud)**
   - InYourDreams est un journal de rêves basé sur l’IA qui aide les utilisateurs à consigner leurs rêves, à obtenir des interprétations de rêves et à transformer leurs expériences oniriques en vidéos générées par l’IA,...
   - *Rôles adaptés:* Auteur de fiction, Créateur de contenu, Coach bien-être, Rédacteur publicitaire
+
+- **[ION](https://www.aimyflow.com/fr/ai/ion-design)**
+  - ION est une plateforme de landing pages IA qui aide les entreprises à concevoir, lancer et optimiser un grand nombre de pages conformes à leur marque pour les campagnes publicitaires, les personas, les cas d’usage, les...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu, Rédacteur publicitaire +1 de plus
 
 - **[Iris.ai](https://www.aimyflow.com/fr/ai/iris-ai)**
   - Iris.ai est une plateforme de développement et de gestion des connaissances basée sur l’IA qui aide les entreprises réglementées à unifier des données internes et externes complexes afin de créer, gérer et superviser...
@@ -5392,17 +6014,25 @@ _Vue compacte pour un balayage plus rapide._
   - Jungle est un outil d’étude basé sur l’IA qui génère des fiches de révision, des questions à choix multiples et d’autres questions d’entraînement à partir de supports tels que des diapositives de cours, des PDF, des...
   - *Rôles adaptés:* Enseignant, Professeur d’université, Tuteur de préparation aux examens, Tuteur en programmation en ligne +1 de plus
 
-- **[Jupid](https://www.aimyflow.com/fr/ai/jupid-com)**
-  - Jupid est une plateforme de comptabilité nativement conçue pour l’IA qui aide les propriétaires de petites entreprises et les institutions financières à gérer la tenue de livres, la création de LLC, la déclaration...
-  - *Rôles adaptés:* Expert-comptable certifié, Directeur financier, Analyste financier, PDG +1 de plus
-
 - **[JURA Bio](https://www.aimyflow.com/fr/ai/jura-bio)**
   - JURA Bio est une entreprise de biotechnologie qui développe des modèles fondamentaux pour la conception thérapeutique, aidant les équipes à découvrir et à développer des candidats en menant des cycles de laboratoire...
   - *Rôles adaptés:* Biologiste moléculaire, Microbiologiste, Data scientist, Technicien de laboratoire médical +1 de plus
 
+- **[Just Words](https://www.aimyflow.com/fr/ai/getjust-ai)**
+  - Just Words est une plateforme de marketing du cycle de vie d’entreprise axée sur l’IA, qui utilise des agents toujours actifs pour la stratégie, la création, la prise de décision et les données afin de piloter des...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Data scientist, Rédacteur publicitaire +1 de plus
+
 - **[JustCopy.ai](https://www.aimyflow.com/fr/ai/justcopy-ai)**
   - JustCopy.ai est un créateur de sites web par IA qui clone un site existant à partir d’une URL ou en génère un à partir d’un prompt, puis permet aux utilisateurs de le personnaliser et de le publier rapidement sans...
   - *Rôles adaptés:* Directeur marketing digital, PDG, Rédacteur publicitaire, Créateur de contenu +1 de plus
+
+- **[K-Scale Labs](https://www.aimyflow.com/fr/ai/kscale-dev)**
+  - K-Scale Labs est un projet open source d’IA et de robotique axé sur la création d’une IA polyvalente ainsi que du matériel et des logiciels associés, principalement destinés aux ingénieurs, scientifiques et concepteurs...
+  - *Rôles adaptés:* Ingénieur mécanique, Ingénieur électricien, Ingénieur logiciel, Data scientist +1 de plus
+
+- **[Kabilah](https://www.aimyflow.com/fr/ai/kabilah-com)**
+  - Kabilah est une plateforme d’IA de niveau entreprise, conforme à la HIPAA, destinée aux infirmiers, infirmières et hôpitaux, qui soutient les flux de travail infirmiers grâce aux transmissions orales, aux feuilles de...
+  - *Rôles adaptés:* Administrateur de santé, Aide-soignant certifié, Aide à domicile, Responsable infrastructure IT
 
 - **[Kaedim](https://www.aimyflow.com/fr/ai/kaedim3d-com)**
   - Kaedim est un service de production d’assets 3D alimenté par l’IA qui aide les studios et les marques à créer plus rapidement des assets 3D prêts pour la production et à faire évoluer leurs pipelines 3D, principalement...
@@ -5432,6 +6062,14 @@ _Vue compacte pour un balayage plus rapide._
   - KaomojiHub est une base de données japonaise de recherche et de copie de kaomojis qui aide les utilisateurs à trouver rapidement des émoticônes textuelles par mot-clé, catégorie, situation ou index en kana,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire, Rédacteur technique +1 de plus
 
+- **[Kapa.ai](https://www.aimyflow.com/fr/ai/kapa-ai)**
+  - Kapa.ai est une plateforme qui crée des assistants IA à partir de documentation technique et d’autres sources de connaissances afin de répondre avec précision aux questions de support, produit et internes,...
+  - *Rôles adaptés:* Responsable développement logiciel, Rédacteur technique, Ingénieur logiciel, Responsable PMO +1 de plus
+
+- **[Kater.ai](https://www.aimyflow.com/fr/ai/kater-ai)**
+  - Kater.ai est un générateur de flux de travail de données qui utilise un modèle sémantique unifié, SQL et des arbres de décision structurés pour transformer les données de l’entreprise en rapports personnalisés,...
+  - *Rôles adaptés:* PDG, Analyste financier, Directeur marketing digital, Responsable PMO
+
 - **[Katteb](https://www.aimyflow.com/fr/ai/katteb-com-en)**
   - Katteb est une plateforme de rédaction et de SEO basée sur l’IA qui aide les créateurs de contenu, les marketeurs et les agences à produire des articles en arabe et multilingues optimisés pour les AI Overviews de...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Rédacteur technique +1 de plus
@@ -5443,6 +6081,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Keevx](https://www.aimyflow.com/fr/ai/keevx-com-main-home)**
   - Keevx est une plateforme vidéo IA tout-en-un qui aide les entreprises, les spécialistes du marketing et les créateurs à transformer du texte, des URL et des images en vidéos traduites, doublées, clonées et générées à...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
+
+- **[Kenley](https://www.aimyflow.com/fr/ai/kenley-ai)**
+  - Kenley est une plateforme d’IA destinée aux cabinets de conseil et de services professionnels, qui aide les équipes à utiliser des agents personnalisés pour la recherche, les workflows répétitifs et la création de...
+  - *Rôles adaptés:* Analyste financier, PDG, Directeur des opérations, Responsable PMO +1 de plus
 
 - **[Keragon](https://www.aimyflow.com/fr/ai/keragon-com)**
   - Keragon est une plateforme d’automatisation pour le secteur de la santé conforme à la HIPAA, qui aide les entreprises de santé à connecter plus de 300 intégrations et à automatiser des flux de travail sans code. Pour...
@@ -5531,10 +6173,6 @@ _Vue compacte pour un balayage plus rapide._
   - Klariqo est une plateforme d’agents vocaux IA destinée aux centres d’appels d’entreprise et aux équipes de vente sortante, qui qualifie les prospects, détecte les messageries vocales et transfère les appels qualifiés...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur des opérations, Responsable PMO +1 de plus
 
-- **[Klavis AI](https://www.aimyflow.com/fr/ai/klavis-ai)**
-  - Klavis AI fournit des couches d’intégration MCP open source qui aident les agents IA à utiliser des outils de façon fiable et à automatiser des workflows entre applications avec authentification gérée.
-  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Ingénieur data, Data scientist +11 de plus
-
 - **[Kling 3.0 Motion Control](https://www.aimyflow.com/fr/ai/kling3-io-motion-control)**
   - Kling 3.0 Motion Control est un outil de transfert de mouvement par IA qui extrait les mouvements de vidéos de 3 à 30 secondes et les applique à des images de personnages statiques, aidant les créateurs, les animateurs...
   - *Rôles adaptés:* Créateur de contenu, Graphiste, Directeur marketing digital, Réalisateur indépendant +1 de plus
@@ -5554,10 +6192,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Knobi](https://www.aimyflow.com/fr/ai/knobi-io)**
   - Knobi est un outil de gestion de communauté par IA qui utilise les données communautaires pour alimenter des interfaces de connaissance, des recommandations d’onboarding personnalisées, le routage des questions sans...
   - *Rôles adaptés:* Responsable de programme associatif, Responsable PMO, Créateur de contenu réseaux sociaux, PDG
-
-- **[Know what your competitors](https://www.aimyflow.com/fr/ai/prowlai-app-en)**
-  - Sachez ce que font vos concurrents avant vos clients. Surveillance alimentée par l’IA des changements de prix, de fonctionnalités, de contenu et de stratégie.
-  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable des ventes e-commerce
 
 - **[Knowledge Plane](https://www.aimyflow.com/fr/ai/knowledgeplane-io)**
   - Knowledge Plane est une plateforme de mémoire partagée pour les équipes d’ingénierie qui transforme le code, la documentation et les discussions en une source de vérité actuelle, structurée et auditables à travers les...
@@ -5586,6 +6220,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Komos](https://www.aimyflow.com/fr/ai/komos-ai)**
   - Komos est une plateforme d’automatisation par IA qui apprend les tâches répétitives effectuées dans les navigateurs et les applications SaaS en observant les utilisateurs au travail, puis crée des workflows et des API...
   - *Rôles adaptés:* Responsable PMO, Administrateur de santé, Analyste financier, Planificateur logistique +1 de plus
+
+- **[Kompas AI](https://www.aimyflow.com/fr/ai/kompas-ai)**
+  - Kompas AI est un service de recherche en IA B2C abandonné qui aidait les utilisateurs à mener des recherches approfondies grâce à l’orchestration multi-agents, à la gestion de la fenêtre de contexte et à des techniques...
+  - *Rôles adaptés:* Data scientist, Responsable PMO, Ingénieur logiciel, Responsable cybersécurité +1 de plus
 
 - **[Kontentino’s Social Media Planner for ChatGPT](https://www.aimyflow.com/fr/ai/kontentino-com-chatgpt)**
   - Le Planificateur de réseaux sociaux de Kontentino pour ChatGPT est un outil de planification des réseaux sociaux qui aide les utilisateurs à transformer leurs idées en un mois de publications prêtes à être publiées et...
@@ -5623,10 +6261,6 @@ _Vue compacte pour un balayage plus rapide._
   - KreadoAI est un générateur vidéo basé sur l’IA qui aide les utilisateurs à transformer du texte, des images, des fichiers PowerPoint, des URL et d’autres médias en vidéos présentées par des avatars avec des voix IA en...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Consultant en technologies éducatives +1 de plus
 
-- **[KreadoAI](https://www.aimyflow.com/fr/ai/kreadoai-com-ai-login)**
-  - KreadoAI est une plateforme de création vidéo par IA et un portail de connexion qui aide les utilisateurs à transformer du texte, des images ou des diapositives PowerPoint en vidéos avec des avatars IA, des options de...
-  - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Coach en leadership d’entreprise, Consultant en technologies éducatives +1 de plus
-
 - **[Krikey](https://www.aimyflow.com/fr/ai/krikey-ai)**
   - Krikey est un générateur de vidéos d’animation et de dessins animés par IA qui aide les utilisateurs à créer des vidéos d’avatars 3D parlants, des GIF et du contenu animé multilingue grâce à des modèles, des voix off...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Enseignant, Rédacteur publicitaire +1 de plus
@@ -5651,10 +6285,6 @@ _Vue compacte pour un balayage plus rapide._
   - Kura est une plateforme d’automatisation de navigateur par IA qui aide les organisations à créer des agents de navigateur prêts pour la production à partir du langage naturel, sans codage, principalement pour les...
   - *Rôles adaptés:* Planificateur logistique, Responsable infrastructure IT, Responsable PMO, Directeur des opérations +1 de plus
 
-- **[KwaKwa Course Creator](https://www.aimyflow.com/fr/ai/create-kwakwa-com)**
-  - KwaKwa Course Creator est une plateforme IA qui aide à créer et vendre rapidement des cours sociaux mobile-first, surtout pour coachs, créateurs et experts métier.
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +12 de plus
-
 - **[LabLab](https://www.aimyflow.com/fr/ai/lablab-ai)**
   - LabLab est un écosystème de création IA qui aide les développeurs, fondateurs et autres créateurs à participer à des hackathons, créer des prototypes d’IA, apprendre grâce à des tutoriels et collaborer au sein d’une...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Responsable PMO +1 de plus
@@ -5671,13 +6301,13 @@ _Vue compacte pour un balayage plus rapide._
   - Lalaland, désormais intégré à Browzwear, propose des modèles d’IA personnalisés qui aident les équipes B2B et e-commerce à créer des visuels produit réalistes et propres à la marque pour la validation, la vente en...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Graphiste, Créateur de contenu +1 de plus
 
-- **[lambdal/text-to-pokemon](https://www.aimyflow.com/fr/ai/replicate-com-lambdal-text-to-pokemon)**
-  - lambdal/text-to-pokemon est un modèle Replicate qui génère des images de style Pokémon à partir de descriptions textuelles via une API, principalement destiné aux développeurs et aux équipes techniques qui créent des...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Graphiste, Créateur de contenu
-
 - **[Lami AI](https://www.aimyflow.com/fr/ai/lami-ai)**
   - Lami AI est un générateur de musique par IA qui aide les utilisateurs à transformer du texte ou des paroles en chansons originales, avec des outils supplémentaires de suppression des voix, de séparation des pistes, de...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Producteur de podcast, Créateur de contenu réseaux sociaux +1 de plus
+
+- **[Laminar](https://www.aimyflow.com/fr/ai/laminar-sh)**
+  - Laminar est une plateforme open source d’observabilité pour les agents d’IA qui aide les équipes à retracer les exécutions, déboguer les appels LLM et l’utilisation des outils, analyser les échecs, interroger les...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
 - **[Landing-page.io](https://www.aimyflow.com/fr/ai/landing-page-io)**
   - Landing-page.io est un générateur de landing pages et de sites web alimenté par l’IA qui aide les utilisateurs à générer, personnaliser et publier des pages optimisées pour le SEO et adaptées aux mobiles à partir d’un...
@@ -5690,6 +6320,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Langboat Technology](https://www.aimyflow.com/fr/ai/langboat-com)**
   - Langboat Technology est une plateforme d’intelligence cognitive pour les entreprises qui utilise le traitement automatique du langage naturel (TALN) et de grands modèles de langage pour prendre en charge les bases de...
   - *Rôles adaptés:* Analyste financier, Responsable PMO, Rédacteur technique, Responsable développement logiciel +1 de plus
+
+- **[Langdock](https://www.aimyflow.com/fr/ai/langdock-com)**
+  - Langdock est une plateforme d’adoption de l’IA qui aide les organisations à déployer à l’échelle de l’entreprise des chats IA, des workflows, des agents, des intégrations et des applications basées sur des API de...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable PMO, Directeur des opérations, Responsable développement logiciel +1 de plus
+
+- **[Langfuse](https://www.aimyflow.com/fr/ai/langfuse-com)**
+  - Langfuse est une plateforme d’ingénierie LLM open source qui aide les équipes développant des applications et des agents LLM à tracer les requêtes, gérer les prompts, exécuter des évaluations et surveiller des...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
 
 - **[Langotalk](https://www.aimyflow.com/fr/ai/langotalk-org)**
   - Langotalk est un tuteur de langues basé sur l’IA qui aide les apprenants à pratiquer l’expression orale, la compréhension orale et la lecture grâce à des conversations personnalisées, avec des retours adaptatifs sur la...
@@ -5719,6 +6357,10 @@ _Vue compacte pour un balayage plus rapide._
   - Lark est un outil de test basé sur l’IA qui permet aux équipes d’ingénierie d’écrire des tests logiciels en anglais courant et de les exécuter à chaque pull request ou déploiement sur des interfaces utilisateur, des...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
 
+- **[Latent Health](https://www.aimyflow.com/fr/ai/latenthealth-com)**
+  - Latent Health est une plateforme d’IA qui utilise le raisonnement clinique pour traiter les données des dossiers de santé électroniques (DSE), simplifier les autorisations préalables et accélérer l’accès aux...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Médecin généraliste
+
 - **[Latitude](https://www.aimyflow.com/fr/ai/latitude-io)**
   - Latitude est une entreprise qui développe des produits et des plateformes de jeux de rôle alimentés par l’IA, notamment AI Dungeon et Voyage, afin d’aider les joueurs, les créateurs et les développeurs à créer des...
   - *Rôles adaptés:* Auteur de fiction, Ingénieur logiciel, Créateur de contenu, Réalisateur indépendant +1 de plus
@@ -5726,6 +6368,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Latte Social](https://www.aimyflow.com/fr/ai/latte-social)**
   - Latte Social est un éditeur vidéo et studio créatif alimenté par l’IA qui aide les créateurs de contenu, les marketeurs et les entreprises à transformer des images brutes, des scripts et des vidéos longues en contenus...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu, Rédacteur publicitaire +1 de plus
+
+- **[Latted](https://www.aimyflow.com/fr/ai/latted-com)**
+  - Latted est un générateur et éditeur vidéo basé sur l’IA qui aide les utilisateurs à créer, modifier et publier des vidéos à partir de prompts dans une timeline unifiée, avec un contrôle scène par scène, des ressources...
+  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire +1 de plus
 
 - **[LaunchLemonade](https://www.aimyflow.com/fr/ai/launchlemonade-app)**
   - LaunchLemonade est une plateforme d’agents IA no-code qui aide les agences et les consultants à transformer leur expertise en agents déployables pour le marketing, les ventes, la recherche, le support et d’autres flux...
@@ -5758,10 +6404,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[LeadsFind](https://www.aimyflow.com/fr/ai/leadsfind-co)**
   - LeadsFind est une plateforme de génération de leads alimentée par l’IA qui aide les entreprises et les équipes commerciales à trouver des prospects ciblés et vérifiés, avec des données enrichies et des accroches...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
-
-- **[Leania.ai](https://www.aimyflow.com/fr/ai/leania-ai)**
-  - Leania.ai est un outil d’IA qui aide les équipes à identifier rapidement les inefficacités des flux de travail, les outils redondants et les opportunités d’automatisation grâce à une cartographie alimentée par l’IA et...
-  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Consultant en technologies éducatives, Responsable développement logiciel +1 de plus
 
 - **[Leaping AI](https://www.aimyflow.com/fr/ai/leapingai-com)**
   - Leaping AI est une plateforme d’IA vocale qui aide les entreprises à automatiser les appels de service client, la prise de rendez-vous, la qualification des prospects et les flux de travail répétitifs des centres...
@@ -5807,6 +6449,10 @@ _Vue compacte pour un balayage plus rapide._
   - LEGO Education Computer Science & AI est une solution pédagogique alignée sur les programmes scolaires pour les élèves de la 1re à la 9e année, qui aide les élèves à développer leur culture en informatique et en IA...
   - *Rôles adaptés:* Consultant en technologies éducatives, Tuteur en programmation en ligne, Enseignant
 
+- **[Legora](https://www.aimyflow.com/fr/ai/legora-com)**
+  - Legora est un espace de travail IA collaboratif pour les avocats, qui aide les équipes juridiques à examiner de grands ensembles de documents, à rédiger et affiner des textes juridiques, et à mener des recherches...
+  - *Rôles adaptés:* Avocat, Rédacteur technique, Responsable PMO, PDG +1 de plus
+
 - **[Lemma](https://www.aimyflow.com/fr/ai/uselemma-ai)**
   - Lemma est une plateforme d’observabilité et d’évaluation pour les agents d’IA qui aide les équipes à suivre les exécutions, détecter les régressions, analyser les échecs et transformer les retours utilisateurs en...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Data scientist +1 de plus
@@ -5822,6 +6468,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[LemonSlice](https://www.aimyflow.com/fr/ai/infinity-ai)**
   - LemonSlice est une plateforme d’agents vidéo IA qui transforme une simple photo en avatar interactif en temps réel pour des sites web ou des produits, principalement destinée aux développeurs logiciels et aux...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Directeur marketing digital, Responsable PMO +1 de plus
+
+- **[LemonSlice](https://www.aimyflow.com/fr/ai/lemonslice-com)**
+  - LemonSlice est une plateforme d’agents vidéo IA qui transforme une simple photo en avatar interactif en temps réel pour les sites web et les applications, principalement destinée aux développeurs logiciels et aux...
+  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Directeur marketing digital, Responsable PMO +1 de plus
 
 - **[Lenormand Life](https://www.aimyflow.com/fr/ai/lenormand-life)**
   - Lenormand Life est un outil gratuit de tirage de cartes Lenormand en ligne, alimenté par l’IA, qui aide les personnes à obtenir des conseils sur l’amour, la carrière et les questions de vie grâce à plusieurs types de...
@@ -5842,6 +6492,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[LessonPlans.ai](https://www.aimyflow.com/fr/ai/lessonplans-ai)**
   - LessonPlans.ai est un générateur de plans de cours basé sur l’IA qui aide les enseignants à créer plus rapidement des plans de cours personnalisés et de haute qualité, avec des activités et des conseils étape par...
   - *Rôles adaptés:* Enseignant, Professeur de maths en primaire, Professeur d'histoire au collège, Professeur de physique au lycée +1 de plus
+
+- **[Letterbook](https://www.aimyflow.com/fr/ai/letterbook-ai)**
+  - Letterbook est une plateforme de support client native IA qui aide les fondateurs et les équipes de support à automatiser le traitement des tickets en connectant les boîtes de réception, les bases de données et Stripe,...
+  - *Rôles adaptés:* Directeur des opérations, PDG, Responsable PMO, Responsable développement logiciel +1 de plus
 
 - **[Levity](https://www.aimyflow.com/fr/ai/levity-ai)**
   - Levity est une plateforme d’automatisation par IA pour les opérations logistiques qui aide les équipes à analyser les flux de travail riches en e-mails, à créer et exécuter des automatisations, et à les gouverner à...
@@ -5893,10 +6547,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[LightOn](https://www.aimyflow.com/fr/ai/lighton-ai)**
   - LightOn est une plateforme sur site de recherche et de raisonnement par IA qui aide les entreprises à interroger, extraire et raisonner sur des données internes non structurées via une interface prête à l’emploi ou une...
   - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur logiciel, Responsable cybersécurité, Responsable PMO +1 de plus
-
-- **[LightSite AI](https://www.aimyflow.com/fr/ai/lightsite-ai)**
-  - LightSite AI est une plateforme d’optimisation pour les moteurs génératifs et de visibilité dans la recherche par IA qui aide les entreprises à améliorer la façon dont leurs sites web sont lus, cités et classés par des...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Ingénieur logiciel +1 de plus
 
 - **[Ligo Biosciences](https://www.aimyflow.com/fr/ai/ligo-bio)**
   - Ligo Biosciences est une plateforme de conception d’enzymes par IA qui utilise l’apprentissage profond et des modèles génératifs pour créer de nouvelles protéines et optimiser des enzymes pour l’industrie,...
@@ -5954,9 +6604,9 @@ _Vue compacte pour un balayage plus rapide._
   - Linktree est un outil de lien en bio qui aide les créateurs, influenceurs et petites entreprises à organiser, partager, vendre et suivre tout ce qu’ils publient en ligne via un lien personnalisable unique. Dans les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Vendeur e-commerce, Directeur marketing digital +1 de plus
 
-- **[LipSync](https://www.aimyflow.com/fr/ai/lipsync-video)**
-  - LipSync est un outil en ligne de synchronisation labiale vidéo par IA qui aide les utilisateurs à synchroniser la parole ou l’audio avec une vidéo à visage unique ou un avatar, principalement pour les créateurs...
-  - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux +1 de plus
+- **[Linum](https://www.aimyflow.com/fr/ai/linum-ai)**
+  - Linum est un laboratoire de recherche composé de deux personnes qui développe depuis zéro des modèles open source de génération de vidéo à partir de texte sous licence Apache 2.0, aidant les développeurs et les...
+  - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Réalisateur indépendant, Créateur de contenu +1 de plus
 
 - **[Lipsync AI Video](https://www.aimyflow.com/fr/ai/lipsyncai-net-lipsync-ai)**
   - Lipsync AI Video est un générateur en ligne de synchronisation labiale pilotée par l’audio, qui aide les utilisateurs à transformer des images ou des vidéos en vidéos parlantes en synchronisant une parole importée,...
@@ -6002,13 +6652,13 @@ _Vue compacte pour un balayage plus rapide._
   - LLM Council est une plateforme d’IA multi-LLM qui combine des modèles comme GPT, Claude, Gemini et Grok dans un processus de délibération en trois étapes afin d’aider des professionnels tels que les consultants, les...
   - *Rôles adaptés:* PDG, Analyste financier, Rédacteur technique, Administrateur de santé +1 de plus
 
+- **[LLMStack](https://www.aimyflow.com/fr/ai/llmstack-ai)**
+  - LLMStack est une plateforme open source et sans code permettant de créer des agents IA, des workflows, des chatbots et des applications d’IA générative avec des données connectées, principalement destinée aux équipes...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT, Ingénieur logiciel +1 de plus
+
 - **[LLMWise](https://www.aimyflow.com/fr/ai/llmwise-ai)**
   - LLMWise est une plateforme de comparaison et de combinaison de modèles d’IA qui aide les utilisateurs à exécuter le même prompt sur GPT, Claude, Gemini et d’autres modèles côte à côte, puis à réunir les éléments les...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Data scientist, Responsable infrastructure IT +1 de plus
-
-- **[Loamly](https://www.aimyflow.com/fr/ai/loamly-ai)**
-  - Loamly est une plateforme d’intelligence de recommandation et de surveillance basée sur l’IA qui aide les entreprises à auditer la fréquence à laquelle elles sont recommandées, ainsi que les raisons de ces...
-  - *Rôles adaptés:* Directeur marketing digital, PDG, Responsable des ventes e-commerce, Créateur de contenu
 
 - **[Lobe](https://www.aimyflow.com/fr/ai/lobe-ai)**
   - Lobe est un ensemble d’outils d’apprentissage automatique et de dépôts de code hébergés sur GitHub qui aide les utilisateurs à entraîner des modèles, à créer des jeux de données d’images et à lancer des projets de...
@@ -6038,6 +6688,10 @@ _Vue compacte pour un balayage plus rapide._
   - Logical est un copilote IA pour macOS qui comprend le contexte à l’écran, extrait les tâches à faire des e-mails et des discussions, résume les réunions et améliore la rédaction, principalement pour les travailleurs du...
   - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Rédacteur technique, PDG +1 de plus
 
+- **[Logital AI](https://www.aimyflow.com/fr/ai/logital-ai)**
+  - Logital AI est une API d’inférence déterministe qui renvoie la même sortie d’IA pour la même invite et la même graine, aidant les équipes à effectuer des comparaisons de modèles, des tests, des audits et des recherches...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité, Data scientist +1 de plus
+
 - **[Logo Animation](https://www.aimyflow.com/fr/ai/logoanimation-app)**
   - Logo Animation est un studio d’animation de logos par IA qui transforme des logos statiques en animations graphiques avec des arrière-plans transparents et des effets sonores pour les sites web, les vidéos et les...
   - *Rôles adaptés:* Directeur marketing digital, Graphiste, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
@@ -6061,10 +6715,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Lolachats](https://www.aimyflow.com/fr/ai/lolachats-com)**
   - Lolachats est un compagnon privé d’IA et un outil de journalisation qui aide les personnes à réfléchir, à traiter leurs pensées et à mieux se comprendre grâce à des conversations naturelles, principalement pour celles...
   - *Rôles adaptés:* Coach bien-être, Conseiller d’orientation scolaire, Coach en leadership d’entreprise
-
-- **[LongCat-Video](https://www.aimyflow.com/fr/ai/github-com-meituan-longcat-LongCat-Video)**
-  - LongCat-Video est un modèle open source de génération vidéo de 13,6B sur GitHub qui aide les développeurs et les chercheurs en IA à créer des vidéos texte-vers-vidéo, image-vers-vidéo, de continuation vidéo, de longue...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Data scientist, Créateur de contenu +1 de plus
 
 - **[Looka](https://www.aimyflow.com/fr/ai/looka-com)**
   - Looka est une plateforme de création de logos et d’identité de marque alimentée par l’IA qui aide les entrepreneurs à créer des logos, des supports marketing de marque, des visuels pour les réseaux sociaux, des cartes...
@@ -6094,6 +6744,10 @@ _Vue compacte pour un balayage plus rapide._
   - LoraTag est un outil de légendage d’images par IA basé sur le web qui utilise GPT-4 Vision pour générer par lots des légendes .txt prêtes pour l’entraînement pour des jeux de données LoRA, principalement destinés aux...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Ingénieur logiciel, Data scientist +1 de plus
 
+- **[Lore](https://www.aimyflow.com/fr/ai/joinlore-app)**
+  - Lore est une application Mac qui visualise l’historique iMessage en chronologies consultables, en points forts et en analyses telles que les emojis les plus utilisés, les scores de ghosting et les fils ouverts,...
+  - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Responsable acquisition de talents, Créateur de contenu
+
 - **[Lorka](https://www.aimyflow.com/fr/ai/lorka-ai)**
   - Lorka est une plateforme d’IA tout-en-un qui réunit plusieurs modèles de chat et outils dans un seul espace de travail pour la rédaction, la recherche, l’édition d’images, la recherche web, la traduction et l’analyse...
   - *Rôles adaptés:* Ingénieur logiciel, Directeur marketing digital, Créateur de contenu, Rédacteur technique
@@ -6105,6 +6759,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Loula](https://www.aimyflow.com/fr/ai/joinonu-com)**
   - Loula est une plateforme destinée aux doulas en Californie qui les aide à accepter l’assurance en prenant en charge le conventionnement, les vérifications d’éligibilité, la facturation et le paiement via un portail...
   - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Directeur des opérations, Aide à domicile
+
+- **[Lovable](https://www.aimyflow.com/fr/ai/gptengineer-app)**
+  - Lovable est un créateur d’applications par IA qui aide les utilisateurs à créer des applications, des sites web et des produits numériques en décrivant leurs idées dans le chat, en affinant des prototypes et en les...
+  - *Rôles adaptés:* Responsable développement logiciel, Graphiste, Directeur marketing digital, Responsable PMO +1 de plus
 
 - **[Lovable](https://www.aimyflow.com/fr/ai/lovable-dev)**
   - Lovable est une plateforme de création logicielle par chat qui aide fondateurs, équipes produit et non-techniciens à créer des logiciels en langage naturel.
@@ -6150,10 +6808,6 @@ _Vue compacte pour un balayage plus rapide._
   - Le modèle LTX est un modèle multimodal de génération vidéo qui aide les développeurs, les équipes produit, les studios et les entreprises à générer, animer et éditer des vidéos de qualité professionnelle à partir...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Réalisateur indépendant, Créateur de contenu +1 de plus
 
-- **[Lucid](https://www.aimyflow.com/fr/ai/lucidengine-tech-en-checker)**
-  - Lucid est un outil de veille de la découvrabilité par l’IA et d’analytique GEO qui aide les marques à vérifier à quelle fréquence les assistants IA mentionnent leur site web, où les concurrents les surpassent dans les...
-  - *Rôles adaptés:* Directeur marketing digital, PDG, Créateur de contenu
-
 - **[Lucidic AI](https://www.aimyflow.com/fr/ai/lucidic-ai)**
   - Lucidic AI est une plateforme de formation et d’optimisation destinée aux équipes d’entreprise qui développent des agents d’IA. Elle les aide à paramétrer les composants des agents, à exécuter des simulations et à...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Data scientist, Responsable PMO +1 de plus
@@ -6181,9 +6835,21 @@ _Vue compacte pour un balayage plus rapide._
   - Luma AI Video Generator est un outil vidéo IA gratuit en ligne, alimenté par Dream Machine, qui aide les utilisateurs à créer des vidéos réalistes à partir d’invites textuelles, principalement pour les créateurs et les...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Producteur de podcast +1 de plus
 
+- **[Lume](https://www.aimyflow.com/fr/ai/lume-ai)**
+  - Lume est une plateforme d’intégration client alimentée par l’IA qui aide les équipes logicielles et data à se connecter aux ERP, bases de données, API et fichiers des clients, à mapper automatiquement les schémas, à...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable PMO, Responsable développement logiciel +1 de plus
+
+- **[Lumen Payments](https://www.aimyflow.com/fr/ai/getlumen-dev)**
+  - Lumen Payments est une plateforme de facturation conçue pour les développeurs, qui aide les équipes SaaS à ajouter rapidement à leurs applications des grilles tarifaires, le traitement des paiements, le suivi de...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Directeur financier +1 de plus
+
 - **[Lumen5](https://www.aimyflow.com/fr/ai/lumen5-com)**
   - Lumen5 est une plateforme de création vidéo par IA qui transforme des blogs, des articles, des documents et des idées en vidéos de marque grâce à un montage par glisser-déposer, principalement destinée aux marketeurs,...
   - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu, Consultant en technologies éducatives +1 de plus
+
+- **[Lumetric](https://www.aimyflow.com/fr/ai/lumetric-ai)**
+  - Lumetric est un collègue IA destiné aux professionnels de l’entreprise, qui aide à créer des modèles, des présentations, des rapports et des livrables d’analyse de données tels que des jeux de comparables, des tableaux...
+  - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Data scientist, PDG
 
 - **[Lumiduna](https://www.aimyflow.com/fr/ai/lumiduna-app)**
   - Lumiduna est un compagnon de discussion IA dédié à la réflexion, qui aide les adolescents et les jeunes adultes à exprimer leurs pensées et leurs émotions du quotidien dans un espace calme, sans jugement, avec des...
@@ -6208,10 +6874,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Lunacal](https://www.aimyflow.com/fr/ai/lunacal-ai)**
   - Lunacal est une plateforme de planification et de prise de rendez-vous qui aide consultants, prestataires et équipes à gérer synchronisation de calendrier, rappels et pages de réservation.
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +16 de plus
-
-- **[Lunit](https://www.aimyflow.com/fr/ai/lunit-io)**
-  - Lunit est une entreprise de logiciels d’IA médicale spécialisée dans la détection précoce du cancer, l’oncologie de précision et les outils de radiologie par IA destinés aux professionnels de santé impliqués dans le...
-  - *Rôles adaptés:* Administrateur de santé, Manipulateur en radiologie, Cardiologue, Technicien de laboratoire médical +1 de plus
 
 - **[LustGF](https://www.aimyflow.com/fr/ai/lustgf-com)**
   - LustGF est un simulateur de petite amie IA qui permet aux adultes de créer des compagnes virtuelles personnalisables pour des discussions érotiques privées et sans censure, du sexting audio et du contenu NSFW. Pour les...
@@ -6297,6 +6959,10 @@ _Vue compacte pour un balayage plus rapide._
   - Mage est un générateur d’images et de vidéos par IA basé sur le navigateur qui aide les utilisateurs à créer, modifier et améliorer du contenu visuel avec des modèles comme Stable Diffusion, Flux, Wan et ControlNet,...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
 
+- **[Mage](https://www.aimyflow.com/fr/ai/magelegal-com)**
+  - Mage est une plateforme d’IA de due diligence juridique pour les fusions-acquisitions qui aide les cabinets d’avocats, les équipes de capital-investissement et les juristes d’entreprise à examiner les data rooms,...
+  - *Rôles adaptés:* Avocat, PDG, Analyste financier, Responsable PMO
+
 - **[Magia Trade](https://www.aimyflow.com/fr/ai/magiatrade-com)**
   - Magia Trade est une plateforme d’analyse de trading par IA qui aide les traders à analyser les actions et les cryptomonnaies grâce à l’interprétation des graphiques en temps réel, à l’analyse du sentiment des...
   - *Rôles adaptés:* Analyste financier, Gestionnaire de portefeuille, Analyste des risques, PDG
@@ -6304,6 +6970,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Magic AI Avatars](https://www.aimyflow.com/fr/ai/magicaiavatars-com)**
   - Magic AI Avatars est un générateur gratuit d’avatars IA qui transforme des photos en gros plan téléchargées en plus de 200 photos de profil personnalisées et avatars numériques, principalement pour les personnes qui...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Graphiste, Créateur de contenu
+
+- **[Magic Hour](https://www.aimyflow.com/fr/ai/magichour-ai)**
+  - Magic Hour est une plateforme de contenu IA disponible sur le web, mobile et via API, avec plus de 100 outils pour générer et éditer des vidéos, des images et de l’audio — tels que texte-vers-vidéo, image-vers-vidéo,...
+  - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Ingénieur logiciel, Responsable des ventes e-commerce +1 de plus
 
 - **[Magic Hour AI Face Swap](https://www.aimyflow.com/fr/ai/magichour-ai-products-face-swap)**
   - Magic Hour AI Face Swap est un outil en ligne d’échange de visages par IA qui permet aux utilisateurs de remplacer rapidement des visages dans des photos, des vidéos et des GIF, principalement pour les créateurs, les...
@@ -6349,17 +7019,17 @@ _Vue compacte pour un balayage plus rapide._
   - Magnitude est un agent de codage open source, nativement conçu pour les sous-agents, qui aide les développeurs à coordonner des agents spécialisés pour la recherche de code, la planification, l’implémentation, la...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
 
-- **[Mailmodo](https://www.aimyflow.com/fr/ai/mailmodo-com)**
-  - Mailmodo est une plateforme d’email marketing basée sur l’IA qui aide les utilisateurs à créer des emails, à constituer des segments d’audience, à automatiser les parcours clients, à analyser les campagnes et à ajouter...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Vendeur e-commerce +1 de plus
+- **[Maihem](https://www.aimyflow.com/fr/ai/maihem-com)**
+  - Maihem est une plateforme d’évaluation et de supervision de l’IA qui aide les équipes à tester, à red-teamer et à améliorer les applications d’IA en matière de performance, de sécurité et de conformité, principalement...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable cybersécurité, Responsable PMO, Responsable infrastructure IT +1 de plus
 
 - **[Mailteorite](https://www.aimyflow.com/fr/ai/mailteorite-com-chat)**
   - Mailteorite est un générateur de modèles d’e-mails par IA qui aide les utilisateurs à créer des modèles personnalisés tels que des e-mails promotionnels SaaS, des annonces de ventes flash, des newsletters, des e-mails...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Créateur de contenu +1 de plus
 
-- **[Maive](https://www.aimyflow.com/fr/ai/maive-ai)**
-  - Maive est une plateforme de main-d’œuvre IA destinée aux entreprises de toiture qui examine les devis, compare les travaux vendus à ce qui avait été promis et signale les fuites de revenus ainsi que les problèmes...
-  - *Rôles adaptés:* Responsable d’agence, Responsable commercial terrain, Superviseur des opérations d’usine, Directeur des opérations +1 de plus
+- **[Maitai](https://www.aimyflow.com/fr/ai/trymaitai-com)**
+  - Maitai est une plateforme d’inférence d’IA pour les entreprises qui aide les équipes à déployer et à gérer des LLM spécifiques aux applications grâce à l’équilibrage de charge, à l’autocorrection des sorties, à des...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Ingénieur logiciel, Responsable PMO +1 de plus
 
 - **[MakeBestMusic](https://www.aimyflow.com/fr/ai/makebestmusic-com)**
   - MakeBestMusic est un générateur de musique par IA qui aide les utilisateurs à créer des chansons libres de droits, des voix, des paroles, des remixes, des séparations de pistes et des reprises vocales à partir...
@@ -6429,10 +7099,6 @@ _Vue compacte pour un balayage plus rapide._
   - Marketeze est une plateforme de contenu IA qui aide les créateurs à analyser les accroches, à générer des paragraphes d’ouverture d’e-mails et à optimiser les introductions longues de YouTube, principalement pour les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Directeur marketing digital, Créateur de contenu +1 de plus
 
-- **[MarketFoundry](https://www.aimyflow.com/fr/ai/marketfoundry-io-workspace-html)**
-  - MarketFoundry est un créateur de sites web alimenté par l’IA qui aide les chercheurs d’emploi, les freelances et les propriétaires de petites entreprises à créer, sans coder, des sites de CV en ligne, des portfolios,...
-  - *Rôles adaptés:* Créateur de contenu, Agent immobilier, Vendeur e-commerce, Directeur marketing digital +1 de plus
-
 - **[MarkInMinutes](https://www.aimyflow.com/fr/ai/markinminutes-com)**
   - MarkInMinutes est une plateforme de correction alimentée par l’IA qui aide les enseignants du secondaire et du supérieur à évaluer plus rapidement les travaux des étudiants grâce à une notation fondée sur des grilles...
   - *Rôles adaptés:* Professeur d’université, Enseignant, Enseignant en collège communautaire, Consultant en technologies éducatives +1 de plus
@@ -6469,6 +7135,10 @@ _Vue compacte pour un balayage plus rapide._
   - MathAI GPT est un solveur mathématique basé sur l’IA qui aide les utilisateurs à répondre pas à pas à des questions de mathématiques à partir de problèmes saisis au clavier ou de photos téléchargées, principalement...
   - *Rôles adaptés:* Tuteur de préparation aux examens, Tuteur en programmation en ligne, Consultant en technologies éducatives, Enseignant
 
+- **[Mathos](https://www.aimyflow.com/fr/ai/info-mathos-ai)**
+  - Mathos est une plateforme d’apprentissage interactive personnalisée, centrée sur un tuteur d’IA en mathématiques qui aide les élèves à obtenir des indices à la demande, un soutien pour la pratique et un suivi de leurs...
+  - *Rôles adaptés:* Consultant en technologies éducatives, Tuteur de préparation aux examens, Enseignant, Professeur d’université +1 de plus
+
 - **[MaxClaw](https://www.aimyflow.com/fr/ai/agent-minimax-io-max-claw)**
   - MaxClaw est un créateur d’agents IA de MiniMax OpenClaw qui aide les utilisateurs à créer des assistants personnalisés avec des compétences et des sous-agents afin d’automatiser des tâches complexes, principalement...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable PMO, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
@@ -6500,6 +7170,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Media.io AI Generator](https://www.aimyflow.com/fr/ai/media-io-apps-ai-video-generator-explore)**
   - Media.io AI Generator est une plateforme créative en ligne dotée d’outils d’IA pour générer et modifier des vidéos, des images et de l’audio, destinée principalement aux créateurs, aux spécialistes du marketing et aux...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Graphiste +1 de plus
+
+- **[MediSearch](https://www.aimyflow.com/fr/ai/medisearch-io)**
+  - MediSearch est un outil de recherche médicale fondé sur la science qui aide les utilisateurs à obtenir des réponses directes à leurs questions de santé à partir d’informations fiables, principalement destiné aux...
+  - *Rôles adaptés:* Administrateur de santé, Rédacteur technique, Coach bien-être, Agent de facturation médicale
 
 - **[MeeBoss](https://www.aimyflow.com/fr/ai/meeboss-com-job-seeker-home)**
   - MeeBoss est une plateforme de recherche d’emploi et une application mobile qui aide les chercheurs d’emploi à découvrir des offres correspondant à leur profil et à échanger directement avec les responsables du...
@@ -6535,6 +7209,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Mem](https://www.aimyflow.com/fr/ai/get-mem-ai)**
   - Mem est une application de prise de notes alimentée par l’IA qui aide les utilisateurs à capturer, organiser, retrouver et interagir avec leurs notes, réunions, recherches et contenus web, principalement pour les...
   - *Rôles adaptés:* PDG, Responsable PMO, Rédacteur technique, Ingénieur logiciel +1 de plus
+
+- **[Mem0](https://www.aimyflow.com/fr/ai/mem0-ai)**
+  - Mem0 est une couche de mémoire IA pour les applications basées sur les LLM qui aide les développeurs et les entreprises à ajouter une mémoire persistante et auto-améliorée aux agents IA afin de permettre des...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +1 de plus
 
 - **[Memdex](https://www.aimyflow.com/fr/ai/memdex-ai)**
   - Memdex est une extension de navigateur qui enregistre les conversations avec l’IA et les transforme en mémoire réutilisable, aidant les personnes qui travaillent sur des outils comme ChatGPT, Claude, Gemini, Perplexity...
@@ -6604,6 +7282,10 @@ _Vue compacte pour un balayage plus rapide._
   - Merlin est un assistant de chat IA et une extension de navigateur qui permet aux utilisateurs d’accéder à plusieurs modèles d’IA de premier plan en un seul endroit pour effectuer des recherches, rédiger, coder, résumer...
   - *Rôles adaptés:* Ingénieur logiciel, Directeur marketing digital, Analyste financier, Rédacteur publicitaire +1 de plus
 
+- **[Merlin AI](https://www.aimyflow.com/fr/ai/merlinai-co)**
+  - Merlin AI est une plateforme d’intelligence opérationnelle et une couche d’exécution en temps réel pour la construction, qui aide les entrepreneurs spécialisés et les fabricants à aligner les matériaux, la main-d’œuvre...
+  - *Rôles adaptés:* Responsable PMO, Ingénieur civil, Directeur des opérations, Superviseur des opérations d’usine
+
 - **[Merlin Project](https://www.aimyflow.com/fr/ai/projectwizards-net-en-merlin-project)**
   - Merlin Project est un logiciel professionnel de gestion de projet pour Mac, iPad et iPhone qui aide les utilisateurs à planifier, gérer et contrôler des projets à l’aide de diagrammes de Gantt, de tableaux Kanban, de...
   - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, Architecte commercial, Professeur d’université +1 de plus
@@ -6624,6 +7306,10 @@ _Vue compacte pour un balayage plus rapide._
   - Meta AI Studio est un outil permettant de créer des personnages d’IA conversationnelle personnalisés et des IA de créateurs qui discutent sur Messenger, Instagram et WhatsApp, principalement pour les consommateurs et...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire +1 de plus
 
+- **[Metal](https://www.aimyflow.com/fr/ai/metal-ai)**
+  - Metal est une plateforme d’IA pour la due diligence en capital-investissement qui aide les sociétés à centraliser l’historique des transactions, à appliquer des workflows d’investissement personnalisés et à transformer...
+  - *Rôles adaptés:* Analyste financier, Directeur financier, PDG, Data scientist
+
 - **[Metal](https://www.aimyflow.com/fr/ai/metal-so)**
   - Metal est une plateforme d’intelligence pour la levée de fonds qui aide les fondateurs de startups à identifier les investisseurs les plus adaptés, à découvrir des pistes d’introduction chaleureuse, à gérer leurs...
   - *Rôles adaptés:* PDG, Directeur financier, Responsable FP&A, Responsable PMO
@@ -6635,6 +7321,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Meteor](https://www.aimyflow.com/fr/ai/browse-dev)**
   - Meteor est un navigateur IA pour Mac qui aide les utilisateurs à naviguer, discuter dans n’importe quel onglet, bloquer les publicités et connecter des applications grâce à un agent de navigation intégré,...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable acquisition de talents, Directeur marketing digital, Responsable PMO +1 de plus
+
+- **[Metoro](https://www.aimyflow.com/fr/ai/metoro-io)**
+  - Metoro est une plateforme d’observabilité et de SRE IA pour Kubernetes qui aide les équipes à vérifier les déploiements, détecter les incidents, enquêter sur les alertes, identifier les causes racines et proposer des...
+  - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur logiciel, Responsable cybersécurité, Responsable développement logiciel +1 de plus
 
 - **[MIAPI](https://www.aimyflow.com/fr/ai/miapi-uk)**
   - MIAPI est une API de réponses d’IA fondée sur des données vérifiables qui aide les développeurs à ajouter à leurs applications des réponses en temps réel basées sur la recherche web, avec citations intégrées, sources,...
@@ -6654,6 +7344,10 @@ _Vue compacte pour un balayage plus rapide._
 
 - **[Middle Name Generator](https://www.aimyflow.com/fr/ai/middlenamegenerator-net)**
   - Middle Name Generator est un outil de dénomination de bébés basé sur l’IA qui aide les parents à créer des options de deuxième prénom en associant les prénoms et noms de famille à des préférences telles que la fluidité...
+
+- **[Middleware](https://www.aimyflow.com/fr/ai/middleware-io)**
+  - Middleware est une plateforme d’observabilité cloud full-stack qui aide les équipes d’ingénierie et de DevOps à surveiller l’infrastructure, les applications, les logs, les traces, les bases de données et l’expérience...
+  - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité +1 de plus
 
 - **[Midjourney](https://www.aimyflow.com/fr/ai/midjourney-com)**
   - Midjourney est un laboratoire de recherche financé par sa communauté qui développe des modèles d’IA pour l’image et la vidéo, aidant les utilisateurs à explorer des idées créatives et de nouveaux médias visuels,...
@@ -6678,6 +7372,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Mind Map Wizard](https://www.aimyflow.com/fr/ai/mindmapwizard-com)**
   - Mind Map Wizard est un outil de cartographie mentale par IA qui aide les utilisateurs à générer, modifier et exporter des cartes mentales visuelles à partir d’un sujet, d’une URL ou d’un PDF, principalement pour les...
   - *Rôles adaptés:* Enseignant, Professeur d’université, Rédacteur technique, Créateur de contenu +1 de plus
+
+- **[Minded](https://www.aimyflow.com/fr/ai/minded-com)**
+  - Minded est une plateforme de création d’agents d’IA qui enregistre la manière dont les personnes réalisent leur travail, puis affine les comportements avec le langage naturel et du code optionnel, principalement pour...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Planificateur logistique, Responsable infrastructure IT +1 de plus
 
 - **[Mindgrasp](https://www.aimyflow.com/fr/ai/mindgrasp-ai)**
   - Mindgrasp est un assistant d’apprentissage basé sur l’IA qui transforme des cours, des lectures, des liens et des fichiers téléchargés en notes, résumés, cartes mémoire, quiz et tutorat à la demande, principalement...
@@ -6714,6 +7412,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Mintly](https://www.aimyflow.com/fr/ai/usemintly-com)**
   - Mintly est un studio de création publicitaire IA pour les marques e-commerce, les marketeurs et les agences, qui transforme des photos de produits ou des URL en images lifestyle fidèles aux produits, en publicités...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu réseaux sociaux, Graphiste +1 de plus
+
+- **[MinusX](https://www.aimyflow.com/fr/ai/minusx-ai)**
+  - MinusX est une plateforme de données agentique qui organise les données de l’entreprise, construit et teste des modèles de données gouvernés, et prend en charge les questions-réponses sur les tableaux de bord,...
+  - *Rôles adaptés:* Ingénieur data, Data scientist, Analyste financier, Ingénieur logiciel +1 de plus
 
 - **[Mio](https://www.aimyflow.com/fr/ai/mio-gg)**
   - Mio est un assistant téléphonique IA qui émet et répond à des appels à partir d’une requête textuelle, en gérant les menus, le temps d’attente, les conversations en direct et les résumés pour les personnes qui...
@@ -6779,16 +7481,16 @@ _Vue compacte pour un balayage plus rapide._
   - Mocko est une plateforme de préparation aux examens propulsée par l’IA qui aide les apprenants de français à s’entraîner avec des tests blancs TEF et TCF réalistes, à obtenir des retours détaillés et à suivre des plans...
   - *Rôles adaptés:* Tuteur de préparation aux examens, Enseignant, Conseiller d’orientation scolaire, Consultant en technologies éducatives
 
-- **[MockWise](https://www.aimyflow.com/fr/ai/mockwise-io)**
-  - MockWise est une plateforme d’entraînement aux entretiens simulés par IA qui aide les candidats à l’emploi à s’exercer à des entretiens vocaux, à recevoir des retours personnalisés et à se préparer avec des scénarios...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable commercial terrain, Responsable acquisition de talents, Conseiller d’orientation scolaire +1 de plus
-
 - **[MockXP](https://www.aimyflow.com/fr/ai/apps-apple-com-us-app-interview-prep-ai-mockxp-id6751194160)**
   - MockXP est une application d’entretiens simulés par IA pour iPhone, iPad et Mac qui aide les candidats à l’emploi à s’entraîner aux entretiens de présélection, techniques, comportementaux et de négociation salariale...
 
 - **[Mod AI](https://www.aimyflow.com/fr/ai/usemod-ai)**
   - Mod AI est un outil autonome d’automatisation des comptes fournisseurs qui prend en charge le traitement des factures, l’imputation comptable, les validations, les paiements et le reporting pour les équipes financières...
   - *Rôles adaptés:* Directeur financier, Expert-comptable certifié, Analyste financier, Directeur des opérations
+
+- **[Model ML](https://www.aimyflow.com/fr/ai/modelml-com)**
+  - Model ML est une plateforme d’IA qui crée des coéquipiers numériques pour la finance, aidant les grandes institutions financières à automatiser des flux de travail chronophages liés aux transactions, aux modèles, aux...
+  - *Rôles adaptés:* Gestionnaire de portefeuille, Analyste financier, Directeur financier, PDG
 
 - **[modelAIz](https://www.aimyflow.com/fr/ai/modelaiz-com-en)**
   - modelAIz est un logiciel d’innovation alimenté par l’IA qui aide les fondateurs, les accélérateurs et les équipes d’innovation d’entreprise à valider des idées d’entreprise, analyser des marchés, élaborer des modèles...
@@ -6842,6 +7544,10 @@ _Vue compacte pour un balayage plus rapide._
   - Moozix est un logiciel de production musicale et vidéo basé sur l’IA qui aide les auteurs-compositeurs et les musiciens à générer des chansons, mixer et masteriser des pistes séparées avec alignement sur des...
   - *Rôles adaptés:* Créateur de contenu, Amateur de musique, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
 
+- **[Morph](https://www.aimyflow.com/fr/ai/morphllm-com)**
+  - Morph est une plateforme de sous-agents IA, de modèles et d’un SDK qui aide les équipes à créer plus rapidement des agents de codage plus fiables grâce à l’édition de code, à la recherche de code, à la compression du...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, PDG
+
 - **[Moss](https://www.aimyflow.com/fr/ai/moss-dev)**
   - Moss est un outil d’infrastructure de recherche sémantique en temps réel qui aide les développeurs à créer des IA conversationnelles, des agents vocaux, des copilotes et d’autres applications d’IA grâce à une...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
@@ -6857,10 +7563,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Mottle](https://www.aimyflow.com/fr/ai/mottle-com)**
   - Mottle est une plateforme no-code permettant de créer et d’intégrer sur un site web un chatbot personnalisé de type ChatGPT, entraîné à partir d’informations de l’entreprise pour répondre aux questions des clients,...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Responsable PMO, Responsable développement logiciel +1 de plus
-
-- **[MovArt.ai](https://www.aimyflow.com/fr/ai/movart-ai)**
-  - MovArt.ai est une plateforme IA de génération et montage vidéo qui aide créateurs et marketeurs à produire des vidéos prêtes à performer et des images à fort taux de conversion.
-  - *Rôles adaptés:* Directeur marketing digital, Responsables marketing et ventes, Consultant en technologies éducatives, Responsable développement logiciel +6 de plus
 
 - **[MOVE.](https://www.aimyflow.com/fr/ai/movedot-ai)**
   - MOVE. est une plateforme d’agents IA pour les équipes d’ingénierie matérielle qui analyse les données de test matériel, met en évidence les anomalies et les corrélations, et transforme plus rapidement la télémétrie...
@@ -6925,14 +7627,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Music Muse](https://www.aimyflow.com/fr/ai/musicmuse-ai)**
   - Music Muse est un générateur de musique par IA et un créateur de chansons en ligne qui aide les utilisateurs à transformer des invites textuelles ou des paroles en morceaux complets, principalement pour les créateurs,...
   - *Rôles adaptés:* Créateur de contenu, Amateur de musique, Créateur de contenu réseaux sociaux, Producteur de podcast +1 de plus
-
-- **[Music Tomorrow](https://www.aimyflow.com/fr/ai/music-tomorrow-com)**
-  - Music Tomorrow est une plateforme de services SEO qui aide artistes et labels à améliorer leur visibilité en ligne et à toucher une audience plus large.
-  - *Rôles adaptés:* Amateur de musique
-
-- **[Music Video Generator](https://www.aimyflow.com/fr/ai/musicvideogenerator-app)**
-  - Music Video Generator est un outil d’IA qui aide les musiciens indépendants à transformer les chansons téléchargées en clips musicaux cinématographiques axés sur les paroles en analysant le morceau, en créant un...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Amateur de musique +1 de plus
 
 - **[MusicGeneratorAI](https://www.aimyflow.com/fr/ai/musicgeneratorai-com)**
   - MusicGeneratorAI est un générateur de musique et de chansons basé sur l’IA qui aide les utilisateurs à créer en ligne des chansons originales, des morceaux instrumentaux, des compositions à partir de paroles, des...
@@ -7058,9 +7752,17 @@ _Vue compacte pour un balayage plus rapide._
   - Narrative est une plateforme de temps forts sportifs propulsée par l’IA qui transforme les retransmissions en direct en clips personnalisés, prêts à être publiés sur les réseaux sociaux, pour les équipes sportives et...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Producteur de podcast +1 de plus
 
+- **[Narrative](https://www.aimyflow.com/fr/ai/trynarrative-com)**
+  - Narrative est un outil d’assurance qualité basé sur l’IA qui aide les équipes à créer, exécuter et maintenir des tests de bout en bout de produits sans code, principalement pour les équipes logicielles qui livrent des...
+  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Responsable PMO, Ingénieur data
+
 - **[NaturalReader](https://www.aimyflow.com/fr/ai/naturalreaders-com)**
   - NaturalReader est une plateforme IA de synthèse vocale qui transforme le texte en audio naturel pour les particuliers, enseignants et entreprises sur le web, mobile et en usage commercial. Elle aide à produire plus...
   - *Rôles adaptés:* Consultant en technologies éducatives, Enseignants du supérieur, Enseignants scolaires, Autres postes dans l'éducation +9 de plus
+
+- **[Navier AI](https://www.aimyflow.com/fr/ai/navier-ai)**
+  - Navier AI est une plateforme d’ingénierie pilotée par des agents qui automatise les flux de travail de CAO, CFD, FEA, maillage, simulation et GNC, du concept jusqu’à la conception validée, principalement pour les...
+  - *Rôles adaptés:* Ingénieur mécanique
 
 - **[nayld.ai](https://www.aimyflow.com/fr/ai/nayld-ai)**
   - nayld.ai est un outil de préparation aux entretiens basé sur l’IA qui aide les chercheurs d’emploi à téléverser un CV et une offre d’emploi, à obtenir un score d’adéquation au poste et à s’exercer à des entretiens...
@@ -7069,6 +7771,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[nbot.ai](https://www.aimyflow.com/fr/ai/nbot-ai)**
   - nbot.ai est un outil de veille basé sur l’IA qui permet aux utilisateurs de créer des suivis personnalisés pour surveiller des sites web, des flux RSS, YouTube, Reddit et des plateformes sociales, aidant les...
   - *Rôles adaptés:* Analyste financier, Data scientist, Rédacteur technique, Directeur marketing digital +1 de plus
+
+- **[nCompass](https://www.aimyflow.com/fr/ai/ncompass-tech)**
+  - nCompass est un IDE de profilage des performances et de débogage, alimenté par l’IA, pour VSCode, Cursor et Claude Code, qui aide les ingénieurs à profiler le code, inspecter les traces et diagnostiquer les goulots...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur électricien, Ingénieur data
 
 - **[Nebius Token Factory Inference Service](https://www.aimyflow.com/fr/ai/nebius-com-services-studio-inference-service)**
   - Le service d’inférence Nebius Token Factory est une plateforme d’inférence d’entreprise permettant d’exécuter des modèles d’IA open source hébergés avec une latence inférieure à la seconde, une mise à l’échelle...
@@ -7125,10 +7831,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[NetworkOcean](https://www.aimyflow.com/fr/ai/networkocean-io)**
   - NetworkOcean construit et exploite des barges de centres de données flottantes et des capsules de centres de données sous-marines qui fournissent une infrastructure GPU à haute densité refroidie par liquide, avec une...
   - *Rôles adaptés:* Responsable infrastructure IT, Responsable développement logiciel, Directeur des opérations, Responsable PMO +1 de plus
-
-- **[NEUROFIT](https://www.aimyflow.com/fr/ai/neurofit-app)**
-  - NEUROFIT est une application de régulation du système nerveux fondée sur la recherche, qui utilise des exercices somatiques, le suivi du stress et des pratiques de réinitialisation du nerf vague pour aider les...
-  - *Rôles adaptés:* Coach bien-être, Administrateur de santé, Médecin généraliste, Spécialiste en santé au travail +1 de plus
 
 - **[neuroflash](https://www.aimyflow.com/fr/ai/neuroflash-com)**
   - neuroflash est une plateforme de contenu IA destinée aux équipes marketing et commerciales, qui aide les utilisateurs à créer, modifier, optimiser et gérer des textes conformes à l’identité de marque ainsi que des...
@@ -7214,10 +7916,6 @@ _Vue compacte pour un balayage plus rapide._
   - Norby est un agent IA no-code qui transforme le contenu des produits, services, documentations et FAQ d’une entreprise en réponses d’assistance client et de vente basées sur le chat, principalement pour les entreprises...
   - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, Responsable PMO +1 de plus
 
-- **[Nori](https://www.aimyflow.com/fr/ai/nori-ai)**
-  - Nori est un conseiller personnel de santé qui relie les données issues des objets connectés et des analyses de laboratoire afin de créer des plans de santé quotidiens clairs et des explications, principalement pour les...
-  - *Rôles adaptés:* Coach bien-être, Administrateur de santé, Créateur de contenu, Passionné de gastronomie
-
 - **[Normal Factory](https://www.aimyflow.com/fr/ai/normalfactory-com)**
   - Normal Factory est une plateforme de test matériel et de certification qui aide les entreprises à préparer et gérer la conformité à des normes telles que FCC, ISED, CE et ASTM grâce à un logiciel de pré-conformité et à...
   - *Rôles adaptés:* Ingénieur électricien, Ingénieur mécanique, Responsable PMO, Superviseur des opérations d’usine +1 de plus
@@ -7282,9 +7980,17 @@ _Vue compacte pour un balayage plus rapide._
   - NovelAI est un générateur d’images d’anime par IA et une plateforme de narration qui aide les créateurs à produire des illustrations de style anime, à écrire des histoires et à retoucher des visuels, principalement...
   - *Rôles adaptés:* Auteur de fiction, Graphiste, Créateur de contenu, Réalisateur indépendant +1 de plus
 
+- **[Novelcare](https://www.aimyflow.com/fr/ai/novel-care)**
+  - Novelcare est une plateforme destinée aux prestataires de soins de santé qui identifie, pour les patients, des études cliniques locales médicalement pertinentes et aide les cabinets à proposer la recherche clinique...
+  - *Rôles adaptés:* Administrateur de santé, Médecin généraliste, Pédiatre, Cardiologue +1 de plus
+
 - **[NovelCraft](https://www.aimyflow.com/fr/ai/novelcraft-ai)**
   - NovelCraft est un assistant d’écriture IA pour les auteurs qui les aide à rédiger, affiner et publier des romans grâce à des suggestions à la demande, une mémoire narrative, des bibliothèques de personnages et des...
   - *Rôles adaptés:* Auteur de fiction, Rédacteur publicitaire, Créateur de contenu, Graphiste
+
+- **[Nowadays](https://www.aimyflow.com/fr/ai/nowadays-ai)**
+  - Nowadays est une plateforme de planification d’événements basée sur l’IA pour les équipes d’entreprise, qui aide les utilisateurs à gérer la recherche de lieux, le budget, la coordination des prestataires, les...
+  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable de programme associatif, Responsable d’agence +1 de plus
 
 - **[NSFW AI Chat](https://www.aimyflow.com/fr/ai/nsfw-ai-chat-com)**
   - NSFW AI Chat est un annuaire d’applications de chat IA pour adultes 19+ et d’outils de chatbots de personnages, qui aide les utilisateurs à comparer les options de petite amie IA NSFW, petit ami IA, jeu de rôle,...
@@ -7310,6 +8016,10 @@ _Vue compacte pour un balayage plus rapide._
   - NSFWLover AI est une plateforme d’IA orientée pour adultes, dédiée au chat NSFW non censuré, au jeu de rôle, à la génération vocale et d’images avec des compagnons virtuels, principalement pour les utilisateurs...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Graphiste +1 de plus
 
+- **[Nuanced.dev](https://www.aimyflow.com/fr/ai/nuanced-dev)**
+  - Nuanced.dev propose un serveur LSP conteneurisé et une plateforme d’intelligence de code qui fournissent aux agents de codage IA un contexte d’analyse statique de niveau compilateur, aidant les équipes à exécuter des...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Consultant en technologies éducatives
+
 - **[Nubix](https://www.aimyflow.com/fr/ai/social-nubix-ai)**
   - Nubix est un réseau social et une plateforme de fil d’actualité alimentés par l’IA qui aident les utilisateurs à rejoindre des communautés, à partager des publications et à discuter avec des personas d’IA comme Nexus...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Rédacteur technique +1 de plus
@@ -7317,9 +8027,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Nude AI Generator](https://www.aimyflow.com/fr/ai/nude-ai-ai)**
   - Nude AI Generator est un outil d’image par IA qui aide les utilisateurs à créer des illustrations de nus adultes personnalisées à partir d’invites textuelles et de choix de style, principalement destiné aux personnes...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
-
-- **[Nudify.Online](https://www.aimyflow.com/fr/ai/nudify-online-undress-ai)**
-  - Nudify.Online est un générateur d’images IA pour adultes qui crée, à partir de photos téléchargées, des variations simulées nues ou explicites destinées aux utilisateurs de plus de 18 ans recherchant une génération...
 
 - **[Nume](https://www.aimyflow.com/fr/ai/nume-finance)**
   - Nume est un outil de DAF alimenté par l’IA qui aide à gérer les finances grâce à des analyses proactives et à une visibilité en temps réel à partir de données en direct, principalement pour les startups, les PME et les...
@@ -7353,12 +8060,24 @@ _Vue compacte pour un balayage plus rapide._
   - Octofy est une plateforme d’IA qui donne aux professionnels et aux utilisateurs du quotidien accès à plus de 60 modèles dans une seule interface, les aidant à générer du texte, des images, des tableaux et des...
   - *Rôles adaptés:* Directeur marketing digital, Analyste financier, Ingénieur logiciel, Créateur de contenu +1 de plus
 
+- **[Ocular AI](https://www.aimyflow.com/fr/ai/useocular-com)**
+  - Ocular AI est une plateforme multimodale de data lakehouse et de développement IA qui aide les équipes à ingérer, organiser, rechercher, annoter et versionner des données non structurées, puis à entraîner et évaluer...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Data scientist, Responsable développement logiciel +1 de plus
+
 - **[Oddsmyth](https://www.aimyflow.com/fr/ai/oddsmyth-ai)**
   - Oddsmyth est un co-gestionnaire IA pour le fantasy baseball qui se connecte aux ligues Yahoo Fantasy afin d’aider les managers à évaluer les compositions, les agents libres, les échanges et les confrontations à l’aide...
+
+- **[Odo](https://www.aimyflow.com/fr/ai/useodo-com)**
+  - Odo est un assistant e-mail basé sur l’IA qui lit les boîtes de réception, rédige des réponses dans le style d’écriture de l’utilisateur, signale les messages importants et fournit des briefings planifiés,...
+  - *Rôles adaptés:* PDG, Responsable commercial terrain, Directeur des opérations, Responsable PMO +1 de plus
 
 - **[OdysseyGPT](https://www.aimyflow.com/fr/ai/odysseygpt-ai)**
   - OdysseyGPT est une plateforme d’intelligence documentaire d’entreprise qui extrait des données structurées et des réponses étayées par des citations à partir de documents, puis les transmet aux systèmes métier,...
   - *Rôles adaptés:* Analyste des risques, Analyste financier, Responsable acquisition de talents, Administrateur de santé +1 de plus
+
+- **[OffDeal](https://www.aimyflow.com/fr/ai/offdeal-io)**
+  - OffDeal est une plateforme de conseil en fusions-acquisitions et de banque d’investissement destinée aux petites entreprises réalisant entre 5 M$ et 100 M$ de chiffre d’affaires. Elle aide les dirigeants à vendre leur...
+  - *Rôles adaptés:* PDG, Directeur financier, Analyste financier
 
 - **[OfferScope](https://www.aimyflow.com/fr/ai/offerscope-app)**
   - OfferScope est un outil d’analyse des contrats de travail par IA qui aide les employés à comprendre les risques contractuels, à obtenir des explications en langage clair et des questions de négociation avant de signer,...
@@ -7367,6 +8086,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Office Translator](https://www.aimyflow.com/fr/ai/officetranslator-com)**
   - Office Translator est une plateforme de traduction de documents par IA qui traduit des PDF, des fichiers Word, des EPUB et de nombreux autres formats tout en préservant la mise en page et le formatage d’origine,...
   - *Rôles adaptés:* Rédacteur technique, Rédacteur publicitaire, Responsable PMO, Professeur d’université
+
+- **[Ohm](https://www.aimyflow.com/fr/ai/ohm-ai)**
+  - Ohm est un outil d'intelligence artificielle pour les laboratoires d'essais d'ingénierie qui aide les scientifiques et les ingénieurs en matériel à accéder plus rapidement aux informations issues des données de...
+  - *Rôles adaptés:* Ingénieur mécanique, Ingénieur électricien, Data scientist, Biologiste moléculaire +1 de plus
 
 - **[Okara](https://www.aimyflow.com/fr/ai/okara-ai)**
   - Okara est une plateforme privée de chat IA qui permet aux professionnels, fondateurs, rédacteurs, chercheurs et équipes de travailler avec plus de 20 modèles open source, de téléverser des fichiers et d’utiliser des...
@@ -7391,6 +8114,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Omni One](https://www.aimyflow.com/fr/ai/app-omni1-ai)**
   - Omni One est une plateforme d’IA qui donne aux utilisateurs accès à plus de 350 modèles, dont OpenAI, Claude et Gemini, pour démarrer des conversations et travailler avec du texte, des images, de la vidéo et de...
   - *Rôles adaptés:* Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital, Ingénieur logiciel +1 de plus
+
+- **[OmniAI](https://www.aimyflow.com/fr/ai/getomni-ai)**
+  - OmniAI est une plateforme d’agents IA pour le prêt qui automatise l’intégration des emprunteurs, la communication, la collecte de documents et les relances, principalement pour les prêteurs et les équipes de prêt. Pour...
+  - *Rôles adaptés:* Analyste financier, Analyste des risques, Responsable PMO, Responsable infrastructure IT +1 de plus
 
 - **[OmniDetect](https://www.aimyflow.com/fr/ai/omnidetect-ai)**
   - OmniDetect est un détecteur de contenu IA qui analyse les textes avec GPTZero, Winston AI et ZeroGPT afin de fournir une évaluation consensuelle indiquant si un contenu a été généré par l’IA, principalement pour les...
@@ -7420,10 +8147,6 @@ _Vue compacte pour un balayage plus rapide._
   - OnSpace.AI est un créateur d’applications d’IA no-code qui aide les utilisateurs à créer et lancer des applications iOS, Android et web avec des fonctionnalités backend gérées, principalement destiné aux fondateurs non...
   - *Rôles adaptés:* Responsable développement logiciel, PDG, Responsable PMO, Graphiste +1 de plus
 
-- **[OnSpace.AI](https://www.aimyflow.com/fr/ai/onspace-ai-agentic-app-builder)**
-  - OnSpace.AI est un créateur d’applications agentiques no-code qui aide les utilisateurs à transformer des idées et des prompts en applications partageables, propulsées par l’IA, pour iOS, Android et le web,...
-  - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Consultant en technologies éducatives, Graphiste +1 de plus
-
 - **[OnSpace.AI](https://www.aimyflow.com/fr/ai/onspace-ai-ai-app-builder)**
   - OnSpace.AI est un créateur d’applications no-code alimenté par l’IA qui aide les utilisateurs à créer et publier des applications iOS, Android, web et full-stack avec des fonctionnalités backend intégrées,...
   - *Rôles adaptés:* PDG, Responsable développement logiciel, Graphiste, Créateur de contenu +1 de plus
@@ -7435,6 +8158,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Ontora](https://www.aimyflow.com/fr/ai/ontora-com)**
   - Ontora est un outil d’exploration de processus et d’analyse opérationnelle basé sur l’IA, qui connecte les systèmes, documents et réunions d’une entreprise afin de découvrir comment le travail se déroule réellement,...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, PDG
+
+- **[Ontra Mobility](https://www.aimyflow.com/fr/ai/ontramobility-com)**
+  - Ontra Mobility est une plateforme destinée aux agences de transport en commun et aux équipes de mobilité urbaine pour planifier et exploiter des systèmes de transport multimodaux grâce à la modélisation de la demande...
+  - *Rôles adaptés:* Planificateur logistique, Responsable PMO, Directeur des opérations, Data scientist +1 de plus
+
+- **[Onyx AI](https://www.aimyflow.com/fr/ai/onyx-app)**
+  - Onyx AI est une plateforme open source de recherche d’entreprise et d’assistant IA qui se connecte aux documents, applications et personnes de l’entreprise afin d’aider les équipes à trouver des informations et à...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO, Directeur des opérations +1 de plus
 
 - **[Open eLMS AI](https://www.aimyflow.com/fr/ai/openelms-com-landing-page-ai)**
   - Open eLMS AI est un outil de création eLearning basé sur l’IA qui transforme des documents ou des invites textuelles en cours modifiables avec des scripts, des quiz, des images, des voix off, des présentateurs vidéo et...
@@ -7464,9 +8195,17 @@ _Vue compacte pour un balayage plus rapide._
   - OpenArt Photobooth est un outil d’images par IA qui permet aux utilisateurs de parcourir et d’utiliser plus de 100 modèles affinés pour la génération et la retouche d’images, principalement destiné aux créateurs ayant...
   - *Rôles adaptés:* Graphiste, Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu +1 de plus
 
+- **[OpenBuilder](https://www.aimyflow.com/fr/ai/theopenbuilder-com)**
+  - OpenBuilder est une plateforme de création d’applications IA qui aide les utilisateurs à décrire ce qu’ils veulent construire et à générer des projets web avec prise en charge du backend, outils de débogage et modèles,...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, PDG, Responsable PMO +1 de plus
+
 - **[OpenClaw](https://www.aimyflow.com/fr/ai/molt-bot)**
   - OpenClaw est un assistant IA personnel qui aide les utilisateurs à gérer leur boîte de réception, leurs e-mails, leur calendrier, l’enregistrement des vols et d’autres tâches informatiques via des applications de chat...
   - *Rôles adaptés:* PDG, Directeur des opérations, Responsable PMO, Ingénieur logiciel +1 de plus
+
+- **[OpenFoundry.ai](https://www.aimyflow.com/fr/ai/openfoundry-ai)**
+  - OpenFoundry.ai est une plateforme de développement d’IA open source qui aide les développeurs à trouver des modèles, prototyper, affiner et déployer plus rapidement des produits alimentés par l’IA sur leur propre...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO
 
 - **[OpenGPT](https://www.aimyflow.com/fr/ai/open-gpt-app)**
   - OpenGPT est une plateforme web permettant d’utiliser une gamme d’applications ChatGPT prêtes à l’emploi ou de créer des applications ChatGPT personnalisées en quelques secondes, principalement destinée aux personnes...
@@ -7480,6 +8219,10 @@ _Vue compacte pour un balayage plus rapide._
   - OpenMusic AI est une plateforme de création musicale par IA qui aide les utilisateurs à générer des chansons complètes et des paroles à partir de texte, ainsi qu’à éditer, séparer et masteriser des pistes,...
   - *Rôles adaptés:* Créateur de contenu, Amateur de musique, Créateur de contenu réseaux sociaux, Producteur de podcast +1 de plus
 
+- **[OpenPipe](https://www.aimyflow.com/fr/ai/openpipe-ai)**
+  - OpenPipe est une plateforme d'entreprise post-formation pour la construction, l'évaluation, l'affinement et la mise en service d'agents et de modèles personnalisés d'IA avec un affinement supervisé et un apprentissage...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +1 de plus
+
 - **[Openroll](https://www.aimyflow.com/fr/ai/openroll-com)**
   - Openroll est une plateforme de rémunération alimentée par l’IA qui aide les équipes à comparer les postes, simuler les positionnements salariaux et analyser les données de rémunération, de performance et de marché en...
   - *Rôles adaptés:* Responsable rémunération et avantages, Responsable des relations sociales, Directeur des opérations, Responsable FP&A +1 de plus
@@ -7488,8 +8231,16 @@ _Vue compacte pour un balayage plus rapide._
   - OpenRouter est une plateforme d’API unifiée et de routage pour modèles de langage qui aide les développeurs à accéder à plusieurs LLM, les comparer et les utiliser via une seule interface. Elle offre plus de...
   - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable infrastructure IT +82 de plus
 
+- **[OpenTools](https://www.aimyflow.com/fr/ai/opentools-com)**
+  - OpenTools est une API destinée aux développeurs qui créent des applications LLM, les aidant à connecter n’importe quel LLM pris en charge à des outils MCP tels que la recherche Web, les données de localisation et le...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
+
 - **[Oppy](https://www.aimyflow.com/fr/ai/oppy-work)**
   - Oppy est un outil de recherche d’emploi et de CV alimenté par l’IA qui aide les chercheurs d’emploi à réécrire leur CV à la voix, à trouver des offres d’emploi correspondantes, à postuler avec un CV pré-certifié et à...
+
+- **[Opslane](https://www.aimyflow.com/fr/ai/opslane-com)**
+  - Opslane est un outil open source, local-first, qui aide les développeurs à exécuter plusieurs sessions Claude Code dans des conteneurs Docker isolés, à synchroniser les modifications avec un dépôt local, à les tester...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
 - **[Optimo](https://www.aimyflow.com/fr/ai/askoptimo-com)**
   - Optimo est une suite d’outils marketing alimentée par l’IA de FATJOE qui aide les marketeurs à générer du contenu et à accomplir des tâches quotidiennes dans les domaines du SEO, de la publicité, des réseaux sociaux,...
@@ -7507,6 +8258,10 @@ _Vue compacte pour un balayage plus rapide._
   - Opus est une plateforme de production informatique et de conversion de texte en vidéo par IA qui transforme des idées d’histoires écrites en scènes, personnages, dialogues et effets visuels, principalement destinée aux...
   - *Rôles adaptés:* Créateur de contenu, Réalisateur indépendant, Créateur de contenu réseaux sociaux, Graphiste +1 de plus
 
+- **[Ora AI](https://www.aimyflow.com/fr/ai/oraai-com)**
+  - Ora AI est une plateforme d’étude fondée sur des données probantes pour les étudiants en médecine préparant les cours précliniques, les examens USMLE Step, les examens Shelf et le COMLEX. Elle propose une vaste banque...
+  - *Rôles adaptés:* Tuteur de préparation aux examens, Conseiller d’orientation scolaire, Enseignant
+
 - **[Orbofi](https://www.aimyflow.com/fr/ai/orbofi-com)**
   - Orbofi est une plateforme permettant de créer des agents IA personnalisés, des personnages IA et des coins agentiques tokenisés capables de discuter, d’exécuter des tâches et de fonctionner dans des environnements...
   - *Rôles adaptés:* Ingénieur logiciel, Créateur de contenu, Créateur de contenu réseaux sociaux, PDG
@@ -7518,6 +8273,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[OrchestrAI](https://www.aimyflow.com/fr/ai/orchestrai-dev)**
   - OrchestrAI est une plateforme de qualité du code, de sécurité et de conformité alimentée par l’IA, qui aide les équipes logicielles à faire passer le code du prototype à la production en automatisant l’analyse, les...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable cybersécurité, Responsable développement logiciel, Analyste cybersécurité +1 de plus
+
+- **[Orchid](https://www.aimyflow.com/fr/ai/orchid-health)**
+  - Orchid est une plateforme thérapeutique tout-en-un destinée aux professionnels de la santé mentale et du bien-être. Elle aide les cabinets privés à gérer le dossier médical électronique, la planification, les...
+  - *Rôles adaptés:* Administrateur de santé, Coach bien-être, Conseiller d’orientation scolaire, Agent de facturation médicale +1 de plus
 
 - **[Oreate AI](https://www.aimyflow.com/fr/ai/oreateai-com)**
   - Oreate AI est un outil IA de reformulation et de réécriture qui aide à réviser rapidement des documents avec des fonctions d’édition en ligne, surtout pour rédacteurs, étudiants et professionnels du contenu. Il permet...
@@ -7534,10 +8293,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Orion Arm](https://www.aimyflow.com/fr/ai/stackie-ai)**
   - Orion Arm est une entreprise de produits qui développe des outils d’IA, notamment un calendrier IA et un agent d’actualités nativement conçu pour l’IA, destinés aux utilisateurs du quotidien souhaitant être aidés dans...
   - *Rôles adaptés:* PDG, Responsable PMO, Reporter TV, Créateur de contenu
-
-- **[Ormind](https://www.aimyflow.com/fr/ai/chat-noagi-ai-login)**
-  - Ormind est une plateforme d’employés IA en bêta privée qui aide les solopreneurs à déléguer la recherche, la rédaction, l’analyse, la préparation de la prospection et d’autres tâches métier répétables à des agents IA...
-  - *Rôles adaptés:* PDG, Rédacteur publicitaire, Directeur marketing digital, Analyste financier +1 de plus
 
 - **[Orphiq](https://www.aimyflow.com/fr/ai/orphiq-com)**
   - Orphiq est une plateforme de planification de sorties musicales et de stratégie de carrière alimentée par l’IA, qui aide les artistes et leurs équipes à organiser les lancements, planifier les contenus promotionnels et...
@@ -7571,6 +8326,10 @@ _Vue compacte pour un balayage plus rapide._
   - OutBid est un outil basé sur Telegram qui surveille les offres d’emploi sur Upwork, envoie des alertes en environ 60 secondes et rédige des propositions avec l’IA, principalement pour les freelances qui veulent...
   - *Rôles adaptés:* Ingénieur logiciel, Graphiste, Rédacteur technique, Rédacteur publicitaire
 
+- **[Outerbase](https://www.aimyflow.com/fr/ai/outerbase-com)**
+  - Outerbase est une interface de base de données alimentée par l’IA qui aide les ingénieurs, chercheurs et analystes à explorer, interroger, modifier, cataloguer et visualiser les données dans des bases de données SQL et...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable infrastructure IT, Analyste cybersécurité
+
 - **[Outfit.fm](https://www.aimyflow.com/fr/ai/outfit-fm)**
   - Outfit.fm est une cabine d’essayage virtuelle IA qui permet d’essayer instantanément des idées de tenues en ligne, surtout pour acheteurs, créateurs mode et consommateurs soucieux de leur style. Elle raccourcit le...
   - *Rôles adaptés:* Styliste
@@ -7595,6 +8354,10 @@ _Vue compacte pour un balayage plus rapide._
   - Outrove est une plateforme de workflow de recrutement par IA qui aide les équipes de recrutement et les recruteurs à sourcer, présélectionner, interviewer, évaluer et faire avancer les candidats dans le processus...
   - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Responsable PMO, PDG
 
+- **[Outset](https://www.aimyflow.com/fr/ai/outset-ai)**
+  - Outset est une plateforme de recherche modérée par l’IA qui aide les équipes de recherche à mener des entretiens qualitatifs à une vitesse quantitative, à recruter des participants, à synthétiser les résultats et à...
+  - *Rôles adaptés:* Responsable PMO, Directeur marketing digital, PDG, Créateur de contenu
+
 - **[Outship](https://www.aimyflow.com/fr/ai/outship-ai)**
   - Outship est une plateforme de recrutement destinée aux équipes de recrutement en ingénierie, qui enregistre et analyse la manière dont les candidats en génie logiciel utilisent des agents de codage IA lors d’exercices...
   - *Rôles adaptés:* Responsable acquisition de talents, Responsable développement logiciel, Ingénieur logiciel, PDG
@@ -7606,6 +8369,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Overeasy.sh appears to be a category-based directory website that](https://www.aimyflow.com/fr/ai/overeasy-sh)**
   - Overeasy.sh semble être un site d’annuaire basé sur des catégories qui aide les utilisateurs à parcourir des pages thématiques et à trouver des ressources dans des domaines comme l’automobile, la finance, la santé, les...
 
+- **[Overlap](https://www.aimyflow.com/fr/ai/overlap-ai)**
+  - Overlap est une plateforme de découpage vidéo par IA et de workflow vidéo social qui automatise la transformation de contenus longs en clips courts ainsi que les workflows de publication, principalement pour les...
+  - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu, Rédacteur publicitaire +1 de plus
+
 - **[Overlead](https://www.aimyflow.com/fr/ai/overlead-co-en)**
   - Overlead est un outil de découverte de leads qui analyse l’URL d’un produit pour trouver des discussions récentes à forte intention sur Reddit et les réseaux sociaux, où les gens demandent des solutions, comparent des...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, PDG, Rédacteur publicitaire +1 de plus
@@ -7614,13 +8381,9 @@ _Vue compacte pour un balayage plus rapide._
   - Overstand Labs est une plateforme d’insights clients et de preuves qui unifie les données first-party issues des e-mails, de Slack, des appels, des documents et des bases de données afin que les équipes puissent poser...
   - *Rôles adaptés:* Directeur des opérations, Responsable des relations sociales, Responsable PMO, Data scientist +1 de plus
 
-- **[OVR IT](https://www.aimyflow.com/fr/ai/ovrit-app)**
-  - OVR IT est un planificateur d’études par IA pour les étudiants universitaires, en particulier ceux ayant un TDAH, qui analyse les syllabus, cartographie les échéances et le poids des notes, et propose une prochaine...
-  - *Rôles adaptés:* Conseiller d’orientation scolaire, Professeur d’université, Consultant en technologies éducatives, Enseignant
-
-- **[PACT](https://www.aimyflow.com/fr/ai/ai-pact-com)**
-  - PACT est un outil gratuit d’audit de conformité de sites web alimenté par l’IA, qui vérifie les sites pour l’accessibilité ADA, les exigences de confidentialité du RGPD et les problèmes WCAG 2.1 AA, principalement pour...
-  - *Rôles adaptés:* Consultant en technologies éducatives, Responsable infrastructure IT, Responsable développement logiciel, Responsable cybersécurité +1 de plus
+- **[Oway](https://www.aimyflow.com/fr/ai/shipoway-com)**
+  - Oway est une plateforme d’intelligence industrielle et de distribution automatisée qui aide les entreprises à expédier du fret LTL palettisé de 1 à plus de 12 palettes, et aide les transporteurs à monétiser la capacité...
+  - *Rôles adaptés:* Planificateur logistique, Directeur des opérations, Responsable d’agence, Responsable infrastructure IT +1 de plus
 
 - **[PageAI](https://www.aimyflow.com/fr/ai/pageai-pro)**
   - PageAI est un créateur de sites web par IA pour les professionnels, en particulier les développeurs, qui transforme une consigne en un site web prêt pour la production avec design, code, SEO, fonctionnalités de blog et...
@@ -7646,6 +8409,10 @@ _Vue compacte pour un balayage plus rapide._
   - Paintit.ai est un outil de design d’intérieur basé sur l’IA qui aide les utilisateurs à importer des images de pièces ou des prompts afin de repenser, repeindre, mettre en scène et affiner des intérieurs, des...
   - *Rôles adaptés:* Architecte d'intérieur, Agent immobilier, Architecte commercial, Graphiste +1 de plus
 
+- **[Pair AI](https://www.aimyflow.com/fr/ai/pairai-com)**
+  - Pair AI est une plateforme de recrutement technique assistée par IA qui aide les entreprises à évaluer les candidats en ingénierie logicielle au moyen de compétitions de code pratiques et chronométrées, plutôt que par...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable développement logiciel, Ingénieur logiciel, PDG
+
 - **[Palace](https://www.aimyflow.com/fr/ai/palace-so)**
   - Palace est une plateforme de planification et de dispatch native de l’IA qui aide les transporteurs routiers à optimiser la sélection des chargements, le routage, la planification et les ajustements de flotte en temps...
   - *Rôles adaptés:* Planificateur logistique, Directeur des opérations, Responsable d’agence, Responsable PMO +1 de plus
@@ -7666,13 +8433,25 @@ _Vue compacte pour un balayage plus rapide._
   - Paloma est un outil d’analytique IA destiné aux équipes de la chaîne d’approvisionnement, qui aide les opérateurs à transformer rapidement des données internes fragmentées en réponses et rapports fiables. Dans un...
   - *Rôles adaptés:* Planificateur logistique, Responsable PMO, Directeur des opérations, Analyste financier
 
+- **[Palomma](https://www.aimyflow.com/fr/ai/palomma-com)**
+  - Palomma est une plateforme technologique et financière destinée au secteur immobilier, qui fournit des assistants d’IA et des API de paiement sur mesure pour aider les agences et les entreprises immobilières à vendre,...
+  - *Rôles adaptés:* Agent immobilier, Responsable commercial terrain, Agent de facturation médicale, Analyste financier +1 de plus
+
 - **[Pamela](https://www.aimyflow.com/fr/ai/thisispamela-com)**
   - Pamela est un assistant d’appels téléphoniques basé sur l’IA qui gère les appels professionnels, les temps d’attente, la prise de rendez-vous et les suivis pour les professionnels très occupés, les assistants, les...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable d’agence, PDG +1 de plus
 
+- **[PandasAI](https://www.aimyflow.com/fr/ai/pandas-ai-com)**
+  - PandasAI est un tableau de bord de business intelligence basé sur l’IA qui aide les utilisateurs à poser des questions en langage naturel sur les données et à obtenir instantanément des graphiques, des tableaux de bord...
+  - *Rôles adaptés:* Analyste financier, PDG, Responsable PMO, Ingénieur logiciel
+
 - **[Panels](https://www.aimyflow.com/fr/ai/usepanels-com)**
   - Panels est un fournisseur de jeux de données audio de haute qualité pour l’entraînement et l’évaluation de modèles vocaux et audio, aidant les équipes d’IA vocale, les laboratoires de pointe spécialisés dans la voix et...
   - *Rôles adaptés:* Data scientist, Ingénieur data, Ingénieur logiciel, Responsable développement logiciel +1 de plus
+
+- **[Panora](https://www.aimyflow.com/fr/ai/getpanora-com)**
+  - Panora est une plateforme d’automatisation des bons de commande par IA qui valide, nettoie et enregistre les bons de commande et les devis dans les systèmes ERP, aidant les distributeurs, les fabricants et les...
+  - *Rôles adaptés:* Planificateur logistique, Responsable commercial terrain, Superviseur des opérations d’usine, Responsable des ventes e-commerce +1 de plus
 
 - **[Paper Animator Art](https://www.aimyflow.com/fr/ai/paperanimator-art)**
   - Paper Animator Art est un outil d’animation d’images par IA qui transforme des images statiques en visuels de papier déplié aux bords déchirés, avec suppression de l’arrière-plan et options d’exportation comme PNG, GIF...
@@ -7697,6 +8476,10 @@ _Vue compacte pour un balayage plus rapide._
   - ParakeetAI est un logiciel d’assistance aux entretiens basé sur l’IA qui fournit des réponses en temps réel, la transcription, une aide au codage et des notes pendant les entretiens, principalement pour les candidats...
   - *Rôles adaptés:* Ingénieur logiciel, Tuteur en programmation en ligne, Responsable acquisition de talents
 
+- **[Parallel](https://www.aimyflow.com/fr/ai/beparallel-com)**
+  - Parallel est une plateforme d’IA qui développe des agents pour rationaliser les flux de travail administratifs de santé, en particulier le codage médical, en opérant au sein des systèmes hospitaliers existants pour les...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Responsable infrastructure IT, Responsable PMO
+
 - **[Parallel Monitor API](https://www.aimyflow.com/fr/ai/docs-parallel-ai-monitor-api-monitor-quickstart)**
   - L’API Parallel Monitor est une API de surveillance du web qui aide les développeurs et les équipes techniques à suivre les changements sur le web grâce à des requêtes planifiées en langage naturel, un historique des...
   - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Responsable PMO +1 de plus
@@ -7711,6 +8494,10 @@ _Vue compacte pour un balayage plus rapide._
 
 - **[Parker](https://www.aimyflow.com/fr/ai/birthdayplannerai-com)**
   - Parker est un organisateur de fêtes d’anniversaire alimenté par l’IA qui aide les parents à planifier des fêtes pour enfants en générant, via le chat, des plans thématiques, des listes de contrôle, des budgets, des...
+
+- **[Parley](https://www.aimyflow.com/fr/ai/parley-so)**
+  - Parley est une plateforme d’IA destinée aux avocats en immigration et aux équipes juridiques, qui prend en charge l’ensemble du traitement des dossiers de visa, y compris la rédaction de mémoires et de lettres, la...
+  - *Rôles adaptés:* Avocat, Rédacteur technique, Responsable PMO
 
 - **[Parliant.AI](https://www.aimyflow.com/fr/ai/parliant-ai)**
   - Parliant.AI est une plateforme d’enquête basée sur l’IA qui mène des entretiens conversationnels de feedback client à questions ouvertes, aidant les équipes à recueillir des insights qualitatifs plus approfondis et à...
@@ -7731,10 +8518,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Pathmaker](https://www.aimyflow.com/fr/ai/pathmaker-app)**
   - Pathmaker est une plateforme d’apprentissage personnalisée qui aide les personnes à construire des programmes semaine par semaine avec des ressources sélectionnées, un suivi des progrès, des notes de cours et un coach...
   - *Rôles adaptés:* Consultant en technologies éducatives, Professeur d’université, Tuteur en programmation en ligne, Enseignant +1 de plus
-
-- **[PathPilot](https://www.aimyflow.com/fr/ai/getpathpilot-com)**
-  - PathPilot est une plateforme d’opérations de crédit basée sur l’IA qui aide les fournisseurs de BNPL, les équipes de crédit intégré, les fintechs de cartes de crédit et les agences de recouvrement à automatiser...
-  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Analyste financier, Analyste des risques +1 de plus
 
 - **[Patternaly](https://www.aimyflow.com/fr/ai/patternaly-com)**
   - Patternaly est un générateur de motifs par IA qui aide les utilisateurs à créer des motifs sans raccord et répétables à partir d’invites textuelles pour des produits d’impression à la demande, des textiles, des...
@@ -7780,10 +8563,6 @@ _Vue compacte pour un balayage plus rapide._
   - Pencil est un outil design-to-code qui intègre les flux de design d’interface dans l’IDE, aidant développeurs et équipes produit à passer plus vite du concept à l’implémentation. Il réduit les frictions entre design et...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsables informatiques, Directeur marketing digital +3 de plus
 
-- **[PencilArt.app](https://www.aimyflow.com/fr/ai/pencilart-app)**
-  - PencilArt.app est un générateur d’art au crayon basé sur l’IA qui transforme des photos en dessins au crayon propres et imprimables, avec des styles ajustables et des paramètres de détail, principalement destiné aux...
-  - *Rôles adaptés:* Graphiste, Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
-
 - **[PeopleAlsoAsk.ai](https://www.aimyflow.com/fr/ai/peoplealsoask-ai)**
   - PeopleAlsoAsk.ai est un outil de recherche SEO alimenté par l’IA qui génère des questions de type « People Also Ask » et des réponses associées pour aider les créateurs de contenu, les marketeurs et les professionnels...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Rédacteur technique +1 de plus
@@ -7795,6 +8574,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Peppertype.ai](https://www.aimyflow.com/fr/ai/peppertype-ai)**
   - Peppertype.ai est une plateforme de contenu et de recherche basée sur l’IA qui aide les équipes marketing et contenu à créer, optimiser, auditer et gérer du contenu aligné sur la marque grâce à des workflows avec...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Rédacteur technique, Créateur de contenu +1 de plus
+
+- **[Persana AI](https://www.aimyflow.com/fr/ai/persana-ai)**
+  - Persana AI est une plateforme d’automatisation de la prospection commerciale et de la mise sur le marché qui aide les équipes à trouver et enrichir des leads, à suivre les signaux d’intention d’achat, à personnaliser...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
 
 - **[Perso AI](https://www.aimyflow.com/fr/ai/perso-ai)**
   - Perso AI est une plateforme de doublage par IA et de localisation vidéo qui aide les créateurs, les spécialistes du marketing, les éducateurs et les entreprises à traduire des vidéos et des contenus audio dans plus de...
@@ -7836,9 +8619,9 @@ _Vue compacte pour un balayage plus rapide._
   - Phonk Maker est un générateur de musique par IA qui aide les utilisateurs à créer des morceaux et des paroles de phonk libres de droits à partir d’invites textuelles, principalement pour les créateurs de contenu, les...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Producteur de podcast, Réalisateur indépendant +1 de plus
 
-- **[PhotoCat AI Image Extender](https://www.aimyflow.com/fr/ai/photocat-com-image-extender)**
-  - PhotoCat AI Image Extender est un outil de désadrage en ligne qui utilise l’IA générative pour étendre les arrière-plans de photos, restaurer les bords manquants et redimensionner naturellement les images pour les...
-  - *Rôles adaptés:* Graphiste, Directeur marketing digital, Vendeur e-commerce, Créateur de contenu
+- **[Phospho](https://www.aimyflow.com/fr/ai/phospho-ai)**
+  - Phospho est une entreprise de robotique IA qui propose une boîte à outils open source, des kits de développement matériel et des outils d’entraînement dans le cloud pour aider les développeurs et les équipes de...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur électricien, Ingénieur mécanique +1 de plus
 
 - **[PhotodotAI](https://www.aimyflow.com/fr/ai/photodot-ai)**
   - PhotodotAI est un éditeur photo IA en ligne qui aide les utilisateurs à retoucher des photos de voitures, des portraits et d’autres images grâce à des outils de suppression d’arrière-plan, d’amélioration,...
@@ -7879,10 +8662,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[picAId](https://www.aimyflow.com/fr/ai/picaid-app)**
   - picAId est une application d’appareil photo et d’édition d’images immobilières basée sur l’IA qui aide les agents immobiliers à rendre les photos de biens plus professionnelles grâce à des fonctionnalités telles que...
   - *Rôles adaptés:* Agent immobilier, Créateur de contenu, Graphiste
-
-- **[PicFixer AI Headshot Generator](https://www.aimyflow.com/fr/ai/picfixer-ai-tools-ai-headshot-generator)**
-  - Le générateur de portraits professionnels IA de PicFixer est un outil photo IA qui transforme des selfies décontractés en portraits professionnels de type corporate, avec un éclairage, une tenue et des arrière-plans...
-  - *Rôles adaptés:* Responsable acquisition de talents, Responsable commercial terrain, Agent immobilier, Créateur de contenu +1 de plus
 
 - **[Pickle](https://www.aimyflow.com/fr/ai/getpickle-ai)**
   - Pickle est un système personnel d’IA et de mémoire qui transforme les moments du quotidien, les actions et les apprentissages en une couche de mémoire structurée afin que l’IA puisse mieux comprendre les individus et...
@@ -7943,6 +8722,10 @@ _Vue compacte pour un balayage plus rapide._
   - PicWish est un outil IA de retouche photo qui aide à supprimer les arrière-plans, déflouter les images et faire des edits rapides en ligne, surtout pour vendeurs, marketeurs et utilisateurs du quotidien. Il permet de...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Responsable des ventes e-commerce, Tuteur en programmation en ligne +11 de plus
 
+- **[Pier Finance](https://www.aimyflow.com/fr/ai/pier-finance-com)**
+  - Pier Finance est une plateforme SaaS dotée d’API conviviales pour les développeurs et d’outils low-code, qui aide les entreprises à lancer ou automatiser des produits de crédit tels que le BNPL, le crédit de...
+  - *Rôles adaptés:* Ingénieur logiciel, Analyste financier, Responsable PMO, PDG +1 de plus
+
 - **[Pika](https://www.aimyflow.com/fr/ai/pika-art)**
   - Pika est une plateforme IA d’idée vers vidéo qui aide les créateurs à transformer des concepts en contenus vidéo animés, surtout pour marketeurs, storytellers et équipes social media. Elle permet de prototyper et...
   - *Rôles adaptés:* Créateur de contenu, Professionnels de l'art et du design, Métiers de l'informatique, Responsables informatiques +1 de plus
@@ -7963,6 +8746,10 @@ _Vue compacte pour un balayage plus rapide._
   - Pinch est une plateforme de traduction vocale en temps réel et de doublage vidéo par IA qui aide les utilisateurs à traduire des vidéos, des podcasts, des fichiers audio et des conversations en direct dans 10 langues,...
   - *Rôles adaptés:* Producteur de podcast, Créateur de contenu réseaux sociaux, Ingénieur logiciel, Rédacteur technique +1 de plus
 
+- **[Pincites](https://www.aimyflow.com/fr/ai/pincites-com)**
+  - Pincites est une suite de révision de contrats basée sur l’IA pour Microsoft Word qui aide les équipes juridiques à réviser, annoter, négocier et analyser les contrats à l’aide de playbooks, de scores de risque et de...
+  - *Rôles adaptés:* Avocat, Responsable PMO, Directeur des opérations
+
 - **[Ping](https://www.aimyflow.com/fr/ai/ping-tm)**
   - Ping est un gestionnaire de tâches alimenté par l’IA qui aide les petites équipes et les utilisateurs individuels à capturer, planifier et exécuter des tâches privées et partagées à l’aide de la voix, de photos, de...
   - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable d’agence, Responsable développement logiciel +1 de plus
@@ -7975,6 +8762,10 @@ _Vue compacte pour un balayage plus rapide._
   - Piooy AI Image Generator est un outil en ligne de génération d’images à partir de texte qui aide les créateurs et les équipes à produire des images, des affiches publicitaires, des designs de personnages, des maquettes...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu, Vendeur e-commerce +1 de plus
 
+- **[Pipeshift](https://www.aimyflow.com/fr/ai/pipeshift-com)**
+  - Pipeshift est une plateforme d’inférence qui aide les équipes à déployer, optimiser et faire évoluer en production des modèles d’IA open source, personnalisés et affinés, grâce à une infrastructure à locataire unique,...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Responsable développement logiciel, Responsable PMO +1 de plus
+
 - **[Pipiads AI SaaS Ad Creative Center](https://www.aimyflow.com/fr/ai/pipiads-com-ai-saas-business)**
   - Pipiads AI SaaS Ad Creative Center est une bibliothèque d’intelligence publicitaire et un outil de recherche qui aide les utilisateurs à parcourir, suivre et analyser les publicités d’IA SaaS, de sites web et...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Vendeur e-commerce +1 de plus
@@ -7986,6 +8777,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[PitchMeAI](https://www.aimyflow.com/fr/ai/pitchmeai-com)**
   - PitchMeAI est une plateforme de recherche d’emploi basée sur l’IA et une extension Chrome qui aide les chercheurs d’emploi à adapter leurs CV, générer des e-mails de prise de contact pour les recruteurs, trouver les...
   - *Rôles adaptés:* Responsable acquisition de talents, Rédacteur publicitaire, Responsable PMO
+
+- **[Pivot Robotics](https://www.aimyflow.com/fr/ai/pivotrobotics-com)**
+  - Pivot Robotics propose une automatisation autonome des usines pour le traitement et l’inspection des pièces, en utilisant la vision par ordinateur pour aider les fabricants, les fonderies et les équipes de...
+  - *Rôles adaptés:* Superviseur des opérations d’usine, Ingénieur mécanique, Designer industriel, Ingénieur électricien +1 de plus
 
 - **[Pixalytica](https://www.aimyflow.com/fr/ai/pixalytica-com)**
   - Pixalytica est un outil de KYC et de vérification d’identité basé sur l’IA qui utilise la reconnaissance faciale et des données publiques du web pour générer des rapports sur les vrais noms, le statut de PPE, les...
@@ -8115,6 +8910,14 @@ _Vue compacte pour un balayage plus rapide._
   - Podsuite est un outil de contenu pour podcasts basé sur l’IA qui transforme un épisode téléversé en transcriptions, notes d’émission, chapitres, extraits, articles de blog et publications pour les réseaux sociaux,...
   - *Rôles adaptés:* Producteur de podcast, Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
 
+- **[PointOne](https://www.aimyflow.com/fr/ai/pointone-com)**
+  - PointOne est une plateforme d’IA de suivi du temps, de conformité de facturation et d’analytique qui capture passivement le travail juridique, génère des entrées de temps conformes aux règles de facturation et facilite...
+  - *Rôles adaptés:* Avocat, Analyste financier, Responsable PMO, Directeur des opérations +1 de plus
+
+- **[Poka Labs](https://www.aimyflow.com/fr/ai/pokalabs-com)**
+  - Poka Labs est une plateforme d’opérations commerciales basée sur l’IA pour les entreprises industrielles B2B, qui aide les équipes de tarification et de vente à fixer des prix défendables, à automatiser la création de...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur des opérations, Superviseur des opérations d’usine +1 de plus
+
 - **[PokaMind](https://www.aimyflow.com/fr/ai/app-pokamind-com)**
   - PokaMind est une plateforme de soins mentaux basée sur l’IA qui utilise la science et l’intelligence artificielle pour rendre les soins mentaux plus accessibles, principalement aux personnes en quête de soutien et aux...
   - *Rôles adaptés:* Coach bien-être, Responsable des relations sociales, Administrateur de santé, Conseiller d’orientation scolaire
@@ -8139,13 +8942,13 @@ _Vue compacte pour un balayage plus rapide._
   - PolyAI est une plateforme d’IA conversationnelle pour les entreprises, conçue pour créer des agents vocaux réalistes sur les canaux voix, chat et SMS, afin d’aider les équipes de service client et de centres de contact...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Administrateur de santé, Responsable infrastructure IT +1 de plus
 
-- **[Polybuzz](https://www.aimyflow.com/fr/ai/polybuzz-ai)**
-  - Polybuzz est une plateforme de chat et de jeu de rôle avec des personnages IA qui permet aux utilisateurs de discuter avec des personnages IA, d’en créer et de les personnaliser, principalement pour les personnes en...
-  - *Rôles adaptés:* Créateur de contenu, Auteur de fiction, Créateur de contenu réseaux sociaux, Rédacteur publicitaire
-
 - **[Polymer](https://www.aimyflow.com/fr/ai/polymerhq-io)**
   - Polymer est une plateforme de sécurité des données à l’exécution qui aide les entreprises à identifier, analyser et atténuer les risques de sécurité en temps réel dans les flux de travail IA et SaaS, principalement...
   - *Rôles adaptés:* Responsable cybersécurité, Responsable infrastructure IT, Analyste cybersécurité, Administrateur de santé +1 de plus
+
+- **[Polymet](https://www.aimyflow.com/fr/ai/polymet-ai)**
+  - Polymet est un outil de conception de produits IA qui aide les équipes produit à concevoir des pages, des composants et des prototypes, et à générer du code front-end prêt pour la production, avec la prise en charge de...
+  - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Responsable développement logiciel, Responsable PMO +1 de plus
 
 - **[Ponzu.gg appears to be a category-based resource directory that](https://www.aimyflow.com/fr/ai/ponzu-gg)**
   - Ponzu.gg semble être un répertoire de ressources organisé par catégories, qui aide les utilisateurs à parcourir des listes thématiques dans des domaines comme l’automobile, la finance, la santé, les achats et les...
@@ -8185,10 +8988,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Posture AI: Reminder & Scale](https://www.aimyflow.com/fr/ai/apps-apple-com-th-app-ai-posture-exercise-neckfit-id6670690205)**
   - Posture AI: Reminder & Scale est une application de santé et de fitness qui utilise des analyses de posture par IA, des rappels et des exercices guidés pour le cou, le dos et les épaules afin d’aider les utilisateurs à...
   - *Rôles adaptés:* Coach bien-être, Spécialiste en santé au travail, Assistant en kinésithérapie, Administrateur de santé
-
-- **[PostVisit.ai](https://www.aimyflow.com/fr/ai/postvisit-ai)**
-  - PostVisit.ai est un compagnon post-consultation alimenté par l’IA qui aide les patients à comprendre, mémoriser et mettre en pratique les recommandations de leur médecin après un rendez-vous. Dans les parcours de soins...
-  - *Rôles adaptés:* Administrateur de santé, Médecin généraliste, Agent de facturation médicale, Coach bien-être
 
 - **[Potis.AI](https://www.aimyflow.com/fr/ai/potis-ai)**
   - Potis.AI est une plateforme de recrutement par IA qui aide les équipes en croissance à présélectionner, évaluer et noter les candidats grâce au screening vidéo par IA, à l’assistance à l’entretien et à l’évaluation...
@@ -8234,13 +9033,13 @@ _Vue compacte pour un balayage plus rapide._
   - PreCheck est une plateforme de reconnaissance faciale et de recherche de visages alimentée par l’IA qui aide les particuliers, les entreprises, les enquêteurs et les développeurs à trouver où un visage apparaît en...
   - *Rôles adaptés:* Analyste cybersécurité, Avocat, Ingénieur logiciel, Créateur de contenu +1 de plus
 
+- **[Precip](https://www.aimyflow.com/fr/ai/precip-ai)**
+  - Precip est une plateforme de suivi des précipitations hyperlocale, avec une application de pluviomètre et une API météo historique, qui aide les utilisateurs à surveiller l’accumulation de pluie et les conditions sur...
+  - *Rôles adaptés:* Planificateur logistique, Ingénieur logiciel, Ingénieur data, Responsable PMO +1 de plus
+
 - **[Predis.ai](https://www.aimyflow.com/fr/ai/predis-ai)**
   - Predis.ai est un outil IA de marketing sur les réseaux sociaux qui aide à créer des contenus vidéo et image et à analyser leurs performances, surtout pour les marketeurs, agences et marques en croissance. Il raccourcit...
   - *Rôles adaptés:* Créateur de contenu
-
-- **[Preflight Plus by Alison](https://www.aimyflow.com/fr/ai/alison-ai-preflight-plus)**
-  - Preflight Plus par Alison est un outil d’audit créatif par IA qui aide les équipes créatives et média à valider les publicités vidéo par rapport aux cadres de bonnes pratiques de Google, Meta et LinkedIn avant leur...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Graphiste, Créateur de contenu +1 de plus
 
 - **[PrepAI](https://www.aimyflow.com/fr/ai/prepai-in-us)**
   - PrepAI est une plateforme d’évaluation assistée par l’IA qui aide les enseignants et les établissements académiques à créer des quiz et des tests, à corriger les travaux et à suivre les performances des étudiants plus...
@@ -8253,10 +9052,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Pretty Scale Test](https://www.aimyflow.com/fr/ai/testdebelleza-com-en)**
   - Pretty Scale Test est un outil d’analyse de beauté par IA en ligne qui permet aux utilisateurs de téléverser une photo afin d’obtenir instantanément une note du visage et une analyse détaillée des traits du visage,...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Graphiste
-
-- **[Preuve AI](https://www.aimyflow.com/fr/ai/testyouridea-app)**
-  - Preuve AI est un outil de validation d’idées de startup basé sur l’IA qui analyse plus de 40 sources en direct afin d’évaluer les concurrents, les signaux de demande, les angles morts et les scores de viabilité,...
-  - *Rôles adaptés:* PDG, Responsable PMO, Directeur marketing digital, Responsable développement logiciel +1 de plus
 
 - **[Prezi](https://www.aimyflow.com/fr/ai/prezi-com)**
   - Prezi est une plateforme de présentation avec fonctions IA qui aide à créer rapidement des présentations interactives et engageantes, surtout pour les professionnels, enseignants et équipes commerciales. Elle...
@@ -8304,18 +9099,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Procys](https://www.aimyflow.com/fr/ai/procys-com)**
   - Procys est une plateforme de traitement de documents par IA qui extrait des données de factures, bons de commande, reçus, cartes d’identité et autres documents d’entreprise, principalement pour les équipes comptables,...
   - *Rôles adaptés:* Expert-comptable certifié, Analyste financier, Planificateur logistique, Agent de facturation médicale +1 de plus
-
-- **[Producer.ai](https://www.aimyflow.com/fr/ai/riffusion-com)**
-  - Producer.ai est une plateforme de création musicale par IA qui aide les musiciens, producteurs et créateurs à générer, remixer, personnaliser, publier et partager des chansons, des clips musicaux et des outils audio de...
-  - *Rôles adaptés:* Créateur de contenu, Amateur de musique, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
-
-- **[Product Hunt](https://www.aimyflow.com/fr/ai/producthunt-com)**
-  - Product Hunt est une plateforme de découverte de produits qui permet de trouver, partager et discuter de nouveaux produits tech, surtout pour les fondateurs, makers, investisseurs et early adopters. Elle offre aux...
-  - *Rôles adaptés:* Directeur marketing digital, Responsables marketing et ventes, Spécialistes des opérations, Responsable développement logiciel +5 de plus
-
-- **[ProductAI](https://www.aimyflow.com/fr/ai/productai-photo)**
-  - ProductAI est un outil IA de photo produit qui permet de générer des visuels produits professionnels à partir d’images importées et de préréglages, surtout pour les marques e-commerce, marketplaces et vendeurs en...
-  - *Rôles adaptés:* Vendeur e-commerce
 
 - **[ProductDescriber](https://www.aimyflow.com/fr/ai/productdescriber-com)**
   - ProductDescriber est un outil de rédaction IA qui permet de générer rapidement des descriptions produit, surtout pour les marchands e-commerce, gestionnaires de catalogues et marketeurs digitaux. Il simplifie la...
@@ -8377,6 +9160,10 @@ _Vue compacte pour un balayage plus rapide._
   - Prompt Engine est un outil de génération et d’optimisation de prompts par IA qui aide les utilisateurs à transformer des idées formulées en langage courant en prompts plus performants, à améliorer des prompts existants...
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Rédacteur technique, Créateur de contenu +1 de plus
 
+- **[PromptArmor](https://www.aimyflow.com/fr/ai/promptarmor-com)**
+  - PromptArmor est une plateforme de gestion des risques tiers liés à l’IA qui aide les organisations à identifier, évaluer, surveiller et cartographier l’usage de l’IA par les fournisseurs ainsi que les risques associés...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste des risques, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
+
 - **[Promptchan](https://www.aimyflow.com/fr/ai/promptchan-com)**
   - Promptchan est une plateforme d’IA permettant de créer et de discuter avec des compagnons virtuels personnalisables, ainsi que de générer des images et des vidéos par IA, principalement pour des adultes recherchant une...
   - *Rôles adaptés:* Créateur de contenu, Graphiste, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
@@ -8421,9 +9208,17 @@ _Vue compacte pour un balayage plus rapide._
   - Prosetta est un espace de travail d’IA pour rédiger, modifier, organiser et publier des documents, des images et des vidéos dans un système de connaissance collaboratif, principalement destiné aux équipes, aux...
   - *Rôles adaptés:* Rédacteur technique, Responsable développement logiciel, Ingénieur logiciel, Créateur de contenu +1 de plus
 
+- **[Prosights](https://www.aimyflow.com/fr/ai/prosights-co)**
+  - Prosights est une plateforme d’automatisation financière basée sur l’IA qui extrait et organise des données non structurées en résultats structurés tels qu’Excel, JSON et des bases de données, principalement pour les...
+  - *Rôles adaptés:* Analyste financier, Expert-comptable certifié, Data scientist, Agent immobilier +1 de plus
+
 - **[ProspectFlow](https://www.aimyflow.com/fr/ai/prospectflow-dev)**
   - ProspectFlow est une plateforme de génération de leads et de création de sites web alimentée par l’IA qui aide les freelances, les agences et d’autres équipes de prospection outbound à transformer des noms...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu +1 de plus
+
+- **[Prosper AI](https://www.aimyflow.com/fr/ai/getprosper-ai)**
+  - Prosper AI est une plateforme d’agents vocaux IA axée sur la santé qui automatise les flux téléphoniques d’accès des patients et du cycle de revenus, tels que la prise de rendez-vous, la vérification des prestations,...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Directeur des opérations, Responsable PMO
 
 - **[ProteinQure](https://www.aimyflow.com/fr/ai/proteinqure-com)**
   - ProteinQure est une entreprise biotechnologique au stade clinique qui conçoit de nouveaux traitements thérapeutiques à base de peptides et des systèmes d’administration spécifiques aux tissus grâce à sa plateforme...
@@ -8457,6 +9252,14 @@ _Vue compacte pour un balayage plus rapide._
   - Pylar est une plateforme de gouvernance d’accès aux données qui permet aux agents IA d’accéder en sécurité à des données structurées via des vues SQL contrôlées et des outils MCP, surtout pour les équipes data et...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable cybersécurité, Responsable infrastructure IT, Ingénieur data +4 de plus
 
+- **[Pylon](https://www.aimyflow.com/fr/ai/usepylon-com)**
+  - Plateforme d’assistance native IA conçue pour les entreprises B2B. Un seul outil pour votre billetterie, votre chat, votre base de connaissances, l’assistance IA, l’intelligence de compte, et plus encore.
+  - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, Directeur des opérations, PDG
+
+- **[Pythagora](https://www.aimyflow.com/fr/ai/pythagora-ai)**
+  - Pythagora est une plateforme de développement IA et un coéquipier de programmation pour VS Code/Cursor qui aide les développeurs et les équipes techniques à créer, déboguer, déployer et gérer des applications web...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO +1 de plus
+
 - **[Qoder](https://www.aimyflow.com/fr/ai/qoder-com)**
   - Qoder est une plateforme de développement agentique qui aide les développeurs à comprendre les bases de code et exécuter des tâches logicielles avec des agents IA, surtout pour les ingénieurs logiciel et équipes de...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable cybersécurité +14 de plus
@@ -8489,6 +9292,10 @@ _Vue compacte pour un balayage plus rapide._
   - Question AI est un assistant gratuit d’aide aux devoirs en ligne basé sur l’IA qui permet aux étudiants de téléverser des photos ou de saisir des questions afin d’obtenir des solutions étape par étape en mathématiques,...
   - *Rôles adaptés:* Tuteur en programmation en ligne, Tuteur de préparation aux examens, Consultant en technologies éducatives, Enseignant
 
+- **[Quetzal](https://www.aimyflow.com/fr/ai/getquetzal-com)**
+  - Quetzal est une plateforme d’internationalisation qui aide les développeurs et les équipes produit à localiser rapidement des produits web grâce à la traduction assistée par l’IA, à la détection des chaînes à la...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, Responsable PMO +1 de plus
+
 - **[QuickCEP](https://www.aimyflow.com/fr/ai/quickcep-com)**
   - QuickCEP est une plateforme de chatbot IA pour boutiques Shopify qui aide les marchands à automatiser le support client et stimuler les ventes, surtout pour les entreprises e-commerce et équipes support. Elle permet de...
   - *Rôles adaptés:* Vendeur e-commerce
@@ -8508,6 +9315,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Quicklogo](https://www.aimyflow.com/fr/ai/quicklogo-design)**
   - Quicklogo est un générateur de logos par IA qui aide les utilisateurs à créer en quelques secondes des options de logos professionnels à partir d’un simple prompt, principalement pour les marques, les startups, les...
   - *Rôles adaptés:* Graphiste, PDG, Directeur marketing digital, Créateur de contenu +1 de plus
+
+- **[Quill Bills](https://www.aimyflow.com/fr/ai/quillbills-com)**
+  - Quill Bills est un système de gestion de cabinet et de gestion du cycle des revenus conçu nativement pour l’IA, qui automatise les tâches de facturation médicale telles que le codage, les vérifications d’éligibilité,...
+  - *Rôles adaptés:* Agent de facturation médicale, Administrateur de santé
 
 - **[Quillz](https://www.aimyflow.com/fr/ai/quillz-co)**
   - Quillz est un assistant de rédaction IA pour les étudiants qui les aide à transformer des consignes de devoir et des idées brutes en brouillons structurés, adaptés au contexte, section par section, tout en préservant...
@@ -8533,14 +9344,6 @@ _Vue compacte pour un balayage plus rapide._
   - Qwen est un assistant IA multimodal et une plateforme d’API qui aide les utilisateurs à discuter, rechercher sur le web, traiter des documents, comprendre des images et des vidéos, générer des images et des vidéos, et...
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Rédacteur technique, Créateur de contenu +1 de plus
 
-- **[Qwen Code](https://www.aimyflow.com/fr/ai/github-com-QwenLM-qwen-code)**
-  - Qwen Code est un agent d’IA open source pour le terminal qui aide les développeurs à comprendre de vastes bases de code, à automatiser les tâches de codage répétitives, ainsi qu’à refactoriser ou tester du code, avec...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, Responsable infrastructure IT
-
-- **[Qwen3-Coder](https://www.aimyflow.com/fr/ai/github-com-QwenLM-Qwen3-Coder)**
-  - Qwen3-Coder est une série de modèles de langage de codage à poids ouverts de l’équipe Qwen qui aide les développeurs à générer, comprendre et manipuler du code dans de nombreux langages de programmation, avec des...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data
-
 - **[Rabbithole](https://www.aimyflow.com/fr/ai/rabbithole-chat)**
   - Rabbithole est un outil de questions et de conversation par chat qui aide les utilisateurs à poser leurs propres questions, à conserver un historique des discussions et à les consulter ultérieurement, principalement...
   - *Rôles adaptés:* Enseignant, Rédacteur technique, Professeur d’université, Créateur de contenu +1 de plus
@@ -8556,10 +9359,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[RADiCAL](https://www.aimyflow.com/fr/ai/radicalmotion-com)**
   - RADiCAL est une plateforme de création 3D par IA, accessible via navigateur, qui aide les utilisateurs à capturer des mouvements, animer des personnages, créer des scènes et collaborer en temps réel, principalement...
   - *Rôles adaptés:* Réalisateur indépendant, Graphiste, Créateur de contenu, Professeur d’université +1 de plus
-
-- **[Radily](https://www.aimyflow.com/fr/ai/radily-ai)**
-  - Radily est un outil d’IA conforme à la HIPAA qui explique les comptes rendus de scanner, d’IRM et de radiographie en langage clair, avec des résumés vidéo en option et des questions de suivi suggérées, principalement...
-  - *Rôles adaptés:* Administrateur de santé, Médecin généraliste, Pédiatre, Cardiologue +1 de plus
 
 - **[Raghim AI](https://www.aimyflow.com/fr/ai/raghim-com)**
   - Raghim AI est une plateforme de chatbot d’IA pour les entreprises qui aide les organisations à déployer des chatbots auto-hébergés ou gérés pour les questions-réponses sur documents, l’interrogation de bases de données...
@@ -8585,6 +9384,10 @@ _Vue compacte pour un balayage plus rapide._
   - Rank++ est une plateforme d’optimisation de la visibilité IA dotée de neuf outils AEO qui aident les fondateurs, les indie hackers et les solopreneurs à auditer des sites web, ajouter des schémas et des citations,...
   - *Rôles adaptés:* Directeur marketing digital, PDG, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
+- **[RankAI](https://www.aimyflow.com/fr/ai/rankai-ai)**
+  - RankAI est une plateforme d’agence SEO/GEO native IA qui gère de manière autonome la recherche de mots-clés, la création de contenu, l’optimisation technique, l’optimisation pour la recherche IA et les réécritures afin...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Créateur de contenu, Rédacteur publicitaire +1 de plus
+
 - **[RankBot](https://www.aimyflow.com/fr/ai/rankbot-ai)**
   - RankBot est un outil SEO basé sur l’IA qui automatise la création de backlinks et les tâches de SEO on-page afin d’aider les sites web à améliorer leur visibilité dans les moteurs de recherche, principalement pour les...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG
@@ -8605,9 +9408,17 @@ _Vue compacte pour un balayage plus rapide._
   - RapidNative est un constructeur d’applications mobiles natif à l’IA qui transforme des prompts, croquis, images et PRD en applications partageables et en code React Native exportable, principalement pour les équipes...
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Graphiste, PDG +1 de plus
 
+- **[Rastro](https://www.aimyflow.com/fr/ai/rastro-ai)**
+  - Rastro est une plateforme d’opérations de catalogue alimentée par l’IA qui aide les distributeurs à enrichir les données produits, combler les lacunes de contenu, comparer les prix et lancer des produits plus...
+  - *Rôles adaptés:* Responsable des ventes e-commerce, Vendeur e-commerce, Responsable PMO, Directeur des opérations +1 de plus
+
 - **[rct AI](https://www.aimyflow.com/fr/ai/rct-ai)**
   - Fournir des solutions d'intelligence artificielle à l'industrie du jeu
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, Réalisateur indépendant, Créateur de contenu +1 de plus
+
+- **[Re.fit](https://www.aimyflow.com/fr/ai/rex-fit)**
+  - Re.fit propose The DROP, un dispositif portable de suivi nutritionnel basé sur l’IA et un coach via WhatsApp qui aident les patients, les athlètes et les utilisateurs soucieux de leur santé à enregistrer...
+  - *Rôles adaptés:* Coach bien-être, Administrateur de santé, Athlète professionnel, Passionné de gastronomie +1 de plus
 
 - **[Reacher](https://www.aimyflow.com/fr/ai/reacherapp-com)**
   - Reacher est une plateforme d’IA pour les marques et agences TikTok Shop qui aide les équipes à découvrir des créateurs de niche, à automatiser la prospection d’affiliés, à gérer les relations avec les créateurs et à...
@@ -8628,6 +9439,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Readdy](https://www.aimyflow.com/fr/ai/readdy-ai)**
   - Readdy est un créateur de sites web IA no-code qui aide les utilisateurs à générer, modifier et publier des sites web responsives à partir de prompts, de modèles, d’images ou d’URL de référence, principalement pour les...
   - *Rôles adaptés:* Directeur marketing digital, Graphiste, PDG, Créateur de contenu +1 de plus
+
+- **[Readily](https://www.aimyflow.com/fr/ai/readily-co)**
+  - Readily est une plateforme de conformité en santé basée sur l’IA qui automatise la recherche réglementaire, l’analyse des écarts, la revue de documents et la préparation aux audits pour les responsables conformité, les...
+  - *Rôles adaptés:* Administrateur de santé, Spécialiste en santé au travail, Responsable PMO
 
 - **[Readkidz](https://www.aimyflow.com/fr/ai/readkidz-com)**
   - Readkidz est une plateforme de création de contenu pour enfants alimentée par l’IA qui aide les utilisateurs à générer et personnaliser des livres illustrés numériques, des vidéos d’histoires, des séries de livres et...
@@ -8697,10 +9512,6 @@ _Vue compacte pour un balayage plus rapide._
   - Recruit CRM est un système de suivi des candidatures et CRM alimenté par l’IA qui aide les agences de recrutement à gérer les candidats, les clients, le sourcing, la prospection et les processus d’embauche sur une...
   - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, PDG, Directeur des opérations
 
-- **[Redapto](https://www.aimyflow.com/fr/ai/redapto-com)**
-  - Redapto est une plateforme d’intelligence de pointe pour les équipes GTM qui aide à unifier les données clients, les événements et les métriques, à orchestrer les workflows entre les différents fournisseurs et à...
-  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Directeur des opérations, Responsable PMO +1 de plus
-
 - **[Redesignr.ai](https://www.aimyflow.com/fr/ai/redesignr-ai)**
   - Redesignr.ai est un outil de refonte de sites web basé sur l’IA qui aide les utilisateurs à transformer des sites obsolètes en designs modernes et adaptatifs pour mobile, avec des variantes modifiables et du code...
   - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Directeur marketing digital, Rédacteur publicitaire +1 de plus
@@ -8719,6 +9530,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Redreach](https://www.aimyflow.com/fr/ai/redreach-ai)**
   - Redreach est un outil de génération de leads et de marketing pour Reddit, propulsé par l’IA, qui aide les entreprises, en particulier les fondateurs SaaS et les marketeurs, à trouver des conversations Reddit...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, PDG, Créateur de contenu
+
+- **[Reducto](https://www.aimyflow.com/fr/ai/reducto-ai)**
+  - Reducto est une plateforme d’IA d’analyse et d’extraction de documents qui aide les équipes à convertir des fichiers non structurés, tels que des PDF, des feuilles de calcul, des présentations, des images et des...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable infrastructure IT, Responsable PMO
 
 - **[Reedle](https://www.aimyflow.com/fr/ai/reedle-iopho-com)**
   - Reedle est une application de lecture basée sur l’IA qui permet d’enregistrer, de lire et de comprendre des articles, des PDF et des vidéos grâce au chat, aux résumés, aux traductions et à la révision de cartes mémoire...
@@ -8744,6 +9559,10 @@ _Vue compacte pour un balayage plus rapide._
   - Reflect Webchat est une extension Chrome qui ajoute une interface de chat IA aux pages web, aidant les utilisateurs à discuter d’articles longs et de vidéos YouTube avec le contexte de la page et les transcriptions,...
   - *Rôles adaptés:* Rédacteur technique, Data scientist, Analyste financier, Rédacteur publicitaire +1 de plus
 
+- **[Reflex](https://www.aimyflow.com/fr/ai/reflex-dev)**
+  - Reflex est une plateforme unifiée pour créer et faire évoluer des applications web d’entreprise et des outils internes grâce à la génération de code assistée par l’IA, au développement en Python pur et à un déploiement...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Responsable infrastructure IT +1 de plus
+
 - **[Refly.ai](https://www.aimyflow.com/fr/ai/refly-ai)**
   - Refly.ai est une plateforme de workflows IA sans code qui aide les créateurs non techniques à concevoir, automatiser, publier et monétiser des workflows de tâches à l’aide du langage naturel, d’un canevas visuel et de...
   - *Rôles adaptés:* Créateur de contenu, Responsable PMO, Directeur marketing digital, Analyste financier +1 de plus
@@ -8751,10 +9570,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Refont](https://www.aimyflow.com/fr/ai/refont-ai)**
   - Refont est un générateur de polices et de designs par IA qui aide les utilisateurs à créer de la calligraphie basée sur des images, des signatures, des styles d’écriture manuscrite, des logos, du texte pour tatouages...
   - *Rôles adaptés:* Graphiste, Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu +1 de plus
-
-- **[Regie.ai](https://www.aimyflow.com/fr/ai/regie-ai)**
-  - Regie.ai est une plateforme d’engagement commercial basée sur l’IA qui aide les équipes go-to-market modernes à orchestrer la prospection sortante, la prise de contact personnalisée, les appels, les séquences et le...
-  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, Directeur des opérations +1 de plus
 
 - **[Regression Games](https://www.aimyflow.com/fr/ai/regression-gg)**
   - Regression Games est une plateforme de test d’agents IA pour Unity qui aide les équipes à créer des tests automatisés de QA de jeu de bout en bout avec des outils comme l’enregistrement intelligent, l’OCR, les...
@@ -8775,6 +9590,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[relayed.ai](https://www.aimyflow.com/fr/ai/relayed-ai)**
   - relayed.ai est une page d’atterrissage de place de marché de domaines qui aide les personnes à se renseigner sur l’achat ou la location du domaine relayed.ai, principalement destinée aux acheteurs potentiels de...
   - *Rôles adaptés:* PDG, Directeur marketing digital, Agent immobilier, Directeur des opérations +1 de plus
+
+- **[Remade](https://www.aimyflow.com/fr/ai/remade-ai)**
+  - Remade est un canevas natif IA pour les flux de travail créatifs, qui aide les équipes créatives à produire et modifier du contenu visuel dans un espace de travail unique à l’aide de modèles d’image, de vidéo et de...
+  - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Graphiste, Rédacteur publicitaire +1 de plus
 
 - **[Remake Face AI](https://www.aimyflow.com/fr/ai/remakeface-ai)**
   - Remake Face AI est un outil en ligne d’échange de visages par IA et d’édition d’images qui aide les utilisateurs à remplacer des visages dans des photos et des vidéos, à ajuster des portraits et à transformer des...
@@ -8908,6 +9727,14 @@ _Vue compacte pour un balayage plus rapide._
   - ResolveAI est une plateforme no-code permettant de créer des chatbots IA personnalisés, entraînés sur les pages de votre site web, vos documents et d’autres sources de données, principalement pour les entreprises qui...
   - *Rôles adaptés:* Responsable développement logiciel, Directeur marketing digital, Responsable commercial terrain, Responsable PMO +1 de plus
 
+- **[Resonance](https://www.aimyflow.com/fr/ai/useresonance-com)**
+  - Resonance est un module complémentaire sans code pour les outils de communication marketing qui utilise l’IA pour personnaliser les contenus avec des messages spécifiques à chaque utilisateur, adaptés au moment, ainsi...
+  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
+
+- **[Respaid](https://www.aimyflow.com/fr/ai/respaid-com)**
+  - Respaid est un outil d’IA pour les comptes clients qui aide les équipes financières à recouvrer les factures en retard grâce à des relances respectueuses sur plusieurs canaux, principalement destiné aux directeurs...
+  - *Rôles adaptés:* Directeur financier, Analyste financier, Expert-comptable certifié, Directeur des opérations
+
 - **[Respan](https://www.aimyflow.com/fr/ai/respan-ai)**
   - Respan est une plateforme d’ingénierie LLM qui aide les équipes IA à tracer, évaluer, optimiser, déployer et surveiller le comportement des agents et les applications d’IA, principalement pour les ingénieurs et les...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Ingénieur data +1 de plus
@@ -8935,13 +9762,17 @@ _Vue compacte pour un balayage plus rapide._
   - Retail Media IQ est une plateforme de publicité retail media pilotée par l’IA qui aide les marques, les vendeurs, les agences et les annonceurs Walmart à créer, lancer et optimiser des campagnes sur les réseaux de...
   - *Rôles adaptés:* Responsable des ventes e-commerce, Directeur marketing digital, Vendeur e-commerce, Responsable commercial terrain +1 de plus
 
+- **[RetailReady](https://www.aimyflow.com/fr/ai/retailreadyai-com)**
+  - RetailReady est une plateforme de conformité de la chaîne d’approvisionnement qui aide les marques et les équipes d’entrepôt 3PL à gérer les exigences d’expédition des distributeurs, à automatiser des flux de travail...
+  - *Rôles adaptés:* Planificateur logistique, Superviseur des opérations d’usine, Responsable PMO, Directeur des opérations +1 de plus
+
 - **[Retainr](https://www.aimyflow.com/fr/ai/retainr-io)**
   - Retainr est une plateforme tout-en-un de gestion client qui aide les freelances et agences à gérer services, demandes et workflows de livraison, surtout pour les entreprises de services avec plusieurs clients. Elle...
   - *Rôles adaptés:* Responsable des ventes e-commerce, Directeur marketing digital, Coach en leadership d’entreprise, Consultant en technologies éducatives +18 de plus
 
-- **[Revenowl](https://www.aimyflow.com/fr/ai/revenowl-com)**
-  - Revenowl est un outil d’analyse des revenus et de business intelligence alimenté par l’IA, qui connecte Stripe, GitHub et des données analytiques pour aider les entreprises en croissance à suivre la performance de...
-  - *Rôles adaptés:* Directeur financier, Responsable FP&A, Analyste financier, PDG +1 de plus
+- **[RetroFix](https://www.aimyflow.com/fr/ai/retrofix-ai)**
+  - RetroFix est une plateforme d’automatisation des workflows par IA qui permet aux utilisateurs de décrire en anglais courant des tâches d’automatisation métier et navigateur, puis d’écrire, de tester et de surveiller...
+  - *Rôles adaptés:* Responsable PMO, Responsable infrastructure IT, Directeur des opérations, Directeur marketing digital +1 de plus
 
 - **[Revenue Scaler](https://www.aimyflow.com/fr/ai/revenuescaler-com)**
   - Revenue Scaler est une plateforme d’analytique et d’intelligence e-commerce alimentée par l’IA, qui aide les marques et les vendeurs à suivre la part de marché, les prix, les publicités, les stocks et l’activité des...
@@ -8962,6 +9793,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Rewebly](https://www.aimyflow.com/fr/ai/rewebly-com)**
   - Rewebly est un outil de refonte de sites web basé sur l’IA qui aide les propriétaires d’entreprise à générer, personnaliser et télécharger rapidement une nouvelle version moderne d’un site existant, sans compétences en...
   - *Rôles adaptés:* Directeur marketing digital, Graphiste, PDG, Créateur de contenu +1 de plus
+
+- **[Reworkd](https://www.aimyflow.com/fr/ai/reworkd-ai)**
+  - Reworkd est une plateforme de web scraping de bout en bout qui aide les équipes à extraire et surveiller des données de sites web à grande échelle, sans coder ni maintenir d’infrastructure d’extraction, principalement...
+  - *Rôles adaptés:* Ingénieur data, Data scientist, Planificateur logistique, Ingénieur logiciel +1 de plus
 
 - **[Rezi](https://www.aimyflow.com/fr/ai/rezi-ai)**
   - Rezi est un créateur de CV basé sur l’IA qui aide les chercheurs d’emploi à créer des CV compatibles ATS, des lettres de motivation et des documents de candidature personnalisés à l’aide d’outils de ciblage de...
@@ -8986,6 +9821,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Rippling](https://www.aimyflow.com/fr/ai/rippling-com)**
   - Rippling est une plateforme de gestion des effectifs qui unifie les opérations RH, IT et finance pour gérer employés, appareils, paie et conformité depuis un seul système, surtout pour les entreprises en croissance et...
   - *Rôles adaptés:* Responsables RH, Responsable infrastructure IT, Responsables financiers, Spécialiste des achats +6 de plus
+
+- **[Risotto](https://www.aimyflow.com/fr/ai/tryrisotto-com)**
+  - Risotto est une plateforme d’automatisation du help desk et de la gestion des tickets basée sur l’IA, qui aide les équipes informatiques à automatiser le support interne, les demandes d’accès et les workflows...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable cybersécurité, Responsable des relations sociales, Responsable FP&A +1 de plus
 
 - **[Riverflow](https://www.aimyflow.com/fr/ai/riverflow-ai)**
   - Riverflow est un outil créatif d’IA qui aide les équipes à générer des visuels et des éléments de campagne conformes à l’image de marque pour les publicités sur les réseaux sociaux, les visuels e-commerce et le contenu...
@@ -9015,6 +9854,9 @@ _Vue compacte pour un balayage plus rapide._
   - RNWY est une plateforme on-chain de confiance et d’identité qui évalue les portefeuilles crypto et les agents d’IA, aidant les utilisateurs à vérifier l’historique de propriété, les signaux de réputation, les schémas...
   - *Rôles adaptés:* Analyste des risques, Analyste cybersécurité, PDG, Directeur des opérations +1 de plus
 
+- **[Roame](https://www.aimyflow.com/fr/ai/roame-travel)**
+  - Roame est un outil gratuit de recherche et d’alertes sur les vols prime qui aide les utilisateurs à trouver et suivre des vols réservables avec des points de carte de crédit via des programmes de fidélité aériens,...
+
 - **[Roark](https://www.aimyflow.com/fr/ai/roark-ai)**
   - Roark est une plateforme de test et d’assurance qualité pour l’IA vocale qui aide les équipes à surveiller les appels en direct, à exécuter des simulations, à évaluer les performances et à transformer les échecs en...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
@@ -9035,9 +9877,21 @@ _Vue compacte pour un balayage plus rapide._
   - Rocket.new est un générateur d’applications no-code alimenté par l’IA qui transforme des instructions en langage naturel en applications web et mobiles prêtes pour la production, avec configuration du backend,...
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, PDG, Responsable PMO +1 de plus
 
+- **[Rocketeer](https://www.aimyflow.com/fr/ai/rocketeer-build)**
+  - Rocketeer est un orchestrateur d’IA pour l’ingénierie GTM qui ajoute des vues, des workflows et des compétences intégrées à Claude Code et Codex afin d’aider les ingénieurs GTM, les équipes RevOps, les opérateurs de...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, PDG, Responsable PMO +1 de plus
+
+- **[Rohan Mehta](https://www.aimyflow.com/fr/ai/rohanmehta-com)**
+  - Rohan Mehta est un site web personnel d’un ingénieur logiciel basé à New York chez OpenAI, présentant son parcours chez Meta et en tant que fondateur d’une startup soutenue par YC, et mettant en avant son rôle de...
+  - *Rôles adaptés:* Ingénieur logiciel, PDG, Créateur de contenu
+
 - **[Rolemantic AI](https://www.aimyflow.com/fr/ai/rolemantic-ai)**
   - Rolemantic AI est une plateforme de chatbot IA destinée aux utilisateurs adultes, leur permettant de discuter avec des personnages IA NSFW, de créer leurs propres personnages, de générer de l’art IA et de s’adonner à...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Graphiste, Rédacteur publicitaire
+
+- **[Rollstack](https://www.aimyflow.com/fr/ai/rollstack-com)**
+  - Rollstack est un outil d’automatisation du reporting qui connecte les données de BI et d’analyse aux présentations, aux documents et aux e-mails, aidant les équipes data, finance, opérations, customer success et...
+  - *Rôles adaptés:* Analyste financier, Responsable PMO, Directeur marketing digital, Ingénieur logiciel +1 de plus
 
 - **[Rolly](https://www.aimyflow.com/fr/ai/rollyapp-site)**
   - Rolly est une application de budgétisation et de suivi des dépenses basée sur l’IA qui aide les particuliers et les foyers partagés à enregistrer leurs dépenses par texte, voix ou photo de reçus, à organiser leurs...
@@ -9059,6 +9913,10 @@ _Vue compacte pour un balayage plus rapide._
   - Roshi est un outil de création de leçons par IA qui aide les enseignants à générer rapidement des supports d’apprentissage interactifs, tels que des dialogues, des visuels et des activités ciblées, puis à les partager...
   - *Rôles adaptés:* Enseignant, Consultant en technologies éducatives, Professeur d’université, Enseignant en collège communautaire +1 de plus
 
+- **[Rove](https://www.aimyflow.com/fr/ai/rovecard-com)**
+  - Rove est une plateforme de réservation et de récompenses de voyage conçue autour d’un mile aérien universel, qui aide les consommateurs à gagner des miles grâce aux vols, aux hôtels et aux achats, puis à les échanger...
+  - *Rôles adaptés:* Vendeur e-commerce
+
 - **[Rovr](https://www.aimyflow.com/fr/ai/withrovr-com)**
   - Rovr est une plateforme d’orchestration IA qui aide les équipes FDE, de conseil informatique et de services professionnels à recueillir les exigences, structurer les travaux de mise en œuvre, générer des livrables tels...
   - *Rôles adaptés:* Responsable PMO, Responsable développement logiciel, Responsable infrastructure IT, Directeur des opérations +1 de plus
@@ -9073,6 +9931,10 @@ _Vue compacte pour un balayage plus rapide._
 
 - **[RR88](https://www.aimyflow.com/fr/ai/paperlist-io)**
   - RR88 est une plateforme de paris en ligne qui permet aux joueurs d’accéder aux paris sportifs, aux jeux de casino, aux machines à sous, aux jeux de cartes et aux jeux de type loterie, principalement destinée aux...
+
+- **[Rubbrband](https://www.aimyflow.com/fr/ai/rubbrband-com)**
+  - Rubbrband est une agence créative et un studio de contenu propulsés par l’IA qui aident les entreprises à produire des bandes-annonces, des publicités, ainsi que des films de lancement ou de storytelling de marque,...
+  - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu, Rédacteur publicitaire, Producteur de podcast +1 de plus
 
 - **[Rumora](https://www.aimyflow.com/fr/ai/rumora-ai)**
   - Rumora est une plateforme de marketing de commentaires par IA qui aide les marques à promouvoir leur activité en trouvant des vidéos virales sur YouTube et TikTok et en publiant des commentaires authentiques depuis des...
@@ -9098,10 +9960,6 @@ _Vue compacte pour un balayage plus rapide._
   - Runway est une plateforme d’entreprise d’IA proposant des produits, des API, de la recherche et des ressources pour les entreprises, qui aident les équipes à créer et à utiliser des outils de médias génératifs et de...
   - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Responsable développement logiciel, PDG +1 de plus
 
-- **[Rushchat.AI](https://www.aimyflow.com/fr/ai/rushchat-ai)**
-  - Rushchat.AI est une plateforme de chat IA NSFW qui permet aux utilisateurs de discuter avec des personnages IA sans filtre, de créer leurs propres personnages et images, et de parcourir des personas conçues par la...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Enseignant en collège communautaire
-
 - **[Rybbit Analytics](https://www.aimyflow.com/fr/ai/rybbit-io)**
   - Rybbit Analytics est une plateforme open source, légère et sans cookies d’analyse web et produit qui aide les équipes à mesurer le comportement utilisateur tout en respectant la confidentialité, surtout pour les...
   - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Analyste cybersécurité, Data scientist +19 de plus
@@ -9126,9 +9984,9 @@ _Vue compacte pour un balayage plus rapide._
   - SafeWrite est un humaniseur d’IA qui crée un modèle de réécriture personnalisé à partir du style d’écriture d’un utilisateur afin de transformer des brouillons générés par l’IA en textes plus naturels et plus humains,...
   - *Rôles adaptés:* Rédacteur publicitaire, Créateur de contenu, Directeur marketing digital, Rédacteur technique +1 de plus
 
-- **[Sage](https://www.aimyflow.com/fr/ai/sagecare-ai)**
-  - Sage est un outil de CRM natif de l’IA et d’automatisation des workflows d’admission pour les agences de soins à domicile, qui transforme les appels d’admission et les visites à domicile en transcriptions, plans de...
-  - *Rôles adaptés:* Administrateur de santé, Aide à domicile, Directeur des opérations, Responsable PMO
+- **[Sagaland](https://www.aimyflow.com/fr/ai/sagaland-ai)**
+  - Sagaland est un compagnon d’écriture créative qui aide les utilisateurs à partir d’une saga pour écrire leur propre histoire, principalement destiné aux écrivains et aux passionnés de narration. Dans les flux de...
+  - *Rôles adaptés:* Auteur de fiction, Créateur de contenu, Rédacteur technique, Rédacteur publicitaire +1 de plus
 
 - **[Saldor](https://www.aimyflow.com/fr/ai/saldor-com)**
   - Saldor est un outil de formation sur le terrain qui aide les équipes de CVC, de solaire et d’autres métiers de service à rendre les nouvelles recrues opérationnelles plus rapidement grâce à une assistance mains libres...
@@ -9138,9 +9996,21 @@ _Vue compacte pour un balayage plus rapide._
   - SalesPatriot est une plateforme qui aide les distributeurs et les fabricants de la chaîne d’approvisionnement de la défense à trouver des opportunités, à gérer les flux de travail et à poursuivre l’attribution de...
   - *Rôles adaptés:* Responsable commercial terrain, Planificateur logistique, Responsable PMO, Directeur des opérations +1 de plus
 
+- **[Salient](https://www.aimyflow.com/fr/ai/trysalient-com)**
+  - Salient est une plateforme d’agents vocaux d’IA destinée aux prêteurs aux consommateurs américains, qui automatise le recouvrement, le service client, la gestion des litiges, les rétrofacturations et l’atténuation des...
+  - *Rôles adaptés:* Analyste financier, Analyste des risques, Responsable PMO, Directeur des opérations +1 de plus
+
 - **[Salus](https://www.aimyflow.com/fr/ai/usesalus-ai)**
   - Salus est un outil de sécurité pour agents d’IA qui valide les appels d’outils avant exécution, bloque en temps réel les actions incorrectes ou non fondées, et aide les équipes qui développent des agents d’IA à...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
+
+- **[Salvy](https://www.aimyflow.com/fr/ai/salvy-com-br)**
+  - Salvy est une plateforme d’opérateur mobile pour les entreprises qui propose des forfaits téléphoniques professionnels sans engagement, des lignes eSIM ou SIM physiques, ainsi que des numéros virtuels pour activer,...
+  - *Rôles adaptés:* Responsable infrastructure IT, Planificateur logistique, Responsable commercial terrain, Directeur des opérations +1 de plus
+
+- **[Sameday](https://www.aimyflow.com/fr/ai/gosameday-com)**
+  - Sameday est un système de réponse téléphonique par IA destiné aux entreprises de services à domicile. Il répond aux appels et aux SMS, planifie des interventions et prend en charge les flux de travail de répartition,...
+  - *Rôles adaptés:* Responsable d’agence, Responsable commercial terrain, Directeur de restaurant, Directeur des opérations +1 de plus
 
 - **[Samsung Food](https://www.aimyflow.com/fr/ai/samsungfood-com)**
   - Samsung Food est une application de cuisine et de planification des repas qui aide à enregistrer des recettes, organiser les repas, créer des listes de courses et mieux gérer la cuisine à la maison, surtout pour les...
@@ -9154,6 +10024,10 @@ _Vue compacte pour un balayage plus rapide._
   - Sanctum est un assistant IA de bureau privé qui aide les utilisateurs à exécuter localement des modèles de langage open source, à discuter en toute sécurité et à analyser des PDF sur leur propre appareil,...
   - *Rôles adaptés:* Ingénieur logiciel, Analyste cybersécurité, Analyste financier, Avocat +1 de plus
 
+- **[Saphira AI](https://www.aimyflow.com/fr/ai/saphira-ai)**
+  - Saphira AI est une plateforme de conformité produit alimentée par l’IA qui génère des HARA, TARA, FMEA ainsi que de la documentation de sécurité ou de cybersécurité à partir des données de conception système afin...
+  - *Rôles adaptés:* Responsable cybersécurité, Responsable développement logiciel, Ingénieur mécanique, Ingénieur électricien +1 de plus
+
 - **[Scale AI](https://www.aimyflow.com/fr/ai/scale-com)**
   - Scale AI est une plateforme d’IA destinée aux entreprises et au secteur public qui fournit des moteurs de données, des évaluations de modèles, du fine-tuning, du RLHF et des solutions agentiques pour aider les...
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Responsable développement logiciel, Analyste cybersécurité +1 de plus
@@ -9165,6 +10039,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[scalerX.ai](https://www.aimyflow.com/fr/ai/scalerx-ai)**
   - scalerX.ai est une plateforme RAG permettant de créer des agents IA personnalisés dans Telegram, aidant les utilisateurs à entraîner des bots sur leurs propres fichiers et contenus pour gérer le support, les ventes,...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable succès client, Responsable commercial terrain, Consultant en technologies éducatives
+
+- **[Scanbase](https://www.aimyflow.com/fr/ai/scanbase-com)**
+  - Scanbase est une entreprise de diagnostic en santé numérique qui utilise la vision par ordinateur pour transformer des photos de tests de diagnostic rapides en résultats positifs ou négatifs, principalement pour les...
+  - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Responsable infrastructure IT, Ingénieur data +1 de plus
 
 - **[ScanRelief](https://www.aimyflow.com/fr/ai/scanrelief-com)**
   - ScanRelief est un outil de bureau pour Windows et Mac qui utilise OpenAI pour traiter les reçus et les factures, renommer les fichiers à partir de leur contenu et générer des rapports Excel, principalement pour les...
@@ -9222,10 +10100,6 @@ _Vue compacte pour un balayage plus rapide._
   - Scraib.app est un assistant d’écriture pour la barre de menus Mac qui reformule le texte sélectionné dans n’importe quelle application afin d’améliorer la grammaire, le ton et le style, principalement pour les...
   - *Rôles adaptés:* Rédacteur technique, Rédacteur publicitaire, Ingénieur logiciel, Créateur de contenu +1 de plus
 
-- **[ScreenJournal](https://www.aimyflow.com/fr/ai/screenjournal-ai)**
-  - ScreenJournal est un outil de surveillance des employés et d’analyse de la productivité alimenté par l’IA qui analyse les enregistrements d’écran et vocaux, la présence, le ressenti et les distractions afin d’aider les...
-  - *Rôles adaptés:* Responsable des relations sociales, Superviseur des opérations d’usine, Responsable PMO, Responsable infrastructure IT +1 de plus
-
 - **[Scribbr](https://www.aimyflow.com/fr/ai/scribbr-com)**
   - Scribbr est une plateforme d’accompagnement académique proposant relecture, détection de plagiat, outils de citation et ressources d’étude pour aider les étudiants à améliorer leurs travaux et écrits universitaires. À...
   - *Rôles adaptés:* Enseignants du supérieur, Enseignants scolaires, Autres formateurs, Bibliothécaires et archivistes +5 de plus
@@ -9233,6 +10107,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Script Doctor](https://www.aimyflow.com/fr/ai/film-ai-io)**
   - Script Doctor est un outil d’analyse et de réécriture de scénarios par IA qui aide les cinéastes à améliorer des scripts de courts métrages de 1 à 5 minutes grâce à des retours sur la structure, le rythme, les enjeux...
   - *Rôles adaptés:* Réalisateur indépendant, Créateur de contenu, Auteur de fiction, Enseignant
+
+- **[Scritch](https://www.aimyflow.com/fr/ai/scritchai-com)**
+  - Scritch est un agent d’accueil vétérinaire IA pour les cabinets vétérinaires qui gère les appels des clients, la prise de rendez-vous, les demandes d’ordonnances et de dossiers, le triage et la communication du cabinet...
+  - *Rôles adaptés:* Administrateur de santé, Responsable d’agence, Responsable PMO, Aide-soignant certifié +1 de plus
 
 - **[Scrollsequence](https://www.aimyflow.com/fr/ai/v2-scrollsequence-com)**
   - Scrollsequence est une extension WordPress en version bêta qui aide les utilisateurs à créer des expériences numériques immersives synchronisées au défilement ainsi que des animations générées par l’IA directement dans...
@@ -9322,10 +10200,6 @@ _Vue compacte pour un balayage plus rapide._
   - Semble AI est une plateforme de conception de systèmes de bâtiment propulsée par l’IA qui aide les équipes d’ingénierie et de construction à téléverser des plans d’étage, placer des équipements, vérifier la conformité...
   - *Rôles adaptés:* Ingénieur électricien, Ingénieur civil, Architecte commercial, Responsable PMO +1 de plus
 
-- **[Semiotic](https://www.aimyflow.com/fr/ai/semiotic-com)**
-  - Semiotic est un outil de conception de sites web natif de l’IA et un studio de design qui aide les fondateurs de startups à créer rapidement des pages d’atterrissage, des éléments de marque et des visuels produit à...
-  - *Rôles adaptés:* PDG, Directeur marketing digital, Graphiste, Responsable développement logiciel +1 de plus
-
 - **[Semrush](https://www.aimyflow.com/fr/ai/semrush-com-lp-semrush-one-en)**
   - Semrush semble être un site web affichant actuellement une vérification de navigateur reCAPTCHA avant l’accès, probablement utilisée pour vérifier les visiteurs avant qu’ils n’atteignent son contenu principal. Pour les...
 
@@ -9369,25 +10243,25 @@ _Vue compacte pour un balayage plus rapide._
   - SEObot est un agent SEO alimenté par l’IA qui automatise la recherche de mots-clés, la création de contenu de blog, le maillage interne, les backlinks et le SEO programmatique pour les fondateurs très occupés qui...
   - *Rôles adaptés:* Directeur marketing digital, PDG, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
-- **[SEOcluster.ai](https://www.aimyflow.com/fr/ai/seocluster-ai)**
-  - SEOcluster.ai est un outil de regroupement de mots-clés SEO et de stratégie de pages qui utilise les données de Google Search Console pour aider les consultants SEO, les agences et les équipes de contenu internes à...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Rédacteur technique +1 de plus
-
 - **[SEOForge.ai](https://www.aimyflow.com/fr/ai/seoforge-ai)**
   - SEOForge.ai est une plateforme SEO dédiée à la recherche et à la visibilité dans l’IA, qui aide les marketeurs, les fondateurs et les équipes de croissance à rechercher des mots-clés, créer et publier du contenu...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Créateur de contenu
-
-- **[SEOJuice](https://www.aimyflow.com/fr/ai/seojuice-io)**
-  - SEOJuice est une plateforme d’automatisation SEO qui aide les propriétaires de sites web, les marketeurs et les agences à suivre leur visibilité sur Google et les outils de recherche par IA, tout en automatisant le...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
 
 - **[SEOmatic](https://www.aimyflow.com/fr/ai/seomatic-ai)**
   - SEOmatic est une plateforme de SEO programmatique qui aide les agences, les équipes SaaS, e-commerce et de services locaux à transformer des modèles, des données et du contenu assisté par IA en centaines de pages SEO,...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Responsable des ventes e-commerce, Créateur de contenu +1 de plus
 
+- **[Sepal AI](https://www.aimyflow.com/fr/ai/sepalai-com)**
+  - Sepal AI est une entreprise de recherche en données qui aide les laboratoires d’IA de pointe et les entreprises à développer des modèles plus sûrs et plus intelligents grâce à des environnements de RL, des tâches à...
+  - *Rôles adaptés:* Data scientist, Ingénieur logiciel, Analyste cybersécurité, Consultant en technologies éducatives +1 de plus
+
 - **[Serafis AI](https://www.aimyflow.com/fr/ai/serafis-ai)**
   - Serafis AI est une plateforme de recherche qui analyse des contenus experts de longue durée afin d’aider les investisseurs professionnels, les conseillers en gestion de patrimoine et les responsables produit ou...
   - *Rôles adaptés:* Gestionnaire de portefeuille, Analyste financier, PDG
+
+- **[Serra](https://www.aimyflow.com/fr/ai/serra-io)**
+  - Serra est un agent de sourcing IA qui aide les recruteurs et les équipes talent à décrire un poste en langage clair, puis à trouver, évaluer, classer et actualiser en continu des shortlists de candidats, avec des...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, PDG, Responsable développement logiciel
 
 - **[Serviceaide](https://www.aimyflow.com/fr/ai/serviceaide-com)**
   - Serviceaide est une plateforme de gestion numérique d’entreprise dotée d’une gestion des services, d’une gestion des changements, d’une gestion des connaissances et d’outils de déviation des tickets alimentés par l’IA,...
@@ -9413,6 +10287,10 @@ _Vue compacte pour un balayage plus rapide._
   - Sharpe est un agent de recherche en IA natif de Jupyter pour la finance quantitative, qui aide les quants, les gérants de portefeuille, les traders et les chercheurs à mener des analyses en plusieurs étapes sur de...
   - *Rôles adaptés:* Gestionnaire de portefeuille, Data scientist, Analyste financier, Ingénieur data +1 de plus
 
+- **[Shasta Health](https://www.aimyflow.com/fr/ai/shasta-health)**
+  - Shasta Health est une plateforme d’automatisation des flux de travail par IA pour les cliniques, qui gère les appels des patients, les vérifications d’assurance, les orientations, le traitement des fax et les tâches...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Aide à domicile
+
 - **[SheetAI](https://www.aimyflow.com/fr/ai/sheetai-app)**
   - SheetAI est un module complémentaire d’IA pour Google Sheets qui aide les utilisateurs à générer du contenu, analyser des données, automatiser des tâches de tableur et utiliser des fonctions d’IA avec mémoire et API...
   - *Rôles adaptés:* Analyste financier, Responsable PMO, Planificateur logistique, Ingénieur logiciel +1 de plus
@@ -9421,13 +10299,25 @@ _Vue compacte pour un balayage plus rapide._
   - Sheets Resume est un générateur de CV basé sur l’IA qui aide les chercheurs d’emploi à créer, adapter et télécharger rapidement des CV, principalement pour les personnes postulant à plusieurs postes au cours de leur...
   - *Rôles adaptés:* Responsable acquisition de talents, Rédacteur publicitaire, Rédacteur technique
 
+- **[Sherloq](https://www.aimyflow.com/fr/ai/sherloqdata-io)**
+  - Sherloq est un assistant SQL basé sur l’IA et un plugin de dépôt de requêtes qui aide les analystes de données et les autres utilisateurs de SQL à générer, corriger, modifier et organiser du SQL directement dans leur...
+  - *Rôles adaptés:* Ingénieur data, Ingénieur logiciel, Responsable développement logiciel, Responsable PMO
+
 - **[Short AI](https://www.aimyflow.com/fr/ai/short-ai)**
   - Short AI est un générateur et planificateur de vidéos courtes alimenté par l’IA qui aide les créateurs à produire des vidéos sans visage, à transformer de longues vidéos en courts extraits, à ajouter des sous-titres, à...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire +1 de plus
 
+- **[Shortbread](https://www.aimyflow.com/fr/ai/shortbread-ai)**
+  - Shortbread est une application de lecture et une plateforme web dédiée aux bandes dessinées de romance épicée et aux séries de romans graphiques illustrés, conçue principalement pour les lecteurs de romance à la...
+  - *Rôles adaptés:* Créateur de contenu, Auteur de fiction, Rédacteur publicitaire, Créateur de contenu réseaux sociaux +1 de plus
+
 - **[ShortFast](https://www.aimyflow.com/fr/ai/shortfast-com)**
   - ShortFast est un outil d’automatisation vidéo par IA qui crée des vidéos courtes sans visage avec scripts, voix off, véritables séquences d’archives, sous-titres et publication automatique, principalement pour les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Créateur de contenu, Rédacteur publicitaire +1 de plus
+
+- **[ShortLoop](https://www.aimyflow.com/fr/ai/shortloop-dev)**
+  - ShortLoop est une plateforme d’agents téléphoniques IA pour les concessionnaires automobiles qui gère les appels entrants et sortants, prend des rendez-vous pour le service après-vente et les ventes, achemine les...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur de restaurant, Responsable d’agence, Directeur des opérations +1 de plus
 
 - **[ShortPix AI’s WhatsApp AI Gen](https://www.aimyflow.com/fr/ai/app-shortpix-ai-en)**
   - WhatsApp AI Gen de ShortPix AI est un générateur de photos IA basé sur WhatsApp qui aide les utilisateurs à créer des portraits d’eux-mêmes de style studio à partir de photos téléchargées, sans installer d’application,...
@@ -9448,6 +10338,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Shutterstock](https://www.aimyflow.com/fr/ai/shutterstock-com)**
   - Shutterstock est une marketplace de médias stock proposant images, vidéos, musiques et ressources créatives sous licence pour aider entreprises et créateurs à produire du contenu visuel efficacement. À l’ère de l’IA,...
   - *Rôles adaptés:* Créateur de contenu, Responsables marketing et ventes, Communicants médias, Professionnels de l'art et du design +3 de plus
+
+- **[SID AI](https://www.aimyflow.com/fr/ai/sid-ai)**
+  - SID AI est une entreprise de recherche en IA qui développe des modèles de recherche par récupération et de recherche agentique afin d’aider à trouver un contexte plus précis pour des tâches de recherche complexes,...
+  - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Ingénieur data, Responsable développement logiciel +1 de plus
 
 - **[Sider AI](https://www.aimyflow.com/fr/ai/sider-ai-ad-land-redirect)**
   - Sider AI est une barre latérale IA et une suite d’applications qui aide les utilisateurs à accéder à des outils comme ChatGPT, Claude, Gemini et Grok sur Chrome, Edge, Mac, Windows, iOS et Android, principalement pour...
@@ -9513,6 +10407,10 @@ _Vue compacte pour un balayage plus rapide._
   - Size the Market est une plateforme d’intelligence tarifaire pour les détaillants e-commerce, les marques et les places de marché, qui suit les prix des concurrents, associe les produits grâce au machine learning et...
   - *Rôles adaptés:* Responsable des ventes e-commerce, Directeur marketing digital, Analyste financier, Data scientist +1 de plus
 
+- **[sizeless](https://www.aimyflow.com/fr/ai/sizeless-co)**
+  - sizeless est une plateforme de jumeau numérique et de topographie alimentée par l’IA, qui transforme des vidéos smartphone de bâtiments, de tranchées et de raccordements de maisons en modèles 3D précis, plans CAO et...
+  - *Rôles adaptés:* Ingénieur civil, Architecte commercial, Architecte résidentiel, Ingénieur électricien +1 de plus
+
 - **[Sketch To](https://www.aimyflow.com/fr/ai/sketchto-com)**
   - Sketch To est un outil de conversion d’images par IA qui transforme des photos en styles croquis et des croquis en images, principalement destiné aux artistes, designers et autres créateurs ayant besoin de...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Créateur de contenu réseaux sociaux, Designer industriel +1 de plus
@@ -9520,14 +10418,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Sketchflow.ai](https://www.aimyflow.com/fr/ai/sketchflow-ai)**
   - Sketchflow.ai est un générateur d’applications web par IA et un constructeur visuel d’applications qui aide les utilisateurs à créer des workflows, des maquettes d’interface, des simulations et des exports de code...
   - *Rôles adaptés:* Ingénieur logiciel, Graphiste, PDG, Responsable développement logiciel +1 de plus
-
-- **[Skillaeo](https://www.aimyflow.com/fr/ai/skillaeo-com)**
-  - Skillaeo est une plateforme d’optimisation pour moteurs d’IA qui analyse la façon dont un site web apparaît dans ChatGPT, Claude, Gemini et Perplexity, aidant les marques ainsi que les équipes marketing ou SEO à...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
-
-- **[SkillCoach.io](https://www.aimyflow.com/fr/ai/skillcoach-io)**
-  - SkillCoach.io est une plateforme d’orientation professionnelle propulsée par l’IA qui analyse le CV d’un utilisateur, identifie les lacunes en compétences et recommande des formations ainsi que des parcours...
-  - *Rôles adaptés:* Responsable acquisition de talents, Consultant en technologies éducatives, Conseiller d’orientation scolaire, Responsable des relations sociales +1 de plus
 
 - **[SkillRaptor](https://www.aimyflow.com/fr/ai/skillraptor-ai)**
   - SkillRaptor est un outil qui transforme les documents de processus des professionnels en fichiers de compétences structurés, prêts pour l’IA, aidant les travailleurs du savoir tels que les spécialistes du marketing,...
@@ -9557,6 +10447,10 @@ _Vue compacte pour un balayage plus rapide._
   - SkyReels est une plateforme de création vidéo par IA qui transforme des scripts en vidéos finalisées avec voix off, synchronisation labiale, effets sonores, musique et outils de montage, surtout pour les créateurs et...
   - *Rôles adaptés:* Créateur de contenu
 
+- **[Skyvern](https://www.aimyflow.com/fr/ai/skyvern-com)**
+  - Skyvern est une plateforme d’automatisation de navigateur alimentée par l’IA qui aide les équipes et les développeurs à automatiser les flux de travail sur les sites web, comme les connexions, le remplissage de...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable PMO, Analyste financier, Administrateur de santé +1 de plus
+
 - **[Skywork](https://www.aimyflow.com/fr/ai/skywork-ai)**
   - Skywork est un agent IA tout-en-un qui transforme de simples invites en productions multimodales telles que des documents, des présentations, des feuilles de calcul, des sites web, des vidéos et des réponses de chat...
   - *Rôles adaptés:* Analyste financier, Professeur d’université, Responsable PMO, Directeur marketing digital +1 de plus
@@ -9568,6 +10462,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Sleekio](https://www.aimyflow.com/fr/ai/sleekio-io)**
   - Sleekio est un assistant de rédaction IA basé sur Chrome qui aide les professionnels à transformer des notes vocales en e-mails et documents soignés, à reformuler le texte sélectionné et à traduire du contenu...
   - *Rôles adaptés:* PDG, Directeur des opérations, Responsable PMO, Responsable commercial terrain +1 de plus
+
+- **[Slicker](https://www.aimyflow.com/fr/ai/slickerhq-com)**
+  - Slicker est une plateforme de recouvrement des paiements alimentée par l’IA qui aide les entreprises d’abonnement et à revenus récurrents à récupérer les paiements échoués grâce à des relances intelligentes, des...
+  - *Rôles adaptés:* Directeur financier, Responsable FP&A, Analyste financier, Responsable des ventes e-commerce +1 de plus
 
 - **[SlideBuild AI](https://www.aimyflow.com/fr/ai/geniusaddons-com-products-slidebuild)**
   - SlideBuild AI est un générateur de présentations IA pour Google Slides qui transforme des invites textuelles en diaporamas modifiables avec des mises en page personnalisées, des palettes de couleurs et des images...
@@ -9596,10 +10494,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Smart Clerk](https://www.aimyflow.com/fr/ai/smartclerk-ai)**
   - Smart Clerk est un outil d’automatisation comptable et de tenue de livres basé sur l’IA qui transforme les relevés bancaires et de cartes de crédit en transactions catégorisées et en rapports financiers prêts pour la...
   - *Rôles adaptés:* Expert-comptable certifié, Directeur financier, Analyste financier, Responsable fiscal d’entreprise +1 de plus
-
-- **[Smartivity](https://www.aimyflow.com/fr/ai/smartivity-in)**
-  - Smartivity est une boutique en ligne de kits de jouets DIY STEM, de sciences, d’ingénierie, de construction et d’arts créatifs qui aident les enfants de 3 à 14 ans à apprendre par le jeu pratique, principalement...
-  - *Rôles adaptés:* Vendeur e-commerce, Enseignant, Professeur de maths en primaire, Consultant en technologies éducatives +1 de plus
 
 - **[SmartLearn](https://www.aimyflow.com/fr/ai/smartlearnapp-com)**
   - SmartLearn est une plateforme d’apprentissage alimentée par l’IA qui transforme n’importe quel sujet en une feuille de route visuelle, étape par étape, avec des leçons, des infographies, des vidéos et des quiz,...
@@ -9688,6 +10582,22 @@ _Vue compacte pour un balayage plus rapide._
   - Socratic Lab est une communauté d’apprentissage et de discussion alimentée par l’IA, où les personnes peuvent poser des questions, partager des connaissances et entrer en contact avec d’autres autour de sujets qui les...
   - *Rôles adaptés:* Enseignant, Professeur d’université, Enseignant en collège communautaire, Conseiller d’orientation scolaire +1 de plus
 
+- **[Soff](https://www.aimyflow.com/fr/ai/soff-ai)**
+  - Soff est une plateforme de devis basée sur l’IA destinée aux fabricants et distributeurs américains, qui automatise la capture des demandes de prix (RFQ), la tarification, les relances et le suivi des devis afin...
+  - *Rôles adaptés:* Responsable commercial terrain, Planificateur logistique, Responsable des ventes e-commerce, Directeur des opérations +1 de plus
+
+- **[Sohar](https://www.aimyflow.com/fr/ai/soharhealth-com)**
+  - Sohar est une plateforme de vérification d’assurance destinée aux prestataires de soins de santé qui automatise les contrôles d’éligibilité en temps réel, l’identification de la couverture, la vérification du statut...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Directeur des opérations, Responsable infrastructure IT
+
+- **[Sola](https://www.aimyflow.com/fr/ai/sola-solutions-com)**
+  - Sola est une plateforme d’automatisation de processus agentiques qui aide les entreprises à automatiser la saisie de données, le traitement de documents, le scraping et les workflows basés sur l’interface utilisateur...
+  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Administrateur de santé, Analyste financier +1 de plus
+
+- **[Solari AI](https://www.aimyflow.com/fr/ai/usesolari-ai)**
+  - Solari AI est une plateforme no-code qui propose des agents IA préconçus et personnalisables pour aider les équipes non techniques à automatiser leur travail, avec une prise en charge actuelle d’un agent...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable acquisition de talents, Responsable PMO +1 de plus
+
 - **[Solido](https://www.aimyflow.com/fr/ai/solido-ai)**
   - Solido est un outil automatisé de relance de factures qui se synchronise avec Xero, envoie des e-mails de suivi personnalisés depuis votre propre boîte mail et aide les cabinets de services professionnels, les agences...
   - *Rôles adaptés:* Directeur financier, Responsable FP&A, Analyste financier, Directeur des opérations +1 de plus
@@ -9724,6 +10634,10 @@ _Vue compacte pour un balayage plus rapide._
   - Songtell est un site web alimenté par l’IA qui aide les auditeurs à découvrir le sens et les histoires derrière les paroles de chansons, principalement pour les fans qui souhaitent comprendre plus en profondeur leurs...
   - *Rôles adaptés:* Amateur de musique, Créateur de contenu, Rédacteur publicitaire, Rédacteur technique +1 de plus
 
+- **[Sonia](https://www.aimyflow.com/fr/ai/soniahealth-com)**
+  - Sonia est un compagnon de soutien émotionnel par IA qui propose des séances de bien-être en voix et en texte, des méditations, de la tenue de journal, des recommandations et des exercices, conçu sur les cadres de la...
+  - *Rôles adaptés:* Coach bien-être, Administrateur de santé, Responsable de programme associatif, Conseiller d’orientation scolaire +1 de plus
+
 - **[SonicCaption](https://www.aimyflow.com/fr/ai/soniccaption-com)**
   - SonicCaption est une extension pour Chrome et Edge qui ajoute des sous-titres bilingues et une traduction en temps réel à l’audio et à la vidéo dans des onglets du navigateur comme YouTube, Netflix, Zoom et Meet,...
   - *Rôles adaptés:* Enseignant, Tuteur en programmation en ligne, Conseiller d’orientation scolaire, Consultant en technologies éducatives +1 de plus
@@ -9747,6 +10661,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Sorce](https://www.aimyflow.com/fr/ai/sorce-jobs)**
   - Sorce est une plateforme de candidature alimentée par l’IA qui permet aux chercheurs d’emploi de téléverser un CV, de faire défiler les postes qui les intéressent et de laisser un agent d’IA postuler en leur nom dans...
   - *Rôles adaptés:* Responsable acquisition de talents, Ingénieur logiciel, Directeur marketing digital, Responsable commercial terrain
+
+- **[Sorcerer](https://www.aimyflow.com/fr/ai/sorcerer-earth)**
+  - Sorcerer est une entreprise de données atmosphériques et de prévision qui déploie des ballons météorologiques de haute altitude et des capteurs aéroportés afin de collecter des observations plus détaillées et de...
+  - *Rôles adaptés:* Planificateur logistique, Directeur des opérations, Data scientist, Analyste des risques
 
 - **[SoulmateSketch](https://www.aimyflow.com/fr/ai/soulmatesketch-org)**
   - SoulmateSketch est un outil de portrait numérique alimenté par l’IA qui crée une illustration personnalisée de l’âme sœur à partir des informations de naissance et des préférences des utilisateurs, principalement...
@@ -9784,6 +10702,10 @@ _Vue compacte pour un balayage plus rapide._
   - SpacePrompts est un gestionnaire de prompts IA qui aide les utilisateurs à créer, améliorer, organiser, versionner et synchroniser des prompts entre appareils et plateformes d’IA, principalement pour les personnes qui...
   - *Rôles adaptés:* Ingénieur logiciel, Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
+- **[Spark](https://www.aimyflow.com/fr/ai/sparkhq-ai)**
+  - Spark est une plateforme d’IA dédiée à l’intelligence en matière d’autorisations, qui aide les développeurs de projets solaires, de stockage sur batteries et de centres de données à analyser la sélection de sites, le...
+  - *Rôles adaptés:* Ingénieur civil, Architecte commercial, Responsable PMO, PDG +1 de plus
+
 - **[SparkIconAI](https://www.aimyflow.com/fr/ai/sparkiconai-com)**
   - SparkIconAI est une plateforme de génération et de gestion d’icônes par IA qui aide les designers et les développeurs à créer, organiser, affiner et exporter des icônes pour des applications, des sites et des produits...
   - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Responsable développement logiciel, Designer industriel +1 de plus
@@ -9816,6 +10738,10 @@ _Vue compacte pour un balayage plus rapide._
   - Specifys.ai est un outil d’IA qui génère des spécifications d’application complètes et des PRD afin d’aider les utilisateurs à définir les exigences produit et les plans de développement, principalement pour les...
   - *Rôles adaptés:* Responsable développement logiciel, Ingénieur logiciel, PDG, Responsable PMO +1 de plus
 
+- **[Speck](https://www.aimyflow.com/fr/ai/speck-sh)**
+  - Speck est un assistant de réunion IA pour les personnes enchaînant les réunions, qui aide les équipes commerciales et en contact avec les clients à se préparer grâce à une recherche automatisée avant appel, des...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, Responsable PMO +1 de plus
+
 - **[Speech Illustrator](https://www.aimyflow.com/fr/ai/speechillustrator-com)**
   - Speech Illustrator est un outil d’IA de conversion de la parole en image qui transforme l’audio parlé en visuels en temps réel à partir de livres audio, de podcasts, de chansons et de cours, principalement pour les...
   - *Rôles adaptés:* Enseignant, Créateur de contenu, Tuteur en programmation en ligne, Enseignant en collège communautaire +1 de plus
@@ -9835,10 +10761,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Speechmatics](https://www.aimyflow.com/fr/ai/speechmatics-com-use-cases-ai-voice-agents)**
   - Speechmatics fournit une technologie vocale pour les agents vocaux IA, aidant les développeurs et les équipes produit à intégrer une transcription parole-texte en moins d’une seconde, avec identification des locuteurs,...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, PDG +1 de plus
-
-- **[Speechmatics Python SDK](https://www.aimyflow.com/fr/ai/github-com-speechmatics-speechmatics-python-sdk)**
-  - Le SDK Python de Speechmatics est un ensemble de bibliothèques Python permettant d’accéder aux API vocales de Speechmatics, aidant les développeurs à créer des applications de transcription par lots et en temps réel,...
-  - *Rôles adaptés:* Ingénieur logiciel, Ingénieur data, Responsable développement logiciel, Rédacteur technique +1 de plus
 
 - **[SpeechReader](https://www.aimyflow.com/fr/ai/speechreader-io-en)**
   - SpeechReader est un outil de synthèse vocale par IA qui convertit du texte, des PDF, des images et des notes en audio à la sonorité naturelle, avec plus de 1 000 voix dans plus de 60 langues, principalement pour les...
@@ -9915,6 +10837,10 @@ _Vue compacte pour un balayage plus rapide._
   - Stable Diffusion Models est un répertoire de téléchargement pour les checkpoints Stable Diffusion, les modèles DreamBooth, les ressources d’inversion textuelle, les upscalers et les restaurateurs de visages, aidant les...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Ingénieur logiciel, Data scientist +1 de plus
 
+- **[StackAI](https://www.aimyflow.com/fr/ai/stack-ai-com)**
+  - StackAI est une plateforme d’agents d’IA pour les entreprises qui aide les organisations à créer, déployer et gérer des workflows agentiques et des applications d’IA sécurisés et conformes, principalement pour les...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable PMO, Directeur des opérations, Responsable FP&A +1 de plus
+
 - **[Stackify](https://www.aimyflow.com/fr/ai/stackify-lovable-app)**
   - Stackify est un copilote IA pour les consultants et les COO à temps partagé, qui les aide à rationaliser leurs stacks SaaS en cartographiant les capacités, en identifiant les chevauchements et les lacunes, et en...
   - *Rôles adaptés:* Directeur des opérations, Directeur financier, Responsable infrastructure IT, Responsable PMO +1 de plus
@@ -9930,6 +10856,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Standout](https://www.aimyflow.com/fr/ai/standout-work)**
   - Standout est un service de représentation de carrière qui aide les talents tech d’élite à trouver des opportunités et à négocier des offres avec des startups soutenues par des fonds de capital-risque, principalement...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Ingénieur data, Data scientist +1 de plus
+
+- **[Starcloud](https://www.aimyflow.com/fr/ai/starcloud-com)**
+  - Starcloud est une entreprise d’infrastructure spatiale qui développe des centres de données en orbite afin de fournir une capacité de calcul IA évolutive grâce à une énergie solaire continue et à un refroidissement...
+  - *Rôles adaptés:* Responsable infrastructure IT, Ingénieur data, Responsable développement logiciel, PDG +1 de plus
+
+- **[Stardrift](https://www.aimyflow.com/fr/ai/stardrift-ai)**
+  - Stardrift est un assistant de voyage basé sur l’IA qui aide les utilisateurs à planifier des voyages personnalisés en trouvant des vols, des trajets en train, des hôtels et des expériences, puis en créant des...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable d’agence, PDG
 
 - **[Starnus](https://www.aimyflow.com/fr/ai/starnus-com)**
   - Starnus est une plateforme de vente basée sur l’IA qui agit comme un employé autonome, aidant les fondateurs et les équipes commerciales en croissance à gérer les activités de prospection sortante telles que la...
@@ -10011,6 +10945,10 @@ _Vue compacte pour un balayage plus rapide._
   - STORYD est un outil de présentation IA qui aide les professionnels à créer en quelques secondes des présentations de storytelling claires et structurées, en particulier pour ceux qui préparent des présentations...
   - *Rôles adaptés:* PDG, Analyste financier, Responsable commercial terrain, Responsable PMO +1 de plus
 
+- **[Strada](https://www.aimyflow.com/fr/ai/getstrada-com)**
+  - Strada est une plateforme d’IA destinée aux assureurs, aux MGA et aux courtiers, qui automatise la gestion des polices, l’ouverture des sinistres, les renouvellements et les échanges commerciaux par téléphone, e-mail,...
+  - *Rôles adaptés:* Directeur des opérations, Responsable d’agence, Responsable PMO, Responsable commercial terrain
+
 - **[Streamlabs Podcast Editor](https://www.aimyflow.com/fr/ai/typestudio-co)**
   - Streamlabs Podcast Editor est un éditeur vidéo basé sur le texte qui transcrit l’audio et la vidéo afin que les podcasteurs, créateurs d’interviews et streamers puissent modifier le contenu en changeant le texte et...
   - *Rôles adaptés:* Producteur de podcast, Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire +1 de plus
@@ -10027,6 +10965,10 @@ _Vue compacte pour un balayage plus rapide._
   - Strut est un espace d’écriture alimenté par l’IA qui combine notes, documents et projets collaboratifs dans un seul environnement, surtout pour les auteurs, créateurs et équipes. À l’ère de l’IA, il aide les...
   - *Rôles adaptés:* Créateur de contenu
 
+- **[Studdy AI](https://www.aimyflow.com/fr/ai/studdy-ai)**
+  - Studdy AI est une application de tutorat par IA qui propose aux élèves des cours particuliers personnalisés en tête-à-tête dans des matières comme les mathématiques, les sciences, la biologie et l’économie, grâce à un...
+  - *Rôles adaptés:* Tuteur de préparation aux examens, Consultant en technologies éducatives, Professeur d’université, Enseignant
+
 - **[Studioify](https://www.aimyflow.com/fr/ai/getstudioify-com)**
   - Studioify est un éditeur photo basé sur l’IA qui aide les vendeurs de vêtements de seconde main sur Depop, Vinted, Poshmark et d’autres plateformes de revente à transformer des photos prises au téléphone en images...
   - *Rôles adaptés:* Vendeur e-commerce, Styliste, Graphiste, Créateur de contenu +1 de plus
@@ -10038,10 +10980,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Study Fetch](https://www.aimyflow.com/fr/ai/studyfetch-com)**
   - Study Fetch est une plateforme d’apprentissage IA qui transforme cours, notes et slides en flashcards, quiz, tests et support de tutorat, surtout pour les étudiants. À l’ère de l’IA, elle aide les apprenants à...
   - *Rôles adaptés:* Enseignant
-
-- **[Study Space](https://www.aimyflow.com/fr/ai/study-space)**
-  - Study Space est un outil d’apprentissage par IA qui transforme des documents en cours personnalisés et en supports d’étude, aidant les étudiants, les professionnels et les apprenants tout au long de la vie à étudier à...
-  - *Rôles adaptés:* Enseignant, Coach en leadership d’entreprise, Tuteur en programmation en ligne, Tuteur de préparation aux examens +1 de plus
 
 - **[Stunning](https://www.aimyflow.com/fr/ai/stunning-so)**
   - Stunning est une plateforme alimentée par l’IA qui aide les utilisateurs à décrire et à créer plus rapidement des applications web full stack et des sites web, principalement destinée aux créateurs, fondateurs et...
@@ -10059,6 +10997,10 @@ _Vue compacte pour un balayage plus rapide._
   - StylePal est une application d’assistant mode basée sur l’IA qui aide les gens à choisir entre deux tenues en téléchargeant des photos et en recevant instantanément des évaluations de style, principalement pour les...
   - *Rôles adaptés:* Styliste, Créateur de contenu, Agent immobilier
 
+- **[Subsets](https://www.aimyflow.com/fr/ai/subsets-com)**
+  - Subsets est une plateforme d’automatisation de la rétention par IA pour les entreprises de l’abonnement grand public. Elle aide les équipes commerciales à prédire les audiences à risque de churn, à exécuter et analyser...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Data scientist, Analyste financier +1 de plus
+
 - **[Subtxt with Muse](https://www.aimyflow.com/fr/ai/subtxt-app)**
   - Subtxt avec Muse est une plateforme d’analyse narrative et de structuration assistée par IA qui aide les auteurs à évaluer la structure de l’histoire, la cohérence, le conflit et le thème, principalement pour les...
   - *Rôles adaptés:* Auteur de fiction, Créateur de contenu, Rédacteur publicitaire, Réalisateur indépendant +1 de plus
@@ -10066,6 +11008,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Subversive Leader](https://www.aimyflow.com/fr/ai/subversiveleader-com)**
   - Subversive Leader est une plateforme de coaching en leadership alimentée par l’IA qui aide les professionnels en début et milieu de carrière à surmonter de véritables défis au travail grâce à des conseils...
   - *Rôles adaptés:* Coach en leadership d’entreprise, PDG, Directeur des opérations, Responsable de programme associatif +1 de plus
+
+- **[Sudocode](https://www.aimyflow.com/fr/ai/sudocode-ai)**
+  - Sudocode est un système de gestion de contexte open source, natif de Git, pour les agents de codage, qui vit dans un dépôt et aide les développeurs et les équipes à capturer l’intention de l’utilisateur sous forme de...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT +1 de plus
 
 - **[Suenagringo](https://www.aimyflow.com/fr/ai/suenagringo-com)**
   - Suenagringo est un annuaire web par catégories qui aide les utilisateurs à parcourir des ressources sur des sujets tels que l’automobile, la finance, la santé, les achats et les voyages, principalement pour les...
@@ -10110,6 +11056,10 @@ _Vue compacte pour un balayage plus rapide._
   - Le générateur de portraits professionnels IA de Supawork est un outil web gratuit qui transforme un selfie en portraits professionnels de qualité studio en quelques secondes, principalement pour les chercheurs...
   - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Créateur de contenu réseaux sociaux, Agent immobilier +1 de plus
 
+- **[Superagent](https://www.aimyflow.com/fr/ai/superagent-sh)**
+  - Superagent est une plateforme de tests en red team pour les agents d’IA qui attaque les systèmes de production afin de détecter les fuites de données, les sorties nuisibles et les actions non autorisées, principalement...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
+
 - **[Superapp](https://www.aimyflow.com/fr/ai/superappp-com)**
   - Superapp est une application Mac native qui utilise l’IA pour transformer des idées d’apps formulées en langage courant en applications natives pour iPhone, iPad, Apple Watch et Mac, principalement destinée aux...
   - *Rôles adaptés:* Ingénieur logiciel, PDG, Responsable développement logiciel, Responsable PMO +1 de plus
@@ -10134,6 +11084,10 @@ _Vue compacte pour un balayage plus rapide._
   - SuperHumanizer est un humaniseur de texte IA gratuit qui réécrit les contenus générés par l’IA pour leur donner un ton plus naturel, préserver le contexte et aider à éviter leur détection comme textes produits par une...
   - *Rôles adaptés:* Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital, Rédacteur technique +1 de plus
 
+- **[SuperKalam](https://www.aimyflow.com/fr/ai/superkalam-com)**
+  - SuperKalam est une plateforme de préparation à l'UPSC alimentée par l'IA qui aide les aspirants à étudier le syllabus GS, à pratiquer les MCQ et les questions de l'année précédente, à suivre les objectifs quotidiens et...
+  - *Rôles adaptés:* Tuteur de préparation aux examens, Enseignant, Consultant en technologies éducatives, Professeur d’université
+
 - **[Supernormal Desktop App](https://www.aimyflow.com/fr/ai/supernormal-com-desktop-app)**
   - L’application de bureau Supernormal est un assistant de réunion basé sur l’IA qui capture l’audio de l’ordinateur sans bot, transcrit les conversations et transforme le contexte des réunions en résumés, e-mails de...
   - *Rôles adaptés:* PDG, Responsable PMO, Responsable commercial terrain, Directeur des opérations +1 de plus
@@ -10153,6 +11107,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[SuperTravel](https://www.aimyflow.com/fr/ai/suptravel-ai)**
   - SuperTravel est un planificateur de voyages par IA et un vérificateur d’itinéraires qui aide les voyageurs à créer des plans de voyage personnalisés, à détecter les conflits d’horaire, à optimiser les trajets et à...
 
+- **[Superunit](https://www.aimyflow.com/fr/ai/superunit-ai)**
+  - Superunit est une plateforme de vérification alimentée par l’IA qui automatise les contrôles d’emploi et de revenus par téléphone, e-mail et fax, principalement pour les CRA et les équipes de vérification des...
+  - *Rôles adaptés:* Responsable acquisition de talents, Responsable des relations sociales, Responsable PMO, Directeur des opérations
+
 - **[Superway](https://www.aimyflow.com/fr/ai/superway-ai)**
   - Superway est un outil de découverte de niches et de recherche de la demande alimenté par l’IA, qui aide les fondateurs solo et les créateurs indépendants à identifier des marchés émergents, valider des idées de...
   - *Rôles adaptés:* PDG, Responsable développement logiciel, Directeur marketing digital, Responsable PMO
@@ -10165,13 +11123,13 @@ _Vue compacte pour un balayage plus rapide._
   - Support Flow TAAFT est un copilote IA de PixieBrix qui aide les équipes de support client B2B et de support technique à résoudre les dossiers plus rapidement en faisant remonter du contenu contextuel, des données en...
   - *Rôles adaptés:* Responsable développement logiciel, Responsable infrastructure IT, Responsable PMO, Directeur des opérations +1 de plus
 
-- **[SureThing](https://www.aimyflow.com/fr/ai/app-surething-io-login)**
-  - SureThing est un agent IA autonome qui mémorise le contexte utilisateur et aide à automatiser des flux de travail entiers dans plus de 1 000 applications, destiné aux utilisateurs qui souhaitent un agent persistant...
-  - *Rôles adaptés:* Responsable PMO, Directeur des opérations, Responsable d’agence, Responsable développement logiciel +1 de plus
-
 - **[Surf](https://www.aimyflow.com/fr/ai/asksurf-ai)**
   - Surf est une plateforme de recherche crypto alimentée par l’IA qui aide traders et investisseurs à analyser les marchés des cryptomonnaies, les tendances et les opportunités de trading. À l’ère de l’IA, elle aide à...
   - *Rôles adaptés:* Data scientist, Ingénieur logiciel, Analyste cybersécurité, Ingénieur data +10 de plus
+
+- **[Surface Labs](https://www.aimyflow.com/fr/ai/withsurface-com)**
+  - Surface Labs est une plateforme d’opérations marketing propulsée par l’IA qui aide les équipes B2B à forte croissance à convertir davantage de trafic web en démonstrations qualifiées, en remplaçant les formulaires...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Responsable commercial terrain, Responsable PMO +1 de plus
 
 - **[Surfer](https://www.aimyflow.com/fr/ai/surferseo-com)**
   - Surfer est une plateforme d’optimisation de contenu SEO qui aide les utilisateurs à rechercher, auditer, rédiger, optimiser et surveiller le contenu afin d’améliorer sa visibilité sur Google et dans les outils de...
@@ -10189,13 +11147,17 @@ _Vue compacte pour un balayage plus rapide._
   - SVG AI est un générateur SVG basé sur l’IA qui transforme des invites textuelles, des images, ou les deux, en graphiques vectoriels modifiables tels que des logos, des icônes et des illustrations, principalement pour...
   - *Rôles adaptés:* Graphiste, Ingénieur logiciel, Créateur de contenu, Rédacteur publicitaire +1 de plus
 
-- **[Swapface](https://www.aimyflow.com/fr/ai/swapface-org)**
-  - Swapface est un outil gratuit d’échange de visages par IA qui aide les utilisateurs à créer des échanges de visages en temps réel pour les diffusions en direct, les images, les vidéos et les GIF, principalement destiné...
-  - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Producteur de podcast, Réalisateur indépendant +1 de plus
-
 - **[SWAPP](https://www.aimyflow.com/fr/ai/swapp-ai)**
   - SWAPP est une plateforme d’IA destinée aux agences d’architecture qui automatise la documentation architecturale et les flux de modélisation BIM à l’aide de standards propres au cabinet et de contrôles qualité, aidant...
   - *Rôles adaptés:* Architecte commercial, Architecte résidentiel, Responsable PMO, Directeur des opérations
+
+- **[SWE-agent](https://www.aimyflow.com/fr/ai/swe-agent-com)**
+  - SWE-agent est un cadre d’agents open source et un ensemble de documentation qui aident les développeurs et les chercheurs à utiliser des modèles de langage pour corriger de manière autonome des problèmes dans des...
+  - *Rôles adaptés:* Ingénieur logiciel, Analyste cybersécurité, Responsable développement logiciel, Data scientist
+
+- **[Sweep](https://www.aimyflow.com/fr/ai/sweep-dev)**
+  - Sweep est un assistant de programmation IA pour les IDE JetBrains qui aide les développeurs professionnels à écrire et modifier du code plus rapidement grâce à l’autocomplétion, à un agent IA et à des suggestions...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité
 
 - **[Swerve](https://www.aimyflow.com/fr/ai/getswerve-com)**
   - Swerve est une application de chat avec des personnages IA qui aide les utilisateurs à choisir des personas et à avoir des conversations individuelles ou de groupe avec des compagnons IA, principalement pour les...
@@ -10213,10 +11175,6 @@ _Vue compacte pour un balayage plus rapide._
   - SWITCH est une plateforme d’IA agentique pour la mobilité urbaine et la logistique qui aide les organisations à simuler des scénarios, prévoir la demande et optimiser les opérations en temps réel, principalement pour...
   - *Rôles adaptés:* Planificateur logistique, Superviseur des opérations d’usine, Responsable PMO, Directeur des opérations +1 de plus
 
-- **[Sydium](https://www.aimyflow.com/fr/ai/sydium-com)**
-  - Sydium est un outil d’automatisation des réseaux sociaux basé sur l’IA qui apprend à partir de vos publications existantes pour rédiger, planifier, publier et répondre dans votre ton sur plusieurs plateformes,...
-  - *Rôles adaptés:* Directeur marketing digital, Créateur de contenu réseaux sociaux, PDG, Rédacteur publicitaire +1 de plus
-
 - **[Syft](https://www.aimyflow.com/fr/ai/syft-ai)**
   - Syft est une application d’actualités alimentée par l’IA qui permet aux utilisateurs de créer des chaînes d’information hyperpersonnalisées, de suivre des sources fiables et de recevoir des résumés quotidiens dans leur...
   - *Rôles adaptés:* Analyste financier, Responsable PMO, PDG, Rédacteur publicitaire +1 de plus
@@ -10232,10 +11190,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Symbolfy Username Generator](https://www.aimyflow.com/fr/ai/symbolfy-com-username-generator)**
   - Le générateur de noms d’utilisateur Symbolfy est un outil rapide, alimenté par l’IA, qui aide les utilisateurs des réseaux sociaux à créer des identifiants esthétiques, mignons et adaptés aux plateformes pour...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Directeur marketing digital, Rédacteur publicitaire
-
-- **[Synapse](https://www.aimyflow.com/fr/ai/synapse-cloudnerve-com)**
-  - Synapse est un outil d’optimisation de contenu SEO qui compare vos pages aux contenus performants dans les AI Overviews de Google, identifie les sujets et faits manquants, et génère du contenu réécrit ainsi que des...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, Ingénieur logiciel
 
 - **[Syndie](https://www.aimyflow.com/fr/ai/syndie-io)**
   - Syndie est une plateforme d’automatisation commerciale basée sur l’IA qui aide les équipes de vente B2B, les agences et les fondateurs à trouver des prospects, à personnaliser la prospection sur LinkedIn et par e-mail,...
@@ -10277,6 +11231,10 @@ _Vue compacte pour un balayage plus rapide._
   - Tabl est un navigateur web multijoueur qui permet aux équipes de collaborer en direct sur n’importe quelle page web, idéal pour le travail à distance, les équipes produit et les échanges clients.
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +9 de plus
 
+- **[TableFlow: AI-Powered Document Extraction & Automation](https://www.aimyflow.com/fr/ai/tableflow-com)**
+  - Transformez des documents désordonnés en données structurées grâce à une extraction alimentée par l’IA. Un seul modèle prend en charge tous les formats — PDF, Excel, CSV, images. Une précision de premier ordre avec...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Ingénieur data, Responsable PMO +1 de plus
+
 - **[Tabletop Scribe](https://www.aimyflow.com/fr/ai/tabletopscribe-com)**
   - Tabletop Scribe est un outil mobile propulsé par l’IA qui transforme les sessions enregistrées de jeux de rôle sur table en transcriptions, résumés et wiki de campagne consultable, principalement pour les maîtres de...
   - *Rôles adaptés:* Créateur de contenu, Auteur de fiction, Créateur de contenu réseaux sociaux
@@ -10287,6 +11245,10 @@ _Vue compacte pour un balayage plus rapide._
 
 - **[TailorResumes](https://www.aimyflow.com/fr/ai/tailorresumes-com)**
   - TailorResumes est un outil d’adaptation de CV basé sur l’IA qui aide les chercheurs d’emploi à transformer un CV existant et une description de poste en un CV et une lettre de motivation optimisés pour les ATS, avec un...
+
+- **[Talc AI](https://www.aimyflow.com/fr/ai/talc-ai)**
+  - Talc AI est un outil d’abstraction médicale qui utilise de grands modèles de langage pour extraire des événements, des mesures et d’autres informations structurées à partir de notes narratives de patients,...
+  - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Data scientist, Agent de facturation médicale +1 de plus
 
 - **[TalentSprout](https://www.aimyflow.com/fr/ai/talentsprout-ai)**
   - TalentSprout est une plateforme de recrutement par IA qui automatise les entretiens de présélection vocaux et vidéo, évalue les candidats et fournit des résumés et des analyses aux recruteurs et aux équipes de...
@@ -10332,6 +11294,10 @@ _Vue compacte pour un balayage plus rapide._
   - Talo est un traducteur IA en temps réel pour appels vidéo, conçu pour faciliter la communication instantanée entre langues pour les équipes internationales, la vente et le support client.
   - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Analyste cybersécurité, Responsables informatiques +5 de plus
 
+- **[Tamarind Bio](https://www.aimyflow.com/fr/ai/tamarind-bio)**
+  - Tamarind Bio est une plateforme d’infrastructure IA pour la R&D biotechnologique qui fournit une interface centrale et une API pour exécuter des outils de biologie computationnelle destinés à la conception et à...
+  - *Rôles adaptés:* Biologiste moléculaire, Microbiologiste, Data scientist, Ingénieur logiciel +1 de plus
+
 - **[Tame My Inbox](https://www.aimyflow.com/fr/ai/tamemyinbox-com)**
   - Tame My Inbox est un assistant e-mail IA pour Gmail qui aide les professionnels à réduire la surcharge d’e-mails en organisant les messages, en rédigeant des réponses dans leur ton, en suivant les engagements et en...
   - *Rôles adaptés:* PDG, Responsable commercial terrain, Responsable acquisition de talents, Responsable PMO +1 de plus
@@ -10368,10 +11334,6 @@ _Vue compacte pour un balayage plus rapide._
   - taskmelt est un gestionnaire de tâches et une application de brain dump alimentés par l’IA, qui aident les utilisateurs à transformer des pensées dispersées en emplois du temps organisés et planifiés par plages...
   - *Rôles adaptés:* PDG, Responsable PMO, Responsable développement logiciel, Professeur d’université +1 de plus
 
-- **[TasteRay](https://www.aimyflow.com/fr/ai/tasteray-com)**
-  - TasteRay est un outil de recommandation de films et de séries basé sur l’IA qui aide les spectateurs à trouver des titres correspondant à leurs goûts, à leur humeur et à leur profil émotionnel, principalement pour les...
-  - *Rôles adaptés:* Créateur de contenu, Passionné de gastronomie, Créateur de contenu réseaux sociaux, Producteur de podcast +1 de plus
-
 - **[Tasty](https://www.aimyflow.com/fr/ai/tasty-co)**
   - Tasty est une plateforme de recettes et vidéos culinaires qui aide les utilisateurs à découvrir, suivre et cuisiner des plats à la maison, surtout pour les amateurs de cuisine.
   - *Rôles adaptés:* Passionné de gastronomie
@@ -10383,6 +11345,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[TattooMakerPro](https://www.aimyflow.com/fr/ai/tattoomakerpro-com)**
   - TattooMakerPro est un générateur d’idées de tatouage par IA qui aide les utilisateurs à créer des concepts de tatouage personnalisés et aléatoires, principalement destiné aux personnes en quête d’inspiration et...
   - *Rôles adaptés:* Graphiste, Designer industriel, Créateur de contenu
+
+- **[Tavily](https://www.aimyflow.com/fr/ai/tavily-com)**
+  - Tavily est une API de recherche web en temps réel, d’extraction, de recherche approfondie et d’exploration qui aide les développeurs et les entreprises à connecter les agents d’IA et les workflows RAG à des données web...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
 - **[Tavus](https://www.aimyflow.com/fr/ai/tavus-io)**
   - Tavus est une plateforme d’IA permettant de créer et de déployer en temps réel des agents vidéo réalistes, des jumeaux numériques et des compagnons IA capables de voir, d’entendre et de parler en face à face,...
@@ -10448,6 +11414,10 @@ _Vue compacte pour un balayage plus rapide._
   - TeleportHQ est un créateur de sites web low-code alimenté par l’IA qui aide les équipes à concevoir, créer, publier et exporter des sites web statiques personnalisés, des composants d’interface utilisateur et des...
   - *Rôles adaptés:* Ingénieur logiciel, Directeur marketing digital, Graphiste, Responsable développement logiciel +1 de plus
 
+- **[Tempo](https://www.aimyflow.com/fr/ai/tempo-new)**
+  - Tempo est une plateforme propulsée par l’IA pour concevoir et développer des applications React, aidant les designers et les développeurs à générer, modifier et maintenir du code frontend de manière collaborative grâce...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Graphiste, Responsable PMO
+
 - **[TemPolor](https://www.aimyflow.com/fr/ai/tempolor-com)**
   - TemPolor est un générateur de musique par IA qui aide les utilisateurs à créer des chansons libres de droits, des instrumentaux, des paroles et des bandes-son synchronisées à la vidéo, principalement pour les créateurs...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Producteur de podcast +1 de plus
@@ -10492,6 +11462,10 @@ _Vue compacte pour un balayage plus rapide._
   - Termzy AI est une extension de navigateur Chrome qui utilise l’IA pour analyser les politiques de confidentialité ainsi que les conditions générales, aidant les utilisateurs à comprendre rapidement les clauses...
   - *Rôles adaptés:* Avocat, Analyste cybersécurité, Analyste des risques, Rédacteur technique
 
+- **[Terracotta AI](https://www.aimyflow.com/fr/ai/tryterracotta-com)**
+  - Terracotta AI est un outil de gouvernance des changements d’infrastructure qui audite les pull requests Terraform, Kubernetes et Terragrunt en matière de sécurité, de conformité, de dérive et de coûts avant leur...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable cybersécurité, Analyste cybersécurité, Ingénieur logiciel +1 de plus
+
 - **[TestDriver](https://www.aimyflow.com/fr/ai/testdriver-ai)**
   - TestDriver est un outil de test de bout en bout alimenté par l’IA qui génère et exécute des tests durables, imitant le comportement des utilisateurs, sur des interfaces web, desktop, d’extension de navigateur et de VS...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Rédacteur technique
@@ -10530,10 +11504,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[The AI Voice Generator](https://www.aimyflow.com/fr/ai/theaivoicegenerator-com)**
   - Le générateur de voix IA est un outil gratuit de synthèse vocale et de clonage vocal qui aide les créateurs à produire des voix off réalistes, des voix de style célébrité, des transcriptions, des sous-titres et des...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Producteur de podcast, Rédacteur publicitaire, Créateur de contenu +1 de plus
-
-- **[The Checker AI](https://www.aimyflow.com/fr/ai/aicheatcheck-com)**
-  - Checker AI est une démonstration éducative de détection de contenu généré par l’IA qui aide les utilisateurs à distinguer les textes générés par l’IA des travaux authentiques d’étudiants, principalement destinée aux...
-  - *Rôles adaptés:* Professeur d’université, Conseiller d’orientation scolaire, Consultant en technologies éducatives, Enseignant
 
 - **[The Context Company](https://www.aimyflow.com/fr/ai/thecontext-company)**
   - The Context Company est un outil d’observabilité et d’analyse du comportement des utilisateurs pour les agents IA, qui aide les équipes à surveiller les conversations en production, à détecter la frustration et les...
@@ -10640,6 +11610,14 @@ _Vue compacte pour un balayage plus rapide._
   - thomas.io est le site personnel d’un développeur web basé à Melbourne, avec un blog et des projets qui mettent en valeur ce qu’il crée et ce sur quoi il écrit pour les lecteurs intéressés par son travail de...
   - *Rôles adaptés:* Ingénieur logiciel, Rédacteur technique, Créateur de contenu
 
+- **[Thorntale](https://www.aimyflow.com/fr/ai/thorntale-com)**
+  - Thorntale est un créateur de présentations nativement conçu pour l’IA qui aide les utilisateurs à transformer leurs idées en présentations prêtes pour les clients grâce à des mises en page automatiques, des thèmes, la...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, PDG, Rédacteur publicitaire +1 de plus
+
+- **[Thread](https://www.aimyflow.com/fr/ai/usethread-io)**
+  - Thread est un logiciel métier dédié aux opérations, à l’automatisation et aux paiements, qui aide les équipes à acheminer les incidents, à gérer un catalogue de services et à améliorer la communication autour des...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable développement logiciel, Responsable PMO, Directeur des opérations +1 de plus
+
 - **[ThreadSignals](https://www.aimyflow.com/fr/ai/threadsignals-com)**
   - ThreadSignals est un outil de génération de leads qui analyse les conversations en ligne à partir de mots-clés enregistrés afin d’aider les fondateurs, les marketeurs et les équipes de prospection à identifier des...
   - *Rôles adaptés:* Responsable commercial terrain, Directeur marketing digital, Responsable des ventes e-commerce, PDG +1 de plus
@@ -10672,6 +11650,10 @@ _Vue compacte pour un balayage plus rapide._
   - ThunDroid AI est une application de bien-être pour iPhone qui aide les utilisateurs à gérer le stress, l’anxiété, la tenue d’un journal, les exercices de respiration, le suivi de l’humeur et des conseils nutritionnels...
   - *Rôles adaptés:* Coach bien-être, Conseiller d’orientation scolaire, Administrateur de santé
 
+- **[Thyme, now transitioned to Hazel through a partnership with Altruist,](https://www.aimyflow.com/fr/ai/meetthyme-com)**
+  - Thyme, désormais devenu Hazel grâce à un partenariat avec Altruist, est une plateforme d’IA destinée aux professionnels de la gestion de patrimoine et aux conseillers financiers, qui prend en charge les flux de travail...
+  - *Rôles adaptés:* Analyste financier, Directeur financier, Gestionnaire de portefeuille, Responsable FP&A +1 de plus
+
 - **[Ticketify](https://www.aimyflow.com/fr/ai/ticketify-io)**
   - Ticketify est un générateur de tickets IA qui transforme des idées ou des rapports de bugs en tickets structurés pour Jira, Linear et d’autres plateformes de gestion de projet, principalement pour les développeurs....
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Directeur des opérations
@@ -10683,10 +11665,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Tidio](https://www.aimyflow.com/fr/ai/tidio-com)**
   - Tidio est une plateforme IA de service client qui aide les entreprises à gérer le support, engager les prospects et automatiser les conversations, notamment pour l’e-commerce.
   - *Rôles adaptés:* Vendeur e-commerce
-
-- **[Tidio Copilot](https://www.aimyflow.com/fr/ai/copilot-tidio-com)**
-  - Tidio Copilot est un assistant IA gratuit pour les services d’assistance qui fonctionne avec les systèmes de support existants afin d’aider les équipes à gérer les tâches de service client plus efficacement,...
-  - *Rôles adaptés:* Vendeur e-commerce, Directeur de restaurant, Responsable d’agence, Directeur des opérations +1 de plus
 
 - **[TikTok for Business](https://www.aimyflow.com/fr/ai/ads-tiktok-com)**
   - TikTok for Business est une plateforme publicitaire qui aide les marques, agences et créateurs à créer, gérer et optimiser des campagnes pour les formats et audiences de TikTok. À l’ère de l’IA, elle permet de tester...
@@ -10715,6 +11693,10 @@ _Vue compacte pour un balayage plus rapide._
   - Titles.video est un outil d’optimisation YouTube basé sur l’IA qui analyse des vidéos publiées, non répertoriées ou non publiées afin de générer des propositions de titres avec des scores de CTR, ainsi que des...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire +1 de plus
 
+- **[Tivara](https://www.aimyflow.com/fr/ai/tivara-com)**
+  - Tivara est une plateforme d’engagement patient basée sur l’IA qui automatise les flux de travail téléphoniques dans le secteur de la santé, tels que la prise de rendez-vous, le renouvellement d’ordonnances,...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Médecin généraliste, Aide à domicile +1 de plus
+
 - **[TLDRly](https://www.aimyflow.com/fr/ai/tldrly-ai)**
   - TLDRly est une extension Chrome qui utilise l’IA pour résumer et traduire des vidéos YouTube, des pages web et du texte sélectionné, aidant les étudiants, les chercheurs, les journalistes et d’autres professionnels à...
   - *Rôles adaptés:* Reporter TV, Rédacteur technique, Professeur d’université, Créateur de contenu +1 de plus
@@ -10723,9 +11705,17 @@ _Vue compacte pour un balayage plus rapide._
   - To-Teach est un outil de planification pédagogique et de création de contenu basé sur l’IA qui aide les enseignants à créer des plans de cours, des exercices, des fiches de travail et des supports spécifiques à une...
   - *Rôles adaptés:* Enseignant, Consultant en technologies éducatives, Professeur d’université, Enseignant en collège communautaire +1 de plus
 
+- **[TokenOwl](https://www.aimyflow.com/fr/ai/tokenowl-ai)**
+  - TokenOwl est un outil de portefeuille IA et de reporting fiscal qui se connecte aux portefeuilles et aux plateformes d’échange pour aider les utilisateurs de cryptomonnaies à étiqueter les transactions, rapprocher les...
+  - *Rôles adaptés:* Expert-comptable certifié, Analyste financier, Responsable fiscal d’entreprise, Analyste des risques +1 de plus
+
 - **[Toki](https://www.aimyflow.com/fr/ai/yestoki-com)**
   - Toki est un assistant de calendrier IA qui aide les personnes à gérer leurs emplois du temps, rappels et événements par texte, voix ou images, tout en synchronisant Google Calendar, Apple Calendar et Outlook, ce qui le...
   - *Rôles adaptés:* PDG, Responsable PMO, Directeur des opérations, Responsable d’agence +1 de plus
+
+- **[Toma](https://www.aimyflow.com/fr/ai/toma-com)**
+  - Toma est un système d’exploitation d’IA pour les concessions automobiles qui utilise des agents vocaux pour gérer les appels entrants, planifier les interventions, qualifier les prospects, envoyer des rappels, et...
+  - *Rôles adaptés:* Responsable commercial terrain, Directeur de restaurant, Responsable PMO, Directeur des opérations
 
 - **[Tome App AI](https://www.aimyflow.com/fr/ai/tomeapp-ai)**
   - Tome App AI est un créateur de présentations par IA qui aide les utilisateurs à générer, embellir, modifier et convertir des présentations PowerPoint à partir de texte, de PDF, de fichiers Word, de pages web, de vidéos...
@@ -10771,6 +11761,10 @@ _Vue compacte pour un balayage plus rapide._
   - TopMediai AI Music Generator est un outil en ligne qui crée des chansons libres de droits à partir d’invites textuelles, de paroles ou d’images, principalement pour les créateurs et les marques qui ont besoin de...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Producteur de podcast +1 de plus
 
+- **[Topo](https://www.aimyflow.com/fr/ai/topo-io)**
+  - Topo est une plateforme de vente basée sur l’IA qui aide les équipes commerciales à mener leur prospection sortante en trouvant des leads correspondant à l’ICP, en identifiant les signaux d’intention, en qualifiant les...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, PDG, Directeur des opérations +1 de plus
+
 - **[Topological](https://www.aimyflow.com/fr/ai/topological-com)**
   - Topological est une plateforme d’IA basée sur la physique pour l’optimisation de la CAO, qui aide les équipes d’ingénierie matérielle et mécanique à générer et affiner des conceptions pour des problèmes physiques...
   - *Rôles adaptés:* Ingénieur mécanique, Ingénieur logiciel, Ingénieur électricien, Ingénieur civil +1 de plus
@@ -10783,17 +11777,25 @@ _Vue compacte pour un balayage plus rapide._
   - Touchpoint est un générateur de modèles d’e-mails IA qui aide les utilisateurs à créer des e-mails HTML responsives et personnalisés à leur marque, ainsi que des campagnes, sans compétences en code ni en design,...
   - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, Rédacteur publicitaire, Créateur de contenu réseaux sociaux +1 de plus
 
+- **[Tower AI](https://www.aimyflow.com/fr/ai/withtower-com)**
+  - Tower AI est une plateforme de gestion de due diligence alimentée par l’IA qui aide les équipes M&A et juridiques à collecter, organiser, extraire et examiner des informations provenant de data rooms et d’autres...
+  - *Rôles adaptés:* Avocat, Analyste financier, Responsable PMO, PDG
+
 - **[Trace](https://www.aimyflow.com/fr/ai/trace-so)**
   - Trace est un logiciel conçu pour améliorer les workflows numériques en aidant les équipes à organiser, suivre ou analyser leur travail plus efficacement.
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +16 de plus
 
-- **[TrackMyBusiness](https://www.aimyflow.com/fr/ai/trackmybusiness-ai)**
-  - TrackMyBusiness est un outil de surveillance de marque par IA qui suit la manière dont ChatGPT, Gemini, Perplexity et Claude mentionnent une entreprise, aidant les entreprises SaaS, les marques e-commerce, les...
-  - *Rôles adaptés:* Directeur marketing digital, Responsable des ventes e-commerce, PDG, Directeur des opérations +1 de plus
+- **[Tracecat](https://www.aimyflow.com/fr/ai/tracecat-com)**
+  - Tracecat est une plateforme open source d’automatisation de la sécurité par IA qui aide les équipes de sécurité à créer et exécuter des agents, des workflows et des dossiers pour gérer la réponse aux incidents, les...
+  - *Rôles adaptés:* Analyste cybersécurité, Responsable cybersécurité, Responsable infrastructure IT, Ingénieur logiciel +1 de plus
 
 - **[TractorBeam](https://www.aimyflow.com/fr/ai/tractorbe-am)**
   - TractorBeam est un partenaire de responsabilisation par IA qui appelle les utilisateurs chaque jour, suit les objectifs et les habitudes dans un tableau de bord en direct, et offre une assistance par texto,...
   - *Rôles adaptés:* Coach bien-être, Responsable PMO, Coach en leadership d’entreprise, Créateur de contenu +1 de plus
+
+- **[TradeFlow](https://www.aimyflow.com/fr/ai/tradeflowai-com)**
+  - TradeFlow est une plateforme d’opérations post-marché alimentée par l’IA qui aide les établissements financiers à automatiser les workflows de règlement-livraison des transactions en traitant des données non...
+  - *Rôles adaptés:* Analyste financier, Analyste des risques, Responsable PMO, Directeur financier +1 de plus
 
 - **[Tradepost.ai](https://www.aimyflow.com/fr/ai/tradepost-ai)**
   - Tradepost.ai est une plateforme IA d’analyse financière qui aide à extraire des signaux de trading à partir de newsletters, dépôts SEC et signaux de marché, pour investisseurs et traders.
@@ -10859,6 +11861,10 @@ _Vue compacte pour un balayage plus rapide._
   - TreeMind est un outil en ligne de cartographie mentale par IA qui aide les utilisateurs à générer, modifier et partager des cartes mentales à partir d’invites, d’images et de documents, principalement pour les équipes,...
   - *Rôles adaptés:* Responsable PMO, Consultant en technologies éducatives, Analyste financier, Professeur d’université +1 de plus
 
+- **[Trellis](https://www.aimyflow.com/fr/ai/runtrellis-com)**
+  - Trellis est une plateforme d’opérations de préservice basée sur l’IA qui aide les prestataires de soins de santé et les laboratoires de diagnostic à automatiser l’admission, les vérifications d’éligibilité, les...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Spécialiste en santé au travail, Responsable infrastructure IT
+
 - **[TrendHopper](https://www.aimyflow.com/fr/ai/trendhopper-ai)**
   - TrendHopper est une plateforme d’automatisation de contenu par IA et d’hébergement de blog qui aide les utilisateurs à planifier, générer, optimiser et publier des articles axés sur le SEO, principalement pour les...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux, PDG +1 de plus
@@ -10875,6 +11881,10 @@ _Vue compacte pour un balayage plus rapide._
   - Trickle est un créateur d’applications IA et de sites web qui utilise le langage naturel pour aider les utilisateurs à transformer leurs idées en applications web, sites web et outils internes opérationnels,...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Directeur marketing digital +1 de plus
 
+- **[Trigger.dev](https://www.aimyflow.com/fr/ai/trigger-dev)**
+  - Trigger.dev est une plateforme open source permettant aux développeurs de créer et de déployer des agents IA et des workflows TypeScript de longue durée avec tentatives automatiques, files d’attente, planification,...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
+
 - **[Trim](https://www.aimyflow.com/fr/ai/trimresearch-com)**
   - Trim est un modèle de fondation d’IA pour la physique qui simule l’évolution dans le temps de systèmes physiques du monde réel, aidant les utilisateurs à générer le comportement futur des systèmes plus efficacement que...
   - *Rôles adaptés:* Physicien théoricien, Mathématicien appliqué, Data scientist, Ingénieur logiciel +1 de plus
@@ -10890,6 +11900,10 @@ _Vue compacte pour un balayage plus rapide._
   - TriviaPixel est un générateur de quiz de culture générale alimenté par l’IA qui aide les utilisateurs à créer, modifier et jouer à des quiz personnalisés sur n’importe quel sujet, principalement pour les joueurs...
   - *Rôles adaptés:* Enseignant, Conseiller d’orientation scolaire, Coach en leadership d’entreprise, Responsable de programme associatif +1 de plus
 
+- **[truemetrics](https://www.aimyflow.com/fr/ai/truemetrics-io)**
+  - truemetrics est un outil et un SDK d’optimisation de la livraison du dernier kilomètre qui cartographie les entrées précises des bâtiments et les emplacements de stationnement via les appareils mobiles des coursiers,...
+  - *Rôles adaptés:* Planificateur logistique, Responsable commercial terrain, Directeur des opérations, Responsable développement logiciel
+
 - **[Truffle AI](https://www.aimyflow.com/fr/ai/trytruffle-ai)**
   - Truffle AI est une plateforme et un SDK permettant de créer, déployer et faire évoluer des agents d’IA serverless qui automatisent les workflows, s’intègrent aux logiciels existants et interrogent les données...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Directeur des opérations
@@ -10902,6 +11916,10 @@ _Vue compacte pour un balayage plus rapide._
   - Truth Systems est un agent programmatique de gouvernance de l’IA et de conformité unifiée qui aide les organisations, en particulier les équipes juridiques et les responsables de l’innovation, à surveiller et bloquer...
   - *Rôles adaptés:* Responsable cybersécurité, Analyste des risques, Responsable infrastructure IT, Directeur des opérations +1 de plus
 
+- **[TruthSuite](https://www.aimyflow.com/fr/ai/truthsuite-com)**
+  - TruthSuite est un assistant juridique d’IA et un outil de synthèse de documents qui aide les avocats et les équipes juridiques à organiser les dossiers médicaux, à extraire les faits essentiels des EBT et de la...
+  - *Rôles adaptés:* Avocat, Agent de facturation médicale, Rédacteur technique, Administrateur de santé
+
 - **[TruVerifAI](https://www.aimyflow.com/fr/ai/truverif-ai)**
   - TruVerifAI est une plateforme d’IA qui exécute une requête simultanément via GPT, Claude, Gemini et Grok afin de produire, pour les utilisateurs, des réponses fondées sur un consensus et vérifiées factuellement dans...
   - *Rôles adaptés:* Analyste financier, Directeur marketing digital, Rédacteur publicitaire, Vendeur e-commerce +1 de plus
@@ -10909,10 +11927,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Try Again AI](https://www.aimyflow.com/fr/ai/tryagain-ai)**
   - Try Again AI est un outil de développement personnel qui utilise son algorithme Keymaker pour assembler des combinaisons de méthodes destinées à des problèmes concrets comme la procrastination, la concentration, les...
   - *Rôles adaptés:* Coach bien-être, Conseiller d’orientation scolaire, Coach en leadership d’entreprise, Administrateur de santé
-
-- **[TryRankSense](https://www.aimyflow.com/fr/ai/tryranksense-com)**
-  - TryRankSense est un outil SEO alimenté par l’IA qui analyse un site web, hiérarchise les problèmes techniques, on-page et de contenu selon leur impact, et guide les propriétaires de sites web ainsi que les...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Ingénieur logiciel, PDG
 
 - **[TTSynth.com](https://www.aimyflow.com/fr/ai/ttsynth-com)**
   - TTSynth.com est un générateur gratuit de synthèse vocale en ligne qui convertit du texte écrit en audio MP3 téléchargeable, avec plusieurs langues et des options de voix au rendu naturel, principalement destiné aux...
@@ -10928,6 +11942,10 @@ _Vue compacte pour un balayage plus rapide._
 
 - **[TuckMeIn](https://www.aimyflow.com/fr/ai/tuckmein-app)**
   - TuckMeIn est un générateur d’histoires du soir basé sur l’IA qui crée des histoires personnalisées pour enfants avec narration audio facultative en utilisant le prénom de l’enfant, ses centres d’intérêt et les valeurs...
+
+- **[Tuesday Lab](https://www.aimyflow.com/fr/ai/tuesdaylab-com)**
+  - Tuesday Lab est un studio d’ingénierie axé sur la création de « robots agréables », principalement destiné aux équipes et aux organisations recherchant une expertise sur mesure en ingénierie robotique. Dans un flux de...
+  - *Rôles adaptés:* Ingénieur mécanique, Ingénieur électricien, Ingénieur logiciel, Responsable PMO +1 de plus
 
 - **[Tufa](https://www.aimyflow.com/fr/ai/tufa-io)**
   - Tufa est un outil de gestion des réseaux sociaux alimenté par l’IA qui aide les entreprises, les marketeurs et les équipes à générer du contenu conforme à leur image de marque, à concevoir des publications, ainsi qu’à...
@@ -10949,6 +11967,10 @@ _Vue compacte pour un balayage plus rapide._
   - TurboScribe est un service IA de transcription qui transforme rapidement l’audio et la vidéo en texte et sous-titres, pour créateurs, chercheurs et équipes métier.
   - *Rôles adaptés:* Enseignant
 
+- **[Tusk](https://www.aimyflow.com/fr/ai/usetusk-ai)**
+  - Tusk est une plateforme de test IA qui transforme le trafic de production en tests unitaires et API afin d’aider les équipes d’ingénierie à prévenir les régressions, à accroître la couverture et à favoriser un...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable PMO, Responsable infrastructure IT
+
 - **[Tutor AI](https://www.aimyflow.com/fr/ai/tutorai-me)**
   - Tutor AI est une plateforme de tutorat par IA qui aide les utilisateurs à créer des cours personnalisés, à obtenir des explications et une aide aux devoirs étape par étape, et à suivre leurs progrès, principalement...
   - *Rôles adaptés:* Consultant en technologies éducatives, Tuteur en programmation en ligne, Tuteur de préparation aux examens, Coach en leadership d’entreprise +1 de plus
@@ -10969,6 +11991,10 @@ _Vue compacte pour un balayage plus rapide._
   - Twistly est un créateur de présentations IA pour Microsoft PowerPoint qui aide les utilisateurs à créer des présentations modifiables à partir de prompts, de PDF, de documents Word, de texte et de vidéos,...
   - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Responsable acquisition de talents, Enseignant +1 de plus
 
+- **[Typa](https://www.aimyflow.com/fr/ai/typa-ai)**
+  - Typa est un moteur de contenu IA qui aide les utilisateurs à développer et à faire évoluer du contenu axé sur la narration en maintenant la voix de marque, en mettant à jour une base de connaissances et en utilisant un...
+  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
+
 - **[Typewise](https://www.aimyflow.com/fr/ai/typewise-app)**
   - Typewise est une plateforme d’IA de service client pour les entreprises qui aide les équipes métier à lancer et gérer des agents d’IA pour les workflows de support, de vente et de commerce sur différents canaux, avec...
   - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable développement logiciel
@@ -10984,6 +12010,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[uBest](https://www.aimyflow.com/fr/ai/ubest-ae)**
   - uBest est une plateforme de recrutement IA et un service de recrutement géré qui automatise le sourcing, la prise de contact, la présélection, la présélection finale, la planification et le suivi des candidats pour les...
   - *Rôles adaptés:* Responsable acquisition de talents, PDG, Directeur des opérations, Responsable PMO
+
+- **[Ubicloud](https://www.aimyflow.com/fr/ai/ubicloud-com)**
+  - Ubicloud est une plateforme cloud open source et une alternative à AWS qui aide les équipes à exécuter du calcul élastique, du stockage en blocs, du réseau, PostgreSQL managé et des runners GitHub Actions chez des...
+  - *Rôles adaptés:* Responsable infrastructure IT, Responsable développement logiciel, Ingénieur data, Ingénieur logiciel +1 de plus
 
 - **[udioai.ai](https://www.aimyflow.com/fr/ai/udioai-ai)**
   - udioai.ai est une page d’avis de retrait expliquant que le site imitait Udio, que tout abonnement acheté là-bas n’est pas valide sur Udio, et que les utilisateurs concernés doivent les annuler et utiliser le site...
@@ -11013,6 +12043,18 @@ _Vue compacte pour un balayage plus rapide._
   - Unblur Image est un outil en ligne de défloutage photo alimenté par l’IA qui aide les utilisateurs à corriger le flou de mouvement, à améliorer la netteté des images hors focus, à restaurer d’anciennes photos et à...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Vendeur e-commerce, Créateur de contenu réseaux sociaux +1 de plus
 
+- **[Unbound AI](https://www.aimyflow.com/fr/ai/getunbound-ai)**
+  - Unbound AI est un courtier de sécurité d’accès aux agents qui aide les équipes d’ingénierie et de sécurité à découvrir les agents de codage IA, à évaluer les risques et à appliquer des politiques sur les commandes de...
+  - *Rôles adaptés:* Responsable cybersécurité, Responsable développement logiciel, Analyste cybersécurité, Responsable infrastructure IT +1 de plus
+
+- **[Undermind](https://www.aimyflow.com/fr/ai/undermind-ai)**
+  - Undermind est un assistant de recherche bibliographique scientifique alimenté par l’IA qui explore les articles et les réseaux de citations pour aider les chercheurs et les équipes R&D à trouver rapidement des preuves...
+  - *Rôles adaptés:* Biologiste moléculaire, Microbiologiste, Chimiste, Data scientist +1 de plus
+
+- **[Understood Care](https://www.aimyflow.com/fr/ai/understoodcare-com)**
+  - Understood Care est un service virtuel d’assistance Medicare et de défense des droits des patients qui aide les personnes dans l’ensemble des États-Unis à gérer la coordination des soins, les demandes de remboursement,...
+  - *Rôles adaptés:* Administrateur de santé, Aide à domicile, Aide-soignant certifié, Agent de facturation médicale +1 de plus
+
 - **[Undetectable AI](https://www.aimyflow.com/fr/ai/undetectable-ai)**
   - Undetectable AI est un outil gratuit de détection de l’IA qui vérifie si un texte peut être signalé comme généré par l’IA par les principaux détecteurs, avec des fonctionnalités optionnelles d’humanisation pour les...
   - *Rôles adaptés:* Rédacteur publicitaire, Directeur marketing digital, Rédacteur technique, Professeur d’université +1 de plus
@@ -11041,6 +12083,10 @@ _Vue compacte pour un balayage plus rapide._
   - Unify est un espace de travail IA tout-en-un pour la vidéo, l’image, la musique et le chat, qui aide les créateurs, les équipes marketing et les petites équipes à produire de courtes vidéos, des visuels produit, des...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
 
+- **[Unify AI](https://www.aimyflow.com/fr/ai/unify-ai)**
+  - Unify AI est une plateforme permettant de recruter, personnaliser et gérer des assistants IA qui apprennent les flux de travail via des appels, des e-mails ou le partage d’écran afin de prendre en charge des tâches...
+  - *Rôles adaptés:* Responsable PMO, Analyste financier, Directeur des opérations, Responsable fiscal d’entreprise +1 de plus
+
 - **[UNIKBET](https://www.aimyflow.com/fr/ai/coqui-ai)**
   - UNIKBET semble être une plateforme de jeux d’argent en ligne pour le Toto 4D et les jeux de machines à sous, aidant les joueurs à accéder aux marchés de paris, aux listes de jeux et aux options de connexion ou...
 
@@ -11059,10 +12105,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Unschooler](https://www.aimyflow.com/fr/ai/unschooler-me)**
   - Unschooler est une plateforme d’apprentissage et de développement basée sur l’IA qui aide les entreprises, les formateurs, les universités et les écoles à créer des cours vidéo personnalisés avec des quiz, des devoirs,...
   - *Rôles adaptés:* Consultant en technologies éducatives, Responsable acquisition de talents, Coach en leadership d’entreprise, Responsable PMO +1 de plus
-
-- **[Unscreen](https://www.aimyflow.com/fr/ai/unscreen-com)**
-  - Unscreen était un outil de suppression d’arrière-plan vidéo destiné aux créateurs et aux monteurs vidéo, mais il a définitivement cessé son activité et redirige désormais les utilisateurs vers l’éditeur vidéo de Canva...
-  - *Rôles adaptés:* Créateur de contenu, Graphiste, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
 
 - **[Unsiloed AI](https://www.aimyflow.com/fr/ai/unsiloed-ai)**
   - Unsiloed AI est une plateforme de traitement de documents qui transforme des données non structurées multimodales, telles que des PDF, des feuilles de calcul, des présentations et des images, en JSON structuré ou en...
@@ -11088,6 +12130,10 @@ _Vue compacte pour un balayage plus rapide._
   - UseResume AI est un créateur de CV alimenté par l’IA qui aide les chercheurs d’emploi à créer des CV et lettres de motivation optimisés pour les ATS, adaptés à des descriptions de poste spécifiques, à partir de CV...
   - *Rôles adaptés:* Responsable acquisition de talents, Rédacteur publicitaire, Rédacteur technique
 
+- **[Usul](https://www.aimyflow.com/fr/ai/usul-com)**
+  - Usul est une plateforme d’IA destinée aux entreprises de défense qui aide les équipes à identifier les opportunités contractuelles pertinentes, à cartographier les financements et les décideurs, à suivre les...
+  - *Rôles adaptés:* Responsable commercial terrain, PDG, Responsable PMO, Directeur des opérations
+
 - **[Uthana](https://www.aimyflow.com/fr/ai/uthana-com)**
   - Uthana est une plateforme d’IA dédiée au mouvement humain qui aide les utilisateurs à générer, retargeter, rigger et contrôler l’animation de personnages à partir de texte, de vidéo et d’entrées en temps réel,...
   - *Rôles adaptés:* Responsable développement logiciel, Réalisateur indépendant, Graphiste, Ingénieur logiciel +1 de plus
@@ -11104,6 +12150,10 @@ _Vue compacte pour un balayage plus rapide._
   - Vadoo AI Faceless Video Generator est un outil vidéo d’IA basé sur le navigateur qui transforme des invites textuelles ou des scripts en courtes vidéos sans visage avec des visuels, des voix off, des légendes, des...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire, Graphiste +1 de plus
 
+- **[Vaero](https://www.aimyflow.com/fr/ai/vaero-ai)**
+  - Vaero est un outil de rédaction basé sur l’IA qui aide les utilisateurs à générer et à humaniser du texte afin qu’il corresponde à leur style d’écriture personnel, principalement pour les étudiants travaillant sur des...
+  - *Rôles adaptés:* Professeur d’université, Enseignant en collège communautaire, Rédacteur technique, Rédacteur publicitaire +1 de plus
+
 - **[Vaethat](https://www.aimyflow.com/fr/ai/vaethat-com)**
   - Vaethat est un optimiseur de rendus par IA destiné aux professionnels de la visualisation architecturale, qui les aide à agrandir et à améliorer leurs rendus 3D grâce à des préréglages, à la gestion de projets par lots...
   - *Rôles adaptés:* Architecte commercial, Architecte résidentiel, Graphiste, Architecte d'intérieur +1 de plus
@@ -11111,6 +12161,14 @@ _Vue compacte pour un balayage plus rapide._
 - **[Valerie Health](https://www.aimyflow.com/fr/ai/valeriehealth-com)**
   - Valerie Health est une plateforme d’opérations de santé basée sur l’IA qui aide les groupes de prestataires indépendants à moderniser les workflows de front office tels que la gestion des orientations, la...
   - *Rôles adaptés:* Administrateur de santé, Directeur des opérations, Responsable PMO, Agent de facturation médicale
+
+- **[Vanna AI](https://www.aimyflow.com/fr/ai/vanna-ai)**
+  - Vanna AI est un framework open source d’agents SQL qui aide les équipes à créer des agents d’IA prêts pour la production afin d’interroger, en langage naturel, les bases de données de l’entreprise et les systèmes de...
+  - *Rôles adaptés:* Ingénieur data, Data scientist, Ingénieur logiciel, Responsable infrastructure IT +1 de plus
+
+- **[Variance](https://www.aimyflow.com/fr/ai/variance-co)**
+  - Variance est une plateforme d’intelligence des risques basée sur l’IA qui aide les entreprises à détecter, enquêter et appliquer des mesures contre la fraude, les violations liées aux contenus générés par les...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Analyste des risques, Directeur des opérations +1 de plus
 
 - **[Variant](https://www.aimyflow.com/fr/ai/variant-ai)**
   - Variant est un outil d’exploration de design par IA qui présente, en faisant défiler, une infinité d’options de conception d’applications ou de sites web à partir d’une idée, principalement destiné aux personnes qui...
@@ -11123,6 +12181,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[VDraw AI Flowchart Generator](https://www.aimyflow.com/fr/ai/vdraw-ai-ai-flowchart-generator)**
   - VDraw AI Flowchart Generator est un outil d’IA qui transforme du texte, du contenu de blog et des résumés de vidéos en organigrammes personnalisables au style dessiné à la main, principalement pour les personnes qui...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Responsable PMO, Enseignant +1 de plus
+
+- **[VectorShift](https://www.aimyflow.com/fr/ai/vectorshift-ai)**
+  - VectorShift est une plateforme d’automatisation de l’IA de bout en bout qui aide les équipes à créer, déployer et gérer des applications d’IA, des chatbots, des outils de recherche et des automatisations de flux de...
+  - *Rôles adaptés:* Responsable développement logiciel, Responsable PMO, Directeur des opérations, Ingénieur logiciel +1 de plus
 
 - **[VectorUbi](https://www.aimyflow.com/fr/ai/vectorubi-com)**
   - VectorUbi est un générateur d’illustrations vectorielles par IA qui aide les créateurs de contenu, les développeurs et les spécialistes du marketing à créer, modifier et télécharger en quelques secondes des...
@@ -11156,9 +12218,29 @@ _Vue compacte pour un balayage plus rapide._
   - VeeVi est un créateur de vidéos sans visage basé sur l’IA qui transforme des textes ou des idées de sujets en courtes vidéos personnalisables avec voix, sous-titres, musique, styles et options d’exportation pour...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu
 
+- **[Veles](https://www.aimyflow.com/fr/ai/getveles-com)**
+  - Veles est une plateforme d’optimisation tarifaire qui aide les commerciaux, les équipes Sales Ops et RevOps à créer des devis flexibles, analyser les marges et gérer une tarification complexe sans remplacer leur...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Responsable FP&A, Responsable PMO +1 de plus
+
+- **[Vellum](https://www.aimyflow.com/fr/ai/vellum-ai)**
+  - Vellum est un assistant IA personnel de bureau pour macOS et iOS qui se connecte à vos applications, comprend votre contexte et aide les particuliers à gérer les e-mails, la planification, les tâches web, le codage et...
+  - *Rôles adaptés:* PDG, Ingénieur logiciel, Responsable PMO, Directeur des opérations +1 de plus
+
+- **[Velos](https://www.aimyflow.com/fr/ai/tryvelos-com)**
+  - Velos est une plateforme d’automatisation back-office basée sur l’IA qui aide les équipes de l’assurance et de la finance, en particulier les assureurs, MGA, MGU et TPA, à automatiser les flux de travail manuels tels...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Analyste financier, Responsable infrastructure IT
+
+- **[Vendora](https://www.aimyflow.com/fr/ai/vendora-io)**
+  - Vendora est un logiciel tout-en-un de gestion alimentaire qui aide les supermarchés et autres entreprises de commerce de détail alimentaire à gérer les points de vente, les stocks, le e-commerce, la gestion des...
+  - *Rôles adaptés:* Directeur de restaurant, Responsable des ventes e-commerce, Responsable d’agence, Directeur marketing digital +1 de plus
+
 - **[Venngage AI Infographic Generator](https://www.aimyflow.com/fr/ai/venngage-com-ai-tools-infographic-generator)**
   - Le générateur d’infographies IA de Venngage est un outil de conversion de texte en infographie qui aide les utilisateurs à transformer des invites, des résumés et des données en infographies visuelles personnalisables,...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu, Responsable des relations sociales +1 de plus
+
+- **[Venta AI](https://www.aimyflow.com/fr/ai/getventa-ai)**
+  - Venta AI est un outil d’IA de prospection commerciale et de prise de contact pour les équipes de vente européennes, qui aide les utilisateurs à trouver des entreprises et des contacts qualifiés, à analyser les signaux...
+  - *Rôles adaptés:* Responsable commercial terrain, Responsable des ventes e-commerce, Directeur marketing digital, PDG +1 de plus
 
 - **[VentureVault](https://www.aimyflow.com/fr/ai/venturevault-space)**
   - VentureVault est une plateforme gratuite de recherche d’idées de startup qui aide les fondateurs et les entrepreneurs à explorer des idées d’entreprise validées et à analyser les marchés grâce à des recherches...
@@ -11204,6 +12286,10 @@ _Vue compacte pour un balayage plus rapide._
   - Veritus propose des agents IA vocaux, SMS, e-mail et de chat pour le secteur du crédit à la consommation, aidant les prêteurs, les gestionnaires de prêts et les agences de recouvrement à gérer l’acquisition de clients,...
   - *Rôles adaptés:* Analyste financier, Directeur des opérations, Responsable PMO, Responsable d’agence
 
+- **[Versive](https://www.aimyflow.com/fr/ai/getversive-com)**
+  - Versive est une plateforme de recherche utilisateur et de tests alimentée par l’IA qui aide les équipes produit à concevoir, mener et synthétiser des études d’utilisabilité avec des utilisateurs réels et simulés, en...
+  - *Rôles adaptés:* Graphiste, Responsable développement logiciel, Responsable PMO, Ingénieur logiciel +1 de plus
+
 - **[Vertech Academy](https://www.aimyflow.com/fr/ai/vertechacademy-ca)**
   - Vertech Academy est une bibliothèque de prompts d’étude basés sur l’IA qui aide les étudiants à transformer les supports de cours en explications plus claires, en guides d’étude et en préparation aux examens à l’aide...
   - *Rôles adaptés:* Tuteur de préparation aux examens, Enseignant, Professeur d’université, Conseiller d’orientation scolaire
@@ -11211,6 +12297,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Vetnio](https://www.aimyflow.com/fr/ai/vetnio-com)**
   - Vetnio est un copilote IA pour les vétérinaires qui enregistre les consultations et les appels téléphoniques, génère des notes cliniques, aide au diagnostic et facilite la gestion des appels et des messages,...
   - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Coach bien-être
+
+- **[VetRec](https://www.aimyflow.com/fr/ai/vetrec-io)**
+  - VetRec est un assistant vétérinaire basé sur l’IA qui automatise les notes SOAP, les dossiers médicaux, les résumés de patients et la documentation clinique pour les professionnels et les cabinets vétérinaires. Pour...
+  - *Rôles adaptés:* Administrateur de santé, Technicien de laboratoire médical, Directeur des opérations, Responsable PMO
 
 - **[VFast AI’s Wan 2.6 text-to-video tool](https://www.aimyflow.com/fr/ai/vfast-ai-ai-text-to-video)**
   - L’outil texte-vers-vidéo Wan 2.6 de VFast AI est un générateur vidéo par IA qui aide les utilisateurs à créer de courtes vidéos à partir d’instructions écrites, avec des contrôles du format d’image, de la résolution,...
@@ -11243,6 +12333,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[VibeSell Creative Studio](https://www.aimyflow.com/fr/ai/vibesell-dev-creative-studio)**
   - VibeSell Creative Studio est une suite créative propulsée par l’IA qui aide les créateurs à générer des images 4K, des vidéos HD, des modèles 3D, de l’audio, des logos, des maquettes et des modèles LoRA personnalisés,...
   - *Rôles adaptés:* Graphiste, Directeur marketing digital, Vendeur e-commerce, Créateur de contenu +1 de plus
+
+- **[Vibrant Labs](https://www.aimyflow.com/fr/ai/vibrantlabs-com)**
+  - Vibrant Labs fournit des environnements de simulation pour l’apprentissage par renforcement qui aident les équipes IA à évaluer, diagnostiquer, entraîner et aligner des agents sur des tâches à long horizon, en...
+  - *Rôles adaptés:* Ingénieur logiciel, Data scientist, Responsable développement logiciel, Analyste cybersécurité +1 de plus
 
 - **[Vibrantsnap](https://www.aimyflow.com/fr/ai/vibrantsnap-com)**
   - Vibrantsnap est un enregistreur d’écran et créateur de vidéos de démonstration alimenté par l’IA qui aide les utilisateurs à transformer des captures d’écran en démonstrations produit et tutoriels soignés grâce au...
@@ -11376,10 +12470,6 @@ _Vue compacte pour un balayage plus rapide._
   - VidFlux AI Photo to Video Generator est un outil d’IA qui transforme des photos statiques en courtes vidéos MP4 avec des mouvements réalistes, des effets cinématographiques, des prompts et des options de format...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Graphiste, Vendeur e-commerce +1 de plus
 
-- **[VidFlux Text to Image](https://www.aimyflow.com/fr/ai/vidflux-ai-text-to-image)**
-  - VidFlux Text to Image est un outil de génération d’images par IA qui transforme des invites textuelles en images à l’aide de six modèles, principalement destiné aux créateurs, aux spécialistes du marketing, aux...
-  - *Rôles adaptés:* Graphiste, Directeur marketing digital, Créateur de contenu réseaux sociaux, Créateur de contenu +1 de plus
-
 - **[Vidful.ai](https://www.aimyflow.com/fr/ai/vidful-ai)**
   - Vidful.ai est un générateur de vidéos IA basé sur navigateur qui transforme du texte et des images en vidéos à l’aide de Kling AI et de Luma Dream Machine, principalement pour les marketeurs, les éducateurs, les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Responsable des ventes e-commerce, Consultant en technologies éducatives +1 de plus
@@ -11427,10 +12517,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Viggle AI](https://www.aimyflow.com/fr/ai/viggle-ai)**
   - Viggle AI est un outil d’IA de création de mèmes et de vidéos qui utilise la capture de mouvement pour transformer des images de personnages en vidéos animées, principalement destiné aux créateurs produisant du contenu...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Graphiste, Directeur marketing digital +1 de plus
-
-- **[Viggle AI Dance](https://www.aimyflow.com/fr/ai/viggleai-io)**
-  - Viggle AI Dance est un outil d’animation par IA et de conversion d’images en vidéo qui aide les utilisateurs à transformer des images de personnages ou des photos en vidéos de danse et de mouvement animées,...
-  - *Rôles adaptés:* Créateur de contenu, Graphiste, Créateur de contenu réseaux sociaux, Réalisateur indépendant +1 de plus
 
 - **[Viktor](https://www.aimyflow.com/fr/ai/getviktor-com)**
   - Viktor est un collègue IA pour Slack qui se connecte à des milliers d’outils métier et aide les équipes à exécuter des tâches telles que des rapports, des tableaux de bord, du code, des campagnes et des...
@@ -11487,10 +12573,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[Vizard.ai](https://www.aimyflow.com/fr/ai/vizard-ai)**
   - Vizard.ai est un outil de montage vidéo et de création d’extraits basé sur l’IA qui transforme des vidéos longues en clips courts prêts pour les réseaux sociaux, en sous-titres et en formats redimensionnés pour les...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Producteur de podcast +1 de plus
-
-- **[Vizcom](https://www.aimyflow.com/fr/ai/vizcom-ai)**
-  - Vizcom est une plateforme de conception basée sur l’IA qui aide les designers produit et les équipes de design à transformer des croquis et des modèles 3D en rendus haute fidélité, à itérer des concepts et à visualiser...
-  - *Rôles adaptés:* Designer industriel, Graphiste, Responsable PMO, Architecte commercial +1 de plus
 
 - **[VMEG AI Video Translator](https://www.aimyflow.com/fr/ai/vmeg-ai-tools-video-translator)**
   - VMEG AI Video Translator est un outil en ligne de traduction et de doublage vidéo qui aide les utilisateurs à localiser des vidéos dans plus de 170 langues grâce à des voix IA, au clonage vocal, à la synchronisation...
@@ -11620,6 +12702,10 @@ _Vue compacte pour un balayage plus rapide._
   - Waifu Labs est un générateur de portraits par IA qui aide les utilisateurs à créer des illustrations personnalisées de personnages d’anime grâce à un processus en quatre étapes couvrant le portrait initial, la palette...
   - *Rôles adaptés:* Graphiste, Réalisateur indépendant, Créateur de contenu, Auteur de fiction
 
+- **[Waldium](https://www.aimyflow.com/fr/ai/waldium-com)**
+  - Waldium est un CMS nativement conçu pour l’IA qui aide les entreprises B2B, les équipes marketing et les responsables de la croissance à transformer les connaissances internes, les entretiens d’experts et la recherche...
+  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, PDG, Créateur de contenu +1 de plus
+
 - **[Wallnora](https://www.aimyflow.com/fr/ai/wallnora-com)**
   - Wallnora est un studio d’art mural basé sur l’IA qui aide les créateurs, les décorateurs et les vendeurs sur Etsy à générer des œuvres dans plusieurs styles, à les prévisualiser dans des maquettes de pièces avec cadres...
   - *Rôles adaptés:* Architecte d'intérieur, Vendeur e-commerce, Graphiste, Créateur de contenu +1 de plus
@@ -11640,9 +12726,6 @@ _Vue compacte pour un balayage plus rapide._
   - Warp est un environnement de développement agentique et un terminal qui aide les ingénieurs logiciels à créer des fonctionnalités, corriger des bugs, déboguer des problèmes en production et gérer les workflows de...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Responsable cybersécurité +1 de plus
 
-- **[WarrenAI appears to be an Investing.com tool or service that](https://www.aimyflow.com/fr/ai/investing-com-warrenai-login)**
-  - WarrenAI semble être un outil ou un service d’Investing.com actuellement indisponible en raison d’une maintenance, probablement destiné aux investisseurs ou aux utilisateurs suivant les marchés qui accèdent aux...
-
 - **[Watashi Colorizer](https://www.aimyflow.com/fr/ai/watashicolorizer-com)**
   - Watashi Colorizer est un outil de colorisation par IA qui aide les créateurs à transformer des mangas, manhwas, manhuas et webtoons en noir et blanc en chapitres en couleur, avec une cohérence entre les cases, un...
   - *Rôles adaptés:* Graphiste, Créateur de contenu, Réalisateur indépendant, Rédacteur publicitaire
@@ -11658,9 +12741,9 @@ _Vue compacte pour un balayage plus rapide._
   - Wave.video est une plateforme vidéo en ligne tout-en-un qui aide les créateurs à monter, enregistrer, diffuser en multistreaming, héberger et publier des vidéos, principalement pour les créateurs de contenu, les...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu +1 de plus
 
-- **[Waveloom](https://www.aimyflow.com/fr/ai/waveloom-dev)**
-  - Waveloom est un agent IA en arrière-plan qui surveille vos outils, prépare les prochaines étapes et fait remonter les mises à jour importantes dans un flux de revue unique, principalement pour les personnes qui gèrent...
-  - *Rôles adaptés:* Responsable commercial terrain, Planificateur logistique, Directeur des opérations, PDG +1 de plus
+- **[WaveGrid by Wattson Health](https://www.aimyflow.com/fr/ai/wattsonhealth-com)**
+  - WaveGrid de Wattson Health est une plateforme d’orchestration du parcours patient basée sur l’IA qui automatise l’accès des patients, la prise de rendez-vous, le report de rendez-vous, les confirmations, l’admission et...
+  - *Rôles adaptés:* Administrateur de santé, Agent de facturation médicale, Aide à domicile, Infirmier en soins palliatifs
 
 - **[WaveSpeedAI](https://www.aimyflow.com/fr/ai/wavespeed-ai)**
   - WaveSpeedAI est une plateforme de génération de médias par IA qui aide les développeurs et les créateurs à concevoir, exécuter et faire évoluer des workflows d’image, de vidéo, d’audio et de montage grâce à une API...
@@ -11690,9 +12773,21 @@ _Vue compacte pour un balayage plus rapide._
   - Web Gremlin est un outil d’analyse et de surveillance de sites web alimenté par l’IA qui aide les agences digitales à auditer les sites de leurs clients, à suivre les régressions et à générer des rapports couvrant les...
   - *Rôles adaptés:* Directeur marketing digital, Responsable développement logiciel, Responsable infrastructure IT, Rédacteur technique +1 de plus
 
+- **[Web3GPT](https://www.aimyflow.com/fr/ai/w3gpt-ai)**
+  - Web3GPT est un outil d’IA qui aide les utilisateurs à générer des prompts pour des smart contracts, à créer des agents d’IA et à déployer onchain directement depuis le chat, principalement pour les développeurs web3 et...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Rédacteur technique, PDG +1 de plus
+
+- **[Webex AI](https://www.aimyflow.com/fr/ai/ezdubs-ai)**
+  - Webex AI est une plateforme de communication et de collaboration alimentée par l’IA qui aide les entreprises à améliorer le service client et l’expérience des employés grâce à des agents d’IA, une assistance pour les...
+  - *Rôles adaptés:* Responsable infrastructure IT, Directeur des opérations, Responsable PMO, Responsable succès client
+
 - **[Webflow Optimize](https://www.aimyflow.com/fr/ai/intellimize-com)**
   - Webflow Optimize est un outil d’optimisation et de personnalisation de sites web qui aide les équipes à mener des tests A/B, segmenter les audiences et utiliser l’IA pour proposer des expériences générant davantage de...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG
+
+- **[Webhound](https://www.aimyflow.com/fr/ai/webhound-ai)**
+  - Webhound est un outil autonome de recherche sur le web et d’extraction de données qui aide les chercheurs et les équipes de décision à mener de longues investigations de fond, à vérifier les sources et à exporter des...
+  - *Rôles adaptés:* Analyste financier, Responsable acquisition de talents, Directeur marketing digital, Data scientist +1 de plus
 
 - **[Website Planet Image Compressor](https://www.aimyflow.com/fr/ai/websiteplanet-com-webtools-imagecompressor)**
   - Website Planet Image Compressor est un outil gratuit en ligne qui compresse les images PNG et JPG pour réduire leur taille, accélérer les pages web et économiser la bande passante.
@@ -11743,9 +12838,9 @@ _Vue compacte pour un balayage plus rapide._
   - WhyBounce est un outil d’audit de landing pages par IA qui analyse l’URL d’une page pour montrer pourquoi les visiteurs la quittent et propose des corrections prêtes à déployer pour le message, la clarté, la force du...
   - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Graphiste, PDG +1 de plus
 
-- **[Wildcard](https://www.aimyflow.com/fr/ai/wild-card-ai)**
-  - Wildcard est une plateforme SEO IA pour les équipes retail et e-commerce qui aide les marques à suivre la visibilité des produits dans ChatGPT Shopping, à surveiller les classements et les mentions des concurrents, et...
-  - *Rôles adaptés:* Responsable des ventes e-commerce, Directeur marketing digital, Vendeur e-commerce, Rédacteur publicitaire +1 de plus
+- **[Wilson](https://www.aimyflow.com/fr/ai/cartage-ai)**
+  - Wilson est un coordinateur logistique IA de Cartage qui aide les fabricants et les distributeurs à gérer les expéditions de fret de bout en bout, y compris la création de chargements, la réservation, le suivi, la...
+  - *Rôles adaptés:* Planificateur logistique, Superviseur des opérations d’usine, Directeur des opérations, Responsable commercial terrain
 
 - **[Windsurf](https://www.aimyflow.com/fr/ai/codeium-com)**
   - Windsurf est un assistant de codage IA et un IDE natif de l’IA qui aide les développeurs et les équipes en entreprise à écrire, corriger et parcourir des bases de code grâce à des fonctionnalités comme la génération de...
@@ -11837,6 +12932,10 @@ _Vue compacte pour un balayage plus rapide._
   - Wordtune est un assistant de rédaction et de lecture basé sur l’IA qui aide les utilisateurs à reformuler, réécrire, résumer, générer du texte et corriger la grammaire, principalement pour les rédacteurs, les étudiants...
   - *Rôles adaptés:* Rédacteur publicitaire, Rédacteur technique, Créateur de contenu, Analyste financier +1 de plus
 
+- **[Wordware](https://www.aimyflow.com/fr/ai/wordware-ai)**
+  - Wordware est un laboratoire de contexte IA dont le produit principal, Sauna, est un espace de travail intelligent et un assistant IA qui aide les utilisateurs à retrouver du temps de concentration en prenant en charge...
+  - *Rôles adaptés:* PDG, Directeur des opérations, Responsable développement logiciel, Graphiste +1 de plus
+
 - **[Workmate](https://www.aimyflow.com/fr/ai/workmate-com)**
   - Workmate est un assistant de planification par IA qui aide les utilisateurs à coordonner des réunions, gérer les disponibilités, envoyer des relances et résoudre les conflits, principalement pour les professionnels...
   - *Rôles adaptés:* PDG, Directeur des opérations, Responsable PMO, Responsable acquisition de talents +1 de plus
@@ -11865,6 +12964,10 @@ _Vue compacte pour un balayage plus rapide._
   - Woz est une plateforme propulsée par l’IA pour créer, tester et publier des applications mobiles prêtes pour la production, aidant les entrepreneurs, les créateurs de projets annexes et les développeurs à transformer...
   - *Rôles adaptés:* Ingénieur logiciel, PDG, Responsable développement logiciel, Créateur de contenu +1 de plus
 
+- **[Wren AI](https://www.aimyflow.com/fr/ai/getwren-ai)**
+  - Wren AI est une plateforme de business intelligence générative et d’analytics embarqués qui transforme des questions en langage naturel en SQL, graphiques et insights pour les équipes data, les équipes produit, les...
+  - *Rôles adaptés:* Ingénieur logiciel, PDG, Responsable PMO
+
 - **[Write Better Articles](https://www.aimyflow.com/fr/ai/writebetterarticles-com)**
   - Write Better Articles est un outil de rédaction assisté par IA qui aide les créateurs sur X à transformer un sujet, un public et un argumentaire en articles éclairés par l’algorithme à l’aide des pondérations de...
   - *Rôles adaptés:* Créateur de contenu réseaux sociaux, Créateur de contenu, Rédacteur publicitaire, Directeur marketing digital +1 de plus
@@ -11884,10 +12987,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[WRITER](https://www.aimyflow.com/fr/ai/writer-com)**
   - WRITER est une plateforme d’IA d’entreprise pour le travail agentique qui aide les entreprises du Global 2000 à créer, activer et superviser des agents d’IA pour des tâches telles que les campagnes, les appels...
   - *Rôles adaptés:* Responsable infrastructure IT, Directeur marketing digital, Responsable commercial terrain, Responsable développement logiciel +1 de plus
-
-- **[Writesonic](https://www.aimyflow.com/fr/ai/writesonic-com)**
-  - Writesonic est une plateforme de suivi et d’optimisation de la visibilité dans la recherche par IA qui aide les marques à surveiller les classements, les citations, le sentiment et les opportunités de contenu sur...
-  - *Rôles adaptés:* Directeur marketing digital, Rédacteur publicitaire, Créateur de contenu, PDG +1 de plus
 
 - **[writey.ai](https://www.aimyflow.com/fr/ai/writey-ai)**
   - writey.ai est un nom de domaine proposé à la vente via GoDaddy, permettant aux acheteurs d’acquérir ou de louer l’adresse web writey.ai avec un paiement sécurisé et une assistance au transfert. Pour les équipes de...
@@ -11916,6 +13015,10 @@ _Vue compacte pour un balayage plus rapide._
   - xeditai est un espace de travail d’IA générative multi-modèles qui aide les utilisateurs à créer, comparer, affiner et exporter des documents structurés tels que des spécifications, des synthèses de recherche, des...
   - *Rôles adaptés:* PDG, Responsable développement logiciel, Rédacteur technique, Professeur d’université +1 de plus
 
+- **[XEOL, a HeroDevs division,](https://www.aimyflow.com/fr/ai/xeol-io)**
+  - XEOL, une division de HeroDevs, est un outil de détection des logiciels en fin de vie qui aide les entreprises à identifier et à corriger les packages non pris en charge ou abandonnés dans l’ensemble de leur pile open...
+  - *Rôles adaptés:* Responsable cybersécurité, Analyste cybersécurité, Responsable développement logiciel, Responsable infrastructure IT +1 de plus
+
 - **[Xiangji Translation](https://www.aimyflow.com/fr/ai/xiangjifanyi-com)**
   - Xiangji Translation est un outil d’IA de traduction et d’édition visuelle qui aide les utilisateurs à traduire des images et de courtes vidéos, à supprimer des filigranes, à détourer des arrière-plans et à améliorer le...
   - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Créateur de contenu, Graphiste +1 de plus
@@ -11936,6 +13039,10 @@ _Vue compacte pour un balayage plus rapide._
   - YardStyling est un outil de conception paysagère par IA qui aide les propriétaires à transformer des photos de leur jardin en concepts d’aménagement pour l’avant et l’arrière de la maison, en plans de plantation et de...
   - *Rôles adaptés:* Architecte d'intérieur, Architecte résidentiel, Agent immobilier, Architecte commercial
 
+- **[Yarn](https://www.aimyflow.com/fr/ai/yarn-so)**
+  - Yarn est une plateforme de création vidéo par IA qui aide les équipes go-to-market des startups à produire, réutiliser et personnaliser plus rapidement des vidéos face caméra, des démonstrations produit et des overlays...
+  - *Rôles adaptés:* Directeur marketing digital, Responsable commercial terrain, Créateur de contenu réseaux sociaux, Rédacteur publicitaire +1 de plus
+
 - **[YesChat.ai](https://www.aimyflow.com/fr/ai/yeschat-ai)**
   - YesChat.ai est une plateforme d’IA tout-en-un pour le chat, la génération d’images, la génération de vidéos et la création musicale, conçue principalement pour les créateurs, les spécialistes du marketing, les...
   - *Rôles adaptés:* Créateur de contenu, Directeur marketing digital, Ingénieur logiciel, Graphiste +1 de plus
@@ -11943,6 +13050,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Yippity](https://www.aimyflow.com/fr/ai/yippity-io)**
   - Yippity est un outil d’étude basé sur l’IA qui transforme du texte en quiz, cartes mémoire, guides d’étude et séries de questions, comme des questions à choix multiples et des questions ouvertes, principalement pour...
   - *Rôles adaptés:* Enseignant, Tuteur de préparation aux examens, Consultant en technologies éducatives, Tuteur en programmation en ligne +1 de plus
+
+- **[Yondu](https://www.aimyflow.com/fr/ai/yondu-ai)**
+  - Yondu est une plateforme d’automatisation d’entrepôt par IA incarnée qui fournit des robots polyvalents, prêts à l’emploi, pour automatiser des tâches logistiques comme la prise en bac dans des entrepôts existants,...
+  - *Rôles adaptés:* Planificateur logistique, Superviseur des opérations d’usine, Directeur des opérations, Responsable d’agence +1 de plus
 
 - **[Yooz AI](https://www.aimyflow.com/fr/ai/yooz-ai)**
   - Yooz AI est un générateur de publications LinkedIn propulsé par l’IA qui aide les utilisateurs à créer, planifier, publier et réutiliser des publications et des visuels, principalement pour les créateurs et les...
@@ -11984,10 +13095,6 @@ _Vue compacte pour un balayage plus rapide._
   - YouTube to Doc est un outil d’IA qui convertit les vidéos YouTube en documents structurés, notamment des résumés, des quiz et des notes, principalement pour les personnes travaillant avec du contenu vidéo éducatif....
   - *Rôles adaptés:* Consultant en technologies éducatives, Enseignant, Tuteur en programmation en ligne, Coach en leadership d’entreprise +1 de plus
 
-- **[YouWear.ai](https://www.aimyflow.com/fr/ai/youwear-ai)**
-  - YouWear.ai est un outil de conception de vêtements par IA et d’impression à la demande qui aide les utilisateurs à transformer des invites textuelles ou des images téléchargées en designs prêts à imprimer pour des...
-  - *Rôles adaptés:* Graphiste, Vendeur e-commerce, Créateur de contenu, Créateur de contenu réseaux sociaux +1 de plus
-
 - **[YTSearch](https://www.aimyflow.com/fr/ai/ytsearch-mkmushtaq-me)**
   - YTSearch est un outil Chrome pour YouTube qui aide les utilisateurs à poser des questions sur une vidéo, à obtenir des réponses précises et à accéder directement à l’horodatage exact où apparaît la réponse,...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur technique, Directeur marketing digital +1 de plus
@@ -12003,6 +13110,10 @@ _Vue compacte pour un balayage plus rapide._
 - **[Yuanbao](https://www.aimyflow.com/fr/ai/ai-qq-com)**
   - Yuanbao est l’assistant IA de Tencent qui aide les utilisateurs à rechercher dans les sources de contenu Tencent connectées, à analyser des images et à répondre à des questions d’étude ou du quotidien, principalement...
   - *Rôles adaptés:* Enseignant, Créateur de contenu, Rédacteur technique, Créateur de contenu réseaux sociaux +1 de plus
+
+- **[Yuma AI](https://www.aimyflow.com/fr/ai/yuma-ai)**
+  - Yuma AI est une plateforme d’IA pour l’e-commerce qui automatise le support client, les ventes, les réponses sur les réseaux sociaux et le chat sur site web pour les marques en ligne, en particulier les marchands...
+  - *Rôles adaptés:* Vendeur e-commerce, Directeur marketing digital, Directeur de restaurant, Responsable PMO +1 de plus
 
 - **[Z.ai](https://www.aimyflow.com/fr/ai/chat-z-ai)**
   - Z.ai est un chatbot et agent d’IA gratuit, propulsé par GLM-5 et GLM-4.7, qui aide les utilisateurs à discuter de manière interactive, à générer des sites web et d’autres contenus, et à explorer des tâches basées sur...
@@ -12044,9 +13155,9 @@ _Vue compacte pour un balayage plus rapide._
   - ZenMux est une plateforme LLM d’entreprise qui offre aux développeurs et aux équipes produit IA une API et une interface unifiées pour accéder à plusieurs modèles de premier plan, avec routage automatique, basculement...
   - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
-- **[ZeroClaw](https://www.aimyflow.com/fr/ai/github-com-theonlyhennygod-zeroclaw)**
-  - ZeroClaw est un projet open source d’infrastructure pour assistants IA, développé en Rust, qui aide les développeurs à déployer des assistants autonomes n’importe où et à remplacer les composants selon les besoins,...
-  - *Rôles adaptés:* Ingénieur logiciel, Responsable infrastructure IT, Responsable développement logiciel, Responsable cybersécurité +1 de plus
+- **[Zep](https://www.aimyflow.com/fr/ai/getzep-com)**
+  - Zep est une plateforme d’ingénierie du contexte et de mémoire d’agents qui aide les développeurs et les équipes d’ingénierie à créer des agents d’IA avec un contexte unifié issu de l’historique des conversations, des...
+  - *Rôles adaptés:* Ingénieur logiciel, Responsable développement logiciel, Responsable infrastructure IT, Ingénieur data +1 de plus
 
 - **[ZeroEval](https://www.aimyflow.com/fr/ai/zeroeval-com)**
   - ZeroEval est une couche d’auto-amélioration pour les agents d’IA qui capture les interactions, évalue la qualité avec des juges intégrés ou personnalisés, et transforme les retours de production en améliorations des...
@@ -12096,6 +13207,10 @@ _Vue compacte pour un balayage plus rapide._
   - ZOYO est une boîte à outils immobilière propulsée par l’IA qui aide agents, agences, propriétaires, designers et promoteurs à créer et améliorer des visuels et supports marketing immobiliers.
   - *Rôles adaptés:* Agent immobilier
 
+- **[Zudo](https://www.aimyflow.com/fr/ai/zudo-work)**
+  - Zudo est une plateforme d’automatisation des garanties par IA qui déploie des agents numériques pour gérer la réception des réclamations, les questions de couverture, les autorisations, la recherche de pièces et...
+  - *Rôles adaptés:* Directeur des opérations, Responsable PMO, Responsable d’agence, Directeur de restaurant +1 de plus
+
 - **[Zust](https://www.aimyflow.com/fr/ai/zust-ai)**
   - Zust est un générateur d’arrière-plans IA pour photos produit qui aide les marques ecommerce, photographes et marketeurs à créer des visuels produit soignés sans shooting complexe.
   - *Rôles adaptés:* Vendeur e-commerce
@@ -12123,10 +13238,6 @@ _Vue compacte pour un balayage plus rapide._
 - **[度加剪辑](https://www.aimyflow.com/fr/ai/ducut-baidu-com)**
   - 度加剪辑 est un outil de montage vidéo de Baidu conçu pour les créateurs de contenu éducatif et les utilisateurs de médias autoportés en face caméra. Il les aide à monter leurs vidéos plus facilement grâce à des fonctions...
   - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Rédacteur publicitaire, Enseignant
-
-- **[快剪辑](https://www.aimyflow.com/fr/ai/kuaijianji-com)**
-  - 快剪辑 est un outil de montage vidéo basé sur le cloud qui aide les utilisateurs à créer et traiter des vidéos en ligne grâce à des fonctionnalités d’IA telles que le montage texte-vers-vidéo, la suppression de...
-  - *Rôles adaptés:* Créateur de contenu, Créateur de contenu réseaux sociaux, Directeur marketing digital, Responsable acquisition de talents +1 de plus
 
 - **[成都潜在人工智能科技有限公司](https://www.aimyflow.com/fr/ai/xingzheai-cn)**
   - Chengdu Potential Artificial Intelligence Technology Co., Ltd. développe des produits d’IA pour l’éducation, le divertissement et les cas d’usage liés aux jeux, notamment la musique par IA, la création artistique par...
@@ -12172,10 +13283,6 @@ _Vue compacte pour un balayage plus rapide._
   - 网易见外工作台 est une plateforme de travail Youdao axée sur les fonctionnalités d’affichage des traductions, qui aide les utilisateurs à consulter le contenu traduit dans un espace de travail et s’adresse principalement aux...
   - *Rôles adaptés:* Rédacteur technique, Rédacteur publicitaire, Créateur de contenu, Responsable PMO
 
-- **[莫烦Python网](https://www.aimyflow.com/fr/ai/mofanpy-com)**
-  - 莫烦Python网 est un site d’apprentissage chinois qui enseigne Python, le traitement des données, l’apprentissage automatique, l’apprentissage profond, le web scraping et les outils de programmation, principalement aux...
-  - *Rôles adaptés:* Tuteur en programmation en ligne, Ingénieur logiciel, Data scientist, Ingénieur data +1 de plus
-
 - **[识典古籍](https://www.aimyflow.com/fr/ai/shidianguji-com)**
   - 识典古籍 est une plateforme en ligne de recherche, de lecture et d’étude des textes classiques chinois, principalement destinée aux chercheurs, aux étudiants et aux lecteurs de littérature ancienne. Ses fonctionnalités...
   - *Rôles adaptés:* Professeur d’université, Rédacteur technique, Consultant en technologies éducatives, Enseignant +1 de plus
@@ -12188,6 +13295,7 @@ _Vue compacte pour un balayage plus rapide._
   - JiJianYun est une plateforme no-code d’intégration logicielle et d’automatisation des workflows qui aide les entreprises à connecter des centaines d’applications, à synchroniser les données et à créer des processus...
   - *Rôles adaptés:* Responsable PMO, Directeur marketing digital, Responsable commercial terrain, Ingénieur data +1 de plus
 
+</div>
 
 </details>
 

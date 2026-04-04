@@ -116,11 +116,7 @@ This README is the curated layer. The generated directory is the full discovery 
 - [Tools dataset](./data/tools.json)
 - [Snapshot stats](./data/stats.json)
 
-Current snapshot:
-
-- 3,027 tools
-- 221 roles
-- 6 locales
+Current snapshot metadata lives in [data/stats.json](./data/stats.json), including the latest tool count, role coverage, locale coverage, and generation timestamp.
 
 ## Internationalization
 

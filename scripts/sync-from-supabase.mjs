@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+import { execFileSync } from 'node:child_process';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 
@@ -76,9 +77,11 @@ const LOCALE_COPY = {
     whyUsePoint2: 'Check a short description and suitable roles for each tool.',
     whyUsePoint3: 'Jump to the full AimyFlow tool page when you want deeper details.',
     startHere: 'Start Here',
+    backToDocsHome: 'Back to docs home',
     exploreTools: 'Explore all AI tools',
     inspectData: 'Inspect tools dataset',
     featuredTools: 'Recently Added Tools',
+    featuredIntro: 'Fresh additions with summaries and role fit.',
     allTools: 'All Tools',
     suitableRoles: 'Suitable roles',
     officialSite: 'Official site',
@@ -107,9 +110,11 @@ const LOCALE_COPY = {
     whyUsePoint2: '快速查看每个工具的简介和适合的职业。',
     whyUsePoint3: '需要更完整内容时，再跳转到 AimyFlow 的工具页。',
     startHere: '从这里开始',
+    backToDocsHome: '返回文档首页',
     exploreTools: '查看全部 AI 工具',
     inspectData: '查看工具数据集',
     featuredTools: '最近新增工具',
+    featuredIntro: '这里优先展示最近新增、便于快速判断的工具。',
     allTools: '全部工具',
     suitableRoles: '适合职业',
     officialSite: '官网',
@@ -137,9 +142,11 @@ const LOCALE_COPY = {
     whyUsePoint2: 'Revisar una breve descripción y los roles adecuados para cada herramienta.',
     whyUsePoint3: 'Abrir la página completa en AimyFlow cuando quieras más contexto.',
     startHere: 'Comienza aquí',
+    backToDocsHome: 'Volver al inicio de docs',
     exploreTools: 'Explorar todas las herramientas IA',
     inspectData: 'Inspeccionar dataset de herramientas',
     featuredTools: 'Herramientas añadidas recientemente',
+    featuredIntro: 'Nuevas incorporaciones con resumen breve y roles recomendados.',
     allTools: 'Todas las herramientas',
     suitableRoles: 'Roles adecuados',
     officialSite: 'Sitio oficial',
@@ -169,9 +176,11 @@ const LOCALE_COPY = {
     whyUsePoint2: '各ツールの短い説明と適した職種をすばやく確認できます。',
     whyUsePoint3: '詳しく知りたいときは AimyFlow の完全なツールページに進めます。',
     startHere: 'ここから始める',
+    backToDocsHome: 'ドキュメントトップへ戻る',
     exploreTools: 'すべての AI ツールを見る',
     inspectData: 'ツールデータを見る',
     featuredTools: '最近追加されたツール',
+    featuredIntro: '最近追加されたツールを、要約と適した職種つきで確認できます。',
     allTools: 'すべてのツール',
     suitableRoles: '適した職種',
     officialSite: '公式サイト',
@@ -201,9 +210,11 @@ const LOCALE_COPY = {
     whyUsePoint2: 'Kurzbeschreibung und passende Rollen pro Tool schnell prüfen.',
     whyUsePoint3: 'Bei Bedarf direkt zur vollständigen Tool-Seite auf AimyFlow wechseln.',
     startHere: 'Hier starten',
+    backToDocsHome: 'Zur Docs-Startseite',
     exploreTools: 'Alle KI-Tools ansehen',
     inspectData: 'Tool-Datensatz ansehen',
     featuredTools: 'Zuletzt hinzugefügte Tools',
+    featuredIntro: 'Neue Einträge mit Kurzbeschreibung und passenden Rollen.',
     allTools: 'Alle Tools',
     suitableRoles: 'Passende Rollen',
     officialSite: 'Offizielle Website',
@@ -233,9 +244,11 @@ const LOCALE_COPY = {
     whyUsePoint2: 'Consulter rapidement une courte description et les rôles adaptés pour chaque outil.',
     whyUsePoint3: 'Ouvrir ensuite la page complète sur AimyFlow pour plus de détails.',
     startHere: 'Commencer ici',
+    backToDocsHome: 'Retour à l’accueil des docs',
     exploreTools: 'Explorer tous les outils IA',
     inspectData: 'Inspecter le jeu de données des outils',
     featuredTools: 'Outils ajoutés récemment',
+    featuredIntro: 'Nouveaux outils avec résumé rapide et rôles adaptés.',
     allTools: 'Tous les outils',
     suitableRoles: 'Rôles adaptés',
     officialSite: 'Site officiel',
@@ -470,6 +483,77 @@ function buildLocaleSiteUrl(siteUrl, locale, pathname) {
   return `${siteUrl}/${locale}${pathname}`;
 }
 
+function yamlQuote(value) {
+  return JSON.stringify(String(value));
+}
+
+function parseGitHubRepository(value) {
+  const match = String(value || '')
+    .trim()
+    .match(/github\.com[:/]([^/]+)\/([^/.]+?)(?:\.git)?$/i);
+
+  if (!match) {
+    return null;
+  }
+
+  return {
+    owner: match[1],
+    repo: match[2],
+  };
+}
+
+function getRepositoryInfo() {
+  const envRepository = process.env.GITHUB_REPOSITORY;
+
+  if (envRepository && envRepository.includes('/')) {
+    const [owner, repo] = envRepository.split('/', 2);
+
+    if (owner && repo) {
+      return { owner, repo };
+    }
+  }
+
+  try {
+    const remoteUrl = execFileSync('git', ['config', '--get', 'remote.origin.url'], {
+      cwd: REPO_ROOT,
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore'],
+    }).trim();
+
+    return parseGitHubRepository(remoteUrl);
+  } catch {
+    return null;
+  }
+}
+
+function buildPagesInfo(repositoryInfo) {
+  if (!repositoryInfo) {
+    return null;
+  }
+
+  const { owner, repo } = repositoryInfo;
+  const isUserSite = repo.toLowerCase() === `${owner.toLowerCase()}.github.io`;
+
+  return {
+    repository: `${owner}/${repo}`,
+    repoUrl: `https://github.com/${owner}/${repo}`,
+    url: `https://${owner}.github.io`,
+    baseurl: isUserSite ? '' : `/${repo}`,
+  };
+}
+
+function renderPageFrontMatter({ title, description, lang = 'en' }) {
+  return [
+    '---',
+    'layout: default',
+    `title: ${yamlQuote(title)}`,
+    `description: ${yamlQuote(description)}`,
+    `lang: ${yamlQuote(lang)}`,
+    '---',
+    '',
+  ].join('\n');
+}
+
 async function ensureDirectories() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(DOCS_DIR, { recursive: true });
@@ -486,7 +570,9 @@ async function removeLegacyDataFiles() {
 }
 
 async function writeJson(relativePath, value) {
-  await fs.writeFile(path.join(REPO_ROOT, relativePath), `${JSON.stringify(value, null, 2)}\n`, 'utf8');
+  const absolutePath = path.join(REPO_ROOT, relativePath);
+  await fs.mkdir(path.dirname(absolutePath), { recursive: true });
+  await fs.writeFile(absolutePath, `${JSON.stringify(value, null, 2)}\n`, 'utf8');
 }
 
 async function writeText(relativePath, value) {
@@ -877,11 +963,13 @@ function renderToolDirectoryEntry(toolRecord, locale, options = {}) {
     return lines.join('\n');
   }
 
-  const lines = [`#### [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})`, '', summary];
+  const lines = ['<div class="tool-card" markdown="1">', '', `### [${toolRecord.display_name[locale]}](${toolRecord.aimyflow_urls[locale]})`, '', summary];
 
   if (roleList) {
     lines.push('', `**${copy.suitableRoles}:** ${roleList}`);
   }
+
+  lines.push('', '</div>');
 
   return lines.join('\n');
 }
@@ -942,14 +1030,40 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
   const copy = LOCALE_COPY[locale];
   const featuredTools = getFeaturedTools(toolRecords);
   const lines = [
+    renderPageFrontMatter({
+      title: copy.docsTitle,
+      description: copy.docsDescription,
+      lang: locale,
+    }).trimEnd(),
+    '',
     `# ${copy.docsTitle}`,
     '',
-    copy.docsDescription,
+    '<div class="landing-hero">',
     '',
-    `${copy.generatedAt}: ${stats.generated_at}`,
+    `<p class="landing-tag">${copy.nativeName}</p>`,
     '',
-    `- ${copy.toolsExported}: ${stats.tool_count}`,
-    `- ${copy.rolesCovered}: ${stats.role_count}`,
+    `<p class="landing-lead">${copy.docsDescription}</p>`,
+    '',
+    '<p class="landing-actions">',
+    `<a href="../">${copy.backToDocsHome}</a>`,
+    `<a href="${buildLocaleSiteUrl(stats.site_url, locale, '/explore')}">${copy.exploreTools}</a>`,
+    `<a href="../data/tools.json">${copy.inspectData}</a>`,
+    '</p>',
+    '',
+    '</div>',
+    '',
+    '<div class="stats-grid">',
+    `<div class="stat-card"><strong>${stats.tool_count}</strong><span>${copy.toolsExported}</span></div>`,
+    `<div class="stat-card"><strong>${stats.role_count}</strong><span>${copy.rolesCovered}</span></div>`,
+    `<div class="stat-card"><strong>${stats.generated_at.slice(0, 10)}</strong><span>${copy.generatedAt}</span></div>`,
+    '</div>',
+    '',
+    `## ${copy.startHere}`,
+    '',
+    `- [${copy.backToDocsHome}](../)`,
+    `- [${copy.exploreTools}](${buildLocaleSiteUrl(stats.site_url, locale, '/explore')})`,
+    `- [${copy.browseRoles}](${buildLocaleSiteUrl(stats.site_url, locale, '/roles')})`,
+    `- [${copy.inspectData}](../data/tools.json)`,
     '',
     `## ${copy.whyUseHeading}`,
     '',
@@ -957,12 +1071,9 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
     `- ${copy.whyUsePoint2}`,
     `- ${copy.whyUsePoint3}`,
     '',
-    `## ${copy.startHere}`,
-    '',
-    `- [${copy.exploreTools}](${buildLocaleSiteUrl(stats.site_url, locale, '/explore')})`,
-    `- [${copy.inspectData}](../../data/tools.json)`,
-    '',
     `## ${copy.featuredTools}`,
+    '',
+    `<p class="section-note">${copy.featuredIntro}</p>`,
     '',
   ];
 
@@ -972,10 +1083,12 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
   }
 
   lines.push('', `## ${copy.allTools}`, '');
-  lines.push('<details>');
+  lines.push('<details markdown="1">');
   lines.push(`<summary>${copy.fullDirectory} (${toolRecords.length})</summary>`);
   lines.push('');
-  lines.push(copy.allToolsStyleNote);
+  lines.push(`<p class="section-note">${copy.allToolsStyleNote}</p>`);
+  lines.push('');
+  lines.push('<div class="directory-list" markdown="1">');
   lines.push('');
 
   for (const toolRecord of toolRecords) {
@@ -983,6 +1096,7 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
     lines.push('');
   }
 
+  lines.push('</div>');
   lines.push('', '</details>', '');
   lines.push(`## ${copy.continueOnAimyFlow}`, '');
   lines.push(`- [${copy.exploreTools}](${buildLocaleSiteUrl(stats.site_url, locale, '/explore')})`);
@@ -993,39 +1107,332 @@ function renderLocaleDocsIndex(stats, toolRecords, locale) {
   return `${lines.join('\n')}\n`;
 }
 
-function renderRootDocsIndex(stats) {
+function renderRootDocsIndex(stats, pagesInfo) {
+  const repoUrl = pagesInfo?.repoUrl;
   const lines = [
+    renderPageFrontMatter({
+      title: LOCALE_COPY.en.rootIndexTitle,
+      description: LOCALE_COPY.en.rootIndexIntro,
+      lang: 'en',
+    }).trimEnd(),
+    '',
     `# ${LOCALE_COPY.en.rootIndexTitle}`,
     '',
-    LOCALE_COPY.en.rootIndexIntro,
+    '<div class="landing-hero">',
     '',
-    `Generated at: ${stats.generated_at}`,
+    '<p class="landing-tag">GitHub Pages companion for AimyFlow</p>',
     '',
-    `- Tools exported: ${stats.tool_count}`,
-    `- Roles covered: ${stats.role_count}`,
+    `<p class="landing-lead">${LOCALE_COPY.en.rootIndexIntro}</p>`,
+    '',
+    '<p class="landing-actions">',
+    '  <a href="https://www.aimyflow.com">Visit AimyFlow</a>',
+    `  <a href="${buildLocaleSiteUrl(stats.site_url, 'en', '/explore')}">Explore AI Tools</a>`,
+    `  <a href="${buildLocaleSiteUrl(stats.site_url, 'en', '/roles')}">Browse Roles</a>`,
+  ];
+
+  if (repoUrl) {
+    lines.push(`  <a href="${repoUrl}">View GitHub Repo</a>`);
+  }
+
+  lines.push(
+    '</p>',
+    '',
+    '</div>',
+    '',
+    '<div class="stats-grid">',
+    `<div class="stat-card"><strong>${stats.tool_count}</strong><span>Tools exported</span></div>`,
+    `<div class="stat-card"><strong>${stats.role_count}</strong><span>Roles covered</span></div>`,
+    `<div class="stat-card"><strong>${stats.locales.length}</strong><span>Locales</span></div>`,
+    '</div>',
+    '',
+    '## Start Here',
+    '',
+    `- [Visit AimyFlow](https://www.aimyflow.com)`,
+    `- [Explore all AI tools on AimyFlow](${buildLocaleSiteUrl(stats.site_url, 'en', '/explore')})`,
+    `- [Browse roles on AimyFlow](${buildLocaleSiteUrl(stats.site_url, 'en', '/roles')})`,
+  );
+
+  if (repoUrl) {
+    lines.push(`- [View the GitHub repository](${repoUrl})`);
+  }
+
+  lines.push(
+    '',
+    '## What You Can Do Here',
+    '',
+    '- Browse a multilingual AI tools directory without leaving GitHub Pages.',
+    '- Jump from each listing to the full AimyFlow tool page when you want more detail.',
+    '- Use the exported JSON files for indexing, scripting, or downstream analysis.',
     '',
     '## Localized Directories',
     '',
-  ];
+    '<div class="locale-grid">',
+    '',
+  );
 
   for (const locale of LOCALES) {
-    lines.push(`- [${LOCALE_COPY[locale].nativeName}](./${locale}/index.md)`);
+    lines.push('<div class="locale-card">');
+    lines.push(`<h3><a href="./${locale}/">${LOCALE_COPY[locale].nativeName}</a></h3>`);
+    lines.push(`<p>${LOCALE_COPY[locale].docsTitle}</p>`);
+    lines.push('</div>');
+    lines.push('');
   }
 
-  lines.push('', '## Data Files', '');
-  lines.push('- [`data/tools.json`](../data/tools.json)');
-  lines.push('- [`data/stats.json`](../data/stats.json)');
+  lines.push('</div>', '', '## Data and Repo', '');
+  lines.push('- [Tools dataset](./data/tools.json)');
+  lines.push('- [Snapshot stats](./data/stats.json)');
+
+  if (repoUrl) {
+    lines.push(`- [GitHub repository](${repoUrl})`);
+  }
+  lines.push('', '## About This Site', '');
+  lines.push(`- Generated at: ${stats.generated_at}`);
+  lines.push('- This GitHub Pages site is the lightweight discovery layer.');
+  lines.push('- AimyFlow remains the full destination for complete tool pages, exploration, and multilingual browsing.');
   lines.push('');
 
   return `${lines.join('\n')}\n`;
 }
 
-function renderDocsSiteConfig() {
-  return [
+function renderDocsSiteConfig(pagesInfo) {
+  const lines = [
     'title: Awesome AI Tools Directory',
     'description: Public multilingual GitHub directory of AI tools from AimyFlow, with curated discovery and full directory links.',
     'theme: minima',
     'markdown: kramdown',
+    'lang: en',
+    'plugins:',
+    '  - jekyll-seo-tag',
+    '  - jekyll-sitemap',
+  ];
+
+  if (pagesInfo) {
+    lines.push(`url: ${yamlQuote(pagesInfo.url)}`);
+    lines.push(`baseurl: ${yamlQuote(pagesInfo.baseurl)}`);
+    lines.push(`repository: ${yamlQuote(pagesInfo.repository)}`);
+  }
+
+  lines.push('');
+
+  return lines.join('\n');
+}
+
+function renderDocsStyles() {
+  return [
+    '---',
+    '---',
+    '',
+    '@import "minima";',
+    '',
+    ':root {',
+    '  --page-border: #d6e6e1;',
+    '  --page-muted: #536170;',
+    '  --page-surface: #f7fbfa;',
+    '  --page-accent: #0f766e;',
+    '  --page-accent-strong: #115e59;',
+    '  --page-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);',
+    '}',
+    '',
+    '.wrapper {',
+    '  max-width: 1100px;',
+    '}',
+    '',
+    '.page-content {',
+    '  padding: 28px 0 52px;',
+    '}',
+    '',
+    '.site-header {',
+    '  border-top: 5px solid var(--page-accent);',
+    '  border-bottom: 1px solid var(--page-border);',
+    '}',
+    '',
+    '.landing-hero {',
+    '  margin: 0 0 28px;',
+    '  padding: 24px 26px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 20px;',
+    '  background: linear-gradient(135deg, #f8fcfb 0%, #eef8f5 48%, #fffaf0 100%);',
+    '  box-shadow: var(--page-shadow);',
+    '}',
+    '',
+    '.landing-tag {',
+    '  margin: 0 0 10px;',
+    '  color: var(--page-accent-strong);',
+    '  font-size: 0.85rem;',
+    '  font-weight: 700;',
+    '  letter-spacing: 0.08em;',
+    '  text-transform: uppercase;',
+    '}',
+    '',
+    '.landing-lead {',
+    '  margin: 0;',
+    '  color: #17212b;',
+    '  font-size: 1.08rem;',
+    '  line-height: 1.75;',
+    '}',
+    '',
+    '.landing-actions {',
+    '  display: flex;',
+    '  flex-wrap: wrap;',
+    '  gap: 10px;',
+    '  margin: 18px 0 0;',
+    '}',
+    '',
+    '.landing-actions a {',
+    '  display: inline-flex;',
+    '  align-items: center;',
+    '  justify-content: center;',
+    '  min-height: 40px;',
+    '  padding: 0 14px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 999px;',
+    '  background: rgba(255, 255, 255, 0.92);',
+    '  color: var(--page-accent-strong);',
+    '  font-weight: 600;',
+    '  text-decoration: none;',
+    '}',
+    '',
+    '.landing-actions a:hover {',
+    '  border-color: var(--page-accent);',
+    '  text-decoration: none;',
+    '}',
+    '',
+    '.stats-grid {',
+    '  display: grid;',
+    '  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));',
+    '  gap: 12px;',
+    '  margin: 0 0 28px;',
+    '}',
+    '',
+    '.stat-card {',
+    '  display: flex;',
+    '  flex-direction: column;',
+    '  gap: 6px;',
+    '  padding: 18px 20px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 16px;',
+    '  background: var(--page-surface);',
+    '  box-shadow: var(--page-shadow);',
+    '}',
+    '',
+    '.stat-card strong {',
+    '  color: #17212b;',
+    '  font-size: 1.45rem;',
+    '  line-height: 1.1;',
+    '}',
+    '',
+    '.stat-card span {',
+    '  color: var(--page-muted);',
+    '  font-size: 0.95rem;',
+    '}',
+    '',
+    '.locale-grid {',
+    '  display: grid;',
+    '  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));',
+    '  gap: 12px;',
+    '  margin: 0 0 28px;',
+    '}',
+    '',
+    '.locale-card {',
+    '  padding: 18px 20px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 16px;',
+    '  background: #fff;',
+    '  box-shadow: var(--page-shadow);',
+    '}',
+    '',
+    '.locale-card h3,',
+    '.locale-card p {',
+    '  margin: 0;',
+    '}',
+    '',
+    '.locale-card h3 {',
+    '  margin-bottom: 8px;',
+    '  font-size: 1.05rem;',
+    '}',
+    '',
+    '.locale-card p {',
+    '  color: var(--page-muted);',
+    '  line-height: 1.6;',
+    '}',
+    '',
+    '.section-note {',
+    '  margin: 0 0 16px;',
+    '  color: var(--page-muted);',
+    '  font-size: 0.96rem;',
+    '  line-height: 1.7;',
+    '}',
+    '',
+    '.tool-card {',
+    '  margin: 0 0 20px;',
+    '  padding: 20px 22px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 18px;',
+    '  background: #fff;',
+    '  box-shadow: var(--page-shadow);',
+    '}',
+    '',
+    '.tool-card h3 {',
+    '  margin-top: 0;',
+    '  margin-bottom: 12px;',
+    '}',
+    '',
+    '.tool-card p:last-child {',
+    '  margin-bottom: 0;',
+    '}',
+    '',
+    'details {',
+    '  margin: 0 0 28px;',
+    '  padding: 16px 18px;',
+    '  border: 1px solid var(--page-border);',
+    '  border-radius: 18px;',
+    '  background: #fff;',
+    '  box-shadow: var(--page-shadow);',
+    '}',
+    '',
+    'summary {',
+    '  cursor: pointer;',
+    '  color: #17212b;',
+    '  font-weight: 700;',
+    '}',
+    '',
+    '.directory-list ul {',
+    '  margin: 0;',
+    '  padding-left: 20px;',
+    '}',
+    '',
+    '.directory-list li {',
+    '  margin-bottom: 14px;',
+    '  line-height: 1.7;',
+    '}',
+    '',
+    '.directory-list li > ul {',
+    '  margin-top: 6px;',
+    '}',
+    '',
+    'h2 {',
+    '  margin-top: 34px;',
+    '  padding-bottom: 8px;',
+    '  border-bottom: 1px solid var(--page-border);',
+    '}',
+    '',
+    '@media (max-width: 640px) {',
+    '  .landing-hero {',
+    '    padding: 20px 18px;',
+    '  }',
+    '',
+    '  .tool-card,',
+    '  .locale-card,',
+    '  .stat-card,',
+    '  details {',
+    '    padding-left: 16px;',
+    '    padding-right: 16px;',
+    '  }',
+    '',
+    '  .landing-actions a {',
+    '    width: 100%;',
+    '  }',
+    '}',
     '',
   ].join('\n');
 }
@@ -1039,6 +1446,8 @@ async function main() {
   const supabaseUrl = requireEnv('NEXT_PUBLIC_SUPABASE_URL');
   const apiKey = process.env.SUPABASE_SERVICE_ROLE_KEY || requireEnv('NEXT_PUBLIC_SUPABASE_ANON_KEY');
   const siteUrl = getSiteUrl();
+  const repositoryInfo = getRepositoryInfo();
+  const pagesInfo = buildPagesInfo(repositoryInfo);
 
   const [roles, tools] = await Promise.all([
     fetchAllRows(
@@ -1123,8 +1532,11 @@ async function main() {
 
   await writeJson('data/tools.json', toolRecords);
   await writeJson('data/stats.json', stats);
-  await writeText('docs/_config.yml', renderDocsSiteConfig());
-  await writeText('docs/index.md', renderRootDocsIndex(stats));
+  await writeJson('docs/data/tools.json', toolRecords);
+  await writeJson('docs/data/stats.json', stats);
+  await writeText('docs/_config.yml', renderDocsSiteConfig(pagesInfo));
+  await writeText('docs/assets/main.scss', renderDocsStyles());
+  await writeText('docs/index.md', renderRootDocsIndex(stats, pagesInfo));
 
   for (const locale of LOCALES) {
     await writeText(`docs/${locale}/index.md`, renderLocaleDocsIndex(stats, toolRecords, locale));
