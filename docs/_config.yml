@@ -3,6 +3,7 @@ description: Public multilingual GitHub directory of AI tools from AimyFlow, wit
 theme: minima
 markdown: kramdown
 lang: en
+header_pages: []
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
