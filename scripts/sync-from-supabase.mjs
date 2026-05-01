@@ -8,7 +8,7 @@ const REPO_ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), 
 const DATA_DIR = path.join(REPO_ROOT, 'data');
 const DOCS_DIR = path.join(REPO_ROOT, 'docs');
 const PAGE_SIZE = 1000;
-const LOCALES = ['en', 'zh', 'es', 'ja', 'de', 'fr'];
+const LOCALES = ['en', 'zh', 'es', 'ja'];
 const LOCAL_ENV_FILES = [
   path.join(REPO_ROOT, '.env.local'),
   path.join(REPO_ROOT, '.env'),
@@ -196,74 +196,6 @@ const LOCALE_COPY = {
     fullDirectory: '完全なツールディレクトリを開く',
     moreLabel: '件',
     allToolsStyleNote: '_一覧はコンパクト表示で、すばやく確認できます。_',
-  },
-  de: {
-    nativeName: 'Deutsch',
-    docsTitle: 'Awesome KI-Tool-Verzeichnis',
-    docsDescription:
-      'Ein mehrsprachiges, GitHub-taugliches Verzeichnis von KI-Tools aus AimyFlow mit Kurzbeschreibung und passenden Rollen.',
-    generatedAt: 'Erstellt am',
-    toolsExported: 'Exportierte Tools',
-    rolesCovered: 'Abgedeckte Rollen',
-    whyUseHeading: 'Warum es diese Seite gibt',
-    whyUsePoint1: 'AimyFlow-KI-Tools in einem leichten GitHub-Verzeichnis ansehen.',
-    whyUsePoint2: 'Kurzbeschreibung und passende Rollen pro Tool schnell prüfen.',
-    whyUsePoint3: 'Bei Bedarf direkt zur vollständigen Tool-Seite auf AimyFlow wechseln.',
-    startHere: 'Hier starten',
-    backToDocsHome: 'Zur Docs-Startseite',
-    exploreTools: 'Alle KI-Tools ansehen',
-    inspectData: 'Tool-Datensatz ansehen',
-    featuredTools: 'Zuletzt hinzugefügte Tools',
-    featuredIntro: 'Neue Einträge mit Kurzbeschreibung und passenden Rollen.',
-    allTools: 'Alle Tools',
-    suitableRoles: 'Passende Rollen',
-    officialSite: 'Offizielle Website',
-    continueOnAimyFlow: 'Auf AimyFlow fortfahren',
-    browseRoles: 'Rollen durchsuchen',
-    notes: 'Hinweise',
-    notesBody:
-      'Diese GitHub-Seite bleibt bewusst kurz und verzeichnisartig. AimyFlow ist weiterhin das Hauptziel für ausführliche Tool-Seiten, Rollen-Seiten und Workflows.',
-    rootIndexTitle: 'Awesome KI-Tool-Dokumentation',
-    rootIndexIntro:
-      'Ein öffentliches mehrsprachiges GitHub-Verzeichnis, das jedes KI-Tool mit seiner AimyFlow-Hauptseite verbindet.',
-    localeIndexLabel: 'Lokalisierte Verzeichnisse',
-    fullDirectory: 'Vollständiges Tool-Verzeichnis öffnen',
-    moreLabel: 'mehr',
-    allToolsStyleNote: '_Kompakte Ansicht für schnelleres Durchsehen._',
-  },
-  fr: {
-    nativeName: 'Français',
-    docsTitle: 'Répertoire Awesome des Outils IA',
-    docsDescription:
-      'Un répertoire multilingue compatible GitHub des outils IA d’AimyFlow, avec courte description et rôles adaptés.',
-    generatedAt: 'Généré le',
-    toolsExported: 'Outils exportés',
-    rolesCovered: 'Rôles couverts',
-    whyUseHeading: 'Pourquoi cette page existe',
-    whyUsePoint1: 'Voir les outils IA d’AimyFlow dans un répertoire léger sur GitHub.',
-    whyUsePoint2: 'Consulter rapidement une courte description et les rôles adaptés pour chaque outil.',
-    whyUsePoint3: 'Ouvrir ensuite la page complète sur AimyFlow pour plus de détails.',
-    startHere: 'Commencer ici',
-    backToDocsHome: 'Retour à l’accueil des docs',
-    exploreTools: 'Explorer tous les outils IA',
-    inspectData: 'Inspecter le jeu de données des outils',
-    featuredTools: 'Outils ajoutés récemment',
-    featuredIntro: 'Nouveaux outils avec résumé rapide et rôles adaptés.',
-    allTools: 'Tous les outils',
-    suitableRoles: 'Rôles adaptés',
-    officialSite: 'Site officiel',
-    continueOnAimyFlow: 'Continuer sur AimyFlow',
-    browseRoles: 'Parcourir les rôles',
-    notes: 'Notes',
-    notesBody:
-      'Cette page GitHub reste volontairement concise et orientée annuaire. AimyFlow reste la destination principale pour les pages outils complètes, les rôles et les workflows.',
-    rootIndexTitle: 'Documentation Awesome des Outils IA',
-    rootIndexIntro:
-      'Un répertoire GitHub multilingue qui relie chaque outil IA à sa page principale sur AimyFlow.',
-    localeIndexLabel: 'Répertoires localisés',
-    fullDirectory: 'Développer le répertoire complet des outils',
-    moreLabel: 'de plus',
-    allToolsStyleNote: '_Vue compacte pour un balayage plus rapide._',
   },
 };
 
@@ -456,6 +388,22 @@ async function fetchAllRows(baseUrl, apiKey, table, select, orderBy) {
   return rows;
 }
 
+async function fetchAvailableColumns(baseUrl, apiKey, table) {
+  const query = new URLSearchParams({
+    select: '*',
+    limit: '1',
+  });
+  const rows = await fetchJson(`${baseUrl}/rest/v1/${table}?${query.toString()}`, {
+    headers: buildHeaders(apiKey),
+  });
+
+  return new Set(Object.keys(rows[0] || {}));
+}
+
+function buildSelectFromAvailableColumns(desiredColumns, availableColumns) {
+  return desiredColumns.filter((column) => availableColumns.has(column)).join(',');
+}
+
 function encodePathSegment(value) {
   return encodeURIComponent(value);
 }
@@ -595,14 +543,9 @@ function buildRoleLookup(roles) {
   for (const role of roles) {
     const rolePreview = {
       slug: role.name,
-      labels: {
-        en: firstNonEmpty([role.title_en, role.title, humanizeSlug(role.name)]),
-        zh: firstNonEmpty([role.title_zh, role.title_en, role.title, humanizeSlug(role.name)]),
-        es: firstNonEmpty([role.title_es, role.title_en, role.title, humanizeSlug(role.name)]),
-        ja: firstNonEmpty([role.title_ja, role.title_en, role.title, humanizeSlug(role.name)]),
-        de: firstNonEmpty([role.title_de, role.title_en, role.title, humanizeSlug(role.name)]),
-        fr: firstNonEmpty([role.title_fr, role.title_en, role.title, humanizeSlug(role.name)]),
-      },
+      labels: Object.fromEntries(
+        LOCALES.map((locale) => [locale, firstNonEmpty([getLocalizedField(role, 'title', locale), humanizeSlug(role.name)])]),
+      ),
     };
 
     registerVariant(rolePreview, rolePreview.slug);
@@ -618,7 +561,7 @@ function buildRoleLookup(roles) {
 function resolveRoleReference(rawRoleSlug, labels, roleLookup) {
   const candidates = new Set();
 
-  for (const value of [rawRoleSlug, labels.en, labels.zh, labels.es, labels.ja, labels.de, labels.fr]) {
+  for (const value of [rawRoleSlug, ...LOCALES.map((locale) => labels[locale])]) {
     for (const key of buildRoleReferenceKeys(value)) {
       candidates.add(key);
     }
@@ -839,23 +782,16 @@ function buildToolRecord(tool, roleLookup, siteUrl) {
     });
   }
 
-  const titles = {
-    en: firstNonEmpty([tool.title_en, tool.title, tool.name]),
-    zh: firstNonEmpty([tool.title_zh, tool.title_en, tool.title, tool.name]),
-    es: firstNonEmpty([tool.title_es, tool.title_en, tool.title, tool.name]),
-    ja: firstNonEmpty([tool.title_ja, tool.title_en, tool.title, tool.name]),
-    de: firstNonEmpty([tool.title_de, tool.title_en, tool.title, tool.name]),
-    fr: firstNonEmpty([tool.title_fr, tool.title_en, tool.title, tool.name]),
-  };
+  const titles = Object.fromEntries(
+    LOCALES.map((locale) => [locale, firstNonEmpty([getLocalizedField(tool, 'title', locale), tool.name])]),
+  );
   const fallbackName = humanizeToolSlug(tool.name);
-  const summaries = {
-    en: formatSummary(firstNonEmpty([tool.content_en, tool.content, tool.title_en, tool.title, tool.name])),
-    zh: formatSummary(firstNonEmpty([tool.content_zh, tool.content_en, tool.title_zh, tool.title_en, tool.name])),
-    es: formatSummary(firstNonEmpty([tool.content_es, tool.content_en, tool.title_es, tool.title_en, tool.name])),
-    ja: formatSummary(firstNonEmpty([tool.content_ja, tool.content_en, tool.title_ja, tool.title_en, tool.name])),
-    de: formatSummary(firstNonEmpty([tool.content_de, tool.content_en, tool.title_de, tool.title_en, tool.name])),
-    fr: formatSummary(firstNonEmpty([tool.content_fr, tool.content_en, tool.title_fr, tool.title_en, tool.name])),
-  };
+  const summaries = Object.fromEntries(
+    LOCALES.map((locale) => [
+      locale,
+      formatSummary(firstNonEmpty([getLocalizedField(tool, 'content', locale), getLocalizedField(tool, 'title', locale), tool.name])),
+    ]),
+  );
   const siteName = deriveSiteName({
     summaries,
     titles,
@@ -1448,52 +1384,43 @@ async function main() {
   const siteUrl = getSiteUrl();
   const repositoryInfo = getRepositoryInfo();
   const pagesInfo = buildPagesInfo(repositoryInfo);
+  const roleColumns = ['name', 'sort', 'title', ...LOCALES.map((locale) => `title_${locale}`)];
+  const toolColumns = [
+    'id',
+    'name',
+    'url',
+    'thumbnail_url',
+    'image_url',
+    'collection_time',
+    'star_rating',
+    'tag_name',
+    'category_name',
+    ...LOCALES.map((locale) => `category_name_${locale}`),
+    'title',
+    ...LOCALES.map((locale) => `title_${locale}`),
+    'content',
+    ...LOCALES.map((locale) => `content_${locale}`),
+    'detail',
+    'detail_en',
+  ];
+  const [roleAvailableColumns, toolAvailableColumns] = await Promise.all([
+    fetchAvailableColumns(supabaseUrl, apiKey, 'navigation_category'),
+    fetchAvailableColumns(supabaseUrl, apiKey, 'web_navigation'),
+  ]);
 
   const [roles, tools] = await Promise.all([
     fetchAllRows(
       supabaseUrl,
       apiKey,
       'navigation_category',
-      'name,sort,title,title_en,title_zh,title_es,title_ja,title_de,title_fr',
+      buildSelectFromAvailableColumns(roleColumns, roleAvailableColumns),
       'sort',
     ),
     fetchAllRows(
       supabaseUrl,
       apiKey,
       'web_navigation',
-      [
-        'id',
-        'name',
-        'url',
-        'thumbnail_url',
-        'image_url',
-        'collection_time',
-        'star_rating',
-        'tag_name',
-        'category_name',
-        'category_name_en',
-        'category_name_zh',
-        'category_name_es',
-        'category_name_ja',
-        'category_name_de',
-        'category_name_fr',
-        'title',
-        'title_en',
-        'title_zh',
-        'title_es',
-        'title_ja',
-        'title_de',
-        'title_fr',
-        'content',
-        'content_en',
-        'content_zh',
-        'content_es',
-        'content_ja',
-        'content_de',
-        'content_fr',
-        'detail',
-        'detail_en',
-      ].join(','),
+      buildSelectFromAvailableColumns(toolColumns, toolAvailableColumns),
       'name',
     ),
   ]);

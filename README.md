@@ -126,8 +126,6 @@ Internationalization stays built into the project instead of being bolted on lat
 - [中文](./docs/zh/index.md)
 - [Español](./docs/es/index.md)
 - [日本語](./docs/ja/index.md)
-- [Deutsch](./docs/de/index.md)
-- [Français](./docs/fr/index.md)
 
 The homepage README is curated for GitHub. The generated docs keep the multilingual, full-directory experience.
 

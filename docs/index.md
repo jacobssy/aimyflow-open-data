@@ -23,9 +23,9 @@ lang: "en"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3272</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>3293</strong><span>Tools exported</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
-<div class="stat-card"><strong>6</strong><span>Locales</span></div>
+<div class="stat-card"><strong>4</strong><span>Locales</span></div>
 </div>
 
 ## Start Here
@@ -65,16 +65,6 @@ lang: "en"
 <p>Awesome AI ツールディレクトリ</p>
 </div>
 
-<div class="locale-card">
-<h3><a href="./de/">Deutsch</a></h3>
-<p>Awesome KI-Tool-Verzeichnis</p>
-</div>
-
-<div class="locale-card">
-<h3><a href="./fr/">Français</a></h3>
-<p>Répertoire Awesome des Outils IA</p>
-</div>
-
 </div>
 
 ## Data and Repo
@@ -85,7 +75,7 @@ lang: "en"
 
 ## About This Site
 
-- Generated at: 2026-04-04T07:18:07.960Z
+- Generated at: 2026-05-01T19:18:03.023Z
 - This GitHub Pages site is the lightweight discovery layer.
 - AimyFlow remains the full destination for complete tool pages, exploration, and multilingual browsing.
 

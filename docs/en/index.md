@@ -22,9 +22,9 @@ lang: "en"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3272</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>3293</strong><span>Tools exported</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
-<div class="stat-card"><strong>2026-04-04</strong><span>Generated at</span></div>
+<div class="stat-card"><strong>2026-05-01</strong><span>Generated at</span></div>
 </div>
 
 ## Start Here
@@ -43,6 +43,216 @@ lang: "en"
 ## Recently Added Tools
 
 <p class="section-note">Fresh additions with summaries and role fit.</p>
+
+<div class="tool-card" markdown="1">
+
+### [FapJOI](https://www.aimyflow.com/en/ai/fapjoi-com)
+
+FapJOI is an adult AI image and video site that lets users browse and generate realistic explicit porn content, mainly for adults seeking AI-generated sexual entertainment. For content moderators and trust-and-safety teams, its AI-generated format can also make classification and filtering workflows more important.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Gochu](https://www.aimyflow.com/en/ai/gochu-app)
+
+Gochu is an uncensored AI chat and image generation platform for adults, helping users create AI characters, chat freely, and generate visuals without signing up. It can help content creators and conversational product teams speed up character design, prompt testing, and iterative AI interaction workflows.
+
+**Suitable roles:** Content Creator, Copywriter, Social Media Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AI Rapper](https://www.aimyflow.com/en/ai/rapper-im)
+
+AI Rapper is an AI rap generator for creating rap lyrics, vocals, and full songs from topics, stories, articles, and trends, mainly for rappers and hip-hop enthusiasts. It can speed up lyricist, hook-writing, and producer workflows by generating faster drafts and delivery options for freestyle and track development.
+
+**Suitable roles:** Content Creator, Podcast Producer, Copywriter, Music Lover, Social Media Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [MaxArt.ai](https://www.aimyflow.com/en/ai/maxart-ai)
+
+MaxArt.ai is an AI video effects tool that helps users transform footage with cinematic styles, animations, and visual enhancements using text prompts or reference images, mainly for creators and video editors. It can speed up production work by helping marketing and content teams generate polished visuals in seconds without technical editing skills.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [PredictMyBaby](https://www.aimyflow.com/en/ai/predictmybaby-com)
+
+PredictMyBaby is a photo-based AI baby generator that helps parents preview what their child could look like by uploading photos of both parents. For family planners and content teams, it speeds up visual concepting with quick, realistic baby-face variations across ages.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Speakoala](https://www.aimyflow.com/en/ai/speakoala-com)
+
+Speakoala is a browser text-to-speech extension that helps users listen to web pages, emails, PDFs, Word documents, and other local files, mainly for people reading online content. It can support accessibility and reduce visual fatigue for professionals who need to review text hands-free while working or commuting.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [TabliSync](https://www.aimyflow.com/en/ai/tablisync-com)
+
+TabliSync is an AI data assistant that converts images and PDFs into editable Excel, CSV, Google Sheets, Airtable, or Notion tables, mainly for people handling scanned documents and structured data. It can help operations, finance, and administrative teams reduce manual entry and turn reports, receipts, and forms into usable spreadsheets faster.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [MyColoring.AI](https://www.aimyflow.com/en/ai/mycoloring-ai)
+
+MyColoring.AI is an AI coloring page generator that turns photos or text prompts into printable coloring pages, mainly for parents, teachers, crafters, pet lovers, event planners, and content creators. It can speed up creation of clean, print-ready outlines for lesson materials, party activities, DIY projects, and publishable coloring content.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Road To Vostok Map — Area 05, POIs & Regional Overview](https://www.aimyflow.com/en/ai/roadtovostok-org-map)
+
+Road To Vostok Interactive map: Area 05, Border Zone, and Vostok points of interest, searchable index, and regional overview. Use alongside the in-game map and confirm coordinates in-client.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Tarotool](https://www.aimyflow.com/en/ai/tarotool-com)
+
+Tarotool is a free AI-powered tarot reading website that helps users ask questions about love, career, money, and life, mainly for people seeking instant online guidance. For readers, coaches, and content creators, its fast personalized interpretations can help turn broad questions into clearer reflections and next steps.
+
+**Suitable roles:** Wellness Coach, Content Creator, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Veo 3](https://www.aimyflow.com/en/ai/veo31video-com)
+
+Veo 3 is an AI video generator that creates cinematic videos from text or images with synchronized audio, realistic physics, and multi-shot control, mainly for creators and teams making video content. For video producers, marketers, and content teams, it can speed up early-stage scene creation and help maintain visual consistency across complex sequences.
+
+**Suitable roles:** Social Media Content Creator, Podcast Producer, Content Creator, Digital Marketing Director, Independent Filmmaker
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [GPT Image2](https://www.aimyflow.com/en/ai/gptimage-2-co)
+
+GPT Image2 is OpenAI’s next-gen AI image generator for text to image and image to image creation, aimed mainly at artists, marketers, designers, and other content creators. Its native-level text rendering, photorealism, and pixel-perfect consistency can help creative teams produce posters, product mockups, and visual assets faster with less manual cleanup.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Social Media Content Creator, Copywriter, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Free Online AI Baby Generator](https://www.aimyflow.com/en/ai/ai-babygenerator-com)
+
+Discover our Free Online AI Baby Generator, predict your future baby's look in seconds. Upload photos, get high - res, watermark - free images. Privacy - protected, 24/7 service. Try now!
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [HubVanta AI](https://www.aimyflow.com/en/ai/hubvanta-com)
+
+Free all-in-one platform for AI image, video, audio & text creation. Access Midjourney, Flux AI, Stable Diffusion, Kling AI and more in one place.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Seedance 2.0 AI Video Generator](https://www.aimyflow.com/en/ai/seedances-app)
+
+Seedance 2.0 delivers breakthrough AI video generation with 2K resolution and native audio support. Create cinematic videos from text or images with advanced multimodal input. Seedance 2 transforms your creative vision into reality.
+
+**Suitable roles:** Content Creator, Graphic Designer, Independent Filmmaker
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Sora2-AI.io](https://www.aimyflow.com/en/ai/sora2-ai-io)
+
+Sora2-AI.io is an advanced AI video generator that transforms text and images into stunning videos. Try our AI video creator free - create professional results in minutes
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [VideotoRecipe](https://www.aimyflow.com/en/ai/videotorecipe-org)
+
+Convert user uploaded YouTube, Instagram, TikTok & Facebook cooking videos & Reels into recipes. AI recipe generator for notes, cookbook, short video maker.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AI Video Generator with Sound](https://www.aimyflow.com/en/ai/plexigen-ai)
+
+Plexigen AI generates videos with synchronized sound from text prompts or images, helping creators produce polished visual assets across multiple formats. It suits marketing, social, and brand teams that need quick turnaround without a traditional video production stack.
+
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Copywriter, Independent Filmmaker, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [img2.ai](https://www.aimyflow.com/en/ai/img2-ai)
+
+img2.ai is an AI image and video creation platform that turns photos or prompts into stylized images, motion clips, and enhanced visuals. It is useful for designers, creators, and marketing teams that need fast visual iteration without complex editing workflows.
+
+**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Musiv](https://www.aimyflow.com/en/ai/musiv-ai)
+
+Musiv is an AI music video generator that turns songs into storyboarded visual clips from an uploaded track. It fits musicians, labels, and content teams that need faster, lower-cost video production for releases and social distribution.
+
+**Suitable roles:** Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Photo Animate](https://www.aimyflow.com/en/ai/photoanimate-org)
+
+Photo Animate turns still images into lifelike video clips with motion controls for portraits and memory-driven content. It is useful for creators, family storytellers, and media teams that want emotionally natural animation without manual editing.
+
+**Suitable roles:** Social Media Content Creator, Independent Filmmaker, Graphic Designer, Copywriter, Digital Marketing Director
+
+</div>
 
 <div class="tool-card" markdown="1">
 
@@ -74,221 +284,11 @@ QA new code 10Xfaster with the only context-aware AI testing platform. ContextQA
 
 </div>
 
-<div class="tool-card" markdown="1">
-
-### [Cykel](https://www.aimyflow.com/en/ai/cykel-ai)
-
-Cykel is an AI digital worker platform that helps recruitment, sales, and research teams automate sourcing, outreach, follow-ups, screening, and business analysis with specialized agents like Lucy, Eve, and Samson. For recruiters, SDRs, and analysts, this can shift routine execution to AI so teams spend more time on candidate judgment, relationship building, and higher-value research.
-
-**Suitable roles:** Talent Acquisition Manager, Field Sales Manager, Financial Analyst, Data Scientist, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Dosu](https://www.aimyflow.com/en/ai/dosu-dev)
-
-Dosu is an AI documentation platform that automatically generates, maintains, and publishes documentation from code, tickets, reviews, and conversations, mainly for engineering teams and organizations managing technical knowledge. In AI-driven software work, it helps engineers, support, and product teams keep accurate context available for people and AI agents, reducing stale docs and repeated questions.
-
-**Suitable roles:** Software Development Manager, Software Engineer, Technical Writer, Project Management Officer, IT Infrastructure Manager
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Dot](https://www.aimyflow.com/en/ai/getdot-ai)
-
-Dot is an AI data analyst that helps teams answer data questions quickly and get actionable insights through chat, deep analysis, and automated reports, mainly for organizations that want broader access to data insights across Slack, Microsoft Teams, and email. In AI-enabled workplaces, it can help data and business teams reduce routine reporting work and speed up decision-making for non-technical colleagues.
-
-**Suitable roles:** Financial Analyst, Project Management Officer, CEO, COO
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Gumloop](https://www.aimyflow.com/en/ai/gumloop-com)
-
-Gumloop is a no-code AI automation framework for building and hosting business automations and specialized agents, mainly for teams in operations, sales, support, and data-heavy enterprise workflows. In AI-enabled work, it can help functions like analysts, support leaders, and sales teams automate recurring tasks and use shared data faster without relying as heavily on engineering.
-
-**Suitable roles:** Project Management Officer, Field Sales Manager, Financial Analyst, Software Development Manager, Data Engineer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Autopilot](https://www.aimyflow.com/en/ai/codeautopilot-com)
-
-Autopilot is an AI coding assistant for GitHub that helps software developers and engineering teams solve bugs, discuss issues in pull requests, generate implementation plans, and summarize code changes within their existing workflow. For developers and code reviewers, this can reduce context switching and speed up issue resolution and pull request analysis by bringing AI guidance directly into GitHub threads.
-
-**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [BrainSoup](https://www.aimyflow.com/en/ai/nurgo-software-com-products-brainsoup)
-
-BrainSoup is a Windows desktop AI platform for building custom AI agents that automate tasks, use tools, work together in multi-agent workflows, and draw on your own data, mainly for professionals and teams that want controlled, private workflow automation. For developers, operations, and knowledge workers, it can improve productivity by turning natural-language instructions into reusable automations while keeping data handling more localized and governed.
-
-**Suitable roles:** Software Development Manager, Project Management Officer, IT Infrastructure Manager, Software Engineer, COO
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Butternut.ai](https://www.aimyflow.com/en/ai/butternut-ai)
-
-Butternut.ai is an AI website builder that helps small businesses, freelancers, and founders create and publish professional business or portfolio websites in seconds, with built-in hosting, SSL, SEO, blog generation, and chatbot features. For small business owners and marketers, this can reduce the manual work of launching and updating a web presence while using AI to support content creation and lead capture.
-
-**Suitable roles:** Digital Marketing Director, CEO, Ecommerce Seller, Copywriter, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Codegen](https://www.aimyflow.com/en/ai/codegen-com)
-
-Codegen is an operating system for code agents that helps engineering teams deploy autonomous agents to plan tasks, write code, generate tests and docs, and create review-ready pull requests with full codebase context. For software engineers, engineering leads, and product teams, it can reduce manual implementation and triage work by connecting AI agents directly to repositories, issue trackers, and team workflows.
-
-**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, CEO
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AgentScale AI](https://www.aimyflow.com/en/ai/agentscale-ai)
-
-AgentScale AI is an automation platform and services provider that helps businesses streamline work using robotic process automation, large language models, and AI agents, mainly for companies seeking operational automation. For operations, process, and digital transformation teams, these AI-driven tools can reduce manual task handling and support more scalable workflow execution.
-
-**Suitable roles:** COO, Project Management Officer, IT Infrastructure Manager, Software Development Manager, Education Technology Consultant
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AskYourDatabase](https://www.aimyflow.com/en/ai/askyourdatabase-com)
-
-AskYourDatabase is an AI data analyst and SQL chatbot that lets users connect to supported databases, ask questions in plain English, and generate queries, visualizations, and dashboards, mainly for non-technical business users and teams exploring data. In AI-enabled analytics workflows, it can help analysts, support, sales, and managers get faster ad hoc insights while reducing routine SQL writing and back-and-forth with BI or engineering teams.
-
-**Suitable roles:** CEO, Field Sales Manager, Software Engineer, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Bardeen](https://www.aimyflow.com/en/ai/bardeen-ai)
-
-Bardeen is an AI-powered automation and workflow platform that helps GTM teams source, qualify, enrich, and export leads through web scraping, AI search, and contact data enrichment. For sales, recruiting, revenue operations, and similar prospecting-heavy roles, it can reduce manual research and data entry so teams can focus more on prioritization, outreach, and pipeline building.
-
-**Suitable roles:** Field Sales Manager, Talent Acquisition Manager, Digital Marketing Director, E-commerce Sales Head, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Beam AI](https://www.aimyflow.com/en/ai/beam-ai)
-
-Beam AI is an agentic automation platform that helps enterprises turn documented processes into self-learning AI agents for operations such as HR, finance, and customer service, mainly for operations leaders and enterprise teams. For HR, finance, and customer service functions, it can reduce repetitive workflow handling while keeping human approval on critical tasks and improving process consistency over time.
-
-**Suitable roles:** COO, Project Management Officer, Employee Relations Manager, Financial Planning & Analysis Manager, Healthcare Administrator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [BLACKBOX AI](https://www.aimyflow.com/en/ai/blackbox-ai)
-
-BLACKBOX AI is an AI coding platform with a native IDE, CLI, cloud agents, mobile app, and API that helps software teams build, test, review, deploy, and ship code faster, mainly for developers and engineering teams. In AI-assisted software workflows, it can help engineers and DevOps functions reduce manual handoffs by running parallel coding agents and routing the strongest output into review-ready changes.
-
-**Suitable roles:** Software Engineer, Software Development Manager, IT Infrastructure Manager, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Ability.ai](https://www.aimyflow.com/en/ai/ability-ai)
-
-Ability.ai is an AI solution provider that builds custom agent systems for business automation, helping companies automate workflows across support, sales, recruiting, marketing, finance, IT, and development using their existing tools and rules. For operations, support, and revenue teams, this can improve AI adoption by turning business logic into controlled, auditable workflow execution rather than relying on standalone chatbots.
-
-**Suitable roles:** COO, Project Management Officer, Software Development Manager, IT Infrastructure Manager, Digital Marketing Director
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [SWE-agent](https://www.aimyflow.com/en/ai/swe-agent-com)
-
-SWE-agent is an open-source agent framework and documentation set that helps developers and researchers use language models to autonomously fix issues in GitHub repositories, find cybersecurity vulnerabilities, and run custom software engineering tasks. For software engineers, security researchers, and AI researchers, this kind of tool can streamline repository-level debugging and experimentation by letting models act through configurable tools rather than only generate code.
-
-**Suitable roles:** Software Engineer, Cybersecurity Analyst, Software Development Manager, Data Scientist
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Vanna AI](https://www.aimyflow.com/en/ai/vanna-ai)
-
-Vanna AI is an open-source SQL agent framework that helps teams build production-ready AI agents for querying company databases and systems of record in natural language, mainly for developers, data teams, and organizations making data accessible to non-SQL users. In AI-enabled analytics workflows, it can reduce manual SQL writing while improving governed data access, observability, and multi-database support for product, data, and engineering functions.
-
-**Suitable roles:** Data Engineer, Data Scientist, Software Engineer, IT Infrastructure Manager, Financial Analyst
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Web3GPT](https://www.aimyflow.com/en/ai/w3gpt-ai)
-
-Web3GPT is an AI tool that helps users generate prompts for smart contracts, create AI agents, and deploy onchain directly from chat, mainly for web3 developers and smart contract builders. In AI-assisted blockchain workflows, it can reduce boilerplate and speed contract drafting and deployment for developer teams working on onchain applications.
-
-**Suitable roles:** Software Engineer, Software Development Manager, Technical Writer, CEO, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Wren AI](https://www.aimyflow.com/en/ai/getwren-ai)
-
-Wren AI is a generative business intelligence and embedded analytics platform that turns plain-language questions into SQL, charts, and insights for data teams, product teams, executives, and SaaS companies. In AI-enabled analytics workflows, it can help analysts and product teams reduce manual SQL work while giving business users faster access to governed, explainable answers.
-
-**Suitable roles:** Software Engineer, CEO, Project Management Officer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Cognee](https://www.aimyflow.com/en/ai/prometh-ai)
-
-Cognee is an open source AI memory engine that helps engineers build adaptive AI agents by turning data into a knowledge graph for retrieval, reasoning, and feedback-based learning. For AI engineers and developers, this can reduce dependence on basic RAG pipelines and improve answer quality, personalization, and multi-step task execution over time.
-
-**Suitable roles:** Software Engineer, Data Engineer, Software Development Manager, IT Infrastructure Manager, Data Scientist
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [GPT-Migrate](https://www.aimyflow.com/en/ai/gpt-migrate-com)
-
-GPT-Migrate is a code migration service that helps users move complex codebases from one language or framework to another, mainly for teams and developers managing software modernization. In an AI-assisted development workflow, it can help software engineers and technical leads reduce manual refactoring effort when planning large-scale migrations.
-
-**Suitable roles:** Software Engineer, Software Development Manager, Project Management Officer, IT Infrastructure Manager, Data Engineer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Interpreter](https://www.aimyflow.com/en/ai/openinterpreter-com)
-
-Interpreter is a desktop AI agent that helps users read, edit, and create Word, Excel, PDF, and markdown documents, mainly for knowledge workers handling document-heavy tasks. For operations, finance, and administrative teams, it can reduce manual document work by turning files, forms, receipts, and transcripts into structured outputs and editable reports.
-
-**Suitable roles:** Financial Analyst, Project Management Officer, Certified Public Accountant, COO, Medical Biller
-
-</div>
-
 
 ## All Tools
 
 <details markdown="1">
-<summary>Expand the full tool directory (3272)</summary>
+<summary>Expand the full tool directory (3293)</summary>
 
 <p class="section-note">_Compact view for faster scanning._</p>
 
@@ -725,6 +725,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - AI QA Monkey is a free AI-powered website security scanner that runs 75+ checks in about a minute to identify issues like SSL/TLS weaknesses, exposed files, open ports, CORS risks, and WordPress vulnerabilities for...
   - *Suitable roles:* Cybersecurity Manager, Cybersecurity Analyst, IT Infrastructure Manager, Software Engineer +1 more
 
+- **[AI Rapper](https://www.aimyflow.com/en/ai/rapper-im)**
+  - AI Rapper is an AI rap generator for creating rap lyrics, vocals, and full songs from topics, stories, articles, and trends, mainly for rappers and hip-hop enthusiasts. It can speed up lyricist, hook-writing, and...
+  - *Suitable roles:* Content Creator, Podcast Producer, Copywriter, Music Lover +1 more
+
 - **[AI Renamer](https://www.aimyflow.com/en/ai/airenamer-app)**
   - AI Renamer is a desktop app for Mac and Windows that uses AI to rename images and documents based on their content, helping people who manage large file collections organize them with clearer filenames. For...
   - *Suitable roles:* Graphic Designer, Content Creator, Technical Writer, Software Engineer +1 more
@@ -800,6 +804,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[AI Video Generator](https://www.aimyflow.com/en/ai/aivideogenerator-best)**
   - AI Video Generator is an online text-to-video and image-to-video tool that helps content creators, marketers, educators, and business owners make professional videos without video editing skills. In AI-driven content...
   - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Copywriter, Content Creator +1 more
+
+- **[AI Video Generator with Sound](https://www.aimyflow.com/en/ai/plexigen-ai)**
+  - Plexigen AI generates videos with synchronized sound from text prompts or images, helping creators produce polished visual assets across multiple formats. It suits marketing, social, and brand teams that need quick...
+  - *Suitable roles:* Digital Marketing Director, Social Media Content Creator, Copywriter, Independent Filmmaker +1 more
 
 - **[AI Video Maker’s AI UGC Video Generator](https://www.aimyflow.com/en/ai/aivideomaker-ai-ai-ugc)**
   - AI Video Maker’s AI UGC Video Generator creates creator-style videos from scripts, images, or audio, helping marketers, ecommerce teams, and content creators produce short ads, demos, and onboarding clips without...
@@ -4310,6 +4318,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - FantasyGF is an AI companion app for adults that lets users create and chat with customized virtual girlfriends through text, voice, images, and video, with a focus on personalized and explicit interactions. For...
   - *Suitable roles:* Content Creator, Software Development Manager, Social Media Content Creator, Copywriter +1 more
 
+- **[FapJOI](https://www.aimyflow.com/en/ai/fapjoi-com)**
+  - FapJOI is an adult AI image and video site that lets users browse and generate realistic explicit porn content, mainly for adults seeking AI-generated sexual entertainment. For content moderators and trust-and-safety...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Farol](https://www.aimyflow.com/en/ai/usefarol-io)**
   - Farol is an AI trend intelligence tool that helps content creators, founders, newsletter writers, and marketing professionals spot emerging topics 24–48 hours early and turn them into ready-to-post social content. For...
   - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Copywriter, CEO +1 more
@@ -4674,6 +4686,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Free Image Generator is an AI image creation tool that turns text prompts into multiple high-resolution images with adjustable aspect ratios and simple image-to-image options, mainly for creators, marketers, and people...
   - *Suitable roles:* Graphic Designer, Digital Marketing Director, Social Media Content Creator, Copywriter +1 more
 
+- **[Free Online AI Baby Generator](https://www.aimyflow.com/en/ai/ai-babygenerator-com)**
+  - Discover our Free Online AI Baby Generator, predict your future baby's look in seconds. Upload photos, get high - res, watermark - free images. Privacy - protected, 24/7 service. Try now!
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[freebeat.ai](https://www.aimyflow.com/en/ai/freebeat-ai)**
   - freebeat.ai is an AI music video generator that turns songs or music links into rhythm-synced dance videos, lyric videos, and storytelling music videos, mainly for independent musicians, artists, dancers,...
   - *Suitable roles:* Content Creator, Social Media Content Creator, Music Lover, Copywriter +1 more
@@ -5024,6 +5040,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - GoAI is an AI-powered stock research and market scanning platform that helps investors and traders analyze companies, track trading signals, and generate investment ideas, with deeper research aimed at more advanced...
   - *Suitable roles:* Investment Portfolio Manager, Financial Analyst, Risk Analyst, CFO
 
+- **[Gochu](https://www.aimyflow.com/en/ai/gochu-app)**
+  - Gochu is an uncensored AI chat and image generation platform for adults, helping users create AI characters, chat freely, and generate visuals without signing up. It can help content creators and conversational product...
+  - *Suitable roles:* Content Creator, Copywriter, Social Media Content Creator
+
 - **[God of Prompt AI Prompt Generator](https://www.aimyflow.com/en/ai/godofprompt-ai-ai-prompt-generator)**
   - God of Prompt AI Prompt Generator is a web tool that creates custom AI prompts from a user’s stated goal, mainly for business owners and professionals handling marketing, content, and everyday business tasks. In...
   - *Suitable roles:* Digital Marketing Director, Copywriter, CEO, E-commerce Sales Head +1 more
@@ -5085,6 +5105,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[Gordon](https://www.aimyflow.com/en/ai/meetgordon-com)**
   - Gordon is an AI fundraising agent for pre-seed startup founders that helps them understand venture fundraising, build a personalized fundraising playbook, target investors, and manage timing and process more...
   - *Suitable roles:* CEO, CFO, Financial Planning & Analysis Manager, Financial Analyst +1 more
+
+- **[GPT Image2](https://www.aimyflow.com/en/ai/gptimage-2-co)**
+  - GPT Image2 is OpenAI’s next-gen AI image generator for text to image and image to image creation, aimed mainly at artists, marketers, designers, and other content creators. Its native-level text rendering,...
+  - *Suitable roles:* Graphic Designer, Industrial Designer, Social Media Content Creator, Copywriter +1 more
 
 - **[GPT Proto](https://www.aimyflow.com/en/ai/gptproto-com)**
   - GPT Proto is a unified API platform that gives developers and enterprises access to multiple AI models and creative tools, helping them integrate text, image, and video generation without managing separate provider...
@@ -5445,6 +5469,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Hub.xyz is a distributed real-time data pipeline and API that helps AI teams, enterprises, universities, and accelerators source, annotate, validate, and deliver rights-cleared multimodal training data at scale. For ML...
   - *Suitable roles:* Data Scientist, Data Engineer, Software Engineer, Software Development Manager +1 more
 
+- **[HubVanta AI](https://www.aimyflow.com/en/ai/hubvanta-com)**
+  - Free all-in-one platform for AI image, video, audio & text creation. Access Midjourney, Flux AI, Stable Diffusion, Kling AI and more in one place.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director
+
 - **[Hugging Face](https://www.aimyflow.com/en/ai/huggingface-co)**
   - Hugging Face is an AI and machine learning collaboration platform that helps developers, researchers, and enterprise teams discover, share, build, and deploy models, datasets, and applications. In AI workflows, it can...
   - *Suitable roles:* Data Scientist, Software Engineer, Data Engineer, Software Development Manager +1 more
@@ -5668,6 +5696,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[Imbue](https://www.aimyflow.com/en/ai/generallyintelligent-com)**
   - Imbue is an AI tools company that builds products like Sculptor, a UI for coding agents, to help people modify algorithms, build trustworthy personal software, and make AI serve humans, mainly for software builders and...
   - *Suitable roles:* Software Engineer, Software Development Manager, IT Infrastructure Manager, Cybersecurity Manager +1 more
+
+- **[img2.ai](https://www.aimyflow.com/en/ai/img2-ai)**
+  - img2.ai is an AI image and video creation platform that turns photos or prompts into stylized images, motion clips, and enhanced visuals. It is useful for designers, creators, and marketing teams that need fast visual...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Img2Img AI](https://www.aimyflow.com/en/ai/img-2-img-net)**
   - Img2Img AI is a free online image-to-image generator that helps users upload photos, drawings, or screenshots and transform them into new artistic styles, mainly for creators and other beginners who want fast visual...
@@ -7139,6 +7171,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Mathos is a personalized interactive learning platform centered on an AI math tutor that helps students get on-demand hints, practice support, and progress tracking while helping teachers assess homework and monitor...
   - *Suitable roles:* Education Technology Consultant, Test Prep Tutor, Teacher, College Professor +1 more
 
+- **[MaxArt.ai](https://www.aimyflow.com/en/ai/maxart-ai)**
+  - MaxArt.ai is an AI video effects tool that helps users transform footage with cinematic styles, animations, and visual enhancements using text prompts or reference images, mainly for creators and video editors. It can...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Content Creator, Graphic Designer
+
 - **[MaxClaw](https://www.aimyflow.com/en/ai/agent-minimax-io-max-claw)**
   - MaxClaw is an AI agent builder from MiniMax OpenClaw that helps users create personalized assistants with skills and subagents to automate complex tasks, mainly for people who need a 24/7 cloud-based assistant across...
   - *Suitable roles:* Software Engineer, Project Management Officer, Software Development Manager, IT Infrastructure Manager +1 more
@@ -7652,6 +7688,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Musid is an AI music video generator that helps creators turn text prompts or uploaded audio into music, images, and lip-synced video clips in one workflow, mainly for social media creators making short-form content....
   - *Suitable roles:* Social Media Content Creator, Content Creator, Podcast Producer, Copywriter +1 more
 
+- **[Musiv](https://www.aimyflow.com/en/ai/musiv-ai)**
+  - Musiv is an AI music video generator that turns songs into storyboarded visual clips from an uploaded track. It fits musicians, labels, and content teams that need faster, lower-cost video production for releases and...
+  - *Suitable roles:* Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter +1 more
+
 - **[Mutiny](https://www.aimyflow.com/en/ai/mutinyhq-com)**
   - Mutiny is an AI agent that helps go-to-market teams create customer-facing assets like landing pages, proposals, case studies, battlecards, and deal materials quickly while keeping them on brand and personalized with...
   - *Suitable roles:* Digital Marketing Director, Field Sales Manager, E-commerce Sales Head, Copywriter +1 more
@@ -7683,6 +7723,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[MyClaw.Host](https://www.aimyflow.com/en/ai/myclaw-host)**
   - MyClaw.Host is a hosting platform that provides pre-configured VPS infrastructure for deploying and managing OpenClaw AI agents with one-click setup, mainly for users who need dedicated agent hosting without manual...
   - *Suitable roles:* IT Infrastructure Manager, Software Development Manager, Project Management Officer, Software Engineer +1 more
+
+- **[MyColoring.AI](https://www.aimyflow.com/en/ai/mycoloring-ai)**
+  - MyColoring.AI is an AI coloring page generator that turns photos or text prompts into printable coloring pages, mainly for parents, teachers, crafters, pet lovers, event planners, and content creators. It can speed up...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[mymind](https://www.aimyflow.com/en/ai/mymind-com)**
   - mymind is a private AI-powered note taking and bookmarking tool that helps people save, organize, search, and revisit notes, images, articles, quotes, and inspiration without folders or tags, mainly for individuals...
@@ -8623,6 +8667,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Phospho is an AI robotics company that provides an open-source toolkit, hardware dev kits, and cloud training tools to help developers and robotics teams build, control, and train intelligent robots. For robotics...
   - *Suitable roles:* Software Engineer, Software Development Manager, Electrical Engineer, Mechanical Engineer +1 more
 
+- **[Photo Animate](https://www.aimyflow.com/en/ai/photoanimate-org)**
+  - Photo Animate turns still images into lifelike video clips with motion controls for portraits and memory-driven content. It is useful for creators, family storytellers, and media teams that want emotionally natural...
+  - *Suitable roles:* Social Media Content Creator, Independent Filmmaker, Graphic Designer, Copywriter +1 more
+
 - **[PhotodotAI](https://www.aimyflow.com/en/ai/photodot-ai)**
   - PhotodotAI is a web-based AI photo editor that helps users edit car photos, portraits, and other images with tools for background removal, enhancement, upscaling, and listing-ready exports, mainly for car dealers,...
   - *Suitable roles:* Field Sales Manager, Social Media Content Creator, Graphic Designer, E-commerce Sales Head +1 more
@@ -9036,6 +9084,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[Precip](https://www.aimyflow.com/en/ai/precip-ai)**
   - Precip is a hyper-local rainfall tracking platform with a rain gauge app and historical weather API that helps users monitor rainfall accumulation and site conditions at specific locations without physical gauges,...
   - *Suitable roles:* Logistics Operations Planner, Software Engineer, Data Engineer, Project Management Officer +1 more
+
+- **[PredictMyBaby](https://www.aimyflow.com/en/ai/predictmybaby-com)**
+  - PredictMyBaby is a photo-based AI baby generator that helps parents preview what their child could look like by uploading photos of both parents. For family planners and content teams, it speeds up visual concepting...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Predis.ai](https://www.aimyflow.com/en/ai/predis-ai)**
   - Predis.ai is an AI social media marketing tool that helps users create video and image content and analyze performance, mainly for marketers, agencies, and growing brands. It shortens content planning and production...
@@ -9854,6 +9906,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - RNWY is an on-chain trust and identity platform that scores crypto wallets and AI agents, helping users verify ownership history, reputation signals, fraud patterns, and soulbound identity, mainly for people and teams...
   - *Suitable roles:* Risk Analyst, Cybersecurity Analyst, CEO, COO +1 more
 
+- **[Road To Vostok Map — Area 05, POIs & Regional Overview](https://www.aimyflow.com/en/ai/roadtovostok-org-map)**
+  - Road To Vostok Interactive map: Area 05, Border Zone, and Vostok points of interest, searchable index, and regional overview. Use alongside the in-game map and confirm coordinates in-client.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Roame](https://www.aimyflow.com/en/ai/roame-travel)**
   - Roame is a free award flight search and alerts tool that helps users find and track flights bookable with credit card points across airline loyalty programs, mainly for points travelers and frequent flyers. For travel...
 
@@ -10167,6 +10223,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[Seedance 2.0](https://www.aimyflow.com/en/ai/seedancev2-net)**
   - Seedance 2.0 is an AI video generator that turns text or images into cinematic videos with multi-shot storytelling, audio generation, and editing controls, mainly for creators, marketers, and filmmakers. In AI-driven...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller +1 more
+
+- **[Seedance 2.0 AI Video Generator](https://www.aimyflow.com/en/ai/seedances-app)**
+  - Seedance 2.0 delivers breakthrough AI video generation with 2K resolution and native audio support. Create cinematic videos from text or images with advanced multimodal input. Seedance 2 transforms your creative vision...
+  - *Suitable roles:* Content Creator, Graphic Designer, Independent Filmmaker
 
 - **[Seek](https://www.aimyflow.com/en/ai/seek-ai)**
   - Seek offers powerful AI for data analytics. Our natural language interface for data lets you ask your data questions in plain English and extract data insights in real-time.
@@ -10658,6 +10718,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Sora Watermark Remover is an AI tool that removes watermarks from Sora-generated videos by pasting a Sora app or web link, mainly for creators who need clean MP4 downloads without uploading files. For content creators...
   - *Suitable roles:* Social Media Content Creator, Content Creator, Digital Marketing Director, Copywriter
 
+- **[Sora2-AI.io](https://www.aimyflow.com/en/ai/sora2-ai-io)**
+  - Sora2-AI.io is an advanced AI video generator that transforms text and images into stunning videos. Try our AI video creator free - create professional results in minutes
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Content Creator
+
 - **[Sorce](https://www.aimyflow.com/en/ai/sorce-jobs)**
   - Sorce is an AI-powered job application platform that lets job seekers upload a resume, swipe on roles they want, and have an AI agent apply on their behalf across a large job database. For job seekers across industries...
   - *Suitable roles:* Talent Acquisition Manager, Software Engineer, Digital Marketing Director, Field Sales Manager
@@ -10725,6 +10789,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[Speak AI](https://www.aimyflow.com/en/ai/speakai-co)**
   - Speak AI is an AI voice and video platform that helps teams capture, transcribe, analyze, and share recordings, and deploy knowledge-grounded voice, video, and phone agents; it is mainly for business, research, and...
   - *Suitable roles:* Software Development Manager, Digital Marketing Director, Project Management Officer, Technical Writer +1 more
+
+- **[Speakoala](https://www.aimyflow.com/en/ai/speakoala-com)**
+  - Speakoala is a browser text-to-speech extension that helps users listen to web pages, emails, PDFs, Word documents, and other local files, mainly for people reading online content. It can support accessibility and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[SpeakUp](https://www.aimyflow.com/en/ai/speak-up-pro-en)**
   - SpeakUp is an AI speaker booking platform that helps event organizers, podcasters, journalists, and media teams find verified speakers, post requests, and manage direct booking in one place. For event and content...
@@ -11239,6 +11307,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - Tabletop Scribe is an AI-powered mobile tool that turns recorded tabletop roleplaying game sessions into transcriptions, recaps, and a searchable campaign wiki, mainly for game masters and TTRPG groups. By automating...
   - *Suitable roles:* Content Creator, Fiction Writer, Social Media Content Creator
 
+- **[TabliSync](https://www.aimyflow.com/en/ai/tablisync-com)**
+  - TabliSync is an AI data assistant that converts images and PDFs into editable Excel, CSV, Google Sheets, Airtable, or Notion tables, mainly for people handling scanned documents and structured data. It can help...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Tailo](https://www.aimyflow.com/en/ai/tailoai-com)**
   - Tailo is an AI product demo and lead qualification tool for B2B SaaS teams that helps turn website visitors into qualified meetings through personalized micro-demos, natural qualifying questions, and in-chat booking....
   - *Suitable roles:* Field Sales Manager, Digital Marketing Director, E-commerce Sales Head, COO +1 more
@@ -11325,6 +11397,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[TAROTIFY.ai](https://www.aimyflow.com/en/ai/tarotify-ai)**
   - TAROTIFY.ai is a free online AI tarot tool that helps users perform tarot readings, interpret homemade spreads, and learn card meanings, mainly for tarot beginners and experienced practitioners. In an AI-assisted...
   - *Suitable roles:* Wellness Coach, Content Creator, Teacher
+
+- **[Tarotool](https://www.aimyflow.com/en/ai/tarotool-com)**
+  - Tarotool is a free AI-powered tarot reading website that helps users ask questions about love, career, money, and life, mainly for people seeking instant online guidance. For readers, coaches, and content creators, its...
+  - *Suitable roles:* Wellness Coach, Content Creator, Copywriter
 
 - **[TaskFire](https://www.aimyflow.com/en/ai/taskfire-ai)**
   - TaskFire is an AI competitor intelligence tool that generates structured reports from live company, GitHub, npm, and website data, helping founders, product marketers, and competitive research teams analyze rivals and...
@@ -12250,6 +12326,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
   - VenturusAI is an AI business analysis tool that helps users evaluate startup and business ideas with SWOT, PESTEL, Porter’s Five Forces, target audience insights, and strategy recommendations, mainly for entrepreneurs...
   - *Suitable roles:* CEO, Financial Analyst, Digital Marketing Director, Project Management Officer +1 more
 
+- **[Veo 3](https://www.aimyflow.com/en/ai/veo31video-com)**
+  - Veo 3 is an AI video generator that creates cinematic videos from text or images with synchronized audio, realistic physics, and multi-shot control, mainly for creators and teams making video content. For video...
+  - *Suitable roles:* Social Media Content Creator, Podcast Producer, Content Creator, Digital Marketing Director +1 more
+
 - **[Veo 3.1 AI Video Generator](https://www.aimyflow.com/en/ai/veo-3-1-io)**
   - Veo 3.1 AI Video Generator is a text-and-image-to-video tool that helps users create cinematic videos quickly, mainly for marketers, creators, and creative teams. In the AI era, generative video speeds up concept...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Education Technology Consultant, Content Creator +4 more
@@ -12437,6 +12517,10 @@ Interpreter is a desktop AI agent that helps users read, edit, and create Word, 
 - **[VideoToPage](https://www.aimyflow.com/en/ai/videotopage-com)**
   - VideoToPage is an AI content repurposing tool that turns videos, podcasts, and audio into transcripts, blog posts, SEO articles, social posts, documentation, and course materials, mainly for content teams, agencies,...
   - *Suitable roles:* Digital Marketing Director, Social Media Content Creator, Copywriter, Technical Writer +1 more
+
+- **[VideotoRecipe](https://www.aimyflow.com/en/ai/videotorecipe-org)**
+  - Convert user uploaded YouTube, Instagram, TikTok & Facebook cooking videos & Reels into recipes. AI recipe generator for notes, cookbook, short video maker.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[VideoToTextAI](https://www.aimyflow.com/en/ai/videototextai-com)**
   - VideoToTextAI is an AI transcription and captioning tool that helps users transcribe, translate, subtitle, and export video or audio content, mainly for creators and media teams. In the AI era, editable transcripts...
