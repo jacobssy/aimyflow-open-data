@@ -22,9 +22,9 @@ lang: "en"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3336</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>3394</strong><span>Tools exported</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
-<div class="stat-card"><strong>2026-05-23</strong><span>Generated at</span></div>
+<div class="stat-card"><strong>2026-06-19</strong><span>Generated at</span></div>
 </div>
 
 ## Start Here
@@ -46,9 +46,19 @@ lang: "en"
 
 <div class="tool-card" markdown="1">
 
-### [Voice Cleaner](https://www.aimyflow.com/en/ai/voicecleaner-org)
+### [This submitted link](https://www.aimyflow.com/en/ai/youtu-be-m8am9-pjszy)
 
-Use VoiceCleaner as an online voice cleaner to remove background noise from audio, clean voice recordings, and preview clearer podcast or meeting audio.
+This submitted link is a YouTube video from Minika for the children's animation episode Maceracı Yüzgeçler - 24.Bölüm - Sevimli Mühendisler. It is cataloged as a media reference rather than a standalone AI tool, with the original short link preserved for review and playback.
+
+**Suitable roles:** Content Creator, Teacher, Social Media Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Astrocarto](https://www.aimyflow.com/en/ai/astrocarto-org)
+
+Astrocarto is a free AI-powered astrocartography calculator that maps birth charts onto world locations to provide planetary line interpretations and relocation insights, mainly for astrologers, relocators, and astrology enthusiasts. In AI-assisted location analysis, it can help astrologers and relocation planners evaluate career, relationship, and personal-growth patterns more efficiently.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -56,29 +66,9 @@ Use VoiceCleaner as an online voice cleaner to remove background noise from audi
 
 <div class="tool-card" markdown="1">
 
-### [Image Layer Tool](https://www.aimyflow.com/en/ai/imagelayer)
+### [Physics AI](https://www.aimyflow.com/en/ai/physicsai-chat)
 
-Use ImageLayer.net to split design, product, and content images into editable transparent image layers for Photoshop, e-commerce, and content workflows.
-
-**Suitable roles:** Graphic Designer, Ecommerce Seller, Content Creator, Industrial Designer, Software Engineer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [StopScroll](https://www.aimyflow.com/en/ai/stopscroll)
-
-StopScroll is an AI thumbnail maker and picker that generates multiple thumbnail options, compares their strengths and weaknesses, and recommends the best cover before publishing, mainly for creators and faceless channels. It can help video teams and content creators make faster publishing decisions by reviewing curiosity, readability, contrast, and click potential before upload.
-
-**Suitable roles:** Social Media Content Creator, Podcast Producer, Copywriter, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Remova](https://www.aimyflow.com/en/ai/remova)
-
-Remova is an enterprise AI governance platform for teams that lets companies use ChatGPT, Claude, Gemini, and 300+ models with policy controls, sensitive-data masking, role-based access, audit visibility, and budget management. It helps IT, security, and operations teams reduce data leaks and AI misuse while keeping model access and spend under control.
+Physics AI is an online physics solver and tutor that helps students solve and understand physics problems from typed questions or uploaded images with step-by-step explanations and diagrams. For students and educators, it can speed problem checking, clarify derivations, and support concept-focused study with visual reasoning.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -86,19 +76,129 @@ Remova is an enterprise AI governance platform for teams that lets companies use
 
 <div class="tool-card" markdown="1">
 
-### [BookCoversLab](https://www.aimyflow.com/en/ai/bookcoverslab)
+### [Ray 3.2 AI Video Generator](https://www.aimyflow.com/en/ai/ray32-app)
 
-BookCoversLab is a KDP publishing toolkit for self-publishers that helps create, fix, validate, and export paperback, hardcover, and eBook covers in print-ready PDF format. It can help authors, indie publishers, and cover designers reduce upload rework by catching trim, bleed, spine, and compliance issues earlier in the workflow.
+Use the Ray 3.2 AI Video Generator to direct video frame by frame. 16 keyframes, 1080p HDR, 20-second clips, EXR export. Free starter credits, no card needed.
 
-**Suitable roles:** Ecommerce Seller, Technical Writer, Graphic Designer, Fiction Writer, Content Creator
+**Suitable roles:** Independent Filmmaker, Graphic Designer, Content Creator, Digital Marketing Director, Social Media Content Creator
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [CodingPlan](https://www.aimyflow.com/en/ai/codingplan)
+### [AI 3D Model Generator](https://www.aimyflow.com/en/ai/next3d-ai)
 
-CodingPlan is a platform for buying AI coding plans from Alibaba, MiniMax, Kimi, GLM, and Qwen, helping developers choose lower-cost plans with similar quota and model capability. For coders and engineering teams, it can reduce AI spend while keeping access to tools suited for coding workflows and agent-based development.
+Create 3D models online with Next3D. Turn images or text prompts into previewable, editable, and downloadable 3D assets in minutes.
+
+**Suitable roles:** Graphic Designer, Industrial Designer, Software Engineer, E-commerce Sales Head, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AIeBookGen](https://www.aimyflow.com/en/ai/aiebookgen-com)
+
+AIeBookGen is an AI ebook generator that helps self-publishing authors and KDP book sellers turn ideas, notes, drafts, or transcripts into structured chapters, metadata, review notes, and EPUB/PDF export packages. In AI-assisted publishing workflows, it helps authors and editors keep manuscript structure, quality checks, and listing assets aligned through to platform handoff.
+
+**Suitable roles:** Fiction Writer, Copywriter, Content Creator, Ecommerce Seller, Technical Writer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/en/ai/omnigemini-io)
+
+Use Gemini Omni with text, image, video, and audio inputs to generate video drafts, then keep editing shots, subjects, style, and pacing in natural language.
+
+**Suitable roles:** Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/en/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)
+
+Use HappyHorse 1.0 AI Video Generator to turn text or images into ready-to-share 720p or 1080p videos for ads, social content, and product demos. Start creating now.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Ecommerce Seller, Social Media Content Creator, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [P Video](https://www.aimyflow.com/en/ai/pvideo-app)
+
+P Video turns prompts, images, portraits, motion references, and replacement images into short AI videos in your browser for social clips and drafts.
+
+**Suitable roles:** Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter, Graphic Designer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Best AI Tools Directory (2026)](https://www.aimyflow.com/en/ai/aigenerator-tools)
+
+Compare 2,200+ AI tools by category, pricing, reviews, rankings, and latest launches. Find AI video generators, writing tools, coding copilots, and more.
+
+**Suitable roles:** Education Technology Consultant, Software Development Manager, Digital Marketing Director, Project Management Officer, Data Scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ChatGPT Images 2.0](https://www.aimyflow.com/en/ai/chatgptimages2-io)
+
+ChatGPT Images 2.0 uses GPT Image 2 for reasoning, web retrieval, file analysis, 8-image consistency, multilingual text, and up to 2K output.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator, Education Technology Consultant
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Frame Extractor](https://www.aimyflow.com/en/ai/frame-extractor-video)
+
+Frame Extractor is a browser-based video frame extractor that helps users capture single or batch still images from video files without uploading them, mainly for content creators, designers, educators, and researchers. For AI-era workflows, it gives these professionals private, precise source images for documentation, analysis, storyboards, and visual content creation.
+
+**Suitable roles:** Content Creator, Graphic Designer, Teacher, Technical Writer, Data Scientist
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/en/ai/xmk-com-grok-imagine-grok-imagine-1-5)
+
+Use Grok Imagine 1.5 AI Video Generator for image-to-video creation. Turn a still image into a 1-15s clip with prompts, audio, and 480p or 720p output.
+
+**Suitable roles:** Content Creator, Digital Marketing Director, Graphic Designer, Copywriter, Social Media Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/en/ai/aitoolsobserver-com-submit)
+
+Submit your AI tool to AiToolsObserver for free and gain visibility through editorial content, rankings, AI discovery, and curated tool listings.
+
+**Suitable roles:** Digital Marketing Director, CEO, Software Development Manager, Copywriter, Content Creator
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Headcanon Generator](https://www.aimyflow.com/en/ai/headcanon-me)
+
+Headcanon Generator is an AI writing tool that helps fandom writers create character headcanons, relationship ideas, backstories, and AU concepts from a character name and optional context. For fanfiction writers and roleplayers, it can speed ideation while keeping character and world details more consistent through guided prompts and constraints.
+
+**Suitable roles:** Fiction Writer, Content Creator, Social Media Content Creator, Copywriter, Technical Writer
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Messy files to spreadsheet workflows](https://www.aimyflow.com/en/ai/messy2sheet-com)
+
+Upload a PDF, screenshot, email, CSV, spreadsheet, or pasted text. Messy2Sheet makes a table you can check, export, and reuse for the next file like it.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -106,79 +206,9 @@ CodingPlan is a platform for buying AI coding plans from Alibaba, MiniMax, Kimi,
 
 <div class="tool-card" markdown="1">
 
-### [Eva](https://www.aimyflow.com/en/ai/hireeva)
+### [TI84.io](https://www.aimyflow.com/en/ai/ti84-io)
 
-Eva is an AI operations manager for small businesses that helps owners, founders, and operators handle invoices, lead sourcing, outreach, client messages, site drafts, and workflow building. It can help operations, sales, and admin teams reduce manual busywork and keep records, follow-ups, and handoffs organized across everyday business tools.
-
-**Suitable roles:** CEO, COO, Branch Office Manager, Field Sales Manager, Digital Marketing Director
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Motion Control AI Video Generator](https://www.aimyflow.com/en/ai/fluxmov)
-
-Use Motion Control AI to guide character movement with a reference video. Reduce prompt guesswork, face drift, random motion, and failed AI video retries.
-
-**Suitable roles:** Social Media Content Creator, Podcast Producer, Independent Filmmaker, Graphic Designer, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Signal Desk](https://www.aimyflow.com/en/ai/signal-desk-study-tools-netlify)
-
-Signal Desk is a free no-login AI study prompt generator that helps students turn lecture notes, readings, exam topics, and source lists into prompts for active recall, quizzes, flashcards, and study plans. It can help students and study-focused educators create faster review materials and structured practice without giving up the thinking process.
-
-**Suitable roles:** Test Prep Tutor, Education Technology Consultant, Online Coding Tutor, Teacher
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AuraTuner](https://www.aimyflow.com/en/ai/auratuner)
-
-AuraTuner is a studio-grade AI tool for creating product images, ecommerce listing visuals, posters, and short product videos, mainly for ecommerce sellers, marketers, and content creators. It can help product and creative teams speed up image editing, background replacement, and video production with tested workflows and model presets.
-
-**Suitable roles:** Ecommerce Seller, Content Creator, Digital Marketing Director, Graphic Designer, Social Media Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Image to Image AI](https://www.aimyflow.com/en/ai/aiimagetoimage)
-
-Free image to image AI generator — upload any photo, describe your edit, and get photorealistic results in seconds. No signup needed. The best AI image generator from image online.
-
-**Suitable roles:** Ecommerce Seller, Content Creator, Graphic Designer, Real Estate Agent, Fashion Designer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [RoleTTS](https://www.aimyflow.com/en/ai/roletts)
-
-RoleTTS is an AI voice generator for character text to speech, voice design, voice cloning, multilingual dubbing, and talking avatar workflows, mainly for creators building story, game, and video content. It helps voice actors, producers, and game teams direct expressive performance line by line and keep character voices consistent across audio and avatar output.
-
-**Suitable roles:** Podcast Producer, Independent Filmmaker, Voice Actor, Social Media Content Creator, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [ScamSpot](https://www.aimyflow.com/en/ai/scamspot)
-
-Paste a suspicious message, email, WhatsApp text, or URL and get a free scam risk check with clear next steps.
-
-**Suitable roles:** Cybersecurity Analyst, Cybersecurity Manager, Software Engineer
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Vizcept](https://www.aimyflow.com/en/ai/vizcept)
-
-Vizcept is an AI concept diagram generator that turns plain-English descriptions into structured diagrams for students, researchers, and educators. It can help researchers, instructors, and students save time on publication figures, lesson visuals, and assignment diagrams by producing clear, editable outputs fast.
+TI84.io is a free browser-based TI-84 calculator simulator that helps users graph functions and perform algebra, statistics, matrix, and scientific calculations, mainly for students and teachers. In AI-era math instruction, it gives teachers and tutors a quick shared-screen tool for demonstrating calculator workflows without installs or physical devices.
 
 **Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
 
@@ -186,101 +216,71 @@ Vizcept is an AI concept diagram generator that turns plain-English descriptions
 
 <div class="tool-card" markdown="1">
 
-### [AiCartoon](https://www.aimyflow.com/en/ai/aicartoon)
+### [CharaVerse](https://www.aimyflow.com/en/ai/charaverse-chat)
 
-AiCartoon is an AI cartoon generator that turns photos into cartoon art, stylized portraits, and avatars for people who want quick image-to-cartoon results. It can help social media creators, designers, and marketers produce polished visual assets faster with style controls, no-watermark exports, and commercial-use options.
+CharaVerse is an AI character roleplay platform that helps users chat with customizable fictional personalities and create ongoing story-based conversations, mainly for roleplay fans and creative writers. In AI-assisted storytelling, it can help writers and narrative designers quickly explore character voice, tone shifts, and scene variations.
 
-**Suitable roles:** Social Media Content Creator, Graphic Designer, Digital Marketing Director, Copywriter, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [CCNavX](https://www.aimyflow.com/en/ai/ccnavx)
-
-CCNavX is a comparison site for cheap OpenAI API, Claude API proxy, and OpenAI-compatible providers, helping users compare pricing, model coverage, payment methods, and invoice support. It is mainly for developers and teams choosing API proxies, where clear cost and compatibility checks can improve integration planning and reimbursement workflows.
-
-**Suitable roles:** Software Engineer, IT Infrastructure Manager, Project Management Officer, Data Engineer
+**Suitable roles:** Fiction Writer, Content Creator, Social Media Content Creator, Copywriter, Independent Filmmaker
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [ScanRead.ai](https://www.aimyflow.com/en/ai/scanread)
+### [Content True](https://www.aimyflow.com/en/ai/contenttrue-org)
 
-ScanRead.ai is a free OCR tool that extracts editable text from images, screenshots, scanned PDFs, and documents for anyone who needs quick text conversion. It can help operations, finance, and admin teams turn receipts, contracts, notes, and reports into searchable text faster.
+Content True is an AI content detection tool that helps users check whether text was generated by AI, mainly for people reviewing written content in Japanese and other supported languages. For editors, educators, and content reviewers, it can add a fast originality check to AI-era workflows before publishing, grading, or approving text.
 
-**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [TermsHuman](https://www.aimyflow.com/en/ai/termshuman)
-
-TermsHuman is a plain-English contract analyzer that summarizes terms of service, policies, and agreements, flags red risks, and shows key commitments in English or Spanish for people who need to review legal text quickly. It can help legal, compliance, procurement, and operations teams speed clause review and spot one-sided terms before approval.
-
-**Suitable roles:** Lawyer, CEO, CFO, Project Management Officer
+**Suitable roles:** Technical Writer, College Professor, Teacher, Content Creator, Copywriter
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Veo 4 AI Video Generator Online](https://www.aimyflow.com/en/ai/veo4free)
+### [Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/en/ai/weddingspeech-xyz)
 
-Veo 4 AI Video Generator Online is a browser-based tool for creating text-to-video and image-to-video clips, mainly for creators, marketers, filmmakers, educators, and content teams. Its native audio, 4K output, and character consistency can help video producers and brand teams speed up concepting, pre-visualization, and social content delivery.
+Create free wedding speech templates and examples—best man, maid of honor, parent, or funny wedding speeches. Get three personalized AI drafts in minutes.
 
-**Suitable roles:** Social Media Content Creator, Podcast Producer, Independent Filmmaker, Digital Marketing Director, Content Creator
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AI Clean Voice](https://www.aimyflow.com/en/ai/voicecleaner)
-
-AI Clean Voice is an online AI voice cleaner that removes background noise, wind, and echo to enhance speech in uploaded audio, mainly for podcasters, video creators, educators, and production teams. It can help audio editors and content teams speed up cleanup work while preserving natural vocal clarity for faster publishing.
-
-**Suitable roles:** Podcast Producer, Social Media Content Creator, Education Technology Consultant, Technical Writer, Copywriter
+**Suitable roles:** Copywriter, Content Creator, Fiction Writer, Technical Writer
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [AI Coloring Page Generator](https://www.aimyflow.com/en/ai/aicoloringpagegenerator)
+### [Manga Translator – AI Translate Manga](https://www.aimyflow.com/en/ai/mangatranslator-me)
 
-AI Coloring Page Generator is a tool that turns kid-friendly ideas into printable black-and-white coloring pages, with difficulty levels for different ages, mainly for parents and teachers. It can help educators and caregivers quickly create age-appropriate, custom printables for lessons, classroom activities, or home play.
+Translate manga, manhwa & webtoons instantly with Mee. AI-powered manga translator preserves layout, gives accurate translations. Read online or download images.
 
-**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [HMG Tools Redactor](https://www.aimyflow.com/en/ai/tools-hoppingmadgames)
-
-HMG Tools Redactor is a browser-based redaction tool that helps users catch and replace sensitive text before it leaves their device, mainly for people handling prompts, support logs, invoices, school notes, and client drafts. It can help support teams, writers, and admins reduce accidental exposure when preparing text for AI workflows or sharing documents.
-
-**Suitable roles:** Software Engineer, Technical Writer, Copywriter, School Counselor, Education Technology Consultant
+**Suitable roles:** Content Creator, Technical Writer, Copywriter
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Thragg in Invincible](https://www.aimyflow.com/en/ai/thragg)
+### [Seedance 2.0 Mini](https://www.aimyflow.com/en/ai/seedance2mini-ai)
 
-Explore Thragg in Invincible with a focused guide to who Thragg is, his role in the Viltrum Empire, how strong he is, and why Thragg vs Battle Beast is the matchup readers search for first.
+Seedance 2.0 Mini is an AI video generator for creating short cinematic clips from text prompts or images, mainly for creators and marketers producing ads, promos, and social video. For marketing and creative teams, it can speed concept testing and short-form production by turning briefs or stills into editable MP4 clips.
 
-**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+**Suitable roles:** Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter, Graphic Designer
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [WisGate](https://www.aimyflow.com/en/ai/wisgate)
+### [I2V](https://www.aimyflow.com/en/ai/i2v-ai)
 
-WisGate is a unified AI API gateway and studio for developers, creators, and teams to access and compare models for chat, image, video, and code generation through one interface. It can help product and engineering teams speed integration and control model choice and costs with centralized routing and billing.
+I2V is an AI video generation platform for creators and media professionals that turns text, images, or audio into short multi-shot cinematic videos with integrated audio, consistent characters, and MP4 export. For marketers, educators, and video teams, it can speed concepting and pre-visualization while reducing manual editing for short-form content.
 
-**Suitable roles:** Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director, Copywriter
+**Suitable roles:** Content Creator, Digital Marketing Director, Social Media Content Creator, Graphic Designer, Teacher
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Image 2](https://www.aimyflow.com/en/ai/imagev2-org)
+
+Image 2 is a multi-model AI image generator and editor with GPT Images 2.0, Nano Banana 2, Seedream 5 Lite, and more for text-to-image, image-to-image, reference editing, posters, ads, and ecommerce visuals.
+
+**Suitable roles:** Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Content Creator
 
 </div>
 
@@ -288,7 +288,7 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 ## All Tools
 
 <details markdown="1">
-<summary>Expand the full tool directory (3336)</summary>
+<summary>Expand the full tool directory (3394)</summary>
 
 <p class="section-note">_Compact view for faster scanning._</p>
 
@@ -317,6 +317,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[1ClickClaw](https://www.aimyflow.com/en/ai/1clickclaw-app)**
   - 1ClickClaw is a hosting service for deploying OpenClaw as a personal AI assistant on Telegram, Discord, or WhatsApp in one click, mainly for users who want an always-on bot without managing servers, SSH, or DevOps...
   - *Suitable roles:* Project Management Officer, Software Development Manager, IT Infrastructure Manager, Community College Instructor
+
+- **[1iO](https://www.aimyflow.com/en/ai/ioview-net)**
+  - 1iO is a decentralized technology foundation that helps users reclaim data ownership, privacy, and control through local virtual data rooms and peer-to-peer collaboration, mainly for developers building interoperable...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[1minAI](https://www.aimyflow.com/en/ai/1min-ai)**
   - 1minAI is an all-in-one AI app for text, image, audio, and video tasks that helps users create, edit, and transform content from one place, mainly for creators, marketers, small businesses, and other general...
@@ -372,6 +376,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[AccuChats](https://www.aimyflow.com/en/ai/accuchats-com)**
   - AccuChats is an accuracy-first AI chatbot platform that helps businesses build website and support chatbots with source citations, confidence scoring, human handoff, and voice, mainly for teams that need trustworthy...
   - *Suitable roles:* Software Development Manager, Project Management Officer, COO
+
+- **[ACE ZERO TRADING](https://www.aimyflow.com/en/ai/acezerotrading-com)**
+  - ACE ZERO TRADING is a workspace for Shopify sellers that generates draft-ready images, SEO copy, FAQs, pricing, and inventory details from product photos, and audits product pages for SEO and GEO. For ecommerce...
+  - *Suitable roles:* Ecommerce Seller, Digital Marketing Director, Copywriter, Graphic Designer +1 more
 
 - **[Acedit](https://www.aimyflow.com/en/ai/acedit-ai)**
   - Acedit is an AI interview coaching Chrome extension that helps job seekers practice with mock interviews and get real-time question detection and response suggestions during live online interviews. For candidates,...
@@ -508,6 +516,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Ahrefs Free AI Plagiarism Checker](https://www.aimyflow.com/en/ai/ahrefs-com-writing-tools-plagiarism-checker)**
   - Ahrefs Free AI Plagiarism Checker is a writing tool that scans text or TXT files for plagiarism and provides a detailed originality report, mainly for content creators, writers, publishers, educators, students, and...
   - *Suitable roles:* Copywriter, Technical Writer, Content Creator, Digital Marketing Director +1 more
+
+- **[AI 3D Model Generator](https://www.aimyflow.com/en/ai/next3d-ai)**
+  - Create 3D models online with Next3D. Turn images or text prompts into previewable, editable, and downloadable 3D assets in minutes.
+  - *Suitable roles:* Graphic Designer, Industrial Designer, Software Engineer, E-commerce Sales Head +1 more
 
 - **[AI Action Figure Generator](https://www.aimyflow.com/en/ai/regiai-com-tools-ai-action-figure-generator)**
   - AI Action Figure Generator is an AI image tool from RegiAI that turns a person’s photo into a custom toy-style action figure using selectable templates such as superheroes, medical roles, sports, entertainment, and...
@@ -660,6 +672,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[AI Kiss](https://www.aimyflow.com/en/ai/aikiss-art)**
   - AI Kiss is a free AI kissing video generator that turns one or two photos into short animated kissing scenes, mainly for consumers who want to create romantic keepsakes or shareable visual content. For content creators...
   - *Suitable roles:* Social Media Content Creator, Content Creator, Copywriter, Graphic Designer
+
+- **[AI Kitchen Preview](https://www.aimyflow.com/en/ai/aikitchenpreview-com)**
+  - AI Kitchen Preview is a web tool that turns kitchen photos into realistic AI design previews, style comparisons, and a remodeling decision pack for homeowners planning a kitchen update. It helps designers, remodelers,...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[AI Line Art Generator](https://www.aimyflow.com/en/ai/ailineart-com)**
   - AI Line Art Generator is an online AI tool that turns text prompts or uploaded photos into line art drawings in multiple styles, mainly for artists, illustrators, designers, and other creative users. It can speed...
@@ -915,6 +931,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - AIDesigner is an AI UI and UX design tool that helps users generate editable website and mobile app interfaces from a few words or templates, mainly for designers, founders, and product teams. In AI-assisted product...
   - *Suitable roles:* Graphic Designer, CEO, Digital Marketing Director, Software Development Manager +1 more
 
+- **[AIeBookGen](https://www.aimyflow.com/en/ai/aiebookgen-com)**
+  - AIeBookGen is an AI ebook generator that helps self-publishing authors and KDP book sellers turn ideas, notes, drafts, or transcripts into structured chapters, metadata, review notes, and EPUB/PDF export packages. In...
+  - *Suitable roles:* Fiction Writer, Copywriter, Content Creator, Ecommerce Seller +1 more
+
 - **[AIGC工具导航](https://www.aimyflow.com/en/ai/aigc-cn)**
   - AIGC工具导航 is a Chinese directory of generative AI tools that helps users quickly find categorized tools for writing, image generation, video creation, office work, design, development, and learning, mainly for creators,...
   - *Suitable roles:* Content Creator, Software Engineer, Graphic Designer, Digital Marketing Director +1 more
@@ -1102,6 +1122,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - AliGenie is Tmall Genie’s open platform, providing voice development, IoT device control, AI capability integration, and content access tools for hardware makers, IoT developers, app teams, and content providers...
   - *Suitable roles:* Software Engineer, Electrical Engineer, Project Management Officer, IT Infrastructure Manager +1 more
 
+- **[Alignes](https://www.aimyflow.com/en/ai/alignes-app)**
+  - Alignes is AI tech pack software that turns garment photos, sketches, and notes into structured tech packs, with measurements, BOM, construction details, and export, for apparel brands, freelance technical designers,...
+  - *Suitable roles:* Fashion Designer, Graphic Designer, Content Creator, CEO
+
 - **[alkaid.art](https://www.aimyflow.com/en/ai/alkaid-art)**
   - alkaid.art is currently unreachable due to a Cloudflare 522 connection timeout, so its purpose, features, and intended users cannot be verified from the available page information. For web administrators and site...
 
@@ -1227,6 +1251,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[AnimalGenerator.net](https://www.aimyflow.com/en/ai/animalgenerator-net)**
   - AnimalGenerator.net is an AI animal creator and mixer that helps users combine animals, mechs, and fantasy heroes into consistent hybrid characters, comics, and printable coloring pages, mainly for teachers, kids,...
   - *Suitable roles:* Graphic Designer, Content Creator, Teacher, Elementary School Math Teacher +1 more
+
+- **[Animate Photo AI](https://www.aimyflow.com/en/ai/animatephotoai-com)**
+  - Animate Photo AI turns photos into videos online. Upload & animate in seconds to create talking portraits, pet motion, and scene loops. Try it now.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer, Digital Marketing Director +1 more
 
 - **[Anime AI](https://www.aimyflow.com/en/ai/animeai-app)**
   - Anime AI is a free, no-sign-up photo-to-anime image generator that converts single-person portrait photos into anime-style avatars across styles like Naruto, One Piece, Webtoon, and Classic, mainly for anime fans and...
@@ -1503,6 +1531,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Astro Energy](https://www.aimyflow.com/en/ai/astroenergy-ai)**
   - Astro Energy is a utility-scale solar and battery storage developer that helps Texas landowners evaluate and lease land for long-term energy projects through a transparent development process. For landowners and rural...
   - *Suitable roles:* Commercial Architect, Civil Engineer, CEO, Project Management Officer +1 more
+
+- **[Astrocarto](https://www.aimyflow.com/en/ai/astrocarto-org)**
+  - Astrocarto is a free AI-powered astrocartography calculator that maps birth charts onto world locations to provide planetary line interpretations and relocation insights, mainly for astrologers, relocators, and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Athena AI Agents](https://www.aimyflow.com/en/ai/athenachat-bot-agents)**
   - Athena AI Agents is a no-code platform for creating custom AI agents that handle focused workflows, tool-connected tasks, and website interactions, mainly for teams, small business owners, educators, and individuals....
@@ -1852,6 +1884,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[BerryViral](https://www.aimyflow.com/en/ai/berryviral-com)**
   - BerryViral is an AI thumbnail intelligence tool that scores, reviews, and helps refine YouTube thumbnails and titles for clickability, mainly for YouTube creators. For video creators and thumbnail designers, it can...
   - *Suitable roles:* Social Media Content Creator, Graphic Designer, Content Creator, Digital Marketing Director +1 more
+
+- **[Best AI Tools Directory (2026)](https://www.aimyflow.com/en/ai/aigenerator-tools)**
+  - Compare 2,200+ AI tools by category, pricing, reviews, rankings, and latest launches. Find AI video generators, writing tools, coding copilots, and more.
+  - *Suitable roles:* Education Technology Consultant, Software Development Manager, Digital Marketing Director, Project Management Officer +1 more
 
 - **[Best SAT Score](https://www.aimyflow.com/en/ai/bestsatscore-com)**
   - Best SAT Score is a digital SAT prep platform that helps students prepare for the exam with adaptive full-length practice tests, an expert-curated question bank, flashcards, score calculation, and AI-powered study...
@@ -2518,6 +2554,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - CharacterGen is an AI character generator that helps creators produce complete character design packages with turnarounds, expression sheets, poses, and outfit references from a photo or text description, mainly for...
   - *Suitable roles:* Graphic Designer, Independent Filmmaker, Fiction Writer, Content Creator +1 more
 
+- **[CharaVerse](https://www.aimyflow.com/en/ai/charaverse-chat)**
+  - CharaVerse is an AI character roleplay platform that helps users chat with customizable fictional personalities and create ongoing story-based conversations, mainly for roleplay fans and creative writers. In...
+  - *Suitable roles:* Fiction Writer, Content Creator, Social Media Content Creator, Copywriter +1 more
+
 - **[CharHub.ai](https://www.aimyflow.com/en/ai/charhub-ai)**
   - CharHub.ai is an AI character chat and discovery platform that helps users explore, create, and interact with characters, artwork, and fictional worlds, mainly for roleplay and character-based entertainment audiences....
   - *Suitable roles:* Fiction Writer, Content Creator, Social Media Content Creator, Copywriter +1 more
@@ -2581,6 +2621,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[ChatGPT Atlas](https://www.aimyflow.com/en/ai/chatgpt-com-atlas)**
   - ChatGPT Atlas is a macOS browser with ChatGPT built in that helps users get instant answers, summarize pages, compare products, analyze site content, and complete web tasks, mainly for people who want AI assistance...
   - *Suitable roles:* Software Engineer, Financial Analyst, Digital Marketing Director, Project Management Officer
+
+- **[ChatGPT Images 2.0](https://www.aimyflow.com/en/ai/chatgptimages2-io)**
+  - ChatGPT Images 2.0 uses GPT Image 2 for reasoning, web retrieval, file analysis, 8-image consistency, multilingual text, and up to 2K output.
+  - *Suitable roles:* Graphic Designer, Digital Marketing Director, Social Media Content Creator, Content Creator +1 more
 
 - **[ChatHawk](https://www.aimyflow.com/en/ai/chathawk-co)**
   - ChatHawk is a web tool that lets users ask one question and compare responses from GPT, Gemini, Claude, and Grok at the same time, helping people who want faster cross-model answers and consensus. For researchers,...
@@ -2748,6 +2792,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Cleancard](https://www.aimyflow.com/en/ai/cleancard-bio)**
   - Cleancard is a company developing a synthetic biology and AI approach to make cancer detection as easy to use as a pregnancy test, primarily for healthcare and diagnostic contexts. In AI-enabled clinical and lab...
   - *Suitable roles:* Healthcare Administrator, Medical Lab Technician, Molecular Biologist, Microbiologist +1 more
+
+- **[CleanStmt](https://www.aimyflow.com/en/ai/cleanstmt-com)**
+  - CleanStmt is an AI-powered bank statement converter that extracts transactions from PDFs, scans, or screenshots into clean Excel or QuickBooks-ready CSV files for CPAs, bookkeepers, and other accounting professionals....
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Cleanup.pictures](https://www.aimyflow.com/en/ai/cleanup-pictures)**
   - Cleanup.pictures is an AI photo retouching web app that removes unwanted objects, people, text, logos, watermarks, and defects from images, mainly for photographers, creative teams, real estate agents, and e-commerce...
@@ -3111,6 +3159,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Content Goblin](https://www.aimyflow.com/en/ai/contentgoblin-ai)**
   - Content Goblin is an AI content generator that helps website owners, bloggers, and Pinterest-focused publishers create listicle articles, recipe content, images, and Pinterest pins quickly from a topic. For content...
   - *Suitable roles:* Copywriter, Social Media Content Creator, Content Creator, Digital Marketing Director +1 more
+
+- **[Content True](https://www.aimyflow.com/en/ai/contenttrue-org)**
+  - Content True is an AI content detection tool that helps users check whether text was generated by AI, mainly for people reviewing written content in Japanese and other supported languages. For editors, educators, and...
+  - *Suitable roles:* Technical Writer, College Professor, Teacher, Content Creator +1 more
 
 - **[ContentBeast](https://www.aimyflow.com/en/ai/contentbeast-com)**
   - ContentBeast is an automated blog writing and SEO tool that researches keywords, creates optimized articles with images and links, and publishes them to websites on a schedule for marketers, founders, agencies, and...
@@ -4434,6 +4486,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - ferranfigueredo.com is the portfolio website of Ferran Figueredo, a product developer who builds digital products, web and mobile applications, technology services, and AI solutions, mainly for entrepreneurs and people...
   - *Suitable roles:* Software Engineer, CEO, Software Development Manager, Content Creator
 
+- **[FerryAPI](https://www.aimyflow.com/en/ai/ferryapi-io)**
+  - Low-cost OpenAI-compatible AI API gateway for global businesses. Use DeepSeek, Qwen, Kimi and MiMo for support, translation, summaries and automation.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Fetchr](https://www.aimyflow.com/en/ai/fetchr-so)**
   - Fetchr is an AI personal shopping app for clothing that helps users describe their style and needs, then has the service select items, deliver them for try-on, and charge only for what they keep, mainly for people who...
   - *Suitable roles:* Fashion Designer, Ecommerce Seller, Content Creator
@@ -4521,6 +4577,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Fixkey](https://www.aimyflow.com/en/ai/fixkey-ai)**
   - Fixkey is a native AI writing assistant for Mac that helps users turn typed or spoken input into polished text, rewrite messages, translate content, and control formatting across any macOS app, mainly for Mac users who...
   - *Suitable roles:* Copywriter, Technical Writer, CEO, Content Creator +1 more
+
+- **[FixPixelatedPhotos](https://www.aimyflow.com/en/ai/fixpixelatedphotos-com)**
+  - FixPixelatedPhotos is an AI photo enhancer that restores pixelated, blurry, low-resolution, and damaged old photos for families and other people sharing or preserving images. It helps photographers, archivists, and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Fizzly AI](https://www.aimyflow.com/en/ai/fizzly-ai)**
   - Fizzly AI is a creative generation platform that helps creators and marketers produce AI images, videos, and custom characters for branded content. It shortens production cycles for visual teams, making it easier to...
@@ -4718,6 +4778,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - FragCut is an AI gaming clip generator that helps streamers and gaming content creators turn long gameplay videos or Twitch VODs into short vertical highlights with auto-detected moments, subtitles, and basic editing...
   - *Suitable roles:* Social Media Content Creator, Content Creator, Podcast Producer, Copywriter +1 more
 
+- **[Frame Extractor](https://www.aimyflow.com/en/ai/frame-extractor-video)**
+  - Frame Extractor is a browser-based video frame extractor that helps users capture single or batch still images from video files without uploading them, mainly for content creators, designers, educators, and...
+  - *Suitable roles:* Content Creator, Graphic Designer, Teacher, Technical Writer +1 more
+
 - **[FrameCall](https://www.aimyflow.com/en/ai/framecall-com)**
   - FrameCall is an AI-powered animated video creation tool that lets users describe a logo animation, intro, motion graphic, or social video in plain English and export it as an MP4, mainly for creators, marketers, indie...
   - *Suitable roles:* Digital Marketing Director, Social Media Content Creator, Content Creator, Graphic Designer +1 more
@@ -4730,6 +4794,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Frase is an agentic SEO and GEO platform that researches competitors, helps create and optimize content, and tracks visibility across Google and AI search tools, mainly for content marketers, SEO teams, agencies, and...
   - *Suitable roles:* Digital Marketing Director, Copywriter, Content Creator, Technical Writer +1 more
 
+- **[Free AI Detector 2026: AI Text Checker, No Signup](https://www.aimyflow.com/en/ai/eyesift-com-text-analysis)**
+  - Free AI detector online for ChatGPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi and Manus text. Paste text for browser-only AI-writing triage, reliability warnings, confidence, and copyable review summary.
+  - *Suitable roles:* Education Technology Consultant, Teacher, School Counselor, Project Management Officer
+
 - **[Free AI text humanizer that](https://www.aimyflow.com/en/ai/humantone-ai)**
   - Free AI text humanizer that turns ChatGPT, Claude, and Gemini drafts into natural human writing. No signup required, 6 modes, meaning stays the same.
   - *Suitable roles:* Copywriter, Digital Marketing Director, Content Creator, Technical Writer +1 more
@@ -4741,6 +4809,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Free Online AI Baby Generator](https://www.aimyflow.com/en/ai/ai-babygenerator-com)**
   - Discover our Free Online AI Baby Generator, predict your future baby's look in seconds. Upload photos, get high - res, watermark - free images. Privacy - protected, 24/7 service. Try now!
   - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
+- **[Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/en/ai/weddingspeech-xyz)**
+  - Create free wedding speech templates and examples—best man, maid of honor, parent, or funny wedding speeches. Get three personalized AI drafts in minutes.
+  - *Suitable roles:* Copywriter, Content Creator, Fiction Writer, Technical Writer
 
 - **[freebeat.ai](https://www.aimyflow.com/en/ai/freebeat-ai)**
   - freebeat.ai is an AI music video generator that turns songs or music links into rhythm-synced dance videos, lyric videos, and storytelling music videos, mainly for independent musicians, artists, dancers,...
@@ -4854,6 +4926,9 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Gavin is an AI conversational support companion from The Solemn Sir that helps men talk through stress, relationships, fatherhood, work, and personal reflection in a private, stigma-free space. For men’s community...
   - *Suitable roles:* Wellness Coach, School Counselor, Corporate Leadership Coach, Healthcare Administrator
 
+- **[Gemheaven.org](https://www.aimyflow.com/en/ai/gemheaven-org)**
+  - Gemheaven.org is a mineral and gemstone database with crystal guides and diamond grading resources that helps gemologists, jewelry professionals, students, and collectors research stones and their properties. In...
+
 - **[Gemini Audio](https://www.aimyflow.com/en/ai/deepmind-google-models-gemini-audio)**
   - Gemini Audio is Google DeepMind’s real-time audio model for building conversational audio agents, speech translation, audio generation, and audio understanding, mainly for developers creating voice-enabled...
   - *Suitable roles:* Software Engineer, Technical Writer, Project Management Officer, Content Creator
@@ -4861,6 +4936,14 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Gemini Code Assist](https://www.aimyflow.com/en/ai/cloud-google-com-products-gemini-code-assist)**
   - Gemini Code Assist is Google’s AI-assisted coding tool for teams and businesses, helping developers create, explain, transform, and troubleshoot code across IDEs, the terminal, and parts of the software development...
   - *Suitable roles:* Software Engineer, Software Development Manager, IT Infrastructure Manager, CEO
+
+- **[Gemini Omni AI Video Generator](https://www.aimyflow.com/en/ai/jxp-com-gemini-omni)**
+  - Gemini Omni AI Video Generator is a JXP tool for creating and editing multimodal AI video from text, images, video, and audio references, mainly for creators working on iterative video production. For video editors and...
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Graphic Designer, Copywriter +1 more
+
+- **[Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/en/ai/omnigemini-io)**
+  - Use Gemini Omni with text, image, video, and audio inputs to generate video drafts, then keep editing shots, subjects, style, and pacing in natural language.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Digital Marketing Director, Copywriter +1 more
 
 - **[GeminiGen AI](https://www.aimyflow.com/en/ai/geminigen-ai)**
   - GeminiGen AI is a multimodal content generation platform that helps users create AI-generated images, videos, and speech from prompts. It gives creators and experimental media teams faster ways to prototype rich...
@@ -5254,6 +5337,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - groas is an autonomous AI platform for Google Search advertising that creates and optimizes ads and landing pages by search term, mainly for businesses and marketers running Google Ads campaigns. For PPC managers,...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, CEO, Field Sales Manager +1 more
 
+- **[Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/en/ai/xmk-com-grok-imagine-grok-imagine-1-5)**
+  - Use Grok Imagine 1.5 AI Video Generator for image-to-video creation. Turn a still image into a 1-15s clip with prompts, audio, and 480p or 720p output.
+  - *Suitable roles:* Content Creator, Digital Marketing Director, Graphic Designer, Copywriter +1 more
+
 - **[Groops](https://www.aimyflow.com/en/ai/groops-com)**
   - Groops is an AI SEO tool that generates 3 to 100 unique landing pages from one product, business, book, or service description to help users capture more search traffic, mainly for authors, local services, ecommerce...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Copywriter +1 more
@@ -5296,6 +5383,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Hairstyle AI](https://www.aimyflow.com/en/ai/hair-style-ai)**
   - Hairstyle AI is a free online hairstyle simulator that lets people upload a selfie to preview 60+ haircuts and 19 hair colors, mainly for men and women deciding which look suits them before a salon visit. For barbers,...
 
+- **[HairstylesPro](https://www.aimyflow.com/en/ai/hairstylespro-com)**
+  - HairstylesPro is an AI haircut try-on tool that lets users upload a photo and preview 200+ hairstyle options across lengths, textures, and categories, mainly for people choosing a new haircut or color before a salon...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Hal9 Startups](https://www.aimyflow.com/en/ai/hal9-com)**
   - Hal9 Startups is a fully managed autonomous AI platform and service that helps startup founders design, build, launch, and scale AI-powered products such as chatbots, agents, apps, websites, and extensions. For...
   - *Suitable roles:* CEO, Software Development Manager, Software Engineer, Project Management Officer +1 more
@@ -5319,6 +5410,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[HAPPYBET188](https://www.aimyflow.com/en/ai/magician-design)**
   - HAPPYBET188 is an online gambling platform that lets users play slots, live casino, sports betting, togel, poker, and other games, mainly for Indonesian players seeking a multi-game betting site. In an AI-driven search...
   - *Suitable roles:* Digital Marketing Director, Content Creator
+
+- **[HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/en/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)**
+  - Use HappyHorse 1.0 AI Video Generator to turn text or images into ready-to-share 720p or 1080p videos for ads, social content, and product demos. Start creating now.
+  - *Suitable roles:* Content Creator, Digital Marketing Director, Ecommerce Seller, Social Media Content Creator +1 more
 
 - **[HappySRT](https://www.aimyflow.com/en/ai/happysrt-com)**
   - HappySRT is an open-source web app that helps users transcribe audio and video, translate content into multiple languages, and generate summaries, mainly for people who need to process spoken media efficiently. For...
@@ -5366,6 +5461,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Hazel AI](https://www.aimyflow.com/en/ai/hazelai-com)**
   - Hazel AI is government procurement software that uses AI to help public agencies draft RFx solicitations, identify certified vendors, and evaluate responses while aligning with agency templates and compliance...
   - *Suitable roles:* COO, Project Management Officer, Branch Office Manager, Nonprofit Program Manager
+
+- **[Headcanon Generator](https://www.aimyflow.com/en/ai/headcanon-me)**
+  - Headcanon Generator is an AI writing tool that helps fandom writers create character headcanons, relationship ideas, backstories, and AU concepts from a character name and optional context. For fanfiction writers and...
+  - *Suitable roles:* Fiction Writer, Content Creator, Social Media Content Creator, Copywriter +1 more
 
 - **[HeadshotBook](https://www.aimyflow.com/en/ai/headshotbook-com)**
   - HeadshotBook is an AI headshot generator that turns a few uploaded selfies into studio-style professional headshots for LinkedIn, resumes, presentations, team photos, and executive profiles, mainly for job seekers,...
@@ -5548,6 +5647,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - humaniz.app is a free AI humanizer that converts AI-generated text into more natural, human-like writing for anyone creating or editing content. It can help writers, marketers, students, and similar roles polish drafts...
   - *Suitable roles:* Copywriter, Content Creator, Technical Writer, Teacher +1 more
 
+- **[Humaniz.app](https://www.aimyflow.com/en/ai/humaniz-app)**
+  - Humaniz.app is a free AI text humanizer that rewrites AI-generated content into more natural writing, mainly for creators, marketers, students, and researchers who need more human-sounding text. For content and...
+  - *Suitable roles:* Copywriter, Content Creator, Digital Marketing Director, Technical Writer
+
 - **[Humanize](https://www.aimyflow.com/en/ai/humanize-sh)**
   - Humanize is an AI text humanizer and detector that rewrites content from tools like ChatGPT, Gemini, and Claude into more natural-sounding writing, mainly for students, writers, and professionals refining AI-assisted...
   - *Suitable roles:* Copywriter, Technical Writer, Digital Marketing Director, Content Creator +1 more
@@ -5604,6 +5707,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Hyring is AI recruiting software that helps recruiters and HR teams automate resume screening, phone screening, video interviews, coding interviews, and English proficiency assessments to shortlist candidates faster....
   - *Suitable roles:* Talent Acquisition Manager, Employee Relations Manager, Software Development Manager, Online Coding Tutor
 
+- **[I2V](https://www.aimyflow.com/en/ai/i2v-ai)**
+  - I2V is an AI video generation platform for creators and media professionals that turns text, images, or audio into short multi-shot cinematic videos with integrated audio, consistent characters, and MP4 export. For...
+  - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Graphic Designer +1 more
+
 - **[iA Presenter](https://www.aimyflow.com/en/ai/ia-net-presenter)**
   - iA Presenter is a macOS presentation app that helps users turn written drafts, notes, and markdown-style text into slides, speaker notes, and exportable handouts, mainly for people who build presentations from writing...
   - *Suitable roles:* College Professor, Project Management Officer, Technical Writer, School Counselor +1 more
@@ -5659,6 +5766,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[illustration.app](https://www.aimyflow.com/en/ai/illustraai-com)**
   - illustration.app is an AI illustration generator that helps users create custom, consistent vector illustrations and packs for websites, apps, presentations, and marketing materials, mainly for product teams,...
   - *Suitable roles:* Graphic Designer, Digital Marketing Director, Copywriter, Content Creator +1 more
+
+- **[Image 2](https://www.aimyflow.com/en/ai/imagev2-org)**
+  - Image 2 is a multi-model AI image generator and editor with GPT Images 2.0, Nano Banana 2, Seedream 5 Lite, and more for text-to-image, image-to-image, reference editing, posters, ads, and ecommerce visuals.
+  - *Suitable roles:* Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator +1 more
 
 - **[Image Editor Online](https://www.aimyflow.com/en/ai/imageeditor-online)**
   - Image Editor Online is a browser-based AI image editor that helps users edit, crop, enhance, remove backgrounds, and apply style changes with text prompts, mainly for beginners and people creating portraits, product...
@@ -5911,6 +6022,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[InstantMind](https://www.aimyflow.com/en/ai/instantmind-ai)**
   - InstantMind is an AI mind map generator and summarizer that turns text, documents, images, web pages, and YouTube videos into visual mind maps, outlines, and content summaries for students, researchers, and other...
   - *Suitable roles:* College Professor, Education Technology Consultant, Technical Writer, Project Management Officer +1 more
+
+- **[InstaPV](https://www.aimyflow.com/en/ai/instapv-ai)**
+  - InstaPV is a web-based anonymous viewer for public Instagram stories, profiles, posts, reels, highlights, and recent-followed activity, helping users browse without logging in, mainly for people monitoring public...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Content Creator, Food Enthusiast
 
 - **[Instavibes](https://www.aimyflow.com/en/ai/instavibes-app)**
   - Instavibes is an AI optical sampler that turns photos into playable, royalty-free audio samples and synthesizer textures, mainly for music producers and sound designers creating tracks in DAWs like Ableton Live, FL...
@@ -6283,6 +6398,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Klariqo](https://www.aimyflow.com/en/ai/klariqo-com)**
   - Klariqo is an AI voice agent platform for enterprise call centers and outbound sales teams that qualifies leads, detects voicemails, and transfers warm calls through direct dialer and SIP integrations. For call center...
   - *Suitable roles:* Field Sales Manager, E-commerce Sales Head, COO, Project Management Officer +1 more
+
+- **[Kling 3.0 AI Video Generator](https://www.aimyflow.com/en/ai/jxp-com-kling-kling-3-0)**
+  - Kling 3.0 AI Video Generator creates cinematic multi-shot videos with native audio, character consistency, and precise storyboard control.
+  - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter +1 more
 
 - **[Kling 3.0 Motion Control](https://www.aimyflow.com/en/ai/kling3-io-motion-control)**
   - Kling 3.0 Motion Control is an AI motion transfer tool that extracts movement from 3–30 second videos and applies it to static character images, helping creators, animators, and marketers produce character animation,...
@@ -6915,6 +7034,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - LTX is a web-based AI video production studio that helps creative teams, marketers, filmmakers, and advertisers turn scripts, concepts, images, and videos into storyboards, visual assets, and production-ready videos....
   - *Suitable roles:* Content Creator, Copywriter, Social Media Content Creator, Independent Filmmaker +1 more
 
+- **[Ltx 2.3](https://www.aimyflow.com/en/ai/jxp-com-ltx-ltx-2-3)**
+  - Ltx 2.3 is an AI video generator for creators and production teams that makes 4K text-, image-, and audio-driven videos. It can help video marketers and editors iterate faster with better prompt adherence, smoother...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Independent Filmmaker, Software Engineer
+
 - **[LTX Model](https://www.aimyflow.com/en/ai/ltx-video)**
   - LTX Model is a multimodal video generation model that helps developers, product teams, studios, and enterprises generate, animate, and edit production-grade video from text, image, audio, and video inputs via API, open...
   - *Suitable roles:* Software Engineer, Software Development Manager, Independent Filmmaker, Content Creator +1 more
@@ -7158,6 +7281,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - MakeShot AI Video Generator is an online AI video creation platform that turns text prompts or static images into videos with options like native audio and multiple generation models, mainly for creators, marketers,...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Copywriter +1 more
 
+- **[Manga Translator – AI Translate Manga](https://www.aimyflow.com/en/ai/mangatranslator-me)**
+  - Translate manga, manhwa & webtoons instantly with Mee. AI-powered manga translator preserves layout, gives accurate translations. Read online or download images.
+  - *Suitable roles:* Content Creator, Technical Writer, Copywriter
+
 - **[MangaMaker](https://www.aimyflow.com/en/ai/mangamaker-app)**
   - MangaMaker is a web-based AI manga and comic creator that helps users generate full pages with consistent characters, panel layouts, speech bubbles, and manga-style text, mainly for creators who want to make manga,...
   - *Suitable roles:* Content Creator, Fiction Writer, Independent Filmmaker, Graphic Designer +1 more
@@ -7325,6 +7452,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Melodusk is an AI music generator that helps users create original songs, instrumentals, vocals, and stem splits from text prompts, mainly for content creators, musicians, and video, podcast, or game production teams....
   - *Suitable roles:* Content Creator, Social Media Content Creator, Podcast Producer, Digital Marketing Director +1 more
 
+- **[MeloLab — Free AI Music Generator](https://www.aimyflow.com/en/ai/melolab-ai)**
+  - Generate royalty-free AI music in seconds. Create songs with vocals, background music, and custom soundtracks from text descriptions. Free to start, no credit card required.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Podcast Producer, Independent Filmmaker +1 more
+
 - **[Mem](https://www.aimyflow.com/en/ai/get-mem-ai)**
   - Mem is an AI-powered notes app that helps users capture, organize, recall, and chat with their notes, meetings, research, and web content, mainly for knowledge workers who need one place for information. For roles like...
   - *Suitable roles:* CEO, Project Management Officer, Technical Writer, Software Engineer +1 more
@@ -7420,6 +7551,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Mesh](https://www.aimyflow.com/en/ai/usemesh-com)**
   - Mesh is an accrual automation tool that helps mid-to-enterprise finance teams replace manual spreadsheets by aggregating procurement, invoice, contract, and messaging data to calculate accruals and prepaids with...
   - *Suitable roles:* Certified Public Accountant, CFO, Financial Planning & Analysis Manager, Financial Analyst
+
+- **[Messy files to spreadsheet workflows](https://www.aimyflow.com/en/ai/messy2sheet-com)**
+  - Upload a PDF, screenshot, email, CSV, spreadsheet, or pasted text. Messy2Sheet makes a table you can check, export, and reuse for the next file like it.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Meta AI Studio](https://www.aimyflow.com/en/ai/ai-meta-com-ai-studio)**
   - Meta AI Studio is a tool for creating custom conversational AI characters and creator AIs that chat on Messenger, Instagram, and WhatsApp, mainly for consumers and creators who want to build interest-based assistants...
@@ -7739,6 +7874,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Murf AI is an AI voice platform for developers, creators, and localization teams that helps users generate realistic text-to-speech voiceovers, build voice agents, and dub or translate audio and video in multiple...
   - *Suitable roles:* Content Creator, Software Engineer, Technical Writer, Copywriter +1 more
 
+- **[Musci.io - Best AI Music Generator](https://www.aimyflow.com/en/ai/musci-io)**
+  - Create professional AI music instantly with Musci.io. Generate royalty-free music from text, 100+ genres. The #1 AI music generator for creators.
+  - *Suitable roles:* Content Creator, Music Lover, Podcast Producer, Social Media Content Creator +1 more
+
 - **[MuseCraft.AI](https://www.aimyflow.com/en/ai/musecraft-ai)**
   - MuseCraft.AI is an all-in-one AI creation platform that helps creators, designers, and marketers generate images and videos from text or images, while also offering background removal and portrait skin enhancement...
   - *Suitable roles:* Content Creator, Graphic Designer, Digital Marketing Director, Ecommerce Seller +1 more
@@ -7762,6 +7901,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[MusicHero.ai](https://www.aimyflow.com/en/ai/musichero-ai)**
   - MusicHero.ai is an AI music generator that helps creators turn text or lyrics into music and also offers vocal removal, lyric writing, sound effects, and MP4 lyric video creation, mainly for musicians, content...
   - *Suitable roles:* Content Creator, Podcast Producer, Social Media Content Creator, Copywriter +1 more
+
+- **[MusicMake.ai](https://www.aimyflow.com/en/ai/musicmake-ai)**
+  - Start with an idea, create a first song, then keep shaping it with Music Agent, covers, remixes, vocal tools, and focused edits.
+  - *Suitable roles:* Podcast Producer, Content Creator, Social Media Content Creator, Copywriter +1 more
 
 - **[MusicMaker.im Image to Music](https://www.aimyflow.com/en/ai/musicmaker-im-image-to-music)**
   - MusicMaker.im Image to Music is an AI music generator that turns uploaded images into royalty-free songs or background music, mainly for content creators, marketers, filmmakers, animators, and music producers. In...
@@ -8524,6 +8667,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Oway is an industrial intelligence and automated distribution platform that helps businesses ship 1 to 12+ pallet LTL freight and helps carriers monetize unused truck capacity through instant quotes, routing, and...
   - *Suitable roles:* Logistics Operations Planner, COO, Branch Office Manager, IT Infrastructure Manager +1 more
 
+- **[P Video](https://www.aimyflow.com/en/ai/pvideo-app)**
+  - P Video turns prompts, images, portraits, motion references, and replacement images into short AI videos in your browser for social clips and drafts.
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Content Creator, Copywriter +1 more
+
 - **[PageAI](https://www.aimyflow.com/en/ai/pageai-pro)**
   - PageAI is an AI website builder for professionals, especially developers, that turns a prompt into a production-ready website with design, code, SEO, blog features, and drag-and-drop customization. For web developers...
   - *Suitable roles:* Software Engineer, Software Development Manager, Digital Marketing Director, Copywriter +1 more
@@ -8547,6 +8694,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Paintit.ai](https://www.aimyflow.com/en/ai/paintit-ai)**
   - Paintit.ai is an AI interior design tool that helps users upload room images or prompts to redesign, repaint, stage, and refine interiors, exteriors, and commercial spaces, mainly for design professionals, real estate...
   - *Suitable roles:* Interior Designer, Real Estate Agent, Commercial Architect, Graphic Designer +1 more
+
+- **[PaioClaw](https://www.aimyflow.com/en/ai/paioclaw-ai)**
+  - PaioClaw gives you a private, always-on AI assistant powered by your own API keys. No Docker, no command line — sign up and it's ready in 60 seconds.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Pair AI](https://www.aimyflow.com/en/ai/pairai-com)**
   - Pair AI is an AI-assisted technical hiring platform that helps companies assess software engineering candidates through practical, timed coding competitions instead of resume screening or LeetCode-style interviews,...
@@ -8742,6 +8893,9 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Petalica Paint is an AI-powered painting and sketch refinement web service that helps users color line art, apply painting styles, and simplify sketches, mainly for illustrators and digital artists. For creative...
   - *Suitable roles:* Graphic Designer, Content Creator, Fashion Designer, Independent Filmmaker +1 more
 
+- **[PetStory.pro](https://www.aimyflow.com/en/ai/petstory-pro)**
+  - Generate clear personality reports for cats and dogs, with behavior insights, bonding routines, and practical daily guidance for pet owners.
+
 - **[Pharos](https://www.aimyflow.com/en/ai/pharos-health)**
   - Pharos is an AI-powered hospital quality and patient safety platform that automates chart abstraction, reporting, root cause analyses, audits, and quality improvement tracking for hospital quality and risk teams. For...
   - *Suitable roles:* Healthcare Administrator, Occupational Health Specialist, IT Infrastructure Manager, Project Management Officer
@@ -8801,6 +8955,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[PhotoUpscaler](https://www.aimyflow.com/en/ai/photoupscaler-ai)**
   - PhotoUpscaler is an AI photo upscaler that helps users enlarge and enhance low-resolution images by sharpening details, reducing noise, and increasing resolution, mainly for photographers, content creators, and...
   - *Suitable roles:* Graphic Designer, Social Media Content Creator, Digital Marketing Director, Ecommerce Seller +1 more
+
+- **[Physics AI](https://www.aimyflow.com/en/ai/physicsai-chat)**
+  - Physics AI is an online physics solver and tutor that helps students solve and understand physics problems from typed questions or uploaded images with step-by-step explanations and diagrams. For students and...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Pic Copilot](https://www.aimyflow.com/en/ai/piccopilot-com-home)**
   - Pic Copilot is an AI product image and fashion model creation tool that helps e-commerce teams generate product photos, virtual try-ons, localized visuals, and marketing assets, especially for fashion brands and online...
@@ -9571,6 +9729,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Rastro is an AI catalog operations platform that helps distributors enrich product data, fill content gaps, benchmark prices, and launch products faster, mainly for teams managing large SKU catalogs and complex...
   - *Suitable roles:* E-commerce Sales Head, Ecommerce Seller, Project Management Officer, COO +1 more
 
+- **[Ray 3.2 AI Video Generator](https://www.aimyflow.com/en/ai/ray32-app)**
+  - Use the Ray 3.2 AI Video Generator to direct video frame by frame. 16 keyframes, 1080p HDR, 20-second clips, EXR export. Free starter credits, no card needed.
+  - *Suitable roles:* Independent Filmmaker, Graphic Designer, Content Creator, Digital Marketing Director +1 more
+
 - **[rct AI](https://www.aimyflow.com/en/ai/rct-ai)**
   - Providing AI solutions to the game industry
   - *Suitable roles:* Software Development Manager, Software Engineer, Independent Filmmaker, Content Creator +1 more
@@ -9622,6 +9784,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[RealRoots](https://www.aimyflow.com/en/ai/therealroots-com)**
   - RealRoots is a friendship matchmaking service that helps women ages 21 and up meet curated groups in their city through guided in-person experiences and a six-week series, mainly for women seeking new local...
   - *Suitable roles:* Wellness Coach, Nonprofit Program Manager, Community College Instructor, Project Management Officer +1 more
+
+- **[reAPI](https://www.aimyflow.com/en/ai/reapi-ai)**
+  - reAPI is an AI API aggregator that gives developers and engineering teams one OpenAI-compatible endpoint to access leading image, video, chat, music, and code models with automatic failover and zero request logging. In...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Rebel Audio](https://www.aimyflow.com/en/ai/rebelaudio-ai)**
   - Rebel Audio is a social podcasting platform that helps podcasters turn audio or video into podcast episodes, titles, descriptions, cover art, transcripts, translated versions, and social clips, then publish across...
@@ -10351,9 +10517,21 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Seedance 2.0 is an AI video generator that turns text or images into cinematic videos with multi-shot storytelling, audio generation, and editing controls, mainly for creators, marketers, and filmmakers. In AI-driven...
   - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller +1 more
 
+- **[Seedance 2.0 - Free AI Video Generator](https://www.aimyflow.com/en/ai/seedance2-so)**
+  - Create cinematic AI videos with Seedance 2.0. Text-to-video, image-to-video, native audio. The Seedance 2.0 AI video generator. Free to start.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
+
 - **[Seedance 2.0 AI Video Generator](https://www.aimyflow.com/en/ai/seedances-app)**
   - Seedance 2.0 delivers breakthrough AI video generation with 2K resolution and native audio support. Create cinematic videos from text or images with advanced multimodal input. Seedance 2 transforms your creative vision...
   - *Suitable roles:* Content Creator, Graphic Designer, Independent Filmmaker
+
+- **[Seedance 2.0 Mini](https://www.aimyflow.com/en/ai/seedance2mini-ai)**
+  - Seedance 2.0 Mini is an AI video generator for creating short cinematic clips from text prompts or images, mainly for creators and marketers producing ads, promos, and social video. For marketing and creative teams, it...
+  - *Suitable roles:* Digital Marketing Director, Social Media Content Creator, Content Creator, Copywriter +1 more
+
+- **[Seedance 2.0/1.5 Pro](https://www.aimyflow.com/en/ai/xmk-com-seedance)**
+  - Seedance 2.0/1.5 Pro is an AI video generator on xmk that helps users create cinematic videos from text, images, audio, and video references, mainly for creators, marketers, and production teams. Its multimodal control...
+  - *Suitable roles:* Social Media Content Creator, Digital Marketing Director, Podcast Producer, Independent Filmmaker +1 more
 
 - **[Seek](https://www.aimyflow.com/en/ai/seek-ai)**
   - Seek offers powerful AI for data analytics. Our natural language interface for data lets you ask your data questions in plain English and extract data insights in real-time.
@@ -10825,6 +11003,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Songtell is an AI-powered website that helps music listeners discover the meaning and stories behind song lyrics, mainly for fans who want to understand their favorite songs more deeply. For music writers, editors, and...
   - *Suitable roles:* Music Lover, Content Creator, Copywriter, Technical Writer +1 more
 
+- **[SongUnique](https://www.aimyflow.com/en/ai/songunique-com)**
+  - SongUnique is a custom song creation service that turns a customer’s story, memories, and occasion into an original studio-produced song, mainly for people buying personalized gifts for family, partners, or milestone...
+  - *Suitable roles:* Content Creator, Copywriter, Concert Promoter, Music Lover
+
 - **[Sonia](https://www.aimyflow.com/en/ai/soniahealth-com)**
   - Sonia is an AI emotional support companion that offers voice and text wellbeing sessions, meditations, journaling, recommendations, and exercises, built on CBT and ACT frameworks for people who need accessible mental...
   - *Suitable roles:* Wellness Coach, Healthcare Administrator, Nonprofit Program Manager, School Counselor +1 more
@@ -11200,6 +11382,14 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - StylePal is an AI fashion assistant app that helps people choose between two outfits by uploading photos and receiving instant style ratings, mainly for individuals making everyday clothing decisions on iOS and...
   - *Suitable roles:* Fashion Designer, Content Creator, Real Estate Agent
 
+- **[Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/en/ai/aitoolsobserver-com-submit)**
+  - Submit your AI tool to AiToolsObserver for free and gain visibility through editorial content, rankings, AI discovery, and curated tool listings.
+  - *Suitable roles:* Digital Marketing Director, CEO, Software Development Manager, Copywriter +1 more
+
+- **[Subnautica 2 Interactive Map](https://www.aimyflow.com/en/ai/subnautica2map-org)**
+  - Subnautica 2 Interactive Map is a fan-made navigator that helps Early Access players compare nearby resource coordinates from raw XYZ values. As AI game guides multiply, build-pinned data helps wiki editors and guide...
+  - *Suitable roles:* Content Creator, Technical Writer, Copywriter, Social Media Content Creator
+
 - **[Subsets](https://www.aimyflow.com/en/ai/subsets-com)**
   - Subsets is an AI retention automation platform for consumer subscription businesses that helps commercial teams predict churn audiences, run and analyze A/B tests, and turn successful lifecycle strategies into...
   - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Data Scientist, Financial Analyst +1 more
@@ -11222,6 +11412,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[SUFY](https://www.aimyflow.com/en/ai/sufy-com)**
   - SUFY provides CDN and scalable object storage services that help businesses deliver content faster and manage cloud assets reliably, mainly for developers, IT teams, and digital platforms. In the AI era, faster asset...
   - *Suitable roles:* Software Engineer, Data Engineer, Data Scientist, Cybersecurity Analyst +6 more
+
+- **[Sulphur 2](https://www.aimyflow.com/en/ai/sulphur2ai-com)**
+  - Sulphur 2 is an open-weights AI video model on LTX 2.3, fine-tuned on 125k clips. No GPU needed. Generate text-to-video free in your browser — try now.
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Digital Marketing Director, Graphic Designer +1 more
 
 - **[SummaryGenerator.io](https://www.aimyflow.com/en/ai/summarygenerator-io)**
   - SummaryGenerator.io is an AI text summarizer that condenses pasted or uploaded text into short or long summaries in paragraph or bullet-point form, mainly for students, researchers, writers, and readers reviewing...
@@ -11321,6 +11515,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Supplement Scanner: Amino](https://www.aimyflow.com/en/ai/apps-apple-com-us-app-supplement-scanner-amino-id6744544982)**
   - Supplement Scanner: Amino is an iPhone health and fitness app that helps people scan, analyze, and track supplements for ingredient safety, effectiveness, and cleaner alternatives, mainly for users focused on fitness,...
   - *Suitable roles:* Wellness Coach, Food Enthusiast, Healthcare Administrator
+
+- **[SupplyWhy](https://www.aimyflow.com/en/ai/supplywhy-ai)**
+  - SupplyWhy is an AI profit intelligence platform for automotive supply chain teams to improve profitability, cash flow, resilience, and planning. Its domain-trained agents help planners and operations leaders make...
+  - *Suitable roles:* Logistics Operations Planner, Factory Operations Supervisor, COO, CFO +1 more
 
 - **[Support Flow TAAFT](https://www.aimyflow.com/en/ai/pixiebrix-com-product-support-flow-taaft)**
   - Support Flow TAAFT is an AI copilot from PixieBrix that helps B2B customer support and technical support teams resolve cases faster by surfacing contextual content, live data, and actions across their existing tools....
@@ -11817,6 +12015,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - This page is a news article outlining eight AI trends for 2025, helping technology professionals and business decision-makers understand developments such as AI safety, autonomous agents, federated learning, edge AI,...
   - *Suitable roles:* Software Development Manager, CEO, Cybersecurity Manager, Project Management Officer +1 more
 
+- **[This submitted link](https://www.aimyflow.com/en/ai/youtu-be-m8am9-pjszy)**
+  - This submitted link is a YouTube video from Minika for the children's animation episode Maceracı Yüzgeçler - 24.Bölüm - Sevimli Mühendisler. It is cataloged as a media reference rather than a standalone AI tool, with...
+  - *Suitable roles:* Content Creator, Teacher, Social Media Content Creator
+
 - **[This tool](https://www.aimyflow.com/en/ai/airemovetextfromimage)**
   - This tool helps users remove text from images online with AI, mainly for designers and editors. It improves their work by automating text removal.
   - *Suitable roles:* Graphic Designer, Digital Marketing Director, E-commerce Sales Head, Software Engineer +1 more
@@ -11880,6 +12082,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Thyme, now transitioned to Hazel through a partnership with Altruist,](https://www.aimyflow.com/en/ai/meetthyme-com)**
   - Thyme, now transitioned to Hazel through a partnership with Altruist, is an AI platform for wealth professionals and financial advisors that supports meeting workflows, client onboarding, and document parsing so they...
   - *Suitable roles:* Financial Analyst, CFO, Investment Portfolio Manager, Financial Planning & Analysis Manager +1 more
+
+- **[TI84.io](https://www.aimyflow.com/en/ai/ti84-io)**
+  - TI84.io is a free browser-based TI-84 calculator simulator that helps users graph functions and perform algebra, statistics, matrix, and scientific calculations, mainly for students and teachers. In AI-era math...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Ticketify](https://www.aimyflow.com/en/ai/ticketify-io)**
   - Ticketify is an AI ticket generator that turns ideas or bug reports into structured tickets for Jira, Linear, and other project management platforms, mainly for developers. In AI-assisted software workflows, it can...
@@ -12095,6 +12301,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[TrendHopper](https://www.aimyflow.com/en/ai/trendhopper-ai)**
   - TrendHopper is an AI content automation and blog hosting platform that helps users plan, generate, optimize, and publish SEO-focused articles, mainly for bloggers, marketers, and businesses growing organic traffic. In...
   - *Suitable roles:* Digital Marketing Director, Copywriter, Social Media Content Creator, CEO +1 more
+
+- **[TrendVis](https://www.aimyflow.com/en/ai/trendvis-com)**
+  - TrendVis helps DTC teams ship creatives faster with a 6-step workflow: goal, trend assist, creative angles, image test, refine, and video upgrade.
+  - *Suitable roles:* Digital Marketing Director, E-commerce Sales Head, Social Media Content Creator, Copywriter +1 more
 
 - **[Triall](https://www.aimyflow.com/en/ai/triall-ai)**
   - Triall is an AI answer-checking tool that helps users catch hallucinations by having three models answer independently, review each other blind, and verify claims against live web sources, mainly for people who rely on...
@@ -12961,6 +13171,14 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Wallnora is an AI wall art studio that helps creators, decorators, and Etsy sellers generate artwork in multiple styles, preview it in room mockups with frames and lighting, and download 4K print-ready files. For...
   - *Suitable roles:* Interior Designer, Ecommerce Seller, Graphic Designer, Content Creator +1 more
 
+- **[Wan 2.7 AI Video Generator](https://www.aimyflow.com/en/ai/jxp-com-wan-wan-2-7)**
+  - Wan 2.7 AI Video Generator is a tool for turning prompts, images, and references into short videos, mainly for creators, brand teams, agencies, and educators. It can help video, marketing, and content teams produce and...
+  - *Suitable roles:* Content Creator, Digital Marketing Director, Social Media Content Creator, Ecommerce Seller +1 more
+
+- **[Wan 3.0](https://www.aimyflow.com/en/ai/wan3pro-com)**
+  - Wan 3.0 is Alibaba's upcoming open-source video model — 60B parameters, native 4K output, up to 30-second single-pass generation, and automated 2–5 minute multi-shot narratives. Be first to create with Wan 3.0 AI when...
+  - *Suitable roles:* Content Creator, Social Media Content Creator, Digital Marketing Director, Graphic Designer +1 more
+
 - **[Wan AI](https://www.aimyflow.com/en/ai/wan-video)**
   - Wan AI is an AI creative platform and video generation model that helps creators, designers, and visual storytellers produce text-to-video, image-to-video, image generation, image editing, and multi-shot narrative...
   - *Suitable roles:* Content Creator, Graphic Designer, Social Media Content Creator, Digital Marketing Director +1 more
@@ -13191,6 +13409,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
   - Wordware is an AI context lab whose main product, Sauna, is an intelligent workspace and AI assistant that helps users reclaim deep work by handling busywork, learning their preferences, spotting patterns, and...
   - *Suitable roles:* CEO, COO, Software Development Manager, Graphic Designer +1 more
 
+- **[Workforce Wave AI Receptionist](https://www.aimyflow.com/en/ai/workforcewave-com-solutions-ai-receptionist)**
+  - Workforce Wave AI Receptionist is an AI phone agent for small businesses in medical, dental, legal, and home services that answers calls, qualifies leads, books appointments, and routes requests. It helps reception and...
+  - *Suitable roles:* Branch Office Manager, Restaurant General Manager, Healthcare Administrator, Real Estate Agent +1 more
+
 - **[Workmate](https://www.aimyflow.com/en/ai/workmate-com)**
   - Workmate is an AI scheduling assistant that helps users coordinate meetings, manage availability, send follow-ups, and handle conflicts, mainly for busy professionals and teams with frequent calendar coordination...
   - *Suitable roles:* CEO, COO, Project Management Officer, Talent Acquisition Manager +1 more
@@ -13281,6 +13503,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[XJoy AI](https://www.aimyflow.com/en/ai/xjoy-ai)**
   - XJoy AI is an AI image tool that helps users animate photos, generate image variations from a single photo, change outfits in full-body images, and create kissing images from two uploads, mainly for people editing...
   - *Suitable roles:* Social Media Content Creator, Graphic Designer, Content Creator, Ecommerce Seller +1 more
+
+- **[XMACNA](https://www.aimyflow.com/en/ai/xmacna-ai)**
+  - XMACNA provides custom AI agents called Digital Employees that connect to systems and execute sales, customer service, operations, and back-office processes for businesses adopting AI. For sales and operations teams,...
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Independent Filmmaker, Digital Marketing Director +1 more
 
 - **[Xpoz](https://www.aimyflow.com/en/ai/xpoz-ai)**
   - Xpoz is a social intelligence MCP server and typed SDK that lets AI agents and developers search and analyze live social media data from X, Instagram, TikTok, and Reddit through natural language. For researchers,...
@@ -13457,6 +13683,10 @@ WisGate is a unified AI API gateway and studio for developers, creators, and tea
 - **[Zoom AI Companion](https://www.aimyflow.com/en/ai/zoom-com-en-ai-assistant)**
   - Zoom AI Companion is an AI assistant in Zoom Workplace that helps users draft emails and chat messages, summarize meetings and chat threads, and support brainstorming, mainly for teams and knowledge workers using Zoom...
   - *Suitable roles:* Project Management Officer, Software Development Manager, COO, Field Sales Manager +1 more
+
+- **[ZOOOP](https://www.aimyflow.com/en/ai/zooop-ai)**
+  - One infinite canvas links every top AI image, video, and audio model into a single scene — or open a focused generator page whenever you just need one shot. Storyboard, iterate, and publish templates, all in the browser.
+  - *Suitable roles:* Graphic Designer, Social Media Content Creator, Digital Marketing Director, Content Creator +1 more
 
 - **[ZOYO](https://www.aimyflow.com/en/ai/zoyo-ai)**
   - ZOYO is an AI-powered real estate toolkit that helps agents, brokerages, homeowners, designers, and builders create and improve property-related visual and marketing materials. In the AI era, it helps real estate...

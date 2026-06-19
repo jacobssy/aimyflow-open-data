@@ -22,9 +22,9 @@ lang: "zh"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3336</strong><span>工具数量</span></div>
+<div class="stat-card"><strong>3394</strong><span>工具数量</span></div>
 <div class="stat-card"><strong>221</strong><span>覆盖职业数</span></div>
-<div class="stat-card"><strong>2026-05-23</strong><span>生成时间</span></div>
+<div class="stat-card"><strong>2026-06-19</strong><span>生成时间</span></div>
 </div>
 
 ## 从这里开始
@@ -46,9 +46,19 @@ lang: "zh"
 
 <div class="tool-card" markdown="1">
 
-### [Voice Cleaner](https://www.aimyflow.com/zh/ai/voicecleaner-org)
+### [This submitted link](https://www.aimyflow.com/zh/ai/youtu-be-m8am9-pjszy)
 
-使用 VoiceCleaner 在线清理音频中的背景噪音，净化语音录音，并预览更清晰的播客或会议音频。
+这条提交链接是 Minika 的 YouTube 视频，内容为儿童动画剧集《Maceracı Yüzgeçler》第 24 集《Sevimli Mühendisler》。它作为媒体参考条目入库，而不是独立 AI 工具页面，并保留原始短链接以便审核和播放。
+
+**适合职业:** 内容创作者, 教师, 社交媒体内容创作者
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Astrocarto](https://www.aimyflow.com/zh/ai/astrocarto-org)
+
+Astrocarto 是一款免费的 AI 地理占星计算器，可将出生星盘映射到世界各地位置，并提供行星线解读和迁移洞察，主要面向占星师、搬迁规划者和占星爱好者。在 AI 辅助的位置分析中，它可以帮助占星师和迁移规划者更高效地评估职业、人际关系和个人成长模式。
 
 **适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
 
@@ -56,29 +66,9 @@ lang: "zh"
 
 <div class="tool-card" markdown="1">
 
-### [Image Layer Tool](https://www.aimyflow.com/zh/ai/imagelayer)
+### [Physics AI](https://www.aimyflow.com/zh/ai/physicsai-chat)
 
-使用 ImageLayer.net 将设计、产品和内容图片拆分为可编辑的透明图像图层，适用于 Photoshop、电商和内容工作流。
-
-**适合职业:** 平面设计师, 电商卖家, 内容创作者, 工业设计师, 软件工程师
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [StopScroll](https://www.aimyflow.com/zh/ai/stopscroll)
-
-StopScroll 是一款 AI 缩略图制作和选择工具，可生成多个缩略图选项，比较其优缺点，并在发布前推荐最佳封面，主要面向创作者和无脸频道。它可通过在上传前评估好奇心、可读性、对比度和点击潜力，帮助视频团队和内容创作者更快地做出发布决策。
-
-**适合职业:** 社交媒体内容创作者, 播客制作人, 文案策划, 内容创作者
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Remova](https://www.aimyflow.com/zh/ai/remova)
-
-Remova 是一个面向团队的企业级 AI 治理平台，使企业能够使用 ChatGPT、Claude、Gemini 以及 300 多个模型，并配备策略控制、敏感数据脱敏、基于角色的访问、审计可视化和预算管理。它帮助 IT、安全和运营团队减少数据泄露和 AI 误用，同时保持对模型访问和支出的可控。
+Physics AI 是一款在线物理解题与辅导工具，可通过输入文字题目或上传图片，帮助学生求解并理解物理问题，并提供分步讲解和示意图。对于学生和教育工作者，它可以加快题目检查，澄清推导过程，并通过可视化推理支持以概念为核心的学习。
 
 **适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
 
@@ -86,19 +76,129 @@ Remova 是一个面向团队的企业级 AI 治理平台，使企业能够使用
 
 <div class="tool-card" markdown="1">
 
-### [BookCoversLab](https://www.aimyflow.com/zh/ai/bookcoverslab)
+### [Ray 3.2 AI Video Generator](https://www.aimyflow.com/zh/ai/ray32-app)
 
-BookCoversLab 是一款面向独立出版者的 KDP 出版工具包，帮助创建、修复、验证并导出平装、精装和电子书封面，生成可直接印刷的 PDF 格式。它可以帮助作者、独立出版社和封面设计师更早发现裁切、出血、书脊和合规问题，从而减少上传返工。
+使用 Ray 3.2 AI 视频生成器逐帧导演视频。16 个关键帧，1080p HDR，20 秒片段，EXR 导出。免费入门额度，无需信用卡。
 
-**适合职业:** 电商卖家, 技术写作人员, 平面设计师, 小说作家, 内容创作者
+**适合职业:** 独立电影人, 平面设计师, 内容创作者, 数字营销总监, 社交媒体内容创作者
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [CodingPlan](https://www.aimyflow.com/zh/ai/codingplan)
+### [AI 3D Model Generator](https://www.aimyflow.com/zh/ai/next3d-ai)
 
-CodingPlan 是一个用于购买来自阿里巴巴、MiniMax、Kimi、GLM 和 Qwen 的 AI 编程套餐的平台，帮助开发者选择配额和模型能力相近但成本更低的套餐。对于程序员和工程团队，它可以在保持对适合编码工作流和基于 Agent 的开发工具的访问的同时，降低 AI 支出。
+使用 Next3D 在线创建 3D 模型。将图片或文本提示词在几分钟内转换为可预览、可编辑和可下载的 3D 资源。
+
+**适合职业:** 平面设计师, 工业设计师, 软件工程师, 电商销售负责人, 内容创作者
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AIeBookGen](https://www.aimyflow.com/zh/ai/aiebookgen-com)
+
+AIeBookGen 是一款 AI 电子书生成工具，可帮助自助出版作者和 KDP 图书卖家将创意、笔记、草稿或文字记录转换为结构化章节、元数据、审校备注以及 EPUB/PDF 导出包。在 AI 辅助出版工作流程中，它可帮助作者和编辑在交付平台之前，始终保持稿件结构、质量检查和上架素材的一致性。
+
+**适合职业:** 小说作家, 文案策划, 内容创作者, 电商卖家, 技术写作人员
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/zh/ai/omnigemini-io)
+
+使用 Gemini Omni，通过文本、图像、视频和音频输入生成视频草稿，然后以自然语言持续编辑镜头、主体、风格和节奏。
+
+**适合职业:** 内容创作者, 社交媒体内容创作者, 数字营销总监, 文案策划, 平面设计师
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/zh/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)
+
+使用 HappyHorse 1.0 AI 视频生成器，将文本或图片转换为可直接分享的 720p 或 1080p 视频，适用于广告、社交内容和产品演示。立即开始创作。
+
+**适合职业:** 内容创作者, 数字营销总监, 电商卖家, 社交媒体内容创作者, 平面设计师
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [P Video](https://www.aimyflow.com/zh/ai/pvideo-app)
+
+P Video 可在浏览器中将提示词、图像、人像、运动参考和替换图像转换为短篇 AI 视频，用于社交短片和草稿。
+
+**适合职业:** 社交媒体内容创作者, 数字营销总监, 内容创作者, 文案策划, 平面设计师
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Best AI Tools Directory (2026)](https://www.aimyflow.com/zh/ai/aigenerator-tools)
+
+按类别、价格、评价、排名和最新发布对 2,200 多款 AI 工具进行比较。查找 AI 视频生成器、写作工具、编码助手等。
+
+**适合职业:** 教育科技顾问, 软件开发经理, 数字营销总监, 项目管理专员, 数据科学家
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ChatGPT Images 2.0](https://www.aimyflow.com/zh/ai/chatgptimages2-io)
+
+ChatGPT Images 2.0 使用 GPT Image 2 进行推理、网页检索、文件分析、8 图一致性、多语言文本处理，并支持最高 2K 输出。
+
+**适合职业:** 平面设计师, 数字营销总监, 社交媒体内容创作者, 内容创作者, 教育科技顾问
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Frame Extractor](https://www.aimyflow.com/zh/ai/frame-extractor-video)
+
+Frame Extractor 是一款基于浏览器的视频帧提取工具，可帮助用户在无需上传视频文件的情况下，捕获单张或批量静态图像，主要面向内容创作者、设计师、教育工作者和研究人员。在 AI 时代的工作流中，它能为文档、分析、故事板和视觉内容创作提供私密且精确的源图像。
+
+**适合职业:** 内容创作者, 平面设计师, 教师, 技术写作人员, 数据科学家
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/zh/ai/xmk-com-grok-imagine-grok-imagine-1-5)
+
+使用 Grok Imagine 1.5 AI 视频生成器进行图像转视频创作。通过提示词和音频，将静态图像转换为 1–15 秒的视频片段，并支持 480p 或 720p 输出。
+
+**适合职业:** 内容创作者, 数字营销总监, 平面设计师, 文案策划, 社交媒体内容创作者
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/zh/ai/aitoolsobserver-com-submit)
+
+免费将您的 AI 工具提交到 AiToolsObserver，并通过编辑内容、排名、AI 发现和精选工具列表提升曝光度。
+
+**适合职业:** 数字营销总监, 首席执行官, 软件开发经理, 文案策划, 内容创作者
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Headcanon Generator](https://www.aimyflow.com/zh/ai/headcanon-me)
+
+Headcanon Generator 是一款 AI 写作工具，帮助同人作者根据角色名称和可选背景信息生成角色设定、关系创意、背景故事和 AU 概念。对于同人小说作者和角色扮演玩家来说，它可以通过引导式提示和约束条件加速构思，同时让角色与世界观细节保持更高的一致性。
+
+**适合职业:** 小说作家, 内容创作者, 社交媒体内容创作者, 文案策划, 技术写作人员
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Messy files to spreadsheet workflows](https://www.aimyflow.com/zh/ai/messy2sheet-com)
+
+上传 PDF、截图、电子邮件、CSV、电子表格或粘贴的文本。Messy2Sheet 会生成一个表格，供你核对、导出，并在下一个类似文件中重复使用。
 
 **适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
 
@@ -106,79 +206,9 @@ CodingPlan 是一个用于购买来自阿里巴巴、MiniMax、Kimi、GLM 和 Qw
 
 <div class="tool-card" markdown="1">
 
-### [Eva](https://www.aimyflow.com/zh/ai/hireeva)
+### [TI84.io](https://www.aimyflow.com/zh/ai/ti84-io)
 
-Eva 是一款面向小企业的 AI 运营管理工具，可帮助业主、创始人和运营人员处理发票、线索获取、外联、客户消息、网站草稿和工作流搭建。它可帮助运营、销售和行政团队减少手动琐事，并在日常业务工具之间有序管理记录、跟进和交接。
-
-**适合职业:** 首席执行官, 首席运营官, 分公司经理, 区域销售经理, 数字营销总监
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Motion Control AI Video Generator](https://www.aimyflow.com/zh/ai/fluxmov)
-
-使用 Motion Control AI 通过参考视频引导角色动作。减少提示猜测、面部漂移、随机运动和 AI 视频重试失败。
-
-**适合职业:** 社交媒体内容创作者, 播客制作人, 独立电影人, 平面设计师, 文案策划
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Signal Desk](https://www.aimyflow.com/zh/ai/signal-desk-study-tools-netlify)
-
-Signal Desk 是一款免费的、无需登录的 AI 学习提示生成器，可帮助学生将课堂笔记、阅读材料、考试主题和资料清单转化为用于主动回忆、测验、闪卡和学习计划的提示。它可以帮助学生和以学习为重点的教育者更快地创建复习材料和结构化练习，同时不放弃思考过程。
-
-**适合职业:** 备考辅导老师, 教育科技顾问, 在线编程导师, 教师
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AuraTuner](https://www.aimyflow.com/zh/ai/auratuner)
-
-AuraTuner 是一款工作室级 AI 工具，用于创建产品图片、电商商品展示图、海报和短产品视频，主要面向电商卖家、营销人员和内容创作者。它可以通过经过验证的工作流程和模型预设，帮助产品和创意团队加快图像编辑、背景替换和视频制作。
-
-**适合职业:** 电商卖家, 内容创作者, 数字营销总监, 平面设计师, 社交媒体内容创作者
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Image to Image AI](https://www.aimyflow.com/zh/ai/aiimagetoimage)
-
-免费图像转图像 AI 生成器——上传任意照片，描述你的编辑需求，即可在数秒内获得逼真的效果。无需注册。在线最佳的图像生成图像 AI 生成器。
-
-**适合职业:** 电商卖家, 内容创作者, 平面设计师, 房地产经纪人, 时装设计师
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [RoleTTS](https://www.aimyflow.com/zh/ai/roletts)
-
-RoleTTS 是一款 AI 语音生成器，适用于角色文本转语音、声音设计、声音克隆、多语言配音和会说话的虚拟形象工作流程，主要面向创作故事、游戏和视频内容的创作者。它帮助配音演员、制作人和游戏团队逐句指导富有表现力的表演，并在音频和虚拟形象输出中保持角色声音的一致性。
-
-**适合职业:** 播客制作人, 独立电影人, 配音演员, 社交媒体内容创作者, 内容创作者
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [ScamSpot](https://www.aimyflow.com/zh/ai/scamspot)
-
-粘贴可疑消息、电子邮件、WhatsApp 文本或网址，即可免费获得诈骗风险检查及明确的后续步骤。
-
-**适合职业:** 网络安全分析师, 网络安全经理, 软件工程师
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Vizcept](https://www.aimyflow.com/zh/ai/vizcept)
-
-Vizcept 是一款 AI 概念图生成器，可将英文自然语言描述转换为结构化图表，面向学生、研究人员和教育工作者。它能帮助研究人员、教师和学生快速生成清晰、可编辑的输出，从而节省用于论文插图、教学视觉材料和作业图表的时间。
+TI84.io 是一款免费的基于浏览器的 TI-84 计算器模拟器，主要面向学生和教师，可帮助用户绘制函数图像并执行代数、统计、矩阵和科学计算。在 AI 时代的数学教学中，它为教师和家教提供了一个快速的共享屏幕工具，用于演示计算器操作流程，无需安装软件或实体设备。
 
 **适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
 
@@ -186,101 +216,71 @@ Vizcept 是一款 AI 概念图生成器，可将英文自然语言描述转换�
 
 <div class="tool-card" markdown="1">
 
-### [AiCartoon](https://www.aimyflow.com/zh/ai/aicartoon)
+### [CharaVerse](https://www.aimyflow.com/zh/ai/charaverse-chat)
 
-AiCartoon 是一款 AI 卡通生成器，可将照片转换为卡通艺术、风格化肖像和头像，适合希望快速实现图片转卡通效果的人群。它可帮助社交媒体创作者、设计师和营销人员通过风格控制、无水印导出和商用选项，更快地制作精美的视觉素材。
+CharaVerse 是一个 AI 角色扮演平台，帮助用户与可自定义的虚构角色聊天，并创建持续展开的故事型对话，主要面向角色扮演爱好者和创意写作者。在 AI 辅助叙事中，它可以帮助作家和叙事设计师快速探索角色语气、语调变化和场景变体。
 
-**适合职业:** 社交媒体内容创作者, 平面设计师, 数字营销总监, 文案策划, 内容创作者
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [CCNavX](https://www.aimyflow.com/zh/ai/ccnavx)
-
-CCNavX 是一个用于对比廉价 OpenAI API、Claude API 代理和 OpenAI 兼容提供商的比较网站，帮助用户比较价格、模型覆盖范围、支付方式和发票支持。它主要面向开发者和团队，用于选择 API 代理，清晰的成本和兼容性检查可提升集成规划和报销流程效率。
-
-**适合职业:** 软件工程师, IT基础设施经理, 项目管理专员, 数据工程师
+**适合职业:** 小说作家, 内容创作者, 社交媒体内容创作者, 文案策划, 独立电影人
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [ScanRead.ai](https://www.aimyflow.com/zh/ai/scanread)
+### [Content True](https://www.aimyflow.com/zh/ai/contenttrue-org)
 
-ScanRead.ai 是一款免费的 OCR 工具，可从图像、截图、扫描 PDF 和文档中提取可编辑文本，适合需要快速文本转换的任何人使用。它可以帮助运营、财务和行政团队更快地将收据、合同、笔记和报告转换为可搜索文本。
+Content True 是一款 AI 内容检测工具，可帮助用户检查文本是否由 AI 生成，主要面向审核日语及其他支持语言书面内容的人群。对于编辑、教育工作者和内容审核人员，它可以在发布、评分或批准文本前，为 AI 时代的工作流增加快速原创性检查。
 
-**适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [TermsHuman](https://www.aimyflow.com/zh/ai/termshuman)
-
-TermsHuman 是一款英文合同分析工具，可总结服务条款、政策和协议，标示高风险条款，并以英文或西班牙文展示关键承诺，帮助需要快速审查法律文本的人士。它可帮助法务、合规、采购和运营团队加快条款审查，并在批准前识别不对等条款。
-
-**适合职业:** 律师, 首席执行官, 首席财务官, 项目管理专员
+**适合职业:** 技术写作人员, 大学教授, 教师, 内容创作者, 文案策划
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Veo 4 AI Video Generator Online](https://www.aimyflow.com/zh/ai/veo4free)
+### [Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/zh/ai/weddingspeech-xyz)
 
-Veo 4 AI 视频生成器在线版是一款基于浏览器的工具，可用于创建文本转视频和图像转视频片段，主要面向创作者、营销人员、电影制作人、教育工作者和内容团队。其原生音频、4K 输出和角色一致性可帮助视频制作人员和品牌团队加快概念构思、预可视化和社交内容交付。
+创建免费婚礼致辞模板和示例——适用于伴郎、伴娘、父母或搞笑婚礼致辞。几分钟内即可获得三份个性化 AI 草稿。
 
-**适合职业:** 社交媒体内容创作者, 播客制作人, 独立电影人, 数字营销总监, 内容创作者
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AI Clean Voice](https://www.aimyflow.com/zh/ai/voicecleaner)
-
-AI Clean Voice 是一款在线 AI 语音清理工具，可去除上传音频中的背景噪音、风噪和回声，增强语音清晰度，主要面向播客创作者、视频创作者、教育工作者和制作团队。它可以帮助音频编辑和内容团队加快清理工作，同时保留自然的人声清晰度，以便更快发布。
-
-**适合职业:** 播客制作人, 社交媒体内容创作者, 教育科技顾问, 技术写作人员, 文案策划
+**适合职业:** 文案策划, 内容创作者, 小说作家, 技术写作人员
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [AI Coloring Page Generator](https://www.aimyflow.com/zh/ai/aicoloringpagegenerator)
+### [Manga Translator – AI Translate Manga](https://www.aimyflow.com/zh/ai/mangatranslator-me)
 
-AI涂色页生成器是一款将适合儿童的创意转化为可打印黑白涂色页的工具，提供适合不同年龄段的难度等级，主要面向家长和教师。它可以帮助教育工作者和看护者快速创建适龄、定制化的可打印素材，用于课程、课堂活动或家庭游戏。
+使用 Mee 即时翻译漫画、韩漫和网络漫画。AI 驱动的漫画翻译器可保留版式，提供准确翻译。可在线阅读或下载图片。
 
-**适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [HMG Tools Redactor](https://www.aimyflow.com/zh/ai/tools-hoppingmadgames)
-
-HMG Tools Redactor 是一款基于浏览器的遮盖工具，可帮助用户在敏感文本离开设备前进行捕获和替换，主要面向处理提示词、支持日志、发票、学校笔记和客户草稿的用户。它可帮助支持团队、写作者和管理员在为 AI 工作流准备文本或共享文档时，减少意外泄露的风险。
-
-**适合职业:** 软件工程师, 技术写作人员, 文案策划, 学校辅导员, 教育科技顾问
+**适合职业:** 内容创作者, 技术写作人员, 文案策划
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Thragg in Invincible](https://www.aimyflow.com/zh/ai/thragg)
+### [Seedance 2.0 Mini](https://www.aimyflow.com/zh/ai/seedance2mini-ai)
 
-通过这份聚焦指南，了解《无敌少侠》中的 Thragg：他是谁、他在维特鲁姆帝国中的角色、他的实力有多强，以及为什么 Thragg 对战 Battle Beast 是读者最先搜索的对决。
+Seedance 2.0 Mini 是一款 AI 视频生成器，可根据文本提示或图像创建简短的电影感片段，主要面向制作广告、宣传片和社交视频的创作者与营销人员。对于营销和创意团队，它可以将创意简报或静态图快速转换为可编辑的 MP4 片段，从而加快概念测试和短视频制作。
 
-**适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
+**适合职业:** 数字营销总监, 社交媒体内容创作者, 内容创作者, 文案策划, 平面设计师
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [WisGate](https://www.aimyflow.com/zh/ai/wisgate)
+### [I2V](https://www.aimyflow.com/zh/ai/i2v-ai)
 
-WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作者和团队，可通过一个界面访问并比较用于聊天、图像、视频和代码生成的模型。它可以帮助产品和工程团队加快集成，并通过集中路由和计费来控制模型选择和成本。
+I2V 是一个面向创作者和媒体专业人士的 AI 视频生成平台，可将文本、图像或音频转换为带有集成音频、角色一致且可导出为 MP4 的多镜头短篇电影式视频。对于营销人员、教育工作者和视频团队，它能够加快概念构思和前期可视化流程，同时减少短视频内容的手动编辑工作。
 
-**适合职业:** 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监, 文案策划
+**适合职业:** 内容创作者, 数字营销总监, 社交媒体内容创作者, 平面设计师, 教师
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Image 2](https://www.aimyflow.com/zh/ai/imagev2-org)
+
+Image 2 是一款多模型 AI 图像生成与编辑工具，集成 GPT Images 2.0、Nano Banana 2、Seedream 5 Lite 等，可用于文生图、图生图、参考图编辑、海报、广告和电商视觉内容。
+
+**适合职业:** 平面设计师, 数字营销总监, 电商销售负责人, 社交媒体内容创作者, 内容创作者
 
 </div>
 
@@ -288,7 +288,7 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 ## 全部工具
 
 <details markdown="1">
-<summary>展开完整工具目录 (3336)</summary>
+<summary>展开完整工具目录 (3394)</summary>
 
 <p class="section-note">_使用紧凑视图，便于快速浏览。_</p>
 
@@ -317,6 +317,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[1ClickClaw](https://www.aimyflow.com/zh/ai/1clickclaw-app)**
   - 1ClickClaw 是一项托管服务，可一键将 OpenClaw 部署为 Telegram、Discord 或 WhatsApp 上的个人 AI 助手，主要面向希望拥有始终在线的机器人、但不想管理服务器、SSH 或 DevOps 配置的用户。对于运营人员、社区经理和独立开发者而言，它可以缩短部署时间并简化 AI 机器人的维护，让他们把更多精力放在对话和工作流上，而不是基础设施。
   - *适合职业:* 项目管理专员, 软件开发经理, IT基础设施经理, 社区学院讲师
+
+- **[1iO](https://www.aimyflow.com/zh/ai/ioview-net)**
+  - 1iO 是一个去中心化技术基金会，主要面向构建可互操作应用的开发者，通过本地虚拟数据室和点对点协作，帮助用户重新获得数据所有权、隐私和控制权。对于开发者和数字基础设施团队，它能够支持更具韧性、由用户主导、减少中介且具备更强数据主权的系统。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[1minAI](https://www.aimyflow.com/zh/ai/1min-ai)**
   - 1minAI 是一款一体化 AI 应用，面向文本、图像、音频和视频任务，帮助用户在一个平台上创建、编辑和转换内容，主要服务于创作者、营销人员、小型企业以及其他普通专业人士。 在 AI 辅助工作流中，这样的单一枢纽可以减少工具切换，帮助内容、营销和创意团队更高效地完成混合媒体任务。
@@ -372,6 +376,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[AccuChats](https://www.aimyflow.com/zh/ai/accuchats-com)**
   - AccuChats 是一个以准确性为先的 AI 聊天机器人平台，帮助企业构建用于网站和客户支持的聊天机器人，提供来源引用、置信度评分、人工转接和语音功能，主要面向需要可靠客户答复的团队。对于支持、运营和产品团队，其带引用的回复和意图分析能够在减少高风险幻觉的同时，揭示文档或工作流程需要改进的地方。
   - *适合职业:* 软件开发经理, 项目管理专员, 首席运营官
+
+- **[ACE ZERO TRADING](https://www.aimyflow.com/zh/ai/acezerotrading-com)**
+  - ACE ZERO TRADING 是一个面向 Shopify 卖家的工作空间，可从产品照片生成可直接用于草稿的图片、SEO 文案、常见问题、定价和库存详情，并对产品页面进行 SEO 和 GEO 审核。对于电商商品运营人员，其“先审核后发布”的工作流可加快 AI 辅助更新，同时保留发布控制权。
+  - *适合职业:* 电商卖家, 数字营销总监, 文案策划, 平面设计师 +1 更多
 
 - **[Acedit](https://www.aimyflow.com/zh/ai/acedit-ai)**
   - Acedit 是一款 AI 面试辅导 Chrome 扩展程序，帮助求职者通过模拟面试进行练习，并在实时在线面试中获得实时问题识别和回答建议。对于候选人、招聘人员和职业教练而言，这类工具可将简历、职位描述和岗位背景转化为结构化要点，从而加快面试准备并提升回答的一致性。
@@ -508,6 +516,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Ahrefs Free AI Plagiarism Checker](https://www.aimyflow.com/zh/ai/ahrefs-com-writing-tools-plagiarism-checker)**
   - Ahrefs 免费 AI 抄袭检查器是一款写作工具，可扫描文本或 TXT 文件中的抄袭内容，并提供详细的原创性报告，主要面向内容创作者、作者、出版商、教育工作者、学生和企业团队。 在 AI 辅助写作流程中，它可帮助编辑、教师和营销人员在发布或提交前验证原创性，减少内容和专业文档中的无意重复。
   - *适合职业:* 文案策划, 技术写作人员, 内容创作者, 数字营销总监 +1 更多
+
+- **[AI 3D Model Generator](https://www.aimyflow.com/zh/ai/next3d-ai)**
+  - 使用 Next3D 在线创建 3D 模型。将图片或文本提示词在几分钟内转换为可预览、可编辑和可下载的 3D 资源。
+  - *适合职业:* 平面设计师, 工业设计师, 软件工程师, 电商销售负责人 +1 更多
 
 - **[AI Action Figure Generator](https://www.aimyflow.com/zh/ai/regiai-com-tools-ai-action-figure-generator)**
   - AI Action Figure Generator 是 RegiAI 推出的一款 AI 图像工具，可将人物照片转换为定制的玩具风格动作人偶，并可使用超级英雄、医疗角色、体育、娱乐和职业人物等可选模板，主要面向希望制作风格化角色图像的消费者和创作者。 对于设计师、营销人员和内容创作者而言，它可以加快概念可视化以及基于个性化角色的视觉内容制作，用于社交媒体帖子、推广内容或创意样稿。
@@ -660,6 +672,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[AI Kiss](https://www.aimyflow.com/zh/ai/aikiss-art)**
   - AI Kiss 是一款免费的 AI 接吻视频生成器，可将一张或两张照片转换为简短的动态接吻场景，主要面向希望制作浪漫纪念内容或可分享视觉内容的普通用户。对于内容创作者和社交媒体经理而言，它无需拍摄真人视频即可加快风格化恋爱主题视觉内容的制作。
   - *适合职业:* 社交媒体内容创作者, 内容创作者, 文案策划, 平面设计师
+
+- **[AI Kitchen Preview](https://www.aimyflow.com/zh/ai/aikitchenpreview-com)**
+  - AI Kitchen Preview 是一款网页工具，可将厨房照片转化为逼真的 AI 设计预览、风格对比以及面向计划进行厨房升级的业主的改造决策包。它通过在与客户讨论前明确风格方向、改造范围和关键变更，帮助设计师、翻修商和承包商更快地审查视觉方案。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[AI Line Art Generator](https://www.aimyflow.com/zh/ai/ailineart-com)**
   - AI 线稿生成器是一款在线 AI 工具，可将文本提示或上传的照片转换为多种风格的线稿绘图，主要面向艺术家、插画师、设计师及其他创意用户。它可通过自动生成干净的轮廓线，加快设计和插画专业人士在早期视觉创作阶段的工作流程，减少手动描摹和草图清理的工作量。
@@ -915,6 +931,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - AIDesigner 是一款 AI UI 和 UX 设计工具，可帮助用户通过几个词或模板生成可编辑的网站和移动应用界面，主要面向设计师、创始人和产品团队。 在 AI 辅助的产品开发中，它可以为 UX 和 UI 专业人士提供更快的起点，用于构思概念、落地页、作品集和应用界面，并可在其常规设计工作流程中进一步完善。
   - *适合职业:* 平面设计师, 首席执行官, 数字营销总监, 软件开发经理 +1 更多
 
+- **[AIeBookGen](https://www.aimyflow.com/zh/ai/aiebookgen-com)**
+  - AIeBookGen 是一款 AI 电子书生成工具，可帮助自助出版作者和 KDP 图书卖家将创意、笔记、草稿或文字记录转换为结构化章节、元数据、审校备注以及 EPUB/PDF 导出包。在 AI 辅助出版工作流程中，它可帮助作者和编辑在交付平台之前，始终保持稿件结构、质量检查和上架素材的一致性。
+  - *适合职业:* 小说作家, 文案策划, 内容创作者, 电商卖家 +1 更多
+
 - **[AIGC工具导航](https://www.aimyflow.com/zh/ai/aigc-cn)**
   - AIGC工具导航是一个中文生成式AI工具目录，帮助用户快速找到按类别整理的工具，涵盖写作、图像生成、视频创作、办公、设计、开发和学习，主要面向创作者、办公人群、学生和开发者。 对于内容、设计和知识型工作团队而言，全面的AI工具目录可以缩短工具发现与比较的时间，帮助他们在AI任务日益专业化的背景下，更快构建适合不同角色的工作流程。
   - *适合职业:* 内容创作者, 软件工程师, 平面设计师, 数字营销总监 +1 更多
@@ -1102,6 +1122,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - AliGenie 是天猫精灵的开放平台，为阿里巴巴生态内的硬件厂商、物联网开发者、应用团队和内容提供商提供语音开发、IoT 设备控制、AI 能力集成以及内容接入工具。对于产品、物联网和语音交互团队，它可将设备接入、基于 SDK 的 AI 功能以及生态分发整合到一个平台中，从而简化智能设备部署和语音化体验的构建。
   - *适合职业:* 软件工程师, 电气工程师, 项目管理专员, IT基础设施经理 +1 更多
 
+- **[Alignes](https://www.aimyflow.com/zh/ai/alignes-app)**
+  - Alignes 是一款 AI 技术包软件，可将服装照片、草图和备注转换为结构化技术包，包含尺寸、物料清单、工艺细节和导出功能，适用于服装品牌、自由职业技术设计师和产品开发团队。这可以减少技术设计师和产品开发人员的重复性文档工作。
+  - *适合职业:* 时装设计师, 平面设计师, 内容创作者, 首席执行官
+
 - **[alkaid.art](https://www.aimyflow.com/zh/ai/alkaid-art)**
   - alkaid.art 当前因 Cloudflare 522 连接超时而无法访问，因此无法根据现有页面信息验证其用途、功能和目标用户。对于网站管理员和站点所有者来说，解决此类源站服务器超时问题非常重要，因为由 AI 驱动的发现与自动化依赖网站的可靠可用性来访问和处理内容。
 
@@ -1227,6 +1251,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[AnimalGenerator.net](https://www.aimyflow.com/zh/ai/animalgenerator-net)**
   - AnimalGenerator.net 是一个 AI 动物创作与混合工具，帮助用户将动物、机甲和奇幻英雄组合成风格一致的混合角色、漫画和可打印的涂色页，主要面向教师、儿童、漫画创作者、游戏设计师和插画师。在 AI 辅助创意工作中，它可以加快早期创意构思，并在不同画格之间保持角色设计的视觉一致性，这对于漫画、概念艺术和课堂故事创作任务尤其有用。
   - *适合职业:* 平面设计师, 内容创作者, 教师, 小学数学老师 +1 更多
+
+- **[Animate Photo AI](https://www.aimyflow.com/zh/ai/animatephotoai-com)**
+  - Animate Photo AI 可在线将照片转换为视频。上传后几秒内即可完成动画制作，创建会说话的人像、宠物动态和场景循环。立即试用。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 平面设计师, 数字营销总监 +1 更多
 
 - **[Anime AI](https://www.aimyflow.com/zh/ai/animeai-app)**
   - Anime AI 是一款免费、无需注册的照片转动漫图像生成器，可将单人肖像照片转换为动漫风格头像，涵盖《火影忍者》《海贼王》、Webtoon 和经典等多种风格，主要面向动漫爱好者和制作个性化头像的人群。对于创作者和社交媒体用户，它可通过从一张照片生成多个可调属性的风格化选项，加快头像和个人资料图片的制作。
@@ -1503,6 +1531,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Astro Energy](https://www.aimyflow.com/zh/ai/astroenergy-ai)**
   - Astro Energy 是一家公用事业级太阳能和电池储能开发商，通过透明的开发流程，帮助得州土地所有者评估并出租土地，用于长期能源项目。对于土地所有者和农村地产相关方而言，这可以将利用不足的土地转化为可预测的能源收益，同时支持 ERCOT 市场中的项目规划。
   - *适合职业:* 商业建筑师, 土木工程师, 首席执行官, 项目管理专员 +1 更多
+
+- **[Astrocarto](https://www.aimyflow.com/zh/ai/astrocarto-org)**
+  - Astrocarto 是一款免费的 AI 地理占星计算器，可将出生星盘映射到世界各地位置，并提供行星线解读和迁移洞察，主要面向占星师、搬迁规划者和占星爱好者。在 AI 辅助的位置分析中，它可以帮助占星师和迁移规划者更高效地评估职业、人际关系和个人成长模式。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Athena AI Agents](https://www.aimyflow.com/zh/ai/athenachat-bot-agents)**
   - Athena AI Agents 是一个无代码平台，用于创建自定义 AI 智能体，以处理专注型工作流、与工具连接的任务以及网站交互，主要面向团队、小企业主、教育工作者和个人用户。对于运营、支持和面向客户的岗位，它可通过标准化任务自动化并捕获聊天记录来减少重复性工作，从而持续优化智能体的长期表现。
@@ -1852,6 +1884,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[BerryViral](https://www.aimyflow.com/zh/ai/berryviral-com)**
   - BerryViral 是一款 AI 缩略图智能工具，主要面向 YouTube 创作者，用于为 YouTube 缩略图和标题进行评分、评审，并帮助优化其点击吸引力。对于视频创作者和缩略图设计师来说，它可以加快缩略图测试流程，并在发布前让创意决策更具数据依据。
   - *适合职业:* 社交媒体内容创作者, 平面设计师, 内容创作者, 数字营销总监 +1 更多
+
+- **[Best AI Tools Directory (2026)](https://www.aimyflow.com/zh/ai/aigenerator-tools)**
+  - 按类别、价格、评价、排名和最新发布对 2,200 多款 AI 工具进行比较。查找 AI 视频生成器、写作工具、编码助手等。
+  - *适合职业:* 教育科技顾问, 软件开发经理, 数字营销总监, 项目管理专员 +1 更多
 
 - **[Best SAT Score](https://www.aimyflow.com/zh/ai/bestsatscore-com)**
   - Best SAT Score 是一个数字化 SAT 备考平台，通过自适应全真模拟测试、专家精选题库、抽认卡、分数计算和 AI 驱动的学习计划，帮助学生备考。对于学生、家教老师和大学升学顾问而言，这些由 AI 支持的规划与表现分析可使 SAT 备考更有针对性，并更容易根据薄弱环节进行调整。
@@ -2518,6 +2554,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - CharacterGen 是一款 AI 角色生成器，可帮助创作者根据照片或文字描述生成完整的角色设计套件，包括三视图、表情设定页、姿势和服装参考，主要面向插画师、动画师、游戏团队和作家。在 AI 辅助创意工作流程中，它可以加速早期概念开发，并提升设计与叙事工作在不同场景、素材和交接环节中的视觉一致性。
   - *适合职业:* 平面设计师, 独立电影人, 小说作家, 内容创作者 +1 更多
 
+- **[CharaVerse](https://www.aimyflow.com/zh/ai/charaverse-chat)**
+  - CharaVerse 是一个 AI 角色扮演平台，帮助用户与可自定义的虚构角色聊天，并创建持续展开的故事型对话，主要面向角色扮演爱好者和创意写作者。在 AI 辅助叙事中，它可以帮助作家和叙事设计师快速探索角色语气、语调变化和场景变体。
+  - *适合职业:* 小说作家, 内容创作者, 社交媒体内容创作者, 文案策划 +1 更多
+
 - **[CharHub.ai](https://www.aimyflow.com/zh/ai/charhub-ai)**
   - CharHub.ai 是一个 AI 角色聊天与发现平台，帮助用户探索、创建并与角色、艺术作品和虚构世界互动，主要面向角色扮演和基于角色的娱乐受众。对于创作者、作家和社区版主而言，它展示了 AI 如何扩展互动式叙事和用户生成的角色体验，同时也凸显了对明确内容治理的需求不断增加。
   - *适合职业:* 小说作家, 内容创作者, 社交媒体内容创作者, 文案策划 +1 更多
@@ -2581,6 +2621,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[ChatGPT Atlas](https://www.aimyflow.com/zh/ai/chatgpt-com-atlas)**
   - ChatGPT Atlas 是一款内置 ChatGPT 的 macOS 浏览器，可帮助用户即时获取答案、总结页面、比较产品、分析网站内容并完成网页任务，主要面向希望在日常浏览和工作中获得 AI 辅助的人群。对于研究人员、分析师和知识工作者，它可将具备上下文感知能力的 AI 直接引入浏览器，从而加快基于网页的审阅和决策支持。
   - *适合职业:* 软件工程师, 金融分析师, 数字营销总监, 项目管理专员
+
+- **[ChatGPT Images 2.0](https://www.aimyflow.com/zh/ai/chatgptimages2-io)**
+  - ChatGPT Images 2.0 使用 GPT Image 2 进行推理、网页检索、文件分析、8 图一致性、多语言文本处理，并支持最高 2K 输出。
+  - *适合职业:* 平面设计师, 数字营销总监, 社交媒体内容创作者, 内容创作者 +1 更多
 
 - **[ChatHawk](https://www.aimyflow.com/zh/ai/chathawk-co)**
   - ChatHawk 是一款网页工具，允许用户提出一个问题，并同时比较 GPT、Gemini、Claude 和 Grok 的回答，帮助希望更快获得跨模型答案和共识的人。对于研究人员、分析师和决策者来说，这可以通过在单一工作流程中呈现主流 AI 模型之间的一致点和差异，提升评估效率。
@@ -2748,6 +2792,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Cleancard](https://www.aimyflow.com/zh/ai/cleancard-bio)**
   - Cleancard 是一家公司，正在开发一种结合合成生物学与人工智能的方法，使癌症检测像验孕测试一样易于使用，主要应用于医疗保健和诊断场景。 在由 AI 赋能的临床和实验室工作流程中，这类工具可帮助医疗和诊断专业人员推动更快速、更易获得的早期筛查流程。
   - *适合职业:* 医疗管理人员, 医学检验技术员, 分子生物学家, 微生物学家 +1 更多
+
+- **[CleanStmt](https://www.aimyflow.com/zh/ai/cleanstmt-com)**
+  - CleanStmt 是一款由 AI 驱动的银行对账单转换工具，可从 PDF、扫描件或截图中提取交易记录，并将其整理为干净的 Excel 文件或可直接导入 QuickBooks 的 CSV 文件，适用于注册会计师、记账员及其他会计专业人士。它可减少手动重新格式化工作，并通过稳定、可导入的列加快对账流程。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Cleanup.pictures](https://www.aimyflow.com/zh/ai/cleanup-pictures)**
   - Cleanup.pictures 是一款 AI 照片修饰网页应用，可从图像中移除不需要的物体、人物、文字、标志、水印和瑕疵，主要面向摄影师、创意团队、房地产经纪人和电商用户。在 AI 辅助的图像工作流程中，它帮助这些专业人士更快地制作更干净的营销图、房源展示图和可直接面向客户的视觉内容，而无需依赖更复杂的手动编辑工具。
@@ -3111,6 +3159,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Content Goblin](https://www.aimyflow.com/zh/ai/contentgoblin-ai)**
   - Content Goblin 是一款 AI 内容生成器，可帮助网站所有者、博主以及专注于 Pinterest 的发布者，围绕某个主题快速创建榜单文章、食谱内容、图片和 Pinterest 图钉。对于内容营销人员和网站发布者来说，它可以减少手动撰写和图片制作时间，同时加快以视觉效果和搜索驱动为主的内容发布流程。
   - *适合职业:* 文案策划, 社交媒体内容创作者, 内容创作者, 数字营销总监 +1 更多
+
+- **[Content True](https://www.aimyflow.com/zh/ai/contenttrue-org)**
+  - Content True 是一款 AI 内容检测工具，可帮助用户检查文本是否由 AI 生成，主要面向审核日语及其他支持语言书面内容的人群。对于编辑、教育工作者和内容审核人员，它可以在发布、评分或批准文本前，为 AI 时代的工作流增加快速原创性检查。
+  - *适合职业:* 技术写作人员, 大学教授, 教师, 内容创作者 +1 更多
 
 - **[ContentBeast](https://www.aimyflow.com/zh/ai/contentbeast-com)**
   - ContentBeast 是一款自动化博客写作和 SEO 工具，能够进行关键词研究、创建包含图片和链接的优化文章，并按计划将其发布到网站，适用于营销人员、创始人、代理机构和网站所有者。对于 SEO 和内容团队，它可以减少手动规划和发布工作，同时帮助在传统搜索和 AI 驱动的发现工具中保持稳定的可见性。
@@ -4434,6 +4486,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - ferranfigueredo.com 是 Ferran Figueredo 的作品集网站。Ferran Figueredo 是一名产品开发者，打造数字产品、网页和移动应用、技术服务以及 AI 解决方案，主要面向创业者和查看其项目的人。在 AI 驱动的产品环境中，这类作品集可帮助创始人、产品经理和技术协作者快速评估其在产品设计、技术和用户体验方面的相关经验。
   - *适合职业:* 软件工程师, 首席执行官, 软件开发经理, 内容创作者
 
+- **[FerryAPI](https://www.aimyflow.com/zh/ai/ferryapi-io)**
+  - 面向全球企业的低成本 OpenAI 兼容 AI API 网关。支持使用 DeepSeek、Qwen、Kimi 和 MiMo 进行客服、翻译、摘要和自动化。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
+
 - **[Fetchr](https://www.aimyflow.com/zh/ai/fetchr-so)**
   - Fetchr 是一款面向服装购物的 AI 个人购物应用，帮助用户描述自己的风格和需求，然后由服务方挑选商品、配送上门供试穿，并且只对最终留下的商品收费，主要面向希望以更快、更省力方式购买衣服的人群。对于时尚零售和造型搭配流程，这种 AI 辅助模式可通过将偏好输入转化为精心筛选的选项，并结合居家先试后买的便利，减少决策疲劳和搜索所耗费的时间。
   - *适合职业:* 时装设计师, 电商卖家, 内容创作者
@@ -4521,6 +4577,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Fixkey](https://www.aimyflow.com/zh/ai/fixkey-ai)**
   - Fixkey 是一款适用于 Mac 的原生 AI 写作助手，可帮助用户将键入或语音输入转换为润色后的文本、重写消息、翻译内容，并在任何 macOS 应用中控制格式，主要面向在工作中经常写作的 Mac 用户。在 AI 辅助工作流中，它可以帮助创始人、作家和多语言沟通者等专业人士更快地起草和完善文本，而无需在应用之间切换。
   - *适合职业:* 文案策划, 技术写作人员, 首席执行官, 内容创作者 +1 更多
+
+- **[FixPixelatedPhotos](https://www.aimyflow.com/zh/ai/fixpixelatedphotos-com)**
+  - FixPixelatedPhotos 是一款 AI 照片增强工具，可修复像素化、模糊、低分辨率和受损的老照片，适用于家庭用户及其他分享或保存图片的人群。它帮助摄影师、档案管理员和修复团队加快清理、放大和色彩校正，同时确保结果忠实于原始图像。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Fizzly AI](https://www.aimyflow.com/zh/ai/fizzly-ai)**
   - Fizzly AI 是一款创意生成平台，帮助创作者和营销团队生成 AI 图片、视频和自定义角色，用于品牌内容制作，缩短视觉内容生产周期并提升创意产出效率。
@@ -4718,6 +4778,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - FragCut 是一款 AI 游戏精彩片段生成工具，帮助主播和游戏内容创作者将冗长的游戏录像或 Twitch 直播回放转换为竖屏短高光片段，并自动检测精彩时刻、生成字幕以及提供基础编辑工具。对于创作者和社交视频编辑者来说，它可以减少手动审看和二次剪辑所需的时间，从而帮助他们在 TikTok、Reels 和 Shorts 上更稳定地持续发布内容。
   - *适合职业:* 社交媒体内容创作者, 内容创作者, 播客制作人, 文案策划 +1 更多
 
+- **[Frame Extractor](https://www.aimyflow.com/zh/ai/frame-extractor-video)**
+  - Frame Extractor 是一款基于浏览器的视频帧提取工具，可帮助用户在无需上传视频文件的情况下，捕获单张或批量静态图像，主要面向内容创作者、设计师、教育工作者和研究人员。在 AI 时代的工作流中，它能为文档、分析、故事板和视觉内容创作提供私密且精确的源图像。
+  - *适合职业:* 内容创作者, 平面设计师, 教师, 技术写作人员 +1 更多
+
 - **[FrameCall](https://www.aimyflow.com/zh/ai/framecall-com)**
   - FrameCall 是一款由 AI 驱动的动画视频创作工具，用户可以用通俗英语描述 logo 动画、片头、动态图形或社交视频，并将其导出为 MP4，主要面向创作者、营销人员、独立开发者以及不想学习 After Effects 的团队。对于营销、内容和产品团队而言，它可以将基于文本的反馈转化为快速修订，而不是依赖手动动态设计工作，从而加快视频迭代速度。
   - *适合职业:* 数字营销总监, 社交媒体内容创作者, 内容创作者, 平面设计师 +1 更多
@@ -4730,6 +4794,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Frase 是一个面向代理式 SEO 和 GEO 的平台，可研究竞争对手、协助创建和优化内容，并跟踪在 Google 和 AI 搜索工具中的可见性，主要服务于内容营销人员、SEO 团队、代理机构和企业。 对于 SEO 和内容团队而言，它可以在同一工作流程中简化传统搜索排名和 AI 引用的规划与优化。
   - *适合职业:* 数字营销总监, 文案策划, 内容创作者, 技术写作人员 +1 更多
 
+- **[Free AI Detector 2026: AI Text Checker, No Signup](https://www.aimyflow.com/zh/ai/eyesift-com-text-analysis)**
+  - 面向 ChatGPT、Claude、Gemini、DeepSeek、Grok、Qwen、Kimi 和 Manus 文本的免费在线 AI 检测器。粘贴文本即可在浏览器中进行仅限本地的 AI 写作分流、可靠性警告、置信度评估，以及可复制的审查摘要。
+  - *适合职业:* 教育科技顾问, 教师, 学校辅导员, 项目管理专员
+
 - **[Free AI text humanizer that](https://www.aimyflow.com/zh/ai/humantone-ai)**
   - 免费 AI 文本润色器，可将 ChatGPT、Claude 和 Gemini 的草稿转化为自然的人类写作。无需注册，6 种模式，含义保持不变。
   - *适合职业:* 文案策划, 数字营销总监, 内容创作者, 技术写作人员 +1 更多
@@ -4741,6 +4809,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Free Online AI Baby Generator](https://www.aimyflow.com/zh/ai/ai-babygenerator-com)**
   - 发现我们的免费在线AI婴儿生成器，瞬间预测未来宝宝的样子。上传照片，获取高分辨率、无水印的图片。保护隐私，24/7服务。立即试用！
   - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
+
+- **[Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/zh/ai/weddingspeech-xyz)**
+  - 创建免费婚礼致辞模板和示例——适用于伴郎、伴娘、父母或搞笑婚礼致辞。几分钟内即可获得三份个性化 AI 草稿。
+  - *适合职业:* 文案策划, 内容创作者, 小说作家, 技术写作人员
 
 - **[freebeat.ai](https://www.aimyflow.com/zh/ai/freebeat-ai)**
   - freebeat.ai 是一款 AI 音乐视频生成器，可将歌曲或音乐链接转换为与节奏同步的舞蹈视频、歌词视频和叙事型音乐视频，主要面向独立音乐人、艺术家、舞者、编舞、创作者和小型工作室。对于音乐和内容团队，它可通过自动化节拍分析、镜头规划、歌词卡点以及适配 TikTok、Instagram 和 YouTube 等平台的成片输出，加快视频制作流程。
@@ -4854,6 +4926,9 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Gavin 是 The Solemn Sir 推出的 AI 对话支持伙伴，帮助男性在一个私密、无污名的空间中，倾诉压力、关系、父职、工作以及个人反思。对于男性社群领袖、教练和以支持为导向的专业人士而言，它展示了 AI 如何在人与人互动之间，延伸为始终可用、非临床的对话支持。
   - *适合职业:* 健康教练, 学校辅导员, 企业领导力教练, 医疗管理人员
 
+- **[Gemheaven.org](https://www.aimyflow.com/zh/ai/gemheaven-org)**
+  - Gemheaven.org 是一个矿物和宝石数据库，提供晶体指南和钻石分级资源，帮助宝石学家、珠宝行业专业人士、学生和收藏者研究宝石及其性质。在 AI 辅助工作流程中，其结构化参考资料可帮助宝石学家和评估师更快地比较宝石并核实分级术语。
+
 - **[Gemini Audio](https://www.aimyflow.com/zh/ai/deepmind-google-models-gemini-audio)**
   - Gemini Audio 是 Google DeepMind 的实时音频模型，用于构建对话式音频代理、语音翻译、音频生成和音频理解，主要面向开发语音应用的开发者。对于产品、支持和本地化团队，它能够通过实现更快速的基于语音的交互、翻译以及从音频中提取有用信息，简化多语言语音工作流程。
   - *适合职业:* 软件工程师, 技术写作人员, 项目管理专员, 内容创作者
@@ -4861,6 +4936,14 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Gemini Code Assist](https://www.aimyflow.com/zh/ai/cloud-google-com-products-gemini-code-assist)**
   - Gemini Code Assist 是 Google 面向团队和企业推出的 AI 辅助编码工具，可帮助开发者在 IDE、终端以及软件开发生命周期的部分环节中创建、解释、转换和排查代码问题。对于软件工程师和开发团队，它能够减少上下文切换，加快代码生成、审查、测试和 API 相关工作等日常任务的处理速度，同时兼顾企业级监管与代码库上下文。
   - *适合职业:* 软件工程师, 软件开发经理, IT基础设施经理, 首席执行官
+
+- **[Gemini Omni AI Video Generator](https://www.aimyflow.com/zh/ai/jxp-com-gemini-omni)**
+  - Gemini Omni AI Video Generator 是一款 JXP 工具，可基于文本、图像、视频和音频参考创建和编辑多模态 AI 视频，主要面向从事迭代式视频制作的创作者。对于视频编辑和创意团队而言，其基于对话、依托参考的工作流程可在保持场景连续性和创作意图的同时，加快一致性修订。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 平面设计师, 文案策划 +1 更多
+
+- **[Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/zh/ai/omnigemini-io)**
+  - 使用 Gemini Omni，通过文本、图像、视频和音频输入生成视频草稿，然后以自然语言持续编辑镜头、主体、风格和节奏。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 数字营销总监, 文案策划 +1 更多
 
 - **[GeminiGen AI](https://www.aimyflow.com/zh/ai/geminigen-ai)**
   - GeminiGen AI 是一个多模态内容生成平台，帮助用户根据提示词生成 AI 图片、视频和语音，让创作者和实验媒体团队可在单一流程中快速打样多种内容形式。
@@ -5254,6 +5337,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - groas 是一个面向 Google 搜索广告的自主 AI 平台，可按搜索词创建并优化广告和落地页，主要服务于投放 Google Ads 广告活动的企业和营销人员。对于 PPC 经理、增长营销人员和代理机构，它可通过基于搜索意图持续调整信息传达、关键词定向和落地页相关性，减少广告活动中的人工操作。
   - *适合职业:* 数字营销总监, 电商销售负责人, 首席执行官, 区域销售经理 +1 更多
 
+- **[Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/zh/ai/xmk-com-grok-imagine-grok-imagine-1-5)**
+  - 使用 Grok Imagine 1.5 AI 视频生成器进行图像转视频创作。通过提示词和音频，将静态图像转换为 1–15 秒的视频片段，并支持 480p 或 720p 输出。
+  - *适合职业:* 内容创作者, 数字营销总监, 平面设计师, 文案策划 +1 更多
+
 - **[Groops](https://www.aimyflow.com/zh/ai/groops-com)**
   - Groops 是一款 AI SEO 工具，可基于一份产品、企业、书籍或服务描述生成 3 到 100 个独特的落地页，帮助用户获取更多搜索流量，主要适用于作者、本地服务商、电商卖家、创作者和专业人士。对于营销人员和企业主来说，它可以通过将单一产品或服务转化为多个有针对性的搜索入口页面，以极少的写作或 SEO 专业知识，加快长尾 SEO 工作。
   - *适合职业:* 数字营销总监, 电商销售负责人, 社交媒体内容创作者, 文案策划 +1 更多
@@ -5296,6 +5383,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Hairstyle AI](https://www.aimyflow.com/zh/ai/hair-style-ai)**
   - Hairstyle AI 是一款免费的在线发型模拟器，用户可以上传自拍，预览 60 多种发型和 19 种发色，主要面向想在去理发店前判断哪种造型更适合自己的男性和女性。对于理发师、造型师和沙龙团队来说，它还能通过帮助客户提前比较可视化方案、带着更明确的发型偏好到店，从而简化咨询流程。
 
+- **[HairstylesPro](https://www.aimyflow.com/zh/ai/hairstylespro-com)**
+  - HairstylesPro 是一款 AI 发型试戴工具，用户可上传照片，预览 200 多种不同长度、质感和类别的发型选项，主要面向在去沙龙前想选择新发型或发色的人群。对于发型师和沙龙客户，它可以通过在预约前以可视化方式缩小风格选择范围，简化咨询流程。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
+
 - **[Hal9 Startups](https://www.aimyflow.com/zh/ai/hal9-com)**
   - Hal9 Startups 是一个全托管的自主 AI 平台和服务，帮助初创公司创始人设计、构建、发布和扩展由 AI 驱动的产品，例如聊天机器人、智能体、应用、网站和扩展程序。对于创始人和产品团队而言，它可以通过外包 AI 工程、基础设施和维护工作，在保留对产品方向控制权的同时，缩短从想法到 MVP 的路径。
   - *适合职业:* 首席执行官, 软件开发经理, 软件工程师, 项目管理专员 +1 更多
@@ -5319,6 +5410,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[HAPPYBET188](https://www.aimyflow.com/zh/ai/magician-design)**
   - HAPPYBET188 是一个在线赌博平台，用户可在其上玩老虎机、真人赌场、体育博彩、togel、扑克及其他游戏，主要面向寻找多游戏投注网站的印度尼西亚玩家。 在 AI 驱动的搜索环境中，清晰的游戏分类和最新的服务通知可帮助联盟营销人员和 SEO 团队保持列表信息准确且更易于评估。
   - *适合职业:* 数字营销总监, 内容创作者
+
+- **[HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/zh/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)**
+  - 使用 HappyHorse 1.0 AI 视频生成器，将文本或图片转换为可直接分享的 720p 或 1080p 视频，适用于广告、社交内容和产品演示。立即开始创作。
+  - *适合职业:* 内容创作者, 数字营销总监, 电商卖家, 社交媒体内容创作者 +1 更多
 
 - **[HappySRT](https://www.aimyflow.com/zh/ai/happysrt-com)**
   - HappySRT 是一款开源 Web 应用，可帮助用户转录音频和视频、将内容翻译成多种语言，并生成摘要，主要面向需要高效处理口语媒体的人群。对于研究人员、记者和内容团队而言，这类 AI 工具可以减少手动转录工作，加快多语言审阅和报道流程。
@@ -5366,6 +5461,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Hazel AI](https://www.aimyflow.com/zh/ai/hazelai-com)**
   - Hazel AI 是一款政府采购软件，利用人工智能帮助公共机构起草 RFx 招标文件、识别认证供应商并评估响应，同时与机构模板和合规要求保持一致。对于采购官员和寻源团队而言，它可以减少手动起草和审核工作，使他们能够更加专注于供应商选择、政策遵循以及更快速的授标决策。
   - *适合职业:* 首席运营官, 项目管理专员, 分公司经理, 非营利项目经理
+
+- **[Headcanon Generator](https://www.aimyflow.com/zh/ai/headcanon-me)**
+  - Headcanon Generator 是一款 AI 写作工具，帮助同人作者根据角色名称和可选背景信息生成角色设定、关系创意、背景故事和 AU 概念。对于同人小说作者和角色扮演玩家来说，它可以通过引导式提示和约束条件加速构思，同时让角色与世界观细节保持更高的一致性。
+  - *适合职业:* 小说作家, 内容创作者, 社交媒体内容创作者, 文案策划 +1 更多
 
 - **[HeadshotBook](https://www.aimyflow.com/zh/ai/headshotbook-com)**
   - HeadshotBook 是一款 AI 头像生成器，可将用户上传的几张自拍照转换为影棚风格的专业头像，适用于 LinkedIn、简历、演示文稿、团队照片和高管资料，主要面向求职者、职场人士、创业者和企业高管。对于招聘人员、顾问、创始人以及其他需要面对客户的专业人士，它可以在无需安排传统拍摄的情况下，加快在多种工作场景中制作精致职业形象照的过程。
@@ -5548,6 +5647,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - humaniz.app 是一款免费的 AI 文本润色工具，可将 AI 生成的文本转换为更自然、更像人类写作的内容，适用于任何创建或编辑内容的人。它可以帮助作家、营销人员、学生以及类似角色更快地润色草稿，同时保留原始含义和有利于 SEO 的关键词。
   - *适合职业:* 文案策划, 内容创作者, 技术写作人员, 教师 +1 更多
 
+- **[Humaniz.app](https://www.aimyflow.com/zh/ai/humaniz-app)**
+  - Humaniz.app 是一款免费的 AI 文本人性化工具，可将 AI 生成的内容改写得更自然，主要面向需要更具人类表达风格文本的创作者、营销人员、学生和研究人员。对于内容与传播类岗位，它可以在提升可读性并减少被 AI 检测器误判的同时，加快编辑效率。
+  - *适合职业:* 文案策划, 内容创作者, 数字营销总监, 技术写作人员
+
 - **[Humanize](https://www.aimyflow.com/zh/ai/humanize-sh)**
   - Humanize 是一款 AI 文本人性化与检测工具，可将来自 ChatGPT、Gemini 和 Claude 等工具生成的内容改写为更自然的表达，主要面向学生、写作者以及正在润色 AI 辅助文本的专业人士。 对于内容创作、学术写作和商务写作岗位，它可通过帮助团队在最终使用前审查 AI 生成草稿的可读性和被检测风险，加快编辑流程。
   - *适合职业:* 文案策划, 技术写作人员, 数字营销总监, 内容创作者 +1 更多
@@ -5604,6 +5707,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Hyring 是一款 AI 招聘软件，可帮助招聘人员和 HR 团队自动化完成简历筛选、电话筛选、视频面试、编程面试和英语能力评估，从而更快地筛选出候选人。对于招聘和人才获取专业人士而言，它可以减少重复性的招聘早期评估工作，同时提供结构化评分、转录记录和监考信号，以支持更一致的人工作出招聘决策。
   - *适合职业:* 招聘经理, 员工关系经理, 软件开发经理, 在线编程导师
 
+- **[I2V](https://www.aimyflow.com/zh/ai/i2v-ai)**
+  - I2V 是一个面向创作者和媒体专业人士的 AI 视频生成平台，可将文本、图像或音频转换为带有集成音频、角色一致且可导出为 MP4 的多镜头短篇电影式视频。对于营销人员、教育工作者和视频团队，它能够加快概念构思和前期可视化流程，同时减少短视频内容的手动编辑工作。
+  - *适合职业:* 内容创作者, 数字营销总监, 社交媒体内容创作者, 平面设计师 +1 更多
+
 - **[iA Presenter](https://www.aimyflow.com/zh/ai/ia-net-presenter)**
   - iA Presenter 是一款 macOS 演示应用，可帮助用户将书面草稿、笔记和 Markdown 风格文本转换为幻灯片、演讲者备注以及可导出的讲义，主要面向那些通过写作而非手动设计幻灯片来制作演示内容的人。对于教师、演讲者和知识工作者来说，其以文本为先的工作流程和自动布局可减少格式调整工作，并让注意力集中在结构、排练和呈现上。
   - *适合职业:* 大学教授, 项目管理专员, 技术写作人员, 学校辅导员 +1 更多
@@ -5659,6 +5766,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[illustration.app](https://www.aimyflow.com/zh/ai/illustraai-com)**
   - illustration.app 是一款 AI 插画生成工具，帮助用户为网站、应用、演示文稿和营销材料创建定制化、风格一致的矢量插画及插画包，主要面向产品团队、营销人员和设计师。在 AI 辅助设计工作流中，它可以帮助这些专业人士更快产出可编辑的 SVG 资源，同时在界面、营销活动和文档之间保持视觉风格一致。
   - *适合职业:* 平面设计师, 数字营销总监, 文案策划, 内容创作者 +1 更多
+
+- **[Image 2](https://www.aimyflow.com/zh/ai/imagev2-org)**
+  - Image 2 是一款多模型 AI 图像生成与编辑工具，集成 GPT Images 2.0、Nano Banana 2、Seedream 5 Lite 等，可用于文生图、图生图、参考图编辑、海报、广告和电商视觉内容。
+  - *适合职业:* 平面设计师, 数字营销总监, 电商销售负责人, 社交媒体内容创作者 +1 更多
 
 - **[Image Editor Online](https://www.aimyflow.com/zh/ai/imageeditor-online)**
   - Image Editor Online 是一款基于浏览器的 AI 图像编辑器，帮助用户通过文本提示进行编辑、裁剪、增强、去除背景和应用风格变化，主要面向初学者以及制作人像、产品图片、社交媒体内容、海报或学习材料的人群。对于营销人员、创作者、教育工作者和电商团队而言，基于提示词的编辑可以加快视觉内容制作流程，并减少对复杂桌面设计软件的依赖。
@@ -5911,6 +6022,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[InstantMind](https://www.aimyflow.com/zh/ai/instantmind-ai)**
   - InstantMind 是一款 AI 思维导图生成与摘要工具，可将文本、文档、图像、网页和 YouTube 视频转换为可视化思维导图、大纲和内容摘要，适用于学生、研究人员及其他知识工作者。在 AI 驱动的研究、学习和规划工作流中，它可帮助这些用户更快提取要点，通过上下文对话探索源材料，并更清晰地呈现复杂信息。
   - *适合职业:* 大学教授, 教育科技顾问, 技术写作人员, 项目管理专员 +1 更多
+
+- **[InstaPV](https://www.aimyflow.com/zh/ai/instapv-ai)**
+  - InstaPV 是一款基于网页的匿名查看工具，可用于浏览公开的 Instagram 故事、个人资料、帖子、Reels、精选内容以及最近关注动态，帮助用户在无需登录的情况下进行浏览，主要面向监控公开 Instagram 账号的人群。对于社交媒体经理和研究人员而言，它可以在不使用 Instagram 账号的情况下，加快竞品追踪和公开账号审查。
+  - *适合职业:* 社交媒体内容创作者, 数字营销总监, 内容创作者, 美食爱好者
 
 - **[Instavibes](https://www.aimyflow.com/zh/ai/instavibes-app)**
   - Instavibes 是一款 AI 光学采样器，可将照片转换为可演奏、免版税的音频采样和合成器纹理，主要面向在 Ableton Live、FL Studio 和 Logic Pro 等 DAW 中制作音乐的音乐制作人和声音设计师。 在 AI 驱动的音乐工作流程中，它可以帮助制作人和音频专业人士从视觉素材中生成原创声音素材，加快 lo-fi、trap、downtempo 和实验电子音乐等风格的创作与试验。
@@ -6283,6 +6398,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Klariqo](https://www.aimyflow.com/zh/ai/klariqo-com)**
   - Klariqo 是一个面向企业呼叫中心和外呼销售团队的 AI 语音代理平台，可通过直拨器和 SIP 集成筛选潜在客户、检测语音信箱，并转接高意向来电。对于呼叫中心运营人员、销售经理和 BPO 团队，它能够自动化重复性的通话处理，并借助可搜索的通话记录和通话后数据提取，更快地将合格潜在客户转交给人工成交人员。
   - *适合职业:* 区域销售经理, 电商销售负责人, 首席运营官, 项目管理专员 +1 更多
+
+- **[Kling 3.0 AI Video Generator](https://www.aimyflow.com/zh/ai/jxp-com-kling-kling-3-0)**
+  - Kling 3.0 AI 视频生成器可创建具有原生音频、角色一致性和精准分镜控制的电影级多镜头视频。
+  - *适合职业:* 内容创作者, 数字营销总监, 社交媒体内容创作者, 文案策划 +1 更多
 
 - **[Kling 3.0 Motion Control](https://www.aimyflow.com/zh/ai/kling3-io-motion-control)**
   - Kling 3.0 运动控制是一款 AI 动作迁移工具，可从 3–30 秒的视频中提取动作，并将其应用到静态角色图像上，帮助创作者、动画师和营销人员制作角色动画、故事板和社交内容。对于动画、视频和创意团队，它可将参考表演转化为可复用的动作，从而加快迭代，并提供更一致的身体和手部细节。
@@ -6915,6 +7034,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - LTX 是一个基于网页的 AI 视频制作工作室，可帮助创意团队、营销人员、电影制作人和广告从业者将脚本、概念、图像和视频转化为分镜、视觉素材以及可投入制作的视频。对于视频制作人、创意总监和内部工作室团队而言，它可通过将生成、镜头控制、一致性工具和协作整合到一个工作流程中，缩短创意构思和前期制作周期。
   - *适合职业:* 内容创作者, 文案策划, 社交媒体内容创作者, 独立电影人 +1 更多
 
+- **[Ltx 2.3](https://www.aimyflow.com/zh/ai/jxp-com-ltx-ltx-2-3)**
+  - Ltx 2.3 是一款面向创作者和制作团队的 AI 视频生成器，可根据文本、图像和音频生成 4K 视频。它可帮助视频营销人员和剪辑师以更快的速度进行迭代，并实现更好的提示词遵循度、更流畅的运动效果、更干净的音频以及原生竖屏输出。
+  - *适合职业:* 社交媒体内容创作者, 数字营销总监, 独立电影人, 软件工程师
+
 - **[LTX Model](https://www.aimyflow.com/zh/ai/ltx-video)**
   - LTX Model 是一个多模态视频生成模型，可帮助开发者、产品团队、工作室和企业通过 API、开放权重或本地部署，基于文本、图像、音频和视频输入生成、制作动画并编辑达到生产级标准的视频。对于视频产品团队和制作专业人士而言，随着 AI 视频从实验阶段迈向嵌入式、可扩展的生产系统，这有助于提升工作流控制能力和部署灵活性。
   - *适合职业:* 软件工程师, 软件开发经理, 独立电影人, 内容创作者 +1 更多
@@ -7158,6 +7281,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - MakeShot AI 视频生成器是一个在线 AI 视频创作平台，可将文本提示或静态图像转换为视频，并提供原生音频和多种生成模型等选项，主要面向创作者、营销人员、YouTuber、电影制作人和教育工作者。在 AI 驱动的内容工作流中，它可以帮助创意和营销团队更快地产出更多视频变体、创意概念和辅助视觉内容，而无需依赖传统制作流程。
   - *适合职业:* 内容创作者, 数字营销总监, 社交媒体内容创作者, 文案策划 +1 更多
 
+- **[Manga Translator – AI Translate Manga](https://www.aimyflow.com/zh/ai/mangatranslator-me)**
+  - 使用 Mee 即时翻译漫画、韩漫和网络漫画。AI 驱动的漫画翻译器可保留版式，提供准确翻译。可在线阅读或下载图片。
+  - *适合职业:* 内容创作者, 技术写作人员, 文案策划
+
 - **[MangaMaker](https://www.aimyflow.com/zh/ai/mangamaker-app)**
   - MangaMaker 是一款基于网页的 AI 漫画与连环画创作工具，帮助用户生成包含一致角色、分镜布局、对话气泡和漫画风格文字的完整页面，主要面向希望创作漫画、连环画或网络漫画但不具备高级绘画技能的创作者。对于漫画艺术家、编剧和内容创作者而言，它可以加快页面制作，减少重复性的排版和角色设计工作，同时在各个分镜之间保持视觉一致性。
   - *适合职业:* 内容创作者, 小说作家, 独立电影人, 平面设计师 +1 更多
@@ -7325,6 +7452,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Melodusk 是一款 AI 音乐生成器，可帮助用户根据文本提示创作原创歌曲、纯音乐、人声以及分轨音频，主要面向内容创作者、音乐人，以及视频、播客或游戏制作团队。在 AI 驱动的创意工作流程中，它能够加快配乐草稿制作和音频实验，适合需要定制音乐但不具备传统制作技能的剪辑师、营销人员和开发者。
   - *适合职业:* 内容创作者, 社交媒体内容创作者, 播客制作人, 数字营销总监 +1 更多
 
+- **[MeloLab — Free AI Music Generator](https://www.aimyflow.com/zh/ai/melolab-ai)**
+  - 几秒内生成免版税的 AI 音乐。通过文本描述创作包含人声、背景音乐和自定义配乐的歌曲。免费开始，无需信用卡。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 播客制作人, 独立电影人 +1 更多
+
 - **[Mem](https://www.aimyflow.com/zh/ai/get-mem-ai)**
   - Mem 是一款由 AI 驱动的笔记应用，帮助用户记录、整理、回忆并与自己的笔记、会议内容、研究资料和网页内容进行对话，主要面向需要将信息集中在一个地方的知识工作者。对于创始人、研究人员以及会议密集型团队等角色，它可以减少手动管理笔记的工作量，并让已保存的上下文更容易被检索和用于起草内容及辅助决策。
   - *适合职业:* 首席执行官, 项目管理专员, 技术写作人员, 软件工程师 +1 更多
@@ -7420,6 +7551,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Mesh](https://www.aimyflow.com/zh/ai/usemesh-com)**
   - Mesh 是一款应计自动化工具，通过聚合采购、发票、合同和消息数据，帮助中型到大型企业的财务团队替代手工电子表格，并利用可审计的规则计算应计项目和预付项目。对于会计和财务主管而言，这种由 AI 驱动的方法可通过识别异常并保留每项估算背后的逻辑和证据，减少月末对账工作。
   - *适合职业:* 注册会计师, 首席财务官, 财务规划与分析经理, 金融分析师
+
+- **[Messy files to spreadsheet workflows](https://www.aimyflow.com/zh/ai/messy2sheet-com)**
+  - 上传 PDF、截图、电子邮件、CSV、电子表格或粘贴的文本。Messy2Sheet 会生成一个表格，供你核对、导出，并在下一个类似文件中重复使用。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Meta AI Studio](https://www.aimyflow.com/zh/ai/ai-meta-com-ai-studio)**
   - Meta AI Studio 是一款用于创建自定义对话式 AI 角色和创作者 AI 的工具，这些 AI 可在 Messenger、Instagram 和 WhatsApp 上聊天，主要面向希望构建基于兴趣的助手或自身 AI 延伸体的消费者和创作者。对于创作者和社交媒体经理来说，它可以通过以他们的口吻处理日常对话来简化受众互动，同时保持对回复的可见性和控制权。
@@ -7739,6 +7874,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Murf AI 是一个面向开发者、创作者和本地化团队的 AI 语音平台，帮助用户生成逼真的文本转语音配音、构建语音代理，并以多种语言为音频和视频进行配音或翻译。在 AI 驱动的内容创作和客户运营中，它可以帮助学习设计师、支持团队、营销人员和媒体制作人更快地创建多语言语音体验，同时保持更一致的语音质量。
   - *适合职业:* 内容创作者, 软件工程师, 技术写作人员, 文案策划 +1 更多
 
+- **[Musci.io - Best AI Music Generator](https://www.aimyflow.com/zh/ai/musci-io)**
+  - 使用 Musci.io 即刻创作专业级 AI 音乐。通过文本生成免版税音乐，支持 100 多种流派。创作者首选的 AI 音乐生成器。
+  - *适合职业:* 内容创作者, 音乐爱好者, 播客制作人, 社交媒体内容创作者 +1 更多
+
 - **[MuseCraft.AI](https://www.aimyflow.com/zh/ai/musecraft-ai)**
   - MuseCraft.AI 是一个一体化 AI 创作平台，可帮助创作者、设计师和营销人员通过文本或图像生成图片和视频，并通过在一个平台中接入 15+ 种模型，提供背景移除和人像皮肤增强功能。在 AI 驱动的内容工作流中，它让创意团队无需在不同工具之间切换，就能测试多种生成和编辑方案，从而简化视觉内容制作流程。
   - *适合职业:* 内容创作者, 平面设计师, 数字营销总监, 电商卖家 +1 更多
@@ -7762,6 +7901,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[MusicHero.ai](https://www.aimyflow.com/zh/ai/musichero-ai)**
   - MusicHero.ai 是一款 AI 音乐生成器，帮助创作者将文本或歌词转化为音乐，同时还提供人声消除、歌词创作、音效生成以及 MP4 歌词视频制作等功能，主要面向音乐人、内容创作者和视频制作者。在 AI 驱动的制作工作流程中，它可以帮助创意团队和媒体专业人士更快地将概念转化为可用的免版税音频资产及配套音乐内容。
   - *适合职业:* 内容创作者, 播客制作人, 社交媒体内容创作者, 文案策划 +1 更多
+
+- **[MusicMake.ai](https://www.aimyflow.com/zh/ai/musicmake-ai)**
+  - 从一个想法开始，创作第一首歌，然后借助 Music Agent、翻唱、混音版本、人声工具和针对性编辑，不断打磨完善。
+  - *适合职业:* 播客制作人, 内容创作者, 社交媒体内容创作者, 文案策划 +1 更多
 
 - **[MusicMaker.im Image to Music](https://www.aimyflow.com/zh/ai/musicmaker-im-image-to-music)**
   - MusicMaker.im 图像转音乐是一款 AI 音乐生成器，可将上传的图像转换为免版税歌曲或背景音乐，主要面向内容创作者、营销人员、电影制作人、动画师和音乐制作人。在 AI 驱动的创意工作流程中，它可以帮助媒体和营销团队更快地将视觉概念转化为可用于视频、广告和品牌内容的配乐。
@@ -8524,6 +8667,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Oway 是一个工业智能和自动化配送平台，帮助企业运输 1 到 12+ 个托盘的零担货运（LTL），并通过即时报价、路线规划和基于 API 的工作流，帮助承运商将未充分利用的卡车运力变现。对于物流团队、调度员和供应链运营人员而言，其原生 AI 协调能力可减少人工配载规划，加快在分散货运运营中的决策速度。
   - *适合职业:* 物流运营规划师, 首席运营官, 分公司经理, IT基础设施经理 +1 更多
 
+- **[P Video](https://www.aimyflow.com/zh/ai/pvideo-app)**
+  - P Video 可在浏览器中将提示词、图像、人像、运动参考和替换图像转换为短篇 AI 视频，用于社交短片和草稿。
+  - *适合职业:* 社交媒体内容创作者, 数字营销总监, 内容创作者, 文案策划 +1 更多
+
 - **[PageAI](https://www.aimyflow.com/zh/ai/pageai-pro)**
   - PageAI 是一款面向专业人士，尤其是开发者的 AI 网站构建工具，可将提示词转化为可直接投入生产的网站，包含设计、代码、SEO、博客功能以及拖放式自定义。对于 Web 开发者和产品团队，它能够通过生成易于维护的代码和关键的网站基础设施来减少搭建工作，使他们能够更专注于交付和迭代。
   - *适合职业:* 软件工程师, 软件开发经理, 数字营销总监, 文案策划 +1 更多
@@ -8547,6 +8694,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Paintit.ai](https://www.aimyflow.com/zh/ai/paintit-ai)**
   - Paintit.ai 是一款 AI 室内设计工具，可帮助用户上传房间图片或提示词，对室内、室外及商业空间进行重新设计、重新上色、软装布置和优化，主要面向设计专业人士、房地产团队、营销人员和房主。在 AI 驱动的可视化规划工作流程中，它可以帮助设计师、软装师和房产营销人员更快地生成并比较设计方案，再进行方案展示或采购决策。
   - *适合职业:* 室内设计师, 房地产经纪人, 商业建筑师, 平面设计师 +1 更多
+
+- **[PaioClaw](https://www.aimyflow.com/zh/ai/paioclaw-ai)**
+  - PaioClaw 为你提供一个由你自己的 API 密钥驱动的私有、始终在线的 AI 助手。无需 Docker，无需命令行——注册后 60 秒即可就绪。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Pair AI](https://www.aimyflow.com/zh/ai/pairai-com)**
   - Pair AI 是一个由 AI 辅助的技术招聘平台，帮助企业通过实用的限时编程竞赛来评估软件工程候选人，而不是依赖简历筛选或 LeetCode 式面试，主要面向招聘经理和工程团队。 在 AI 赋能的招聘流程中，它可以帮助技术招聘人员和工程负责人基于真实的问题解决能力以及对 AI 工具的有效使用，以规模化方式评估更多候选人。
@@ -8742,6 +8893,9 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Petalica Paint 是一项由 AI 驱动的绘画与草图优化网页服务，可帮助用户为线稿上色、应用绘画风格并简化草图，主要面向插画师和数字艺术家。对于创意专业人士而言，这类 AI 辅助能够加快阴影处理和清稿工作，从而让他们将更多精力放在构图和最终艺术决策上。
   - *适合职业:* 平面设计师, 内容创作者, 时装设计师, 独立电影人 +1 更多
 
+- **[PetStory.pro](https://www.aimyflow.com/zh/ai/petstory-pro)**
+  - 为猫和狗生成清晰的性格报告，包含行为洞察、建立亲密关系的日常互动方式，以及为宠物主人提供的实用日常指导。
+
 - **[Pharos](https://www.aimyflow.com/zh/ai/pharos-health)**
   - Pharos 是一个由 AI 驱动的医院质量与患者安全平台，可为医院质量与风险团队自动完成病历摘要提取、报告、根本原因分析、审计以及质量改进跟踪。对于临床审核人员、患者安全负责人和质量改进员工，它能够减少人工病历审查，加快洞察生成，帮助团队更早针对安全事件和绩效差距采取行动。
   - *适合职业:* 医疗管理人员, 职业健康专员, IT基础设施经理, 项目管理专员
@@ -8801,6 +8955,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[PhotoUpscaler](https://www.aimyflow.com/zh/ai/photoupscaler-ai)**
   - PhotoUpscaler 是一款 AI 照片放大工具，可通过锐化细节、降低噪点和提升分辨率，帮助用户放大并增强低分辨率图像，主要面向摄影师、内容创作者和设计师。在 AI 驱动的视觉工作流程中，它可帮助这些专业人士更快地为印刷、网页和后续编辑准备更清晰的素材，同时保留原始格式和图像质量。
   - *适合职业:* 平面设计师, 社交媒体内容创作者, 数字营销总监, 电商卖家 +1 更多
+
+- **[Physics AI](https://www.aimyflow.com/zh/ai/physicsai-chat)**
+  - Physics AI 是一款在线物理解题与辅导工具，可通过输入文字题目或上传图片，帮助学生求解并理解物理问题，并提供分步讲解和示意图。对于学生和教育工作者，它可以加快题目检查，澄清推导过程，并通过可视化推理支持以概念为核心的学习。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Pic Copilot](https://www.aimyflow.com/zh/ai/piccopilot-com-home)**
   - Pic Copilot 是一款 AI 产品图像与时尚模特生成工具，帮助电商团队生成产品照片、虚拟试穿、本地化视觉内容和营销素材，尤其适用于时尚品牌和在线商家。对于电商经理、设计师和营销人员而言，它可以减少对影棚拍摄的依赖，同时加快产品详情页、广告和国际营销活动的创意制作速度。
@@ -9571,6 +9729,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Rastro 是一个 AI 目录运营平台，帮助分销商丰富产品数据、填补内容空白、进行价格对标并更快推出产品，主要面向管理大型 SKU 目录和复杂分类体系的团队。对于目录、商品运营和运营专业人士而言，它可以自动化数据丰富和市场调研，使他们能够专注于商品组合质量、定价决策以及更快的产品上架。
   - *适合职业:* 电商销售负责人, 电商卖家, 项目管理专员, 首席运营官 +1 更多
 
+- **[Ray 3.2 AI Video Generator](https://www.aimyflow.com/zh/ai/ray32-app)**
+  - 使用 Ray 3.2 AI 视频生成器逐帧导演视频。16 个关键帧，1080p HDR，20 秒片段，EXR 导出。免费入门额度，无需信用卡。
+  - *适合职业:* 独立电影人, 平面设计师, 内容创作者, 数字营销总监 +1 更多
+
 - **[rct AI](https://www.aimyflow.com/zh/ai/rct-ai)**
   - 为游戏行业提供 AI 解决方案
   - *适合职业:* 软件开发经理, 软件工程师, 独立电影人, 内容创作者 +1 更多
@@ -9622,6 +9784,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[RealRoots](https://www.aimyflow.com/zh/ai/therealroots-com)**
   - RealRoots 是一项友谊配对服务，帮助 21 岁及以上的女性通过引导式线下体验和为期六周的系列活动，在所在城市结识经过精心筛选的小组，主要面向希望在本地建立新友谊的女性。其由 AI 驱动的性格测验可帮助社区建设者和活动组织者了解社交风格，并打造更匹配、摩擦更少的小组互动。
   - *适合职业:* 健康教练, 非营利项目经理, 社区学院讲师, 项目管理专员 +1 更多
+
+- **[reAPI](https://www.aimyflow.com/zh/ai/reapi-ai)**
+  - reAPI 是一个 AI API 聚合平台，为开发者和工程团队提供一个兼容 OpenAI 的统一端点，用于访问领先的图像、视频、聊天、音乐和代码模型，并具备自动故障切换和零请求日志记录功能。在 AI 生产工作流中，它可以帮助构建多模态应用和内部 AI 系统的平台工程师降低集成与路由开销。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Rebel Audio](https://www.aimyflow.com/zh/ai/rebelaudio-ai)**
   - Rebel Audio 是一个社交播客平台，帮助播客创作者将音频或视频转化为播客节目、标题、描述、封面图、文字稿、翻译版本和社交短片，并通过一个工作流发布到各大平台。对于播客创作者和内容团队来说，这类 AI 自动化可以减少编辑和分发工作，使他们能够更专注于节目制作、受众增长以及口语内容的再利用。
@@ -10351,9 +10517,21 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Seedance 2.0 是一款 AI 视频生成器，可将文本或图像转换为具有多镜头叙事、音频生成和编辑控制功能的电影级视频，主要面向创作者、营销人员和电影制作人。在 AI 驱动的内容工作流中，它可以帮助视频团队和社交媒体专业人士更快地制作概念视觉、短视频素材和预演内容，并减少手动剪辑。
   - *适合职业:* 内容创作者, 数字营销总监, 社交媒体内容创作者, 电商卖家 +1 更多
 
+- **[Seedance 2.0 - Free AI Video Generator](https://www.aimyflow.com/zh/ai/seedance2-so)**
+  - 使用 Seedance 2.0 创建电影级 AI 视频。文生视频、图生视频、原生音频。Seedance 2.0 AI 视频生成器。免费开始。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
+
 - **[Seedance 2.0 AI Video Generator](https://www.aimyflow.com/zh/ai/seedances-app)**
   - Seedance 2.0 实现了突破性的 AI 视频生成技术，支持 2K 分辨率和原生音频。通过高级多模态输入，从文本或图像创建电影级视频。Seedance 2 将您的创意愿景变为现实。
   - *适合职业:* 内容创作者, 平面设计师, 独立电影人
+
+- **[Seedance 2.0 Mini](https://www.aimyflow.com/zh/ai/seedance2mini-ai)**
+  - Seedance 2.0 Mini 是一款 AI 视频生成器，可根据文本提示或图像创建简短的电影感片段，主要面向制作广告、宣传片和社交视频的创作者与营销人员。对于营销和创意团队，它可以将创意简报或静态图快速转换为可编辑的 MP4 片段，从而加快概念测试和短视频制作。
+  - *适合职业:* 数字营销总监, 社交媒体内容创作者, 内容创作者, 文案策划 +1 更多
+
+- **[Seedance 2.0/1.5 Pro](https://www.aimyflow.com/zh/ai/xmk-com-seedance)**
+  - Seedance 2.0/1.5 Pro 是 xmk 上的一款 AI 视频生成器，帮助用户通过文本、图片、音频和视频参考生成电影级视频，主要面向创作者、营销人员和制作团队。其多模态控制和多镜头一致性可帮助视频编辑和内容团队更快制作出更统一、更精致的营销活动。
+  - *适合职业:* 社交媒体内容创作者, 数字营销总监, 播客制作人, 独立电影人 +1 更多
 
 - **[Seek](https://www.aimyflow.com/zh/ai/seek-ai)**
   - Seek 提供强大的 AI 数据分析功能。我们的自然语言数据接口允许您使用简单的英语向数据提问，并实时提取数据见解。
@@ -10825,6 +11003,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Songtell 是一个由 AI 驱动的网站，帮助音乐听众发掘歌曲歌词背后的含义和故事，主要面向希望更深入理解自己喜爱歌曲的乐迷。对于音乐撰稿人、编辑和社区策展人来说，它可以加快歌词解读过程，并支持在大型曲库中进行更清晰、更具规模化的歌曲评论。
   - *适合职业:* 音乐爱好者, 内容创作者, 文案策划, 技术写作人员 +1 更多
 
+- **[SongUnique](https://www.aimyflow.com/zh/ai/songunique-com)**
+  - SongUnique 是一项定制歌曲创作服务，可将客户的故事、回忆和场合转化为一首由录音室制作的原创歌曲，主要面向为家人、伴侣或重要里程碑事件购买个性化礼物的人群。它可以帮助礼品购买者和活动策划者以更快、更有条理的制作流程，打造更具个人特色、以故事为核心的纪念作品。
+  - *适合职业:* 内容创作者, 文案策划, 演唱会主办人, 音乐爱好者
+
 - **[Sonia](https://www.aimyflow.com/zh/ai/soniahealth-com)**
   - Sonia 是一款 AI 情感支持陪伴产品，提供语音和文本形式的身心健康会话、冥想、日记记录、建议和练习，基于 CBT 和 ACT 框架打造，面向需要在传统护理体系之外获得可及性心理健康支持的人群。对于心理健康研究人员和护理团队，它可以通过始终可用、结构化的应对互动，在预约间隔期间延伸支持，同时为更安全的 AI 赋能支持模式提供参考。
   - *适合职业:* 健康教练, 医疗管理人员, 非营利项目经理, 学校辅导员 +1 更多
@@ -11200,6 +11382,14 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - StylePal 是一款 AI 时尚助手应用，用户可通过上传照片并即时获得风格评分，在两套穿搭之间做出选择，主要面向在 iOS 和 Android 上进行日常穿衣决策的个人用户。在 AI 支持的个人造型搭配方面，它可以帮助忙碌的职场人士和求职者更快、更一致地为工作、会议和面试做出穿搭选择。
   - *适合职业:* 时装设计师, 内容创作者, 房地产经纪人
 
+- **[Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/zh/ai/aitoolsobserver-com-submit)**
+  - 免费将您的 AI 工具提交到 AiToolsObserver，并通过编辑内容、排名、AI 发现和精选工具列表提升曝光度。
+  - *适合职业:* 数字营销总监, 首席执行官, 软件开发经理, 文案策划 +1 更多
+
+- **[Subnautica 2 Interactive Map](https://www.aimyflow.com/zh/ai/subnautica2map-org)**
+  - Subnautica 2 互动地图是一款粉丝制作的导航工具，可帮助抢先体验版玩家根据原始 XYZ 数值对比附近资源坐标。随着 AI 游戏指南不断增多，固定到版本的数据可帮助 Wiki 编辑和攻略作者根据当前补丁核对资源建议。
+  - *适合职业:* 内容创作者, 技术写作人员, 文案策划, 社交媒体内容创作者
+
 - **[Subsets](https://www.aimyflow.com/zh/ai/subsets-com)**
   - Subsets 是一个面向消费者订阅业务的 AI 留存自动化平台，帮助商业团队预测流失人群、开展并分析 A/B 测试，并在无需工程支持的情况下，将成功的生命周期策略转化为自动化流程。对于留存、生命周期和营销团队，它可利用第一方数据和可解释 AI，在整个订阅生命周期中更有效地触达订阅用户，从而加快基于证据的决策。
   - *适合职业:* 数字营销总监, 电商销售负责人, 数据科学家, 金融分析师 +1 更多
@@ -11222,6 +11412,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[SUFY](https://www.aimyflow.com/zh/ai/sufy-com)**
   - SUFY 提供 CDN 和可扩展对象存储服务，帮助企业更快分发内容并可靠管理云端资产，适合开发者、IT 团队和数字平台。
   - *适合职业:* 软件工程师, 数据工程师, 数据科学家, 网络安全分析师 +6 更多
+
+- **[Sulphur 2](https://www.aimyflow.com/zh/ai/sulphur2ai-com)**
+  - Sulphur 2 是基于 LTX 2.3 的开放权重 AI 视频模型，在 12.5 万个片段上进行了微调。无需 GPU。可在浏览器中免费生成文生视频——立即试用。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 数字营销总监, 平面设计师 +1 更多
 
 - **[SummaryGenerator.io](https://www.aimyflow.com/zh/ai/summarygenerator-io)**
   - SummaryGenerator.io 是一款 AI 文本摘要工具，可将粘贴或上传的文本浓缩为简短或详细的摘要，并以段落或要点形式呈现，主要面向学生、研究人员、作者以及审阅文章、论文、报告和会议记录的读者。对于研究、写作和内容审核流程，它可以通过提炼关键要点并减少阅读密集源材料所花费的时间，加快信息筛选速度。
@@ -11321,6 +11515,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Supplement Scanner: Amino](https://www.aimyflow.com/zh/ai/apps-apple-com-us-app-supplement-scanner-amino-id6744544982)**
   - Supplement Scanner: Amino 是一款 iPhone 健康与健身应用，帮助用户扫描、分析并跟踪补充剂，从成分安全性、有效性以及更洁净的替代方案等方面进行评估，主要面向关注健身、长寿或整体健康的用户。其基于 AI 的标签分析和日常补充追踪功能，可帮助注重健康的消费者和健康专业人士更快地就补充剂质量及成分重叠问题做出更有依据的决策。
   - *适合职业:* 健康教练, 美食爱好者, 医疗管理人员
+
+- **[SupplyWhy](https://www.aimyflow.com/zh/ai/supplywhy-ai)**
+  - SupplyWhy 是一个面向汽车供应链团队的 AI 利润智能平台，旨在提升盈利能力、现金流、韧性和规划水平。其经过行业领域训练的智能体可帮助规划人员和运营负责人更快地做出可解释的决策，并减少与规划相关的浪费。
+  - *适合职业:* 物流运营规划师, 工厂运营主管, 首席运营官, 首席财务官 +1 更多
 
 - **[Support Flow TAAFT](https://www.aimyflow.com/zh/ai/pixiebrix-com-product-support-flow-taaft)**
   - Support Flow TAAFT 是 PixieBrix 推出的一款 AI 副驾驶，帮助 B2B 客户支持和技术支持团队通过在现有工具中呈现上下文内容、实时数据和操作，更快地解决工单。对于支持坐席、支持工程师以及产品或工程团队而言，它可通过将准确答案和后续步骤直接融入工作流程，减少升级处理和上下文切换。
@@ -11817,6 +12015,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - 本页面是一篇新闻文章，概述了 2025 年的八大 AI 趋势，帮助技术专业人士和业务决策者了解 AI 安全、自主代理、联邦学习、边缘 AI 以及新型硬件架构等发展。对于产品负责人、工程师和合规团队而言，这类趋势概览可为围绕更安全的部署、保护隐私的 AI 以及更高效的行业专用系统的规划提供指导。
   - *适合职业:* 软件开发经理, 首席执行官, 网络安全经理, 项目管理专员 +1 更多
 
+- **[This submitted link](https://www.aimyflow.com/zh/ai/youtu-be-m8am9-pjszy)**
+  - 这条提交链接是 Minika 的 YouTube 视频，内容为儿童动画剧集《Maceracı Yüzgeçler》第 24 集《Sevimli Mühendisler》。它作为媒体参考条目入库，而不是独立 AI 工具页面，并保留原始短链接以便审核和播放。
+  - *适合职业:* 内容创作者, 教师, 社交媒体内容创作者
+
 - **[This tool](https://www.aimyflow.com/zh/ai/airemovetextfromimage)**
   - 该工具帮助用户在线使用AI从图像中删除文本，主要面向设计师和编辑。它通过自动删除文本来提高他们的工作效率。
   - *适合职业:* 平面设计师, 数字营销总监, 电商销售负责人, 软件工程师 +1 更多
@@ -11880,6 +12082,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Thyme, now transitioned to Hazel through a partnership with Altruist,](https://www.aimyflow.com/zh/ai/meetthyme-com)**
   - Thyme 现已通过与 Altruist 的合作转型为 Hazel，是一个面向财富管理专业人士和财务顾问的 AI 平台，支持会议工作流、客户开户和文档解析，使他们能够将更多精力放在客户关系上。 在 AI 赋能的顾问实践中，此类工具可减轻行政负担，并帮助顾问将更多时间用于规划、沟通和信义决策。
   - *适合职业:* 金融分析师, 首席财务官, 投资组合经理, 财务规划与分析经理 +1 更多
+
+- **[TI84.io](https://www.aimyflow.com/zh/ai/ti84-io)**
+  - TI84.io 是一款免费的基于浏览器的 TI-84 计算器模拟器，主要面向学生和教师，可帮助用户绘制函数图像并执行代数、统计、矩阵和科学计算。在 AI 时代的数学教学中，它为教师和家教提供了一个快速的共享屏幕工具，用于演示计算器操作流程，无需安装软件或实体设备。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Ticketify](https://www.aimyflow.com/zh/ai/ticketify-io)**
   - Ticketify 是一款 AI 工单生成器，可将想法或错误报告转换为适用于 Jira、Linear 及其他项目管理平台的结构化工单，主要面向开发者。 在 AI 辅助的软件工作流中，它可以帮助工程和产品团队更一致地记录问题，并更快地从发现推进到执行。
@@ -12095,6 +12301,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[TrendHopper](https://www.aimyflow.com/zh/ai/trendhopper-ai)**
   - TrendHopper 是一个 AI 内容自动化与博客托管平台，帮助用户规划、生成、优化并发布以 SEO 为重点的文章，主要面向博主、营销人员以及希望提升自然流量的企业。 在以 AI 为先的搜索环境中，它能够帮助内容和 SEO 团队更快地产出经过优化的文章，并在搜索引擎和 AI 搜索工具之间保持更一致的发布工作流程。
   - *适合职业:* 数字营销总监, 文案策划, 社交媒体内容创作者, 首席执行官 +1 更多
+
+- **[TrendVis](https://www.aimyflow.com/zh/ai/trendvis-com)**
+  - TrendVis 通过一个 6 步工作流帮助 DTC 团队更快上线创意：目标、趋势辅助、创意角度、图片测试、优化和视频升级。
+  - *适合职业:* 数字营销总监, 电商销售负责人, 社交媒体内容创作者, 文案策划 +1 更多
 
 - **[Triall](https://www.aimyflow.com/zh/ai/triall-ai)**
   - Triall 是一款 AI 答案核查工具，通过让三个模型独立作答、在盲审条件下相互审查，并根据实时网络来源验证论断，帮助用户识别幻觉；其主要面向依赖 AI 进行准确研究和决策支持的人群。对于研究人员、分析师及其他知识工作者，它增加了一层结构化验证机制，可减少 AI 生成答案中的虚假自信、暴露薄弱证据以及缺乏依据的共识。
@@ -12961,6 +13171,14 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Wallnora 是一家 AI 墙面艺术工作室，帮助创作者、装饰师和 Etsy 卖家生成多种风格的艺术作品，在带有相框和灯光效果的房间样机中预览，并下载可直接打印的 4K 文件。对于室内设计师和数字艺术卖家，它可以通过在打印或上架前展示作品在真实空间中的效果，缩短概念测试和产品创作周期。
   - *适合职业:* 室内设计师, 电商卖家, 平面设计师, 内容创作者 +1 更多
 
+- **[Wan 2.7 AI Video Generator](https://www.aimyflow.com/zh/ai/jxp-com-wan-wan-2-7)**
+  - Wan 2.7 AI 视频生成器是一款将提示词、图片和参考素材转化为短视频的工具，主要面向创作者、品牌团队、代理机构和教育工作者。它可帮助视频、营销和内容团队更快地制作和迭代高质量短片，并对场景、运动和一致性拥有更强的控制。
+  - *适合职业:* 内容创作者, 数字营销总监, 社交媒体内容创作者, 电商卖家 +1 更多
+
+- **[Wan 3.0](https://www.aimyflow.com/zh/ai/wan3pro-com)**
+  - Wan 3.0 是阿里巴巴即将推出的开源视频模型——600 亿参数、原生 4K 输出、最长 30 秒单次生成，以及自动化 2–5 分钟多镜头叙事。请在 Wan 3.0 AI 于 2026 年年中上线时，第一时间开始创作。
+  - *适合职业:* 内容创作者, 社交媒体内容创作者, 数字营销总监, 平面设计师 +1 更多
+
 - **[Wan AI](https://www.aimyflow.com/zh/ai/wan-video)**
   - Wan AI 是一个 AI 创意平台和视频生成模型，帮助创作者、设计师和视觉叙事者生成文生视频、图生视频、图像生成、图像编辑以及多镜头叙事内容。对于创意团队和内容制作者而言，它能够将提示词和参考视觉素材转化为更一致的场景、角色和故事序列，从而加快概念开发和视频前期制作。
   - *适合职业:* 内容创作者, 平面设计师, 社交媒体内容创作者, 数字营销总监 +1 更多
@@ -13191,6 +13409,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
   - Wordware 是一家 AI 上下文实验室，其主要产品 Sauna 是一个智能工作空间和 AI 助手，旨在通过处理繁琐事务、学习用户偏好、识别模式并预判下一步，帮助用户重新获得深度工作时间，主要面向知识工作者。 在 AI 驱动的工作流中，像 Sauna 这样的工具可以帮助运营人员、创始人、设计师和工程师等专业人士在不同任务之间保留上下文，从而做出更快、更明智的决策。
   - *适合职业:* 首席执行官, 首席运营官, 软件开发经理, 平面设计师 +1 更多
 
+- **[Workforce Wave AI Receptionist](https://www.aimyflow.com/zh/ai/workforcewave-com-solutions-ai-receptionist)**
+  - Workforce Wave AI Receptionist 是一款面向医疗、牙科、法律和家庭服务等小型企业的 AI 电话代理，可接听来电、甄别潜在客户、安排预约并分派请求。它可帮助前台接待和受理人员将更多精力集中在后续跟进和复杂个案上。
+  - *适合职业:* 分公司经理, 餐厅总经理, 医疗管理人员, 房地产经纪人 +1 更多
+
 - **[Workmate](https://www.aimyflow.com/zh/ai/workmate-com)**
   - Workmate 是一款 AI 日程安排助手，帮助用户协调会议、管理可用时间、发送跟进信息并处理冲突，主要面向忙碌的专业人士以及有频繁日历协调需求的团队。对于高管、幕僚长和行政团队，它可以减少手动安排日程的工作量和遗漏跟进的情况，让更多时间投入到更高价值的工作中。
   - *适合职业:* 首席执行官, 首席运营官, 项目管理专员, 招聘经理 +1 更多
@@ -13281,6 +13503,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[XJoy AI](https://www.aimyflow.com/zh/ai/xjoy-ai)**
   - XJoy AI 是一款 AI 图像工具，可帮助用户让照片动起来、基于单张照片生成图像变体、更换全身图中的服装，并通过上传两张图片生成接吻图片，主要面向编辑个人照片的人群。对于照片编辑者和社交媒体内容创作者来说，这些 AI 功能可以基于少量源图片加快创意图像的制作与尝试。
   - *适合职业:* 社交媒体内容创作者, 平面设计师, 内容创作者, 电商卖家 +1 更多
+
+- **[XMACNA](https://www.aimyflow.com/zh/ai/xmacna-ai)**
+  - XMACNA 提供名为数字员工的定制 AI 智能体，可连接各类系统，为采用 AI 的企业执行销售、客户服务、运营和后台流程。对于销售和运营团队，它们可通过筛选潜在客户、记录数据并在需要时引入人工介入，减少人工交接。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 独立电影人, 数字营销总监 +1 更多
 
 - **[Xpoz](https://www.aimyflow.com/zh/ai/xpoz-ai)**
   - Xpoz 是一个社交情报 MCP 服务器和类型化 SDK，使 AI 代理和开发者能够通过自然语言搜索和分析来自 X、Instagram、TikTok 和 Reddit 的实时社交媒体数据。对于研究人员、营销人员和竞争情报团队，它通过为 AI 系统提供对当前社交数据的结构化访问，加快趋势分析、情绪跟踪以及对影响者或叙事的监测。
@@ -13457,6 +13683,10 @@ WisGate 是一个统一的 AI API 网关和工作室，面向开发者、创作�
 - **[Zoom AI Companion](https://www.aimyflow.com/zh/ai/zoom-com-en-ai-assistant)**
   - Zoom AI Companion 是 Zoom Workplace 中的 AI 助手，可帮助用户起草电子邮件和聊天消息、总结会议和聊天主题，并支持头脑风暴，主要面向使用 Zoom 进行沟通与协作的团队和知识型员工。对于经理、协调员以及其他以会议为主的岗位，它可以通过将对话转化为可用的摘要和草稿内容，减少人工跟进工作并加快决策。
   - *适合职业:* 项目管理专员, 软件开发经理, 首席运营官, 区域销售经理 +1 更多
+
+- **[ZOOOP](https://www.aimyflow.com/zh/ai/zooop-ai)**
+  - 一个无限画布将所有顶级 AI 图像、视频和音频模型连接到同一场景中——当你只需要单次生成时，也可随时打开专注的生成器页面。可直接在浏览器中进行故事板创作、迭代，并发布模板。
+  - *适合职业:* 平面设计师, 社交媒体内容创作者, 数字营销总监, 内容创作者 +1 更多
 
 - **[ZOYO](https://www.aimyflow.com/zh/ai/zoyo-ai)**
   - ZOYO 是一套 AI 房地产工具，帮助经纪人、房产公司、业主、设计师和建筑商创建并优化房产相关视觉内容与营销素材。

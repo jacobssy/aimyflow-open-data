@@ -22,9 +22,9 @@ lang: "es"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3336</strong><span>Herramientas exportadas</span></div>
+<div class="stat-card"><strong>3394</strong><span>Herramientas exportadas</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles cubiertos</span></div>
-<div class="stat-card"><strong>2026-05-23</strong><span>Generado el</span></div>
+<div class="stat-card"><strong>2026-06-19</strong><span>Generado el</span></div>
 </div>
 
 ## Comienza aquí
@@ -46,9 +46,19 @@ lang: "es"
 
 <div class="tool-card" markdown="1">
 
-### [Voice Cleaner](https://www.aimyflow.com/es/ai/voicecleaner-org)
+### [This submitted link](https://www.aimyflow.com/es/ai/youtu-be-m8am9-pjszy)
 
-Usa VoiceCleaner como limpiador de voz en línea para eliminar el ruido de fondo del audio, limpiar grabaciones de voz y previsualizar audio de podcasts o reuniones más claro.
+Este enlace enviado es un video de YouTube de Minika correspondiente al episodio infantil Maceracı Yüzgeçler - 24.Bölüm - Sevimli Mühendisler. Se cataloga como referencia multimedia, no como una página independiente de herramienta de IA, y conserva el enlace corto original para revisión y reproducción.
+
+**Roles adecuados:** Creador de contenido, Profesor, Creador de contenido para redes sociales
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Astrocarto](https://www.aimyflow.com/es/ai/astrocarto-org)
+
+Astrocarto es una calculadora gratuita de astrocartografía impulsada por IA que proyecta cartas natales sobre ubicaciones del mundo para proporcionar interpretaciones de líneas planetarias y perspectivas de reubicación, principalmente para astrólogos, personas que se mudan y entusiastas de la astrología. En el análisis de ubicaciones asistido por IA, puede ayudar a astrólogos y planificadores de reubicación a evaluar con mayor eficiencia patrones relacionados con la carrera profesional, las relaciones y el crecimiento personal.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -56,29 +66,9 @@ Usa VoiceCleaner como limpiador de voz en línea para eliminar el ruido de fondo
 
 <div class="tool-card" markdown="1">
 
-### [Image Layer Tool](https://www.aimyflow.com/es/ai/imagelayer)
+### [Physics AI](https://www.aimyflow.com/es/ai/physicsai-chat)
 
-Usa ImageLayer.net para dividir imágenes de diseño, producto y contenido en capas de imagen transparentes editables para Photoshop, comercio electrónico y flujos de trabajo de contenido.
-
-**Roles adecuados:** Diseñador gráfico, Vendedor de comercio electrónico, Creador de contenido, Diseñador industrial, Ingeniero de software
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [StopScroll](https://www.aimyflow.com/es/ai/stopscroll)
-
-StopScroll es una herramienta de IA para crear y seleccionar miniaturas que genera múltiples opciones de miniaturas, compara sus fortalezas y debilidades, y recomienda la mejor portada antes de publicar, principalmente para creadores y canales sin rostro. Puede ayudar a equipos de video y creadores de contenido a tomar decisiones de publicación más rápidas al evaluar la curiosidad, la legibilidad, el contraste y el potencial de clic antes de subir el contenido.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Redactor publicitario, Creador de contenido
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Remova](https://www.aimyflow.com/es/ai/remova)
-
-Remova es una plataforma empresarial de gobernanza de IA para equipos que permite a las empresas usar ChatGPT, Claude, Gemini y más de 300 modelos con controles de políticas, enmascaramiento de datos sensibles, acceso basado en roles, visibilidad de auditoría y gestión de presupuesto. Ayuda a los equipos de TI, seguridad y operaciones a reducir fugas de datos y el uso indebido de la IA, manteniendo bajo control el acceso a los modelos y el gasto.
+Physics AI es un solucionador y tutor de física en línea que ayuda a los estudiantes a resolver y comprender problemas de física a partir de preguntas escritas o imágenes cargadas, con explicaciones paso a paso y diagramas. Para estudiantes y educadores, puede acelerar la verificación de problemas, aclarar derivaciones y apoyar el estudio centrado en conceptos mediante razonamiento visual.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -86,19 +76,129 @@ Remova es una plataforma empresarial de gobernanza de IA para equipos que permit
 
 <div class="tool-card" markdown="1">
 
-### [BookCoversLab](https://www.aimyflow.com/es/ai/bookcoverslab)
+### [Ray 3.2 AI Video Generator](https://www.aimyflow.com/es/ai/ray32-app)
 
-BookCoversLab es una herramienta de publicación para KDP destinada a autores autopublicados que ayuda a crear, corregir, validar y exportar cubiertas de tapa blanda, tapa dura y libros electrónicos en formato PDF listo para impresión. Puede ayudar a autores, editores independientes y diseñadores de cubiertas a reducir el retrabajo en las cargas al detectar antes en el flujo de trabajo problemas de tamaño de corte, sangrado, lomo y cumplimiento.
+Usa el generador de video con IA Ray 3.2 para dirigir el video fotograma a fotograma. 16 fotogramas clave, HDR 1080p, clips de 20 segundos, exportación EXR. Créditos iniciales gratis, sin necesidad de tarjeta.
 
-**Roles adecuados:** Vendedor de comercio electrónico, Redactor técnico, Diseñador gráfico, Escritor de ficción, Creador de contenido
+**Roles adecuados:** Cineasta independiente, Diseñador gráfico, Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [CodingPlan](https://www.aimyflow.com/es/ai/codingplan)
+### [AI 3D Model Generator](https://www.aimyflow.com/es/ai/next3d-ai)
 
-CodingPlan es una plataforma para comprar planes de codificación con IA de Alibaba, MiniMax, Kimi, GLM y Qwen, que ayuda a los desarrolladores a elegir planes de menor costo con cuotas y capacidades de modelo similares. Para programadores y equipos de ingeniería, puede reducir el gasto en IA sin perder acceso a herramientas adaptadas a flujos de trabajo de programación y desarrollo basado en agentes.
+Crea modelos 3D en línea con Next3D. Convierte imágenes o indicaciones de texto en recursos 3D previsualizables, editables y descargables en minutos.
+
+**Roles adecuados:** Diseñador gráfico, Diseñador industrial, Ingeniero de software, Responsable de ventas e-commerce, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [AIeBookGen](https://www.aimyflow.com/es/ai/aiebookgen-com)
+
+AIeBookGen es un generador de libros electrónicos con IA que ayuda a autores de autopublicación y vendedores de libros en KDP a convertir ideas, notas, borradores o transcripciones en capítulos estructurados, metadatos, notas de revisión y paquetes de exportación EPUB/PDF. En los flujos de trabajo de publicación asistida por IA, ayuda a autores y editores a mantener alineados la estructura del manuscrito, los controles de calidad y los recursos de la ficha hasta la entrega a la plataforma.
+
+**Roles adecuados:** Escritor de ficción, Redactor publicitario, Creador de contenido, Vendedor de comercio electrónico, Redactor técnico
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/es/ai/omnigemini-io)
+
+Usa Gemini Omni con entradas de texto, imagen, video y audio para generar borradores de video, y luego sigue editando tomas, sujetos, estilo y ritmo en lenguaje natural.
+
+**Roles adecuados:** Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Redactor publicitario, Diseñador gráfico
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/es/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)
+
+Usa el generador de video con IA HappyHorse 1.0 para convertir texto o imágenes en videos listos para compartir en 720p o 1080p para anuncios, contenido para redes sociales y demostraciones de productos. Empieza a crear ahora.
+
+**Roles adecuados:** Creador de contenido, Director de marketing digital, Vendedor de comercio electrónico, Creador de contenido para redes sociales, Diseñador gráfico
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [P Video](https://www.aimyflow.com/es/ai/pvideo-app)
+
+P Video convierte indicaciones, imágenes, retratos, referencias de movimiento e imágenes de reemplazo en videos cortos con IA en tu navegador para clips sociales y borradores.
+
+**Roles adecuados:** Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido, Redactor publicitario, Diseñador gráfico
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Best AI Tools Directory (2026)](https://www.aimyflow.com/es/ai/aigenerator-tools)
+
+Compara más de 2,200 herramientas de IA por categoría, precios, reseñas, clasificaciones y últimos lanzamientos. Encuentra generadores de video con IA, herramientas de escritura, copilotos de programación y más.
+
+**Roles adecuados:** Consultor en tecnología educativa, Gerente de desarrollo de software, Director de marketing digital, Oficial de gestión de proyectos, Científico de datos
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [ChatGPT Images 2.0](https://www.aimyflow.com/es/ai/chatgptimages2-io)
+
+ChatGPT Images 2.0 utiliza GPT Image 2 para razonamiento, recuperación web, análisis de archivos, consistencia entre 8 imágenes, texto multilingüe y salida de hasta 2K.
+
+**Roles adecuados:** Diseñador gráfico, Director de marketing digital, Creador de contenido para redes sociales, Creador de contenido, Consultor en tecnología educativa
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Frame Extractor](https://www.aimyflow.com/es/ai/frame-extractor-video)
+
+Frame Extractor es un extractor de fotogramas de video basado en navegador que ayuda a los usuarios a capturar imágenes fijas individuales o por lotes a partir de archivos de video sin necesidad de subirlos, principalmente para creadores de contenido, diseñadores, educadores e investigadores. Para los flujos de trabajo de la era de la IA, ofrece a estos profesionales imágenes de origen privadas y precisas para documentación, análisis, guiones gráficos y creación de contenido visual.
+
+**Roles adecuados:** Creador de contenido, Diseñador gráfico, Profesor, Redactor técnico, Científico de datos
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/es/ai/xmk-com-grok-imagine-grok-imagine-1-5)
+
+Usa el generador de video con IA Grok Imagine 1.5 para crear videos a partir de imágenes. Convierte una imagen fija en un clip de 1 a 15 s con indicaciones, audio y salida en 480p o 720p.
+
+**Roles adecuados:** Creador de contenido, Director de marketing digital, Diseñador gráfico, Redactor publicitario, Creador de contenido para redes sociales
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/es/ai/aitoolsobserver-com-submit)
+
+Envía tu herramienta de IA a AiToolsObserver gratis y gana visibilidad mediante contenido editorial, clasificaciones, descubrimiento de IA y listados curados de herramientas.
+
+**Roles adecuados:** Director de marketing digital, Director ejecutivo, Gerente de desarrollo de software, Redactor publicitario, Creador de contenido
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Headcanon Generator](https://www.aimyflow.com/es/ai/headcanon-me)
+
+Headcanon Generator es una herramienta de escritura con IA que ayuda a los escritores de fandom a crear headcanons de personajes, ideas de relaciones, historias de fondo y conceptos de universos alternativos a partir del nombre de un personaje y un contexto opcional. Para escritores de fanfiction y jugadores de rol, puede acelerar la ideación y, al mismo tiempo, mantener más coherentes los detalles del personaje y del mundo mediante indicaciones guiadas y restricciones.
+
+**Roles adecuados:** Escritor de ficción, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario, Redactor técnico
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Messy files to spreadsheet workflows](https://www.aimyflow.com/es/ai/messy2sheet-com)
+
+Sube un PDF, una captura de pantalla, un correo electrónico, un CSV, una hoja de cálculo o texto pegado. Messy2Sheet crea una tabla que puedes revisar, exportar y reutilizar para el siguiente archivo similar.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -106,79 +206,9 @@ CodingPlan es una plataforma para comprar planes de codificación con IA de Alib
 
 <div class="tool-card" markdown="1">
 
-### [Eva](https://www.aimyflow.com/es/ai/hireeva)
+### [TI84.io](https://www.aimyflow.com/es/ai/ti84-io)
 
-Eva es una gerente de operaciones de IA para pequeñas empresas que ayuda a propietarios, fundadores y operadores a gestionar facturas, la búsqueda de leads, la prospección, los mensajes de clientes, los borradores de sitios y la creación de flujos de trabajo. Puede ayudar a los equipos de operaciones, ventas y administración a reducir el trabajo manual repetitivo y mantener organizados los registros, los seguimientos y las transferencias entre las herramientas empresariales de uso cotidiano.
-
-**Roles adecuados:** Director ejecutivo, Director de operaciones, Gerente de sucursal, Gerente de ventas de campo, Director de marketing digital
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Motion Control AI Video Generator](https://www.aimyflow.com/es/ai/fluxmov)
-
-Usa Motion Control AI para guiar el movimiento de personajes con un video de referencia. Reduce las suposiciones del prompt, la deriva facial, el movimiento aleatorio y los reintentos fallidos de video con IA.
-
-**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Diseñador gráfico, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Signal Desk](https://www.aimyflow.com/es/ai/signal-desk-study-tools-netlify)
-
-Signal Desk es un generador gratuito de prompts de estudio con IA, sin inicio de sesión, que ayuda a los estudiantes a convertir apuntes de clase, lecturas, temas de examen y listas de fuentes en prompts para recuperación activa, cuestionarios, tarjetas de estudio y planes de estudio. Puede ayudar a los estudiantes y a los educadores centrados en el estudio a crear materiales de repaso y prácticas estructuradas más rápido sin renunciar al proceso de razonamiento.
-
-**Roles adecuados:** Tutor de preparación para exámenes, Consultor en tecnología educativa, Tutor de programación en línea, Profesor
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AuraTuner](https://www.aimyflow.com/es/ai/auratuner)
-
-AuraTuner es una herramienta de IA de nivel profesional para crear imágenes de productos, visuales para fichas de ecommerce, pósteres y vídeos cortos de producto, principalmente para vendedores de ecommerce, profesionales del marketing y creadores de contenido. Puede ayudar a los equipos de producto y creativos a acelerar la edición de imágenes, la sustitución de fondos y la producción de vídeo con flujos de trabajo probados y ajustes preestablecidos de modelos.
-
-**Roles adecuados:** Vendedor de comercio electrónico, Creador de contenido, Director de marketing digital, Diseñador gráfico, Creador de contenido para redes sociales
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Image to Image AI](https://www.aimyflow.com/es/ai/aiimagetoimage)
-
-Generador gratuito de IA de imagen a imagen: sube cualquier foto, describe tu edición y obtén resultados fotorrealistas en segundos. No requiere registro. El mejor generador de imágenes con IA a partir de imágenes en línea.
-
-**Roles adecuados:** Vendedor de comercio electrónico, Creador de contenido, Diseñador gráfico, Agente inmobiliario, Diseñador de moda
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [RoleTTS](https://www.aimyflow.com/es/ai/roletts)
-
-RoleTTS es un generador de voz con IA para texto a voz de personajes, diseño de voces, clonación de voz, doblaje multilingüe y flujos de trabajo de avatares hablantes, principalmente para creadores que desarrollan contenido de historias, juegos y video. Ayuda a actores de voz, productores y equipos de videojuegos a dirigir interpretaciones expresivas línea por línea y mantener la coherencia de las voces de los personajes en audio y en avatares.
-
-**Roles adecuados:** Productor de pódcast, Cineasta independiente, Actor de voz, Creador de contenido para redes sociales, Creador de contenido
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [ScamSpot](https://www.aimyflow.com/es/ai/scamspot)
-
-Pega un mensaje, correo electrónico, texto de WhatsApp o URL sospechoso y obtén una revisión gratuita del riesgo de estafa con pasos claros a seguir.
-
-**Roles adecuados:** Analista de ciberseguridad, Gerente de ciberseguridad, Ingeniero de software
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [Vizcept](https://www.aimyflow.com/es/ai/vizcept)
-
-Vizcept es un generador de diagramas conceptuales con IA que convierte descripciones en inglés sencillo en diagramas estructurados para estudiantes, investigadores y educadores. Puede ayudar a investigadores, instructores y estudiantes a ahorrar tiempo en figuras para publicaciones, recursos visuales para clases y diagramas para tareas, produciendo rápidamente resultados claros y editables.
+TI84.io es un simulador gratuito de calculadora TI-84 basado en navegador que ayuda a los usuarios a graficar funciones y realizar cálculos de álgebra, estadística, matrices y científicos, principalmente para estudiantes y profesores. En la enseñanza de las matemáticas en la era de la IA, ofrece a profesores y tutores una herramienta rápida de pantalla compartida para demostrar flujos de trabajo de la calculadora sin instalaciones ni dispositivos físicos.
 
 **Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
 
@@ -186,101 +216,71 @@ Vizcept es un generador de diagramas conceptuales con IA que convierte descripci
 
 <div class="tool-card" markdown="1">
 
-### [AiCartoon](https://www.aimyflow.com/es/ai/aicartoon)
+### [CharaVerse](https://www.aimyflow.com/es/ai/charaverse-chat)
 
-AiCartoon es un generador de dibujos animados con IA que convierte fotos en arte estilo caricatura, retratos estilizados y avatares para personas que buscan resultados rápidos de imagen a caricatura. Puede ayudar a creadores de redes sociales, diseñadores y profesionales del marketing a producir recursos visuales pulidos más rápido con controles de estilo, exportaciones sin marca de agua y opciones de uso comercial.
+CharaVerse es una plataforma de juego de rol con personajes de IA que ayuda a los usuarios a chatear con personalidades ficticias personalizables y a crear conversaciones continuas basadas en historias, principalmente para fans del roleplay y escritores creativos. En la narración asistida por IA, puede ayudar a escritores y diseñadores narrativos a explorar rápidamente la voz de los personajes, los cambios de tono y las variaciones de escena.
 
-**Roles adecuados:** Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital, Redactor publicitario, Creador de contenido
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [CCNavX](https://www.aimyflow.com/es/ai/ccnavx)
-
-CCNavX es un sitio de comparación de API económicas de OpenAI, proxy de la API de Claude y proveedores compatibles con OpenAI, que ayuda a los usuarios a comparar precios, cobertura de modelos, métodos de pago y soporte de facturación. Está dirigido principalmente a desarrolladores y equipos que eligen proxies de API, donde unas comprobaciones claras de coste y compatibilidad pueden mejorar la planificación de la integración y los flujos de reembolso.
-
-**Roles adecuados:** Ingeniero de software, Gerente de infraestructura TI, Oficial de gestión de proyectos, Ingeniero de datos
+**Roles adecuados:** Escritor de ficción, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario, Cineasta independiente
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [ScanRead.ai](https://www.aimyflow.com/es/ai/scanread)
+### [Content True](https://www.aimyflow.com/es/ai/contenttrue-org)
 
-ScanRead.ai es una herramienta OCR gratuita que extrae texto editable de imágenes, capturas de pantalla, PDFs escaneados y documentos para cualquiera que necesite convertir texto rápidamente. Puede ayudar a los equipos de operaciones, finanzas y administración a convertir recibos, contratos, notas e informes en texto buscable más rápido.
+Content True es una herramienta de detección de contenido de IA que ayuda a los usuarios a comprobar si un texto fue generado por IA, principalmente para quienes revisan contenido escrito en japonés y otros idiomas compatibles. Para editores, educadores y revisores de contenido, puede añadir una comprobación rápida de originalidad a los flujos de trabajo de la era de la IA antes de publicar, calificar o aprobar textos.
 
-**Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [TermsHuman](https://www.aimyflow.com/es/ai/termshuman)
-
-TermsHuman es un analizador de contratos en lenguaje claro que resume términos de servicio, políticas y acuerdos, señala riesgos críticos y muestra compromisos clave en inglés o español para personas que necesitan revisar texto legal rápidamente. Puede ayudar a los equipos legales, de cumplimiento, compras y operaciones a agilizar la revisión de cláusulas y detectar términos desequilibrados antes de la aprobación.
-
-**Roles adecuados:** Abogado, Director ejecutivo, Director financiero, Oficial de gestión de proyectos
+**Roles adecuados:** Redactor técnico, Profesor universitario, Profesor, Creador de contenido, Redactor publicitario
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Veo 4 AI Video Generator Online](https://www.aimyflow.com/es/ai/veo4free)
+### [Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/es/ai/weddingspeech-xyz)
 
-Veo 4 AI Video Generator Online es una herramienta basada en navegador para crear clips de texto a video e imagen a video, dirigida principalmente a creadores, especialistas en marketing, cineastas, educadores y equipos de contenido. Su audio nativo, salida 4K y consistencia de personajes pueden ayudar a los productores de video y a los equipos de marca a acelerar la conceptualización, la previsualización y la entrega de contenido para redes sociales.
+Crea plantillas y ejemplos gratuitos de discursos de boda: padrino, dama de honor, padre o madre, o discursos de boda divertidos. Obtén tres borradores personalizados con IA en minutos.
 
-**Roles adecuados:** Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente, Director de marketing digital, Creador de contenido
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [AI Clean Voice](https://www.aimyflow.com/es/ai/voicecleaner)
-
-AI Clean Voice es un limpiador de voz con IA en línea que elimina el ruido de fondo, el viento y el eco para mejorar el habla en el audio subido, principalmente para podcasters, creadores de video, educadores y equipos de producción. Puede ayudar a editores de audio y equipos de contenido a agilizar el trabajo de limpieza mientras preserva la claridad vocal natural para una publicación más rápida.
-
-**Roles adecuados:** Productor de pódcast, Creador de contenido para redes sociales, Consultor en tecnología educativa, Redactor técnico, Redactor publicitario
+**Roles adecuados:** Redactor publicitario, Creador de contenido, Escritor de ficción, Redactor técnico
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [AI Coloring Page Generator](https://www.aimyflow.com/es/ai/aicoloringpagegenerator)
+### [Manga Translator – AI Translate Manga](https://www.aimyflow.com/es/ai/mangatranslator-me)
 
-AI Coloring Page Generator es una herramienta que convierte ideas aptas para niños en páginas para colorear en blanco y negro imprimibles, con niveles de dificultad para distintas edades, principalmente para padres y profesores. Puede ayudar a educadores y cuidadores a crear rápidamente materiales imprimibles personalizados y apropiados para cada edad para lecciones, actividades de aula o juegos en casa.
+Traduce manga, manhwa y webtoons al instante con Mee. El traductor de manga con IA preserva el diseño y ofrece traducciones precisas. Lee en línea o descarga imágenes.
 
-**Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
-
-</div>
-
-<div class="tool-card" markdown="1">
-
-### [HMG Tools Redactor](https://www.aimyflow.com/es/ai/tools-hoppingmadgames)
-
-HMG Tools Redactor es una herramienta de redacción basada en navegador que ayuda a los usuarios a detectar y reemplazar texto sensible antes de que salga de su dispositivo, principalmente para personas que gestionan prompts, registros de soporte, facturas, notas escolares y borradores de clientes. Puede ayudar a equipos de soporte, redactores y administradores a reducir la exposición accidental al preparar texto para flujos de trabajo de IA o compartir documentos.
-
-**Roles adecuados:** Ingeniero de software, Redactor técnico, Redactor publicitario, Orientador escolar, Consultor en tecnología educativa
+**Roles adecuados:** Creador de contenido, Redactor técnico, Redactor publicitario
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [Thragg in Invincible](https://www.aimyflow.com/es/ai/thragg)
+### [Seedance 2.0 Mini](https://www.aimyflow.com/es/ai/seedance2mini-ai)
 
-Explora a Thragg en Invincible con una guía centrada en quién es Thragg, su papel en el Imperio Viltrumita, cuán fuerte es y por qué Thragg vs. Battle Beast es el enfrentamiento que los lectores buscan primero.
+Seedance 2.0 Mini es un generador de video con IA para crear clips cinematográficos cortos a partir de indicaciones de texto o imágenes, principalmente para creadores y profesionales del marketing que producen anuncios, promociones y videos para redes sociales. Para los equipos de marketing y creativos, puede acelerar la validación de conceptos y la producción de contenido de formato corto al convertir briefs o imágenes fijas en clips MP4 editables.
 
-**Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
+**Roles adecuados:** Director de marketing digital, Creador de contenido para redes sociales, Creador de contenido, Redactor publicitario, Diseñador gráfico
 
 </div>
 
 <div class="tool-card" markdown="1">
 
-### [WisGate](https://www.aimyflow.com/es/ai/wisgate)
+### [I2V](https://www.aimyflow.com/es/ai/i2v-ai)
 
-WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores, creadores y equipos para acceder y comparar modelos de chat, imagen, video y generación de código a través de una sola interfaz. Puede ayudar a los equipos de producto e ingeniería a acelerar la integración y controlar la elección de modelos y los costos con enrutamiento y facturación centralizados.
+I2V es una plataforma de generación de video con IA para creadores y profesionales de los medios que convierte texto, imágenes o audio en videos cinematográficos cortos de múltiples tomas, con audio integrado, personajes consistentes y exportación en MP4. Para especialistas en marketing, educadores y equipos de video, puede acelerar la conceptualización y la previsualización, al tiempo que reduce la edición manual de contenido de formato corto.
 
-**Roles adecuados:** Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital, Redactor publicitario
+**Roles adecuados:** Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Diseñador gráfico, Profesor
+
+</div>
+
+<div class="tool-card" markdown="1">
+
+### [Image 2](https://www.aimyflow.com/es/ai/imagev2-org)
+
+Image 2 es un generador y editor de imágenes con IA multimodelo con GPT Images 2.0, Nano Banana 2, Seedream 5 Lite y más para texto a imagen, imagen a imagen, edición con referencias, carteles, anuncios y visuales para comercio electrónico.
+
+**Roles adecuados:** Diseñador gráfico, Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido para redes sociales, Creador de contenido
 
 </div>
 
@@ -288,7 +288,7 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 ## Todas las herramientas
 
 <details markdown="1">
-<summary>Expandir el directorio completo de herramientas (3336)</summary>
+<summary>Expandir el directorio completo de herramientas (3394)</summary>
 
 <p class="section-note">_Vista compacta para explorar más rápido._</p>
 
@@ -317,6 +317,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[1ClickClaw](https://www.aimyflow.com/es/ai/1clickclaw-app)**
   - 1ClickClaw es un servicio de alojamiento para desplegar OpenClaw como asistente de IA personal en Telegram, Discord o WhatsApp con un solo clic, dirigido principalmente a usuarios que quieren un bot siempre activo sin...
   - *Roles adecuados:* Oficial de gestión de proyectos, Gerente de desarrollo de software, Gerente de infraestructura TI, Profesor de instituto comunitario
+
+- **[1iO](https://www.aimyflow.com/es/ai/ioview-net)**
+  - 1iO es una fundación tecnológica descentralizada que ayuda a los usuarios a recuperar la propiedad de sus datos, la privacidad y el control mediante salas de datos virtuales locales y colaboración entre pares,...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[1minAI](https://www.aimyflow.com/es/ai/1min-ai)**
   - 1minAI es una aplicación de IA todo en uno para tareas de texto, imagen, audio y video que ayuda a los usuarios a crear, editar y transformar contenido desde un solo lugar, principalmente para creadores, especialistas...
@@ -372,6 +376,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[AccuChats](https://www.aimyflow.com/es/ai/accuchats-com)**
   - AccuChats es una plataforma de chatbots de IA centrada en la precisión que ayuda a las empresas a crear chatbots para sitios web y soporte con citas de fuentes, puntuación de confianza, derivación a agentes humanos y...
   - *Roles adecuados:* Gerente de desarrollo de software, Oficial de gestión de proyectos, Director de operaciones
+
+- **[ACE ZERO TRADING](https://www.aimyflow.com/es/ai/acezerotrading-com)**
+  - ACE ZERO TRADING es un espacio de trabajo para vendedores de Shopify que genera imágenes listas para borrador, texto SEO, preguntas frecuentes, precios y detalles de inventario a partir de fotos de productos, y audita...
+  - *Roles adecuados:* Vendedor de comercio electrónico, Director de marketing digital, Redactor publicitario, Diseñador gráfico +1 más
 
 - **[Acedit](https://www.aimyflow.com/es/ai/acedit-ai)**
   - Acedit es una extensión de Chrome de coaching para entrevistas con IA que ayuda a quienes buscan empleo a practicar con entrevistas simuladas y a obtener detección de preguntas y sugerencias de respuesta en tiempo real...
@@ -508,6 +516,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Ahrefs Free AI Plagiarism Checker](https://www.aimyflow.com/es/ai/ahrefs-com-writing-tools-plagiarism-checker)**
   - Ahrefs Free AI Plagiarism Checker es una herramienta de escritura que escanea texto o archivos TXT en busca de plagio y proporciona un informe detallado de originalidad, dirigida principalmente a creadores de...
   - *Roles adecuados:* Redactor publicitario, Redactor técnico, Creador de contenido, Director de marketing digital +1 más
+
+- **[AI 3D Model Generator](https://www.aimyflow.com/es/ai/next3d-ai)**
+  - Crea modelos 3D en línea con Next3D. Convierte imágenes o indicaciones de texto en recursos 3D previsualizables, editables y descargables en minutos.
+  - *Roles adecuados:* Diseñador gráfico, Diseñador industrial, Ingeniero de software, Responsable de ventas e-commerce +1 más
 
 - **[AI Action Figure Generator](https://www.aimyflow.com/es/ai/regiai-com-tools-ai-action-figure-generator)**
   - AI Action Figure Generator es una herramienta de imágenes con IA de RegiAI que transforma la foto de una persona en una figura de acción personalizada con estilo de juguete mediante plantillas seleccionables como...
@@ -660,6 +672,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[AI Kiss](https://www.aimyflow.com/es/ai/aikiss-art)**
   - AI Kiss es un generador gratuito de videos de besos con IA que convierte una o dos fotos en breves escenas animadas de besos, principalmente para consumidores que desean crear recuerdos románticos o contenido visual...
   - *Roles adecuados:* Creador de contenido para redes sociales, Creador de contenido, Redactor publicitario, Diseñador gráfico
+
+- **[AI Kitchen Preview](https://www.aimyflow.com/es/ai/aikitchenpreview-com)**
+  - AI Kitchen Preview es una herramienta web que convierte fotos de cocinas en vistas previas de diseño con IA realistas, comparaciones de estilos y un paquete de decisiones para remodelación dirigido a propietarios que...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[AI Line Art Generator](https://www.aimyflow.com/es/ai/ailineart-com)**
   - AI Line Art Generator es una herramienta de IA en línea que convierte indicaciones de texto o fotos cargadas en dibujos de arte lineal en múltiples estilos, principalmente para artistas, ilustradores, diseñadores y...
@@ -915,6 +931,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - AIDesigner es una herramienta de diseño de UI y UX con IA que ayuda a los usuarios a generar interfaces editables para sitios web y aplicaciones móviles a partir de unas pocas palabras o plantillas, principalmente para...
   - *Roles adecuados:* Diseñador gráfico, Director ejecutivo, Director de marketing digital, Gerente de desarrollo de software +1 más
 
+- **[AIeBookGen](https://www.aimyflow.com/es/ai/aiebookgen-com)**
+  - AIeBookGen es un generador de libros electrónicos con IA que ayuda a autores de autopublicación y vendedores de libros en KDP a convertir ideas, notas, borradores o transcripciones en capítulos estructurados,...
+  - *Roles adecuados:* Escritor de ficción, Redactor publicitario, Creador de contenido, Vendedor de comercio electrónico +1 más
+
 - **[AIGC工具导航](https://www.aimyflow.com/es/ai/aigc-cn)**
   - AIGC工具导航 es un directorio chino de herramientas de IA generativa que ayuda a los usuarios a encontrar rápidamente herramientas clasificadas para redacción, generación de imágenes, creación de video, trabajo de oficina,...
   - *Roles adecuados:* Creador de contenido, Ingeniero de software, Diseñador gráfico, Director de marketing digital +1 más
@@ -1102,6 +1122,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - AliGenie es la plataforma abierta de Tmall Genie, que ofrece herramientas de desarrollo de voz, control de dispositivos IoT, integración de capacidades de IA y acceso a contenido para fabricantes de hardware,...
   - *Roles adecuados:* Ingeniero de software, Ingeniero eléctrico, Oficial de gestión de proyectos, Gerente de infraestructura TI +1 más
 
+- **[Alignes](https://www.aimyflow.com/es/ai/alignes-app)**
+  - Alignes es un software de fichas técnicas con IA que convierte fotos de prendas, bocetos y notas en fichas técnicas estructuradas, con medidas, lista de materiales (BOM), detalles de confección y opciones de...
+  - *Roles adecuados:* Diseñador de moda, Diseñador gráfico, Creador de contenido, Director ejecutivo
+
 - **[alkaid.art](https://www.aimyflow.com/es/ai/alkaid-art)**
   - alkaid.art no es accesible actualmente debido a un tiempo de espera de conexión 522 de Cloudflare, por lo que su propósito, sus funciones y sus usuarios previstos no pueden verificarse con la información disponible en...
 
@@ -1227,6 +1251,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[AnimalGenerator.net](https://www.aimyflow.com/es/ai/animalgenerator-net)**
   - AnimalGenerator.net es un creador y mezclador de animales con IA que ayuda a los usuarios a combinar animales, mechas y héroes de fantasía en personajes híbridos coherentes, cómics y páginas para colorear imprimibles,...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido, Profesor, Profesor de matemáticas de primaria +1 más
+
+- **[Animate Photo AI](https://www.aimyflow.com/es/ai/animatephotoai-com)**
+  - Animate Photo AI convierte fotos en videos en línea. Sube y anima en segundos para crear retratos parlantes, movimiento de mascotas y bucles de escenas. Pruébalo ahora.
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico, Director de marketing digital +1 más
 
 - **[Anime AI](https://www.aimyflow.com/es/ai/animeai-app)**
   - Anime AI es un generador gratuito de imágenes de foto a anime sin registro que convierte fotos de retrato de una sola persona en avatares de estilo anime en estilos como Naruto, One Piece, Webtoon y Clásico,...
@@ -1503,6 +1531,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Astro Energy](https://www.aimyflow.com/es/ai/astroenergy-ai)**
   - Astro Energy es un desarrollador de energía solar y almacenamiento en baterías a gran escala que ayuda a los propietarios de tierras en Texas a evaluar y arrendar terrenos para proyectos energéticos a largo plazo...
   - *Roles adecuados:* Arquitecto comercial, Ingeniero civil, Director ejecutivo, Oficial de gestión de proyectos +1 más
+
+- **[Astrocarto](https://www.aimyflow.com/es/ai/astrocarto-org)**
+  - Astrocarto es una calculadora gratuita de astrocartografía impulsada por IA que proyecta cartas natales sobre ubicaciones del mundo para proporcionar interpretaciones de líneas planetarias y perspectivas de...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Athena AI Agents](https://www.aimyflow.com/es/ai/athenachat-bot-agents)**
   - Athena AI Agents es una plataforma sin código para crear agentes de IA personalizados que gestionan flujos de trabajo específicos, tareas conectadas con herramientas e interacciones en sitios web, principalmente para...
@@ -1852,6 +1884,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[BerryViral](https://www.aimyflow.com/es/ai/berryviral-com)**
   - BerryViral es una herramienta de inteligencia de miniaturas con IA que puntúa, revisa y ayuda a perfeccionar miniaturas y títulos de YouTube para mejorar su capacidad de generar clics, principalmente para creadores de...
   - *Roles adecuados:* Creador de contenido para redes sociales, Diseñador gráfico, Creador de contenido, Director de marketing digital +1 más
+
+- **[Best AI Tools Directory (2026)](https://www.aimyflow.com/es/ai/aigenerator-tools)**
+  - Compara más de 2,200 herramientas de IA por categoría, precios, reseñas, clasificaciones y últimos lanzamientos. Encuentra generadores de video con IA, herramientas de escritura, copilotos de programación y más.
+  - *Roles adecuados:* Consultor en tecnología educativa, Gerente de desarrollo de software, Director de marketing digital, Oficial de gestión de proyectos +1 más
 
 - **[Best SAT Score](https://www.aimyflow.com/es/ai/bestsatscore-com)**
   - Best SAT Score es una plataforma digital de preparación para el SAT que ayuda a los estudiantes a prepararse para el examen con pruebas prácticas adaptativas de duración completa, un banco de preguntas seleccionado por...
@@ -2518,6 +2554,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - CharacterGen es un generador de personajes con IA que ayuda a los creadores a producir paquetes completos de diseño de personajes con vistas de giro, hojas de expresiones, poses y referencias de vestuario a partir de...
   - *Roles adecuados:* Diseñador gráfico, Cineasta independiente, Escritor de ficción, Creador de contenido +1 más
 
+- **[CharaVerse](https://www.aimyflow.com/es/ai/charaverse-chat)**
+  - CharaVerse es una plataforma de juego de rol con personajes de IA que ayuda a los usuarios a chatear con personalidades ficticias personalizables y a crear conversaciones continuas basadas en historias, principalmente...
+  - *Roles adecuados:* Escritor de ficción, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario +1 más
+
 - **[CharHub.ai](https://www.aimyflow.com/es/ai/charhub-ai)**
   - CharHub.ai es una plataforma de chat y descubrimiento de personajes con IA que ayuda a los usuarios a explorar, crear e interactuar con personajes, ilustraciones y mundos ficticios, principalmente para audiencias...
   - *Roles adecuados:* Escritor de ficción, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario +1 más
@@ -2581,6 +2621,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[ChatGPT Atlas](https://www.aimyflow.com/es/ai/chatgpt-com-atlas)**
   - ChatGPT Atlas es un navegador para macOS con ChatGPT integrado que ayuda a los usuarios a obtener respuestas instantáneas, resumir páginas, comparar productos, analizar el contenido de sitios y completar tareas web,...
   - *Roles adecuados:* Ingeniero de software, Analista financiero, Director de marketing digital, Oficial de gestión de proyectos
+
+- **[ChatGPT Images 2.0](https://www.aimyflow.com/es/ai/chatgptimages2-io)**
+  - ChatGPT Images 2.0 utiliza GPT Image 2 para razonamiento, recuperación web, análisis de archivos, consistencia entre 8 imágenes, texto multilingüe y salida de hasta 2K.
+  - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Creador de contenido para redes sociales, Creador de contenido +1 más
 
 - **[ChatHawk](https://www.aimyflow.com/es/ai/chathawk-co)**
   - ChatHawk es una herramienta web que permite a los usuarios hacer una pregunta y comparar al mismo tiempo las respuestas de GPT, Gemini, Claude y Grok, ayudando a quienes buscan respuestas más rápidas entre modelos y...
@@ -2748,6 +2792,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Cleancard](https://www.aimyflow.com/es/ai/cleancard-bio)**
   - Cleancard es una empresa que desarrolla un enfoque de biología sintética e IA para hacer que la detección del cáncer sea tan fácil de usar como una prueba de embarazo, principalmente para contextos de atención médica y...
   - *Roles adecuados:* Administrador sanitario, Técnico de laboratorio médico, Biólogo molecular, Microbiólogo +1 más
+
+- **[CleanStmt](https://www.aimyflow.com/es/ai/cleanstmt-com)**
+  - CleanStmt es un convertidor de estados de cuenta bancarios impulsado por IA que extrae transacciones de archivos PDF, escaneos o capturas de pantalla y las convierte en archivos CSV limpios para Excel o listos para...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Cleanup.pictures](https://www.aimyflow.com/es/ai/cleanup-pictures)**
   - Cleanup.pictures es una aplicación web de retoque fotográfico con IA que elimina objetos no deseados, personas, texto, logotipos, marcas de agua y defectos de las imágenes, principalmente para fotógrafos, equipos...
@@ -3111,6 +3159,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Content Goblin](https://www.aimyflow.com/es/ai/contentgoblin-ai)**
   - Content Goblin es un generador de contenido con IA que ayuda a propietarios de sitios web, blogueros y editores enfocados en Pinterest a crear rápidamente artículos tipo lista, contenido de recetas, imágenes y pines de...
   - *Roles adecuados:* Redactor publicitario, Creador de contenido para redes sociales, Creador de contenido, Director de marketing digital +1 más
+
+- **[Content True](https://www.aimyflow.com/es/ai/contenttrue-org)**
+  - Content True es una herramienta de detección de contenido de IA que ayuda a los usuarios a comprobar si un texto fue generado por IA, principalmente para quienes revisan contenido escrito en japonés y otros idiomas...
+  - *Roles adecuados:* Redactor técnico, Profesor universitario, Profesor, Creador de contenido +1 más
 
 - **[ContentBeast](https://www.aimyflow.com/es/ai/contentbeast-com)**
   - ContentBeast es una herramienta automatizada de redacción de blogs y SEO que investiga palabras clave, crea artículos optimizados con imágenes y enlaces, y los publica en sitios web según un calendario para...
@@ -4434,6 +4486,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - ferranfigueredo.com es el sitio web de portafolio de Ferran Figueredo, un desarrollador de productos que crea productos digitales, aplicaciones web y móviles, servicios tecnológicos y soluciones de IA, principalmente...
   - *Roles adecuados:* Ingeniero de software, Director ejecutivo, Gerente de desarrollo de software, Creador de contenido
 
+- **[FerryAPI](https://www.aimyflow.com/es/ai/ferryapi-io)**
+  - Pasarela de API de IA compatible con OpenAI y de bajo costo para empresas globales. Usa DeepSeek, Qwen, Kimi y MiMo para soporte, traducción, resúmenes y automatización.
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Fetchr](https://www.aimyflow.com/es/ai/fetchr-so)**
   - Fetchr es una aplicación de compras personales de ropa impulsada por IA que ayuda a los usuarios a describir su estilo y necesidades; luego, el servicio selecciona artículos, los entrega para que se los prueben y cobra...
   - *Roles adecuados:* Diseñador de moda, Vendedor de comercio electrónico, Creador de contenido
@@ -4521,6 +4577,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Fixkey](https://www.aimyflow.com/es/ai/fixkey-ai)**
   - Fixkey es un asistente de escritura con IA nativo para Mac que ayuda a los usuarios a convertir texto escrito o dictado en texto pulido, reescribir mensajes, traducir contenido y controlar el formato en cualquier app...
   - *Roles adecuados:* Redactor publicitario, Redactor técnico, Director ejecutivo, Creador de contenido +1 más
+
+- **[FixPixelatedPhotos](https://www.aimyflow.com/es/ai/fixpixelatedphotos-com)**
+  - FixPixelatedPhotos es un mejorador de fotos con IA que restaura fotos antiguas pixeladas, borrosas, de baja resolución y dañadas para familias y otras personas que comparten o preservan imágenes. Ayuda a fotógrafos,...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Fizzly AI](https://www.aimyflow.com/es/ai/fizzly-ai)**
   - Fizzly AI es una plataforma de generación creativa que ayuda a creadores y marketers a producir imágenes, videos y personajes personalizados con IA para contenido de marca. Acorta los ciclos de producción visual y...
@@ -4718,6 +4778,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - FragCut es un generador de clips de videojuegos con IA que ayuda a streamers y creadores de contenido gaming a convertir videos largos de partidas o VODs de Twitch en highlights verticales cortos con momentos...
   - *Roles adecuados:* Creador de contenido para redes sociales, Creador de contenido, Productor de pódcast, Redactor publicitario +1 más
 
+- **[Frame Extractor](https://www.aimyflow.com/es/ai/frame-extractor-video)**
+  - Frame Extractor es un extractor de fotogramas de video basado en navegador que ayuda a los usuarios a capturar imágenes fijas individuales o por lotes a partir de archivos de video sin necesidad de subirlos,...
+  - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Profesor, Redactor técnico +1 más
+
 - **[FrameCall](https://www.aimyflow.com/es/ai/framecall-com)**
   - FrameCall es una herramienta de creación de videos animados impulsada por IA que permite a los usuarios describir una animación de logotipo, una intro, un gráfico en movimiento o un video para redes sociales en inglés...
   - *Roles adecuados:* Director de marketing digital, Creador de contenido para redes sociales, Creador de contenido, Diseñador gráfico +1 más
@@ -4730,6 +4794,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Frase es una plataforma de SEO y GEO basada en agentes que investiga a la competencia, ayuda a crear y optimizar contenido, y realiza un seguimiento de la visibilidad en Google y herramientas de búsqueda con IA,...
   - *Roles adecuados:* Director de marketing digital, Redactor publicitario, Creador de contenido, Redactor técnico +1 más
 
+- **[Free AI Detector 2026: AI Text Checker, No Signup](https://www.aimyflow.com/es/ai/eyesift-com-text-analysis)**
+  - Detector de IA gratuito en línea para texto de ChatGPT, Claude, Gemini, DeepSeek, Grok, Qwen, Kimi y Manus. Pegue texto para triaje de escritura con IA solo en el navegador, advertencias de fiabilidad, nivel de...
+  - *Roles adecuados:* Consultor en tecnología educativa, Profesor, Orientador escolar, Oficial de gestión de proyectos
+
 - **[Free AI text humanizer that](https://www.aimyflow.com/es/ai/humantone-ai)**
   - Humanizador de texto con IA gratuito que convierte borradores de ChatGPT, Claude y Gemini en una escritura humana natural. No requiere registro, 6 modos, el significado se mantiene igual.
   - *Roles adecuados:* Redactor publicitario, Director de marketing digital, Creador de contenido, Redactor técnico +1 más
@@ -4741,6 +4809,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Free Online AI Baby Generator](https://www.aimyflow.com/es/ai/ai-babygenerator-com)**
   - Descubre nuestro Generador de Bebés de IA en Línea Gratis, predice el aspecto de tu futuro bebé en segundos. Sube fotos, obtén imágenes de alta resolución, sin marcas de agua. Protegido por privacidad, servicio las 24...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
+- **[Free Wedding Speech Templates, Examples & AI Generator](https://www.aimyflow.com/es/ai/weddingspeech-xyz)**
+  - Crea plantillas y ejemplos gratuitos de discursos de boda: padrino, dama de honor, padre o madre, o discursos de boda divertidos. Obtén tres borradores personalizados con IA en minutos.
+  - *Roles adecuados:* Redactor publicitario, Creador de contenido, Escritor de ficción, Redactor técnico
 
 - **[freebeat.ai](https://www.aimyflow.com/es/ai/freebeat-ai)**
   - freebeat.ai es un generador de videos musicales con IA que convierte canciones o enlaces de música en videos de baile sincronizados con el ritmo, videos con letras y videos musicales narrativos, principalmente para...
@@ -4854,6 +4926,9 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Gavin es un acompañante de apoyo conversacional con IA de The Solemn Sir que ayuda a los hombres a hablar sobre el estrés, las relaciones, la paternidad, el trabajo y la reflexión personal en un espacio privado y libre...
   - *Roles adecuados:* Coach de bienestar, Orientador escolar, Coach de liderazgo corporativo, Administrador sanitario
 
+- **[Gemheaven.org](https://www.aimyflow.com/es/ai/gemheaven-org)**
+  - Gemheaven.org es una base de datos de minerales y piedras preciosas con guías de cristales y recursos sobre clasificación de diamantes que ayuda a gemólogos, profesionales de la joyería, estudiantes y coleccionistas a...
+
 - **[Gemini Audio](https://www.aimyflow.com/es/ai/deepmind-google-models-gemini-audio)**
   - Gemini Audio es el modelo de audio en tiempo real de Google DeepMind para crear agentes conversacionales de audio, traducción de voz, generación de audio y comprensión de audio, principalmente para desarrolladores que...
   - *Roles adecuados:* Ingeniero de software, Redactor técnico, Oficial de gestión de proyectos, Creador de contenido
@@ -4861,6 +4936,14 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Gemini Code Assist](https://www.aimyflow.com/es/ai/cloud-google-com-products-gemini-code-assist)**
   - Gemini Code Assist es la herramienta de codificación asistida por IA de Google para equipos y empresas, que ayuda a los desarrolladores a crear, explicar, transformar y solucionar problemas de código en los IDE, la...
   - *Roles adecuados:* Ingeniero de software, Gerente de desarrollo de software, Gerente de infraestructura TI, Director ejecutivo
+
+- **[Gemini Omni AI Video Generator](https://www.aimyflow.com/es/ai/jxp-com-gemini-omni)**
+  - Gemini Omni AI Video Generator es una herramienta de JXP para crear y editar video multimodal con IA a partir de texto, imágenes, video y referencias de audio, principalmente para creadores que trabajan en producción...
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Diseñador gráfico, Redactor publicitario +1 más
+
+- **[Gemini Omni Multimodal AI Video Generator](https://www.aimyflow.com/es/ai/omnigemini-io)**
+  - Usa Gemini Omni con entradas de texto, imagen, video y audio para generar borradores de video, y luego sigue editando tomas, sujetos, estilo y ritmo en lenguaje natural.
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Redactor publicitario +1 más
 
 - **[GeminiGen AI](https://www.aimyflow.com/es/ai/geminigen-ai)**
   - GeminiGen AI es una plataforma de generación de contenido multimodal que ayuda a crear imágenes, videos y voz con IA a partir de prompts. Ofrece a creadores y equipos multimedia una forma más rápida de prototipar...
@@ -5254,6 +5337,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - groas es una plataforma de IA autónoma para publicidad en Google Search que crea y optimiza anuncios y páginas de destino por término de búsqueda, principalmente para empresas y especialistas en marketing que gestionan...
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Director ejecutivo, Gerente de ventas de campo +1 más
 
+- **[Grok Imagine 1.5 AI Video Generator from Images](https://www.aimyflow.com/es/ai/xmk-com-grok-imagine-grok-imagine-1-5)**
+  - Usa el generador de video con IA Grok Imagine 1.5 para crear videos a partir de imágenes. Convierte una imagen fija en un clip de 1 a 15 s con indicaciones, audio y salida en 480p o 720p.
+  - *Roles adecuados:* Creador de contenido, Director de marketing digital, Diseñador gráfico, Redactor publicitario +1 más
+
 - **[Groops](https://www.aimyflow.com/es/ai/groops-com)**
   - Groops es una herramienta de SEO con IA que genera de 3 a 100 páginas de destino únicas a partir de la descripción de un producto, negocio, libro o servicio para ayudar a los usuarios a captar más tráfico de búsqueda,...
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido para redes sociales, Redactor publicitario +1 más
@@ -5296,6 +5383,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Hairstyle AI](https://www.aimyflow.com/es/ai/hair-style-ai)**
   - Hairstyle AI es un simulador gratuito de peinados en línea que permite a las personas subir una selfie para previsualizar más de 60 cortes de pelo y 19 colores de cabello, principalmente para hombres y mujeres que...
 
+- **[HairstylesPro](https://www.aimyflow.com/es/ai/hairstylespro-com)**
+  - HairstylesPro es una herramienta de prueba virtual de cortes de pelo con IA que permite a los usuarios subir una foto y previsualizar más de 200 opciones de peinados en distintas longitudes, texturas y categorías,...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Hal9 Startups](https://www.aimyflow.com/es/ai/hal9-com)**
   - Hal9 Startups es una plataforma y servicio de IA autónoma totalmente gestionados que ayuda a los fundadores de startups a diseñar, desarrollar, lanzar y escalar productos impulsados por IA, como chatbots, agentes,...
   - *Roles adecuados:* Director ejecutivo, Gerente de desarrollo de software, Ingeniero de software, Oficial de gestión de proyectos +1 más
@@ -5319,6 +5410,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[HAPPYBET188](https://www.aimyflow.com/es/ai/magician-design)**
   - HAPPYBET188 es una plataforma de juegos de azar en línea que permite a los usuarios jugar tragamonedas, casino en vivo, apuestas deportivas, togel, póker y otros juegos, principalmente para jugadores de Indonesia que...
   - *Roles adecuados:* Director de marketing digital, Creador de contenido
+
+- **[HappyHorse 1.0 AI Video Generator](https://www.aimyflow.com/es/ai/runhappyhorse-net-happyhorse-1-0-ai-video-generator)**
+  - Usa el generador de video con IA HappyHorse 1.0 para convertir texto o imágenes en videos listos para compartir en 720p o 1080p para anuncios, contenido para redes sociales y demostraciones de productos. Empieza a...
+  - *Roles adecuados:* Creador de contenido, Director de marketing digital, Vendedor de comercio electrónico, Creador de contenido para redes sociales +1 más
 
 - **[HappySRT](https://www.aimyflow.com/es/ai/happysrt-com)**
   - HappySRT es una aplicación web de código abierto que ayuda a los usuarios a transcribir audio y video, traducir contenido a varios idiomas y generar resúmenes, principalmente para personas que necesitan procesar medios...
@@ -5366,6 +5461,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Hazel AI](https://www.aimyflow.com/es/ai/hazelai-com)**
   - Hazel AI es un software de compras gubernamentales que utiliza IA para ayudar a las agencias públicas a redactar solicitudes RFx, identificar proveedores certificados y evaluar respuestas, todo ello en alineación con...
   - *Roles adecuados:* Director de operaciones, Oficial de gestión de proyectos, Gerente de sucursal, Gerente de programas sin fines de lucro
+
+- **[Headcanon Generator](https://www.aimyflow.com/es/ai/headcanon-me)**
+  - Headcanon Generator es una herramienta de escritura con IA que ayuda a los escritores de fandom a crear headcanons de personajes, ideas de relaciones, historias de fondo y conceptos de universos alternativos a partir...
+  - *Roles adecuados:* Escritor de ficción, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario +1 más
 
 - **[HeadshotBook](https://www.aimyflow.com/es/ai/headshotbook-com)**
   - HeadshotBook es un generador de retratos profesionales con IA que convierte unas cuantas selfis cargadas en retratos profesionales con estilo de estudio para LinkedIn, currículums, presentaciones, fotos de equipo y...
@@ -5548,6 +5647,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - humaniz.app es un humanizador de IA gratuito que convierte texto generado por IA en una redacción más natural y humana para cualquiera que cree o edite contenido. Puede ayudar a escritores, especialistas en marketing,...
   - *Roles adecuados:* Redactor publicitario, Creador de contenido, Redactor técnico, Profesor +1 más
 
+- **[Humaniz.app](https://www.aimyflow.com/es/ai/humaniz-app)**
+  - Humaniz.app es un humanizador de texto con IA gratuito que reescribe contenido generado por IA para convertirlo en una redacción más natural, principalmente para creadores, profesionales del marketing, estudiantes e...
+  - *Roles adecuados:* Redactor publicitario, Creador de contenido, Director de marketing digital, Redactor técnico
+
 - **[Humanize](https://www.aimyflow.com/es/ai/humanize-sh)**
   - Humanize es un humanizador y detector de texto con IA que reescribe contenido de herramientas como ChatGPT, Gemini y Claude para convertirlo en una redacción con un tono más natural, principalmente para estudiantes,...
   - *Roles adecuados:* Redactor publicitario, Redactor técnico, Director de marketing digital, Creador de contenido +1 más
@@ -5604,6 +5707,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Hyring es un software de reclutamiento con IA que ayuda a los reclutadores y equipos de RR. HH. a automatizar el filtrado de currículums, las entrevistas telefónicas, las entrevistas en video, las entrevistas de...
   - *Roles adecuados:* Gerente de adquisición de talento, Gerente de relaciones laborales, Gerente de desarrollo de software, Tutor de programación en línea
 
+- **[I2V](https://www.aimyflow.com/es/ai/i2v-ai)**
+  - I2V es una plataforma de generación de video con IA para creadores y profesionales de los medios que convierte texto, imágenes o audio en videos cinematográficos cortos de múltiples tomas, con audio integrado,...
+  - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Diseñador gráfico +1 más
+
 - **[iA Presenter](https://www.aimyflow.com/es/ai/ia-net-presenter)**
   - iA Presenter es una aplicación de presentaciones para macOS que ayuda a los usuarios a convertir borradores escritos, notas y texto de estilo markdown en diapositivas, notas del orador y folletos exportables,...
   - *Roles adecuados:* Profesor universitario, Oficial de gestión de proyectos, Redactor técnico, Orientador escolar +1 más
@@ -5659,6 +5766,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[illustration.app](https://www.aimyflow.com/es/ai/illustraai-com)**
   - illustration.app es un generador de ilustraciones con IA que ayuda a los usuarios a crear ilustraciones vectoriales personalizadas y coherentes, así como paquetes para sitios web, aplicaciones, presentaciones y...
   - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Redactor publicitario, Creador de contenido +1 más
+
+- **[Image 2](https://www.aimyflow.com/es/ai/imagev2-org)**
+  - Image 2 es un generador y editor de imágenes con IA multimodelo con GPT Images 2.0, Nano Banana 2, Seedream 5 Lite y más para texto a imagen, imagen a imagen, edición con referencias, carteles, anuncios y visuales para...
+  - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido para redes sociales +1 más
 
 - **[Image Editor Online](https://www.aimyflow.com/es/ai/imageeditor-online)**
   - Image Editor Online es un editor de imágenes con IA basado en navegador que ayuda a los usuarios a editar, recortar, mejorar, eliminar fondos y aplicar cambios de estilo mediante indicaciones de texto, principalmente...
@@ -5911,6 +6022,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[InstantMind](https://www.aimyflow.com/es/ai/instantmind-ai)**
   - InstantMind es un generador y resumidor de mapas mentales con IA que convierte texto, documentos, imágenes, páginas web y videos de YouTube en mapas mentales visuales, esquemas y resúmenes de contenido para...
   - *Roles adecuados:* Profesor universitario, Consultor en tecnología educativa, Redactor técnico, Oficial de gestión de proyectos +1 más
+
+- **[InstaPV](https://www.aimyflow.com/es/ai/instapv-ai)**
+  - InstaPV es un visor anónimo basado en la web para historias públicas de Instagram, perfiles, publicaciones, reels, destacados y actividad reciente de seguidos, que ayuda a los usuarios a navegar sin iniciar sesión,...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido, Aficionado a la comida
 
 - **[Instavibes](https://www.aimyflow.com/es/ai/instavibes-app)**
   - Instavibes es un sampler óptico con IA que convierte fotos en muestras de audio reproducibles y libres de regalías, así como en texturas de sintetizador, principalmente para productores musicales y diseñadores de...
@@ -6283,6 +6398,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Klariqo](https://www.aimyflow.com/es/ai/klariqo-com)**
   - Klariqo es una plataforma de agentes de voz con IA para centros de llamadas empresariales y equipos de ventas salientes que califica leads, detecta buzones de voz y transfiere llamadas calificadas mediante...
   - *Roles adecuados:* Gerente de ventas de campo, Responsable de ventas e-commerce, Director de operaciones, Oficial de gestión de proyectos +1 más
+
+- **[Kling 3.0 AI Video Generator](https://www.aimyflow.com/es/ai/jxp-com-kling-kling-3-0)**
+  - Kling 3.0 Generador de Video con IA crea videos cinematográficos de múltiples tomas con audio nativo, consistencia de personajes y control preciso del guion gráfico.
+  - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Redactor publicitario +1 más
 
 - **[Kling 3.0 Motion Control](https://www.aimyflow.com/es/ai/kling3-io-motion-control)**
   - Kling 3.0 Motion Control es una herramienta de transferencia de movimiento con IA que extrae movimiento de videos de 3 a 30 segundos y lo aplica a imágenes estáticas de personajes, ayudando a creadores, animadores y...
@@ -6915,6 +7034,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - LTX es un estudio de producción de video con IA basado en la web que ayuda a equipos creativos, profesionales del marketing, cineastas y anunciantes a convertir guiones, conceptos, imágenes y videos en guiones...
   - *Roles adecuados:* Creador de contenido, Redactor publicitario, Creador de contenido para redes sociales, Cineasta independiente +1 más
 
+- **[Ltx 2.3](https://www.aimyflow.com/es/ai/jxp-com-ltx-ltx-2-3)**
+  - Ltx 2.3 es un generador de video con IA para creadores y equipos de producción que crea videos 4K impulsados por texto, imágenes y audio. Puede ayudar a los especialistas en marketing de video y a los editores a iterar...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Cineasta independiente, Ingeniero de software
+
 - **[LTX Model](https://www.aimyflow.com/es/ai/ltx-video)**
   - LTX Model es un modelo multimodal de generación de video que ayuda a desarrolladores, equipos de producto, estudios y empresas a generar, animar y editar video de calidad profesional a partir de entradas de texto,...
   - *Roles adecuados:* Ingeniero de software, Gerente de desarrollo de software, Cineasta independiente, Creador de contenido +1 más
@@ -7158,6 +7281,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - MakeShot AI Video Generator es una plataforma en línea de creación de videos con IA que convierte indicaciones de texto o imágenes estáticas en videos con opciones como audio nativo y múltiples modelos de generación,...
   - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Redactor publicitario +1 más
 
+- **[Manga Translator – AI Translate Manga](https://www.aimyflow.com/es/ai/mangatranslator-me)**
+  - Traduce manga, manhwa y webtoons al instante con Mee. El traductor de manga con IA preserva el diseño y ofrece traducciones precisas. Lee en línea o descarga imágenes.
+  - *Roles adecuados:* Creador de contenido, Redactor técnico, Redactor publicitario
+
 - **[MangaMaker](https://www.aimyflow.com/es/ai/mangamaker-app)**
   - MangaMaker es un creador de manga y cómics con IA basado en la web que ayuda a los usuarios a generar páginas completas con personajes consistentes, diseños de viñetas, globos de diálogo y texto con estilo manga,...
   - *Roles adecuados:* Creador de contenido, Escritor de ficción, Cineasta independiente, Diseñador gráfico +1 más
@@ -7325,6 +7452,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Melodusk es un generador de música con IA que ayuda a los usuarios a crear canciones originales, instrumentales, voces y pistas separadas a partir de instrucciones de texto, principalmente para creadores de contenido,...
   - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Productor de pódcast, Director de marketing digital +1 más
 
+- **[MeloLab — Free AI Music Generator](https://www.aimyflow.com/es/ai/melolab-ai)**
+  - Genera música con IA libre de regalías en segundos. Crea canciones con voces, música de fondo y bandas sonoras personalizadas a partir de descripciones de texto. Gratis para empezar, no se requiere tarjeta de crédito.
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Productor de pódcast, Cineasta independiente +1 más
+
 - **[Mem](https://www.aimyflow.com/es/ai/get-mem-ai)**
   - Mem es una aplicación de notas impulsada por IA que ayuda a los usuarios a capturar, organizar, recordar y conversar con sus notas, reuniones, investigaciones y contenido web, principalmente para trabajadores del...
   - *Roles adecuados:* Director ejecutivo, Oficial de gestión de proyectos, Redactor técnico, Ingeniero de software +1 más
@@ -7420,6 +7551,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Mesh](https://www.aimyflow.com/es/ai/usemesh-com)**
   - Mesh es una herramienta de automatización de devengos que ayuda a los equipos financieros de medianas y grandes empresas a reemplazar las hojas de cálculo manuales al agregar datos de compras, facturas, contratos y...
   - *Roles adecuados:* Contador público certificado, Director financiero, Gerente de planificación y análisis financiero, Analista financiero
+
+- **[Messy files to spreadsheet workflows](https://www.aimyflow.com/es/ai/messy2sheet-com)**
+  - Sube un PDF, una captura de pantalla, un correo electrónico, un CSV, una hoja de cálculo o texto pegado. Messy2Sheet crea una tabla que puedes revisar, exportar y reutilizar para el siguiente archivo similar.
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Meta AI Studio](https://www.aimyflow.com/es/ai/ai-meta-com-ai-studio)**
   - Meta AI Studio es una herramienta para crear personajes de IA conversacionales personalizados y AIs de creador que conversan en Messenger, Instagram y WhatsApp, principalmente para consumidores y creadores que quieren...
@@ -7739,6 +7874,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Murf AI es una plataforma de voz con IA para desarrolladores, creadores y equipos de localización que ayuda a los usuarios a generar locuciones realistas de texto a voz, crear agentes de voz y doblar o traducir audio y...
   - *Roles adecuados:* Creador de contenido, Ingeniero de software, Redactor técnico, Redactor publicitario +1 más
 
+- **[Musci.io - Best AI Music Generator](https://www.aimyflow.com/es/ai/musci-io)**
+  - Crea música profesional con IA al instante con Musci.io. Genera música libre de regalías a partir de texto, en más de 100 géneros. El generador de música con IA n.º 1 para creadores.
+  - *Roles adecuados:* Creador de contenido, Amante de la música, Productor de pódcast, Creador de contenido para redes sociales +1 más
+
 - **[MuseCraft.AI](https://www.aimyflow.com/es/ai/musecraft-ai)**
   - MuseCraft.AI es una plataforma integral de creación con IA que ayuda a creadores, diseñadores y especialistas en marketing a generar imágenes y videos a partir de texto o imágenes, al tiempo que ofrece eliminación de...
   - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Director de marketing digital, Vendedor de comercio electrónico +1 más
@@ -7762,6 +7901,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[MusicHero.ai](https://www.aimyflow.com/es/ai/musichero-ai)**
   - MusicHero.ai es un generador de música con IA que ayuda a los creadores a convertir texto o letras en música y también ofrece eliminación de voz, escritura de letras, efectos de sonido y creación de videos líricos en...
   - *Roles adecuados:* Creador de contenido, Productor de pódcast, Creador de contenido para redes sociales, Redactor publicitario +1 más
+
+- **[MusicMake.ai](https://www.aimyflow.com/es/ai/musicmake-ai)**
+  - Empieza con una idea, crea una primera canción y luego sigue dándole forma con Music Agent, versiones, remixes, herramientas vocales y ediciones precisas.
+  - *Roles adecuados:* Productor de pódcast, Creador de contenido, Creador de contenido para redes sociales, Redactor publicitario +1 más
 
 - **[MusicMaker.im Image to Music](https://www.aimyflow.com/es/ai/musicmaker-im-image-to-music)**
   - MusicMaker.im Image to Music es un generador de música con IA que convierte imágenes cargadas en canciones o música de fondo libres de regalías, principalmente para creadores de contenido, especialistas en marketing,...
@@ -8524,6 +8667,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Oway es una plataforma de inteligencia industrial y distribución automatizada que ayuda a las empresas a enviar carga LTL de 1 a más de 12 palés y ayuda a los transportistas a monetizar la capacidad no utilizada de sus...
   - *Roles adecuados:* Planificador de operaciones logísticas, Director de operaciones, Gerente de sucursal, Gerente de infraestructura TI +1 más
 
+- **[P Video](https://www.aimyflow.com/es/ai/pvideo-app)**
+  - P Video convierte indicaciones, imágenes, retratos, referencias de movimiento e imágenes de reemplazo en videos cortos con IA en tu navegador para clips sociales y borradores.
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido, Redactor publicitario +1 más
+
 - **[PageAI](https://www.aimyflow.com/es/ai/pageai-pro)**
   - PageAI es un creador de sitios web con IA para profesionales, especialmente desarrolladores, que convierte una indicación en un sitio web listo para producción con diseño, código, SEO, funciones de blog y...
   - *Roles adecuados:* Ingeniero de software, Gerente de desarrollo de software, Director de marketing digital, Redactor publicitario +1 más
@@ -8547,6 +8694,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Paintit.ai](https://www.aimyflow.com/es/ai/paintit-ai)**
   - Paintit.ai es una herramienta de diseño de interiores con IA que permite a los usuarios subir imágenes de habitaciones o indicaciones para rediseñar, repintar, preparar y perfeccionar interiores, exteriores y espacios...
   - *Roles adecuados:* Diseñador de interiores, Agente inmobiliario, Arquitecto comercial, Diseñador gráfico +1 más
+
+- **[PaioClaw](https://www.aimyflow.com/es/ai/paioclaw-ai)**
+  - PaioClaw te ofrece un asistente de IA privado y siempre activo, impulsado por tus propias claves de API. Sin Docker ni línea de comandos: regístrate y estará listo en 60 segundos.
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Pair AI](https://www.aimyflow.com/es/ai/pairai-com)**
   - Pair AI es una plataforma de contratación técnica asistida por IA que ayuda a las empresas a evaluar a candidatos de ingeniería de software mediante competiciones prácticas de programación cronometradas, en lugar de la...
@@ -8742,6 +8893,9 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Petalica Paint es un servicio web de pintura y refinamiento de bocetos impulsado por IA que ayuda a los usuarios a colorear dibujos lineales, aplicar estilos de pintura y simplificar bocetos, principalmente para...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido, Diseñador de moda, Cineasta independiente +1 más
 
+- **[PetStory.pro](https://www.aimyflow.com/es/ai/petstory-pro)**
+  - Genere informes claros de personalidad para gatos y perros, con observaciones sobre el comportamiento, rutinas de vínculo y orientación práctica diaria para los dueños de mascotas.
+
 - **[Pharos](https://www.aimyflow.com/es/ai/pharos-health)**
   - Pharos es una plataforma de calidad hospitalaria y seguridad del paciente impulsada por IA que automatiza la abstracción de historias clínicas, la elaboración de informes, los análisis de causa raíz, las auditorías y...
   - *Roles adecuados:* Administrador sanitario, Especialista en salud ocupacional, Gerente de infraestructura TI, Oficial de gestión de proyectos
@@ -8801,6 +8955,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[PhotoUpscaler](https://www.aimyflow.com/es/ai/photoupscaler-ai)**
   - PhotoUpscaler es un escalador de fotos con IA que ayuda a los usuarios a ampliar y mejorar imágenes de baja resolución al afinar detalles, reducir el ruido y aumentar la resolución, principalmente para fotógrafos,...
   - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Director de marketing digital, Vendedor de comercio electrónico +1 más
+
+- **[Physics AI](https://www.aimyflow.com/es/ai/physicsai-chat)**
+  - Physics AI es un solucionador y tutor de física en línea que ayuda a los estudiantes a resolver y comprender problemas de física a partir de preguntas escritas o imágenes cargadas, con explicaciones paso a paso y...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Pic Copilot](https://www.aimyflow.com/es/ai/piccopilot-com-home)**
   - Pic Copilot es una herramienta de IA para la creación de imágenes de producto y modelos de moda que ayuda a los equipos de comercio electrónico a generar fotos de productos, pruebas virtuales, imágenes localizadas y...
@@ -9571,6 +9729,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Rastro es una plataforma de operaciones de catálogos con IA que ayuda a los distribuidores a enriquecer los datos de productos, cubrir vacíos de contenido, comparar precios y lanzar productos más rápido, principalmente...
   - *Roles adecuados:* Responsable de ventas e-commerce, Vendedor de comercio electrónico, Oficial de gestión de proyectos, Director de operaciones +1 más
 
+- **[Ray 3.2 AI Video Generator](https://www.aimyflow.com/es/ai/ray32-app)**
+  - Usa el generador de video con IA Ray 3.2 para dirigir el video fotograma a fotograma. 16 fotogramas clave, HDR 1080p, clips de 20 segundos, exportación EXR. Créditos iniciales gratis, sin necesidad de tarjeta.
+  - *Roles adecuados:* Cineasta independiente, Diseñador gráfico, Creador de contenido, Director de marketing digital +1 más
+
 - **[rct AI](https://www.aimyflow.com/es/ai/rct-ai)**
   - Ofreciendo soluciones de inteligencia artificial a la industria de los videojuegos
   - *Roles adecuados:* Gerente de desarrollo de software, Ingeniero de software, Cineasta independiente, Creador de contenido +1 más
@@ -9622,6 +9784,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[RealRoots](https://www.aimyflow.com/es/ai/therealroots-com)**
   - RealRoots es un servicio de emparejamiento de amistades que ayuda a mujeres de 21 años en adelante a conocer grupos seleccionados en su ciudad mediante experiencias presenciales guiadas y una serie de seis semanas,...
   - *Roles adecuados:* Coach de bienestar, Gerente de programas sin fines de lucro, Profesor de instituto comunitario, Oficial de gestión de proyectos +1 más
+
+- **[reAPI](https://www.aimyflow.com/es/ai/reapi-ai)**
+  - reAPI es un agregador de API de IA que ofrece a desarrolladores y equipos de ingeniería un único endpoint compatible con OpenAI para acceder a modelos líderes de imagen, video, chat, música y código, con conmutación...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Rebel Audio](https://www.aimyflow.com/es/ai/rebelaudio-ai)**
   - Rebel Audio es una plataforma social de podcasting que ayuda a los podcasters a convertir audio o video en episodios de pódcast, títulos, descripciones, portadas, transcripciones, versiones traducidas y clips para...
@@ -10351,9 +10517,21 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Seedance 2.0 es un generador de video con IA que convierte texto o imágenes en videos cinematográficos con narración de múltiples tomas, generación de audio y controles de edición, principalmente para creadores,...
   - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Vendedor de comercio electrónico +1 más
 
+- **[Seedance 2.0 - Free AI Video Generator](https://www.aimyflow.com/es/ai/seedance2-so)**
+  - Crea videos cinematográficos con IA con Seedance 2.0. Texto a video, imagen a video, audio nativo. El generador de video con IA Seedance 2.0. Gratis para empezar.
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
+
 - **[Seedance 2.0 AI Video Generator](https://www.aimyflow.com/es/ai/seedances-app)**
   - Seedance 2.0 ofrece una revolución en la generación de videos de IA con resolución 2K y soporte de audio nativo. Crea videos cinematográficos a partir de texto o imágenes con entrada multimodal avanzada. Seedance 2...
   - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Cineasta independiente
+
+- **[Seedance 2.0 Mini](https://www.aimyflow.com/es/ai/seedance2mini-ai)**
+  - Seedance 2.0 Mini es un generador de video con IA para crear clips cinematográficos cortos a partir de indicaciones de texto o imágenes, principalmente para creadores y profesionales del marketing que producen...
+  - *Roles adecuados:* Director de marketing digital, Creador de contenido para redes sociales, Creador de contenido, Redactor publicitario +1 más
+
+- **[Seedance 2.0/1.5 Pro](https://www.aimyflow.com/es/ai/xmk-com-seedance)**
+  - Seedance 2.0/1.5 Pro es un generador de video con IA en xmk que ayuda a los usuarios a crear videos cinematográficos a partir de texto, imágenes, audio y referencias de video, principalmente para creadores,...
+  - *Roles adecuados:* Creador de contenido para redes sociales, Director de marketing digital, Productor de pódcast, Cineasta independiente +1 más
 
 - **[Seek](https://www.aimyflow.com/es/ai/seek-ai)**
   - Seek ofrece una potente inteligencia artificial para el análisis de datos. Nuestra interfaz de lenguaje natural para datos te permite hacer preguntas a tus datos en inglés plano y extraer información de datos en tiempo...
@@ -10825,6 +11003,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Songtell es un sitio web impulsado por IA que ayuda a los oyentes de música a descubrir el significado y las historias detrás de las letras de las canciones, principalmente para los fans que quieren comprender sus...
   - *Roles adecuados:* Amante de la música, Creador de contenido, Redactor publicitario, Redactor técnico +1 más
 
+- **[SongUnique](https://www.aimyflow.com/es/ai/songunique-com)**
+  - SongUnique es un servicio personalizado de creación de canciones que transforma la historia, los recuerdos y la ocasión de un cliente en una canción original producida en estudio, principalmente para personas que...
+  - *Roles adecuados:* Creador de contenido, Redactor publicitario, Promotor de conciertos, Amante de la música
+
 - **[Sonia](https://www.aimyflow.com/es/ai/soniahealth-com)**
   - Sonia es una compañera de apoyo emocional con IA que ofrece sesiones de bienestar por voz y texto, meditaciones, diario personal, recomendaciones y ejercicios, creada sobre los marcos de TCC y ACT para personas que...
   - *Roles adecuados:* Coach de bienestar, Administrador sanitario, Gerente de programas sin fines de lucro, Orientador escolar +1 más
@@ -11200,6 +11382,14 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - StylePal es una aplicación de asistente de moda con IA que ayuda a las personas a elegir entre dos atuendos subiendo fotos y recibiendo calificaciones de estilo instantáneas, principalmente para quienes toman...
   - *Roles adecuados:* Diseñador de moda, Creador de contenido, Agente inmobiliario
 
+- **[Submit Your AI Tool to AiToolsObserver](https://www.aimyflow.com/es/ai/aitoolsobserver-com-submit)**
+  - Envía tu herramienta de IA a AiToolsObserver gratis y gana visibilidad mediante contenido editorial, clasificaciones, descubrimiento de IA y listados curados de herramientas.
+  - *Roles adecuados:* Director de marketing digital, Director ejecutivo, Gerente de desarrollo de software, Redactor publicitario +1 más
+
+- **[Subnautica 2 Interactive Map](https://www.aimyflow.com/es/ai/subnautica2map-org)**
+  - El mapa interactivo de Subnautica 2 es un navegador creado por fans que ayuda a los jugadores de Acceso Anticipado a comparar las coordenadas de recursos cercanos a partir de valores XYZ sin procesar. A medida que se...
+  - *Roles adecuados:* Creador de contenido, Redactor técnico, Redactor publicitario, Creador de contenido para redes sociales
+
 - **[Subsets](https://www.aimyflow.com/es/ai/subsets-com)**
   - Subsets es una plataforma de automatización de retención con IA para empresas de suscripción al consumidor que ayuda a los equipos comerciales a predecir audiencias con riesgo de cancelación, ejecutar y analizar...
   - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Científico de datos, Analista financiero +1 más
@@ -11222,6 +11412,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[SUFY](https://www.aimyflow.com/es/ai/sufy-com)**
   - SUFY ofrece CDN y almacenamiento de objetos escalable para entregar contenido más rápido y gestionar activos en la nube con fiabilidad, ideal para desarrolladores, equipos IT y plataformas digitales.
   - *Roles adecuados:* Ingeniero de software, Ingeniero de datos, Científico de datos, Analista de ciberseguridad +6 más
+
+- **[Sulphur 2](https://www.aimyflow.com/es/ai/sulphur2ai-com)**
+  - Sulphur 2 es un modelo de video de IA de pesos abiertos basado en LTX 2.3, ajustado con 125 mil clips. No se necesita GPU. Genera video a partir de texto gratis en tu navegador — pruébalo ahora.
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Diseñador gráfico +1 más
 
 - **[SummaryGenerator.io](https://www.aimyflow.com/es/ai/summarygenerator-io)**
   - SummaryGenerator.io es un resumidor de texto con IA que condensa texto pegado o cargado en resúmenes cortos o largos en formato de párrafo o de viñetas, principalmente para estudiantes, investigadores, escritores y...
@@ -11321,6 +11515,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Supplement Scanner: Amino](https://www.aimyflow.com/es/ai/apps-apple-com-us-app-supplement-scanner-amino-id6744544982)**
   - Supplement Scanner: Amino es una aplicación de salud y fitness para iPhone que ayuda a las personas a escanear, analizar y hacer seguimiento de suplementos en cuanto a la seguridad de sus ingredientes, su eficacia y...
   - *Roles adecuados:* Coach de bienestar, Aficionado a la comida, Administrador sanitario
+
+- **[SupplyWhy](https://www.aimyflow.com/es/ai/supplywhy-ai)**
+  - SupplyWhy es una plataforma de inteligencia de ganancias con IA para equipos de la cadena de suministro automotriz, diseñada para mejorar la rentabilidad, el flujo de caja, la resiliencia y la planificación. Sus...
+  - *Roles adecuados:* Planificador de operaciones logísticas, Supervisor de operaciones de fábrica, Director de operaciones, Director financiero +1 más
 
 - **[Support Flow TAAFT](https://www.aimyflow.com/es/ai/pixiebrix-com-product-support-flow-taaft)**
   - Support Flow TAAFT es un copiloto de IA de PixieBrix que ayuda a los equipos de atención al cliente B2B y de soporte técnico a resolver casos más rápido al mostrar contenido contextual, datos en tiempo real y acciones...
@@ -11817,6 +12015,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Esta página es un artículo de noticias que presenta ocho tendencias de IA para 2025, ayudando a los profesionales de la tecnología y a los responsables de la toma de decisiones empresariales a comprender avances como...
   - *Roles adecuados:* Gerente de desarrollo de software, Director ejecutivo, Gerente de ciberseguridad, Oficial de gestión de proyectos +1 más
 
+- **[This submitted link](https://www.aimyflow.com/es/ai/youtu-be-m8am9-pjszy)**
+  - Este enlace enviado es un video de YouTube de Minika correspondiente al episodio infantil Maceracı Yüzgeçler - 24.Bölüm - Sevimli Mühendisler. Se cataloga como referencia multimedia, no como una página independiente de...
+  - *Roles adecuados:* Creador de contenido, Profesor, Creador de contenido para redes sociales
+
 - **[This tool](https://www.aimyflow.com/es/ai/airemovetextfromimage)**
   - Esta herramienta ayuda a los usuarios a eliminar texto de imágenes en línea con IA, principalmente para diseñadores y editores. Mejora su trabajo automatizando la eliminación de texto.
   - *Roles adecuados:* Diseñador gráfico, Director de marketing digital, Responsable de ventas e-commerce, Ingeniero de software +1 más
@@ -11880,6 +12082,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Thyme, now transitioned to Hazel through a partnership with Altruist,](https://www.aimyflow.com/es/ai/meetthyme-com)**
   - Thyme, ahora transformada en Hazel mediante una alianza con Altruist, es una plataforma de IA para profesionales de gestión patrimonial y asesores financieros que respalda los flujos de trabajo de reuniones, la...
   - *Roles adecuados:* Analista financiero, Director financiero, Gestor de carteras de inversión, Gerente de planificación y análisis financiero +1 más
+
+- **[TI84.io](https://www.aimyflow.com/es/ai/ti84-io)**
+  - TI84.io es un simulador gratuito de calculadora TI-84 basado en navegador que ayuda a los usuarios a graficar funciones y realizar cálculos de álgebra, estadística, matrices y científicos, principalmente para...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Ticketify](https://www.aimyflow.com/es/ai/ticketify-io)**
   - Ticketify es un generador de tickets con IA que convierte ideas o informes de errores en tickets estructurados para Jira, Linear y otras plataformas de gestión de proyectos, principalmente para desarrolladores. En los...
@@ -12095,6 +12301,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[TrendHopper](https://www.aimyflow.com/es/ai/trendhopper-ai)**
   - TrendHopper es una plataforma de automatización de contenido con IA y alojamiento de blogs que ayuda a los usuarios a planificar, generar, optimizar y publicar artículos enfocados en SEO, principalmente para blogueros,...
   - *Roles adecuados:* Director de marketing digital, Redactor publicitario, Creador de contenido para redes sociales, Director ejecutivo +1 más
+
+- **[TrendVis](https://www.aimyflow.com/es/ai/trendvis-com)**
+  - TrendVis ayuda a los equipos DTC a lanzar creatividades más rápido con un flujo de trabajo de 6 pasos: objetivo, asistencia de tendencias, ángulos creativos, prueba de imagen, perfeccionamiento y mejora de video.
+  - *Roles adecuados:* Director de marketing digital, Responsable de ventas e-commerce, Creador de contenido para redes sociales, Redactor publicitario +1 más
 
 - **[Triall](https://www.aimyflow.com/es/ai/triall-ai)**
   - Triall es una herramienta de verificación de respuestas con IA que ayuda a los usuarios a detectar alucinaciones haciendo que tres modelos respondan de forma independiente, se revisen entre sí a ciegas y verifiquen...
@@ -12961,6 +13171,14 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Wallnora es un estudio de arte mural con IA que ayuda a creadores, decoradores y vendedores de Etsy a generar obras en múltiples estilos, previsualizarlas en maquetas de habitaciones con marcos e iluminación, y...
   - *Roles adecuados:* Diseñador de interiores, Vendedor de comercio electrónico, Diseñador gráfico, Creador de contenido +1 más
 
+- **[Wan 2.7 AI Video Generator](https://www.aimyflow.com/es/ai/jxp-com-wan-wan-2-7)**
+  - Wan 2.7 AI Video Generator es una herramienta para convertir prompts, imágenes y referencias en videos cortos, principalmente para creadores, equipos de marca, agencias y educadores. Puede ayudar a los equipos de...
+  - *Roles adecuados:* Creador de contenido, Director de marketing digital, Creador de contenido para redes sociales, Vendedor de comercio electrónico +1 más
+
+- **[Wan 3.0](https://www.aimyflow.com/es/ai/wan3pro-com)**
+  - Wan 3.0 es el próximo modelo de video de código abierto de Alibaba: 60 mil millones de parámetros, salida 4K nativa, generación en una sola pasada de hasta 30 segundos y narrativas automatizadas de múltiples tomas de 2...
+  - *Roles adecuados:* Creador de contenido, Creador de contenido para redes sociales, Director de marketing digital, Diseñador gráfico +1 más
+
 - **[Wan AI](https://www.aimyflow.com/es/ai/wan-video)**
   - Wan AI es una plataforma creativa de IA y un modelo de generación de video que ayuda a creadores, diseñadores y narradores visuales a producir contenido de texto a video, de imagen a video, generación de imágenes,...
   - *Roles adecuados:* Creador de contenido, Diseñador gráfico, Creador de contenido para redes sociales, Director de marketing digital +1 más
@@ -13191,6 +13409,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
   - Wordware es un laboratorio de contexto de IA cuyo producto principal, Sauna, es un espacio de trabajo inteligente y asistente de IA que ayuda a los usuarios a recuperar el trabajo profundo al encargarse de las tareas...
   - *Roles adecuados:* Director ejecutivo, Director de operaciones, Gerente de desarrollo de software, Diseñador gráfico +1 más
 
+- **[Workforce Wave AI Receptionist](https://www.aimyflow.com/es/ai/workforcewave-com-solutions-ai-receptionist)**
+  - Workforce Wave AI Receptionist es un agente telefónico de IA para pequeñas empresas de los sectores médico, dental, legal y de servicios para el hogar, que atiende llamadas, califica prospectos, agenda citas y canaliza...
+  - *Roles adecuados:* Gerente de sucursal, Gerente general de restaurante, Administrador sanitario, Agente inmobiliario +1 más
+
 - **[Workmate](https://www.aimyflow.com/es/ai/workmate-com)**
   - Workmate es un asistente de programación con IA que ayuda a los usuarios a coordinar reuniones, gestionar la disponibilidad, enviar seguimientos y manejar conflictos, principalmente para profesionales ocupados y...
   - *Roles adecuados:* Director ejecutivo, Director de operaciones, Oficial de gestión de proyectos, Gerente de adquisición de talento +1 más
@@ -13281,6 +13503,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[XJoy AI](https://www.aimyflow.com/es/ai/xjoy-ai)**
   - XJoy AI es una herramienta de imágenes con IA que ayuda a los usuarios a animar fotos, generar variaciones de imagen a partir de una sola foto, cambiar atuendos en imágenes de cuerpo completo y crear imágenes de besos...
   - *Roles adecuados:* Creador de contenido para redes sociales, Diseñador gráfico, Creador de contenido, Vendedor de comercio electrónico +1 más
+
+- **[XMACNA](https://www.aimyflow.com/es/ai/xmacna-ai)**
+  - XMACNA ofrece agentes de IA personalizados llamados Empleados Digitales que se conectan a sistemas y ejecutan procesos de ventas, servicio al cliente, operaciones y back office para empresas que adoptan IA. Para los...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Cineasta independiente, Director de marketing digital +1 más
 
 - **[Xpoz](https://www.aimyflow.com/es/ai/xpoz-ai)**
   - Xpoz es un servidor MCP de inteligencia social y un SDK tipado que permite a los agentes de IA y a los desarrolladores buscar y analizar datos en vivo de redes sociales de X, Instagram, TikTok y Reddit mediante...
@@ -13457,6 +13683,10 @@ WisGate es una pasarela de API de IA unificada y un estudio para desarrolladores
 - **[Zoom AI Companion](https://www.aimyflow.com/es/ai/zoom-com-en-ai-assistant)**
   - Zoom AI Companion es un asistente de IA en Zoom Workplace que ayuda a los usuarios a redactar correos electrónicos y mensajes de chat, resumir reuniones e hilos de chat, y apoyar la lluvia de ideas, principalmente para...
   - *Roles adecuados:* Oficial de gestión de proyectos, Gerente de desarrollo de software, Director de operaciones, Gerente de ventas de campo +1 más
+
+- **[ZOOOP](https://www.aimyflow.com/es/ai/zooop-ai)**
+  - Un lienzo infinito conecta todos los principales modelos de IA de imagen, video y audio en una sola escena, o abre una página de generador específica cuando solo necesites una toma. Crea storyboards, itera y publica...
+  - *Roles adecuados:* Diseñador gráfico, Creador de contenido para redes sociales, Director de marketing digital, Creador de contenido +1 más
 
 - **[ZOYO](https://www.aimyflow.com/es/ai/zoyo-ai)**
   - ZOYO es un kit inmobiliario con IA que ayuda a agentes, agencias, propietarios, diseñadores y constructores a crear y mejorar materiales visuales y de marketing para propiedades. En la era de la IA, permite presentar...

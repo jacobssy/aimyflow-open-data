@@ -23,7 +23,7 @@ lang: "en"
 </div>
 
 <div class="stats-grid">
-<div class="stat-card"><strong>3336</strong><span>Tools exported</span></div>
+<div class="stat-card"><strong>3394</strong><span>Tools exported</span></div>
 <div class="stat-card"><strong>221</strong><span>Roles covered</span></div>
 <div class="stat-card"><strong>4</strong><span>Locales</span></div>
 </div>
@@ -75,7 +75,7 @@ lang: "en"
 
 ## About This Site
 
-- Generated at: 2026-05-23T05:55:08.171Z
+- Generated at: 2026-06-19T16:36:42.139Z
 - This GitHub Pages site is the lightweight discovery layer.
 - AimyFlow remains the full destination for complete tool pages, exploration, and multilingual browsing.
 
