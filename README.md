@@ -36,6 +36,7 @@ All links in this README point to AimyFlow tool pages.
 ## Developer and Coding Tools
 
 - [Cursor](https://www.aimyflow.com/en/ai/cursor-com) - AI code editor for writing, understanding, and refactoring codebases.
+- [cursor-bridge](https://github.com/hkc5/cursor-bridge) - Claude Code that runs on your Cursor subscription.
 - [Windsurf](https://www.aimyflow.com/en/ai/codeium-com) - AI-native IDE and coding assistant for generation, fixes, and repo navigation.
 - [n8n](https://www.aimyflow.com/en/ai/n8n-io) - Build automations and AI workflows with visual nodes and code.
 - [ComfyOnline](https://www.aimyflow.com/en/ai/comfyonline-app) - Run ComfyUI workflows online and ship them as APIs.
